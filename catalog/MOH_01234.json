@@ -1,0 +1,64 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "MOH_01234",
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-07-23T09:36:12.662532",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "active",
+  "lifecycleStage": "marketed",
+  "type": "prescription",
+  "category": "antibiotic",
+  "manufacturer": {
+    "name": "Teva Pharmaceuticals",
+    "country": "IL"
+  },
+  "product": {
+    "name": "Amoxicillin 250mg capsule",
+    "form": "capsule",
+    "route": "oral",
+    "site": "mouth",
+    "method": "swallow"
+  },
+  "composition": [
+    {
+      "substance": "Amoxicillin trihydrate",
+      "baseEquivalent": {
+        "substance": "Amoxicillin trihydrate",
+        "value": 250.0,
+        "unit": "mg"
+      }
+    }
+  ],
+  "standardCodes": {
+    "formidable": "FMMOH_01234",
+    "moh": "MOH_01234"
+  },
+  "brand": {
+    "name": "Amoxicillin Teva",
+    "yarpaCode": "YAR132",
+    "pharmasoftCode": "PH5687",
+    "pricing": {
+      "maxWholesalePrice": 8.2,
+      "retailMarginPercent": 35,
+      "maxRetailPrice": 11.07,
+      "maxPriceWithVAT": 12.9519,
+      "currency": "ILS"
+    },
+    "packaging": [
+      {
+        "packageSize": 10,
+        "unit": "capsules"
+      }
+    ]
+  },
+  "dosageGuidelines": [
+    {
+      "route": "oral",
+      "quantity": 1,
+      "frequency": "3 times daily ",
+      "period": "7 days"
+    }
+  ]
+}

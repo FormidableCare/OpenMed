@@ -1,0 +1,55 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "MOH_12345",
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-07-23T09:58:48.097787",
+    "source": "moh_official_data.csv"
+  },
+  "status": "active",
+  "lifecycleStage": "marketed",
+  "type": "prescription",
+  "category": "Antibiotics",
+  "manufacturer": {
+    "name": "Teva Pharmaceuticals",
+    "country": "IL"
+  },
+  "product": {
+    "name": "Amoxicillin 500mg capsule",
+    "form": "capsule",
+    "route": "oral",
+    "site": "mouth",
+    "method": "swallow"
+  },
+  "composition": [
+    {
+      "substance": "Amoxicillin",
+      "baseEquivalent": {
+        "substance": "Amoxicillin",
+        "value": 500.0,
+        "unit": "mg"
+      }
+    }
+  ],
+  "standardCodes": {
+    "formidable": "FMMOH_12345",
+    "moh": "MOH_12345",
+    "yarpa": "YAR123",
+    "pharmasoft": "PH5678"
+  },
+  "brand": {
+    "pricing": {
+      "maxWholesalePrice": 10.5,
+      "retailMarginPercent": 35.0,
+      "maxRetailPrice": 14.18,
+      "maxPriceWithVAT": 16.59,
+      "currency": "ILS"
+    },
+    "packaging": [
+      {
+        "packageSize": 10,
+        "unit": "units"
+      }
+    ]
+  }
+}

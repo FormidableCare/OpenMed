@@ -1,0 +1,64 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "MOH_78901",
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-07-23T09:36:12.662043",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "active",
+  "lifecycleStage": "marketed",
+  "type": "prescription",
+  "category": "statin",
+  "manufacturer": {
+    "name": "Teva Pharmaceuticals",
+    "country": "IL"
+  },
+  "product": {
+    "name": "Atorvastatin 10mg tablet",
+    "form": "tablet",
+    "route": "oral",
+    "site": "mouth",
+    "method": "swallow"
+  },
+  "composition": [
+    {
+      "substance": "Atorvastatin calcium",
+      "baseEquivalent": {
+        "substance": "Atorvastatin calcium",
+        "value": 10.0,
+        "unit": "mg"
+      }
+    }
+  ],
+  "standardCodes": {
+    "formidable": "FMMOH_78901",
+    "moh": "MOH_78901"
+  },
+  "brand": {
+    "name": "Atorvastatin Teva",
+    "yarpaCode": "YAR129",
+    "pharmasoftCode": "PH5684",
+    "pricing": {
+      "maxWholesalePrice": 22.6,
+      "retailMarginPercent": 35,
+      "maxRetailPrice": 30.510000000000005,
+      "maxPriceWithVAT": 35.69670000000001,
+      "currency": "ILS"
+    },
+    "packaging": [
+      {
+        "packageSize": 30,
+        "unit": "tablets"
+      }
+    ]
+  },
+  "dosageGuidelines": [
+    {
+      "route": "oral",
+      "quantity": 1,
+      "frequency": "once daily",
+      "period": "7 days"
+    }
+  ]
+}

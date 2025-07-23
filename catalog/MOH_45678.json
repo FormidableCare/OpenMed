@@ -1,0 +1,55 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "MOH_45678",
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-07-23T09:58:48.098761",
+    "source": "moh_official_data.csv"
+  },
+  "status": "active",
+  "lifecycleStage": "marketed",
+  "type": "prescription",
+  "category": "Proton pump inhibitors",
+  "manufacturer": {
+    "name": "Teva Pharmaceuticals",
+    "country": "IL"
+  },
+  "product": {
+    "name": "Omeprazole 20mg capsule",
+    "form": "capsule",
+    "route": "oral",
+    "site": "mouth",
+    "method": "swallow"
+  },
+  "composition": [
+    {
+      "substance": "Omeprazole",
+      "baseEquivalent": {
+        "substance": "Omeprazole",
+        "value": 20.0,
+        "unit": "mg"
+      }
+    }
+  ],
+  "standardCodes": {
+    "formidable": "FMMOH_45678",
+    "moh": "MOH_45678",
+    "yarpa": "YAR126",
+    "pharmasoft": "PH5681"
+  },
+  "brand": {
+    "pricing": {
+      "maxWholesalePrice": 15.0,
+      "retailMarginPercent": 35.0,
+      "maxRetailPrice": 20.25,
+      "maxPriceWithVAT": 23.69,
+      "currency": "ILS"
+    },
+    "packaging": [
+      {
+        "packageSize": 14,
+        "unit": "units"
+      }
+    ]
+  }
+}

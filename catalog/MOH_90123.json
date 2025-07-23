@@ -1,0 +1,64 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "MOH_90123",
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-07-23T09:36:12.662370",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "active",
+  "lifecycleStage": "marketed",
+  "type": "prescription",
+  "category": "antiplatelet",
+  "manufacturer": {
+    "name": "Teva Pharmaceuticals",
+    "country": "IL"
+  },
+  "product": {
+    "name": "Aspirin 100mg tablet",
+    "form": "tablet",
+    "route": "oral",
+    "site": "mouth",
+    "method": "swallow"
+  },
+  "composition": [
+    {
+      "substance": "Acetylsalicylic acid",
+      "baseEquivalent": {
+        "substance": "Acetylsalicylic acid",
+        "value": 100.0,
+        "unit": "mg"
+      }
+    }
+  ],
+  "standardCodes": {
+    "formidable": "FMMOH_90123",
+    "moh": "MOH_90123"
+  },
+  "brand": {
+    "name": "Aspirin Teva",
+    "yarpaCode": "YAR131",
+    "pharmasoftCode": "PH5686",
+    "pricing": {
+      "maxWholesalePrice": 3.45,
+      "retailMarginPercent": 35,
+      "maxRetailPrice": 4.657500000000001,
+      "maxPriceWithVAT": 5.449275,
+      "currency": "ILS"
+    },
+    "packaging": [
+      {
+        "packageSize": 100,
+        "unit": "tablets"
+      }
+    ]
+  },
+  "dosageGuidelines": [
+    {
+      "route": "oral",
+      "quantity": 1,
+      "frequency": "once daily",
+      "period": "7 days"
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OpenMedMedication",
+  "description": "Schema for OpenMed medication data format",
+  "type": "object",
+  "required": ["resourceType", "id", "meta", "status", "type", "manufacturer", "product", "composition"],
+  "properties": {
+    "resourceType": {
+      "type": "string",
+      "const": "OpenMedMedication",
+      "description": "Resource type identifier"
+    },
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the medication",
+      "pattern": "^[A-Z0-9_-]+$"
+    },
+    "meta": {
+      "type": "object",
+      "required": ["version", "lastUpdated", "source"],
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "Version of the medication record",
+          "pattern": "^[0-9]+\\.[0-9]+(\\.[0-9]+)?$"
+        },
+        "lastUpdated": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp of last update"
+        },
+        "source": {
+          "type": "string",
+          "description": "Source file of the medication data"
+        }
+      },
+      "additionalProperties": false
+    },
+    "status": {
+      "type": "string",
+      "description": "Current status of the medication",
+      "enum": ["active", "expired", "withdrawn", "experimental", "clinical-trial"]
+    },
+    "lifecycleStage": {
+      "type": "string",
+      "description": "Optional fine-grain status",
+      "enum": ["marketed", "discontinued", "pending", "approved", "rejected"]
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of medication",
+      "enum": ["otc", "cannabis", "opioid", "29c", "research", "prescription"]
+    },
+    "category": {
+      "type": "string",
+      "description": "Medication category",
+      "maxLength": 100
+    },
+    "manufacturer": {
+      "type": "object",
+      "required": ["name", "country"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Manufacturer name",
+          "maxLength": 200
+        },
+        "country": {
+          "type": "string",
+          "description": "Country code",
+          "pattern": "^[A-Z]{2}$"
+        }
+      },
+      "additionalProperties": false
+    },
+    "product": {
+      "type": "object",
+      "required": ["name", "form", "route"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Product name",
+          "maxLength": 500
+        },
+        "form": {
+          "type": "string",
+          "description": "Pharmaceutical form",
+          "maxLength": 100
+        },
+        "route": {
+          "type": "string",
+          "description": "Administration route",
+          "enum": ["oral", "intravenous", "intramuscular", "subcutaneous", "topical", "inhalation", "rectal", "vaginal", "ophthalmic", "otic", "nasal", "transdermal"]
+        },
+        "site": {
+          "type": "string",
+          "description": "Administration site",
+          "maxLength": 100
+        },
+        "method": {
+          "type": "string",
+          "description": "Administration method",
+          "maxLength": 100
+        }
+      },
+      "additionalProperties": false
+    },
+    "brand": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Brand name",
+          "maxLength": 200
+        },
+        "yarpaCode": {
+          "type": "string",
+          "description": "Yarpa database code",
+          "maxLength": 50
+        },
+        "pharmasoftCode": {
+          "type": "string",
+          "description": "PharmaSoft database code",
+          "maxLength": 50
+        },
+        "packaging": {
+          "type": "array",
+          "description": "Available packaging options",
+          "items": {
+            "type": "object",
+            "required": ["packageSize", "unit"],
+            "properties": {
+              "packageSize": {
+                "type": "number",
+                "description": "Size of the package"
+              },
+              "unit": {
+                "type": "string",
+                "description": "Unit of measurement"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "pricing": {
+          "type": "object",
+          "properties": {
+            "maxWholesalePrice": {
+              "type": "number",
+              "description": "Maximum wholesale price"
+            },
+            "retailMarginPercent": {
+              "type": "number",
+              "description": "Retail margin percentage"
+            },
+            "maxRetailPrice": {
+              "type": "number",
+              "description": "Maximum retail price"
+            },
+            "maxPriceWithVAT": {
+              "type": "number",
+              "description": "Maximum price including VAT"
+            },
+            "currency": {
+              "type": "string",
+              "description": "Currency code",
+              "pattern": "^[A-Z]{3}$"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "composition": {
+      "type": "array",
+      "description": "Active ingredients and their quantities",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["substance"],
+        "properties": {
+          "substance": {
+            "type": "string",
+            "description": "Active substance name",
+            "maxLength": 200
+          },
+          "baseEquivalent": {
+            "type": "object",
+            "properties": {
+              "substance": {
+                "type": "string",
+                "description": "Base substance name"
+              },
+              "value": {
+                "type": "number",
+                "description": "Equivalent value"
+              },
+              "unit": {
+                "type": "string",
+                "description": "Unit of measurement"
+              }
+            },
+            "additionalProperties": false
+          },
+          "concentration": {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "number",
+                "description": "Concentration value"
+              },
+              "unit": {
+                "type": "string",
+                "description": "Concentration unit"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "dosageGuidelines": {
+      "type": "array",
+      "description": "Recommended dosage guidelines",
+      "items": {
+        "type": "object",
+        "required": ["route", "quantity", "frequency"],
+        "properties": {
+          "route": {
+            "type": "string",
+            "description": "Administration route"
+          },
+          "quantity": {
+            "type": "number",
+            "description": "Dosage quantity"
+          },
+          "frequency": {
+            "type": "string",
+            "description": "Dosage frequency"
+          },
+          "period": {
+            "type": "string",
+            "description": "Treatment period"
+          },
+          "unit": {
+            "type": "string",
+            "description": "Unit of measurement"
+          },
+          "minAge": {
+            "type": "number",
+            "description": "Minimum age for this dosage"
+          },
+          "maxAge": {
+            "type": "number",
+            "description": "Maximum age for this dosage"
+          },
+          "weightMin": {
+            "type": "number",
+            "description": "Minimum weight for this dosage"
+          },
+          "weightMax": {
+            "type": "number",
+            "description": "Maximum weight for this dosage"
+          },
+          "indication": {
+            "type": "string",
+            "description": "Indication for this dosage"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "standardCodes": {
+      "type": "object",
+      "properties": {
+        "atc": {
+          "type": "object",
+          "properties": {
+            "code": {
+              "type": "string",
+              "description": "ATC classification code",
+              "pattern": "^[A-Z][0-9]{2}[A-Z][A-Z][0-9]{2}$"
+            },
+            "description": {
+              "type": "string",
+              "description": "ATC code description"
+            }
+          },
+          "additionalProperties": false
+        },
+        "snomed": {
+          "type": "object",
+          "properties": {
+            "code": {
+              "type": "string",
+              "description": "SNOMED CT code",
+              "pattern": "^[0-9]{6,18}$"
+            },
+            "description": {
+              "type": "string",
+              "description": "SNOMED code description"
+            }
+          },
+          "additionalProperties": false
+        },
+        "formidable": {
+          "type": "string",
+          "description": "Formidable internal code"
+        },
+        "moh": {
+          "type": "string",
+          "description": "Ministry of Health registration number"
+        },
+        "hospital": {
+          "type": "object",
+          "description": "Hospital-specific codes",
+          "properties": {
+            "ichilov": {
+              "type": "string",
+              "description": "Ichilov Hospital code"
+            },
+            "sheba": {
+              "type": "string",
+              "description": "Sheba Medical Center code"
+            }
+          },
+          "additionalProperties": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "alternatives": {
+      "type": "array",
+      "description": "Alternative medication IDs",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z0-9_-]+$"
+      }
+    },
+    "contraindications": {
+      "type": "array",
+      "description": "Contraindications for use",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "sideEffects": {
+      "type": "array",
+      "description": "Common side effects",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "interactions": {
+      "type": "array",
+      "description": "Drug interactions",
+      "items": {
+        "type": "object",
+        "properties": {
+          "drug": {
+            "type": "string",
+            "description": "Interacting drug"
+          },
+          "severity": {
+            "type": "string",
+            "enum": ["Major", "Moderate", "Minor"],
+            "description": "Severity of interaction"
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of interaction"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "pregnancyCategory": {
+      "type": "string",
+      "description": "Pregnancy safety category",
+      "enum": ["A", "B", "C", "D", "X", "Unknown"]
+    },
+    "lactationCategory": {
+      "type": "string",
+      "description": "Lactation safety category",
+      "enum": ["Safe", "Caution", "Avoid", "Unknown"]
+    },
+    "storageConditions": {
+      "type": "array",
+      "description": "Storage conditions",
+      "items": {
+        "type": "string",
+        "enum": ["Room Temperature", "Refrigerated", "Frozen", "Protect from Light", "Keep Dry"]
+      }
+    },
+    "shelfLife": {
+      "type": "string",
+      "description": "Shelf life information",
+      "maxLength": 200
+    },
+    "prescriptionRequired": {
+      "type": "boolean",
+      "description": "Whether prescription is required"
+    },
+    "controlledSubstance": {
+      "type": "boolean",
+      "description": "Whether this is a controlled substance"
+    },
+    "controlledSubstanceLevel": {
+      "type": "string",
+      "description": "Level of controlled substance classification",
+      "enum": ["None", "Level1", "Level2", "Level3"]
+    },
+    "hebrewName": {
+      "type": "string",
+      "description": "Hebrew name of the medication",
+      "maxLength": 500
+    },
+    "arabicName": {
+      "type": "string",
+      "description": "Arabic name of the medication",
+      "maxLength": 500
+    },
+    "genericName": {
+      "type": "string",
+      "description": "Generic name of the medication",
+      "maxLength": 500
+    },
+    "mechanismOfAction": {
+      "type": "string",
+      "description": "Mechanism of action",
+      "maxLength": 1000
+    },
+    "indications": {
+      "type": "array",
+      "description": "Medical indications for use",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "description": "Warnings and precautions",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "precautions": {
+      "type": "array",
+      "description": "Precautions for use",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "monitoring": {
+      "type": "array",
+      "description": "Monitoring requirements",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "laboratoryTests": {
+      "type": "array",
+      "description": "Laboratory tests that may be affected",
+      "items": {
+        "type": "string",
+        "maxLength": 200
+      }
+    },
+    "overdose": {
+      "type": "string",
+      "description": "Overdose information",
+      "maxLength": 1000
+    },
+    "pharmacokinetics": {
+      "type": "object",
+      "description": "Pharmacokinetic information",
+      "properties": {
+        "absorption": {
+          "type": "string",
+          "description": "Absorption information"
+        },
+        "distribution": {
+          "type": "string",
+          "description": "Distribution information"
+        },
+        "metabolism": {
+          "type": "string",
+          "description": "Metabolism information"
+        },
+        "excretion": {
+          "type": "string",
+          "description": "Excretion information"
+        },
+        "halfLife": {
+          "type": "string",
+          "description": "Half-life information"
+        },
+        "bioavailability": {
+          "type": "string",
+          "description": "Bioavailability information"
+        },
+        "proteinBinding": {
+          "type": "string",
+          "description": "Protein binding information"
+        }
+      },
+      "additionalProperties": false
+    },
+    "clinicalTrials": {
+      "type": "array",
+      "description": "Clinical trial information",
+      "items": {
+        "type": "object",
+        "properties": {
+          "trialId": {
+            "type": "string",
+            "description": "Clinical trial identifier"
+          },
+          "phase": {
+            "type": "string",
+            "enum": ["Phase1", "Phase2", "Phase3", "Phase4"],
+            "description": "Trial phase"
+          },
+          "status": {
+            "type": "string",
+            "description": "Trial status"
+          },
+          "results": {
+            "type": "string",
+            "description": "Trial results summary"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "references": {
+      "type": "array",
+      "description": "References and sources",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "Reference type"
+          },
+          "title": {
+            "type": "string",
+            "description": "Reference title"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Reference URL"
+          },
+          "doi": {
+            "type": "string",
+            "description": "Digital Object Identifier"
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 1900,
+            "maximum": 2100
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+} 
