@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8224",
+  "name": "TRASENTAN 62.5MG 60 TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.803437",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRASENTAN 62.5MG 60 TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3864.24438,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4250.668818,
+    "maxPriceWithVAT": 5015.789205,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "5368",
+    "formidable": "FC8224",
+    "moh": "8224"
+  }
+}

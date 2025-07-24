@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6406",
+  "name": "MOZOBIL 20MG/ML SOL FOR INJ 24MG/1.2ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.733316",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MOZOBIL 20MG/ML SOL FOR INJ 24MG/1.2ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11529.2932,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 12682.22252,
+    "maxPriceWithVAT": 14965.02191,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "83844",
+    "pharmasoft": "13691",
+    "formidable": "FC6406",
+    "moh": "6406"
+  }
+}

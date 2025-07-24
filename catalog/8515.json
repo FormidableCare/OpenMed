@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8515",
+  "name": "HUMIRA 20 MG/0.2 ML SOL FOR INJ 2 PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.538625",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMIRA 20 MG/0.2 ML SOL FOR INJ 2 PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1047.45156,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1230.755583,
+    "maxPriceWithVAT": 1452.291523,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "4211",
+    "formidable": "FC8515",
+    "moh": "8515"
+  }
+}

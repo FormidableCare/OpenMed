@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9041",
+  "name": "VYXEOS 100MG / 44MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.359584",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VYXEOS 100MG / 44MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 21301.72625,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 23431.89887,
+    "maxPriceWithVAT": 27649.63944,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "43897",
+    "formidable": "FC9041",
+    "moh": "9041"
+  }
+}

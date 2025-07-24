@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5087",
+  "name": "NUROFEN COLD&FLU 24 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.324781",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקיט בנקיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 24,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NUROFEN COLD&FLU 24 TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 32.85,
+    "maxPriceWithVAT": 38.763,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "14393",
+    "formidable": "FC5087",
+    "moh": "5087"
+  }
+}

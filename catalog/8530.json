@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8530",
+  "name": "PREVYMIS 480 MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.721347",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PREVYMIS 480 MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 34014.87591,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 37416.3635,
+    "maxPriceWithVAT": 44151.30697,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "74622",
+    "formidable": "FC8530",
+    "moh": "8530"
+  }
+}

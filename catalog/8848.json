@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8848",
+  "name": "GLUCOSE 5 % INTRAVENOUS INFUSION BP  VIAFLO 500ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.148768",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GLUCOSE 5 % INTRAVENOUS INFUSION BP  VIAFLO 500ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5.8614651,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 8.030207187,
+    "maxPriceWithVAT": 9.475644059,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "42634",
+    "formidable": "FC8848",
+    "moh": "8848"
+  }
+}

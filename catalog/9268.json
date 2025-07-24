@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9268",
+  "name": "WEGOVY 1.7 MG (2.27 MG/1ML),  (1.7*4) 1 pre-filled pen and 4 disposable NovoFine Plus needles",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.417237",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "WEGOVY 1.7 MG (2.27 MG/1ML),  (1.7*4) 1 pre-filled pen and 4 disposable NovoFine Plus needles"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 677.2842103,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 795.8089471,
+    "maxPriceWithVAT": 939.0545158,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17163",
+    "pharmasoft": "23917",
+    "formidable": "FC9268",
+    "moh": "9268"
+  }
+}

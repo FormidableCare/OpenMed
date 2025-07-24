@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "134",
+  "name": "PROVIRON 25MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.475361",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROVIRON 25MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.2250575,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 38.66832878,
+    "maxPriceWithVAT": 45.62862593,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17912",
+    "pharmasoft": "16827",
+    "formidable": "FC134",
+    "moh": "134"
+  }
+}

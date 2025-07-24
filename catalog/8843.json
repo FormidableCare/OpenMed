@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8843",
+  "name": "ABITREXATE TEVA 50MG/2 ML 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:14.190045",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ABITREXATE TEVA 50MG/2 ML 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 27.37107513,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 37.49837293,
+    "maxPriceWithVAT": 44.24807809,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28807",
+    "pharmasoft": "1935",
+    "formidable": "FC8843",
+    "moh": "8843"
+  }
+}

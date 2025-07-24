@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4197",
+  "name": "THYROGEN 0.9MG/ML 2VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.050085",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "THYROGEN 0.9MG/ML 2VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2492.041823,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2741.246005,
+    "maxPriceWithVAT": 3234.670142,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "24675",
+    "pharmasoft": "20104",
+    "formidable": "FC4197",
+    "moh": "4197"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4808",
+  "name": "ESTELLE 35 21X3TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.763295",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ESTELLE 35 21X3TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 41.082,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 55.25529,
+    "maxPriceWithVAT": 65.2012422,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11997",
+    "pharmasoft": "5408",
+    "formidable": "FC4808",
+    "moh": "4808"
+  }
+}

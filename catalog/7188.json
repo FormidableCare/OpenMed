@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7188",
+  "name": "VIMPAT 150MG 56 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.846327",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VIMPAT 150MG 56 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 335.72,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 394.471,
+    "maxPriceWithVAT": 465.47578,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "46139",
+    "pharmasoft": "22414",
+    "formidable": "FC7188",
+    "moh": "7188"
+  }
+}

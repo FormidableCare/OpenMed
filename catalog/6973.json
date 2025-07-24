@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6973",
+  "name": "E-Z-HD POWDER FOR SUSP 340ML/340G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.669510",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלדן",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 340,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "E-Z-HD POWDER FOR SUSP 340ML/340G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 45.8164416,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 61.62311395,
+    "maxPriceWithVAT": 72.71527123,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC6973",
+    "moh": "6973"
+  }
+}

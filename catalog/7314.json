@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7314",
+  "name": "HALOPER 10MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.712936",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HALOPER 10MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 18.4972,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 25.341164,
+    "maxPriceWithVAT": 29.90257352,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "53285",
+    "pharmasoft": "8033",
+    "formidable": "FC7314",
+    "moh": "7314"
+  }
+}

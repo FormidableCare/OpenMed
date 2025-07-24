@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3108",
+  "name": "RETROVIR 250MG 40CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.191156",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 40,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RETROVIR 250MG 40CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 319.985106,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 375.9824996,
+    "maxPriceWithVAT": 443.6593297,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9228",
+    "pharmasoft": "18097",
+    "formidable": "FC3108",
+    "moh": "3108"
+  }
+}

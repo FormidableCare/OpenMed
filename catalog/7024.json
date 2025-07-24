@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7024",
+  "name": "MENOPUR MULTIDOSE 1200 IU 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.290400",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרינג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MENOPUR MULTIDOSE 1200 IU 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1249.7135,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1468.413363,
+    "maxPriceWithVAT": 1732.727691,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33836",
+    "pharmasoft": "13697",
+    "formidable": "FC7024",
+    "moh": "7024"
+  }
+}

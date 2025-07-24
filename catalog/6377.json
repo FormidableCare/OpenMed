@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6377",
+  "name": "SPRYCEL 20 MG  60 FILM COATED TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.705957",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ב.מ.ס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPRYCEL 20 MG  60 FILM COATED TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3381.524631,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3719.677094,
+    "maxPriceWithVAT": 4389.218971,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "81977",
+    "pharmasoft": "19870",
+    "formidable": "FC6377",
+    "moh": "6377"
+  }
+}

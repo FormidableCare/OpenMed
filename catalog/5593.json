@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5593",
+  "name": "KALGARON ORANGE 24 LOZENGES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.662024",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 24,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALGARON ORANGE 24 LOZENGES"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 25.95,
+    "maxPriceWithVAT": 30.621,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5593",
+    "moh": "5593"
+  }
+}

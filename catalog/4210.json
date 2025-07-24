@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4210",
+  "name": "ZIAGEN 300MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.404832",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZIAGEN 300MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 590.918328,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 694.3290354,
+    "maxPriceWithVAT": 819.3082254,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17666",
+    "pharmasoft": "26088",
+    "formidable": "FC4210",
+    "moh": "4210"
+  }
+}

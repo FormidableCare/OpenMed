@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6899",
+  "name": "ZENALB 4.5% SOLUTION 500ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.347784",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "קמהדע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 500,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZENALB 4.5% SOLUTION 500ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 292.8561,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 344.1059175,
+    "maxPriceWithVAT": 406.0449646,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "87778",
+    "formidable": "FC6899",
+    "moh": "6899"
+  }
+}

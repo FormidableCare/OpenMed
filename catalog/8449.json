@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8449",
+  "name": "AIMOVIG  70MG   1 PREFILLED PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:16.438973",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AIMOVIG  70MG   1 PREFILLED PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1438.193149,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1689.87695,
+    "maxPriceWithVAT": 1994.054713,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "24690",
+    "pharmasoft": "10373",
+    "formidable": "FC8449",
+    "moh": "8449"
+  }
+}

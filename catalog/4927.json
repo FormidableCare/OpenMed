@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4927",
+  "name": "EXJADE 500MG 28 DISPERS TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.324798",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EXJADE 500MG 28 DISPERS TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2678.93164,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2946.824804,
+    "maxPriceWithVAT": 3477.253269,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "67381",
+    "pharmasoft": "5425",
+    "formidable": "FC4927",
+    "moh": "4927"
+  }
+}

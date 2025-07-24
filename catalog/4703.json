@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4703",
+  "name": "DAIVOBET OINT 30GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:33.823727",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DAIVOBET OINT 30GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 40.9253085,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 55.04453993,
+    "maxPriceWithVAT": 64.95255423,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59736",
+    "pharmasoft": "4460",
+    "formidable": "FC4703",
+    "moh": "4703"
+  }
+}

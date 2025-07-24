@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8267",
+  "name": "REMIFENTANIL  1MG  5VIAL 3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.738596",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REMIFENTANIL  1MG  5VIAL 3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 55.8364,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 75.099958,
+    "maxPriceWithVAT": 88.61795044,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20080",
+    "formidable": "FC8267",
+    "moh": "8267"
+  }
+}

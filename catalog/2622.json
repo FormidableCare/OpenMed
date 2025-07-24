@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2622",
+  "name": "FUCITHALMIC VISCOUS EYE DROPS 5GR (GEL)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.167742",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FUCITHALMIC VISCOUS EYE DROPS 5GR (GEL)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.2277905,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 38.67207299,
+    "maxPriceWithVAT": 45.63304409,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8638",
+    "pharmasoft": "6010",
+    "formidable": "FC2622",
+    "moh": "2622"
+  }
+}

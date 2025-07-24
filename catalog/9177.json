@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9177",
+  "name": "DASATINIB TEVA 70 MG 60 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:34.415235",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DASATINIB TEVA 70 MG 60 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5101.224433,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5611.346876,
+    "maxPriceWithVAT": 6621.389314,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "37154",
+    "formidable": "FC9177",
+    "moh": "9177"
+  }
+}

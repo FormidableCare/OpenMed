@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9064",
+  "name": "ARSENIC TRIOXIDE S.K.1 MG/ML 10 VIAL 10ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.135729",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ARSENIC TRIOXIDE S.K.1 MG/ML 10 VIAL 10ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15041.26525,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 16545.39177,
+    "maxPriceWithVAT": 19523.56142,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70644",
+    "pharmasoft": "17390",
+    "formidable": "FC9064",
+    "moh": "9064"
+  }
+}

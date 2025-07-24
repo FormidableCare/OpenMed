@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8179",
+  "name": "ETORICOXIB DEXCEL 30 MG 28 tabs",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:42.195867",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ETORICOXIB DEXCEL 30 MG 28 tabs"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 31.32108,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 42.9098796,
+    "maxPriceWithVAT": 50.63365793,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "74261",
+    "pharmasoft": "5627",
+    "formidable": "FC8179",
+    "moh": "8179"
+  }
+}

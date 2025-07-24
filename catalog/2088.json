@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2088",
+  "name": "PERPHENAN 8MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.281676",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PERPHENAN 8MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15.0246675,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.58379448,
+    "maxPriceWithVAT": 24.2888764,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1682",
+    "pharmasoft": "16120",
+    "formidable": "FC2088",
+    "moh": "2088"
+  }
+}

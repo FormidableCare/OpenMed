@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6678",
+  "name": "BRILINTA 90MG 56TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:25.172035",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BRILINTA 90MG 56TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 175.9030836,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 219.8788545,
+    "maxPriceWithVAT": 259.4570368,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "15216",
+    "pharmasoft": "2523",
+    "formidable": "FC6678",
+    "moh": "6678"
+  }
+}

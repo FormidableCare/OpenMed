@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8867",
+  "name": "RASAGILINE INOVAMED 1MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.271407",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אינובמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RASAGILINE INOVAMED 1MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 212.4495,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 249.6281625,
+    "maxPriceWithVAT": 294.5612318,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2920",
+    "pharmasoft": "18667",
+    "formidable": "FC8867",
+    "moh": "8867"
+  }
+}

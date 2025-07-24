@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1754",
+  "name": "DOXYLIN 100MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:37.450103",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DOXYLIN 100MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7.432,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 10.18184,
+    "maxPriceWithVAT": 12.0145712,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "727",
+    "pharmasoft": "4173",
+    "formidable": "FC1754",
+    "moh": "1754"
+  }
+}

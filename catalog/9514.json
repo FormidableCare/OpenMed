@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9514",
+  "name": "DOCETAXEL VENUS PHARMA 20 MG/ML 1VIAL 8ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:36.932905",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טרוסטפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DOCETAXEL VENUS PHARMA 20 MG/ML 1VIAL 8ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1694.5044,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1991.04267,
+    "maxPriceWithVAT": 2349.430351,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "37266",
+    "formidable": "FC9514",
+    "moh": "9514"
+  }
+}

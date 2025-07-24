@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8407",
+  "name": "AZADINE 100 MG/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:21.743806",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AZADINE 100 MG/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1291.000758,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1516.925891,
+    "maxPriceWithVAT": 1789.972551,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "38473",
+    "pharmasoft": "10459",
+    "formidable": "FC8407",
+    "moh": "8407"
+  }
+}

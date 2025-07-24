@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4748",
+  "name": "SINGULAIR 4MG 28SACHETS GRANULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.585675",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SINGULAIR 4MG 28SACHETS GRANULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 43.0026618,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 57.83858012,
+    "maxPriceWithVAT": 68.24952151,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11252",
+    "pharmasoft": "19723",
+    "formidable": "FC4748",
+    "moh": "4748"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8687",
+  "name": "INSTILLAGEL 10 SYR *11ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.626565",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרופארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "INSTILLAGEL 10 SYR *11ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 85.0,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 114.325,
+    "maxPriceWithVAT": 134.9035,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "36796",
+    "formidable": "FC8687",
+    "moh": "8687"
+  }
+}

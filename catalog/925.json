@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "925",
+  "name": "HYDERGIN 1.5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:27.432937",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HYDERGIN 1.5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC925",
+    "moh": "925"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6026",
+  "name": "CONTROLOC I.V.  40MG/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.322697",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טקדה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CONTROLOC I.V.  40MG/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.7973,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.272301,
+    "maxPriceWithVAT": 23.92131518,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22893",
+    "pharmasoft": "3928",
+    "formidable": "FC6026",
+    "moh": "6026"
+  }
+}

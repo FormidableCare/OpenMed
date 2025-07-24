@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7485",
+  "name": "MENACTRA VIAL 4MCG/0.5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.254923",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MENACTRA VIAL 4MCG/0.5ML"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "69341",
+    "pharmasoft": "13776",
+    "formidable": "FC7485",
+    "moh": "7485"
+  }
+}

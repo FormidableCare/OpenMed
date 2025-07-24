@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2913",
+  "name": "SILVEROL CREAM 50GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.341226",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SILVEROL CREAM 50GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.1523,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 19.388651,
+    "maxPriceWithVAT": 22.87860818,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9056",
+    "pharmasoft": "19069",
+    "formidable": "FC2913",
+    "moh": "2913"
+  }
+}

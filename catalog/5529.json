@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5529",
+  "name": "FLIXONASE AQUEOUS NASAL SPRAY 120 doses",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.158950",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLIXONASE AQUEOUS NASAL SPRAY 120 doses"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 40.17,
+    "maxPriceWithVAT": 47.4006,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5529",
+    "moh": "5529"
+  }
+}

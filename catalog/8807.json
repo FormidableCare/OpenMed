@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8807",
+  "name": "REMSIMA 120 MG/ML 2 PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.865781",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REMSIMA 120 MG/ML 2 PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2012.308352,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2213.539188,
+    "maxPriceWithVAT": 2611.976125,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "81856",
+    "pharmasoft": "18660",
+    "formidable": "FC8807",
+    "moh": "8807"
+  }
+}

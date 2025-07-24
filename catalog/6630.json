@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6630",
+  "name": "HUMALOG KWIKPEN 100U/ML 5X3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.363896",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMALOG KWIKPEN 100U/ML 5X3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 124.9056158,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 156.1320197,
+    "maxPriceWithVAT": 184.235775,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "18784",
+    "pharmasoft": "9389",
+    "formidable": "FC6630",
+    "moh": "6630"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7122",
+  "name": "SIGNIFOR 0.9MG/1ML 60AMP (1ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.231391",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SIGNIFOR 0.9MG/1ML 60AMP (1ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14636.59436,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 16100.25379,
+    "maxPriceWithVAT": 18998.29863,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "48814",
+    "pharmasoft": "9690",
+    "formidable": "FC7122",
+    "moh": "7122"
+  }
+}

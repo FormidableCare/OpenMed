@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6918",
+  "name": "FAMPYRA 10MG 56 P.R.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.786008",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FAMPYRA 10MG 56 P.R.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 546.4706499,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 642.1030136,
+    "maxPriceWithVAT": 757.681556,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20557",
+    "pharmasoft": "6472",
+    "formidable": "FC6918",
+    "moh": "6918"
+  }
+}

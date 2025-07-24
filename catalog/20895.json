@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "20895",
+  "name": "SULFASALAZINE 250MG/5ML ROSEMONT UK ORAL SUSPENSION BOTTLE 500ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:28.050262",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 500,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SULFASALAZINE 250MG/5ML ROSEMONT UK ORAL SUSPENSION BOTTLE 500ML"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC20895",
+    "moh": "20895"
+  }
+}

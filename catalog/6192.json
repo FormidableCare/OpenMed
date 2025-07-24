@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6192",
+  "name": "TYKERB 250 MG 70 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.475643",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 70,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TYKERB 250 MG 70 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3111.740407,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3422.914448,
+    "maxPriceWithVAT": 4039.038869,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "78015",
+    "pharmasoft": "20666",
+    "formidable": "FC6192",
+    "moh": "6192"
+  }
+}

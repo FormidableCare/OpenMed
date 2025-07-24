@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9480",
+  "name": "OMVOH 300 MG/15 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:04.904944",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OMVOH 300 MG/15 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5241.743685,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5765.918054,
+    "maxPriceWithVAT": 6803.783001,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22154",
+    "pharmasoft": "15572",
+    "formidable": "FC9480",
+    "moh": "9480"
+  }
+}

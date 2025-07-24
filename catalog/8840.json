@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8840",
+  "name": "AZITHRO TEVA 200 MG / 5 ML 15 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:21.942595",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AZITHRO TEVA 200 MG / 5 ML 15 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.8513,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.346281,
+    "maxPriceWithVAT": 24.00861158,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "15244",
+    "formidable": "FC8840",
+    "moh": "8840"
+  }
+}

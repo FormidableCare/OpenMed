@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2862",
+  "name": "INS.ACTRAPID HM 5  PENFILL*3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.523438",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "INS.ACTRAPID HM 5  PENFILL*3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 81.01784345,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 108.9689994,
+    "maxPriceWithVAT": 128.5834136,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8613",
+    "pharmasoft": "9016",
+    "formidable": "FC2862",
+    "moh": "2862"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7976",
+  "name": "EPCLUSA 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.270619",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "גיליאד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPCLUSA 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 31948.93835,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 35143.83219,
+    "maxPriceWithVAT": 41469.72014,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62097",
+    "pharmasoft": "5615",
+    "formidable": "FC7976",
+    "moh": "7976"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8772",
+  "name": "ILUMYA 1 PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.605180",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ILUMYA 1 PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10332.54392,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11365.79831,
+    "maxPriceWithVAT": 13411.64141,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "72977",
+    "formidable": "FC8772",
+    "moh": "8772"
+  }
+}

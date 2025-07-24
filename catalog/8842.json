@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8842",
+  "name": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML 5 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.055220",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML 5 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 100.1009078,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 125.1261347,
+    "maxPriceWithVAT": 147.6488324,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "27195",
+    "formidable": "FC8842",
+    "moh": "8842"
+  }
+}

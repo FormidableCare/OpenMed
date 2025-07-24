@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5216",
+  "name": "VITA-MERFEN OINT 40GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.412832",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "מדיטרנד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 40,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VITA-MERFEN OINT 40GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 43.28,
+    "maxPriceWithVAT": 51.0704,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "22295",
+    "formidable": "FC5216",
+    "moh": "5216"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8154",
+  "name": "HYQVIA 1vial normal  10g/100ml + 1vial recombinant 5ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.927966",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טקדה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HYQVIA 1vial normal  10g/100ml + 1vial recombinant 5ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2622.872463,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2885.159709,
+    "maxPriceWithVAT": 3404.488306,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59754",
+    "pharmasoft": "8472",
+    "formidable": "FC8154",
+    "moh": "8154"
+  }
+}

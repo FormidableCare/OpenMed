@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9244",
+  "name": "RETEVMO 80 MG 60 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.177678",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RETEVMO 80 MG 60 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 16516.41816,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 18168.05997,
+    "maxPriceWithVAT": 21438.30981,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28957",
+    "pharmasoft": "18720",
+    "formidable": "FC9244",
+    "moh": "9244"
+  }
+}

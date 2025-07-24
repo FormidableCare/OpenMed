@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5409",
+  "name": "NUROFEN QUICK 256 MG 24 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.414525",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקיט בנקיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 24,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NUROFEN QUICK 256 MG 24 TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 27.68,
+    "maxPriceWithVAT": 32.6624,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "14544",
+    "formidable": "FC5409",
+    "moh": "5409"
+  }
+}

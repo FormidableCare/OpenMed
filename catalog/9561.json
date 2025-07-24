@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9561",
+  "name": "TIGECYCLINE S.K. 50MG/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.100783",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TIGECYCLINE S.K. 50MG/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1107.471602,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1301.279132,
+    "maxPriceWithVAT": 1535.509308,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9561",
+    "moh": "9561"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9422",
+  "name": "EUTHYROX 25 MCG 100 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:42.526925",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EUTHYROX 25 MCG 100 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.0,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 17.81,
+    "maxPriceWithVAT": 21.01579907,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10934",
+    "pharmasoft": "5749",
+    "formidable": "FC9422",
+    "moh": "9422"
+  }
+}

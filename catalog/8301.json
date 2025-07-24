@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8301",
+  "name": "ERLEADA 60MG  120 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.219528",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ERLEADA 60MG  120 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10162.3792,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11178.61712,
+    "maxPriceWithVAT": 13190.76761,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26049",
+    "pharmasoft": "2647",
+    "formidable": "FC8301",
+    "moh": "8301"
+  }
+}

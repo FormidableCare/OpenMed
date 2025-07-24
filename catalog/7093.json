@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7093",
+  "name": "ACTOS 45MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:15.257619",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACTOS 45MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 102.3742305,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 127.9677881,
+    "maxPriceWithVAT": 151.0019832,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33619",
+    "pharmasoft": "9528",
+    "formidable": "FC7093",
+    "moh": "7093"
+  }
+}

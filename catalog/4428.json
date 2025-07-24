@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4428",
+  "name": "EPREX/PROTECS 6000 IU/0.6ML 6SYRINGES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.959588",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 6,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPREX/PROTECS 6000 IU/0.6ML 6SYRINGES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1005.1386,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1181.037855,
+    "maxPriceWithVAT": 1393.624669,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86983",
+    "pharmasoft": "5460",
+    "formidable": "FC4428",
+    "moh": "4428"
+  }
+}

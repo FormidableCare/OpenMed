@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "481",
+  "name": "PLAQUENIL 200MG 100TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.830719",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PLAQUENIL 200MG 100TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 40.25709,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 54.14578605,
+    "maxPriceWithVAT": 63.8920247,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1720",
+    "pharmasoft": "16018",
+    "formidable": "FC481",
+    "moh": "481"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2726",
+  "name": "CICLODERM  CREAM 15GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.816385",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CICLODERM  CREAM 15GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7.76,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 10.6312,
+    "maxPriceWithVAT": 12.544816,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8819",
+    "pharmasoft": "3024",
+    "formidable": "FC2726",
+    "moh": "2726"
+  }
+}

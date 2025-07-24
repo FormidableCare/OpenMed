@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9089",
+  "name": "VERQUVO 5 MG 14 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.367075",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 14,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VERQUVO 5 MG 14 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 160.0461198,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 200.0576498,
+    "maxPriceWithVAT": 236.0680162,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "14335",
+    "formidable": "FC9089",
+    "moh": "9089"
+  }
+}

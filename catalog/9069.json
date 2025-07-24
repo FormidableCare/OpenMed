@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9069",
+  "name": "ELOCTA 1000 IU",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.947459",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ELOCTA 1000 IU"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1898.839576,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2088.723534,
+    "maxPriceWithVAT": 2464.693661,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9069",
+    "moh": "9069"
+  }
+}

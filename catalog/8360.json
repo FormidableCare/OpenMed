@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8360",
+  "name": "BRINAVESS 20 MG/ML 1 VIAL 10ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:25.204112",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BRINAVESS 20 MG/ML 1 VIAL 10ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 594.5232138,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 698.5647763,
+    "maxPriceWithVAT": 824.3063993,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8360",
+    "moh": "8360"
+  }
+}

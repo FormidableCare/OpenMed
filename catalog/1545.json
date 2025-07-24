@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1545",
+  "name": "FERROCAL 500MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.119046",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERROCAL 500MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 20.81,
+    "maxPriceWithVAT": 24.5558,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "6019",
+    "formidable": "FC1545",
+    "moh": "1545"
+  }
+}

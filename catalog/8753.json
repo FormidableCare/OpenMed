@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8753",
+  "name": "CRYSVITA 20 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:33.193259",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CRYSVITA 20 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19626.75404,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 21589.42944,
+    "maxPriceWithVAT": 25475.52561,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "25967",
+    "pharmasoft": "10383",
+    "formidable": "FC8753",
+    "moh": "8753"
+  }
+}

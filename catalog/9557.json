@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9557",
+  "name": "EYLEA 8 MG, 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.461461",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EYLEA 8 MG, 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3365.566515,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3702.123167,
+    "maxPriceWithVAT": 4368.505142,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9557",
+    "moh": "9557"
+  }
+}

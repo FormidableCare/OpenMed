@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8538",
+  "name": "SITAGLIPTIN 50 MG 10 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.687169",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SITAGLIPTIN 50 MG 10 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 26.7216411,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 36.60864831,
+    "maxPriceWithVAT": 43.198205,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8538",
+    "moh": "8538"
+  }
+}

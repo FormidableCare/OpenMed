@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5555",
+  "name": "PARAMOL 500MG 50 CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.559178",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ליף-דקסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PARAMOL 500MG 50 CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 23.93,
+    "maxPriceWithVAT": 28.2374,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5555",
+    "moh": "5555"
+  }
+}

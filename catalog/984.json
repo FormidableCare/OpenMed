@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "984",
+  "name": "ENGERIX B 20MCG/ML ADULT VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.774649",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ENGERIX B 20MCG/ML ADULT VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 56.74821677,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 76.32635155,
+    "maxPriceWithVAT": 90.06509083,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "75231",
+    "pharmasoft": "5442",
+    "formidable": "FC984",
+    "moh": "984"
+  }
+}

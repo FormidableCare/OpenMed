@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6647",
+  "name": "KALETRA 100MG/25MG  60 F.C TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.934767",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALETRA 100MG/25MG  60 F.C TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 339.8239654,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 399.2931593,
+    "maxPriceWithVAT": 471.1659071,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "4874",
+    "pharmasoft": "11218",
+    "formidable": "FC6647",
+    "moh": "6647"
+  }
+}

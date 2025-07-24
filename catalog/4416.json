@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4416",
+  "name": "TEVADERM 15GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.938696",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEVADERM 15GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11.2,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 15.344,
+    "maxPriceWithVAT": 18.10592,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "4496",
+    "pharmasoft": "20326",
+    "formidable": "FC4416",
+    "moh": "4416"
+  }
+}

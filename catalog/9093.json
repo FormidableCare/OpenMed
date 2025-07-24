@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9093",
+  "name": "RUXIENCE 100MG/10ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.215604",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RUXIENCE 100MG/10ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 645.2112831,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 758.1232576,
+    "maxPriceWithVAT": 894.5854042,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "87035",
+    "formidable": "FC9093",
+    "moh": "9093"
+  }
+}

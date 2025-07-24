@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8633",
+  "name": "LORVIQUA 100 MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:57.619146",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LORVIQUA 100 MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15928.45185,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 17521.29704,
+    "maxPriceWithVAT": 20675.12959,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "551",
+    "formidable": "FC8633",
+    "moh": "8633"
+  }
+}

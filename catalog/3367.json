@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3367",
+  "name": "TRICAN 200MG 7CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.109486",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 7,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRICAN 200MG 7CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 96.3525,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 120.440625,
+    "maxPriceWithVAT": 142.1199375,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89715",
+    "pharmasoft": "20640",
+    "formidable": "FC3367",
+    "moh": "3367"
+  }
+}

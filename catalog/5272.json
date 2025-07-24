@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5272",
+  "name": "GAVISCON LIQUID PEPPERMINT 300ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.260109",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקיט בנקיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 300,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GAVISCON LIQUID PEPPERMINT 300ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 31.78,
+    "maxPriceWithVAT": 37.5004,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "7849",
+    "formidable": "FC5272",
+    "moh": "5272"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8711",
+  "name": "NEXOBRID 2 G POWDER AND 20 G GEL  VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.695525",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיוונד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NEXOBRID 2 G POWDER AND 20 G GEL  VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1706.498865,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 2005.136166,
+    "maxPriceWithVAT": 2366.060571,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8711",
+    "moh": "8711"
+  }
+}

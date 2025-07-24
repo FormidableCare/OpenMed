@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8966",
+  "name": "AKYNZEO 4 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:16.735645",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AKYNZEO 4 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 880.914732,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1035.07481,
+    "maxPriceWithVAT": 1221.388222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "21585",
+    "pharmasoft": "10856",
+    "formidable": "FC8966",
+    "moh": "8966"
+  }
+}

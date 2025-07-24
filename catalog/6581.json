@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6581",
+  "name": "SAYANA 104MG/0.65ML SYRINGE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.650388",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SAYANA 104MG/0.65ML SYRINGE"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 59.863255,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 80.51607798,
+    "maxPriceWithVAT": 95.00896779,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "23645",
+    "pharmasoft": "19931",
+    "formidable": "FC6581",
+    "moh": "6581"
+  }
+}

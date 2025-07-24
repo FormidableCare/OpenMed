@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8636",
+  "name": "REXULTI ® 2 MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.456603",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לנדבק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REXULTI ® 2 MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 328.68,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 386.199,
+    "maxPriceWithVAT": 455.7147997,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59879",
+    "pharmasoft": "18626",
+    "formidable": "FC8636",
+    "moh": "8636"
+  }
+}

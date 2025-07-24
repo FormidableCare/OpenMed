@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9547",
+  "name": "ATOMIC ORAL SOLUTION, 4MG/ML, 3x100ML bottles",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.658584",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ATOMIC ORAL SOLUTION, 4MG/ML, 3x100ML bottles"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 273.16206,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 320.9654205,
+    "maxPriceWithVAT": 378.7391794,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "66456",
+    "formidable": "FC9547",
+    "moh": "9547"
+  }
+}

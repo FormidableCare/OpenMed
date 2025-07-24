@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6014",
+  "name": "ZEMPLAR 5MCG/ML 5AMPX1ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.326625",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZEMPLAR 5MCG/ML 5AMPX1ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 218.166375,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 256.3454906,
+    "maxPriceWithVAT": 302.4876789,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "71202",
+    "pharmasoft": "26147",
+    "formidable": "FC6014",
+    "moh": "6014"
+  }
+}

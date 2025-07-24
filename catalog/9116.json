@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9116",
+  "name": "TAKHZYRO 300 MG/2 ML 2 PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.086136",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טקדה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TAKHZYRO 300 MG/2 ML 2 PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 101576.5091,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 111734.16,
+    "maxPriceWithVAT": 131846.303,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86372",
+    "formidable": "FC9116",
+    "moh": "9116"
+  }
+}

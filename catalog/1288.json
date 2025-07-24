@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1288",
+  "name": "ASACOL 400MG 100TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.165715",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טרדיס גת",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ASACOL 400MG 100TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 103.7288527,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 129.6610658,
+    "maxPriceWithVAT": 153.0000509,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7858",
+    "pharmasoft": "1816",
+    "formidable": "FC1288",
+    "moh": "1288"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6884",
+  "name": "GLASSIA 1G/50ML 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.768000",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "קמהדע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GLASSIA 1G/50ML 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1251.807458,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1470.873763,
+    "maxPriceWithVAT": 1735.630963,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "19644",
+    "pharmasoft": "81518",
+    "formidable": "FC6884",
+    "moh": "6884"
+  }
+}

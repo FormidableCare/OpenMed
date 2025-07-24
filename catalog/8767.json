@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8767",
+  "name": "EPIDIOLEX 100MG/ML 100ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.371640",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPIDIOLEX 100MG/ML 100ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4197.081765,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4616.789942,
+    "maxPriceWithVAT": 5447.811889,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70073",
+    "pharmasoft": "5685",
+    "formidable": "FC8767",
+    "moh": "8767"
+  }
+}

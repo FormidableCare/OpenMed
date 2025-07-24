@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3730",
+  "name": "ZINNAT 250MG/5ML  SUSP 50ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.466122",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZINNAT 250MG/5ML  SUSP 50ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.2985,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 16.848945,
+    "maxPriceWithVAT": 19.88175422,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "36714",
+    "pharmasoft": "26086",
+    "formidable": "FC3730",
+    "moh": "3730"
+  }
+}

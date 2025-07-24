@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4400",
+  "name": "YASMIN  1X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.055384",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "YASMIN  1X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 21.3468591,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 29.24519697,
+    "maxPriceWithVAT": 34.50933089,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3913",
+    "pharmasoft": "25004",
+    "formidable": "FC4400",
+    "moh": "4400"
+  }
+}

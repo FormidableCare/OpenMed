@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4982",
+  "name": "CONCERTA 27MG XR 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.015810",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CONCERTA 27MG XR 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 108.5568,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 135.696,
+    "maxPriceWithVAT": 160.12128,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "69989",
+    "pharmasoft": "3858",
+    "formidable": "FC4982",
+    "moh": "4982"
+  }
+}

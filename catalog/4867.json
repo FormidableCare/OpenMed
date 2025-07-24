@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4867",
+  "name": "VIGAMOX OPHT SOL 5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.783003",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VIGAMOX OPHT SOL 5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 29.73435675,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 40.73606875,
+    "maxPriceWithVAT": 48.06855899,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "65019",
+    "pharmasoft": "22263",
+    "formidable": "FC4867",
+    "moh": "4867"
+  }
+}

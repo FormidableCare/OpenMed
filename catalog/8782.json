@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8782",
+  "name": "PADCEV 20 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:06.042912",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PADCEV 20 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2346.110917,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2580.722009,
+    "maxPriceWithVAT": 3045.251835,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "43087",
+    "pharmasoft": "23223",
+    "formidable": "FC8782",
+    "moh": "8782"
+  }
+}

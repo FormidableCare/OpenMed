@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1824",
+  "name": "POLYDINE OINT 50GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.706721",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פישר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "POLYDINE OINT 50GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 17.09,
+    "maxPriceWithVAT": 20.1662,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "16527",
+    "formidable": "FC1824",
+    "moh": "1824"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3070",
+  "name": "ELOCOM CREAM TUBE 15GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.871634",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ELOCOM CREAM TUBE 15GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7.224,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 9.89688,
+    "maxPriceWithVAT": 11.67831788,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9194",
+    "pharmasoft": "5054",
+    "formidable": "FC3070",
+    "moh": "3070"
+  }
+}

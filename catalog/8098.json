@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8098",
+  "name": "TADAM 20 MG 4 \tFILM COATED TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.997109",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TADAM 20 MG 4 \tFILM COATED TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 154.6221,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 193.277625,
+    "maxPriceWithVAT": 228.0675975,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62138",
+    "pharmasoft": "20826",
+    "formidable": "FC8098",
+    "moh": "8098"
+  }
+}

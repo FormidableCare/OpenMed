@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7317",
+  "name": "RONEXINE 25MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.757866",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RONEXINE 25MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.955,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 17.74835,
+    "maxPriceWithVAT": 20.94305207,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "25182",
+    "pharmasoft": "18378",
+    "formidable": "FC7317",
+    "moh": "7317"
+  }
+}

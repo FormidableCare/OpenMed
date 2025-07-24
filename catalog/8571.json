@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8571",
+  "name": "VITAMINE B12 STEROP 1 MG/ML 10 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.956969",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רז פרמהצפטי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VITAMINE B12 STEROP 1 MG/ML 10 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 24.784,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 33.95408,
+    "maxPriceWithVAT": 40.0658144,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3334",
+    "pharmasoft": "2734",
+    "formidable": "FC8571",
+    "moh": "8571"
+  }
+}

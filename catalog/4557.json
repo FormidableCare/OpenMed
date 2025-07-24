@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4557",
+  "name": "RHINOLAST SPRAY 0.1% 10ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.515994",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RHINOLAST SPRAY 0.1% 10ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19.5860445,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 26.83288097,
+    "maxPriceWithVAT": 31.66279813,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "51962",
+    "pharmasoft": "18311",
+    "formidable": "FC4557",
+    "moh": "4557"
+  }
+}

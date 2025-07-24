@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8452",
+  "name": "LEVOFLOX 5 MG/ML 1 vial (100ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.589531",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ליברה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEVOFLOX 5 MG/ML 1 vial (100ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 69.32,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 93.2354,
+    "maxPriceWithVAT": 110.017772,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26822",
+    "formidable": "FC8452",
+    "moh": "8452"
+  }
+}

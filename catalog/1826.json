@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1826",
+  "name": "POLYDINE SOL 1000CC",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.710909",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פישר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1000,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "POLYDINE SOL 1000CC"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 34.18,
+    "maxPriceWithVAT": 40.3324,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "16182",
+    "formidable": "FC1826",
+    "moh": "1826"
+  }
+}

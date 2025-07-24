@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7260",
+  "name": "FERROVIN 20MG/ML AMP 5X5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.111402",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERROVIN 20MG/ML AMP 5X5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 246.4716,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 289.60413,
+    "maxPriceWithVAT": 341.7328734,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85909",
+    "pharmasoft": "6444",
+    "formidable": "FC7260",
+    "moh": "7260"
+  }
+}

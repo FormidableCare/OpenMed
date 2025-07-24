@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6933",
+  "name": "ZELBORAF 240MG 56TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.312109",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZELBORAF 240MG 56TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5206.845147,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5727.529661,
+    "maxPriceWithVAT": 6758.4847,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35612",
+    "pharmasoft": "26169",
+    "formidable": "FC6933",
+    "moh": "6933"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4791",
+  "name": "ZYPREXA VELOTAB 5MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.731830",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZYPREXA VELOTAB 5MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 56.6665,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 76.2164425,
+    "maxPriceWithVAT": 89.93540215,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "12648",
+    "pharmasoft": "26134",
+    "formidable": "FC4791",
+    "moh": "4791"
+  }
+}

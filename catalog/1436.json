@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1436",
+  "name": "ACAMOL 500MG 50CAP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.804490",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACAMOL 500MG 50CAP"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 34.39,
+    "maxPriceWithVAT": 40.5802,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "1798",
+    "formidable": "FC1436",
+    "moh": "1436"
+  }
+}

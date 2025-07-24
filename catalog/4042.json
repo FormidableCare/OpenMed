@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4042",
+  "name": "GENOTROPIN 36UI CARTRIDGE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.301276",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GENOTROPIN 36UI CARTRIDGE"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 825.433248,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 969.8840664,
+    "maxPriceWithVAT": 1144.463147,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "18549",
+    "pharmasoft": "7429",
+    "formidable": "FC4042",
+    "moh": "4042"
+  }
+}

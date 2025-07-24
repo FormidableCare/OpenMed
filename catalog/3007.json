@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3007",
+  "name": "SANDIMMUN NEO 25MG 50CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.471018",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SANDIMMUN NEO 25MG 50CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 114.6569,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 143.321125,
+    "maxPriceWithVAT": 169.1189275,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9078",
+    "pharmasoft": "19071",
+    "formidable": "FC3007",
+    "moh": "3007"
+  }
+}

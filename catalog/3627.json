@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3627",
+  "name": "NOCTURNO 7.5MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.084767",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NOCTURNO 7.5MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.098,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 17.94426,
+    "maxPriceWithVAT": 21.1742268,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33365",
+    "pharmasoft": "14152",
+    "formidable": "FC3627",
+    "moh": "3627"
+  }
+}

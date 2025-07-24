@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9052",
+  "name": "LIZ TABS 1(24+4)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:57.369399",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ליברה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LIZ TABS 1(24+4)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.45240907,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 38.97980042,
+    "maxPriceWithVAT": 45.99616245,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70496",
+    "formidable": "FC9052",
+    "moh": "9052"
+  }
+}

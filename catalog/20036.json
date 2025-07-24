@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "20036",
+  "name": "ANTURAN 200MG 84TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.673367",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 84,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ANTURAN 200MG 84TAB"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC20036",
+    "moh": "20036"
+  }
+}

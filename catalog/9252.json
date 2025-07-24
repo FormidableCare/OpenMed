@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9252",
+  "name": "SUNLENCA 463.5 MG 2 VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.619658",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "גיליאד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SUNLENCA 463.5 MG 2 VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 81560.29041,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 89716.31945,
+    "maxPriceWithVAT": 105865.2522,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17502",
+    "formidable": "FC9252",
+    "moh": "9252"
+  }
+}

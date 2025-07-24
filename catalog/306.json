@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "306",
+  "name": "ZINNAT 125MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.450895",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZINNAT 125MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.427,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 17.02499,
+    "maxPriceWithVAT": 20.0894882,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7881",
+    "pharmasoft": "26062",
+    "formidable": "FC306",
+    "moh": "306"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1886",
+  "name": "RAFASSAL ENEMA 1GR 7X60ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.145687",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 420,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RAFASSAL ENEMA 1GR 7X60ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 53.892027,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 72.48477632,
+    "maxPriceWithVAT": 85.53203225,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8078",
+    "pharmasoft": "18218",
+    "formidable": "FC1886",
+    "moh": "1886"
+  }
+}

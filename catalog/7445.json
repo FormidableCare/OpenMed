@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7445",
+  "name": "CARBOPLATIN 450MG/45ML VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:27.330416",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CARBOPLATIN 450MG/45ML VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 296.7338,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 348.662215,
+    "maxPriceWithVAT": 411.4214137,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35206",
+    "pharmasoft": "9546",
+    "formidable": "FC7445",
+    "moh": "7445"
+  }
+}

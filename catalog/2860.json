@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2860",
+  "name": "MINOCYCLIN 100MG 10CAP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:00.757836",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MINOCYCLIN 100MG 10CAP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.5623,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 18.580351,
+    "maxPriceWithVAT": 21.92481418,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8962",
+    "pharmasoft": "13046",
+    "formidable": "FC2860",
+    "moh": "2860"
+  }
+}

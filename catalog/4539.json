@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4539",
+  "name": "ACERIL 50MG 90TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:14.602697",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACERIL 50MG 90TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 30.9335,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 42.378895,
+    "maxPriceWithVAT": 50.0070961,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33616",
+    "pharmasoft": "1438",
+    "formidable": "FC4539",
+    "moh": "4539"
+  }
+}

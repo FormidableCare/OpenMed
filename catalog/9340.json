@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9340",
+  "name": "FYCOMPA ORAL SUSPENSION BOTTLE 340 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.664591",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסיי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 340,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FYCOMPA ORAL SUSPENSION BOTTLE 340 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 252.654918,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 296.8695287,
+    "maxPriceWithVAT": 350.3060282,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "14308",
+    "pharmasoft": "6688",
+    "formidable": "FC9340",
+    "moh": "9340"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2577",
+  "name": "MIXTARD 30HM 5X3ML PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:00.960445",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MIXTARD 30HM 5X3ML PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 111.83436,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 139.79295,
+    "maxPriceWithVAT": 164.9556737,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8536",
+    "pharmasoft": "9020",
+    "formidable": "FC2577",
+    "moh": "2577"
+  }
+}

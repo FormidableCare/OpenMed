@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6538",
+  "name": "CRINONE 8 % VAG GEL 15*1.45 G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:33.010554",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CRINONE 8 % VAG GEL 15*1.45 G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 126.9945122,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 158.7431403,
+    "maxPriceWithVAT": 187.3168972,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58548",
+    "pharmasoft": "3745",
+    "formidable": "FC6538",
+    "moh": "6538"
+  }
+}

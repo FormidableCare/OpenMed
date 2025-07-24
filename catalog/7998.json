@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7998",
+  "name": "HUMALOG KWIKPEN 200 U/ML 5*3 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.384552",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMALOG KWIKPEN 200 U/ML 5*3 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 221.4389908,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 260.1908142,
+    "maxPriceWithVAT": 307.0251471,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55367",
+    "pharmasoft": "8430",
+    "formidable": "FC7998",
+    "moh": "7998"
+  }
+}

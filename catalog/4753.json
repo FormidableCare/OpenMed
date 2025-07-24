@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4753",
+  "name": "RITALIN LA 20MG 30CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.261010",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RITALIN LA 20MG 30CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 49.1014656,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 66.04147123,
+    "maxPriceWithVAT": 77.92893605,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "61781",
+    "pharmasoft": "18324",
+    "formidable": "FC4753",
+    "moh": "4753"
+  }
+}

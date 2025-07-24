@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6617",
+  "name": "BUTRANS 10MG 2 PATCHES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:26.210881",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BUTRANS 10MG 2 PATCHES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 43.14081897,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 58.02440151,
+    "maxPriceWithVAT": 68.46879074,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "14909",
+    "pharmasoft": "2476",
+    "formidable": "FC6617",
+    "moh": "6617"
+  }
+}

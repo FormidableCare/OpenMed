@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7842",
+  "name": "TRULICITY 1.5 MG/0.5ML 4 SYR-PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.350000",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRULICITY 1.5 MG/0.5ML 4 SYR-PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 319.8009018,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 375.7660596,
+    "maxPriceWithVAT": 443.4039306,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "32989",
+    "pharmasoft": "20811",
+    "formidable": "FC7842",
+    "moh": "7842"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4740",
+  "name": "CEFURAX 250MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:28.582858",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CEFURAX 250MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.1834,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 19.431258,
+    "maxPriceWithVAT": 22.92888444,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60868",
+    "pharmasoft": "3764",
+    "formidable": "FC4740",
+    "moh": "4740"
+  }
+}

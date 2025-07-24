@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9218",
+  "name": "LECIGON GEL 7 CART",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:55.710980",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרומד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 7,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LECIGON GEL 7 CART"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2254.855699,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2480.341269,
+    "maxPriceWithVAT": 2926.802568,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9218",
+    "moh": "9218"
+  }
+}

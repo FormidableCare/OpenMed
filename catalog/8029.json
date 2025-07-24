@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8029",
+  "name": "NOVOEIGHT 250 IU/4 ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.419807",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NOVOEIGHT 250 IU/4 ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 489.3896908,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 575.0328867,
+    "maxPriceWithVAT": 678.5387762,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58046",
+    "pharmasoft": "14616",
+    "formidable": "FC8029",
+    "moh": "8029"
+  }
+}

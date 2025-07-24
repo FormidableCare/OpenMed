@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "20245",
+  "name": "ZERIT 40MG 60CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:28.290950",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZERIT 40MG 60CAPS"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC20245",
+    "moh": "20245"
+  }
+}

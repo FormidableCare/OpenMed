@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8684",
+  "name": "BERIGLOBIN P 16 % 2 ML  1 PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:22.784574",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סי אס אל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BERIGLOBIN P 16 % 2 ML  1 PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 68.45550075,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 92.07264851,
+    "maxPriceWithVAT": 108.6457204,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77199",
+    "pharmasoft": "2071",
+    "formidable": "FC8684",
+    "moh": "8684"
+  }
+}

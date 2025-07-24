@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8657",
+  "name": "TRUMENBA 60 MCG 0.5 ML 1 PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.359219",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRUMENBA 60 MCG 0.5 ML 1 PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 290.1667095,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 340.9458837,
+    "maxPriceWithVAT": 402.3161248,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35344",
+    "pharmasoft": "20975",
+    "formidable": "FC8657",
+    "moh": "8657"
+  }
+}

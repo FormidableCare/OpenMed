@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7072",
+  "name": "NOVOSEVEN RT 5MG/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.634706",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NOVOSEVEN RT 5MG/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9756.940538,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 10732.63459,
+    "maxPriceWithVAT": 12664.50826,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35602",
+    "pharmasoft": "14536",
+    "formidable": "FC7072",
+    "moh": "7072"
+  }
+}

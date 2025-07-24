@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8672",
+  "name": "TERIPARATIDE 250 MCG/ML 1 PREFILLED PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.859101",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TERIPARATIDE 250 MCG/ML 1 PREFILLED PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 793.9404764,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 932.8800598,
+    "maxPriceWithVAT": 1100.798471,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28025",
+    "formidable": "FC8672",
+    "moh": "8672"
+  }
+}

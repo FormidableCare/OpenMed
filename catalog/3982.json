@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3982",
+  "name": "PERTUSSOL SYRUP 115ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.625830",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 115,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PERTUSSOL SYRUP 115ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 21.29,
+    "maxPriceWithVAT": 25.1222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "16654",
+    "formidable": "FC3982",
+    "moh": "3982"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7344",
+  "name": "VESANOID 10MG 100CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.416204",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VESANOID 10MG 100CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1400.609313,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1645.715943,
+    "maxPriceWithVAT": 1941.944727,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9659",
+    "pharmasoft": "22360",
+    "formidable": "FC7344",
+    "moh": "7344"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8214",
+  "name": "ZOLEDRONIC ACID TARO 4MG/5ML 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.600205",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOLEDRONIC ACID TARO 4MG/5ML 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 332.1317,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 390.2547475,
+    "maxPriceWithVAT": 460.5006021,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11452",
+    "formidable": "FC8214",
+    "moh": "8214"
+  }
+}

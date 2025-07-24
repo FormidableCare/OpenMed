@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1829",
+  "name": "POLYDINE TINCTURE 1L",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.731822",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פישר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1000,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "POLYDINE TINCTURE 1L"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 49.92,
+    "maxPriceWithVAT": 58.9056,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "16184",
+    "formidable": "FC1829",
+    "moh": "1829"
+  }
+}

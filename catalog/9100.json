@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9100",
+  "name": "IFO-CELL 5 G/25ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.489580",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמ.בי.איי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IFO-CELL 5 G/25ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 559.704735,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 657.6530636,
+    "maxPriceWithVAT": 776.0305806,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9100",
+    "moh": "9100"
+  }
+}

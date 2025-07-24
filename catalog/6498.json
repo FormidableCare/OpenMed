@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6498",
+  "name": "CIPRAMIL 40MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:30.511835",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לנדבק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIPRAMIL 40MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 30.7181,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 42.083797,
+    "maxPriceWithVAT": 49.65888046,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2692",
+    "pharmasoft": "3995",
+    "formidable": "FC6498",
+    "moh": "6498"
+  }
+}

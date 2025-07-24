@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4839",
+  "name": "SERTRALINE TEVA 100MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.063897",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SERTRALINE TEVA 100MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.6868,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 39.300916,
+    "maxPriceWithVAT": 46.37508088,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "71254",
+    "pharmasoft": "19807",
+    "formidable": "FC4839",
+    "moh": "4839"
+  }
+}

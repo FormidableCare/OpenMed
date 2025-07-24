@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8677",
+  "name": "LACOSAMIDE TEVA 150 MG 56 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:55.130829",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LACOSAMIDE TEVA 150 MG 56 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 335.72,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 394.471,
+    "maxPriceWithVAT": 465.47578,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "56606",
+    "formidable": "FC8677",
+    "moh": "8677"
+  }
+}

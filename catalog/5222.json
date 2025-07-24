@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5222",
+  "name": "LOSEC 20 MG 28 CAPS (OTC)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.881151",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LOSEC 20 MG 28 CAPS (OTC)"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 42.47,
+    "maxPriceWithVAT": 50.1146,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "12414",
+    "formidable": "FC5222",
+    "moh": "5222"
+  }
+}

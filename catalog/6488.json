@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6488",
+  "name": "ROXO 150MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.069410",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ROXO 150MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 30.3217,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 41.540729,
+    "maxPriceWithVAT": 49.01806022,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "84743",
+    "pharmasoft": "18423",
+    "formidable": "FC6488",
+    "moh": "6488"
+  }
+}

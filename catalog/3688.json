@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3688",
+  "name": "OXYCONTIN 80MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.864421",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OXYCONTIN 80MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 66.53964107,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 89.49581723,
+    "maxPriceWithVAT": 105.6050596,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35563",
+    "pharmasoft": "15103",
+    "formidable": "FC3688",
+    "moh": "3688"
+  }
+}

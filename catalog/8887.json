@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8887",
+  "name": "SODIUM CHLORIDE 0.9% IMUNA 100 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.012842",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדי מרקט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SODIUM CHLORIDE 0.9% IMUNA 100 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5.54799,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 7.6007463,
+    "maxPriceWithVAT": 8.968880235,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70777",
+    "formidable": "FC8887",
+    "moh": "8887"
+  }
+}

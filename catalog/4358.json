@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4358",
+  "name": "OMEPRADEX 20MG 14CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:04.738095",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 14,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OMEPRADEX 20MG 14CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 18.0,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 24.66,
+    "maxPriceWithVAT": 29.0988,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59979",
+    "pharmasoft": "15307",
+    "formidable": "FC4358",
+    "moh": "4358"
+  }
+}

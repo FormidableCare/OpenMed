@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4370",
+  "name": "FRAGMIN 5000UI/0.2ML 10INJ",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.011426",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FRAGMIN 5000UI/0.2ML 10INJ"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 132.7420975,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 165.9276219,
+    "maxPriceWithVAT": 195.7945851,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "23324",
+    "pharmasoft": "6324",
+    "formidable": "FC4370",
+    "moh": "4370"
+  }
+}

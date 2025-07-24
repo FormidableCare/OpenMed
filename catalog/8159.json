@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8159",
+  "name": "PICO SALAX CRANBERRY   2SACHETS    2*16.1 G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.541265",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרינג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PICO SALAX CRANBERRY   2SACHETS    2*16.1 G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 39.7488,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 53.462136,
+    "maxPriceWithVAT": 63.08532048,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76226",
+    "formidable": "FC8159",
+    "moh": "8159"
+  }
+}

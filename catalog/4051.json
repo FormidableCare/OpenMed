@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4051",
+  "name": "CARDIOXANE 500MG VIAL PWDR FOR INFUS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:27.490986",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CARDIOXANE 500MG VIAL PWDR FOR INFUS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 685.5089323,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 805.4729955,
+    "maxPriceWithVAT": 950.4580924,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26704",
+    "pharmasoft": "3698",
+    "formidable": "FC4051",
+    "moh": "4051"
+  }
+}

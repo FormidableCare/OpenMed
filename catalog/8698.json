@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8698",
+  "name": "LEVEBON 100 MG/ML 5ML 10 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.236871",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדי מרקט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEVEBON 100 MG/ML 5ML 10 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 327.8843791,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 385.2641454,
+    "maxPriceWithVAT": 454.6116916,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70231",
+    "formidable": "FC8698",
+    "moh": "8698"
+  }
+}

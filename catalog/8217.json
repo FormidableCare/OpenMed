@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8217",
+  "name": "HEPARIN INJECTION BP 5000 UNITS/ML\t   5ML  25VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.005321",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פארמלוג'יק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 25,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HEPARIN INJECTION BP 5000 UNITS/ML\t   5ML  25VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 500.5045388,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 588.092833,
+    "maxPriceWithVAT": 693.9495121,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "54678",
+    "formidable": "FC8217",
+    "moh": "8217"
+  }
+}

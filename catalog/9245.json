@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9245",
+  "name": "RYALTRIS  SUSPENSION 240 DOSES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.240331",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 240,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RYALTRIS  SUSPENSION 240 DOSES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 49.160904,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 66.12141588,
+    "maxPriceWithVAT": 78.02326727,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "53553",
+    "pharmasoft": "18714",
+    "formidable": "FC9245",
+    "moh": "9245"
+  }
+}

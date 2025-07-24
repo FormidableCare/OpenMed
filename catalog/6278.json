@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6278",
+  "name": "REVLIMID 5MG 21CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.301331",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REVLIMID 5MG 21CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 17932.38972,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 19725.62869,
+    "maxPriceWithVAT": 23276.24185,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "23426",
+    "pharmasoft": "18461",
+    "formidable": "FC6278",
+    "moh": "6278"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8720",
+  "name": "TECENTRIQ 840MG/14ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.468185",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TECENTRIQ 840MG/14ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10853.97293,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11939.37022,
+    "maxPriceWithVAT": 14088.45624,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3489",
+    "formidable": "FC8720",
+    "moh": "8720"
+  }
+}

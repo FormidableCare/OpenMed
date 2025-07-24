@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9370",
+  "name": "STABILANOL 2 MG/ML IV  SOL. FOR INFUSION 200ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.750284",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STABILANOL 2 MG/ML IV  SOL. FOR INFUSION 200ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 87.1262,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 117.184739,
+    "maxPriceWithVAT": 138.277992,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9882",
+    "pharmasoft": "23650",
+    "formidable": "FC9370",
+    "moh": "9370"
+  }
+}

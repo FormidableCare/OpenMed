@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5546",
+  "name": "KUFFEX DM 118ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.691082",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ליף-פריגו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 118,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KUFFEX DM 118ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 29.68,
+    "maxPriceWithVAT": 35.0224,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5546",
+    "moh": "5546"
+  }
+}

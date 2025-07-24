@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9086",
+  "name": "LINEZO - AVENIR 600 mg 10 tabs",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.816021",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LINEZO - AVENIR 600 mg 10 tabs"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 675.6891555,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 793.9347577,
+    "maxPriceWithVAT": 936.8429725,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "81404",
+    "formidable": "FC9086",
+    "moh": "9086"
+  }
+}

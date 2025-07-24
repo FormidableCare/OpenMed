@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7939",
+  "name": "EPHEDRIN SINTETICA 50 MG/ML  10 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.296382",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPHEDRIN SINTETICA 50 MG/ML  10 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 61.6359825,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 82.90039646,
+    "maxPriceWithVAT": 97.82246348,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC7939",
+    "moh": "7939"
+  }
+}

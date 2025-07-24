@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9015",
+  "name": "GAVRETO 60 CAPS 100 MG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.031444",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GAVRETO 60 CAPS 100 MG"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11969.12203,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 13166.03423,
+    "maxPriceWithVAT": 15535.9197,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9015",
+    "moh": "9015"
+  }
+}

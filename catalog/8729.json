@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8729",
+  "name": "LENALIDOMIDE S.K. 5 MG 21 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:55.825542",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LENALIDOMIDE S.K. 5 MG 21 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 17932.38972,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 19725.62869,
+    "maxPriceWithVAT": 23276.24185,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59394",
+    "pharmasoft": "12585",
+    "formidable": "FC8729",
+    "moh": "8729"
+  }
+}

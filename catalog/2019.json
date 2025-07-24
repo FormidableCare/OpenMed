@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2019",
+  "name": "GLYCERINE 2.35GR 20 SUP ADULT",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.306024",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "סם און",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GLYCERINE 2.35GR 20 SUP ADULT"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 17.09,
+    "maxPriceWithVAT": 20.1662,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "7181",
+    "formidable": "FC2019",
+    "moh": "2019"
+  }
+}

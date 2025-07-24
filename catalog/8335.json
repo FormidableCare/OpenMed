@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8335",
+  "name": "VERZENIO 150 MG 14 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.396259",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 14,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VERZENIO 150 MG 14 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1761.885213,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 1938.073734,
+    "maxPriceWithVAT": 2286.926905,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26047",
+    "pharmasoft": "22445",
+    "formidable": "FC8335",
+    "moh": "8335"
+  }
+}

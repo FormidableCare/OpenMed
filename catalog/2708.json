@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2708",
+  "name": "GYNERA 3X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.360871",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GYNERA 3X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 41.8935,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 56.3467575,
+    "maxPriceWithVAT": 66.48917385,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8724",
+    "pharmasoft": "7012",
+    "formidable": "FC2708",
+    "moh": "2708"
+  }
+}

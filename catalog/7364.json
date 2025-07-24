@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7364",
+  "name": "ACTILYSE 20 MG 1VIAL/20ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:14.930384",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "בורינגר אינגלהיים",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACTILYSE 20 MG 1VIAL/20ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 750.7380927,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 882.1172589,
+    "maxPriceWithVAT": 1040.898319,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "47792",
+    "pharmasoft": "9710",
+    "formidable": "FC7364",
+    "moh": "7364"
+  }
+}

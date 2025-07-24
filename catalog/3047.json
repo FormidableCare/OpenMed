@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3047",
+  "name": "ZOVIRAX 800MG 35 DISPERS TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.644118",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 35,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOVIRAX 800MG 35 DISPERS TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 97.4197287,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 121.7746609,
+    "maxPriceWithVAT": 143.6940934,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9112",
+    "pharmasoft": "26028",
+    "formidable": "FC3047",
+    "moh": "3047"
+  }
+}

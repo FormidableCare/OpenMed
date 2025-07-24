@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1850",
+  "name": "CLONNIRIT 25MCG 30T",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:31.209238",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CLONNIRIT 25MCG 30T"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.1499,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 18.015363,
+    "maxPriceWithVAT": 21.25812834,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "504",
+    "pharmasoft": "3183",
+    "formidable": "FC1850",
+    "moh": "1850"
+  }
+}

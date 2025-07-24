@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3378",
+  "name": "IODIFLOR CLEAN.200ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.526797",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IODIFLOR CLEAN.200ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 21.36,
+    "maxPriceWithVAT": 25.2048,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC3378",
+    "moh": "3378"
+  }
+}

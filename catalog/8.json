@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8",
+  "name": "ANDROCUR 10MG 15TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.637688",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ANDROCUR 10MG 15TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 24.94443263,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 34.1738727,
+    "maxPriceWithVAT": 40.32516799,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "238",
+    "pharmasoft": "1269",
+    "formidable": "FC8",
+    "moh": "8"
+  }
+}

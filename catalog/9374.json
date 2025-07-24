@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9374",
+  "name": "EPIDUO FORTE 0.3% /2.5 % 30 GR GEL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.395482",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמי טכנולוגיות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPIDUO FORTE 0.3% /2.5 % 30 GR GEL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 86.8921202,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 116.8699017,
+    "maxPriceWithVAT": 137.9064778,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "34941",
+    "formidable": "FC9374",
+    "moh": "9374"
+  }
+}

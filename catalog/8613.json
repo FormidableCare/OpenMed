@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8613",
+  "name": "ZOLEDRONIC ACID FRESENIUS 4 MG/5 ML 10 VIAL X 5 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.591631",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOLEDRONIC ACID FRESENIUS 4 MG/5 ML 10 VIAL X 5 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3321.3,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3653.43,
+    "maxPriceWithVAT": 4311.0474,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "446",
+    "pharmasoft": "26219",
+    "formidable": "FC8613",
+    "moh": "8613"
+  }
+}

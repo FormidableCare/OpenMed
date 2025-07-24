@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6984",
+  "name": "SODIUM BICARBONATE 8.4% 100ML 20 BOTTLES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.000454",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SODIUM BICARBONATE 8.4% 100ML 20 BOTTLES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 783.025555,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 920.0550271,
+    "maxPriceWithVAT": 1085.664884,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "87775",
+    "pharmasoft": "19724",
+    "formidable": "FC6984",
+    "moh": "6984"
+  }
+}

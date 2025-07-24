@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2457",
+  "name": "IMURAN 50MG 100TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.255478",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IMURAN 50MG 100TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 47.07134033,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 63.31095275,
+    "maxPriceWithVAT": 74.70692092,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1020",
+    "pharmasoft": "9021",
+    "formidable": "FC2457",
+    "moh": "2457"
+  }
+}

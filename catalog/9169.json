@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9169",
+  "name": "VECTOR PLUS 160/25 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.078027",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VECTOR PLUS 160/25 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 23.8195,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 32.632715,
+    "maxPriceWithVAT": 38.5066037,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35662",
+    "formidable": "FC9169",
+    "moh": "9169"
+  }
+}

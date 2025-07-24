@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7759",
+  "name": "SPIRIVA RESPIMAT 2.5MCG 60 ACTUATIONS (30 DOSES)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.608995",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "בורינגר אינגלהיים",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPIRIVA RESPIMAT 2.5MCG 60 ACTUATIONS (30 DOSES)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 93.9471264,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 126.358885,
+    "maxPriceWithVAT": 149.1034777,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11472",
+    "pharmasoft": "9847",
+    "formidable": "FC7759",
+    "moh": "7759"
+  }
+}

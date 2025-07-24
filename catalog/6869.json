@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6869",
+  "name": "PENTASA SLOW RELEASE GRANULES 2GX60SACHET",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.101032",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרינג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PENTASA SLOW RELEASE GRANULES 2GX60SACHET"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 257.5128222,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 302.5775661,
+    "maxPriceWithVAT": 357.0415121,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89247",
+    "pharmasoft": "16785",
+    "formidable": "FC6869",
+    "moh": "6869"
+  }
+}

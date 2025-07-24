@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6936",
+  "name": "CARBAGLU 200MG 60 DISP.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:27.276652",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CARBAGLU 200MG 60 DISP.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10503.68151,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11554.04966,
+    "maxPriceWithVAT": 13633.77799,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22405",
+    "pharmasoft": "9535",
+    "formidable": "FC6936",
+    "moh": "6936"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4330",
+  "name": "ENALAPRIL 5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.485251",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ENALAPRIL 5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.04,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 12.3848,
+    "maxPriceWithVAT": 14.614064,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "27971",
+    "pharmasoft": "5173",
+    "formidable": "FC4330",
+    "moh": "4330"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7819",
+  "name": "ESMYA 5 MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.516560",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ESMYA 5 MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 471.2786324,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 553.7523931,
+    "maxPriceWithVAT": 653.4277948,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "44502",
+    "pharmasoft": "5611",
+    "formidable": "FC7819",
+    "moh": "7819"
+  }
+}

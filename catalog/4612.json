@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4612",
+  "name": "RISPERDAL CONSTA/DELTOID 25MG VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.021608",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RISPERDAL CONSTA/DELTOID 25MG VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 207.6260817,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 243.960646,
+    "maxPriceWithVAT": 287.8735494,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11174",
+    "pharmasoft": "18425",
+    "formidable": "FC4612",
+    "moh": "4612"
+  }
+}

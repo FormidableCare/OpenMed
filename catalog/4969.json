@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4969",
+  "name": "EMEND 1X125MG+2X80MG CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.218655",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EMEND 1X125MG+2X80MG CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 112.7141127,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 140.8926409,
+    "maxPriceWithVAT": 166.2533088,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70091",
+    "pharmasoft": "5410",
+    "formidable": "FC4969",
+    "moh": "4969"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9475",
+  "name": "IMJUDO 20MG/ML 1.25 ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.025964",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IMJUDO 20MG/ML 1.25 ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7756.704945,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8532.37544,
+    "maxPriceWithVAT": 10068.20257,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22336",
+    "formidable": "FC9475",
+    "moh": "9475"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9489",
+  "name": "TECVAYLI 90 MG/ML 1 VIAL 1.7 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.490981",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TECVAYLI 90 MG/ML 1 VIAL 1.7 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 16681.81863,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 18350.0005,
+    "maxPriceWithVAT": 21652.99962,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "41035",
+    "formidable": "FC9489",
+    "moh": "9489"
+  }
+}

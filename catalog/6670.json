@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6670",
+  "name": "INOVELON 200 MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.437648",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסיי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "INOVELON 200 MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 244.920528,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 287.7816204,
+    "maxPriceWithVAT": 339.582297,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "25918",
+    "pharmasoft": "9420",
+    "formidable": "FC6670",
+    "moh": "6670"
+  }
+}

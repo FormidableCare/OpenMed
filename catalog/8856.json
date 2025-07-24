@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8856",
+  "name": "LEUCOVORIN TEVA 10 MG/ML 1 VIAL 50ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.196987",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEUCOVORIN TEVA 10 MG/ML 1 VIAL 50ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 566.1393102,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 665.2136895,
+    "maxPriceWithVAT": 784.9521187,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58639",
+    "formidable": "FC8856",
+    "moh": "8856"
+  }
+}

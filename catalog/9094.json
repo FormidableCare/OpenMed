@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9094",
+  "name": "RUXIENCE 500 MG/50 ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.228731",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RUXIENCE 500 MG/50 ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3020.062306,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3322.068537,
+    "maxPriceWithVAT": 3920.040699,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "87036",
+    "formidable": "FC9094",
+    "moh": "9094"
+  }
+}

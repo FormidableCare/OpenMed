@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2172",
+  "name": "BETACORTEN TOPICAL SCALP  APPL SOL 30ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:23.131048",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BETACORTEN TOPICAL SCALP  APPL SOL 30ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.759,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 13.36983,
+    "maxPriceWithVAT": 15.7763994,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "344",
+    "pharmasoft": "2070",
+    "formidable": "FC2172",
+    "moh": "2172"
+  }
+}

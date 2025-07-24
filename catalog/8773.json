@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8773",
+  "name": "INREBIC 100 MG 120 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.480495",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ב.מ.ס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "INREBIC 100 MG 120 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13388.32123,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 14727.15335,
+    "maxPriceWithVAT": 17378.04018,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "84739",
+    "formidable": "FC8773",
+    "moh": "8773"
+  }
+}

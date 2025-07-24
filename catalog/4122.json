@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4122",
+  "name": "RISPERDAL 1MG/ML SOL 30ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.948869",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RISPERDAL 1MG/ML SOL 30ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 22.6167,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 30.984879,
+    "maxPriceWithVAT": 36.56215722,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "23466",
+    "pharmasoft": "18295",
+    "formidable": "FC4122",
+    "moh": "4122"
+  }
+}

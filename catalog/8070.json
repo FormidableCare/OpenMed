@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8070",
+  "name": "PEMETREXED S.K. 1 VIAL 50 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:06.760533",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PEMETREXED S.K. 1 VIAL 50 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3800.4509,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4180.49599,
+    "maxPriceWithVAT": 4932.985268,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "56906",
+    "pharmasoft": "16975",
+    "formidable": "FC8070",
+    "moh": "8070"
+  }
+}

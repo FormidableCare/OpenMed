@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9290",
+  "name": "EFMODY 5 MG 50 M.R CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.435481",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדומי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EFMODY 5 MG 50 M.R CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 622.90749,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 731.9163008,
+    "maxPriceWithVAT": 863.6611965,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "47544",
+    "formidable": "FC9290",
+    "moh": "9290"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "20776",
+  "name": "TISEPT 25ML 250 SACHET",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:28.110164",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 250,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TISEPT 25ML 250 SACHET"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC20776",
+    "moh": "20776"
+  }
+}

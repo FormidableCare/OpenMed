@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7564",
+  "name": "FINASTERIDE TEVA 1MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.179761",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FINASTERIDE TEVA 1MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 100.7124,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 125.8905,
+    "maxPriceWithVAT": 148.55079,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58971",
+    "pharmasoft": "6546",
+    "formidable": "FC7564",
+    "moh": "7564"
+  }
+}

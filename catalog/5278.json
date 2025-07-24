@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5278",
+  "name": "ADEX 200MG 40CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.934516",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 40,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ADEX 200MG 40CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 33.71,
+    "maxPriceWithVAT": 39.7778,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "9264",
+    "formidable": "FC5278",
+    "moh": "5278"
+  }
+}

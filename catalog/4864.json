@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4864",
+  "name": "VANCOMYCIN MYLAN 500MG/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.926068",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VANCOMYCIN MYLAN 500MG/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 20.9171,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 28.656427,
+    "maxPriceWithVAT": 33.81458386,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29145",
+    "pharmasoft": "22280",
+    "formidable": "FC4864",
+    "moh": "4864"
+  }
+}

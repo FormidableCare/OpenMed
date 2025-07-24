@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1470",
+  "name": "BAMYXIN EYE OINT 3.5GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:22.367074",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BAMYXIN EYE OINT 3.5GR"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "302",
+    "pharmasoft": "2380",
+    "formidable": "FC1470",
+    "moh": "1470"
+  }
+}

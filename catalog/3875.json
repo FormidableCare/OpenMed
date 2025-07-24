@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3875",
+  "name": "NOCTURNO LS 3.75MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.100937",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NOCTURNO LS 3.75MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.2026,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 16.717562,
+    "maxPriceWithVAT": 19.72672316,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26756",
+    "pharmasoft": "14231",
+    "formidable": "FC3875",
+    "moh": "3875"
+  }
+}

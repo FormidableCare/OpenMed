@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8454",
+  "name": "LYNPARZA 150 MG 56 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:58.217250",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LYNPARZA 150 MG 56 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8095.673292,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8905.240621,
+    "maxPriceWithVAT": 10508.18347,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28049",
+    "pharmasoft": "12553",
+    "formidable": "FC8454",
+    "moh": "8454"
+  }
+}

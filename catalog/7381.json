@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7381",
+  "name": "AUBAGIO 14MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:21.217171",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AUBAGIO 14MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3095.246288,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3404.770917,
+    "maxPriceWithVAT": 4017.629682,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77451",
+    "pharmasoft": "9749",
+    "formidable": "FC7381",
+    "moh": "7381"
+  }
+}

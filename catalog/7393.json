@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7393",
+  "name": "GIOTRIF 50MG 28 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.677700",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "בורינגר אינגלהיים",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GIOTRIF 50MG 28 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7567.710889,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8324.481978,
+    "maxPriceWithVAT": 9822.888298,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "50944",
+    "pharmasoft": "7911",
+    "formidable": "FC7393",
+    "moh": "7393"
+  }
+}

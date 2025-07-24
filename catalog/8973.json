@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8973",
+  "name": "DEXAMETHASONE KERN PHARMA 4MG/ML, 3 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.740971",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמ.בי.איי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DEXAMETHASONE KERN PHARMA 4MG/ML, 3 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.79,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.2623,
+    "maxPriceWithVAT": 23.90951294,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17073",
+    "formidable": "FC8973",
+    "moh": "8973"
+  }
+}

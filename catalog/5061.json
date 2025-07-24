@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5061",
+  "name": "DICLOVIT 1%100 GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.912123",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DICLOVIT 1%100 GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 54.25,
+    "maxPriceWithVAT": 64.01,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "4156",
+    "formidable": "FC5061",
+    "moh": "5061"
+  }
+}

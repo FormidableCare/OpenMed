@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6917",
+  "name": "VISABELLE 2MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.946915",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VISABELLE 2MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 44.52105691,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 59.88082154,
+    "maxPriceWithVAT": 70.65936628,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "34506",
+    "pharmasoft": "22347",
+    "formidable": "FC6917",
+    "moh": "6917"
+  }
+}

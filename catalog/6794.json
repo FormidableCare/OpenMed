@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6794",
+  "name": "TEMO 20 MG 5CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.594987",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEMO 20 MG 5CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 216.746,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 254.67655,
+    "maxPriceWithVAT": 300.518329,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "32093",
+    "pharmasoft": "20702",
+    "formidable": "FC6794",
+    "moh": "6794"
+  }
+}

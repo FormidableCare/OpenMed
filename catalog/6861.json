@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6861",
+  "name": "ZAPPA 7.5MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.222121",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZAPPA 7.5MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 171.8529,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 214.816125,
+    "maxPriceWithVAT": 253.4830275,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "13488",
+    "pharmasoft": "86150",
+    "formidable": "FC6861",
+    "moh": "6861"
+  }
+}

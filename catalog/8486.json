@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8486",
+  "name": "ESBRIET 267 MG 90 TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.363712",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ESBRIET 267 MG 90 TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1598.202374,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1877.887789,
+    "maxPriceWithVAT": 2215.907492,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3488",
+    "formidable": "FC8486",
+    "moh": "8486"
+  }
+}

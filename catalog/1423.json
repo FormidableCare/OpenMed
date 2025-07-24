@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1423",
+  "name": "SYNTHOMYCINE 5% OINT 3.6G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.814107",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SYNTHOMYCINE 5% OINT 3.6G"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2089",
+    "pharmasoft": "19207",
+    "formidable": "FC1423",
+    "moh": "1423"
+  }
+}

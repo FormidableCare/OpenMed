@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4917",
+  "name": "OVITRELLE 250MCG/0.5ML PREFIL PEN SOL FOR INJ",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.637273",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OVITRELLE 250MCG/0.5ML PREFIL PEN SOL FOR INJ"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 103.3146218,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 129.1432773,
+    "maxPriceWithVAT": 152.3890604,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "66640",
+    "pharmasoft": "15324",
+    "formidable": "FC4917",
+    "moh": "4917"
+  }
+}

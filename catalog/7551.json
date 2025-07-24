@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7551",
+  "name": "RIVASTIGMINE DEXCEL 1.5 MG 28 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.503102",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RIVASTIGMINE DEXCEL 1.5 MG 28 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 44.6375,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 60.0374375,
+    "maxPriceWithVAT": 70.84417625,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58796",
+    "pharmasoft": "18510",
+    "formidable": "FC7551",
+    "moh": "7551"
+  }
+}

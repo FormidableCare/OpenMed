@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8752",
+  "name": "BRAFTOVI 75 MG 180CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:24.906137",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 180,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BRAFTOVI 75 MG 180CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 23331.31217,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 25664.44339,
+    "maxPriceWithVAT": 30284.04185,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "25964",
+    "pharmasoft": "2645",
+    "formidable": "FC8752",
+    "moh": "8752"
+  }
+}

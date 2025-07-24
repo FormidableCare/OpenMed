@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4846",
+  "name": "STALEVO 150/37.5/200MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.802230",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אינובמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STALEVO 150/37.5/200MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 48.5009216,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 65.23373955,
+    "maxPriceWithVAT": 76.97580925,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "13354",
+    "pharmasoft": "19739",
+    "formidable": "FC4846",
+    "moh": "4846"
+  }
+}

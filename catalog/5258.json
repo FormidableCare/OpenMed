@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5258",
+  "name": "SWISS RELIEF SPRAY GEL 25GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.191193",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 25,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SWISS RELIEF SPRAY GEL 25GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 65.38,
+    "maxPriceWithVAT": 77.1484,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "19859",
+    "formidable": "FC5258",
+    "moh": "5258"
+  }
+}

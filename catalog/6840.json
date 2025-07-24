@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6840",
+  "name": "BENLYSTA 1X400MG PWD FOR CONCENTRATE FOR INF VIAL 20ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:22.701034",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BENLYSTA 1X400MG PWD FOR CONCENTRATE FOR INF VIAL 20ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1803.684345,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 1984.05278,
+    "maxPriceWithVAT": 2341.182176,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20589",
+    "pharmasoft": "84607",
+    "formidable": "FC6840",
+    "moh": "6840"
+  }
+}

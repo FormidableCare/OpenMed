@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2186",
+  "name": "GENTATRIM  DERMAL CREAM 15GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.411692",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GENTATRIM  DERMAL CREAM 15GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11.0162,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 15.092194,
+    "maxPriceWithVAT": 17.80878892,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "908",
+    "pharmasoft": "7020",
+    "formidable": "FC2186",
+    "moh": "2186"
+  }
+}

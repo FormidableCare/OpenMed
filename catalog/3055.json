@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3055",
+  "name": "ELOCOM OINT TUBE 15GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.922502",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ELOCOM OINT TUBE 15GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7.9695,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 10.918215,
+    "maxPriceWithVAT": 12.88349313,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9183",
+    "pharmasoft": "5052",
+    "formidable": "FC3055",
+    "moh": "3055"
+  }
+}

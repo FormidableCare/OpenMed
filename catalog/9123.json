@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9123",
+  "name": "CORDAMIL 40 MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.399004",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טרוסטפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CORDAMIL 40 MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15.8,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 21.646,
+    "maxPriceWithVAT": 25.54228,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "30322",
+    "pharmasoft": "23211",
+    "formidable": "FC9123",
+    "moh": "9123"
+  }
+}

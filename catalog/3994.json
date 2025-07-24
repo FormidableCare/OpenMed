@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3994",
+  "name": "NICOTINELL GUM MINT 4GR 48tab",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.222472",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 48,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NICOTINELL GUM MINT 4GR 48tab"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 64.65,
+    "maxPriceWithVAT": 76.287,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "14410",
+    "formidable": "FC3994",
+    "moh": "3994"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9625",
+  "name": "LEVOSIMENDAN MBI 2.5 MG/ML, 5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.626899",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמ.בי.איי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEVOSIMENDAN MBI 2.5 MG/ML, 5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1724.164157,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 2025.892885,
+    "maxPriceWithVAT": 2390.553498,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9625",
+    "moh": "9625"
+  }
+}

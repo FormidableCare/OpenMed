@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6979",
+  "name": "FERRLECIT 62.5MG/5ML  5 amp",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.087591",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERRLECIT 62.5MG/5ML  5 amp"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 52.99158488,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 71.27368166,
+    "maxPriceWithVAT": 84.10294062,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28921",
+    "pharmasoft": "6429",
+    "formidable": "FC6979",
+    "moh": "6979"
+  }
+}

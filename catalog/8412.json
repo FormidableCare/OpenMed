@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8412",
+  "name": "IDELVION 1000 IU VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.403254",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סי אס אל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IDELVION 1000 IU VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 6723.34713,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 7395.681843,
+    "maxPriceWithVAT": 8726.904187,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59390",
+    "pharmasoft": "17079",
+    "formidable": "FC8412",
+    "moh": "8412"
+  }
+}

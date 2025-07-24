@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9062",
+  "name": "SPECTRACEF 200 MG 20 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.474130",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPECTRACEF 200 MG 20 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 107.759457,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 134.6993213,
+    "maxPriceWithVAT": 158.945192,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "64145",
+    "formidable": "FC9062",
+    "moh": "9062"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6748",
+  "name": "YTRACIS VIAL 1850 MBQ",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.172995",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "איזוטופיה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "YTRACIS VIAL 1850 MBQ"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9387.977985,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 10326.77578,
+    "maxPriceWithVAT": 12185.59488,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC6748",
+    "moh": "6748"
+  }
+}

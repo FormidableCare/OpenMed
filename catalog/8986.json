@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8986",
+  "name": "VANCOMYCIN LYOMARK 1000 MG 10 VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.895558",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרגלית",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VANCOMYCIN LYOMARK 1000 MG 10 VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 390.2,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 458.485,
+    "maxPriceWithVAT": 541.0123,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "74586",
+    "formidable": "FC8986",
+    "moh": "8986"
+  }
+}

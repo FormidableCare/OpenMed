@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9331",
+  "name": "RIVAROXABAN S.K. 15 MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.422860",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RIVAROXABAN S.K. 15 MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 175.7876,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 219.7345,
+    "maxPriceWithVAT": 259.28671,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8622",
+    "pharmasoft": "18699",
+    "formidable": "FC9331",
+    "moh": "9331"
+  }
+}

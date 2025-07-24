@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8162",
+  "name": "DERMOVATE OINTMENT 30 GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.319776",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DERMOVATE OINTMENT 30 GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10.7944045,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 14.78833417,
+    "maxPriceWithVAT": 17.45023354,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "54675",
+    "pharmasoft": "4683",
+    "formidable": "FC8162",
+    "moh": "8162"
+  }
+}

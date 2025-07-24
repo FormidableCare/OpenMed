@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6562",
+  "name": "DACOGEN 50 MG/VIAL 1X20ML VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:33.797681",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DACOGEN 50 MG/VIAL 1X20ML VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3859.780149,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4245.758164,
+    "maxPriceWithVAT": 5009.994634,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86391",
+    "pharmasoft": "4522",
+    "formidable": "FC6562",
+    "moh": "6562"
+  }
+}

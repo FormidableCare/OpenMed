@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6607",
+  "name": "FLUCANOL 50MG 7CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.928396",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 7,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLUCANOL 50MG 7CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 30.58,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 41.8946,
+    "maxPriceWithVAT": 49.435628,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "57191",
+    "pharmasoft": "6155",
+    "formidable": "FC6607",
+    "moh": "6607"
+  }
+}

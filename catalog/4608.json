@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4608",
+  "name": "VFEND 50MG 14TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.499190",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 14,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VFEND 50MG 14TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 392.5617,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 461.2599975,
+    "maxPriceWithVAT": 544.2867971,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55086",
+    "pharmasoft": "22083",
+    "formidable": "FC4608",
+    "moh": "4608"
+  }
+}

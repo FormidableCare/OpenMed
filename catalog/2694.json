@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2694",
+  "name": "ESTROFEM 2MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.885613",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ESTROFEM 2MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11.6397,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 15.946389,
+    "maxPriceWithVAT": 18.81673902,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8782",
+    "pharmasoft": "5075",
+    "formidable": "FC2694",
+    "moh": "2694"
+  }
+}

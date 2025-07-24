@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6360",
+  "name": "FLORET 3X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.810728",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLORET 3X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 41.8935,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 56.3467575,
+    "maxPriceWithVAT": 66.48917385,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "82921",
+    "pharmasoft": "6434",
+    "formidable": "FC6360",
+    "moh": "6360"
+  }
+}

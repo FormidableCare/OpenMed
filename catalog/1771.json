@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1771",
+  "name": "MICROLET 12 TUBES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.971039",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 12,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MICROLET 12 TUBES"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 31.71,
+    "maxPriceWithVAT": 37.4178,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "13125",
+    "formidable": "FC1771",
+    "moh": "1771"
+  }
+}

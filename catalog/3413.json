@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3413",
+  "name": "NITROLINGUAL SPRAY 250DOSES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.985008",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 250,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NITROLINGUAL SPRAY 250DOSES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 22.12115478,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 30.30598205,
+    "maxPriceWithVAT": 35.76105723,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85218",
+    "pharmasoft": "14151",
+    "formidable": "FC3413",
+    "moh": "3413"
+  }
+}

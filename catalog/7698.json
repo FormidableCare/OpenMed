@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7698",
+  "name": "ALEXAN 2000MG/40ML VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:17.086094",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ALEXAN 2000MG/40ML VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 106.8448586,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 133.5560732,
+    "maxPriceWithVAT": 157.5961594,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "88441",
+    "pharmasoft": "9296",
+    "formidable": "FC7698",
+    "moh": "7698"
+  }
+}

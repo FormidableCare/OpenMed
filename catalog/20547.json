@@ -1,0 +1,35 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "20547",
+  "name": "NEOXINAL 0.05% 400 SACHETS X 25ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:27.759940",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Special Import (29C)",
+  "manufacturer": {
+    "name": "Unknown",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 400,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NEOXINAL 0.05% 400 SACHETS X 25ML"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC20547",
+    "moh": "20547"
+  }
+}

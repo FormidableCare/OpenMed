@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8411",
+  "name": "IDELVION 500 IU VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.447098",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סי אס אל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IDELVION 500 IU VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3377.865015,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3715.651517,
+    "maxPriceWithVAT": 4384.468595,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59389",
+    "pharmasoft": "17078",
+    "formidable": "FC8411",
+    "moh": "8411"
+  }
+}

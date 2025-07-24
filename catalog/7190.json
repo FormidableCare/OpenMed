@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7190",
+  "name": "VIMPAT 200MG 56 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.855255",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VIMPAT 200MG 56 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 429.3348212,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 504.4684149,
+    "maxPriceWithVAT": 595.2727296,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "46140",
+    "pharmasoft": "22415",
+    "formidable": "FC7190",
+    "moh": "7190"
+  }
+}

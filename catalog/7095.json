@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7095",
+  "name": "GIROFLOX 200MG/100ML (100ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.700224",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GIROFLOX 200MG/100ML (100ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 32.1166,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 43.999742,
+    "maxPriceWithVAT": 51.91969556,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "83421",
+    "pharmasoft": "7890",
+    "formidable": "FC7095",
+    "moh": "7095"
+  }
+}

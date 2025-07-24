@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3891",
+  "name": "CORSODYL DENTAL GEL 1% 50GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.725112",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CORSODYL DENTAL GEL 1% 50GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 29.58,
+    "maxPriceWithVAT": 34.9044,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "3697",
+    "formidable": "FC3891",
+    "moh": "3891"
+  }
+}

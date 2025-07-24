@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4571",
+  "name": "EPREX/PROTECS 2000 IU/0.5ML 6 SYRINGES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:40.778974",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 6,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EPREX/PROTECS 2000 IU/0.5ML 6 SYRINGES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 351.1627,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 412.6161725,
+    "maxPriceWithVAT": 486.8870836,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86978",
+    "pharmasoft": "5456",
+    "formidable": "FC4571",
+    "moh": "4571"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4312",
+  "name": "ZOLADEX 3.6MG 1PREFILLED SYR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.576357",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOLADEX 3.6MG 1PREFILLED SYR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 289.4414745,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 340.0937325,
+    "maxPriceWithVAT": 401.3105865,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "12222",
+    "pharmasoft": "26131",
+    "formidable": "FC4312",
+    "moh": "4312"
+  }
+}

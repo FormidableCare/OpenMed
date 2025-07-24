@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6369",
+  "name": "DONEPEZIL TEVA 5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:37.031008",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DONEPEZIL TEVA 5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 47.6825121,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 64.13297877,
+    "maxPriceWithVAT": 75.67691159,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76342",
+    "pharmasoft": "4531",
+    "formidable": "FC6369",
+    "moh": "6369"
+  }
+}

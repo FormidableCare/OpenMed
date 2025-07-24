@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1785",
+  "name": "PROLOL 40MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.075021",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROLOL 40MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.4628,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 12.964036,
+    "maxPriceWithVAT": 15.29756248,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7944",
+    "pharmasoft": "16539",
+    "formidable": "FC1785",
+    "moh": "1785"
+  }
+}

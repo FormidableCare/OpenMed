@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7975",
+  "name": "STRENSIQ ® 100 MG/ML 12 VIAL  0.8ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.233362",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 12,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STRENSIQ ® 100 MG/ML 12 VIAL  0.8ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 190616.2684,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 209677.8952,
+    "maxPriceWithVAT": 247419.9054,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62121",
+    "pharmasoft": "9988",
+    "formidable": "FC7975",
+    "moh": "7975"
+  }
+}

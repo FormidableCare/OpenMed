@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8648",
+  "name": "RETROVIR ORAL SOLUTION 200 ML, syringe 1ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.218718",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RETROVIR ORAL SOLUTION 200 ML, syringe 1ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 93.49593,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 125.7520259,
+    "maxPriceWithVAT": 148.3873839,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59450",
+    "pharmasoft": "18624",
+    "formidable": "FC8648",
+    "moh": "8648"
+  }
+}

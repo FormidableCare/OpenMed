@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7928",
+  "name": "EBETAXEL 6 MG/ML VIAL 300MG/50ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.163268",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EBETAXEL 6 MG/ML VIAL 300MG/50ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1578.4802,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1854.714235,
+    "maxPriceWithVAT": 2188.562797,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10326",
+    "pharmasoft": "5422",
+    "formidable": "FC7928",
+    "moh": "7928"
+  }
+}

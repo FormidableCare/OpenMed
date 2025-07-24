@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9092",
+  "name": "PRIMENE 10 % BOTTLE 100 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.763675",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סופר-פארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PRIMENE 10 % BOTTLE 100 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 66.4733925,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 89.40671291,
+    "maxPriceWithVAT": 105.4999165,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9092",
+    "moh": "9092"
+  }
+}

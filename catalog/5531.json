@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5531",
+  "name": "IODIFLOR OINTMENT 250MG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.538553",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 250,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IODIFLOR OINTMENT 250MG"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 31.62,
+    "maxPriceWithVAT": 37.3116,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5531",
+    "moh": "5531"
+  }
+}

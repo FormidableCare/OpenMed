@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1745",
+  "name": "DEXAMOL PLUS 20 CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.859014",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DEXAMOL PLUS 20 CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 19.49,
+    "maxPriceWithVAT": 22.9982,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "4422",
+    "formidable": "FC1745",
+    "moh": "1745"
+  }
+}

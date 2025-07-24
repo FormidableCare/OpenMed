@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5605",
+  "name": "IPADINE 0.5 % 500ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.601716",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 500,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IPADINE 0.5 % 500ml"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 36.2,
+    "maxPriceWithVAT": 42.716,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5605",
+    "moh": "5605"
+  }
+}

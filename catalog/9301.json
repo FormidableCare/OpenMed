@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9301",
+  "name": "FULVESTRANT EVER PHARMA 250 MG SYRINGE PREFILLED",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.260366",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פארמלוג'יק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FULVESTRANT EVER PHARMA 250 MG SYRINGE PREFILLED"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 351.05,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 412.48375,
+    "maxPriceWithVAT": 486.730825,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "38150",
+    "formidable": "FC9301",
+    "moh": "9301"
+  }
+}

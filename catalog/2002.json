@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2002",
+  "name": "CALMANERVIN 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.579279",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "סם און",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CALMANERVIN 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 36.05,
+    "maxPriceWithVAT": 42.539,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "3043",
+    "formidable": "FC2002",
+    "moh": "2002"
+  }
+}

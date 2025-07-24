@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8505",
+  "name": "DOVATO 50 MG/ 300 MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:37.344615",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DOVATO 50 MG/ 300 MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2280.733055,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2508.80636,
+    "maxPriceWithVAT": 2960.391373,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60960",
+    "pharmasoft": "4723",
+    "formidable": "FC8505",
+    "moh": "8505"
+  }
+}

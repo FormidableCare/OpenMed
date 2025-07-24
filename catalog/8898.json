@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8898",
+  "name": "TREMFYA PREFILLED PEN 1 ML 100 MG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.919158",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TREMFYA PREFILLED PEN 1 ML 100 MG"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 6720.165222,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 7392.181744,
+    "maxPriceWithVAT": 8722.77407,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59040",
+    "pharmasoft": "20994",
+    "formidable": "FC8898",
+    "moh": "8898"
+  }
+}

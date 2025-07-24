@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6665",
+  "name": "KINERET 100MG SYR PREFIL 7X0.67ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:54.573276",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 7,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KINERET 100MG SYR PREFIL 7X0.67ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 845.6743764,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 993.6673923,
+    "maxPriceWithVAT": 1172.527471,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "46286",
+    "pharmasoft": "11290",
+    "formidable": "FC6665",
+    "moh": "6665"
+  }
+}

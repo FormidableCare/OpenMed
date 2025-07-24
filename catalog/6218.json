@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6218",
+  "name": "CIALIS 2.5MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.630114",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIALIS 2.5MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 361.5411,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 424.8107925,
+    "maxPriceWithVAT": 501.2767352,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89210",
+    "pharmasoft": "3945",
+    "formidable": "FC6218",
+    "moh": "6218"
+  }
+}

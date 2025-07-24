@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9431",
+  "name": "TOLTERODINE E.R. MEDOMIE 4 MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.306246",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדומי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TOLTERODINE E.R. MEDOMIE 4 MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 62.5995,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 84.1963275,
+    "maxPriceWithVAT": 99.35166645,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9431",
+    "moh": "9431"
+  }
+}

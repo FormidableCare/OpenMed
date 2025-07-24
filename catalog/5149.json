@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5149",
+  "name": "KALBETEN SUSP 200ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.650938",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "סם און",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALBETEN SUSP 200ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 37.31,
+    "maxPriceWithVAT": 44.0258,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "11202",
+    "formidable": "FC5149",
+    "moh": "5149"
+  }
+}

@@ -3,12 +3,17 @@
   "title": "OpenMedMedication",
   "description": "Schema for OpenMed medication data format",
   "type": "object",
-  "required": ["resourceType", "id", "meta", "status", "type", "manufacturer", "product", "composition"],
+  "required": ["resourceType", "id", "name", "meta", "status", "category", "manufacturer", "composition"],
   "properties": {
     "resourceType": {
       "type": "string",
       "const": "OpenMedMedication",
       "description": "Resource type identifier"
+    },
+    "name": {
+      "type": "string",
+      "description": "Product name",
+      "maxLength": 500
     },
     "id": {
       "type": "string",
@@ -17,7 +22,7 @@
     },
     "meta": {
       "type": "object",
-      "required": ["version", "lastUpdated", "source"],
+      "required": ["version", "lastUpdated"],
       "properties": {
         "version": {
           "type": "string",
@@ -34,22 +39,17 @@
           "description": "Source file of the medication data"
         }
       },
-      "additionalProperties": false
+      "additionalProperties": true
     },
     "status": {
       "type": "string",
       "description": "Current status of the medication",
-      "enum": ["active", "expired", "withdrawn", "experimental", "clinical-trial"]
+      "enum": ["draft", "active", "expired", "withdrawn", "experimental", "clinical-trial"]
     },
     "lifecycleStage": {
       "type": "string",
       "description": "Optional fine-grain status",
-      "enum": ["marketed", "discontinued", "pending", "approved", "rejected"]
-    },
-    "type": {
-      "type": "string",
-      "description": "Type of medication",
-      "enum": ["otc", "cannabis", "opioid", "29c", "research", "prescription"]
+      "enum": ["marketed", "discontinued", "pending", "approved", "rejected", "draft"]
     },
     "category": {
       "type": "string",
@@ -73,101 +73,87 @@
       },
       "additionalProperties": false
     },
-    "product": {
-      "type": "object",
-      "required": ["name", "form", "route"],
-      "properties": {
-        "name": {
-          "type": "string",
-          "description": "Product name",
-          "maxLength": 500
-        },
-        "form": {
-          "type": "string",
-          "description": "Pharmaceutical form",
-          "maxLength": 100
-        },
-        "route": {
-          "type": "string",
-          "description": "Administration route",
-          "enum": ["oral", "intravenous", "intramuscular", "subcutaneous", "topical", "inhalation", "rectal", "vaginal", "ophthalmic", "otic", "nasal", "transdermal"]
-        },
-        "site": {
-          "type": "string",
-          "description": "Administration site",
-          "maxLength": 100
-        },
-        "method": {
-          "type": "string",
-          "description": "Administration method",
-          "maxLength": 100
-        }
-      },
-      "additionalProperties": false
+    "form": {
+      "type": "string",
+      "description": "Pharmaceutical form",
+      "maxLength": 100
     },
-    "brand": {
-      "type": "object",
-      "properties": {
-        "name": {
-          "type": "string",
-          "description": "Brand name",
-          "maxLength": 200
-        },
-        "yarpaCode": {
-          "type": "string",
-          "description": "Yarpa database code",
-          "maxLength": 50
-        },
-        "pharmasoftCode": {
-          "type": "string",
-          "description": "PharmaSoft database code",
-          "maxLength": 50
-        },
-        "packaging": {
-          "type": "array",
-          "description": "Available packaging options",
-          "items": {
-            "type": "object",
-            "required": ["packageSize", "unit"],
-            "properties": {
-              "packageSize": {
-                "type": "number",
-                "description": "Size of the package"
-              },
-              "unit": {
-                "type": "string",
-                "description": "Unit of measurement"
-              }
-            },
-            "additionalProperties": false
+    "route": {
+      "type": "string",
+      "description": "Administration route",
+      "enum": ["oral", "intravenous", "intramuscular", "subcutaneous", "topical", "inhalation", "rectal", "vaginal", "ophthalmic", "otic", "nasal", "transdermal"]
+    },
+    "site": {
+      "type": "string",
+      "description": "Administration site",
+      "maxLength": 100
+    },
+    "method": {
+      "type": "string",
+      "description": "Administration method",
+      "maxLength": 100,
+      "enum": [
+      "Topical application",
+      "Nebulization",
+      "Oral transmucosal administration",
+      "Inhalation",
+      "Injection",
+      "Insertion",
+      "Instillation",
+      "Nasal instillation",
+      "Ophthalmic instillation",
+      "Otic instillation",
+      "Buccal administration",
+      "Sublingual administration",
+      "Oral administration",
+      "Administration",
+      "Washing",
+      "Nasal spray application"
+      ]
+    },
+
+    "packaging": {
+      "type": "array",
+      "description": "Available packaging options",
+      "items": {
+        "type": "object",
+        "required": ["packageSize", "unit"],
+        "properties": {
+          "packageSize": {
+            "type": "number",
+            "description": "Size of the package"
+          },
+          "unit": {
+            "type": "string",
+            "description": "Unit of measurement"
           }
         },
-        "pricing": {
-          "type": "object",
-          "properties": {
-            "maxWholesalePrice": {
-              "type": "number",
-              "description": "Maximum wholesale price"
-            },
-            "retailMarginPercent": {
-              "type": "number",
-              "description": "Retail margin percentage"
-            },
-            "maxRetailPrice": {
-              "type": "number",
-              "description": "Maximum retail price"
-            },
-            "maxPriceWithVAT": {
-              "type": "number",
-              "description": "Maximum price including VAT"
-            },
-            "currency": {
-              "type": "string",
-              "description": "Currency code",
-              "pattern": "^[A-Z]{3}$"
-            }
-          },
-          "additionalProperties": false
+        "additionalProperties": false
+      }
+    },
+    "pricing": {
+      "type": "object",
+      "properties": {
+        "maxWholesalePrice": {
+          "type": "number",
+          "description": "Maximum wholesale price"
+        },
+        "retailMarginPercent": {
+          "type": "number",
+          "description": "Retail margin percentage"
+        },
+        "maxRetailPrice": {
+          "type": "number",
+          "description": "Maximum retail price"
+        },
+        "maxPriceWithVAT": {
+          "type": "number",
+          "description": "Maximum price including VAT"
+        },
+        "currency": {
+          "type": "string",
+          "description": "Currency code",
+          "pattern": "^[A-Z]{3}$"
         }
       },
       "additionalProperties": false
@@ -204,7 +190,7 @@
             "additionalProperties": false
           },
           "concentration": {
-            "type": "object",
+            "type": ["object", "null"],
             "properties": {
               "value": {
                 "type": "number",
@@ -272,38 +258,28 @@
         "additionalProperties": false
       }
     },
-    "standardCodes": {
+    "codes": {
       "type": "object",
       "properties": {
         "atc": {
-          "type": "object",
-          "properties": {
-            "code": {
-              "type": "string",
-              "description": "ATC classification code",
-              "pattern": "^[A-Z][0-9]{2}[A-Z][A-Z][0-9]{2}$"
-            },
-            "description": {
-              "type": "string",
-              "description": "ATC code description"
-            }
-          },
-          "additionalProperties": false
+          "type": "string",
+          "description": "ATC classification code",
+          "pattern": "^[A-Z][0-9]{2}[A-Z][A-Z][0-9]{2}$"
         },
         "snomed": {
-          "type": "object",
-          "properties": {
-            "code": {
-              "type": "string",
-              "description": "SNOMED CT code",
-              "pattern": "^[0-9]{6,18}$"
-            },
-            "description": {
-              "type": "string",
-              "description": "SNOMED code description"
-            }
-          },
-          "additionalProperties": false
+          "type": "string",
+          "description": "SNOMED CT code",
+          "pattern": "^[0-9]{6,18}$"
+        },
+        "yarpa": {
+          "type": "string",
+          "description": "Yarpa database code",
+          "maxLength": 50
+        },
+        "pharmasoft": {
+          "type": "string",
+          "description": "PharmaSoft database code",
+          "maxLength": 50
         },
         "formidable": {
           "type": "string",
@@ -312,23 +288,6 @@
         "moh": {
           "type": "string",
           "description": "Ministry of Health registration number"
-        },
-        "hospital": {
-          "type": "object",
-          "description": "Hospital-specific codes",
-          "properties": {
-            "ichilov": {
-              "type": "string",
-              "description": "Ichilov Hospital code"
-            },
-            "sheba": {
-              "type": "string",
-              "description": "Sheba Medical Center code"
-            }
-          },
-          "additionalProperties": {
-            "type": "string"
-          }
         }
       },
       "additionalProperties": false

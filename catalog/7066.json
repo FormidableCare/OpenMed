@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7066",
+  "name": "EDURANT 25MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:38.313804",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EDURANT 25MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 802.451805,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 942.8808709,
+    "maxPriceWithVAT": 1112.599378,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77136",
+    "pharmasoft": "5561",
+    "formidable": "FC7066",
+    "moh": "7066"
+  }
+}

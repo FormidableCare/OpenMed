@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2368",
+  "name": "AGISTEN 3 VCR  2% 20GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:16.377776",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AGISTEN 3 VCR  2% 20GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 21.82090667,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 29.89464213,
+    "maxPriceWithVAT": 35.27567615,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "233",
+    "pharmasoft": "1158",
+    "formidable": "FC2368",
+    "moh": "2368"
+  }
+}

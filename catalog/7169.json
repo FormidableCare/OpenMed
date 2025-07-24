@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7169",
+  "name": "INLYTA 5MG 60 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.396935",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "INLYTA 5MG 60 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11699.8619,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 12869.84809,
+    "maxPriceWithVAT": 15186.42008,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77409",
+    "pharmasoft": "9683",
+    "formidable": "FC7169",
+    "moh": "7169"
+  }
+}

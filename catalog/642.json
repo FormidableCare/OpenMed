@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "642",
+  "name": "GLUCAGEN KIT 1MG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.040350",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GLUCAGEN KIT 1MG"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 53.90555583,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 72.5029726,
+    "maxPriceWithVAT": 85.55350386,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9656",
+    "pharmasoft": "9656",
+    "formidable": "FC642",
+    "moh": "642"
+  }
+}

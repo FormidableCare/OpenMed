@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "627",
+  "name": "CLOPIXOL DROPS 20ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:31.508608",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לנדבק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CLOPIXOL DROPS 20ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 25.36224,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 34.7462688,
+    "maxPriceWithVAT": 41.00059536,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8220",
+    "pharmasoft": "3864",
+    "formidable": "FC627",
+    "moh": "627"
+  }
+}

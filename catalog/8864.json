@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8864",
+  "name": "BONJESTA 50 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:24.461304",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BONJESTA 50 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 374.01105,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 439.4629838,
+    "maxPriceWithVAT": 518.5662978,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70698",
+    "pharmasoft": "2871",
+    "formidable": "FC8864",
+    "moh": "8864"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8870",
+  "name": "MELPHALAN RAZ 50 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.163210",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רז פרמהצפטי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MELPHALAN RAZ 50 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 280.092,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 329.1081,
+    "maxPriceWithVAT": 388.3475407,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70515",
+    "pharmasoft": "17350",
+    "formidable": "FC8870",
+    "moh": "8870"
+  }
+}

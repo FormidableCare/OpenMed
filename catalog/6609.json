@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6609",
+  "name": "FLUCANOL 150MG 1 CAPSULE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.880463",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLUCANOL 150MG 1 CAPSULE"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.4016,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 18.360192,
+    "maxPriceWithVAT": 21.66502656,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "57190",
+    "pharmasoft": "6129",
+    "formidable": "FC6609",
+    "moh": "6609"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9099",
+  "name": "IFO-CELL 2 G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.468094",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמ.בי.איי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IFO-CELL 2 G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 938.8673578,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1103.169145,
+    "maxPriceWithVAT": 1301.739534,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9099",
+    "moh": "9099"
+  }
+}

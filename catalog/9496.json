@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9496",
+  "name": "VEOZA 45 MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.282517",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VEOZA 45 MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 228.922607,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 268.9840632,
+    "maxPriceWithVAT": 317.4011805,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28853",
+    "formidable": "FC9496",
+    "moh": "9496"
+  }
+}

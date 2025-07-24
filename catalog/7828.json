@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7828",
+  "name": "MYCAMINE 100 MG VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.867351",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MYCAMINE 100 MG VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 972.997158,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1143.271661,
+    "maxPriceWithVAT": 1349.0605,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33077",
+    "pharmasoft": "13788",
+    "formidable": "FC7828",
+    "moh": "7828"
+  }
+}

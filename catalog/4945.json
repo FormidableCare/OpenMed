@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4945",
+  "name": "MABTHERA 500MG/50ML 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:58.478676",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MABTHERA 500MG/50ML 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3020.062306,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3322.068537,
+    "maxPriceWithVAT": 3920.040699,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9770",
+    "pharmasoft": "13544",
+    "formidable": "FC4945",
+    "moh": "4945"
+  }
+}

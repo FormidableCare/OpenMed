@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8697",
+  "name": "ZERBAXA 1 G/0.5 G 10 VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.388900",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZERBAXA 1 G/0.5 G 10 VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3445.247422,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3789.772164,
+    "maxPriceWithVAT": 4471.930955,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "13735",
+    "formidable": "FC8697",
+    "moh": "8697"
+  }
+}

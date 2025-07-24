@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3673",
+  "name": "VIAGRA 100MG 4TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.645184",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VIAGRA 100MG 4TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 63.7321,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 85.7196745,
+    "maxPriceWithVAT": 101.1492159,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33545",
+    "pharmasoft": "22116",
+    "formidable": "FC3673",
+    "moh": "3673"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8095",
+  "name": "SULIQUA 100/50 SOL FOR INJ 3ML 5 PRE FILLED PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.495259",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SULIQUA 100/50 SOL FOR INJ 3ML 5 PRE FILLED PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 563.0516857,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 661.5857306,
+    "maxPriceWithVAT": 780.6711275,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "64778",
+    "pharmasoft": "10154",
+    "formidable": "FC8095",
+    "moh": "8095"
+  }
+}

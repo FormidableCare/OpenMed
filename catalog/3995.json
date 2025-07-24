@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3995",
+  "name": "OTRIVIN MENTHOL MDS 0.1% 10ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.527121",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OTRIVIN MENTHOL MDS 0.1% 10ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 29.43,
+    "maxPriceWithVAT": 34.7274,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "15321",
+    "formidable": "FC3995",
+    "moh": "3995"
+  }
+}

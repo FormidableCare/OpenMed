@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9241",
+  "name": "REFIXIA 1000 IU 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.499085",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REFIXIA 1000 IU 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7414.10973,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8155.520703,
+    "maxPriceWithVAT": 9623.514002,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "11589",
+    "pharmasoft": "18696",
+    "formidable": "FC9241",
+    "moh": "9241"
+  }
+}

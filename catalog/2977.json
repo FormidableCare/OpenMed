@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2977",
+  "name": "OSPOLOT 200MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.505153",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OSPOLOT 200MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 182.9428165,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 228.6785206,
+    "maxPriceWithVAT": 269.8406423,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1589",
+    "pharmasoft": "15071",
+    "formidable": "FC2977",
+    "moh": "2977"
+  }
+}

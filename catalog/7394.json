@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7394",
+  "name": "IMBRUVICA 140MG 90CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:51.764900",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IMBRUVICA 140MG 90CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19258.77908,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 21184.65699,
+    "maxPriceWithVAT": 24997.89414,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "51487",
+    "pharmasoft": "9757",
+    "formidable": "FC7394",
+    "moh": "7394"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8175",
+  "name": "SEVELAMER TARO 800 MG 180TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.111579",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 180,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SEVELAMER TARO 800 MG 180TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 524.6453,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 616.4582275,
+    "maxPriceWithVAT": 727.4207085,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "54683",
+    "formidable": "FC8175",
+    "moh": "8175"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3093",
+  "name": "AZENIL 250MG 6CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:21.887183",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 6,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AZENIL 250MG 6CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 17.9774,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 24.629038,
+    "maxPriceWithVAT": 29.06226484,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "68084",
+    "pharmasoft": "1984",
+    "formidable": "FC3093",
+    "moh": "3093"
+  }
+}

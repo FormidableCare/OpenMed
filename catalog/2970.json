@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2970",
+  "name": "HYDROGEN  PEROXIDE 3% 100CC",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.427191",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HYDROGEN  PEROXIDE 3% 100CC"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 9.75,
+    "maxPriceWithVAT": 11.505,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "8007",
+    "formidable": "FC2970",
+    "moh": "2970"
+  }
+}

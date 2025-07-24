@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5124",
+  "name": "TEARS NATURAL  2 EYE DROPS 15ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.211042",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEARS NATURAL  2 EYE DROPS 15ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 25.47,
+    "maxPriceWithVAT": 30.0546,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "20091",
+    "formidable": "FC5124",
+    "moh": "5124"
+  }
+}

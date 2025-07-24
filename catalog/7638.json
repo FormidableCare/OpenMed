@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7638",
+  "name": "TRANSLARNA 1000MG 30 SACHETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.744259",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRANSLARNA 1000MG 30 SACHETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 98184.25005,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 108002.6751,
+    "maxPriceWithVAT": 127443.1509,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "80552",
+    "pharmasoft": "9835",
+    "formidable": "FC7638",
+    "moh": "7638"
+  }
+}

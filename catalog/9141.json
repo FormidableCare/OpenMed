@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9141",
+  "name": "VARDENAFIL INOVAMED 20 MG 4 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.954871",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אינובמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VARDENAFIL INOVAMED 20 MG 4 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 67.51912635,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 90.81322494,
+    "maxPriceWithVAT": 107.1596007,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "24492",
+    "pharmasoft": "22504",
+    "formidable": "FC9141",
+    "moh": "9141"
+  }
+}

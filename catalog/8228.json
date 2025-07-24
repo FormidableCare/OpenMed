@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8228",
+  "name": "FUROSEMIDE S.A.L.F 20 MG/ 2 ML 5 vials",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.398383",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רז פרמהצפטי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FUROSEMIDE S.A.L.F 20 MG/ 2 ML 5 vials"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.6,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 13.152,
+    "maxPriceWithVAT": 15.51936,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "52755",
+    "formidable": "FC8228",
+    "moh": "8228"
+  }
+}

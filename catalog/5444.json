@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5444",
+  "name": "PARAMOL 500MG 20 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.553536",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ליף-דקסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PARAMOL 500MG 20 TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 12.06,
+    "maxPriceWithVAT": 14.2308,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5444",
+    "moh": "5444"
+  }
+}

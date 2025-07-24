@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6924",
+  "name": "ORFADIN 2MG 60CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.308803",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ORFADIN 2MG 60CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2039.370412,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2243.307453,
+    "maxPriceWithVAT": 2647.102794,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "38092",
+    "pharmasoft": "15417",
+    "formidable": "FC6924",
+    "moh": "6924"
+  }
+}

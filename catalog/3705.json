@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3705",
+  "name": "RETAVIT 0.025% GEL 20GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.119875",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RETAVIT 0.025% GEL 20GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 38.863904,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 52.27195088,
+    "maxPriceWithVAT": 61.6808993,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8831",
+    "pharmasoft": "18010",
+    "formidable": "FC3705",
+    "moh": "3705"
+  }
+}

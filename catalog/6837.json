@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6837",
+  "name": "SAPHRIS 5MG 20 SUBLINGUAL TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.611443",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SAPHRIS 5MG 20 SUBLINGUAL TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 144.9738,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 181.21725,
+    "maxPriceWithVAT": 213.8363455,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC6837",
+    "moh": "6837"
+  }
+}

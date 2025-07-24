@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9032",
+  "name": "QINLOCK 50MG 90 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.670304",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "QINLOCK 50MG 90 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 84448.38434,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 92893.22277,
+    "maxPriceWithVAT": 109613.998,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3039",
+    "pharmasoft": "23570",
+    "formidable": "FC9032",
+    "moh": "9032"
+  }
+}

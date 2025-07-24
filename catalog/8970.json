@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8970",
+  "name": "MVASI 100MG 25MG/ML VIAL 4ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.827002",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MVASI 100MG 25MG/ML VIAL 4ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 680.9212731,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 800.0824959,
+    "maxPriceWithVAT": 944.0973032,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "69460",
+    "formidable": "FC8970",
+    "moh": "8970"
+  }
+}

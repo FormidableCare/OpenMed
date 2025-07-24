@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "746",
+  "name": "PROZAC 20MG 56CAP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.507185",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROZAC 20MG 56CAP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 43.637,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 58.691765,
+    "maxPriceWithVAT": 69.2562827,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "78216",
+    "pharmasoft": "16600",
+    "formidable": "FC746",
+    "moh": "746"
+  }
+}

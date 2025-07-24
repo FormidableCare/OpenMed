@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2341",
+  "name": "PROTHIAZINE SYR110ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.388810",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 110,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROTHIAZINE SYR110ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.7565,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 18.846405,
+    "maxPriceWithVAT": 22.2387579,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1822",
+    "pharmasoft": "16279",
+    "formidable": "FC2341",
+    "moh": "2341"
+  }
+}

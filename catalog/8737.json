@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8737",
+  "name": "VITRAKVI  20 MG/ML ORAL SOLUTION 100ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.975621",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VITRAKVI  20 MG/ML ORAL SOLUTION 100ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8051.36334,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8856.499674,
+    "maxPriceWithVAT": 10450.66915,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "14797",
+    "formidable": "FC8737",
+    "moh": "8737"
+  }
+}

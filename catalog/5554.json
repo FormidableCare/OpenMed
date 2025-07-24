@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5554",
+  "name": "IBUPRO LIQUI - GELS 200 40 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.495815",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ליף-דקסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 40,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IBUPRO LIQUI - GELS 200 40 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 38.26,
+    "maxPriceWithVAT": 45.1468,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5554",
+    "moh": "5554"
+  }
+}

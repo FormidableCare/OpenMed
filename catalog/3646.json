@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3646",
+  "name": "CALMANERVIN 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.569846",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "סם און",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CALMANERVIN 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 18.03,
+    "maxPriceWithVAT": 21.2754,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "3092",
+    "formidable": "FC3646",
+    "moh": "3646"
+  }
+}

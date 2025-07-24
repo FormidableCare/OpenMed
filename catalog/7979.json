@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7979",
+  "name": "DESCOVY 200 MG/10 MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.370398",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "גיליאד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DESCOVY 200 MG/10 MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1745.137408,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 2050.536455,
+    "maxPriceWithVAT": 2419.632909,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62099",
+    "pharmasoft": "4667",
+    "formidable": "FC7979",
+    "moh": "7979"
+  }
+}

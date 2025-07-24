@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9145",
+  "name": "REPHENIDATE LA 40 MG CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.977718",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REPHENIDATE LA 40 MG CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 108.4660303,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 135.5825378,
+    "maxPriceWithVAT": 159.9873946,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "41268",
+    "pharmasoft": "18683",
+    "formidable": "FC9145",
+    "moh": "9145"
+  }
+}

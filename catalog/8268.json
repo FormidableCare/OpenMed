@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8268",
+  "name": "REMIFENTANIL  2MG  5VIAL 5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.752957",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REMIFENTANIL  2MG  5VIAL 5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 111.5434,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 139.42925,
+    "maxPriceWithVAT": 164.526515,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20081",
+    "formidable": "FC8268",
+    "moh": "8268"
+  }
+}

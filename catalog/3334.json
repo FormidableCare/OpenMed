@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3334",
+  "name": "NEURONTIN 300MG 100CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.593326",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NEURONTIN 300MG 100CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 67.3909,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 90.6407605,
+    "maxPriceWithVAT": 106.9560974,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9580",
+    "pharmasoft": "14090",
+    "formidable": "FC3334",
+    "moh": "3334"
+  }
+}

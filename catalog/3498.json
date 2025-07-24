@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3498",
+  "name": "ADIZEM CD 240MG 30CAP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:15.774687",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ADIZEM CD 240MG 30CAP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 32.8507147,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 45.00547914,
+    "maxPriceWithVAT": 53.10646302,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "53942",
+    "pharmasoft": "1151",
+    "formidable": "FC3498",
+    "moh": "3498"
+  }
+}

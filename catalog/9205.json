@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9205",
+  "name": "CIBINQO 100 MG  28 F.C.T",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.735229",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIBINQO 100 MG  28 F.C.T"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4002.787964,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4403.06676,
+    "maxPriceWithVAT": 5195.618546,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "46907",
+    "formidable": "FC9205",
+    "moh": "9205"
+  }
+}

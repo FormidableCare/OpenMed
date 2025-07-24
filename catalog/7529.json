@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7529",
+  "name": "VERORAB 2.5IU 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.331956",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VERORAB 2.5IU 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 201.1822793,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 236.3891781,
+    "maxPriceWithVAT": 278.9392178,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "61755",
+    "formidable": "FC7529",
+    "moh": "7529"
+  }
+}

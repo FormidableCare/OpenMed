@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9369",
+  "name": "MYCOPHENOLIC INOVAMED 360 MG 120 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.973523",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אינובמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MYCOPHENOLIC INOVAMED 360 MG 120 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 621.4844416,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 730.2442189,
+    "maxPriceWithVAT": 861.6881783,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "5105",
+    "pharmasoft": "23640",
+    "formidable": "FC9369",
+    "moh": "9369"
+  }
+}

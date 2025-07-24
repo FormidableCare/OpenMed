@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5528",
+  "name": "VOLTAREN EMULGEL FORTE 2% 150GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.449913",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 150,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VOLTAREN EMULGEL FORTE 2% 150GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 112.82,
+    "maxPriceWithVAT": 133.1276,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5528",
+    "moh": "5528"
+  }
+}

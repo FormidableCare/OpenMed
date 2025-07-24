@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4706",
+  "name": "CRESTOR 10MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.872434",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CRESTOR 10MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 53.4062,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 71.831339,
+    "maxPriceWithVAT": 84.76098002,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60449",
+    "pharmasoft": "3754",
+    "formidable": "FC4706",
+    "moh": "4706"
+  }
+}

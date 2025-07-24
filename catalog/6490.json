@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6490",
+  "name": "FOSRENOL 500MG 90 CHEW TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:46.831812",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טקדה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FOSRENOL 500MG 90 CHEW TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 506.7842895,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 595.4715402,
+    "maxPriceWithVAT": 702.6563862,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89496",
+    "pharmasoft": "6449",
+    "formidable": "FC6490",
+    "moh": "6490"
+  }
+}

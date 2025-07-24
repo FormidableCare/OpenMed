@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2478",
+  "name": "IODO-VIT SOL.20ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.589694",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IODO-VIT SOL.20ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 9.4,
+    "maxPriceWithVAT": 11.092,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "9052",
+    "formidable": "FC2478",
+    "moh": "2478"
+  }
+}

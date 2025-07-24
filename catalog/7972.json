@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7972",
+  "name": "NUCALA 100mg/ml vial",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.792999",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NUCALA 100mg/ml vial"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3492.991201,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3842.290321,
+    "maxPriceWithVAT": 4533.902377,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59906",
+    "pharmasoft": "14605",
+    "formidable": "FC7972",
+    "moh": "7972"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6835",
+  "name": "HALAVEN 0.44MG/ML VIAL 2.26ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.529051",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסיי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HALAVEN 0.44MG/ML VIAL 2.26ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1337.497131,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1571.559129,
+    "maxPriceWithVAT": 1854.439689,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "39036",
+    "pharmasoft": "8397",
+    "formidable": "FC6835",
+    "moh": "6835"
+  }
+}

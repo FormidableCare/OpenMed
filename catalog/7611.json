@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7611",
+  "name": "FENTORA 100MCG 28 BUCCAL TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:44.882678",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FENTORA 100MCG 28 BUCCAL TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 312.8530692,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 367.6023563,
+    "maxPriceWithVAT": 433.7707612,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76296",
+    "pharmasoft": "6582",
+    "formidable": "FC7611",
+    "moh": "7611"
+  }
+}

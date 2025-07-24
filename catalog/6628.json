@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6628",
+  "name": "HUMALOG MIX 50 KWIKPEN 5X3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.449161",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMALOG MIX 50 KWIKPEN 5X3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 128.4332355,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 160.5415444,
+    "maxPriceWithVAT": 189.4390139,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "18783",
+    "pharmasoft": "9388",
+    "formidable": "FC6628",
+    "moh": "6628"
+  }
+}

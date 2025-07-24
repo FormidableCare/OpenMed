@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7615",
+  "name": "FENTORA 800MCG 28 BUCCAL TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:44.973548",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FENTORA 800MCG 28 BUCCAL TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 472.1071656,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 554.7259196,
+    "maxPriceWithVAT": 654.576556,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76300",
+    "pharmasoft": "6586",
+    "formidable": "FC7615",
+    "moh": "7615"
+  }
+}

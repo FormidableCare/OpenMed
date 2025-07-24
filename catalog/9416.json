@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9416",
+  "name": "ATOSIBAN ALTAN 6.75MG/5ML 1 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.713842",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרופארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ATOSIBAN ALTAN 6.75MG/5ML 1 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 62.48,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 84.0356,
+    "maxPriceWithVAT": 99.162008,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17131",
+    "formidable": "FC9416",
+    "moh": "9416"
+  }
+}

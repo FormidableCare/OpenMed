@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7671",
+  "name": "ADVAGRAF 1MG 50  P.R. CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:15.954947",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ADVAGRAF 1MG 50  P.R. CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 194.79066,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 228.8790255,
+    "maxPriceWithVAT": 270.0772381,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "74114",
+    "pharmasoft": "9818",
+    "formidable": "FC7671",
+    "moh": "7671"
+  }
+}

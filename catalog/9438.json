@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9438",
+  "name": "BRINZOTOL S.K BOTTLE 5 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:25.404030",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BRINZOTOL S.K BOTTLE 5 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 29.5753245,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 40.51819457,
+    "maxPriceWithVAT": 47.81146746,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17325",
+    "formidable": "FC9438",
+    "moh": "9438"
+  }
+}

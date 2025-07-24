@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3224",
+  "name": "V.CRIMA 15ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.354230",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "V.CRIMA 15ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 13.85,
+    "maxPriceWithVAT": 16.343,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "22039",
+    "formidable": "FC3224",
+    "moh": "3224"
+  }
+}

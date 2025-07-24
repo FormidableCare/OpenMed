@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1191",
+  "name": "ZOVIRAX SUSP 125ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.657173",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 125,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOVIRAX SUSP 125ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 68.61907542,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 92.29265644,
+    "maxPriceWithVAT": 108.9053298,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20743",
+    "pharmasoft": "26057",
+    "formidable": "FC1191",
+    "moh": "1191"
+  }
+}

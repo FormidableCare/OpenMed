@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3474",
+  "name": "RADIAN B MUSCLE CREAM 100GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.772648",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דפריס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RADIAN B MUSCLE CREAM 100GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 36.58,
+    "maxPriceWithVAT": 43.1644,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "18004",
+    "formidable": "FC3474",
+    "moh": "3474"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4591",
+  "name": "XALACOM  EYE DROPS 2.5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.522354",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XALACOM  EYE DROPS 2.5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 24.8875,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 34.095875,
+    "maxPriceWithVAT": 40.2331325,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "52094",
+    "pharmasoft": "24030",
+    "formidable": "FC4591",
+    "moh": "4591"
+  }
+}

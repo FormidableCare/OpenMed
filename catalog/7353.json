@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7353",
+  "name": "GEMCITABINE TEVA CONCENTRATE 40MG/ML (1000MG/25ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.190778",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GEMCITABINE TEVA CONCENTRATE 40MG/ML (1000MG/25ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 176.7359,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 220.919875,
+    "maxPriceWithVAT": 260.6854525,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "43116",
+    "pharmasoft": "7917",
+    "formidable": "FC7353",
+    "moh": "7353"
+  }
+}

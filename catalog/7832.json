@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7832",
+  "name": "NATPARA 100 MCG 2CARTRIDGES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.243759",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NATPARA 100 MCG 2CARTRIDGES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 23419.1124,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 25761.02364,
+    "maxPriceWithVAT": 30398.00655,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "54980",
+    "pharmasoft": "14669",
+    "formidable": "FC7832",
+    "moh": "7832"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7348",
+  "name": "LEVETRIM SOLUTION 100MG/ML 300ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.431752",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 300,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEVETRIM SOLUTION 100MG/ML 300ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 170.7,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 213.375,
+    "maxPriceWithVAT": 251.7825,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "51488",
+    "pharmasoft": "12499",
+    "formidable": "FC7348",
+    "moh": "7348"
+  }
+}

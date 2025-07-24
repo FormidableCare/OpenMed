@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9437",
+  "name": "MUPIROCIN S.K 2% tube 3gr",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.786357",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MUPIROCIN S.K 2% tube 3gr"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 18.3135365,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 25.08954501,
+    "maxPriceWithVAT": 29.60566179,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17324",
+    "formidable": "FC9437",
+    "moh": "9437"
+  }
+}

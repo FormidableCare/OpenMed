@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2189",
+  "name": "HISTAFED 20 DRAG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.370910",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HISTAFED 20 DRAG"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 17.94,
+    "maxPriceWithVAT": 21.1692,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "8049",
+    "formidable": "FC2189",
+    "moh": "2189"
+  }
+}

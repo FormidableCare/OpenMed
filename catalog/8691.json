@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8691",
+  "name": "RAVICTI 1.1 G/ML 25 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.284535",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 25,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RAVICTI 1.1 G/ML 25 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 688.8014063,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 809.3416523,
+    "maxPriceWithVAT": 955.0231073,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "64852",
+    "pharmasoft": "18574",
+    "formidable": "FC8691",
+    "moh": "8691"
+  }
+}

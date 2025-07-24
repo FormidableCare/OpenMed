@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5194",
+  "name": "LAMISIL ONCE SOL 10MG/G 4 GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.728715",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LAMISIL ONCE SOL 10MG/G 4 GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 64.93,
+    "maxPriceWithVAT": 76.6174,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "12397",
+    "formidable": "FC5194",
+    "moh": "5194"
+  }
+}

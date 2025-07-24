@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7793",
+  "name": "SIGNIFOR LAR 60 MG 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.293528",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SIGNIFOR LAR 60 MG 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10458.24866,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11504.07353,
+    "maxPriceWithVAT": 13574.80616,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "41061",
+    "pharmasoft": "14593",
+    "formidable": "FC7793",
+    "moh": "7793"
+  }
+}

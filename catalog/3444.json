@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3444",
+  "name": "XYLOVIT 0.05% DRP10ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.466282",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XYLOVIT 0.05% DRP10ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 15.9,
+    "maxPriceWithVAT": 18.762,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "24005",
+    "formidable": "FC3444",
+    "moh": "3444"
+  }
+}

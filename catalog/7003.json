@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7003",
+  "name": "HAEMATE-P 1000I.U 1VIAL/15ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.479941",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סי אס אל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HAEMATE-P 1000I.U 1VIAL/15ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3020.36283,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3322.399113,
+    "maxPriceWithVAT": 3920.430779,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "30797",
+    "pharmasoft": "8340",
+    "formidable": "FC7003",
+    "moh": "7003"
+  }
+}

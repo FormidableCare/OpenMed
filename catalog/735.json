@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "735",
+  "name": "HUMULIN REGULAR 100 IU/ML 10ML sol for inj",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.710074",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMULIN REGULAR 100 IU/ML 10ML sol for inj"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 64.69215975,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 87.01095486,
+    "maxPriceWithVAT": 102.6729222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7039",
+    "pharmasoft": "9001",
+    "formidable": "FC735",
+    "moh": "735"
+  }
+}

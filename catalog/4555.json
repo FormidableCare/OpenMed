@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4555",
+  "name": "ARANESP 150MCG 4 PREFILLED SYR 0.3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:19.165864",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ARANESP 150MCG 4 PREFILLED SYR 0.3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3462.635023,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3808.898525,
+    "maxPriceWithVAT": 4494.50006,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29749",
+    "pharmasoft": "9481",
+    "formidable": "FC4555",
+    "moh": "4555"
+  }
+}

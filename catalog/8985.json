@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8985",
+  "name": "VANCOMYCIN LYOMARK 500 MG 10 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.905985",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרגלית",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VANCOMYCIN LYOMARK 500 MG 10 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 209.2,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 245.81,
+    "maxPriceWithVAT": 290.0558,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "74585",
+    "formidable": "FC8985",
+    "moh": "8985"
+  }
+}

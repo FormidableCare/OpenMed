@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8951",
+  "name": "CARMUSTINE NAVINTA 100 MG/VIAL 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:27.573710",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אמ.בי.איי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CARMUSTINE NAVINTA 100 MG/VIAL 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4965.471572,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5462.01873,
+    "maxPriceWithVAT": 6445.181814,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "84828",
+    "formidable": "FC8951",
+    "moh": "8951"
+  }
+}

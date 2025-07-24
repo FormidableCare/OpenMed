@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3823",
+  "name": "KAMRHO-D IM VIAL 2ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:54.150682",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "קמהדע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KAMRHO-D IM VIAL 2ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 256.4909568,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 301.3768742,
+    "maxPriceWithVAT": 355.6246958,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "19728",
+    "pharmasoft": "11120",
+    "formidable": "FC3823",
+    "moh": "3823"
+  }
+}

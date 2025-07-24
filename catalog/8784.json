@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8784",
+  "name": "REBLOZYL 25 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.412668",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ב.מ.ס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REBLOZYL 25 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4804.327992,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5284.760791,
+    "maxPriceWithVAT": 6236.017456,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "16519",
+    "formidable": "FC8784",
+    "moh": "8784"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4550",
+  "name": "ARANESP 40MCG 4 PREFILLED SYR 0.4ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:19.315029",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ARANESP 40MCG 4 PREFILLED SYR 0.4ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 875.6433191,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1028.8809,
+    "maxPriceWithVAT": 1214.079408,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29744",
+    "pharmasoft": "9484",
+    "formidable": "FC4550",
+    "moh": "4550"
+  }
+}

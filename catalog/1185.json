@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1185",
+  "name": "VISINE ORIGINAL EYE DROPS15ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.403906",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג'ונסון אנד ג'ונסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VISINE ORIGINAL EYE DROPS15ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 21.32,
+    "maxPriceWithVAT": 25.1576,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "22005",
+    "formidable": "FC1185",
+    "moh": "1185"
+  }
+}

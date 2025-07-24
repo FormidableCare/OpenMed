@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9164",
+  "name": "HUMALOG KWIKPEN JUNIOR 100 U/ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:50.406438",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HUMALOG KWIKPEN JUNIOR 100 U/ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 124.9056158,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 156.1320197,
+    "maxPriceWithVAT": 184.235775,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85372",
+    "pharmasoft": "8498",
+    "formidable": "FC9164",
+    "moh": "9164"
+  }
+}

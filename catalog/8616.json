@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8616",
+  "name": "CIPROFLOXACIN I.V G.E.S. 2 MG/ML 100 ML 50 BAGS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:30.615210",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרופארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5000,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIPROFLOXACIN I.V G.E.S. 2 MG/ML 100 ML 50 BAGS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1605.83,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1886.85025,
+    "maxPriceWithVAT": 2226.483295,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "50069",
+    "formidable": "FC8616",
+    "moh": "8616"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3888",
+  "name": "ADVIL 200MG 40LIQUI-GELS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.968122",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 40,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ADVIL 200MG 40LIQUI-GELS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 50.68,
+    "maxPriceWithVAT": 59.8024,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "1609",
+    "formidable": "FC3888",
+    "moh": "3888"
+  }
+}

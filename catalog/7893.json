@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7893",
+  "name": "PROQUAD 1 vial",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.254678",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROQUAD 1 vial"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 303.9381599,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 357.1273378,
+    "maxPriceWithVAT": 421.4102399,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "47562",
+    "pharmasoft": "16958",
+    "formidable": "FC7893",
+    "moh": "7893"
+  }
+}

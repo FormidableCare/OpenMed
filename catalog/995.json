@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "995",
+  "name": "URALYT-U GRANUL.280G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.699252",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 280,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "URALYT-U GRANUL.280G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 76.791834,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 103.2850167,
+    "maxPriceWithVAT": 121.8763143,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2047",
+    "pharmasoft": "21025",
+    "formidable": "FC995",
+    "moh": "995"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8891",
+  "name": "VEKLURY 100 MG PWDR FOR CONCENTRATE FOR SOL FOR INF 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.097437",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "גיליאד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VEKLURY 100 MG PWDR FOR CONCENTRATE FOR SOL FOR INF 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1653.371167,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1942.711121,
+    "maxPriceWithVAT": 2292.399021,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "21612",
+    "formidable": "FC8891",
+    "moh": "8891"
+  }
+}

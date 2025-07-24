@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1233",
+  "name": "CELESTONE CHRONODOSE 1ML 1AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:28.743078",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CELESTONE CHRONODOSE 1ML 1AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13.6936965,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 18.76036421,
+    "maxPriceWithVAT": 22.13722878,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "471",
+    "pharmasoft": "3113",
+    "formidable": "FC1233",
+    "moh": "1233"
+  }
+}

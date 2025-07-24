@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8741",
+  "name": "EMGALITY 120 MG 1 PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.267966",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EMGALITY 120 MG 1 PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1677.387359,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1970.930147,
+    "maxPriceWithVAT": 2325.69747,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "42703",
+    "pharmasoft": "5655",
+    "formidable": "FC8741",
+    "moh": "8741"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9237",
+  "name": "PLUVICTO SOL FOR INJ / INF 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.950660",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PLUVICTO SOL FOR INJ / INF 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 80950.76333,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 89045.83967,
+    "maxPriceWithVAT": 105074.0861,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17429",
+    "formidable": "FC9237",
+    "moh": "9237"
+  }
+}

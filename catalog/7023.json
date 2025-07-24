@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7023",
+  "name": "MENOPUR MULTIDOSE 600 IU 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.308676",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרינג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MENOPUR MULTIDOSE 600 IU 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 581.131455,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 682.8294596,
+    "maxPriceWithVAT": 805.7387265,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33846",
+    "pharmasoft": "13698",
+    "formidable": "FC7023",
+    "moh": "7023"
+  }
+}

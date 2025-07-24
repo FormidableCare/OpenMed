@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7449",
+  "name": "HEPAGAM B 312 IU/ML VIAL 5ML (1560UI~31.2ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.982996",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 31,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HEPAGAM B 312 IU/ML VIAL 5ML (1560UI~31.2ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3944.286,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4338.7146,
+    "maxPriceWithVAT": 5119.683001,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "78667",
+    "pharmasoft": "8376",
+    "formidable": "FC7449",
+    "moh": "7449"
+  }
+}

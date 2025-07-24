@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8909",
+  "name": "MAGNESIUM SULFATE KALCEKS 50 % 2ML 10 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:58.606250",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדי מרקט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MAGNESIUM SULFATE KALCEKS 50 % 2ML 10 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 74.992618,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 100.8650712,
+    "maxPriceWithVAT": 119.0207787,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8909",
+    "moh": "8909"
+  }
+}

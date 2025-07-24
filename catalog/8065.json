@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8065",
+  "name": "ABIRATERONE TEVA 250MG 120TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:14.071516",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ABIRATERONE TEVA 250MG 120TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 13221.014,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 14543.1154,
+    "maxPriceWithVAT": 17160.87617,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55637",
+    "formidable": "FC8065",
+    "moh": "8065"
+  }
+}

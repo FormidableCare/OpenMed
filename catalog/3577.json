@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3577",
+  "name": "OCSAAR 50MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:04.093266",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OCSAAR 50MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15.8329,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 21.691073,
+    "maxPriceWithVAT": 25.59546614,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9314",
+    "pharmasoft": "15021",
+    "formidable": "FC3577",
+    "moh": "3577"
+  }
+}

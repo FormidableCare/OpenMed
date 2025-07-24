@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "533",
+  "name": "EURAX CREAM 10% 20GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.990375",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דפריס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EURAX CREAM 10% 20GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 24.33,
+    "maxPriceWithVAT": 28.7094,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "5094",
+    "formidable": "FC533",
+    "moh": "533"
+  }
+}

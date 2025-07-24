@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8585",
+  "name": "ASSIVAL TEVA 10 MG/2 ML 10 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.338065",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ASSIVAL TEVA 10 MG/2 ML 10 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19.1323665,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 26.21134211,
+    "maxPriceWithVAT": 30.92938231,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "61650",
+    "formidable": "FC8585",
+    "moh": "8585"
+  }
+}

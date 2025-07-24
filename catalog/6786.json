@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6786",
+  "name": "FOSCAVIR 24MG/ML 250ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:46.763859",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FOSCAVIR 24MG/ML 250ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 407.9208975,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 479.3070545,
+    "maxPriceWithVAT": 565.5822992,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "83426",
+    "pharmasoft": "6498",
+    "formidable": "FC6786",
+    "moh": "6786"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9175",
+  "name": "DASATINIB TEVA 20 MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:34.363666",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DASATINIB TEVA 20 MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3381.524631,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3719.677094,
+    "maxPriceWithVAT": 4389.218971,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "37216",
+    "formidable": "FC9175",
+    "moh": "9175"
+  }
+}

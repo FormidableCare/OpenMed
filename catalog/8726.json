@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8726",
+  "name": "FLUSALMER S.K 50/250 MCG 60 DOSES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:46.313522",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLUSALMER S.K 50/250 MCG 60 DOSES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 84.0406554,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 113.0346815,
+    "maxPriceWithVAT": 133.3809242,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29556",
+    "pharmasoft": "6629",
+    "formidable": "FC8726",
+    "moh": "8726"
+  }
+}

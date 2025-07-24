@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8511",
+  "name": "JORVEZA 1 MG 90 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.853770",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "JORVEZA 1 MG 90 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1420.366064,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1668.930125,
+    "maxPriceWithVAT": 1969.33746,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "25914",
+    "formidable": "FC8511",
+    "moh": "8511"
+  }
+}

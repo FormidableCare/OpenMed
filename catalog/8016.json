@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8016",
+  "name": "PREGABALIN TEVA  25 MG 56 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.600179",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PREGABALIN TEVA  25 MG 56 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 27.1117,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 37.143029,
+    "maxPriceWithVAT": 43.82877422,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55993",
+    "pharmasoft": "16982",
+    "formidable": "FC8016",
+    "moh": "8016"
+  }
+}

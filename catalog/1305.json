@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1305",
+  "name": "MAALOX PLUS SUSP 355ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.938764",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פרמה שלום",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 355,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MAALOX PLUS SUSP 355ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 34.53,
+    "maxPriceWithVAT": 40.7454,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "13005",
+    "formidable": "FC1305",
+    "moh": "1305"
+  }
+}

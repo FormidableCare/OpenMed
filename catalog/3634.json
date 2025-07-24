@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3634",
+  "name": "EXELON 3MG 28CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.040655",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EXELON 3MG 28CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 68.0091,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 91.4722395,
+    "maxPriceWithVAT": 107.9372426,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85369",
+    "pharmasoft": "5118",
+    "formidable": "FC3634",
+    "moh": "3634"
+  }
+}

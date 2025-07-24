@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9038",
+  "name": "TUKYSA 50 MG 88 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.456572",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 88,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TUKYSA 50 MG 88 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5989.535666,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 6588.489233,
+    "maxPriceWithVAT": 7774.416949,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "63175",
+    "formidable": "FC9038",
+    "moh": "9038"
+  }
+}

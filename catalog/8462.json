@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8462",
+  "name": "OCALIVA 10MG 30 FC tablets",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:04.044137",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OCALIVA 10MG 30 FC tablets"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10113.80266,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 11125.18292,
+    "maxPriceWithVAT": 13127.71527,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "54990",
+    "pharmasoft": "15504",
+    "formidable": "FC8462",
+    "moh": "8462"
+  }
+}

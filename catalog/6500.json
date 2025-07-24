@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6500",
+  "name": "NAVELBINE 30MG 1CAPSULE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.321058",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NAVELBINE 30MG 1CAPSULE"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 232.4924812,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 273.1786654,
+    "maxPriceWithVAT": 322.3508109,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "63503",
+    "pharmasoft": "14417",
+    "formidable": "FC6500",
+    "moh": "6500"
+  }
+}

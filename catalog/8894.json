@@ -1,0 +1,36 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8894",
+  "name": "ATOMIC 80 MG 28 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.628388",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ATOMIC 80 MG 28 TAB"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "66454",
+    "formidable": "FC8894",
+    "moh": "8894"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6137",
+  "name": "CAMPTO 40MG/2ML IV SOL FOR INF",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:26.783822",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CAMPTO 40MG/2ML IV SOL FOR INF"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 52.64454915,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 70.80691861,
+    "maxPriceWithVAT": 83.55216024,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10486",
+    "pharmasoft": "3717",
+    "formidable": "FC6137",
+    "moh": "6137"
+  }
+}

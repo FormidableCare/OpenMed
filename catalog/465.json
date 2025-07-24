@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "465",
+  "name": "OVESTIN VAG CRM 15G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.621482",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OVESTIN VAG CRM 15G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15.8281695,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 21.68459222,
+    "maxPriceWithVAT": 25.58781768,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1332",
+    "pharmasoft": "15084",
+    "formidable": "FC465",
+    "moh": "465"
+  }
+}

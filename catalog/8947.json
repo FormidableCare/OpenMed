@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8947",
+  "name": "SYNAGIS 50MG/0.5ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.781086",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטראזנקה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SYNAGIS 50MG/0.5ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1286.586943,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1511.739658,
+    "maxPriceWithVAT": 1783.852718,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "73001",
+    "pharmasoft": "17510",
+    "formidable": "FC8947",
+    "moh": "8947"
+  }
+}

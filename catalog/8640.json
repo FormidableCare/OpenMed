@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8640",
+  "name": "FERRIPROX 1000 MG 50 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.019390",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERRIPROX 1000 MG 50 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 517.6256717,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 608.2101642,
+    "maxPriceWithVAT": 717.6879619,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60709",
+    "pharmasoft": "6631",
+    "formidable": "FC8640",
+    "moh": "8640"
+  }
+}

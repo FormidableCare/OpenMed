@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6356",
+  "name": "REQUIP MODUTAB 2MG 28 FILM COATED TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.022072",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REQUIP MODUTAB 2MG 28 FILM COATED TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 26.85556748,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 36.79212745,
+    "maxPriceWithVAT": 43.41470846,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "81951",
+    "pharmasoft": "18407",
+    "formidable": "FC6356",
+    "moh": "6356"
+  }
+}

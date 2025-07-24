@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3980",
+  "name": "CORSODYL MINT 0.2% SOL 300ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.731769",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 300,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CORSODYL MINT 0.2% SOL 300ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 29.16,
+    "maxPriceWithVAT": 34.41,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "3571",
+    "formidable": "FC3980",
+    "moh": "3980"
+  }
+}

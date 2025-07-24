@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9322",
+  "name": "COSENTYX 75 MG/0.5 ML SOLUTION FOR INJECTION",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.614337",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "COSENTYX 75 MG/0.5 ML SOLUTION FOR INJECTION"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1249.418188,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1468.066371,
+    "maxPriceWithVAT": 1732.318241,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1544",
+    "pharmasoft": "23470",
+    "formidable": "FC9322",
+    "moh": "9322"
+  }
+}

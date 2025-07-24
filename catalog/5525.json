@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5525",
+  "name": "SEPTADINE TARHITZ 4% 100ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.926078",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SEPTADINE TARHITZ 4% 100ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 14.52,
+    "maxPriceWithVAT": 17.1336,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5525",
+    "moh": "5525"
+  }
+}

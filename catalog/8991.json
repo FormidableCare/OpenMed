@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8991",
+  "name": "FUROSEMIDE BAXTER 20 MG/2 ML 5 AMPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:47.352400",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרגלית",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FUROSEMIDE BAXTER 20 MG/2 ML 5 AMPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.6,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 13.152,
+    "maxPriceWithVAT": 15.51936,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "59056",
+    "formidable": "FC8991",
+    "moh": "8991"
+  }
+}

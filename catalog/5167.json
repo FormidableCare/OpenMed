@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5167",
+  "name": "ACAMOLI FRUIT SYR 100ML + SYRINGE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.891462",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACAMOLI FRUIT SYR 100ML + SYRINGE"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 17.66,
+    "maxPriceWithVAT": 20.8388,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "1929",
+    "formidable": "FC5167",
+    "moh": "5167"
+  }
+}

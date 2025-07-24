@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9613",
+  "name": "JAYPIRCA 100 MG, 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.714696",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "JAYPIRCA 100 MG, 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 39985.58421,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 43984.14264,
+    "maxPriceWithVAT": 51901.286,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9613",
+    "moh": "9613"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8783",
+  "name": "PADCEV 30 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:06.059323",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PADCEV 30 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3518.665622,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3870.532184,
+    "maxPriceWithVAT": 4567.227774,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "43088",
+    "pharmasoft": "23224",
+    "formidable": "FC8783",
+    "moh": "8783"
+  }
+}

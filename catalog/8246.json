@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8246",
+  "name": "NORADRENALINE SINTETICA 4MG/4ML  10 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.117618",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NORADRENALINE SINTETICA 4MG/4ML  10 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 68.847003,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 92.59921904,
+    "maxPriceWithVAT": 109.2670736,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8246",
+    "moh": "8246"
+  }
+}

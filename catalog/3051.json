@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3051",
+  "name": "RISPERDAL 3MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.986776",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RISPERDAL 3MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 32.5903,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 44.648711,
+    "maxPriceWithVAT": 52.68547898,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9157",
+    "pharmasoft": "18074",
+    "formidable": "FC3051",
+    "moh": "3051"
+  }
+}

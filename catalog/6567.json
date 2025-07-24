@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6567",
+  "name": "OMEPRA 20MG 28 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:04.687956",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OMEPRA 20MG 28 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 25.2,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 34.524,
+    "maxPriceWithVAT": 40.73832,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "13851",
+    "pharmasoft": "15340",
+    "formidable": "FC6567",
+    "moh": "6567"
+  }
+}

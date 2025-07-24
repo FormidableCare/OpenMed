@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7988",
+  "name": "VENCLEXTA 100 MG 120 TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.175296",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VENCLEXTA 100 MG 120 TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 21103.29888,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 23213.62877,
+    "maxPriceWithVAT": 27392.08073,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "42783",
+    "formidable": "FC7988",
+    "moh": "7988"
+  }
+}

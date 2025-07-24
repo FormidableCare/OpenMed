@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1387",
+  "name": "LEUCOVORIN 15MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.158157",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEUCOVORIN 15MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 39.1112,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 52.604564,
+    "maxPriceWithVAT": 62.07338552,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7799",
+    "pharmasoft": "12257",
+    "formidable": "FC1387",
+    "moh": "1387"
+  }
+}

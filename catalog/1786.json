@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1786",
+  "name": "PROLOL 10MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.059663",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROLOL 10MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8.33,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 11.4121,
+    "maxPriceWithVAT": 13.466278,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7967",
+    "pharmasoft": "16556",
+    "formidable": "FC1786",
+    "moh": "1786"
+  }
+}

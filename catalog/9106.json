@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9106",
+  "name": "ROPIVACAINE B.BRAUN 2 MG/ML 20 AMP 10ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.802028",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ROPIVACAINE B.BRAUN 2 MG/ML 20 AMP 10ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 204.856639,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 240.7065508,
+    "maxPriceWithVAT": 284.0337173,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "45663",
+    "formidable": "FC9106",
+    "moh": "9106"
+  }
+}

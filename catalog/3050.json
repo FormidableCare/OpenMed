@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3050",
+  "name": "RISPERDAL 2MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.966774",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RISPERDAL 2MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 24.7938,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 33.967506,
+    "maxPriceWithVAT": 40.08165708,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9156",
+    "pharmasoft": "18073",
+    "formidable": "FC3050",
+    "moh": "3050"
+  }
+}

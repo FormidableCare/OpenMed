@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8131",
+  "name": "XYNTHA 2000 IU LYOPHILIZED POWDER FOR INJECTION",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.031603",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XYNTHA 2000 IU LYOPHILIZED POWDER FOR INJECTION"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4470.984667,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4918.083134,
+    "maxPriceWithVAT": 5803.33784,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "65445",
+    "pharmasoft": "24094",
+    "formidable": "FC8131",
+    "moh": "8131"
+  }
+}

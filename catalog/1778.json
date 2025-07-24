@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1778",
+  "name": "OXOPURIN 400MG 50SR CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.768689",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OXOPURIN 400MG 50SR CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 27.9514,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 38.293418,
+    "maxPriceWithVAT": 45.18623324,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2570",
+    "pharmasoft": "15089",
+    "formidable": "FC1778",
+    "moh": "1778"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3794",
+  "name": "OPTALGIN 500MG 42CAPL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.470979",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 42,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OPTALGIN 500MG 42CAPL"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 35.52,
+    "maxPriceWithVAT": 41.9136,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "15118",
+    "formidable": "FC3794",
+    "moh": "3794"
+  }
+}

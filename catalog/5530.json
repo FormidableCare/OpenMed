@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5530",
+  "name": "IODIFLOR OINTMENT 15 GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.532236",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IODIFLOR OINTMENT 15 GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 9.23,
+    "maxPriceWithVAT": 10.8914,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5530",
+    "moh": "5530"
+  }
+}

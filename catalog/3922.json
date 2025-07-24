@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3922",
+  "name": "ZYLLERGY10MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.506083",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZYLLERGY10MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 37.54,
+    "maxPriceWithVAT": 44.2972,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "26104",
+    "formidable": "FC3922",
+    "moh": "3922"
+  }
+}

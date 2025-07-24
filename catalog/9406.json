@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9406",
+  "name": "ERLOTINIB TARO 150 MG 30 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:41.266989",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ERLOTINIB TARO 150 MG 30 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2966.299354,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3262.929289,
+    "maxPriceWithVAT": 3850.25639,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "15996",
+    "formidable": "FC9406",
+    "moh": "9406"
+  }
+}

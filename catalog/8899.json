@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8899",
+  "name": "LEQVIO 284 MG/1.5ML 1PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:56.025800",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LEQVIO 284 MG/1.5ML 1PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8204.902061,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 9025.392267,
+    "maxPriceWithVAT": 10649.9624,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70789",
+    "pharmasoft": "12605",
+    "formidable": "FC8899",
+    "moh": "8899"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8219",
+  "name": "SOLU CORTEF 500mg/4 ml 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.193503",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SOLU CORTEF 500mg/4 ml 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 45.8201115,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 61.62804997,
+    "maxPriceWithVAT": 72.72109573,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86418",
+    "pharmasoft": "19851",
+    "formidable": "FC8219",
+    "moh": "8219"
+  }
+}

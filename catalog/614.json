@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "614",
+  "name": "VOLTAREN EMULGEL 100G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.427343",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VOLTAREN EMULGEL 100G"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 64.96,
+    "maxPriceWithVAT": 76.6528,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "22215",
+    "formidable": "FC614",
+    "moh": "614"
+  }
+}

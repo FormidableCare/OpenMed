@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "35",
+  "name": "DEPO MEDROL 40MG/ML 1ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.009171",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DEPO MEDROL 40MG/ML 1ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8.087288625,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 11.07958542,
+    "maxPriceWithVAT": 13.07391021,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "620",
+    "pharmasoft": "4051",
+    "formidable": "FC35",
+    "moh": "35"
+  }
+}

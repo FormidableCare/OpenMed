@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9262",
+  "name": "VESOXX 1MG/1ML (10MG/10ML) 100 SYRINGE PREFILLED",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.450169",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרופארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VESOXX 1MG/1ML (10MG/10ML) 100 SYRINGE PREFILLED"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7164.163215,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 7880.579537,
+    "maxPriceWithVAT": 9299.08344,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17138",
+    "formidable": "FC9262",
+    "moh": "9262"
+  }
+}

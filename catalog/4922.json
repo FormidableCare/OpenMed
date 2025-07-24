@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4922",
+  "name": "TOBI 300MG/5ML 56AMPX5ML INH WITH NEBULISER",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.227870",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TOBI 300MG/5ML 56AMPX5ML INH WITH NEBULISER"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5128.605522,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5641.466074,
+    "maxPriceWithVAT": 6656.929672,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "67228",
+    "pharmasoft": "20595",
+    "formidable": "FC4922",
+    "moh": "4922"
+  }
+}

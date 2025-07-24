@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7241",
+  "name": "METHOTREXAT \"EBEWE\" 100MG/ML VIAL 5000MG/50ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.889649",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "METHOTREXAT \"EBEWE\" 100MG/ML VIAL 5000MG/50ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 744.8622,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 875.213085,
+    "maxPriceWithVAT": 1032.75144,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58780",
+    "pharmasoft": "13555",
+    "formidable": "FC7241",
+    "moh": "7241"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9456",
+  "name": "GLIOLAN 1.5 G 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.925383",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GLIOLAN 1.5 G 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3763.327335,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4139.660069,
+    "maxPriceWithVAT": 4884.798664,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "19097",
+    "formidable": "FC9456",
+    "moh": "9456"
+  }
+}

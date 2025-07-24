@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8331",
+  "name": "ADENOHARDT 3MG/ML 6 VIALS 2ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:15.685371",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרופארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 6,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ADENOHARDT 3MG/ML 6 VIALS 2ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 61.24,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 82.3678,
+    "maxPriceWithVAT": 97.194004,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55446",
+    "formidable": "FC8331",
+    "moh": "8331"
+  }
+}

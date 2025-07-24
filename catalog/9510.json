@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9510",
+  "name": "IRINOTECAN VENUS 20 MG/ML 2ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.022686",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טרוסטפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IRINOTECAN VENUS 20 MG/ML 2ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 52.64454915,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 70.80691861,
+    "maxPriceWithVAT": 83.55216024,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9510",
+    "moh": "9510"
+  }
+}

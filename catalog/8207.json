@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8207",
+  "name": "TAROCLINDIN GEL 45GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.332536",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 45,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TAROCLINDIN GEL 45GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 99.6945777,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 124.6182221,
+    "maxPriceWithVAT": 147.0495021,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "23378",
+    "formidable": "FC8207",
+    "moh": "8207"
+  }
+}

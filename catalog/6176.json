@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6176",
+  "name": "PROPECIA 1MG 98TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.181239",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אורגנון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 98,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PROPECIA 1MG 98TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 328.9937,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 386.5675975,
+    "maxPriceWithVAT": 456.1497651,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "78305",
+    "pharmasoft": "16795",
+    "formidable": "FC6176",
+    "moh": "6176"
+  }
+}

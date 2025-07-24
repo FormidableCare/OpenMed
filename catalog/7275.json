@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7275",
+  "name": "PACLIAVENIR 6MG/ML 10VIAL (30MG/5ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.994043",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ביואבניר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PACLIAVENIR 6MG/ML 10VIAL (30MG/5ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1765.1605,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 1941.67655,
+    "maxPriceWithVAT": 2291.178329,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10415",
+    "pharmasoft": "16683",
+    "formidable": "FC7275",
+    "moh": "7275"
+  }
+}

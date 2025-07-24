@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8669",
+  "name": "KALYDECO 50 MG GRANULES 56 SACHETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:54.073818",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALYDECO 50 MG GRANULES 56 SACHETS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 40509.11196,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 44560.02315,
+    "maxPriceWithVAT": 52580.82498,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "68480",
+    "pharmasoft": "11300",
+    "formidable": "FC8669",
+    "moh": "8669"
+  }
+}

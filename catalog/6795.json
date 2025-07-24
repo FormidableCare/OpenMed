@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6795",
+  "name": "TEMO 100 MG 5CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.582489",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEMO 100 MG 5CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 996.4945,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1170.881038,
+    "maxPriceWithVAT": 1381.639624,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "32099",
+    "pharmasoft": "20703",
+    "formidable": "FC6795",
+    "moh": "6795"
+  }
+}

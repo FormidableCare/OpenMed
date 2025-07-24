@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8751",
+  "name": "TRAZIMERA 420 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.845068",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TRAZIMERA 420 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 3386.013454,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3724.614799,
+    "maxPriceWithVAT": 4395.045268,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "75587",
+    "formidable": "FC8751",
+    "moh": "8751"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9493",
+  "name": "XELJANZ 1 MG/ML BOTTLE 240ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.748452",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 240,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XELJANZ 1 MG/ML BOTTLE 240ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2843.445794,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 3127.790374,
+    "maxPriceWithVAT": 3690.792477,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28867",
+    "formidable": "FC9493",
+    "moh": "9493"
+  }
+}

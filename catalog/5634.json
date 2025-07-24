@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5634",
+  "name": "AGISTEN PASTE 30GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.070353",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AGISTEN PASTE 30GR"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 26.85896686,
+    "maxPriceWithVAT": 31.69357949,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5634",
+    "moh": "5634"
+  }
+}

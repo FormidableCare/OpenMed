@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6430",
+  "name": "ATACAND 8MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.394458",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ATACAND 8MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.8588,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.356556,
+    "maxPriceWithVAT": 24.02073608,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "80922",
+    "pharmasoft": "9320",
+    "formidable": "FC6430",
+    "moh": "6430"
+  }
+}

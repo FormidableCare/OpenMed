@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8373",
+  "name": "STRENSIQ ® 40 MG/ML 12 vials 18mg",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.257568",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 12,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STRENSIQ ® 40 MG/ML 12 vials 18mg"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 42923.74588,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 47216.12047,
+    "maxPriceWithVAT": 55715.01967,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62118",
+    "pharmasoft": "9985",
+    "formidable": "FC8373",
+    "moh": "8373"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1833",
+  "name": "STERODEX DROPS 5CC",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.056087",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פישר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STERODEX DROPS 5CC"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8.9145,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 12.212865,
+    "maxPriceWithVAT": 14.4111807,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2041",
+    "pharmasoft": "19149",
+    "formidable": "FC1833",
+    "moh": "1833"
+  }
+}

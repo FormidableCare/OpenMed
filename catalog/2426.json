@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2426",
+  "name": "CLOPIXOL DEPOT 200MG 1AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:31.456310",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לנדבק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CLOPIXOL DEPOT 200MG 1AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 15.314845,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.98133765,
+    "maxPriceWithVAT": 24.75797733,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8223",
+    "pharmasoft": "3634",
+    "formidable": "FC2426",
+    "moh": "2426"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6121",
+  "name": "COPAXONE 20MG/DOSE 28 PREFILLED SYRINGE",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.373264",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "COPAXONE 20MG/DOSE 28 PREFILLED SYRINGE"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1965.189321,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2161.708253,
+    "maxPriceWithVAT": 2550.815625,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "21055",
+    "pharmasoft": "3925",
+    "formidable": "FC6121",
+    "moh": "6121"
+  }
+}

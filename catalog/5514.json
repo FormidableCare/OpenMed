@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5514",
+  "name": "HEMAFER DROPS 50mg/ml 30 ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.339545",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ליף-טרי אוף ליף",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HEMAFER DROPS 50mg/ml 30 ml"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 51.24,
+    "maxPriceWithVAT": 60.4632,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5514",
+    "moh": "5514"
+  }
+}

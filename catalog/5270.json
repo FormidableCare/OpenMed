@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5270",
+  "name": "CROMO-COMOD NASAL SPRAY 15ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:23.756458",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "קיוומא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CROMO-COMOD NASAL SPRAY 15ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 41.29,
+    "maxPriceWithVAT": 48.7222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "3855",
+    "formidable": "FC5270",
+    "moh": "5270"
+  }
+}

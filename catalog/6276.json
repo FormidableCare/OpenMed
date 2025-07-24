@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6276",
+  "name": "REVLIMID 15MG 21 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.274965",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REVLIMID 15MG 21 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 17416.65489,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 19158.32038,
+    "maxPriceWithVAT": 22606.81805,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "83866",
+    "pharmasoft": "18463",
+    "formidable": "FC6276",
+    "moh": "6276"
+  }
+}

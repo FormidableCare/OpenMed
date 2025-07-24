@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8766",
+  "name": "ENSPRYNG 120MG/ML 1 PREF SYR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.848577",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ENSPRYNG 120MG/ML 1 PREF SYR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 27633.22184,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 30396.54402,
+    "maxPriceWithVAT": 35867.92035,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8766",
+    "moh": "8766"
+  }
+}

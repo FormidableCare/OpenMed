@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1469",
+  "name": "ASSIVAL 5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.309533",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ASSIVAL 5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 10.6,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 14.522,
+    "maxPriceWithVAT": 17.13596,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20756",
+    "pharmasoft": "1823",
+    "formidable": "FC1469",
+    "moh": "1469"
+  }
+}

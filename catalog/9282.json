@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9282",
+  "name": "QULIPTA 10 MG 30 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:09.970319",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "QULIPTA 10 MG 30 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1599.211788,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1879.073851,
+    "maxPriceWithVAT": 2217.307045,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "19682",
+    "formidable": "FC9282",
+    "moh": "9282"
+  }
+}

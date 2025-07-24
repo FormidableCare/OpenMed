@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3963",
+  "name": "STREPSILS HONEY AND LEMON 24 LOZ",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.048688",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "רקיט בנקיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 24,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STREPSILS HONEY AND LEMON 24 LOZ"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 25.23,
+    "maxPriceWithVAT": 29.7714,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "19746",
+    "formidable": "FC3963",
+    "moh": "3963"
+  }
+}

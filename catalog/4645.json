@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4645",
+  "name": "ANDROCUR 50MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.667008",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ANDROCUR 50MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 89.2392825,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 120.026835,
+    "maxPriceWithVAT": 141.631659,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "57280",
+    "pharmasoft": "1059",
+    "formidable": "FC4645",
+    "moh": "4645"
+  }
+}

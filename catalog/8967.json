@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8967",
+  "name": "MVASI 400MG 25MG/ML VIAL 16ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:01.845640",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MVASI 400MG 25MG/ML VIAL 16ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2725.665538,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2998.232092,
+    "maxPriceWithVAT": 3537.913711,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60700",
+    "formidable": "FC8967",
+    "moh": "8967"
+  }
+}

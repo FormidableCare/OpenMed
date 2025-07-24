@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8378",
+  "name": "BIMATILOL TEVA EYE DROPS bottle 3ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:23.754811",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BIMATILOL TEVA EYE DROPS bottle 3ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 32.3614456,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 44.33518047,
+    "maxPriceWithVAT": 52.31551296,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "30656",
+    "formidable": "FC8378",
+    "moh": "8378"
+  }
+}

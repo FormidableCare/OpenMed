@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6087",
+  "name": "QVAR 100 MCG/DOSE 200 DOSE AUTOHALER",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.015879",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "QVAR 100 MCG/DOSE 200 DOSE AUTOHALER"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 61.24653,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 82.37658285,
+    "maxPriceWithVAT": 97.20436344,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86461",
+    "pharmasoft": "17018",
+    "formidable": "FC6087",
+    "moh": "6087"
+  }
+}

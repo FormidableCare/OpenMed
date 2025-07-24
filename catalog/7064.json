@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7064",
+  "name": "ZOSTAVAX (ZOSTER VACCINE LIVE) VIAL 0.65ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.629208",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZOSTAVAX (ZOSTER VACCINE LIVE) VIAL 0.65ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 558.966825,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 656.7860194,
+    "maxPriceWithVAT": 775.0074684,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "65806",
+    "pharmasoft": "26182",
+    "formidable": "FC7064",
+    "moh": "7064"
+  }
+}

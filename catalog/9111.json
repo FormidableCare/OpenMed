@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9111",
+  "name": "GENTAMICIN B. BRAUN 3 MG/ML 80 ML 20 CONTAINER",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.366536",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GENTAMICIN B. BRAUN 3 MG/ML 80 ML 20 CONTAINER"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 447.33744,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 525.621492,
+    "maxPriceWithVAT": 620.233333,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "50870",
+    "formidable": "FC9111",
+    "moh": "9111"
+  }
+}

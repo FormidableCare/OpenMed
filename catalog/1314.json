@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1314",
+  "name": "RENNIE PEPPERMINT 96TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.842280",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 96,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RENNIE PEPPERMINT 96TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 44.44,
+    "maxPriceWithVAT": 52.4392,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "18032",
+    "formidable": "FC1314",
+    "moh": "1314"
+  }
+}

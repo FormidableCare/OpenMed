@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9264",
+  "name": "VYVGART 400 MG/20 ML VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.343029",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VYVGART 400 MG/20 ML VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 30268.76757,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 33295.64433,
+    "maxPriceWithVAT": 39288.85856,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "3086",
+    "pharmasoft": "22523",
+    "formidable": "FC9264",
+    "moh": "9264"
+  }
+}

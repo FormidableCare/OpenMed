@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7535",
+  "name": "BETMIGA 50MG 30  P.R.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:23.331721",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אסטלס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BETMIGA 50MG 30  P.R.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 99.7956285,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 124.7445356,
+    "maxPriceWithVAT": 147.1985455,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85013",
+    "pharmasoft": "2585",
+    "formidable": "FC7535",
+    "moh": "7535"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6542",
+  "name": "GONAL-F 600IU/ML PREFILLED PEN 0.5ML (300IU)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.235910",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GONAL-F 600IU/ML PREFILLED PEN 0.5ML (300IU)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 321.1623969,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 377.3658164,
+    "maxPriceWithVAT": 445.2916435,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10864",
+    "pharmasoft": "7656",
+    "formidable": "FC6542",
+    "moh": "6542"
+  }
+}

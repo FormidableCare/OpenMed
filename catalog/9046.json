@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9046",
+  "name": "VOCABRIA INJECTION 600MG/3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.087059",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VOCABRIA INJECTION 600MG/3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4058.916317,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 4464.807948,
+    "maxPriceWithVAT": 5268.473145,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89152",
+    "formidable": "FC9046",
+    "moh": "9046"
+  }
+}

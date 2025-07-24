@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6648",
+  "name": "KALETRA 200MG/50MG 120 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.954768",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALETRA 200MG/50MG 120 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1095.3864,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1287.07902,
+    "maxPriceWithVAT": 1518.753176,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70141",
+    "pharmasoft": "11205",
+    "formidable": "FC6648",
+    "moh": "6648"
+  }
+}

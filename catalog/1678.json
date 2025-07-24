@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1678",
+  "name": "SEDURAL 100MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.722787",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רקח",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SEDURAL 100MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 26.6738,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 36.543106,
+    "maxPriceWithVAT": 43.12086508,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "46722",
+    "pharmasoft": "19041",
+    "formidable": "FC1678",
+    "moh": "1678"
+  }
+}

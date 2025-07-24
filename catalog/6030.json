@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6030",
+  "name": "TOPITRIM 100MG 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.380426",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TOPITRIM 100MG 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 101.5724,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 126.9655,
+    "maxPriceWithVAT": 149.81929,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "72914",
+    "pharmasoft": "20608",
+    "formidable": "FC6030",
+    "moh": "6030"
+  }
+}

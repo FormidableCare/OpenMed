@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9314",
+  "name": "SKYRIZI 600 MG/10 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.851753",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SKYRIZI 600 MG/10 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8938.08519,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 9831.893709,
+    "maxPriceWithVAT": 11601.63406,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "31575",
+    "pharmasoft": "23145",
+    "formidable": "FC9314",
+    "moh": "9314"
+  }
+}

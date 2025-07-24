@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8448",
+  "name": "HEMLIBRA 150 MG/ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.918855",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HEMLIBRA 150 MG/ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 34578.37959,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 38036.21755,
+    "maxPriceWithVAT": 44882.73472,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26632",
+    "formidable": "FC8448",
+    "moh": "8448"
+  }
+}

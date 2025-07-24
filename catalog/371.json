@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "371",
+  "name": "MINULET 3X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:00.816304",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MINULET 3X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 41.8935,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 56.3467575,
+    "maxPriceWithVAT": 66.48917385,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29928",
+    "pharmasoft": "13456",
+    "formidable": "FC371",
+    "moh": "371"
+  }
+}

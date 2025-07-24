@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1313",
+  "name": "RENNIE PEPPERMINT 48TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.838185",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 48,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RENNIE PEPPERMINT 48TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 24.78,
+    "maxPriceWithVAT": 29.2404,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "18226",
+    "formidable": "FC1313",
+    "moh": "1313"
+  }
+}

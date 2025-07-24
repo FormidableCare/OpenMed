@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5462",
+  "name": "HISTAZINE 10MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.394819",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "HISTAZINE 10MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 18.77,
+    "maxPriceWithVAT": 22.1486,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5462",
+    "moh": "5462"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6480",
+  "name": "CLEXANE 20MG SAFETY LOCK 2X0.2ML SYR PREFIL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:30.967010",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סאנופי אוונטיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 2,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CLEXANE 20MG SAFETY LOCK 2X0.2ML SYR PREFIL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.474,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 17.08938,
+    "maxPriceWithVAT": 20.1654675,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "84286",
+    "pharmasoft": "3989",
+    "formidable": "FC6480",
+    "moh": "6480"
+  }
+}

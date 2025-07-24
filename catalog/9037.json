@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9037",
+  "name": "TEPMETKO 225MG 60 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.751576",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEPMETKO 225MG 60 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 26168.24816,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 28785.07298,
+    "maxPriceWithVAT": 33966.3846,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76921",
+    "formidable": "FC9037",
+    "moh": "9037"
+  }
+}

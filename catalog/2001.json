@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2001",
+  "name": "CALCILESS 200TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:26.675170",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סם און",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 200,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CALCILESS 200TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 146.15,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 182.6875,
+    "maxPriceWithVAT": 215.5712404,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "417",
+    "pharmasoft": "3012",
+    "formidable": "FC2001",
+    "moh": "2001"
+  }
+}

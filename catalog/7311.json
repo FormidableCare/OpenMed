@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7311",
+  "name": "DESLORATADINE-TRIMA SYRUP 0.5MG/ML 120ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.497284",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DESLORATADINE-TRIMA SYRUP 0.5MG/ML 120ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.516,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 13.03692,
+    "maxPriceWithVAT": 15.3835656,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "50861",
+    "pharmasoft": "4606",
+    "formidable": "FC7311",
+    "moh": "7311"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3234",
+  "name": "OPTI-GENTA 5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:05.189656",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OPTI-GENTA 5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8.55,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 11.7135,
+    "maxPriceWithVAT": 13.82192939,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "9371",
+    "pharmasoft": "15024",
+    "formidable": "FC3234",
+    "moh": "3234"
+  }
+}

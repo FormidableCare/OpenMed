@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8186",
+  "name": "TINDEN DROPS 20 ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:18.154152",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרימה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TINDEN DROPS 20 ml"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 12.18501973,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 16.69347703,
+    "maxPriceWithVAT": 19.6983029,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "6695",
+    "pharmasoft": "20857",
+    "formidable": "FC8186",
+    "moh": "8186"
+  }
+}

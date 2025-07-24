@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8079",
+  "name": "PREGABALIN DEXCEL 50 MG 56 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.432390",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PREGABALIN DEXCEL 50 MG 56 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 47.6157,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 64.0431165,
+    "maxPriceWithVAT": 75.57087747,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58329",
+    "pharmasoft": "16991",
+    "formidable": "FC8079",
+    "moh": "8079"
+  }
+}

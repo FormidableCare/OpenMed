@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7737",
+  "name": "UROMITEXAN 400MG/VIAL 15X4ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.727596",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "UROMITEXAN 400MG/VIAL 15X4ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 126.9764,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 158.7205,
+    "maxPriceWithVAT": 187.29019,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "35271",
+    "pharmasoft": "21123",
+    "formidable": "FC7737",
+    "moh": "7737"
+  }
+}

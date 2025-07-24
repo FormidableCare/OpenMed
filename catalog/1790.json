@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1790",
+  "name": "ATROSPAN DROPS 1% 10CC",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:20.974172",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פישר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ATROSPAN DROPS 1% 10CC"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.9,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 39.593,
+    "maxPriceWithVAT": 46.71973792,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "282",
+    "pharmasoft": "1363",
+    "formidable": "FC1790",
+    "moh": "1790"
+  }
+}

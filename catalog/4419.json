@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4419",
+  "name": "MENOPUR INJ 75IU /1ML 10AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:59.273087",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פרינג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MENOPUR INJ 75IU /1ML 10AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 667.865124,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 784.7415207,
+    "maxPriceWithVAT": 925.9949533,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28448",
+    "pharmasoft": "13153",
+    "formidable": "FC4419",
+    "moh": "4419"
+  }
+}

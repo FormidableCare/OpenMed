@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7804",
+  "name": "COTELLIC 20 MG 63 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:32.666349",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רוש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "COTELLIC 20 MG 63 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19211.74246,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 21132.91671,
+    "maxPriceWithVAT": 24936.8406,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77816",
+    "formidable": "FC7804",
+    "moh": "7804"
+  }
+}

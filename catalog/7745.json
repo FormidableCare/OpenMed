@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7745",
+  "name": "NEBIDO 1000MG/4ML 1VIAL (250 MG/ML IM VIAL4ML)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.356324",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NEBIDO 1000MG/4ML 1VIAL (250 MG/ML IM VIAL4ML)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 337.7072736,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 396.8060464,
+    "maxPriceWithVAT": 468.231114,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62423",
+    "pharmasoft": "14570",
+    "formidable": "FC7745",
+    "moh": "7745"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2992",
+  "name": "LOPERID 2MG 10CAP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.806824",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LOPERID 2MG 10CAP"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 20.55,
+    "maxPriceWithVAT": 24.249,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "12102",
+    "formidable": "FC2992",
+    "moh": "2992"
+  }
+}

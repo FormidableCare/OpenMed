@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5423",
+  "name": "MUCOLESS SOL INHALATION 50ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.033118",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "מכבי קאר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MUCOLESS SOL INHALATION 50ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 16.28,
+    "maxPriceWithVAT": 19.2104,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5423",
+    "moh": "5423"
+  }
+}

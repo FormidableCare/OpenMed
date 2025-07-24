@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4841",
+  "name": "CERTICAN 0.50MG 60 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.232239",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CERTICAN 0.50MG 60 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 536.8289118,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 630.7739714,
+    "maxPriceWithVAT": 744.3132531,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "13351",
+    "pharmasoft": "3791",
+    "formidable": "FC4841",
+    "moh": "4841"
+  }
+}

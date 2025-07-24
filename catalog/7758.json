@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7758",
+  "name": "SAXENDA 6MG/ML 5X3ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.638395",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SAXENDA 6MG/ML 5X3ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 779.9354676,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 916.4241744,
+    "maxPriceWithVAT": 1081.380478,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "30911",
+    "pharmasoft": "9877",
+    "formidable": "FC7758",
+    "moh": "7758"
+  }
+}

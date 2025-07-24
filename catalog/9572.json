@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9572",
+  "name": "VILDAMED S.K. 50/850MG, 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.811381",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VILDAMED S.K. 50/850MG, 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 68.8336536,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 92.58126409,
+    "maxPriceWithVAT": 109.2458868,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9572",
+    "moh": "9572"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3369",
+  "name": "ACAMOL 21 CAPLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.789244",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACAMOL 21 CAPLETS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 15.39,
+    "maxPriceWithVAT": 18.1602,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "1153",
+    "formidable": "FC3369",
+    "moh": "3369"
+  }
+}

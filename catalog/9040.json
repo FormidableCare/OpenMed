@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9040",
+  "name": "REKAMBYS INJECTION 900MG/3ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.542373",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "REKAMBYS INJECTION 900MG/3ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1678.351835,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1972.063406,
+    "maxPriceWithVAT": 2327.034715,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "89154",
+    "formidable": "FC9040",
+    "moh": "9040"
+  }
+}

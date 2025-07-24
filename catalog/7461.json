@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7461",
+  "name": "METOJECT 50MG/ML SYRINGE PREFILLED 27.5MG/0.55ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:00.185950",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "METOJECT 50MG/ML SYRINGE PREFILLED 27.5MG/0.55ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 95.1388,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 118.9235,
+    "maxPriceWithVAT": 140.32973,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "41385",
+    "formidable": "FC7461",
+    "moh": "7461"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "568",
+  "name": "NITRODERM TTS 10MG/24H 10PATCHES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.951657",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NITRODERM TTS 10MG/24H 10PATCHES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 17.8180358,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 24.41070905,
+    "maxPriceWithVAT": 28.80463539,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "2515",
+    "pharmasoft": "14053",
+    "formidable": "FC568",
+    "moh": "568"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6362",
+  "name": "FLAME 3X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.437288",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 63,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FLAME 3X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 42.7311,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 57.4733295,
+    "maxPriceWithVAT": 67.81852881,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "82919",
+    "pharmasoft": "6432",
+    "formidable": "FC6362",
+    "moh": "6362"
+  }
+}

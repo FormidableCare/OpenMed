@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9321",
+  "name": "SPIKEVAX 10 VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.509229",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPIKEVAX 10 VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 6604.335495,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 7264.769045,
+    "maxPriceWithVAT": 8572.427091,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC9321",
+    "moh": "9321"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9011",
+  "name": "ELZONRIS 1MG/ML I.V 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.169981",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סטמליין ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ELZONRIS 1MG/ML I.V 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 36895.5,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 40585.05,
+    "maxPriceWithVAT": 47890.35687,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60941",
+    "formidable": "FC9011",
+    "moh": "9011"
+  }
+}

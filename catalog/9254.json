@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9254",
+  "name": "TAVNEOS 10 MG 180 CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.401301",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 180,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TAVNEOS 10 MG 180 CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 23965.98856,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 26362.58742,
+    "maxPriceWithVAT": 31107.85177,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17575",
+    "formidable": "FC9254",
+    "moh": "9254"
+  }
+}

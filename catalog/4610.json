@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4610",
+  "name": "VFEND 200MG 14TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.468813",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 14,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VFEND 200MG 14TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1254.9661,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1474.585168,
+    "maxPriceWithVAT": 1740.010498,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55087",
+    "pharmasoft": "22084",
+    "formidable": "FC4610",
+    "moh": "4610"
+  }
+}

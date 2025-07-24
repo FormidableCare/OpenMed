@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9542",
+  "name": "BUDESON RECTAL FOAM 1 CANISTER",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:25.879394",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BUDESON RECTAL FOAM 1 CANISTER"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 264.568744,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 310.8682743,
+    "maxPriceWithVAT": 366.8245473,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "62789",
+    "formidable": "FC9542",
+    "moh": "9542"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7707",
+  "name": "BINOCRIT 40000 I.U/1 ML 1 SYRINGE PREFILLED",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:24.071448",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סנדוז",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BINOCRIT 40000 I.U/1 ML 1 SYRINGE PREFILLED"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 937.0056,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1100.98158,
+    "maxPriceWithVAT": 1299.158264,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "56150",
+    "pharmasoft": "2567",
+    "formidable": "FC7707",
+    "moh": "7707"
+  }
+}

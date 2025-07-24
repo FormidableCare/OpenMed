@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9084",
+  "name": "ALKINDI 1 MG 50 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:17.260746",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדומי פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ALKINDI 1 MG 50 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 281.43174,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 330.6822945,
+    "maxPriceWithVAT": 390.2050902,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "83371",
+    "formidable": "FC9084",
+    "moh": "9084"
+  }
+}

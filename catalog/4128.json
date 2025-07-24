@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4128",
+  "name": "SERETIDE DISKUS 50/500MCG 60DISK",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.902028",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SERETIDE DISKUS 50/500MCG 60DISK"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 103.4776912,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 129.347114,
+    "maxPriceWithVAT": 152.6295945,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "21199",
+    "pharmasoft": "19397",
+    "formidable": "FC4128",
+    "moh": "4128"
+  }
+}

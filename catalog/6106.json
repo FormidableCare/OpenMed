@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6106",
+  "name": "JANUVIA 25MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.552923",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מ.ס.ד. ישראל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "JANUVIA 25MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 61.89070869,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 83.24300319,
+    "maxPriceWithVAT": 98.22674377,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86456",
+    "pharmasoft": "10040",
+    "formidable": "FC6106",
+    "moh": "6106"
+  }
+}

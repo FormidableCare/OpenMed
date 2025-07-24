@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4737",
+  "name": "VIEPAX 75MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.755120",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VIEPAX 75MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.7579,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 39.398323,
+    "maxPriceWithVAT": 46.49002114,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60617",
+    "pharmasoft": "22246",
+    "formidable": "FC4737",
+    "moh": "4737"
+  }
+}

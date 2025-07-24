@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9329",
+  "name": "RIVAROXABAN S.K. 2.5 MG 56 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:12.435466",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "SK PHARM(KS KIM)",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 56,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RIVAROXABAN S.K. 2.5 MG 56 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 217.179564,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 255.1859877,
+    "maxPriceWithVAT": 301.1194655,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8864",
+    "pharmasoft": "18707",
+    "formidable": "FC9329",
+    "moh": "9329"
+  }
+}

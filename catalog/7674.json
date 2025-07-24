@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7674",
+  "name": "RIBOMUSTIN 100MG 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:11.625274",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דור שירותים פרמצבטיים",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RIBOMUSTIN 100MG 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 383.05521,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 450.0898718,
+    "maxPriceWithVAT": 531.1060487,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "67336",
+    "pharmasoft": "18518",
+    "formidable": "FC7674",
+    "moh": "7674"
+  }
+}

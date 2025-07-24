@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1110",
+  "name": "LANOXIN PEDI ELX 60ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:55.487994",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LANOXIN PEDI ELX 60ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.282658,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 19.56724146,
+    "maxPriceWithVAT": 23.0893439,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "1167",
+    "pharmasoft": "12019",
+    "formidable": "FC1110",
+    "moh": "1110"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8900",
+  "name": "KESIMPTA 20MG/0.4ML 1PF PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:54.407141",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KESIMPTA 20MG/0.4ML 1PF PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5029.913859,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5532.905245,
+    "maxPriceWithVAT": 6528.827899,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70898",
+    "pharmasoft": "11302",
+    "formidable": "FC8900",
+    "moh": "8900"
+  }
+}

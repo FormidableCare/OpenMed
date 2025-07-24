@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4437",
+  "name": "DEXIMUNE 100MG 50 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:35.889177",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DEXIMUNE 100MG 50 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 428.604,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 503.6097,
+    "maxPriceWithVAT": 594.259446,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "10444",
+    "pharmasoft": "4538",
+    "formidable": "FC4437",
+    "moh": "4437"
+  }
+}

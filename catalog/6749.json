@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6749",
+  "name": "PERGOVERIS 150 IU/75IU VIAL (POWDER+SOLVENT)",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:07.161153",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מרק סרונו",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PERGOVERIS 150 IU/75IU VIAL (POWDER+SOLVENT)"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 286.4317634,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 336.5573219,
+    "maxPriceWithVAT": 397.1376222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "32060",
+    "pharmasoft": "16839",
+    "formidable": "FC6749",
+    "moh": "6749"
+  }
+}

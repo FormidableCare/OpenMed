@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4680",
+  "name": "XEFO 8MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.740311",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XEFO 8MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 19.6958,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 26.983246,
+    "maxPriceWithVAT": 31.84023028,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "61954",
+    "pharmasoft": "24041",
+    "formidable": "FC4680",
+    "moh": "4680"
+  }
+}

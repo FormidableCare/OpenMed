@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8354",
+  "name": "RAFASSAL 3 GRAM GRANULES 50 sachets",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.090807",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RAFASSAL 3 GRAM GRANULES 50 sachets"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 297.0086957,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 348.9852174,
+    "maxPriceWithVAT": 411.8025382,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "76634",
+    "pharmasoft": "18527",
+    "formidable": "FC8354",
+    "moh": "8354"
+  }
+}

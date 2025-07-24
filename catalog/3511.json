@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3511",
+  "name": "DALACIN C 300MG 16CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:33.956017",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 16,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DALACIN C 300MG 16CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.993804,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 20.54151148,
+    "maxPriceWithVAT": 24.23898247,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "75856",
+    "pharmasoft": "4177",
+    "formidable": "FC3511",
+    "moh": "3511"
+  }
+}

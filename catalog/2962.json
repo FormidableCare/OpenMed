@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2962",
+  "name": "MOVEX 8MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.012352",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ויטאמד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MOVEX 8MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 20.41,
+    "maxPriceWithVAT": 24.0838,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "13079",
+    "formidable": "FC2962",
+    "moh": "2962"
+  }
+}

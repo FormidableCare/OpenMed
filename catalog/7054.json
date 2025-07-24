@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7054",
+  "name": "KOATE DVI 250IU/VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:54.752690",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KOATE DVI 250IU/VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 489.3896908,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 575.0328867,
+    "maxPriceWithVAT": 678.5387762,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC7054",
+    "moh": "7054"
+  }
+}

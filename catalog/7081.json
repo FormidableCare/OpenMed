@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7081",
+  "name": "NAGLAZYME 1MG/ML VIAL 5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.199437",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NAGLAZYME 1MG/ML VIAL 5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 5230.485594,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5753.534154,
+    "maxPriceWithVAT": 6789.17,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77106",
+    "pharmasoft": "14552",
+    "formidable": "FC7081",
+    "moh": "7081"
+  }
+}

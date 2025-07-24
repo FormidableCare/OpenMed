@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7846",
+  "name": "ZAVESCA 100 MG 84 CAPSULES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.255000",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 84,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZAVESCA 100 MG 84 CAPSULES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11126.8383,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 12239.52213,
+    "maxPriceWithVAT": 14442.63548,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "77007",
+    "pharmasoft": "26204",
+    "formidable": "FC7846",
+    "moh": "7846"
+  }
+}

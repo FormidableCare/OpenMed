@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3633",
+  "name": "EXELON 1.5MG 28CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:43.017446",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נוברטיס פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "EXELON 1.5MG 28CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 44.6375,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 60.0374375,
+    "maxPriceWithVAT": 70.84417625,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "85368",
+    "pharmasoft": "5117",
+    "formidable": "FC3633",
+    "moh": "3633"
+  }
+}

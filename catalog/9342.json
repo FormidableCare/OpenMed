@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9342",
+  "name": "POTELIGEO  20MG/5ML  1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.043375",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מדיסון",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "POTELIGEO  20MG/5ML  1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4951.201461,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5446.321607,
+    "maxPriceWithVAT": 6426.659211,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "43900",
+    "pharmasoft": "23280",
+    "formidable": "FC9342",
+    "moh": "9342"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7127",
+  "name": "BUCCOLAM 2.5 MG SYRINGE PREFILLED 4X0.5ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:25.743301",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BUCCOLAM 2.5 MG SYRINGE PREFILLED 4X0.5ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 277.5438024,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 326.1139678,
+    "maxPriceWithVAT": 384.8144649,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "40572",
+    "pharmasoft": "2548",
+    "formidable": "FC7127",
+    "moh": "7127"
+  }
+}

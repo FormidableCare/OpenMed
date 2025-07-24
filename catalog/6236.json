@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6236",
+  "name": "CHAMPIX 0.5MGX11TAB+1MGX42TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.363649",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 53,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CHAMPIX 0.5MGX11TAB+1MGX42TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 303.7338681,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 356.887295,
+    "maxPriceWithVAT": 421.1269894,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "16666",
+    "pharmasoft": "3910",
+    "formidable": "FC6236",
+    "moh": "6236"
+  }
+}

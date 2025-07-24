@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8253",
+  "name": "AMINOPHYLLINE S.A.L.F 240 MG/10 ML 5 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.048655",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רז פרמהצפטי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AMINOPHYLLINE S.A.L.F 240 MG/10 ML 5 AMP"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 22.720062,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 31.12648494,
+    "maxPriceWithVAT": 36.7292506,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "52749",
+    "formidable": "FC8253",
+    "moh": "8253"
+  }
+}

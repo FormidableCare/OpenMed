@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "576",
+  "name": "OTRIVIN GEL 0.1% 10G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:25.510732",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "OTRIVIN GEL 0.1% 10G"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 22.79,
+    "maxPriceWithVAT": 26.8922,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "15083",
+    "formidable": "FC576",
+    "moh": "576"
+  }
+}

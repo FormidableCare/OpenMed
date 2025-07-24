@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7457",
+  "name": "SUNACTIC GEL 3% 50G",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.531379",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SUNACTIC GEL 3% 50G"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 155.6229283,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 194.5286604,
+    "maxPriceWithVAT": 229.5438091,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "53734",
+    "pharmasoft": "9745",
+    "formidable": "FC7457",
+    "moh": "7457"
+  }
+}

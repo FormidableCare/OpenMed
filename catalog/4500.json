@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4500",
+  "name": "GEODON 20MG 60CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.454652",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GEODON 20MG 60CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 193.6152855,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 227.4979605,
+    "maxPriceWithVAT": 268.4475814,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "29814",
+    "pharmasoft": "7596",
+    "formidable": "FC4500",
+    "moh": "4500"
+  }
+}

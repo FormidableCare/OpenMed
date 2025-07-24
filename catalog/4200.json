@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4200",
+  "name": "VARILRIX 2000FL/0.5ML 1VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.964784",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VARILRIX 2000FL/0.5ML 1VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 133.3496481,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 166.6870601,
+    "maxPriceWithVAT": 196.6907222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22366",
+    "pharmasoft": "22162",
+    "formidable": "FC4200",
+    "moh": "4200"
+  }
+}

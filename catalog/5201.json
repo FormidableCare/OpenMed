@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5201",
+  "name": "TUMS SMOOTHIES EX PEPERMINT 60 TABS 750MG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.320733",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "ג.ס.ק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TUMS SMOOTHIES EX PEPERMINT 60 TABS 750MG"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 30.22,
+    "maxPriceWithVAT": 35.6596,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "20628",
+    "formidable": "FC5201",
+    "moh": "5201"
+  }
+}

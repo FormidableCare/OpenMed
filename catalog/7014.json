@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7014",
+  "name": "FERRIPROX ORAL SOLUTION 100MG/ML 500ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.064940",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 500,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERRIPROX ORAL SOLUTION 100MG/ML 500ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 720.42497,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 846.4993398,
+    "maxPriceWithVAT": 998.8691765,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "33765",
+    "pharmasoft": "6479",
+    "formidable": "FC7014",
+    "moh": "7014"
+  }
+}

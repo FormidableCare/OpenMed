@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7942",
+  "name": "AMLOW 5 MG 30 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.307051",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "AMLOW 5 MG 30 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 8.988,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 12.31356,
+    "maxPriceWithVAT": 14.5300008,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "55819",
+    "pharmasoft": "9951",
+    "formidable": "FC7942",
+    "moh": "7942"
+  }
+}

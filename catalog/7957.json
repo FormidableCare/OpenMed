@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7957",
+  "name": "JANESS 13.5 MG INTRAUTERINE SYSTEM",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.391927",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "JANESS 13.5 MG INTRAUTERINE SYSTEM"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 373.8733827,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 439.3012246,
+    "maxPriceWithVAT": 518.375422,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "32527",
+    "pharmasoft": "10070",
+    "formidable": "FC7957",
+    "moh": "7957"
+  }
+}

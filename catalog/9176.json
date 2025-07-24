@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9176",
+  "name": "DASATINIB TEVA 50 MG 60 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:34.388587",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "DASATINIB TEVA 50 MG 60 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 4930.136061,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 5423.149667,
+    "maxPriceWithVAT": 6399.316607,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "37189",
+    "formidable": "FC9176",
+    "moh": "9176"
+  }
+}

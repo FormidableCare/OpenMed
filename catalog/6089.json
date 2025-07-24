@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6089",
+  "name": "SERDOLECT 16MG 28TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:13.826923",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לנדבק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SERDOLECT 16MG 28TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 306.7447888,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 360.4251269,
+    "maxPriceWithVAT": 425.3016308,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "86168",
+    "pharmasoft": "19843",
+    "formidable": "FC6089",
+    "moh": "6089"
+  }
+}

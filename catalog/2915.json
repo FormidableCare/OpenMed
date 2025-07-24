@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2915",
+  "name": "LORASTINE 10MG 20TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.828358",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "באייר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LORASTINE 10MG 20TAB"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 45.24,
+    "maxPriceWithVAT": 53.3832,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "12046",
+    "formidable": "FC2915",
+    "moh": "2915"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5268",
+  "name": "XYLO-POS 0.1% 15 ml",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:26.462203",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "קיוומא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XYLO-POS 0.1% 15 ml"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 41.29,
+    "maxPriceWithVAT": 48.7222,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5268",
+    "moh": "5268"
+  }
+}

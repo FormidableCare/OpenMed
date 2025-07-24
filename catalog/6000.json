@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6000",
+  "name": "VESICARE 5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:20.440058",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "VESICARE 5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 111.7776,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 139.722,
+    "maxPriceWithVAT": 164.87196,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "75668",
+    "pharmasoft": "22294",
+    "formidable": "FC6000",
+    "moh": "6000"
+  }
+}

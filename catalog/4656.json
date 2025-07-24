@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4656",
+  "name": "FEMINET 1X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:44.205404",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FEMINET 1X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11.6698,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 15.987626,
+    "maxPriceWithVAT": 18.86539868,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58267",
+    "pharmasoft": "6338",
+    "formidable": "FC4656",
+    "moh": "4656"
+  }
+}

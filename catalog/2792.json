@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "2792",
+  "name": "XANAGIS 0.50MG 50TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:21.601453",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 50,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "XANAGIS 0.50MG 50TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 16.1833,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 22.171121,
+    "maxPriceWithVAT": 26.16192278,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "8889",
+    "pharmasoft": "24017",
+    "formidable": "FC2792",
+    "moh": "2792"
+  }
+}

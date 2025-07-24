@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9543",
+  "name": "RANIVISIO 10 MG/ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:10.215927",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "RANIVISIO 10 MG/ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1342.319331,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1577.225214,
+    "maxPriceWithVAT": 1861.12567,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "63055",
+    "formidable": "FC9543",
+    "moh": "9543"
+  }
+}

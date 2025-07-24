@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8662",
+  "name": "BENDAMUSTINE MEDAC 100 MG 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:22.534144",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BENDAMUSTINE MEDAC 100 MG 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 383.05521,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 450.0898718,
+    "maxPriceWithVAT": 531.1060487,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28456",
+    "pharmasoft": "2780",
+    "formidable": "FC8662",
+    "moh": "8662"
+  }
+}

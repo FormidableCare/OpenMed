@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9063",
+  "name": "SPECTRACEF 400 MG 10 TABS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.485778",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "תרו יבוא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPECTRACEF 400 MG 10 TABS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 107.554482,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 134.4431025,
+    "maxPriceWithVAT": 158.6428539,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "64146",
+    "formidable": "FC9063",
+    "moh": "9063"
+  }
+}

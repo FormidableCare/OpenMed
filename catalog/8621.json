@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8621",
+  "name": "ZYVOXID I.V. 2 MG/ML 300 ML 10 BAG",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:22.754496",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ZYVOXID I.V. 2 MG/ML 300 ML 10 BAG"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1302.734851,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1530.71345,
+    "maxPriceWithVAT": 1806.241871,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8621",
+    "moh": "8621"
+  }
+}

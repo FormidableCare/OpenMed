@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9110",
+  "name": "GENTAMICIN B. BRAUN 1 MG/ML 20 AMP 80ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:48.345582",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GENTAMICIN B. BRAUN 1 MG/ML 20 AMP 80ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 216.76215,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 254.6955263,
+    "maxPriceWithVAT": 300.5407076,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "50869",
+    "formidable": "FC9110",
+    "moh": "9110"
+  }
+}

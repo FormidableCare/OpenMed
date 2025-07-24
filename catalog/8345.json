@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8345",
+  "name": "ENTACAPONE MEDOCHEMIE 200mg 30tab",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.913589",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דפריס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ENTACAPONE MEDOCHEMIE 200mg 30tab"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 49.7775315,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 66.95077987,
+    "maxPriceWithVAT": 79.00191673,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "28166",
+    "pharmasoft": "5650",
+    "formidable": "FC8345",
+    "moh": "8345"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4133",
+  "name": "SIMVASTATIN-TEVA 20MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:14.475486",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SIMVASTATIN-TEVA 20MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14.5771,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 19.970627,
+    "maxPriceWithVAT": 23.56533986,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "26874",
+    "pharmasoft": "19430",
+    "formidable": "FC4133",
+    "moh": "4133"
+  }
+}

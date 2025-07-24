@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6615",
+  "name": "FENTA 12MCG/HOUR 5PATCHES",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:44.388658",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 5,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FENTA 12MCG/HOUR 5PATCHES"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 34.8634,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 47.762858,
+    "maxPriceWithVAT": 56.36017244,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "14813",
+    "pharmasoft": "6408",
+    "formidable": "FC6615",
+    "moh": "6615"
+  }
+}

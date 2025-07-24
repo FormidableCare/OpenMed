@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8663",
+  "name": "PRIZMA SOLUTION 120 ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.850823",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אוניפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 120,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "PRIZMA SOLUTION 120 ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 40.06099,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 53.88203155,
+    "maxPriceWithVAT": 63.5807944,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "60615",
+    "formidable": "FC8663",
+    "moh": "8663"
+  }
+}

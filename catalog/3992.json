@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3992",
+  "name": "MERFEN SPRAY 30ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.961238",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "מדיטרנד",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "MERFEN SPRAY 30ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 31.03,
+    "maxPriceWithVAT": 36.6154,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "13540",
+    "formidable": "FC3992",
+    "moh": "3992"
+  }
+}

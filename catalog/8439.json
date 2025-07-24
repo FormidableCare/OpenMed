@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8439",
+  "name": "ACCOFIL 480 MCG/0.5 ML 1PFS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:14.513939",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "צמל",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ACCOFIL 480 MCG/0.5 ML 1PFS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 173.027678,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 216.2845975,
+    "maxPriceWithVAT": 255.2158137,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC8439",
+    "moh": "8439"
+  }
+}

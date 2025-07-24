@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6248",
+  "name": "FERRIPROX 500MG 100TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:45.041390",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "לפידות",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "FERRIPROX 500MG 100TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 500.5313193,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 588.1243002,
+    "maxPriceWithVAT": 693.9866434,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "70243",
+    "pharmasoft": "6421",
+    "formidable": "FC6248",
+    "moh": "6248"
+  }
+}

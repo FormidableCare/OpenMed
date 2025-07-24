@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4962",
+  "name": "BELARA 1X21TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:22.477832",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ליברה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 21,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "BELARA 1X21TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 24.62446665,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 33.73551931,
+    "maxPriceWithVAT": 39.80791102,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "61868",
+    "pharmasoft": "2411",
+    "formidable": "FC4962",
+    "moh": "4962"
+  }
+}

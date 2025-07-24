@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9519",
+  "name": "POSACONAZOLE 100 MG OFEK PHARMA 24 TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:08.027780",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אופק פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 24,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "POSACONAZOLE 100 MG OFEK PHARMA 24 TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1305.123379,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1533.519971,
+    "maxPriceWithVAT": 1809.553485,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "666",
+    "formidable": "FC9519",
+    "moh": "9519"
+  }
+}

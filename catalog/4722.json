@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4722",
+  "name": "LAMODEX 200MG 30DISP/CHEW TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:55.306931",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LAMODEX 200MG 30DISP/CHEW TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 74.8144,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 100.625368,
+    "maxPriceWithVAT": 118.7379342,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "68253",
+    "pharmasoft": "12354",
+    "formidable": "FC4722",
+    "moh": "4722"
+  }
+}

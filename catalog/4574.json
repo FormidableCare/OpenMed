@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4574",
+  "name": "CIPRODEX 250MG 10TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:30.537198",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIPRODEX 250MG 10TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 11.8235,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 16.198195,
+    "maxPriceWithVAT": 19.1138701,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "4880",
+    "pharmasoft": "3605",
+    "formidable": "FC4574",
+    "moh": "4574"
+  }
+}

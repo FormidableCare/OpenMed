@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5461",
+  "name": "IODIFLOR SOL 1 LITER",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.551210",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "פלוריש",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1000,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IODIFLOR SOL 1 LITER"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 35.42,
+    "maxPriceWithVAT": 41.7956,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5461",
+    "moh": "5461"
+  }
+}

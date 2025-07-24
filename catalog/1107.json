@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "1107",
+  "name": "IMURAN 25MG 100TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:52.234777",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פאדאגיס",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 100,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "IMURAN 25MG 100TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 39.46058167,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 53.07448234,
+    "maxPriceWithVAT": 62.62788638,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "7860",
+    "pharmasoft": "9157",
+    "formidable": "FC1107",
+    "moh": "1107"
+  }
+}

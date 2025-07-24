@@ -1,0 +1,38 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5178",
+  "name": "LAEVOLAC 500ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.706820",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 500,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LAEVOLAC 500ML"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 56.09,
+    "maxPriceWithVAT": 66.1862,
+    "currency": "ILS"
+  },
+  "codes": {
+    "pharmasoft": "12218",
+    "formidable": "FC5178",
+    "moh": "5178"
+  }
+}

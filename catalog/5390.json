@@ -1,0 +1,37 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "5390",
+  "name": "LOPI-CARE  10 TABLETS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:24.811616",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Off the Counter",
+  "manufacturer": {
+    "name": "מכבי קאר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LOPI-CARE  10 TABLETS"
+    }
+  ],
+  "pricing": {
+    "maxRetailPrice": 18.64,
+    "maxPriceWithVAT": 21.9952,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC5390",
+    "moh": "5390"
+  }
+}

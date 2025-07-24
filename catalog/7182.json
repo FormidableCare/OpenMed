@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7182",
+  "name": "LORMYX 200MG 12 F.C.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:57.599056",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "מגאפארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 12,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "LORMYX 200MG 12 F.C.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 64.12876368,
+    "retailMarginPercent": 34.5,
+    "maxRetailPrice": 86.25318715,
+    "maxPriceWithVAT": 101.7787563,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "47006",
+    "pharmasoft": "16358",
+    "formidable": "FC7182",
+    "moh": "7182"
+  }
+}

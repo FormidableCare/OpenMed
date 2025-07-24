@@ -1,0 +1,39 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7997",
+  "name": "GRAFALON 20MG/ML 5ML10 vials",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:49.298679",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "ניאופרם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 10,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "GRAFALON 20MG/ML 5ML10 vials"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 14492.23811,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 15941.46192,
+    "maxPriceWithVAT": 18810.92422,
+    "currency": "ILS"
+  },
+  "codes": {
+    "formidable": "FC7997",
+    "moh": "7997"
+  }
+}

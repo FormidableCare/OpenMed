@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8387",
+  "name": "ANTROLIN CREAM 1 TUBE 30GR",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.816300",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "סופר-פארם",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ANTROLIN CREAM 1 TUBE 30GR"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 37.264455,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 51.05230335,
+    "maxPriceWithVAT": 60.24171528,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "5162",
+    "pharmasoft": "10305",
+    "formidable": "FC8387",
+    "moh": "8387"
+  }
+}

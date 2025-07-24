@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8738",
+  "name": "SPRAVATO NASAL SPRAY 28MG 3 VIALS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:15.671277",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "יאנסן סילג",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 3,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "SPRAVATO NASAL SPRAY 28MG 3 VIALS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 2240.355499,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 2464.391049,
+    "maxPriceWithVAT": 2907.981308,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "425",
+    "pharmasoft": "10683",
+    "formidable": "FC8738",
+    "moh": "8738"
+  }
+}

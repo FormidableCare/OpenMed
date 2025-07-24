@@ -1,0 +1,36 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8563",
+  "name": "TYVASO 1.74 / 2.9 ML 4 AMP",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.502909",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TYVASO 1.74 / 2.9 ML 4 AMP"
+    }
+  ],
+  "pricing": {
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "79160",
+    "formidable": "FC8563",
+    "moh": "8563"
+  }
+}

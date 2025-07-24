@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3810",
+  "name": "NOVONORM 2MG 90TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:03.535887",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "נובו נורדיסק",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 90,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NOVONORM 2MG 90TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 35.9442,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 49.243554,
+    "maxPriceWithVAT": 58.10739372,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20254",
+    "pharmasoft": "14216",
+    "formidable": "FC3810",
+    "moh": "3810"
+  }
+}

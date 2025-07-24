@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4631",
+  "name": "CIALIS 20MG 4TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:29.656739",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 4,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "CIALIS 20MG 4TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 160.7671,
+    "retailMarginPercent": 25.0,
+    "maxRetailPrice": 200.958875,
+    "maxPriceWithVAT": 237.1314725,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "57624",
+    "pharmasoft": "3742",
+    "formidable": "FC4631",
+    "moh": "4631"
+  }
+}

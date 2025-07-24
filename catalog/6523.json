@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "6523",
+  "name": "TARGIN 5/2.5 MG 20 P.R.TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.276405",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "רפא",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 20,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TARGIN 5/2.5 MG 20 P.R.TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 32.271264,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 44.21163168,
+    "maxPriceWithVAT": 52.16972306,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20606",
+    "pharmasoft": "20681",
+    "formidable": "FC6523",
+    "moh": "6523"
+  }
+}

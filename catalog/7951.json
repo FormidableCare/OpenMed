@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "7951",
+  "name": "STRATTERA 25MG 28CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:16.172050",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אלי לילי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 28,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "STRATTERA 25MG 28CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 268.7774664,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 315.8135231,
+    "maxPriceWithVAT": 372.6599572,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "71828",
+    "pharmasoft": "9807",
+    "formidable": "FC7951",
+    "moh": "7951"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9235",
+  "name": "NGENLA 24 MG /1.2 ML SOL FOR INJ 1 PEN",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:02.764851",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "פיזר",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "NGENLA 24 MG /1.2 ML SOL FOR INJ 1 PEN"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 678.8874488,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 797.6927523,
+    "maxPriceWithVAT": 941.2774059,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "17852",
+    "formidable": "FC9235",
+    "moh": "9235"
+  }
+}

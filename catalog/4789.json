@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4789",
+  "name": "KALETRA ORAL SOL 5X60ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:53.974224",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "אב-וי",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 300,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "KALETRA ORAL SOL 5X60ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 1311.101699,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 1540.544496,
+    "maxPriceWithVAT": 1817.842425,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "56828",
+    "pharmasoft": "11180",
+    "formidable": "FC4789",
+    "moh": "4789"
+  }
+}

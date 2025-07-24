@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "3769",
+  "name": "ENALADEX 5MG 30TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:39.413758",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 30,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "ENALADEX 5MG 30TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 9.04,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 12.3848,
+    "maxPriceWithVAT": 14.614064,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "22582",
+    "pharmasoft": "5028",
+    "formidable": "FC3769",
+    "moh": "3769"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9545",
+  "name": "TEVIMBRA 10MG/ML 1 VIAL",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.970006",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "בייגין",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TEVIMBRA 10MG/ML 1 VIAL"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 7900.0,
+    "retailMarginPercent": 10.0,
+    "maxRetailPrice": 8690.0,
+    "maxPriceWithVAT": 10254.19954,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "63052",
+    "pharmasoft": "24838",
+    "formidable": "FC9545",
+    "moh": "9545"
+  }
+}

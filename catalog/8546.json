@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "8546",
+  "name": "TERROSA 250 MCG/  ML",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:17.881758",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "דקסל פארמה",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 1,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "TERROSA 250 MCG/  ML"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 763.6019362,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 897.232275,
+    "maxPriceWithVAT": 1058.734037,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "58884",
+    "pharmasoft": "20992",
+    "formidable": "FC8546",
+    "moh": "8546"
+  }
+}

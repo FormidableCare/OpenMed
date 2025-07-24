@@ -1,0 +1,41 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "4728",
+  "name": "UTROGESTAN 200MG 15 VAG CAPS",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:35:19.781372",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "כ.צ.ט",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 15,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "UTROGESTAN 200MG 15 VAG CAPS"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 28.46897775,
+    "retailMarginPercent": 37.0,
+    "maxRetailPrice": 39.00249952,
+    "maxPriceWithVAT": 46.02294738,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "5747",
+    "pharmasoft": "21087",
+    "formidable": "FC4728",
+    "moh": "4728"
+  }
+}

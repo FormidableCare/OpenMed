@@ -1,0 +1,40 @@
+{
+  "resourceType": "OpenMedMedication",
+  "id": "9588",
+  "name": "APIXABAN TEVA 2.5MG, 60TAB",
+  "meta": {
+    "version": "1.3.0",
+    "lastUpdated": "2025-07-24T15:34:18.903267",
+    "source": "formidable_moh_2025.csv"
+  },
+  "status": "draft",
+  "lifecycleStage": "draft",
+  "category": "Prescription Medicine",
+  "manufacturer": {
+    "name": "טבע",
+    "country": "IL"
+  },
+  "packaging": [
+    {
+      "packageSize": 60,
+      "unit": "units"
+    }
+  ],
+  "composition": [
+    {
+      "substance": "APIXABAN TEVA 2.5MG, 60TAB"
+    }
+  ],
+  "pricing": {
+    "maxWholesalePrice": 196.924239,
+    "retailMarginPercent": 17.5,
+    "maxRetailPrice": 231.3859808,
+    "maxPriceWithVAT": 273.0354452,
+    "currency": "ILS"
+  },
+  "codes": {
+    "yarpa": "20581",
+    "formidable": "FC9588",
+    "moh": "9588"
+  }
+}
