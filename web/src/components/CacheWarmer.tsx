@@ -37,7 +37,7 @@ export function CacheWarmer() {
   const getStatusIcon = () => {
     switch (status) {
       case 'warming':
-        return <LoadingIndicator size="sm" message="" className="!h-4 !w-4" />;
+        return <Loader2 className="h-4 w-4 animate-spin" />;
       case 'success':
         return <CheckCircle className="h-4 w-4 text-green-500" />;
       case 'error':

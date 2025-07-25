@@ -21,7 +21,7 @@ import {
   getStatusText,
   cn,
 } from '@/lib/utils';
-import { DataLoadingIndicator } from '@/components/LoadingIndicator';
+import { DataLoadingIndicator, ButtonLoading } from '@/components/LoadingIndicator';
 
 export function MedicationDetail() {
   const params = useParams();
@@ -162,14 +162,14 @@ export function MedicationDetail() {
               >
                 Cancel
               </button>
-              <button
+              <ButtonLoading
+                loading={saving}
+                className='px-4 py-2 bg-gradient-to-r from-cyan-600 to-cyan-600 text-white rounded-lg hover:from-cyan-700 hover:to-cyan-700 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
                 onClick={handleSave}
-                disabled={saving}
-                className='flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-cyan-600 to-cyan-600 text-white rounded-lg hover:from-cyan-700 hover:to-cyan-700 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
               >
                 <Save className='h-4 w-4' />
                 {saving ? 'Saving...' : 'Save'}
-              </button>
+              </ButtonLoading>
             </>
           ) : (
             <button

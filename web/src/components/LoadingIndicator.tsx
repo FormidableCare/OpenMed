@@ -44,4 +44,32 @@ export function DataLoadingIndicator() {
 
 export function SmallLoadingIndicator() {
   return <LoadingIndicator message="Loading..." size="sm" />;
+}
+
+// Button loading state component
+interface ButtonLoadingProps {
+  loading: boolean;
+  children: React.ReactNode;
+  className?: string;
+  onClick?: () => void;
+  disabled?: boolean;
+}
+
+export function ButtonLoading({ 
+  loading, 
+  children, 
+  className = '', 
+  onClick,
+  disabled = false 
+}: ButtonLoadingProps) {
+  return (
+    <button 
+      disabled={loading || disabled} 
+      className={`flex items-center gap-2 ${className}`}
+      onClick={onClick}
+    >
+      {loading && <Loader2 className="h-4 w-4 animate-spin" />}
+      {children}
+    </button>
+  );
 } 
