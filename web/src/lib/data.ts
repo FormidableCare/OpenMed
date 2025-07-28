@@ -70,28 +70,14 @@ export async function loadMedicationList(): Promise<MedicationListItem[]> {
 }
 
 export async function saveMedication(
-  medication: OpenMedMedication,
-  userInfo?: { name?: string; email?: string; commitMessage?: string }
+  medication: OpenMedMedication
 ): Promise<boolean> {
   try {
-    const headers: Record<string, string> = {
-      'Content-Type': 'application/json',
-    };
-
-    // Add user information to headers if provided
-    if (userInfo?.name) {
-      headers['x-user-name'] = userInfo.name;
-    }
-    if (userInfo?.email) {
-      headers['x-user-email'] = userInfo.email;
-    }
-    if (userInfo?.commitMessage) {
-      headers['x-commit-message'] = userInfo.commitMessage;
-    }
-
     const response = await fetch(`/api/medications/${medication.id}`, {
       method: 'PUT',
-      headers,
+      headers: {
+        'Content-Type': 'application/json',
+      },
       body: JSON.stringify(medication),
     });
 

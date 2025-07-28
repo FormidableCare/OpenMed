@@ -35,9 +35,6 @@ export function MedicationDetail() {
   const [currentIndex, setCurrentIndex] = useState<number>(-1);
   const [aiSuggestions, setAiSuggestions] = useState<Record<string, Array<{ value: string; confidence: number }>>>({});
   const [aiLoading, setAiLoading] = useState(false);
-  const [userName, setUserName] = useState('');
-  const [userEmail, setUserEmail] = useState('');
-  const [commitMessage, setCommitMessage] = useState('');
 
   useEffect(() => {
     const loadData = async () => {
@@ -75,19 +72,9 @@ export function MedicationDetail() {
 
     setSaving(true);
     try {
-      const userInfo = {
-        name: userName || undefined,
-        email: userEmail || undefined,
-        commitMessage: commitMessage || `Update medication ${medication.id}`,
-      };
-
-      const success = await saveMedication(medication, userInfo);
+      const success = await saveMedication(medication);
       if (success) {
         setEditing(false);
-        // Clear user input fields after successful save
-        setUserName('');
-        setUserEmail('');
-        setCommitMessage('');
         // Show success message
       }
     } catch (error) {
@@ -325,73 +312,28 @@ export function MedicationDetail() {
           <div className='flex gap-3'>
             {editing ? (
               <>
-                {/* User Information Form for Git Commit */}
-                <div className='flex-1 bg-gray-50 p-4 rounded-lg border border-gray-200'>
-                  <h3 className='text-sm font-medium text-gray-700 mb-3'>Commit Information</h3>
-                  <div className='grid grid-cols-1 md:grid-cols-3 gap-3'>
-                    <div>
-                      <label className='block text-xs font-medium text-gray-600 mb-1'>
-                        Your Name
-                      </label>
-                      <input
-                        type='text'
-                        value={userName}
-                        onChange={e => setUserName(e.target.value)}
-                        className='w-full px-2 py-1 text-sm border border-gray-300 rounded focus:ring-1 focus:ring-blue-500'
-                        placeholder='Enter your name'
-                      />
-                    </div>
-                    <div>
-                      <label className='block text-xs font-medium text-gray-600 mb-1'>
-                        Your Email
-                      </label>
-                      <input
-                        type='email'
-                        value={userEmail}
-                        onChange={e => setUserEmail(e.target.value)}
-                        className='w-full px-2 py-1 text-sm border border-gray-300 rounded focus:ring-1 focus:ring-blue-500'
-                        placeholder='Enter your email'
-                      />
-                    </div>
-                    <div>
-                      <label className='block text-xs font-medium text-gray-600 mb-1'>
-                        Commit Message
-                      </label>
-                      <input
-                        type='text'
-                        value={commitMessage}
-                        onChange={e => setCommitMessage(e.target.value)}
-                        className='w-full px-2 py-1 text-sm border border-gray-300 rounded focus:ring-1 focus:ring-blue-500'
-                        placeholder={`Update medication ${medication.id}`}
-                      />
-                    </div>
-                  </div>
-                </div>
-                
-                <div className='flex flex-col gap-2'>
-                  <button
-                    onClick={() => setEditing(false)}
-                    className='px-4 py-2 border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 font-medium'
-                  >
-                    Cancel
-                  </button>
-                  <button
-                    onClick={handleAiAssist}
-                    disabled={aiLoading}
-                    className='flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
-                  >
-                    <Wand2 className='h-4 w-4' />
-                    {aiLoading ? 'Loading...' : 'AI Assist'}
-                  </button>
-                  <ButtonLoading
-                    loading={saving}
-                    className='px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
-                    onClick={handleSave}
-                  >
-                    <Save className='h-4 w-4' />
-                    {saving ? 'Saving...' : 'Save'}
-                  </ButtonLoading>
-                </div>
+                <button
+                  onClick={() => setEditing(false)}
+                  className='px-4 py-2 border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 font-medium'
+                >
+                  Cancel
+                </button>
+                <button
+                  onClick={handleAiAssist}
+                  disabled={aiLoading}
+                  className='flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
+                >
+                  <Wand2 className='h-4 w-4' />
+                  {aiLoading ? 'Loading...' : 'AI Assist'}
+                </button>
+                <ButtonLoading
+                  loading={saving}
+                  className='px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 disabled:opacity-50 transition-all duration-200 shadow-lg font-medium'
+                  onClick={handleSave}
+                >
+                  <Save className='h-4 w-4' />
+                  {saving ? 'Saving...' : 'Save'}
+                </ButtonLoading>
               </>
             ) : (
               <button

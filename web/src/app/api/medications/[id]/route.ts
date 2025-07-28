@@ -9,7 +9,7 @@ import { getMedicationByIdFromCache, updateMedicationInCache } from '@/lib/serve
 const execAsync = promisify(exec);
 
 // Git configuration
-const GIT_USER_NAME = process.env.GIT_USER_NAME || 'OpenMed System';
+const GIT_USER_NAME = process.env.GIT_USER_NAME || 'OpenMed';
 const GIT_USER_EMAIL = process.env.GIT_USER_EMAIL || 'system@openmed.formidable.care';
 
 export async function GET(
@@ -45,10 +45,10 @@ export async function PUT(
     const { id } = await params;
     const medication: OpenMedMedication = await request.json();
     
-    // Extract user information from request headers or body
-    const userEmail = request.headers.get('x-user-email') || GIT_USER_EMAIL;
-    const userName = request.headers.get('x-user-name') || GIT_USER_NAME;
-    const userMessage = request.headers.get('x-commit-message') || `Update medication ${id}`;
+    // Use default Git configuration for commits
+    const userEmail = GIT_USER_EMAIL;
+    const userName = GIT_USER_NAME;
+    const userMessage = `Update medication ${id}`;
 
     // Update the lastUpdated timestamp
     medication.meta.lastUpdated = new Date().toISOString();
