@@ -375,21 +375,6 @@
       "description": "Level of controlled substance classification",
       "enum": ["None", "Level1", "Level2", "Level3"]
     },
-    "hebrewName": {
-      "type": "string",
-      "description": "Hebrew name of the medication",
-      "maxLength": 500
-    },
-    "arabicName": {
-      "type": "string",
-      "description": "Arabic name of the medication",
-      "maxLength": 500
-    },
-    "genericName": {
-      "type": "string",
-      "description": "Generic name of the medication",
-      "maxLength": 500
-    },
     "mechanismOfAction": {
       "type": "string",
       "description": "Mechanism of action",
