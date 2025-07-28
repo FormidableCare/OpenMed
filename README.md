@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Sponsors
 
 <div align="center">
-  <a href="https://formidable.com">
-    <img src="https://formidable.com/logo.png" alt="Formidable Logo" width="200"/>
+  <a href="https://formidable.care">
+    <img src="https://formidable.care/logo.png" alt="Formidable Logo" width="200"/>
   </a>
 </div>
