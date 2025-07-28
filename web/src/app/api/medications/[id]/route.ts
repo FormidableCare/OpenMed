@@ -6,10 +6,11 @@ import { getMedicationByIdFromCache, updateMedicationInCache } from '@/lib/serve
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const medication = await getMedicationByIdFromCache(params.id);
+    const { id } = await params;
+    const medication = await getMedicationByIdFromCache(id);
     
     if (!medication) {
       return NextResponse.json(
@@ -30,16 +31,17 @@ export async function GET(
 
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    const { id } = await params;
     const medication: OpenMedMedication = await request.json();
 
     // Update the lastUpdated timestamp
     medication.meta.lastUpdated = new Date().toISOString();
 
     const catalogPath = path.join(process.cwd(), '..', 'catalog');
-    const filePath = path.join(catalogPath, `${params.id}.json`);
+    const filePath = path.join(catalogPath, `${id}.json`);
 
     // Write the updated medication back to file
     await fs.writeFile(filePath, JSON.stringify(medication, null, 2), 'utf-8');

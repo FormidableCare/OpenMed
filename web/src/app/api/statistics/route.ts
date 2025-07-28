@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getMedicationsFromCache } from '@/lib/server-cache';
+import { OpenMedMedication } from '@/types/medication';
 
 export async function GET(request: NextRequest) {
   try {
@@ -18,7 +19,7 @@ export async function GET(request: NextRequest) {
   }
 }
 
-function calculateStatistics(medications: any[]) {
+function calculateStatistics(medications: OpenMedMedication[]) {
   // Basic counts
   const totalMedications = medications.length;
   

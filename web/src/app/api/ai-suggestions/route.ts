@@ -1,17 +1,48 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { OpenMedMedication } from '@/types/medication';
+import { generateText } from 'ai';
+import { getAIModel, getAIConfig, validateAIEnvironment } from '@/lib/ai-config';
+
+interface AISuggestionRequest {
+  medication: Partial<OpenMedMedication>;
+  context?: string;
+}
 
 export async function POST(request: NextRequest) {
   try {
-    const { medication, field } = await request.json();
+    const { medication, context }: AISuggestionRequest = await request.json();
+    const validation = validateAIEnvironment();
 
-    // For now, we'll return mock suggestions
-    // In a real implementation, this would call OpenAI API
-    const suggestions = generateMockSuggestions(medication, field);
+    if (!validation.valid) {
+      return NextResponse.json(
+        { error: `AI configuration error: ${validation.errors.join(', ')}` },
+        { status: 500 }
+      );
+    }
+
+    const model = getAIModel();
+    const config = getAIConfig();
+    const prompt = createComprehensivePrompt(medication, context);
+
+    const { text } = await generateText({
+      model,
+      prompt,
+      maxTokens: config.maxTokens,
+      temperature: config.temperature,
+    });
+
+    let suggestions: Record<string, Array<{ value: string; confidence: number }>> = {};
+    try {
+      const rawJson = extractRawJson(text);
+      suggestions = JSON.parse(rawJson);
+    } catch (error) {
+      console.error('Failed to parse AI suggestions as JSON:', error);
+      console.error('Raw AI response:', text);
+      suggestions = {};
+    }
 
     return NextResponse.json({ suggestions });
   } catch (error) {
-    console.error('Error generating AI suggestions:', error);
     return NextResponse.json(
       { error: 'Failed to generate suggestions' },
       { status: 500 }
@@ -19,34 +50,77 @@ export async function POST(request: NextRequest) {
   }
 }
 
-function generateMockSuggestions(
-  medication: OpenMedMedication,
-  field: string
-): string[] {
-  const suggestions: { [key: string]: string[] } = {
-    name: [
-      `${medication.name} - Enhanced`,
-      `${medication.name} (Updated)`,
-      `${medication.name} - Premium`,
-    ],
-    category: [
-      'Prescription Medicine',
-      'Over-the-Counter',
-      'Special Import',
-      'Hospital Use Only',
-    ],
-    'manufacturer.name': [
-      'Teva Pharmaceutical Industries',
-      'Pfizer Israel',
-      'Novartis Israel',
-      'Merck Sharp & Dohme',
-    ],
-    composition: [
-      'Active pharmaceutical ingredient',
-      'Main therapeutic component',
-      'Primary drug substance',
-    ],
-  };
+function createComprehensivePrompt(
+  medication: Partial<OpenMedMedication>,
+  context?: string
+): string {
+  const serialized = JSON.stringify(medication, null, 2);
 
-  return suggestions[field] || ['Suggestion 1', 'Suggestion 2', 'Suggestion 3'];
+  return `
+You are a medical AI assistant. Given the following medication information:
+
+${serialized}
+
+Your task is to generate 1–3 suggestions for **each field that is empty, null, undefined, or "-"**. Each suggestion must include a confidence score (between 0 and 1).
+
+Respond with a **valid JSON object only**, no markdown or other formatting, containing suggestions only. Do not include fields that are already populated or not applicable. Do not include any explanation, markdown, or formatting — only raw JSON.
+
+Example format:
+
+{
+  "fieldName": [
+    { "value": "suggestion1", "confidence": 0.9 },
+    { "value": "suggestion2", "confidence": 0.85 }
+  ]
+}
+
+List of target fields:
+
+- Top-level:
+  - name, category, form, route, site, method
+  - mechanismOfAction, indications, contraindications, sideEffects, warnings, precautions, monitoring, laboratoryTests, overdose
+  - storageConditions, shelfLife, alternatives
+  - pregnancyCategory, lactationCategory, controlledSubstanceLevel
+
+- Nested:
+  - codes.atc, codes.snomed, codes.yarpa, codes.pharmasoft, codes.moh
+
+- Composition (array items):
+  - composition[].substance
+  - composition[].concentration.value
+  - composition[].concentration.unit
+  - composition[].baseEquivalent.substance
+  - composition[].baseEquivalent.value
+  - composition[].baseEquivalent.unit
+
+- Packaging (array items):
+  - packaging[].packageSize
+  - packaging[].unit
+
+- Pharmacokinetics:
+  - pharmacokinetics.absorption
+  - pharmacokinetics.distribution
+  - pharmacokinetics.metabolism
+  - pharmacokinetics.excretion
+  - pharmacokinetics.halfLife
+  - pharmacokinetics.bioavailability
+  - pharmacokinetics.proteinBinding
+
+Guidelines:
+
+- For **array-type fields** (e.g., indications, sideEffects), each suggestion should be a complete item suitable to append to the array.
+- For **nested fields** (e.g., manufacturer.name), only suggest values for the specific property.
+- For **enum fields** (e.g., route, pregnancyCategory), return valid values.
+- All confidence values must be numbers between 0 and 1.
+
+${context ? `Additional context:\n${context}` : ''}
+`.trim();
+}
+
+function extractRawJson(text: string): string {
+  return text
+    .replace(/^```json\s*/i, '')  // remove leading ```json
+    .replace(/^```\s*/i, '')      // or just ```
+    .replace(/\s*```$/i, '')      // remove trailing ```
+    .trim();
 }

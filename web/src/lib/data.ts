@@ -159,3 +159,70 @@ export async function loadStatistics(): Promise<Statistics | null> {
     return null;
   }
 }
+
+export async function getAISuggestions(
+  field: string, 
+  medication: Partial<OpenMedMedication>, 
+  context?: string
+): Promise<Array<{ value: string; confidence: number }>> {
+  try {
+    const response = await fetch('/api/ai-suggestions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ field, medication, context }),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to get AI suggestions');
+    }
+
+    const data = await response.json();
+    const fieldSuggestions = data.suggestions?.[field] || [];
+    // Return the full suggestion objects with confidence scores
+    return fieldSuggestions.map((suggestion: { value: string; confidence?: number } | string) => 
+      typeof suggestion === 'object' ? { value: suggestion.value, confidence: suggestion.confidence || 1.0 } : { value: suggestion, confidence: 1.0 }
+    );
+  } catch (error) {
+    console.error('Error getting AI suggestions:', error);
+    return [];
+  }
+}
+
+export async function getComprehensiveAISuggestions(
+  medication: Partial<OpenMedMedication>,
+  context?: string
+): Promise<Record<string, Array<{ value: string; confidence: number }>>> {
+  try {
+    const response = await fetch('/api/ai-suggestions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ medication, context }),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to get comprehensive AI suggestions');
+    }
+
+    const data = await response.json();
+    const suggestions = data.suggestions || {};
+    
+    // Return the full suggestion objects with confidence scores
+    const transformedSuggestions: Record<string, Array<{ value: string; confidence: number }>> = {};
+    for (const [field, fieldSuggestions] of Object.entries(suggestions)) {
+      if (Array.isArray(fieldSuggestions)) {
+        transformedSuggestions[field] = fieldSuggestions.map((suggestion: { value: string; confidence?: number } | string) => 
+          typeof suggestion === 'object' ? { value: suggestion.value, confidence: suggestion.confidence || 1.0 } : { value: suggestion, confidence: 1.0 }
+        );
+      }
+    }
+    
+    return transformedSuggestions;
+  } catch (error) {
+    console.error('Error getting comprehensive AI suggestions:', error);
+    return {};
+  }
+}

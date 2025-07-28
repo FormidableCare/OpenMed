@@ -100,9 +100,6 @@ export interface OpenMedMedication {
   prescriptionRequired?: boolean;
   controlledSubstance?: boolean;
   controlledSubstanceLevel?: 'None' | 'Level1' | 'Level2' | 'Level3';
-  hebrewName?: string;
-  arabicName?: string;
-  genericName?: string;
   mechanismOfAction?: string;
   indications?: string[];
   warnings?: string[];
