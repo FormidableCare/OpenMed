@@ -1,194 +1,190 @@
 # OpenMed - Open Source Medical Catalog for Israel
 
-OpenMed is a simple, accurate, and efficient open-source medical catalog system for Israel. It provides a clean REST API for serving medication data with search and filtering capabilities.
+<div align="center">
+  <img src="assets/logo.png" alt="OpenMed Logo" width="200"/>
+  
+  **Simple, Accurate, and Efficient Medical Catalog System**
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+  [![Next.js](https://img.shields.io/badge/Next.js-15.4+-black.svg)](https://nextjs.org)
+</div>
+
+## What is OpenMed?
+
+OpenMed is a comprehensive open-source medical catalog system designed specifically for the Israeli healthcare system. It provides both a REST API for programmatic access and a modern web interface for easy browsing and management of medication data.
+
+### Key Features
+
+- 🏥 **Israeli Healthcare Focus**: Specialized for Israeli medical regulations and standards
+- 🔍 **Advanced Search**: Find medications by name, manufacturer, status, and category
+- 🤖 **AI-Powered Suggestions**: Intelligent field completion and data validation
+- 📱 **Modern Web Interface**: Clean, responsive design for easy navigation
+- 🔧 **REST API**: Simple endpoints for integration with other systems
+- 📊 **Comprehensive Data**: Detailed medication information including composition, pricing, and clinical data
+
+## Screenshot
+
+<div align="center">
+  <img src="assets/screenshot-web.png" alt="OpenMed Web Interface" width="800"/>
+</div>
 
 ## Project Structure
 
 ```
 OpenMed/
-├── catalog/                    # Generated catalog files
-│   ├── MOH_12345.json         # Individual medication files
-│   └── catalog_index.json     # Catalog index
-├── scripts/                    # Public scripts
-│   └── generate_catalog_index.py # Generate catalog index
-├── api/                        # REST API
+├── web/                       # Next.js web application
+│   ├── src/
+│   │   ├── app/              # App router pages
+│   │   ├── components/       # React components
+│   │   ├── lib/              # Utility functions
+│   │   └── types/            # TypeScript definitions
+│   ├── public/               # Static assets
+│   └── package.json          # Node.js dependencies
+├── api/                      # Python Flask REST API
 │   └── app.py
-├── schema/                     # JSON schemas
+├── catalog/                  # Generated medication data
+│   ├── *.json               # Individual medication files
+│   └── catalog_index.json   # Search index
+├── schema/                   # JSON schemas
 │   └── openmed_medication.schema.json
-└── .gitignore
+├── scripts/                  # Data processing scripts
+└── assets/                   # Logo and screenshots
 ```
-
-## Features
-
-- **REST API**: Simple endpoints for medication data
-- **Search & Filter**: Find medications by name, manufacturer, status, category
-- **Israeli Context**: Specialized for Israeli healthcare system
-- **Clean Data**: Standardized JSON format for medication information
-
-## Requirements
-
-### Python Dependencies
-
-```bash
-# Core data processing
-pandas>=1.5.0
-numpy>=1.21.0
-
-# Web framework
-Flask>=2.3.0
-Flask-CORS>=4.0.0
-
-# JSON validation
-jsonschema>=4.17.0
-
-# HTTP requests
-requests>=2.28.0
-
-# Logging and configuration
-python-dotenv>=1.0.0
-```
-
-### System Requirements
-
-- Python 3.8+
-- 1GB RAM minimum
-- 100MB disk space
 
 ## Quick Start
 
-### 1. Setup Environment
+### Prerequisites
+
+- **Python 3.8+** (for API)
+- **Node.js 18+** (for web app)
+- **1GB RAM minimum**
+- **100MB disk space**
+
+### 1. Clone and Setup
 
 ```bash
 # Clone repository
 git clone https://github.com/formidablecare/openmed.git
 cd openmed
 
-# Create virtual environment
+# Setup Python environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
 
-# Install dependencies
-pip install pandas>=1.5.0 numpy>=1.21.0 Flask>=2.3.0 Flask-CORS>=4.0.0 jsonschema>=4.17.0 requests>=2.28.0 python-dotenv>=1.0.0
+# Setup web application
+cd web
+npm install
 ```
 
-### 2. Generate Catalog Index
+### 2. Generate Catalog Data
 
 ```bash
-# Create catalog index for API
+# From project root
 python scripts/generate_catalog_index.py
 ```
 
-### 3. Start API Server
+### 3. Start the Services
+
+#### Start the API Server
 
 ```bash
-# Start the REST API
+# From project root
 python api/app.py
 ```
 
-The API will be available at `http://localhost:5001`
+API will be available at `http://localhost:5001`
 
-## API Usage
-
-### Find Medication by Name
+#### Start the Web Application
 
 ```bash
-# Search for medications containing "amoxicillin"
-curl "http://localhost:5001/medications?search=amoxicillin"
-
-# Search for exact medication name
-curl "http://localhost:5001/medications?search=Amoxicillin%20500mg%20capsule"
+# From web directory
+cd web
+npm run dev
 ```
 
-### Get All Manufacturers
+Web app will be available at `http://localhost:3000`
+
+### 4. Optional: Configure AI Features
+
+For AI-powered suggestions, create a `.env.local` file in the `web/` directory:
 
 ```bash
-curl http://localhost:5001/manufacturers
+# Copy example file
+cp web/env.example web/.env.local
+
+# Edit with your API keys
+nano web/.env.local
 ```
 
-### Filter by Status and Categories
+Supported AI providers:
 
-```bash
-# Get all active antibiotics
-curl "http://localhost:5001/medications?status=active&category=Antibiotics"
+- OpenAI (GPT-4, GPT-3.5)
+- Anthropic (Claude)
+- Google AI (Gemini)
+- Azure OpenAI
 
-# Get all active medications from Teva
-curl "http://localhost:5001/medications?status=active&search=Teva&field=manufacturer.name"
-```
+## Usage
 
-### List All Medications
+### Web Interface
 
-```bash
-# Get all medications
-curl http://localhost:5001/medications
+1. **Browse Medications**: Navigate through the medication catalog with search and filters
+2. **View Details**: Click on any medication to see comprehensive information
+3. **Edit Data**: Use the edit mode to modify medication information with AI assistance
+4. **AI Suggestions**: Click "AI Assist" to get intelligent suggestions for empty fields
 
-# Get first 10 medications
-curl "http://localhost:5001/medications?limit=10"
-
-# Search for medications containing "amoxicillin"
-curl "http://localhost:5001/medications?search=amoxicillin"
-```
-
-## API Endpoints
+### API Endpoints
 
 | Endpoint            | Method | Description                     |
 | ------------------- | ------ | ------------------------------- |
-| `/`                 | GET    | API information and endpoints   |
 | `/medications`      | GET    | List medications (with filters) |
 | `/medications/{id}` | GET    | Get specific medication         |
 | `/manufacturers`    | GET    | Get all manufacturers           |
 | `/categories`       | GET    | Get all categories              |
-| `/statuses`         | GET    | Get all statuses                |
 | `/health`           | GET    | Health check                    |
 
-### Query Parameters
+#### Example API Usage
 
-- `limit` - Number of results (default: 100)
-- `offset` - Pagination offset (default: 0)
-- `search` - Search query
-- `field` - Search field (default: 'name')
-- `status` - Filter by status
-- `category` - Filter by category
+```bash
+# Search for medications
+curl "http://localhost:5001/medications?search=amoxicillin"
+
+# Get specific medication
+curl "http://localhost:5001/medications/MOH_12345"
+
+# Filter by status and category
+curl "http://localhost:5001/medications?status=active&category=Antibiotics"
+```
 
 ## Data Schema
 
-Each medication follows the `OpenMedMedication` schema with fields:
+Each medication follows the `OpenMedMedication` schema with comprehensive fields:
 
 ```json
 {
   "resourceType": "OpenMedMedication",
   "id": "MOH_12345",
-  "product": {
-    "name": "Amoxicillin 500mg capsule",
-    "form": "capsule"
-  },
+  "name": "Amoxicillin 500mg capsule",
+  "status": "active",
+  "category": "Antibiotics",
   "composition": [
     {
       "substance": "Amoxicillin",
-      "baseEquivalent": {
-        "value": 500.0,
+      "concentration": {
+        "value": 500,
         "unit": "mg"
       }
     }
   ],
-  "standardCodes": {
-    "moh": "MOH_12345",
-    "yarpa": "YAR123",
-    "pharmasoft": "PH5678",
-    "atc": {
-      "code": "J01CA04",
-      "description": "Amoxicillin"
-    },
-    "snomed": {
-      "code": "372687004",
-      "description": "Amoxicillin 500mg capsule"
-    }
-  },
   "manufacturer": {
     "name": "Teva Pharmaceuticals",
     "country": "IL"
   },
-  "category": "Antibiotics",
-  "status": "active"
+  "pricing": {
+    "maxRetailPrice": 15.5,
+    "currency": "ILS"
+  }
 }
 ```
 
@@ -197,20 +193,33 @@ Each medication follows the `OpenMedMedication` schema with fields:
 ### Running Tests
 
 ```bash
-# Test API endpoints
+# Test API
 curl http://localhost:5001/health
-curl http://localhost:5001/medications?limit=1
+
+# Test web app
+cd web
+npm run lint
+npm run build
 ```
 
 ### Code Quality
 
 ```bash
-# Format code
+# Python formatting
 black api/ scripts/
 
-# Check syntax
-python -m py_compile api/*.py scripts/*.py
+# Web app formatting
+cd web
+npm run format
 ```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
 
 ## License
 
@@ -218,4 +227,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**OpenMed - Simple, Accurate, and Efficient Medical Catalog 🎯**
+<div align="center">
+  **OpenMed - Empowering Healthcare with Open Data 🎯**
+  
+  Built with ❤️ for the Israeli healthcare community
+</div>
