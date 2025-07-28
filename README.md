@@ -85,25 +85,7 @@ npm install
 python scripts/generate_catalog_index.py
 ```
 
-### 3. Configure Environment Variables
-
-Create a `.env` file in the `web/` directory:
-
-```bash
-# Copy example environment file
-cp web/env.example web/.env
-
-# Edit the file and add your configuration
-nano web/.env
-```
-
-Required environment variables:
-
-- `OPENAI_API_KEY`: Your OpenAI API key for AI suggestions
-- `GIT_USER_NAME`: Default Git user name for commits (optional)
-- `GIT_USER_EMAIL`: Default Git user email for commits (optional)
-
-### 4. Start the Services
+### 3. Start the Services
 
 #### Start the API Server
 
@@ -174,40 +156,6 @@ curl "http://localhost:5001/medications/MOH_12345"
 # Filter by status and category
 curl "http://localhost:5001/medications?status=active&category=Antibiotics"
 ```
-
-## Git Integration & Change Tracking
-
-OpenMed includes automatic Git integration for tracking all changes to medication data:
-
-### How It Works
-
-1. **User Authentication**: When editing medications, users provide their name and email
-2. **Automatic Commits**: Every save operation creates a Git commit with user attribution
-3. **Full Audit Trail**: All changes are tracked with timestamps and user information
-4. **Version Control**: Complete history of all medication modifications
-
-### User Interface
-
-When editing a medication, users will see a "Commit Information" form with:
-
-- **Your Name**: The name that will appear in Git commits
-- **Your Email**: The email address for the commit
-- **Commit Message**: A description of the changes being made
-
-### Git Configuration
-
-The system uses these environment variables for fallback values:
-
-- `GIT_USER_NAME`: Default name when user doesn't provide one
-- `GIT_USER_EMAIL`: Default email when user doesn't provide one
-
-### Benefits
-
-- ✅ **Complete Audit Trail**: See who changed what and when
-- ✅ **Change History**: Full Git history for every medication
-- ✅ **User Attribution**: Real user names in commit history
-- ✅ **Rollback Capability**: Revert changes using Git commands
-- ✅ **Collaboration**: Multiple users can work on the same data
 
 ## Data Schema
 
