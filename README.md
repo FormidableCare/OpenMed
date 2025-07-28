@@ -1,4 +1,4 @@
-# OpenMed - Open Source Medical Catalog for Israel
+# OpenMed - Open Source Medical Catalog
 
 <div align="center">
   <img src="assets/logo.png" alt="OpenMed Logo" width="200"/>
@@ -225,10 +225,10 @@ npm run format
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Sponsors
 
 <div align="center">
-  **OpenMed - Empowering Healthcare with Open Data 🎯**
-  
-  Built with ❤️ for the Israeli healthcare community
+  <a href="https://formidable.com">
+    <img src="https://formidable.com/logo.png" alt="Formidable Logo" width="200"/>
+  </a>
 </div>
