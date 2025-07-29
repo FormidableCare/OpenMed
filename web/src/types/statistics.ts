@@ -47,6 +47,8 @@ export interface CodeCoverage {
   pharmasoft: number;
   atc: number;
   snomed: number;
+  barcode: number;
+  rxnorm: number;
 }
 
 export interface PricingStats {

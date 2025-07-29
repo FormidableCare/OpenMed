@@ -72,6 +72,8 @@ export function transformMedicationToListItem(
   if (medication.codes?.moh) codes.push('MOH');
   if (medication.codes?.yarpa) codes.push('Yarpa');
   if (medication.codes?.pharmasoft) codes.push('Pharmasoft');
+  if (medication.codes?.barcode) codes.push('Barcode');
+  if (medication.codes?.rxnorm) codes.push('RxNorm');
 
   return {
     id: medication.id,

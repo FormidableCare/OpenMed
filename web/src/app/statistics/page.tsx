@@ -191,6 +191,14 @@ export default function StatisticsPage() {
               <span className='text-sm text-gray-600'>SNOMED</span>
               <span className='text-sm font-medium'>{stats.codeCoverage.snomed}%</span>
             </div>
+            <div className='flex justify-between items-center'>
+              <span className='text-sm text-gray-600'>Barcode</span>
+              <span className='text-sm font-medium'>{stats.codeCoverage.barcode}%</span>
+            </div>
+            <div className='flex justify-between items-center'>
+              <span className='text-sm text-gray-600'>RxNorm</span>
+              <span className='text-sm font-medium'>{stats.codeCoverage.rxnorm}%</span>
+            </div>
           </div>
         </div>
 

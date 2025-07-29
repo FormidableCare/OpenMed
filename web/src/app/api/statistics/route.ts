@@ -82,7 +82,9 @@ function calculateStatistics(medications: OpenMedMedication[]) {
     yarpa: 0,
     pharmasoft: 0,
     atc: 0,
-    snomed: 0
+    snomed: 0,
+    barcode: 0,
+    rxnorm: 0
   };
   
   medications.forEach(med => {
@@ -92,6 +94,8 @@ function calculateStatistics(medications: OpenMedMedication[]) {
     if (med.codes?.pharmasoft) codeCoverage.pharmasoft++;
     if (med.codes?.atc) codeCoverage.atc++;
     if (med.codes?.snomed) codeCoverage.snomed++;
+    if (med.codes?.barcode) codeCoverage.barcode++;
+    if (med.codes?.rxnorm) codeCoverage.rxnorm++;
   });
   
   // Route distribution
@@ -143,7 +147,9 @@ function calculateStatistics(medications: OpenMedMedication[]) {
       yarpa: Math.round((codeCoverage.yarpa / totalMedications) * 100),
       pharmasoft: Math.round((codeCoverage.pharmasoft / totalMedications) * 100),
       atc: Math.round((codeCoverage.atc / totalMedications) * 100),
-      snomed: Math.round((codeCoverage.snomed / totalMedications) * 100)
+      snomed: Math.round((codeCoverage.snomed / totalMedications) * 100),
+      barcode: Math.round((codeCoverage.barcode / totalMedications) * 100),
+      rxnorm: Math.round((codeCoverage.rxnorm / totalMedications) * 100)
     },
     routeDistribution: Object.entries(routeCounts)
       .sort(([,a], [,b]) => b - a)

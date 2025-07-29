@@ -897,6 +897,60 @@ export function MedicationDetail() {
               )}
             </div>
           </div>
+
+          {/* Barcode */}
+          <div className='flex items-center justify-between'>
+            <label className='block text-sm font-medium text-gray-700'>
+              Barcode
+            </label>
+            <div className='flex-1 ml-4'>
+              {editing ? (
+                <>
+                  <input
+                    type='text'
+                    value={medication.codes?.barcode || ''}
+                    onChange={e => handleFieldChange('codes.barcode', e.target.value)}
+                    className='w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500'
+                    placeholder='Enter barcode (UPC, EAN, etc.)'
+                  />
+                  <AISuggestions
+                    field='codes.barcode'
+                    suggestions={aiSuggestions}
+                    onSuggestionClick={(suggestion) => handleFieldChange('codes.barcode', suggestion)}
+                  />
+                </>
+              ) : (
+                <p className='text-gray-900'>{medication.codes?.barcode || 'Not specified'}</p>
+              )}
+            </div>
+          </div>
+
+          {/* RxNorm */}
+          <div className='flex items-center justify-between'>
+            <label className='block text-sm font-medium text-gray-700'>
+              RxNorm
+            </label>
+            <div className='flex-1 ml-4'>
+              {editing ? (
+                <>
+                  <input
+                    type='text'
+                    value={medication.codes?.rxnorm || ''}
+                    onChange={e => handleFieldChange('codes.rxnorm', e.target.value)}
+                    className='w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500'
+                    placeholder='Enter RxNorm RXCUI'
+                  />
+                  <AISuggestions
+                    field='codes.rxnorm'
+                    suggestions={aiSuggestions}
+                    onSuggestionClick={(suggestion) => handleFieldChange('codes.rxnorm', suggestion)}
+                  />
+                </>
+              ) : (
+                <p className='text-gray-900'>{medication.codes?.rxnorm || 'Not specified'}</p>
+              )}
+            </div>
+          </div>
         </div>
 
         {/* Composition */}

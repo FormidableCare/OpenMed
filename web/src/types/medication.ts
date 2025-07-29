@@ -84,6 +84,8 @@ export interface OpenMedMedication {
     pharmasoft?: string;
     formidable?: string;
     moh?: string;
+    barcode?: string;
+    rxnorm?: string;
   };
   alternatives?: string[];
   contraindications?: string[];

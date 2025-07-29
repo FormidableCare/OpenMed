@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { OpenMedMedication } from '@/types/medication';
 import { generateText } from 'ai';
 import { getAIModel, getAIConfig, validateAIEnvironment } from '@/lib/ai-config';
+import { searchFrenchMedication, getFrenchMedicationDetails, mapFrenchDataToOpenMed } from '@/lib/french-medication-api';
 
 interface AISuggestionRequest {
   medication: Partial<OpenMedMedication>;
@@ -20,9 +21,30 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Try to get French database data first
+    let frenchData = null;
+    if (medication.name) {
+      try {
+        const frenchResults = await searchFrenchMedication(medication.name);
+        if (frenchResults.length > 0) {
+          frenchData = frenchResults[0];
+        }
+      } catch (error) {
+        console.warn('Failed to fetch French medication data:', error);
+      }
+    }
+
     const model = getAIModel();
     const config = getAIConfig();
-    const prompt = createComprehensivePrompt(medication, context);
+    
+    // Enhance context with French database data if available
+    let enhancedContext = context || '';
+    if (frenchData) {
+      const mappedData = mapFrenchDataToOpenMed(frenchData);
+      enhancedContext += `\n\nFrench Database Reference:\n${JSON.stringify(mappedData, null, 2)}`;
+    }
+    
+    const prompt = createComprehensivePrompt(medication, enhancedContext);
 
     const { text } = await generateText({
       model,
@@ -41,7 +63,7 @@ export async function POST(request: NextRequest) {
       suggestions = {};
     }
 
-    return NextResponse.json({ suggestions });
+    return NextResponse.json({ suggestions, frenchData: frenchData ? mapFrenchDataToOpenMed(frenchData) : null });
   } catch (error) {
     return NextResponse.json(
       { error: 'Failed to generate suggestions' },
@@ -83,7 +105,7 @@ List of target fields:
   - pregnancyCategory, lactationCategory, controlledSubstanceLevel
 
 - Nested:
-  - codes.atc, codes.snomed, codes.yarpa, codes.pharmasoft, codes.moh
+  - codes.atc, codes.snomed, codes.yarpa, codes.pharmasoft, codes.moh, codes.barcode, codes.rxnorm
 
 - Composition (array items):
   - composition[].substance
