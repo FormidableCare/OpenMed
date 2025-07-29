@@ -27,6 +27,12 @@ export function Navigation() {
       match: (path: string) =>
         path === '/statistics', 
     },
+    {
+      name: 'About',
+      href: 'https://formidable.care/openmed',
+      match: (path: string) =>
+        path === 'https://formidable.care/openmed',
+    }
   ];
 
   return (
@@ -36,8 +42,8 @@ export function Navigation() {
           {/* Left: OpenMed logo and name */}
           <div className="flex items-center">
             <Link href='/' className='flex items-center space-x-2'>
-              <OpenMedIcon className='text-cyan-600' size={30} />
-              <span className='text-xl font-bold text-cyan-600'>OpenMed</span>
+              <OpenMedIcon className='text-pink-600' size={30} />
+              <span className='text-xl font-bold text-pink-600'>OpenMed</span>
             </Link>
           </div>
           {/* Right: Navigation */}
@@ -58,6 +64,12 @@ export function Navigation() {
             ))}
           </div>
         </div>
+      </div>
+
+      <div className='px-4 sm:px-6 lg:px-8 py-2 bg-pink-500 text-white'>
+        <p className='text-sm'>
+          OpenMed is a free national medication catalog, provided by <a href="https://formidable.care" className='text-white font-semibold' target='_blank' rel="noopener noreferrer">Formidable Care</a>.
+        </p>
       </div>
     </nav>
   );

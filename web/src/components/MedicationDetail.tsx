@@ -11,6 +11,8 @@ import {
   Tag,     
   Building,
   Calendar,
+  Play, 
+  Pause,
 } from 'lucide-react';
 import { OpenMedMedication } from '@/types/medication';
 import { loadMedicationById, saveMedication, loadAllMedications, getComprehensiveAISuggestions } from '@/lib/data';
@@ -261,19 +263,27 @@ export function MedicationDetail() {
           <div className='flex items-center gap-3'>
             <button
               onClick={() => router.back()}
-              className='flex items-center gap-2 text-cyan-900 hover:text-cyan-600 font-medium cursor-pointer'
+              className='flex items-center gap-2 text-gray-900 hover:text-pink-600 font-medium cursor-pointer'
             >
               <ArrowLeft className='h-5 w-5' />
               Back to List
             </button>
           </div>
+
+          {/* <div className='flex items-center gap-3'> */}
+            {/* <button
+              onClick={() => setEditing(true)}
+              className='flex items-center gap-2 text-pink-900 hover:text-pink-600 font-medium cursor-pointer'
+            >
+              <Play className='h-5 w-5' />
+              Edit */}
           
           <div className='flex items-center gap-3'>
             <div className='flex items-center gap-2'>
               <button
                 onClick={() => navigateToMedication('prev')}
                 disabled={allMedications.length === 0}
-                className='flex items-center gap-2 text-cyan-900 hover:text-cyan-600 font-medium px-1 py-1 cursor-pointer'
+                className='flex items-center gap-2 text-gray-900 hover:text-pink-600 font-medium px-1 py-1 cursor-pointer'
               >
                 <svg className='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
                   <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M15 19l-7-7 7-7' />
@@ -288,7 +298,7 @@ export function MedicationDetail() {
               <button
                 onClick={() => navigateToMedication('next')}
                 disabled={allMedications.length === 0}
-                className='flex items-center gap-2 text-cyan-900 hover:text-cyan-600 font-medium px-1 py-1 cursor-pointer'
+                className='flex items-center gap-2 text-gray-900 hover:text-pink-600 font-medium px-1 py-1 cursor-pointer'
               >
                 <svg className='w-5 h-5' fill='none' stroke='currentColor' viewBox='0 0 24 24'>
                   <path strokeLinecap='round' strokeLinejoin='round' strokeWidth={2} d='M9 5l7 7-7 7' />

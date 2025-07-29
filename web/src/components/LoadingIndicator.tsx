@@ -26,7 +26,7 @@ export function LoadingIndicator({
   return (
     <div className={`flex justify-center items-center ${containerClasses[size]} ${className}`}>
       <div className="text-center">
-        <Loader2 className={`animate-spin mx-auto mb-4 text-blue-600 ${sizeClasses[size]}`} />
+        <Loader2 className={`animate-spin mx-auto mb-4 text-pink-600 ${sizeClasses[size]}`} />
         <p className="text-gray-600 text-sm">{message}</p>
       </div>
     </div>
