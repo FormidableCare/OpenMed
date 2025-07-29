@@ -4,7 +4,7 @@
   "name": "PNEUMOVAX 23 25MCG/0.5ML",
   "meta": {
     "version": "1.3.0",
-    "lastUpdated": "2025-07-24T15:35:07.968753",
+    "lastUpdated": "2025-07-29T08:24:26.157Z",
     "source": "formidable_moh_2025.csv"
   },
   "status": "draft",
@@ -35,6 +35,7 @@
   "codes": {
     "yarpa": "11122",
     "formidable": "FC1205",
-    "moh": "1205"
+    "moh": "1205",
+    "atc": "J07AL01"
   }
 }

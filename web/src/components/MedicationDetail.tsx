@@ -896,14 +896,11 @@ export function MedicationDetail() {
                 <p className='text-gray-900'>{medication.codes?.moh || 'Not specified'}</p>
               )}
             </div>
-          </div>
 
-          {/* Barcode */}
-          <div className='flex items-center justify-between'>
-            <label className='block text-sm font-medium text-gray-700'>
+            <div>
+            <label className='block text-sm font-medium text-gray-700 mb-1'>
               Barcode
             </label>
-            <div className='flex-1 ml-4'>
               {editing ? (
                 <>
                   <input
@@ -923,14 +920,12 @@ export function MedicationDetail() {
                 <p className='text-gray-900'>{medication.codes?.barcode || 'Not specified'}</p>
               )}
             </div>
-          </div>
 
           {/* RxNorm */}
-          <div className='flex items-center justify-between'>
-            <label className='block text-sm font-medium text-gray-700'>
+          <div>
+            <label className='block text-sm font-medium text-gray-700 mb-1'>
               RxNorm
             </label>
-            <div className='flex-1 ml-4'>
               {editing ? (
                 <>
                   <input
