@@ -1,0 +1,118 @@
+{
+  "catalogId": "sample-medication-001",
+  "name": "Acetaminophen 500mg Tablets",
+  "status": "active",
+  "category": "over-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "IL-12345-2024",
+  "treatmentDescriptions": "Acetaminophen is used to treat mild to moderate pain and to reduce fever. It is commonly used for headaches, muscle aches, arthritis, backache, toothaches, colds, and fevers.",
+  "termsOfIssue": "Available over-the-counter without prescription. Maximum daily dose should not exceed 4000mg for adults. Not recommended for children under 12 years without medical supervision.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "oral administration",
+  "method": "swallow with water",
+  "administrationNotes": "Take with or without food. Do not crush or chew tablets. Take every 4-6 hours as needed, but not more than 4 times per day. Maximum daily dose: 4000mg for adults.",
+  "ingredients": "Active ingredient: Acetaminophen (Paracetamol) 500mg. Inactive ingredients: Microcrystalline cellulose, croscarmellose sodium, magnesium stearate, colloidal silicon dioxide, and other excipients.",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "Acetaminophen"
+    },
+    "snomedCTIntegrationComposition": {
+      "system": "SNOMED CT",
+      "code": "430193006",
+      "name": "Acetaminophen 500mg tablet"
+    },
+    "snomedCTClinicalDrug": {
+      "system": "SNOMED CT",
+      "code": "430193006",
+      "name": "Acetaminophen 500mg tablet"
+    }
+  },
+  "contraindications": "Hypersensitivity to acetaminophen or any component of the formulation. Severe liver disease or liver failure. Alcohol abuse or chronic alcohol consumption.",
+  "sideEffect": "Common side effects include nausea, stomach upset, and allergic reactions. Rare but serious side effects include liver damage, especially with overdose or in patients with liver disease. Skin rash, itching, or swelling may indicate an allergic reaction.",
+  "warnings": "Do not exceed recommended dosage. Avoid alcohol while taking this medication. Consult healthcare provider if pain persists for more than 10 days or fever for more than 3 days. May cause liver damage if taken in excess or with alcohol.",
+  "alternativeMedications": [
+  ],
+  "packaging": [
+    {
+      "name": "Acetaminophen 500mg Tablets - 20 tablets",
+      "manufacturer": {
+        "name": "Teva Pharmaceutical Industries Ltd.",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 500,
+        "unit": "mg"
+      },
+      "quantity": {
+        "value": 20,
+        "unit": "tablets"
+      },
+      "packagingDescription": "White round tablets in a blister pack, packaged in a cardboard box with patient information leaflet.",
+      "shelfLife": "36 months from date of manufacture",
+      "storageConditions": [
+        "Room Temperature",
+        "Keep Dry",
+        "Protect from Light"
+      ],
+      "codes": {
+        "barcode": "7290000000001",
+        "pharmasoft": "TEV001",
+        "superpharm": "SP001",
+        "yarpa": "YAR001",
+        "moh": "MOH12345"
+      },
+      "manufacturersAdministrationRecommendation": "Take 1-2 tablets every 4-6 hours as needed for pain or fever. Do not exceed 8 tablets in 24 hours. Take with water and do not crush or chew.",
+      "pricing": {
+        "maxWholesalePrice": 15.50,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 19.38,
+        "maxPriceWithVAT": 22.50,
+        "currency": "ILS"
+      }
+    },
+    {
+      "name": "Acetaminophen 500mg Tablets - 50 tablets",
+      "manufacturer": {
+        "name": "Teva Pharmaceutical Industries Ltd.",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 500,
+        "unit": "mg"
+      },
+      "quantity": {
+        "value": 50,
+        "unit": "tablets"
+      },
+      "packagingDescription": "White round tablets in a bottle with child-resistant cap, packaged in a cardboard box with patient information leaflet.",
+      "shelfLife": "36 months from date of manufacture",
+      "storageConditions": [
+        "Room Temperature",
+        "Keep Dry",
+        "Protect from Light"
+      ],
+      "codes": {
+        "barcode": "7290000000002",
+        "pharmasoft": "TEV002",
+        "superpharm": "SP002",
+        "yarpa": "YAR002",
+        "moh": "MOH12346"
+      },
+      "manufacturersAdministrationRecommendation": "Take 1-2 tablets every 4-6 hours as needed for pain or fever. Do not exceed 8 tablets in 24 hours. Take with water and do not crush or chew.",
+      "pricing": {
+        "maxWholesalePrice": 35.00,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 43.75,
+        "maxPriceWithVAT": 50.75,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  }
+} 

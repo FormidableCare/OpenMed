@@ -1,0 +1,27 @@
+{
+  "catalog_index": {
+    "version": "1.0.3",
+    "generated_at": "2025-07-30T16:27:06.203055",
+    "total_medications": 2,
+    "medications": [
+      {
+        "catalogId": "sample-medication-001",
+        "name": "Acetaminophen 500mg Tablets",
+        "status": "active",
+        "category": "over-the-counter",
+        "atc5": "N02BE01",
+        "registrationNumber": "IL-12345-2024",
+        "filename": "sample-medication-001.json"
+      },
+      {
+        "catalogId": "sample-medication-002",
+        "name": "Ibuprofen 400mg Capsules",
+        "status": "active",
+        "category": "over-the-counter",
+        "atc5": "M01AE01",
+        "registrationNumber": "IL-67890-2024",
+        "filename": "sample-medication-002.json"
+      }
+    ]
+  }
+}
