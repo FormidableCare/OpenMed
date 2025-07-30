@@ -46,7 +46,8 @@ class MedicationAPI:
     def _load_all_medications(self) -> List[Dict[str, Any]]:
         """Load all medication files."""
         json_files = list(self.output_dir.glob("*.json"))
-        medication_files = [f for f in json_files if f.stem.startswith('MOH_')]
+        # Exclude catalog_index.json and any other non-medication files
+        medication_files = [f for f in json_files if f.name != "catalog_index.json"]
         medications = []
         
         for json_file in medication_files:
@@ -232,7 +233,7 @@ def get_statuses():
 @app.route('/health', methods=['GET'])
 def health_check():
     """Health check endpoint."""
-    medication_files = [f for f in OUTPUT_DIR.glob("*.json") if f.stem.startswith('MOH_')]
+    medication_files = [f for f in OUTPUT_DIR.glob("*.json") if f.name != "catalog_index.json"]
     
     return jsonify({
         "status": "healthy",

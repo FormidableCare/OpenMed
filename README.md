@@ -32,8 +32,8 @@ OpenMed/
 │   └── catalog_index.json   # Search index
 ├── schema/                   # JSON schemas
 │   └── openmed_medication.schema.json
-├── scripts/                  # Data processing scripts
-└── assets/                   # Logo and screenshots
+└── assets/                   # Logo
+├── generate_catalog_index.py # Script to generate catalog index
 ```
 
 ## Quick Start
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ```bash
 # From project root
-python scripts/generate_catalog_index.py
+python generate_catalog_index.py
 ```
 
 ### 3. Start the Services
