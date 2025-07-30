@@ -20,6 +20,11 @@
       "description": "Unique identifier for the medication",
       "pattern": "^[A-Z0-9_-]+$"
     },
+    "fullRegistrationNumber": {
+      "type": "string",
+      "description": "Full registration number for the medication",
+      "maxLength": 100
+    },
     "meta": {
       "type": "object",
       "required": ["version", "lastUpdated"],
@@ -271,19 +276,10 @@
           "description": "SNOMED CT code",
           "pattern": "^[0-9]{6,18}$"
         },
-        "yarpa": {
-          "type": "string",
-          "description": "Yarpa database code",
-          "maxLength": 50
-        },
         "pharmasoft": {
           "type": "string",
           "description": "PharmaSoft database code",
           "maxLength": 50
-        },
-        "formidable": {
-          "type": "string",
-          "description": "Formidable internal code"
         },
         "moh": {
           "type": "string",
@@ -293,11 +289,6 @@
           "type": "string",
           "description": "Barcode identifier (UPC, EAN, etc.)",
           "maxLength": 50
-        },
-        "rxnorm": {
-          "type": "string",
-          "description": "RxNorm concept unique identifier (RXCUI)",
-          "pattern": "^[0-9]+$"
         }
       },
       "additionalProperties": false

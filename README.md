@@ -18,29 +18,13 @@ OpenMed is a comprehensive open-source medical catalog system designed specifica
 
 - 🏥 **Israeli Healthcare Focus**: Specialized for Israeli medical regulations and standards
 - 🔍 **Advanced Search**: Find medications by name, manufacturer, status, and category
-- 🤖 **AI-Powered Suggestions**: Intelligent field completion and data validation
-- 📱 **Modern Web Interface**: Clean, responsive design for easy navigation
 - 🔧 **REST API**: Simple endpoints for integration with other systems
 - 📊 **Comprehensive Data**: Detailed medication information including composition, pricing, and clinical data
-
-## Screenshot
-
-<div align="center">
-  <img src="assets/screenshot-web.png" alt="OpenMed Web Interface" width="800"/>
-</div>
 
 ## Project Structure
 
 ```
 OpenMed/
-├── web/                       # Next.js web application
-│   ├── src/
-│   │   ├── app/              # App router pages
-│   │   ├── components/       # React components
-│   │   ├── lib/              # Utility functions
-│   │   └── types/            # TypeScript definitions
-│   ├── public/               # Static assets
-│   └── package.json          # Node.js dependencies
 ├── api/                      # Python Flask REST API
 │   └── app.py
 ├── catalog/                  # Generated medication data
@@ -57,7 +41,6 @@ OpenMed/
 ### Prerequisites
 
 - **Python 3.8+** (for API)
-- **Node.js 18+** (for web app)
 - **1GB RAM minimum**
 - **100MB disk space**
 
@@ -72,10 +55,6 @@ cd openmed
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
-# Setup web application
-cd web
-npm install
 ```
 
 ### 2. Generate Catalog Data
@@ -95,44 +74,6 @@ python api/app.py
 ```
 
 API will be available at `http://localhost:5001`
-
-#### Start the Web Application
-
-```bash
-# From web directory
-cd web
-npm run dev
-```
-
-Web app will be available at `http://localhost:3000`
-
-### 4. Optional: Configure AI Features
-
-For AI-powered suggestions, create a `.env.local` file in the `web/` directory:
-
-```bash
-# Copy example file
-cp web/env.example web/.env.local
-
-# Edit with your API keys
-nano web/.env.local
-```
-
-Supported AI providers:
-
-- OpenAI (GPT-4, GPT-3.5)
-- Anthropic (Claude)
-- Google AI (Gemini)
-- Azure OpenAI
-
-## Usage
-
-### Web Interface
-
-1. **Browse Medications**: Navigate through the medication catalog with search and filters
-2. **View Details**: Click on any medication to see comprehensive information
-3. **Edit Data**: Use the edit mode to modify medication information with AI assistance
-4. **AI Suggestions**: Click "AI Assist" to get intelligent suggestions for empty fields
 
 ### API Endpoints
 
@@ -159,59 +100,7 @@ curl "http://localhost:5001/medications?status=active&category=Antibiotics"
 
 ## Data Schema
 
-Each medication follows the `OpenMedMedication` schema with comprehensive fields:
-
-```json
-{
-  "resourceType": "OpenMedMedication",
-  "id": "MOH_12345",
-  "name": "Amoxicillin 500mg capsule",
-  "status": "active",
-  "category": "Antibiotics",
-  "composition": [
-    {
-      "substance": "Amoxicillin",
-      "concentration": {
-        "value": 500,
-        "unit": "mg"
-      }
-    }
-  ],
-  "manufacturer": {
-    "name": "Teva Pharmaceuticals",
-    "country": "IL"
-  },
-  "pricing": {
-    "maxRetailPrice": 15.5,
-    "currency": "ILS"
-  }
-}
-```
-
-## Development
-
-### Running Tests
-
-```bash
-# Test API
-curl http://localhost:5001/health
-
-# Test web app
-cd web
-npm run lint
-npm run build
-```
-
-### Code Quality
-
-```bash
-# Python formatting
-black api/ scripts/
-
-# Web app formatting
-cd web
-npm run format
-```
+Schema is available in the [schema](schema/openmed_medication.schema.json) file.
 
 ## Contributing
 
