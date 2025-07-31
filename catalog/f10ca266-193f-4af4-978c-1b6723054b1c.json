@@ -1,0 +1,64 @@
+{
+  "catalogId": "f10ca266-193f-4af4-978c-1b6723054b1c",
+  "name": "SUNITINIB TARO 12.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 94 36017 00",
+  "treatmentDescriptions": "Sunitinib taro is indicated for:• Treatment of gastrointestinal stromal tumor after disease progression on or intolerance to imatinib mesylate. • Treatment of advanced renal cell carcinoma.• Treatment of unresectable or metastatic, well differentiated pancreatic neuroendocrine tumours (pNET) with disease progression.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SUNITINIB 12.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE04",
+      "name": "SUNITINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUNITINIB TARO 25 MG 28 CAPS",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9403",
+        "yarpa": "15972",
+        "barcode": "7290017164410"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3129.8936,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3442.88296,
+        "maxPriceWithVAT": 4062.601892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:51:29.041517"
+  }
+}

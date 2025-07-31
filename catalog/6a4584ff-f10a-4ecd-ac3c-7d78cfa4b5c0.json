@@ -1,0 +1,65 @@
+{
+  "catalogId": "6a4584ff-f10a-4ecd-ac3c-7d78cfa4b5c0",
+  "name": "SUNACTIC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 56 33561 00",
+  "treatmentDescriptions": "For the treatment of Actinic Keratoses",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DICLOFENAC SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D11AX18",
+      "name": "DICLOFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUNACTIC GEL 3% 50G",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7457",
+        "yarpa": "53734",
+        "pharmasoft": "9745",
+        "barcode": "7290008856027"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 155.6229283,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 194.5286604,
+        "maxPriceWithVAT": 229.5438091
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:51:05.152175"
+  }
+}

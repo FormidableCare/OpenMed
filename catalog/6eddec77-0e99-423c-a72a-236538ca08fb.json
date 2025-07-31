@@ -1,0 +1,64 @@
+{
+  "catalogId": "6eddec77-0e99-423c-a72a-236538ca08fb",
+  "name": "SUNLENCA FILM-COATED TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 21 37470 99",
+  "treatmentDescriptions": "Sunlenca film-coated tablet, in combination with other antiretroviral(s), is indicated for the treatment of adults with multidrug resistant HIV-1 infection for whom it is otherwise not possible to construct a suppressive anti-viral regimen, for oral loading prior to administration of long-acting lenacapavir injection.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LENACAPAVIR  AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AX31",
+      "name": "LENACAPAVIR "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUNLENCA 463.5 MG 2 VIALS",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9252",
+        "yarpa": "17502",
+        "barcode": "5391507148285"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 81560.29041,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 89716.31945,
+        "maxPriceWithVAT": 105865.2522
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:52:42.726799"
+  }
+}

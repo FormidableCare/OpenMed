@@ -1,0 +1,64 @@
+{
+  "catalogId": "19f405c7-0f3f-4709-b112-864715d5fbf9",
+  "name": "SYMDEKO 100 MG/150 MG & 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 71 35683 00",
+  "treatmentDescriptions": "SYMDEKO is a combination of tezacaftor and ivacaftor, indicated for the treatment of patients with cystic fibrosis (CF) aged 12 years and older who are homozygous for the F508del mutation or who have at least one mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical evidence.If the patient’s genotype is unknown, a health authority cleared CF mutation test should be used to detect the presence of a CFTR mutation followed by verification with bi-directional sequencing when recommended by the mutation test instructions for use.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IVACAFTOR, TEZACAFTOR, IVACAFTOR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R07AX31",
+      "name": "IVACAFTOR AND TEZACAFTOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SYMDEKO 50MG/75MG 56 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ACLAR/PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8746",
+        "yarpa": "45985",
+        "pharmasoft": "10491"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:55:03.397195"
+  }
+}

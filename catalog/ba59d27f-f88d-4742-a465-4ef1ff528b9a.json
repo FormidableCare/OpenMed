@@ -1,0 +1,65 @@
+{
+  "catalogId": "ba59d27f-f88d-4742-a465-4ef1ff528b9a",
+  "name": "SUMATRIDEX 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 31 30967 00",
+  "treatmentDescriptions": "Sumatridex caplets are indicated for the acute relief of migraine attacks, with or without aura. Sumatridex should only be used where there is a clear diagnosis of migraine.",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SUMATRIPTAN AS SUCCINATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CC01",
+      "name": "SUMATRIPTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUMATRIDEX 50MG 6CAPLETS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6183",
+        "yarpa": "7829",
+        "pharmasoft": "19828",
+        "barcode": "7290010577347"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 34.2908,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 46.978396,
+        "maxPriceWithVAT": 55.43450728
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:50:46.024369"
+  }
+}

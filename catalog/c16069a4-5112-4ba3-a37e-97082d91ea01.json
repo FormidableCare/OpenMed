@@ -1,0 +1,65 @@
+{
+  "catalogId": "c16069a4-5112-4ba3-a37e-97082d91ea01",
+  "name": "SYNTHROID 100 MCG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 74 33763 01",
+  "treatmentDescriptions": "Hypothyroidism, Pituitary TSH Suppression",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVOTHYROXINE SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H03AA01",
+      "name": "LEVOTHYROXINE SODIUM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SYNTHROID 50 MCG 90 TAB",
+      "manufacturer": {
+        "name": "אבוט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "15",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8642",
+        "yarpa": "25481",
+        "pharmasoft": "10893",
+        "barcode": "8002660034762"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.761,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.85257,
+        "maxPriceWithVAT": 22.2460326
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:56:39.157151"
+  }
+}

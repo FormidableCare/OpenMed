@@ -1,0 +1,64 @@
+{
+  "catalogId": "f7faefcd-ef85-4909-8009-6a0c09fc1628",
+  "name": "SYLVANT 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 85 34217 00",
+  "treatmentDescriptions": "Sylvant is indicated for the treatment of adult patients with multicentric Castleman’s disease (MCD) who are human immunodeficiency virus (HIV) negative and human herpesvirus-8 (HHV-8) negative.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SILTUXIMAB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC11",
+      "name": "SILTUXIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SYLVANT 100 MG 1VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7797",
+        "yarpa": "38794",
+        "barcode": "7290014577275"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2120.61669,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2332.678359,
+        "maxPriceWithVAT": 2752.560341
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:53:57.032685"
+  }
+}
