@@ -1,0 +1,62 @@
+{
+  "catalogId": "9f7a40c9-6352-4a1d-94b2-b5f1ad2550ef",
+  "name": "FLUDECATE",
+  "status": "",
+  "category": "29C",
+  "registrationValidity": "valid",
+  "registrationNumber": "025 22 21358 00",
+  "treatmentDescriptions": "Fludecate is a long acting parenteral antipsychotic drug intended for use in the management of patients requiring prolonged parenteral neuroleptic therapy (e.g. chronic schizophrenics).Fluphenazine Decanoate Injection has not been shown effective in the management of behavioral complications in patients with mental retardation.",
+  "termsOfIssue": "",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUPHENAZINE DECANOATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AB02",
+      "name": "FLUPHENAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUPHENAZINE 5MG 100TAB",
+      "manufacturer": {
+        "name": NaN,
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "20081"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T14:36:38.629052"
+  }
+}
