@@ -2,7 +2,7 @@
 """
 OpenMed Catalog Index Generator
 Creates catalog index from existing medication JSON files.
-Generates both JSON and CSV formats.
+Generates both JSON and CSV formats with comprehensive data.
 """
 
 import json
@@ -46,8 +46,101 @@ def get_next_version(index_dir: Path, filename: str) -> str:
         print(f"Warning: Could not parse version '{current_version}': {e}")
         return default_version
 
+def extract_medication_data(medication: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """Extract comprehensive medication data including all packaging options."""
+    
+    # Format filename as GitHub URL
+    filename = medication.get("filename", "")
+    github_url = f"https://github.com/FormidableCare/OpenMed/tree/main/catalog/{filename}" if filename else ""
+    
+    base_data = {
+        # Basic medication information - starting with catalogId
+        "catalogId": medication.get("catalogId", ""),
+        "name": medication.get("name", ""),
+        "status": medication.get("status", ""),
+        "category": medication.get("category", ""),
+        "registrationValidity": medication.get("registrationValidity", ""),
+        "registrationNumber": medication.get("registrationNumber", ""),
+        
+        # Clinical information
+        "treatmentDescriptions": medication.get("treatmentDescriptions", ""),
+        "termsOfIssue": medication.get("termsOfIssue", ""),
+        "form": medication.get("form", ""),
+        "route": medication.get("route", ""),
+        "site": medication.get("site", ""),
+        "method": medication.get("method", ""),
+        "administrationNotes": medication.get("administrationNotes", ""),
+        "ingredients": medication.get("ingredients", ""),
+        
+        # Codes and classifications
+        "atc5_code": medication.get("codes", {}).get("atc5", {}).get("code", ""),
+        "atc5_name": medication.get("codes", {}).get("atc5", {}).get("name", ""),
+        "atc5_system": medication.get("codes", {}).get("atc5", {}).get("system", ""),
+        "snomed_ct_integration_code": medication.get("codes", {}).get("snomedCTIntegrationComposition", {}).get("code", ""),
+        "snomed_ct_integration_name": medication.get("codes", {}).get("snomedCTIntegrationComposition", {}).get("name", ""),
+        "snomed_ct_clinical_code": medication.get("codes", {}).get("snomedCTClinicalDrug", {}).get("code", ""),
+        "snomed_ct_clinical_name": medication.get("codes", {}).get("snomedCTClinicalDrug", {}).get("name", ""),
+        
+        # Safety information
+        "contraindications": medication.get("contraindications", ""),
+        "sideEffect": medication.get("sideEffect", ""),
+        "warnings": medication.get("warnings", ""),
+        "alternativeMedications": ", ".join(medication.get("alternativeMedications", [])),
+        
+        # Metadata
+        "schema_version": medication.get("metadata", {}).get("version", ""),
+        "lastUpdated": medication.get("metadata", {}).get("lastUpdated", ""),
+        
+        # File information - GitHub URL format
+        "filename": github_url
+    }
+    
+    # Extract packaging information
+    packages = medication.get("packaging", [])
+    if not packages:
+        # If no packaging, return base data with empty packaging fields
+        return [base_data]
+    
+    # Create a row for each packaging option
+    rows = []
+    for package in packages:
+        package_data = base_data.copy()
+        
+        # Packaging information
+        package_data.update({
+            "package_name": package.get("name", ""),
+            "manufacturer_name": package.get("manufacturer", {}).get("name", ""),
+            "manufacturer_country": package.get("manufacturer", {}).get("countryOfOrigin", ""),
+            "strength_value": package.get("strength", {}).get("value", ""),
+            "strength_unit": package.get("strength", {}).get("unit", ""),
+            "quantity_value": package.get("quantity", {}).get("value", ""),
+            "quantity_unit": package.get("quantity", {}).get("unit", ""),
+            "packaging_description": package.get("packagingDescription", ""),
+            "shelf_life": package.get("shelfLife", ""),
+            "storage_conditions": package.get("storageConditions", ""),
+            "manufacturers_administration_recommendation": package.get("manufacturersAdministrationRecommendation", ""),
+            
+            # Package codes
+            "package_barcode": package.get("codes", {}).get("barcode", ""),
+            "package_pharmasoft": package.get("codes", {}).get("pharmasoft", ""),
+            "package_superpharm": package.get("codes", {}).get("superpharm", ""),
+            "package_yarpa": package.get("codes", {}).get("yarpa", ""),
+            "package_moh": package.get("codes", {}).get("moh", ""),
+            
+            # Pricing information
+            "currency": package.get("pricing", {}).get("currency", ""),
+            "max_wholesale_price": package.get("pricing", {}).get("maxWholesalePrice", ""),
+            "retail_margin": package.get("pricing", {}).get("retailMargin", ""),
+            "max_retail_price": package.get("pricing", {}).get("maxRetailPrice", ""),
+            "max_price_with_vat": package.get("pricing", {}).get("maxPriceWithVAT", "")
+        })
+        
+        rows.append(package_data)
+    
+    return rows
+
 def create_catalog_index(catalog_dir: Path, output_dir: Path) -> None:
-    """Create catalog index files with metadata about all medications."""
+    """Create catalog index files with comprehensive metadata about all medications."""
     
     # Ensure output directory exists
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -67,13 +160,22 @@ def create_catalog_index(catalog_dir: Path, output_dir: Path) -> None:
         }
     }
     
-    # Read each medication file and extract basic info
+    # Comprehensive CSV data
+    csv_rows = []
+    
+    # Read each medication file and extract comprehensive info
     for filepath in sorted(medication_files):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 medication = json.load(f)
             
-            # Extract basic information for index
+            # Add filename to medication data
+            medication["filename"] = filepath.name
+            
+            # Extract basic information for JSON index
+            # Format filename as GitHub URL
+            github_url = f"https://github.com/FormidableCare/OpenMed/tree/main/catalog/{filepath.name}"
+            
             index_entry = {
                 "catalogId": medication.get("catalogId"),
                 "name": medication.get("name"),
@@ -81,10 +183,14 @@ def create_catalog_index(catalog_dir: Path, output_dir: Path) -> None:
                 "category": medication.get("category"),
                 "atc5": medication.get("codes", {}).get("atc5", {}).get("code"),
                 "registrationNumber": medication.get("registrationNumber"),
-                "filename": filepath.name
+                "filename": github_url
             }
             
             index_data["catalog_index"]["medications"].append(index_entry)
+            
+            # Extract comprehensive data for CSV
+            medication_csv_rows = extract_medication_data(medication)
+            csv_rows.extend(medication_csv_rows)
             
         except Exception as e:
             print(f"Error reading {filepath}: {e}")
@@ -94,21 +200,52 @@ def create_catalog_index(catalog_dir: Path, output_dir: Path) -> None:
     with open(json_filepath, 'w', encoding='utf-8') as f:
         json.dump(index_data, f, indent=2, ensure_ascii=False)
     
-    # Save CSV catalog index
+    # Save comprehensive CSV catalog index
     csv_filepath = output_dir / "catalog_index.csv"
-    with open(csv_filepath, 'w', newline='', encoding='utf-8') as f:
-        if index_data["catalog_index"]["medications"]:
-            writer = csv.DictWriter(f, fieldnames=index_data["catalog_index"]["medications"][0].keys())
+    if csv_rows:
+        # Get all possible field names from the data
+        fieldnames = set()
+        for row in csv_rows:
+            fieldnames.update(row.keys())
+        
+        # Create ordered fieldnames with specific priority order
+        priority_fields = [
+            "catalogId",      # 1st
+            "name",           # 2nd
+            "category",       # 3rd
+            "atc5_code",      # 4th
+            "atc5_name",      # 5th
+            "package_moh",    # 6th (MOH codes)
+        ]
+        
+        ordered_fieldnames = []
+        
+        # Add priority fields in order
+        for field in priority_fields:
+            if field in fieldnames:
+                ordered_fieldnames.append(field)
+        
+        # Add all other fields except priority fields and filename
+        other_fields = sorted([f for f in fieldnames if f not in priority_fields + ["filename"]])
+        ordered_fieldnames.extend(other_fields)
+        
+        # Add filename at the end
+        if "filename" in fieldnames:
+            ordered_fieldnames.append("filename")
+        
+        with open(csv_filepath, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=ordered_fieldnames)
             writer.writeheader()
-            writer.writerows(index_data["catalog_index"]["medications"])
+            writer.writerows(csv_rows)
     
     print(f"Created catalog index: {json_filepath}")
-    print(f"Created CSV index: {csv_filepath}")
+    print(f"Created comprehensive CSV index: {csv_filepath}")
     print(f"Version: {next_version}")
     print(f"Total medications indexed: {len(medication_files)}")
+    print(f"Total CSV rows (including packaging): {len(csv_rows)}")
 
 def create_packaging_index(catalog_dir: Path, output_dir: Path) -> None:
-    """Create packaging index files with packaging information."""
+    """Create packaging index files with detailed packaging information."""
     
     # Ensure output directory exists
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -139,6 +276,9 @@ def create_packaging_index(catalog_dir: Path, output_dir: Path) -> None:
             # Extract packaging information
             packages = medication.get("packaging", [])
             for package in packages:
+                # Format filename as GitHub URL
+                github_url = f"https://github.com/FormidableCare/OpenMed/tree/main/catalog/{filepath.name}"
+                
                 package_entry = {
                     "catalogId": medication.get("catalogId"),
                     "medicationName": medication.get("name"),
@@ -148,7 +288,7 @@ def create_packaging_index(catalog_dir: Path, output_dir: Path) -> None:
                     "size": package.get("size"),
                     "unit": package.get("unit"),
                     "status": package.get("status"),
-                    "filename": filepath.name
+                    "filename": github_url
                 }
                 
                 packaging_data["packaging_index"]["packages"].append(package_entry)
@@ -189,10 +329,11 @@ def main():
         return
     
     # Create catalog index from existing files
-    print("\n📋 Creating catalog index...")
+    print("\n📋 Creating comprehensive catalog index...")
     create_catalog_index(CATALOG_DIR, CATALOG_LIST_DIR)
     
-    print("\n✅ Catalog index created successfully.")
+    print("\n✅ Comprehensive catalog index created successfully.")
+    print("The CSV now includes all medication fields and packaging information.")
     print("The API can now serve the indexed medications.")
 
 if __name__ == "__main__":

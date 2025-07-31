@@ -27,7 +27,7 @@ OpenMed/
 ├── api/                      # Python Flask REST API
 │   └── app.py
 ├── catalog/                  # Individual medication data
-│   └── *.json               # 3,887 medication files
+│   └── *.json               # Medication files
 ├── db/                       # Database indexes
 │   └── catalog-list/         # Catalog indexes
 │       ├── catalog_index.json
