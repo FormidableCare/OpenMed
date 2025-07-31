@@ -3,15 +3,15 @@
   
   <img src="assets/logo.png" alt="OpenMed Logo" width="200"/>
   
-  **Simple, Accurate, and Efficient Medical Catalog System**
-  
   [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](https://www.gnu.org/licenses/agpl-3.0)
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 </div>
 
 ## What is OpenMed?
 
-OpenMed is a comprehensive open-source medical catalog system designed specifically for the Israeli healthcare system. It provides both a REST API for programmatic access and a modern web interface for easy browsing and management of medication data.
+OpenMed is a comprehensive open-source medical catalog system designed specifically for the Israeli healthcare system. It provides both a REST API for programmatic access and a modern web interface for easy browsing and management of medication data. 
+
+Explore the platform here: [🔗 OpenMed Dashboard](https://openmed.formidable.care)
 
 ### Key Features
 
