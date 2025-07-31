@@ -1,0 +1,62 @@
+{
+  "catalogId": "d10df7e4-b64c-45fb-91ba-6390ff3d00a1",
+  "name": "EPANUTIN 100 MG",
+  "status": "",
+  "category": "29C",
+  "registrationValidity": "valid",
+  "registrationNumber": "104 27 24678 00",
+  "treatmentDescriptions": "Treatment of epilepsy.",
+  "termsOfIssue": "",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENYTOIN SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AB02",
+      "name": "PHENYTOIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENYTOIN 50MG/ML (100MG/2ML) 25AMP",
+      "manufacturer": {
+        "name": NaN,
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "20592"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T15:35:01.594698"
+  }
+}

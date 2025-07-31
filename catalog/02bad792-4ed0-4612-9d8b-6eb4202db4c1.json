@@ -1,0 +1,63 @@
+{
+  "catalogId": "02bad792-4ed0-4612-9d8b-6eb4202db4c1",
+  "name": "OTOMYCIN",
+  "status": "",
+  "category": "29C",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 86 24749 00",
+  "treatmentDescriptions": "Antibacterial, antifungal ear drops.",
+  "termsOfIssue": "",
+  "form": "drops",
+  "route": "otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZOCAINE, NEOMYCIN AS SULFATE 0.35 %, PHENYLEPHRINE HYDROCHLORIDE 0.25 %, SODIUM PROPIONATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S02AA30",
+      "name": "ANTIINFECTIVES, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENYLEPHRINE  50MCG/ML INJECTION AGUETTANT FRANCE 10ML",
+      "manufacturer": {
+        "name": NaN,
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "20887",
+        "barcode": "7290000808253"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T15:34:50.592027"
+  }
+}
