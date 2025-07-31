@@ -1,0 +1,65 @@
+{
+  "catalogId": "95245d94-8262-4e11-8322-be54aa6b2033",
+  "name": "XEPLION 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 09 37280 99",
+  "treatmentDescriptions": "Xeplion is indicated for the acute and maintenance treatment of schizophrenia in adults.Xeplion is indicated for the treatment of schizoaffective disorder as monotherapy and as an adjunct to mood stabilizers and antidepressants",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection extended release",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PALIPERIDONE AS PALMITATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX13",
+      "name": "PALIPERIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XEPLION 100MG/1ML 1 SYRINGE 0.5ML",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  ",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6716",
+        "yarpa": "1624",
+        "pharmasoft": "24059",
+        "barcode": "7290008099844"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 368.9670252,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 433.5362546,
+        "maxPriceWithVAT": 511.5727577
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:33:55.055038"
+  }
+}

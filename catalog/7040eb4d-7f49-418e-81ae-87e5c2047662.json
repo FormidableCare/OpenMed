@@ -1,0 +1,64 @@
+{
+  "catalogId": "7040eb4d-7f49-418e-81ae-87e5c2047662",
+  "name": "XANAGIS 0.25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "063 48 26906 00",
+  "treatmentDescriptions": "Treatment of anxiety accompanied by depression. Treatment of panic states with or without accompanying phobia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALPRAZOLAM 0.25   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05BA12",
+      "name": "ALPRAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XANAGIS 0.25MG 50TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2791",
+        "yarpa": "8888",
+        "pharmasoft": "24009"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.05,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.1385,
+        "maxPriceWithVAT": 17.86343
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:28:11.373789"
+  }
+}

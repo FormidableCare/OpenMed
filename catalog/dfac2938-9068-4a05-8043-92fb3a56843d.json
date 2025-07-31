@@ -1,0 +1,64 @@
+{
+  "catalogId": "dfac2938-9068-4a05-8043-92fb3a56843d",
+  "name": "ABROLET SUPPOSITORIES",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 21 24032 00",
+  "treatmentDescriptions": "Analgesic, antipyretic pediatric suppositories.",
+  "termsOfIssue": "",
+  "form": "suppositories",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE05",
+      "name": "PROPACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABROLET FTE 250MG 12 SUP",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "FOIL PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3101",
+        "pharmasoft": "1091",
+        "barcode": "7290008089500"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 20.97,
+        "maxPriceWithVAT": 24.7446
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:58:59.335673"
+  }
+}

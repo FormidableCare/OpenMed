@@ -1,0 +1,65 @@
+{
+  "catalogId": "7533cf5a-2a52-48a2-9f38-27bcad7c8e2f",
+  "name": "XPOVIO 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 04 36451 99",
+  "treatmentDescriptions": "Multiple Myeloma•\tXpovio® in combination with bortezomib and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.•\tXPOVIO in combination with dexamethasone is indicated for the treatment of adult patients with relapsed refractory multiple myeloma (RRMM) who have received at least three prior therapies and whose disease is refractory to at least one proteasome inhibitor (PI), at least one immunomodulatory agent (IMiD), and an anti- CD38 monoclonal antibody (mAb).Diffuse Large B-Cell LymphomaXPOVIO is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from follicular lymphoma, after at least 2 lines of systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SELINEXOR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX66",
+      "name": "SELINEXOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XPOVIO 20 MG 12 TAB",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE/PVC/ALU",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8797",
+        "yarpa": "57376",
+        "pharmasoft": "24101",
+        "barcode": "7290111092886"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20116.77142,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 22128.44856,
+        "maxPriceWithVAT": 26111.56814
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:36:30.996848"
+  }
+}

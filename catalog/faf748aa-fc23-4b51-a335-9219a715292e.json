@@ -1,0 +1,63 @@
+{
+  "catalogId": "faf748aa-fc23-4b51-a335-9219a715292e",
+  "name": "ACAMOL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "020 16 20534 00",
+  "treatmentDescriptions": "Relief of pain and fever of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
+  "termsOfIssue": "",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "PARACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACAMOL TSINUN & SHAPA'AT DAY 35 CAPLETS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 35.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5483",
+        "barcode": "7290000800028"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 26.08,
+        "maxPriceWithVAT": 30.7744
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:01:04.220100"
+  }
+}

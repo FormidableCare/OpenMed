@@ -1,0 +1,63 @@
+{
+  "catalogId": "0109492b-c844-484b-acf3-b9fba9b9469b",
+  "name": "PRILIDAN",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 87 34381 00",
+  "treatmentDescriptions": "Topical anaesthetic for superficial dermal analgesia in connection with insertion of IV catheters, blood sampling and superficial surgical procedures.",
+  "termsOfIssue": "",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRILOCAINE/, LIDOCAINE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB04",
+      "name": "PRILOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRILIDAN CREAM 30 GR",
+      "manufacturer": {
+        "name": "הלפרין מדיק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5596",
+        "barcode": "729001971992"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 85.3,
+        "maxPriceWithVAT": 100.654
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:52:16.476911"
+  }
+}

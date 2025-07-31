@@ -1,0 +1,63 @@
+{
+  "catalogId": "408fd1aa-08b5-452f-a493-ff8e48642345",
+  "name": "ASPIRIN CARDIO",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 06 31982 00",
+  "treatmentDescriptions": "The primary prevention of coronary heart disease in patients at increased risk and the secondary prevention of thrombotic cerebrovascular or cardiovascular disease.",
+  "termsOfIssue": "",
+  "form": "tablets enteric coated",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACETYLSALICYLIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC06",
+      "name": "ACETYLSALICYLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ASPIRIN CARDIO 90 TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER POLYPROPYLENE/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5426",
+        "barcode": "7290013092502"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 33.62,
+        "maxPriceWithVAT": 39.6716
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:14:31.354731"
+  }
+}

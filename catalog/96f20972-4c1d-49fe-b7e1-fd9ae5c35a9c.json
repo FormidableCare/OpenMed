@@ -1,0 +1,64 @@
+{
+  "catalogId": "96f20972-4c1d-49fe-b7e1-fd9ae5c35a9c",
+  "name": "ZODORM 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "123 62 30320 01",
+  "treatmentDescriptions": "Zodorm 10 is indicated for the short-term treatment of occasional or transient insomnia in adults in situations where the insomnia is debilitating or is causing severe distress for the patient.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZOLPIDEM TARTRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CF02",
+      "name": "ZOLPIDEM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZODORM 10MG 20TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4415",
+        "yarpa": "4398",
+        "pharmasoft": "26106"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.3834,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.965258,
+        "maxPriceWithVAT": 20.01900444
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:50:54.953946"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "380b2081-f6e8-462b-88a5-305913f5d4b6",
+  "name": "ZERBAXA 1 G/0.5 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 01 34967 01",
+  "treatmentDescriptions": "Zerbaxa is indicated for the treatment of the following infections in adults:-Complicated intra abdominal infections;-Acute pyelonephritis caused by pathogens resistant to other treatments as confirmed by urine culture-Complicated urinary tract infections.-Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP).Consideration should be given to official guidance on the appropriate use of antibacterial agents",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAZOBACTAM AS SODIUM 0.5 G, CEFTOLOZANE AS SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DI54",
+      "name": "CEFTOLOZANE AND ENZYME INHIBITOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZERBAXA 1 G/0.5 G 10 VIALS",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8697",
+        "yarpa": "13735",
+        "barcode": "7290017512006"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3445.247422,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3789.772164,
+        "maxPriceWithVAT": 4471.930955
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:47:36.495579"
+  }
+}

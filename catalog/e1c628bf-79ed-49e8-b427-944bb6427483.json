@@ -1,0 +1,64 @@
+{
+  "catalogId": "e1c628bf-79ed-49e8-b427-944bb6427483",
+  "name": "ZOLEDRONIC ACID FRESENIUS 4 MG/5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 91 34402 00",
+  "treatmentDescriptions": "Treatment of hypercalcaemia of malignancy. Treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors , in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZOLEDRONIC ACID AS MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BA08",
+      "name": "ZOLEDRONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZOLEDRONIC ACID FRESENIUS 4 MG/5 ML 10 VIAL X 5 ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL POLYPROPYLENE",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8613",
+        "yarpa": "446",
+        "pharmasoft": "26219"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3321.3,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3653.43,
+        "maxPriceWithVAT": 4311.0474
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:53:30.021915"
+  }
+}

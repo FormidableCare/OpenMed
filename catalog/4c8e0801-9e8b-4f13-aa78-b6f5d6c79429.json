@@ -1,0 +1,64 @@
+{
+  "catalogId": "4c8e0801-9e8b-4f13-aa78-b6f5d6c79429",
+  "name": "SEPTOL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "029 79 25425 00",
+  "treatmentDescriptions": "Antiseptic hand rub .",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOL70 %W/V, CHLORHEXIDINE GLUCONATE 0.5 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC52",
+      "name": "CHLORHEXIDINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEPTOL 500ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3958",
+        "pharmasoft": "19637",
+        "barcode": "7291064690419"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 26.95,
+        "maxPriceWithVAT": 31.801
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:17:24.690493"
+  }
+}

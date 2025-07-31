@@ -1,0 +1,63 @@
+{
+  "catalogId": "286078ca-0c63-4ff8-925a-f12f26796b46",
+  "name": "DES-LORATADIM",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 01 32034 00",
+  "treatmentDescriptions": "Des-Loratadim is indicated for the relief of symptoms associated with allergic rhinitis, urticaria.",
+  "termsOfIssue": "",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESLORATADINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX27",
+      "name": "DESLORATADINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LORATADIM 10MG 10TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/TE/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5064",
+        "pharmasoft": "12024"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 25.75,
+        "maxPriceWithVAT": 30.385
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:22:41.839048"
+  }
+}

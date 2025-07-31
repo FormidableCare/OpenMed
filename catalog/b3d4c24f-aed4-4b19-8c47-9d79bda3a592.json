@@ -1,0 +1,64 @@
+{
+  "catalogId": "b3d4c24f-aed4-4b19-8c47-9d79bda3a592",
+  "name": "AGISPOR SOLUTION",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "036 83 25609 00",
+  "treatmentDescriptions": "Broad spectrum antimycotic agent.",
+  "termsOfIssue": "",
+  "form": "solution",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BIFONAZOLEW/V /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC10",
+      "name": "BIFONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AGISPOR SOL 15ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2367",
+        "pharmasoft": "1813",
+        "barcode": "7290000857329"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 16.62,
+        "maxPriceWithVAT": 19.6116
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:06:37.934135"
+  }
+}

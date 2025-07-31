@@ -1,0 +1,63 @@
+{
+  "catalogId": "dca4e421-4a0a-4cb1-b345-826f0fe01bdf",
+  "name": "ALCOHOL 70 % VITAMED",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 31 30731 00",
+  "treatmentDescriptions": "Skin disinfection.",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AX08",
+      "name": "ETHANOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALCOHOL 70% 1L",
+      "manufacturer": {
+        "name": "פלוריש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1000.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3748",
+        "pharmasoft": "1007"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 50.44,
+        "maxPriceWithVAT": 59.5192
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:09:22.862605"
+  }
+}

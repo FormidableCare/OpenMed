@@ -1,0 +1,65 @@
+{
+  "catalogId": "ddd68ee1-d990-44ad-bde5-05442144aae2",
+  "name": "VYNDAQEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 10 34016 00",
+  "treatmentDescriptions": "For the treatment of transthyretin amyloidosis in adult patients with stage 1 symptomatic polyneuropathy to delay peripheral neurologic impairment.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules soft gelatin",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAFAMIDIS AS MEGLUMINE 12.2  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX08",
+      "name": "TAFAMIDIS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VYNDAQEL 20MG 30 CAPS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7750",
+        "yarpa": "60532",
+        "pharmasoft": "22417",
+        "barcode": "7290013592163"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 33851.71554,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 37236.88709,
+        "maxPriceWithVAT": 43939.52482
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:23:54.859582"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "af8041fd-b3d0-4b74-a171-cee8a0d8a085",
+  "name": "ZEFFIX ORAL SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 12 29545 05",
+  "treatmentDescriptions": "Zeffix is indicated for the treatment of chronic hepatitis B associated with the evidence of hepatitis B viral (HBV) replication and active liver inflammation in adults and also in children and adolescents aged 2 to 17 years old.",
+  "termsOfIssue": "Prescription required",
+  "form": "oral solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LAMIVUDINE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF05",
+      "name": "LAMIVUDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZEFFIX ORAL SOL 5MG/ML 240ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 240.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4207",
+        "yarpa": "20905",
+        "pharmasoft": "26092",
+        "barcode": "7290008086462"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 62.902728,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 84.60416916,
+        "maxPriceWithVAT": 99.83291517
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:45:09.755130"
+  }
+}

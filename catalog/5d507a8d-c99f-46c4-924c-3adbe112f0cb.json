@@ -1,0 +1,65 @@
+{
+  "catalogId": "5d507a8d-c99f-46c4-924c-3adbe112f0cb",
+  "name": "ZOKINVY 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 67 36861 99",
+  "treatmentDescriptions": "ZOKINVY is indicated in patients 12 months of age and older with a body surface area (BSA) of0.39 m2 and above:To reduce the risk of mortality in Hutchinson-Gilford Progeria Syndrome (HGPS)• For the treatment of processing-deficient Progeroid Laminopathies with either:o Heterozygous LMNA mutation with progerin-like protein accumulationo Homozygous or compound heterozygous ZMPSTE24 mutationsLimitations of UseZOKINVY is not indicated for other Progeroid Syndromes or processing-proficient Progeroid Laminopathies. Based upon its mechanism of action, ZOKINVY would not be expected to be effective in these populations.",
+  "termsOfIssue": "Prescription required",
+  "form": "hard gelatin capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LONAFARNIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX20",
+      "name": "LONAFARNIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZOKINVY 50 MG 30 CAPS",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9043",
+        "yarpa": "43137",
+        "pharmasoft": "26230",
+        "barcode": "7290111098451"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77023.57464,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 84725.9321,
+        "maxPriceWithVAT": 99976.59543
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:52:33.776236"
+  }
+}

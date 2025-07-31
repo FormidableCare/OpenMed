@@ -1,0 +1,64 @@
+{
+  "catalogId": "5abdd132-5ddf-422a-a9db-44adbf0b26cf",
+  "name": "CARTIA",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 89 26384 00",
+  "treatmentDescriptions": "The primary prevention of coronary heart disease in patients at increased risk and the secondary prevention of thrombotic cerebrovascular or cardiovascular disease.",
+  "termsOfIssue": "",
+  "form": "tablets enteric coated",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACETYLSALICYLIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC06",
+      "name": "ACETYLSALICYLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARTIA 100MG 28TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "978",
+        "pharmasoft": "3639",
+        "barcode": "7290008102131"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 15.16,
+        "maxPriceWithVAT": 17.8888
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:24:04.685650"
+  }
+}

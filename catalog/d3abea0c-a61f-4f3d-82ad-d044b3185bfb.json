@@ -1,0 +1,64 @@
+{
+  "catalogId": "d3abea0c-a61f-4f3d-82ad-d044b3185bfb",
+  "name": "ZEPOSIA 0.23 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 33 36599 99",
+  "treatmentDescriptions": "Zeposia is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (RRMS) with active disease as defined by clinical or imaging features.ZEPOSIA is indicated for the treatment of moderately to severely active ulcerative colitis (UC) in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OZANIMOD AS HYDROCHLORIDE 0.23  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA38",
+      "name": "OZANIMOD"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZEPOSIA 0.92 MG 28 CAPS",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8800",
+        "yarpa": "72976",
+        "barcode": "7290014396159"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4691.470894,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5160.617983,
+        "maxPriceWithVAT": 6089.52895
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:47:14.488960"
+  }
+}

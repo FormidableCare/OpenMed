@@ -1,0 +1,64 @@
+{
+  "catalogId": "fabd2305-a25b-41d6-a8c4-91cad1b6cb88",
+  "name": "VYVGART IV 20 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 67 37436 00",
+  "treatmentDescriptions": "Vyvgart is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EFGARTIGIMOD ALFA/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA58",
+      "name": "EFGARTIGIMOD"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VYVGART 400 MG/20 ML VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9264",
+        "yarpa": "3086",
+        "pharmasoft": "22523"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 30268.76757,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 33295.64433,
+        "maxPriceWithVAT": 39288.85856
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:24:40.115289"
+  }
+}

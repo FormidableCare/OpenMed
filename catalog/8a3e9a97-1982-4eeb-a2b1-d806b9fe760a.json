@@ -1,0 +1,64 @@
+{
+  "catalogId": "8a3e9a97-1982-4eeb-a2b1-d806b9fe760a",
+  "name": "ABROLET SUPPOSITORIES",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 21 24032 00",
+  "treatmentDescriptions": "Analgesic, antipyretic pediatric suppositories.",
+  "termsOfIssue": "",
+  "form": "suppositories",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE05",
+      "name": "PROPACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABROLET SYRUP SF 115ML",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 115.0,
+        "unit": "units"
+      },
+      "packagingDescription": "FOIL PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3845",
+        "pharmasoft": "1637",
+        "barcode": "7290008089500"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 15.07,
+        "maxPriceWithVAT": 17.7826
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:59:18.819101"
+  }
+}

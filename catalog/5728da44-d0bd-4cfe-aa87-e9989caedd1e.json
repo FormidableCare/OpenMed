@@ -1,0 +1,64 @@
+{
+  "catalogId": "5728da44-d0bd-4cfe-aa87-e9989caedd1e",
+  "name": "IODO-VIT VETERINARY OINTMENT",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "083 26 92362 00",
+  "treatmentDescriptions": "Disinfection of wounds, scratches, minor burns and skin infections in farm animals and pets.",
+  "termsOfIssue": "",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POVIDONE-IODINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AG02",
+      "name": "POVIDONE-IODINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IODO-VIT OINT 250GR",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 250.0,
+        "unit": "units"
+      },
+      "packagingDescription": "JAR PLASTIC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5282",
+        "pharmasoft": "9070",
+        "barcode": "7290008082495"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 34.04,
+        "maxPriceWithVAT": 40.1672
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:12:17.068813"
+  }
+}

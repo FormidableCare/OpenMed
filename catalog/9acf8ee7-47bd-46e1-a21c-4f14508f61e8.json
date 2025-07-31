@@ -1,0 +1,65 @@
+{
+  "catalogId": "9acf8ee7-47bd-46e1-a21c-4f14508f61e8",
+  "name": "VFEND 200 MG POWDER FOR SOLUTION FOR INFUSION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 71 30598 12",
+  "treatmentDescriptions": "Treatment of :- invasive aspergillosis  fluconazole-resistant serious invasive Candida infections (including C. krusei) , - serious fungal infections caused by scedosporium spp. and fusarium spp.Vfend should be administered primarily to immunocompromised patients with progressive  possibly life-threatening infections.   - Treatment of candidemia in non neutropenic patients.- Prophylaxis of invasive fungal infections in high risk allogeneic hematopoietic stem cell transplant (HSCT) recipients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VORICONAZOLE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J02AC03",
+      "name": "VORICONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VFEND 40MG/ML PWDR ORAL SUSP 75ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4943",
+        "yarpa": "69751",
+        "pharmasoft": "22270",
+        "barcode": "7680559450025"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1301.823555,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1529.642677,
+        "maxPriceWithVAT": 1804.978279
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:10:39.564732"
+  }
+}

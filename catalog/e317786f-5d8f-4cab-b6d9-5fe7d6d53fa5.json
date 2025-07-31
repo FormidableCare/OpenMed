@@ -1,0 +1,65 @@
+{
+  "catalogId": "e317786f-5d8f-4cab-b6d9-5fe7d6d53fa5",
+  "name": "ZIDOVAL 7.5 MG/G VAGINAL GEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 72 29887 01",
+  "treatmentDescriptions": "Zidoval vaginal gel is indicated for the treatment of bacterial vaginosis (formally called non-specific vaginitis gardnella vaginalis vaginitis or haemophilus vaginitis).",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METRONIDAZOLE 7.5 MG/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G01AF01",
+      "name": "METRONIDAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZIDOVAL VAG. GEL 7.5MG/G 40G + APPLICATORS",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 40.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4211",
+        "yarpa": "25306",
+        "pharmasoft": "26029",
+        "barcode": "7290008107310"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25.2,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 34.524,
+        "maxPriceWithVAT": 40.73831819
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:48:15.992255"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "7fc64e38-3354-4acf-aff1-ab8136c92910",
+  "name": "VIDAZA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "134 76 31390 01",
+  "treatmentDescriptions": "For the treatment of patients with the following FAB myelodysplastic syndromes subtypes: refractory anemia or refractory anemia with ringed sideroblasts ( if accompanied by neutropenia or thrombocytopenia or requiring transfusions),refractory anaemia with excess blasts, refractory anaemia with excess blasts in transformation, and chronic myelomonocytic leukaema.",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for suspension for sc injection / solution for infusion",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZACITIDINE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC07",
+      "name": "AZACITIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIDAZA 100MG 1VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7338",
+        "yarpa": "83101",
+        "pharmasoft": "22302",
+        "barcode": "359572102019"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1291.000758,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1516.925891,
+        "maxPriceWithVAT": 1789.972551
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:13:38.736518"
+  }
+}

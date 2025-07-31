@@ -1,0 +1,65 @@
+{
+  "catalogId": "6361e6d2-4a10-47b5-b0ac-dfd251e9940d",
+  "name": "XOSPATA 40 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 30 36203 00",
+  "treatmentDescriptions": "Xospata is indicated as monotherapy for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia (AML) with a FLT3 mutation",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GILTERITINIB AS FUMARATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE54",
+      "name": "GILTERITINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XOSPATA 40 MG 84 TAB",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8556",
+        "yarpa": "61811",
+        "pharmasoft": "24108",
+        "barcode": "8718692511347"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 64153.10338,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 70568.41371,
+        "maxPriceWithVAT": 83270.72448
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:36:20.232091"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "f9a46edd-6620-466a-b544-4e20b68620cc",
+  "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "107 95 26735 00",
+  "treatmentDescriptions": "For use in patients with end-stage (decompensated) chronic renal failure of any origin being maintained on peritoneal dialysis.",
+  "termsOfIssue": "",
+  "form": "solution for peritoneal dialysis",
+  "route": "intra-peritoneal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MAGNESIUM CHLORIDE 0.1017 G/L, SODIUM CHLORIDE 5.786 G/L, CALCIUM CHLORIDE 0.2573 G/L, GLUCOSE AS MONOHYDRATE 16.5 G/L, LACTIC ACID AS SODIUM 3.925 G/L",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05XA30",
+      "name": "COMBINATIONS OF ELECTROLYTES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACID BORIC 1.9% 10ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3223",
+        "pharmasoft": "1087"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 19.75,
+        "maxPriceWithVAT": 23.3
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:03:20.745697"
+  }
+}

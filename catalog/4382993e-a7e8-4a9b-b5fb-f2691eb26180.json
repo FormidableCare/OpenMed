@@ -1,0 +1,65 @@
+{
+  "catalogId": "4382993e-a7e8-4a9b-b5fb-f2691eb26180",
+  "name": "XANAX X.R. 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "110 49 28804 21",
+  "treatmentDescriptions": "For the treatment of anxiety and anxiety associated with depression.Treatment of panic disorder with or without phobic avoidance",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets sustained release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALPRAZOLAM 0.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05BA12",
+      "name": "ALPRAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XANAX XR 1MG 30 SR TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4308",
+        "yarpa": "2496",
+        "pharmasoft": "24020",
+        "barcode": "7298074000702"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.5,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.715,
+        "maxPriceWithVAT": 31.5236986
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:29:12.692458"
+  }
+}

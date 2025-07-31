@@ -1,0 +1,63 @@
+{
+  "catalogId": "66f1a2af-749d-4123-90e2-853441606d2d",
+  "name": "MUCOLESS SOLUTION",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 11 31423 00",
+  "treatmentDescriptions": "Bronchial mucolytic. It can also be given by inhalation as an aerosol solution.",
+  "termsOfIssue": "",
+  "form": "solution",
+  "route": "per os, inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BROMHEXINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R05CB02",
+      "name": "BROMHEXINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MUCOLESS 8MG 20TAB",
+      "manufacturer": {
+        "name": "מכבי קאר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5424",
+        "barcode": "7290008082648"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 14.91,
+        "maxPriceWithVAT": 17.5938
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:27:03.634823"
+  }
+}

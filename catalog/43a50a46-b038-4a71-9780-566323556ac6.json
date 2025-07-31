@@ -1,0 +1,65 @@
+{
+  "catalogId": "43a50a46-b038-4a71-9780-566323556ac6",
+  "name": "ZYTIGA 250 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 03 33481 00",
+  "treatmentDescriptions": "Zytiga is a CYP17 inhibitor indicated:- in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer.- for the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABIRATERONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BX03",
+      "name": "ABIRATERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZYTIGA 250MG 120TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6934",
+        "yarpa": "34314",
+        "pharmasoft": "26181",
+        "barcode": "7290008099943"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13221.014,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 14543.1154,
+        "maxPriceWithVAT": 17160.87617
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:57:53.269962"
+  }
+}

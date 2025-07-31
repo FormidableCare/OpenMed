@@ -1,0 +1,63 @@
+{
+  "catalogId": "d4c2a4f8-14d2-4722-a0e4-dacfe0a7e7fe",
+  "name": "DICLOPLAST",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 72 28525 00",
+  "treatmentDescriptions": "Dicloplast is indicated for topical treatment of rheumatic diseases, pain and non-infectious inflammation.",
+  "termsOfIssue": "",
+  "form": "patches",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DICLOFENAC SODIUM/PATCH",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M02AA15",
+      "name": "DICLOFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DICLOPLAST PACK 5",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH PAPER/POLYETHYLENE/ALUMINIUM/ETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5033",
+        "pharmasoft": "4286"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 57.34,
+        "maxPriceWithVAT": 67.6612
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:32:37.485886"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "3e8f006e-eef1-455e-9532-b984644ebe4e",
+  "name": "ZOVIRAX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 38 30532 00",
+  "treatmentDescriptions": "For the treatment of cold sores (herpes labialis).",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACICLOVIRW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06BB03",
+      "name": "ACICLOVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZOVIRAX 800MG 35 DISPERS TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 35.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PACK PUMP POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3047",
+        "yarpa": "9112",
+        "pharmasoft": "26028",
+        "barcode": "7290008086950"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 97.4197287,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 121.7746609,
+        "maxPriceWithVAT": 143.6940934
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:55:02.797895"
+  }
+}

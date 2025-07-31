@@ -1,0 +1,64 @@
+{
+  "catalogId": "1010b5d8-0e7f-4a37-9008-1ae938f705ec",
+  "name": "XENICAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 32 29627 00",
+  "treatmentDescriptions": "Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI > 28 kg/m2) with associated risk factors.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ORLISTAT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A08AB01",
+      "name": "ORLISTAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XENICAL 120MG 84CAP",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4166",
+        "yarpa": "51546",
+        "pharmasoft": "24022"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 207.3746105,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 243.6651674,
+        "maxPriceWithVAT": 287.5248847
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:33:04.942044"
+  }
+}

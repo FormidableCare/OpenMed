@@ -1,0 +1,65 @@
+{
+  "catalogId": "6be14bf4-bdbe-4ffc-9dde-521d377eda21",
+  "name": "XOFIGO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 53 33970 00",
+  "treatmentDescriptions": "Xofigo monotherapy or in combination with luteinising hormone releasing hormone (LHRH) analogue is indicated for the treatment of adult patients with metastatic castration-resistant prostate cancer (mCRPC), symptomatic bone metastases and no known visceral metastases, in progression after at least two prior lines of systemic therapy for advanced PC (other than LHRH analogues), or ineligible for any available systemic mCRPC treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RADIUM-223 DICHLORIDE 1100 KBQ/ML AT REFERENCE DATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V10XX03",
+      "name": "RADIUM (223 RA) DICHLORIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XOFIGO 1000KBQ/ML VIAL 1X6ML",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "28",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7423",
+        "yarpa": "51046",
+        "pharmasoft": "24079",
+        "barcode": "7290013092656"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15955.41099,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 17550.95209,
+        "maxPriceWithVAT": 20710.12254
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:35:45.539304"
+  }
+}

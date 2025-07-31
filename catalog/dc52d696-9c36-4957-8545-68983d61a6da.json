@@ -1,0 +1,65 @@
+{
+  "catalogId": "dc52d696-9c36-4957-8545-68983d61a6da",
+  "name": "XENAZINE 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 07 31010 01",
+  "treatmentDescriptions": "Movement disorders, associated with organic central nervous system conditions, e.g. Huntington's chorea, hemiballismus and senile chorea.Moderate to severe tardive dyskinesia, which is disabling and/or socially embarrassing. The condition should be persistent despite a switch to atypical antipsychotic medication and/or reduction in dosage of antipsychotic medication, when withdrawal of antipsychotic medication is not a realistic option.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TETRABENAZINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX06",
+      "name": "TETRABENAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XENAZINE 25MG 112TAB",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 112.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4873",
+        "yarpa": "61821",
+        "pharmasoft": "24029",
+        "barcode": "7290111091919"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 419.3853649,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 492.7778038,
+        "maxPriceWithVAT": 581.4777826
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:32:54.120802"
+  }
+}

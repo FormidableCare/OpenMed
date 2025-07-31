@@ -1,0 +1,65 @@
+{
+  "catalogId": "03003b38-d909-488a-8a50-5a3bf8a68d01",
+  "name": "VYEPTI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 65 36769 00",
+  "treatmentDescriptions": "VYEPTI is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPTINEZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CD05",
+      "name": "EPTINEZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VYEPTI 100MG/ML 1 VIAL",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9347",
+        "yarpa": "4558",
+        "pharmasoft": "22524",
+        "barcode": "5702150154552"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4020.349314,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4422.384245,
+        "maxPriceWithVAT": 5218.413177
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:23:31.332603"
+  }
+}

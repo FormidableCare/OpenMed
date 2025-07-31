@@ -1,0 +1,64 @@
+{
+  "catalogId": "8d5c5a50-00d1-4e0f-b5b2-632ee819e4d6",
+  "name": "AVILAC SYRUP",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "031 75 25187 00",
+  "treatmentDescriptions": "Constipation. Acute and chronic hepatic encephalopathy.",
+  "termsOfIssue": "",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LACTULOSE 66.7 G /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A06AD11",
+      "name": "LACTULOSE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AVILAC 300ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 300.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2379",
+        "pharmasoft": "1814",
+        "barcode": "7290002925880"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 35.42,
+        "maxPriceWithVAT": 41.7956
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:15:14.882672"
+  }
+}

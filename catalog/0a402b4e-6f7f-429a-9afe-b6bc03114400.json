@@ -1,0 +1,64 @@
+{
+  "catalogId": "0a402b4e-6f7f-429a-9afe-b6bc03114400",
+  "name": "LAEVOLAC",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "115 98 29714 00",
+  "treatmentDescriptions": "Constipation. Acute and chronic hepatic encephalopathy.",
+  "termsOfIssue": "",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LACTULOSE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A06AD11",
+      "name": "LACTULOSE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LAEVOLAC 500ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PET",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5178",
+        "pharmasoft": "12218",
+        "barcode": "9088880170823"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 56.09,
+        "maxPriceWithVAT": 66.1862
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:16:52.239598"
+  }
+}

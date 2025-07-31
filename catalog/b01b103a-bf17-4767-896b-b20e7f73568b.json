@@ -1,0 +1,63 @@
+{
+  "catalogId": "b01b103a-bf17-4767-896b-b20e7f73568b",
+  "name": "ZEPZELCA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 62 36588 99",
+  "treatmentDescriptions": "ZEPZELCA is indicated for the treatment of adult patients with metastatic small cell lung cancer (SCLC) with disease progression on or after platinum-based chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LURBINECTEDIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX69",
+      "name": "LURBINECTEDIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZEPZELCA 4MG/VIAL",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9042",
+        "yarpa": "46910"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:47:25.048810"
+  }
+}

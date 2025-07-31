@@ -1,0 +1,65 @@
+{
+  "catalogId": "56fbffba-89e5-4dc9-a7ec-7173e979d566",
+  "name": "VISABELLE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 40 33320 00",
+  "treatmentDescriptions": "Treatment of endometriosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIENOGEST",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03FA15",
+      "name": "DIENOGEST AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VISABELLE 2MG 28 TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6917",
+        "yarpa": "34506",
+        "pharmasoft": "22347",
+        "barcode": "7290013092120"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 44.52105691,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 59.88082154,
+        "maxPriceWithVAT": 70.65936628
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:18:01.338391"
+  }
+}

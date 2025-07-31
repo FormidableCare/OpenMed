@@ -1,0 +1,64 @@
+{
+  "catalogId": "e50dc10e-871e-4986-996a-d32d8491cefb",
+  "name": "ARTHRYL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 92 31267 00",
+  "treatmentDescriptions": "Treatment of osteoarthritis symptoms ( i.e. pain and function limitation).",
+  "termsOfIssue": "",
+  "form": "powder for solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLUCOSAMINE SULFATE (CRYSTALLINE)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AX05",
+      "name": "GLUCOSAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARTHRYL 1500MG 30 SACHETS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6161",
+        "pharmasoft": "17523",
+        "barcode": "7290008016346"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 79.66,
+        "maxPriceWithVAT": 93.9988
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:13:28.926663"
+  }
+}

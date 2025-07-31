@@ -1,0 +1,64 @@
+{
+  "catalogId": "6c8a1eb9-36a9-4f8f-912b-b818ec505f6c",
+  "name": "SINUFED SYRUP",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 91 29978 00",
+  "treatmentDescriptions": "Symptomatic treatment of nasal congestion, to relief eustachian tube congestion.",
+  "termsOfIssue": "",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PSEUDOEPHEDRINE HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01BA02",
+      "name": "PSEUDOEPHEDRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SINUFED SYRUP 115ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 115.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2209",
+        "pharmasoft": "19612",
+        "barcode": "729008045688"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 21.42,
+        "maxPriceWithVAT": 25.2756
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:18:24.564993"
+  }
+}

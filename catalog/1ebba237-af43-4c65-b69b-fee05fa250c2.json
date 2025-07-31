@@ -1,0 +1,65 @@
+{
+  "catalogId": "1ebba237-af43-4c65-b69b-fee05fa250c2",
+  "name": "VIGAMOX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 10 31054 00",
+  "treatmentDescriptions": "For the treatment of bacterial conjunctivitis caused by susceptible strains or organisms.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOXIFLOXACIN AS HYDROCHLORIDE 0.5 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01MA14",
+      "name": "MOXIFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIGAMOX OPHT SOL 5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4867",
+        "yarpa": "65019",
+        "pharmasoft": "22263",
+        "barcode": "7290016369335"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 29.73435675,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 40.73606875,
+        "maxPriceWithVAT": 48.06855899
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:15:00.659863"
+  }
+}

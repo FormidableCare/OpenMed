@@ -1,0 +1,65 @@
+{
+  "catalogId": "c9203bfd-9d3a-4002-85c7-b2ac78d309c1",
+  "name": "ZAVEDOS 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "059 92 27176 00",
+  "treatmentDescriptions": "Antimitotic and cytotoxic agent. Acute non-limphocytic Leukemia (ANLL) in adults for remission induction in untreated patients or for remission induction in relapsed or refractory patients.Acute limphocytic leukemia (ALL) as second line treatment in adults and children.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IDARUBICIN HYDROCHLORIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DB06",
+      "name": "IDARUBICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZAVEDOS 10MG VIAL IV",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8197",
+        "yarpa": "64898",
+        "pharmasoft": "26127",
+        "barcode": "72982228"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 285.3344922,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 335.2680283,
+        "maxPriceWithVAT": 395.6162558
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:44:02.005441"
+  }
+}

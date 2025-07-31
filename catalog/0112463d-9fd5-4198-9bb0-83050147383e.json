@@ -1,0 +1,64 @@
+{
+  "catalogId": "0112463d-9fd5-4198-9bb0-83050147383e",
+  "name": "ALCOXIDINE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 50 28130 00",
+  "treatmentDescriptions": "Disinfection of hands and skin",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOLV/V, CHLORHEXIDINE GLUCONATE 0.5 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC02",
+      "name": "CHLORHEXIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALCOXIDINE SOL 1 L",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1000.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5543",
+        "pharmasoft": "127244",
+        "barcode": "7290008083089"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 44.47,
+        "maxPriceWithVAT": 52.474
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:11:29.824961"
+  }
+}

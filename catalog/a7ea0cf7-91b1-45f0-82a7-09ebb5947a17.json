@@ -1,0 +1,64 @@
+{
+  "catalogId": "a7ea0cf7-91b1-45f0-82a7-09ebb5947a17",
+  "name": "ZINDACLIN 1 % GEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 65 30648 00",
+  "treatmentDescriptions": "Zindaclin is indicated for the treatment of acne vulgaris.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLINDAMYCIN PHOSPHATEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AF01",
+      "name": "CLINDAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZINDACLIN 1% GEL 30GR",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE HDPE/LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4695",
+        "yarpa": "59634",
+        "pharmasoft": "26123"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 39.7947,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 53.5238715,
+        "maxPriceWithVAT": 63.15816837
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:48:48.738458"
+  }
+}

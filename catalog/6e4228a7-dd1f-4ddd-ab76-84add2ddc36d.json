@@ -1,0 +1,65 @@
+{
+  "catalogId": "6e4228a7-dd1f-4ddd-ab76-84add2ddc36d",
+  "name": "ZALDIAR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 90 31296 00",
+  "treatmentDescriptions": "Symptomatic treatment of moderate to severe pain.The use of Zaldiar should be restricted to patients whose moderate to severe pain is considered to require a combination of tramadol and paracetamol.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL, TRAMADOL HYDROCHLORIDE 37.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "PARACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZALDIAR 20 TAB",
+      "manufacturer": {
+        "name": "ליברה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PAPER/PET/ALUMINIUM-PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4998",
+        "yarpa": "6007",
+        "pharmasoft": "26149",
+        "barcode": "7290008872300"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.1405,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.262485,
+        "maxPriceWithVAT": 18.0097315
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:42:52.361121"
+  }
+}

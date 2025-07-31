@@ -1,0 +1,63 @@
+{
+  "catalogId": "aba6d42f-044b-4c08-8b69-b2fa4f513432",
+  "name": "HISTAFED",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 94 21825 00",
+  "treatmentDescriptions": "For the symptomatic relief of congestion such as rhinitis and associated allergic conditions.",
+  "termsOfIssue": "",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PSEUDOEPHEDRINE HYDROCHLORIDE, TRIPROLIDINE HYDROCHLRIDE 2.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX07",
+      "name": "TRIPROLIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HISTAFED 20 DRAG",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2189",
+        "pharmasoft": "8049"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 17.94,
+        "maxPriceWithVAT": 21.1692
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:04:22.412670"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "8c38089c-02dd-42e6-9cd9-8b9e96467f79",
+  "name": "POLYDINE TINCTURE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "044 36 23412 00",
+  "treatmentDescriptions": "Skin disinfection.",
+  "termsOfIssue": "",
+  "form": "tincture",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POVIDONE-IODINEW/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AG02",
+      "name": "POVIDONE-IODINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "POLYDINE OINT 15GR",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1822",
+        "pharmasoft": "16179",
+        "barcode": "7290000849188"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 9.23,
+        "maxPriceWithVAT": 10.8914
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:50:08.840113"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "620d2878-070e-432e-b652-6c4b31346146",
+  "name": "VIEPAX XR 75",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 53 30839 00",
+  "treatmentDescriptions": "For the treatment of depression.Maintenance of recurrent depression, generalized anxiety disorder (GAD) - short term and long-term, social anxiety disorder (SAD).",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VENLAFAXINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX16",
+      "name": "VENLAFAXINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIEPAX  XR 75MG 30CAPLETS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ACLAR COATED PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6750",
+        "yarpa": "26451",
+        "pharmasoft": "22326"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21.9872,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.122464,
+        "maxPriceWithVAT": 35.54450752
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:13:50.180419"
+  }
+}

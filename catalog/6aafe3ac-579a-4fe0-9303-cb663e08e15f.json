@@ -1,0 +1,64 @@
+{
+  "catalogId": "6aafe3ac-579a-4fe0-9303-cb663e08e15f",
+  "name": "VYNDAMAX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 51 36151 00",
+  "treatmentDescriptions": "VYNDAMAX is indicated for the treatment of the cardiomyopathy of wild type or hereditary transthyretin-mediated amyloidosis (ATTR-CM) in adults to reduce cardiovascular mortality and cardiovascular-related hospitalization.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules soft gelatin",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAFAMIDIS",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX08",
+      "name": "TAFAMIDIS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VYNDAMAX 61 MG 30 CAPS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8550",
+        "yarpa": "70767",
+        "barcode": "7290013592767"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40504.83918,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 44555.3231,
+        "maxPriceWithVAT": 52575.27892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:23:43.358429"
+  }
+}

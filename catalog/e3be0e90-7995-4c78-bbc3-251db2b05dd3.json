@@ -1,0 +1,63 @@
+{
+  "catalogId": "e3be0e90-7995-4c78-bbc3-251db2b05dd3",
+  "name": "MACCABIMOL KID",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 30 31435 00",
+  "treatmentDescriptions": "Analgesic, antipyretic pediatric suppositories.",
+  "termsOfIssue": "",
+  "form": "suppositories",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "PARACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MACCABIMOL KID 12 SUPPOSITORIES",
+      "manufacturer": {
+        "name": "מכבי קאר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "FOIL ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5513",
+        "barcode": "7290008091145"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 10.78,
+        "maxPriceWithVAT": 12.7204
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:24:42.327742"
+  }
+}

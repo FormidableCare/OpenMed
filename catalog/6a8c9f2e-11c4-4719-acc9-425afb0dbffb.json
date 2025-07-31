@@ -1,0 +1,64 @@
+{
+  "catalogId": "6a8c9f2e-11c4-4719-acc9-425afb0dbffb",
+  "name": "VIMIZIM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 16 34261 00",
+  "treatmentDescriptions": "Vimizim is indicated for the treatment of mucopolysaccharidosis, type IVA (Morquio A Syndrome ,MPS IVA) in patients of all ages.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELOSULFASE ALFA/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB12",
+      "name": "ELOSULFASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIMIZIM 1MG/ML 1X5MLVIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7643",
+        "yarpa": "53748",
+        "pharmasoft": "22383"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3056.922676,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3362.614943,
+        "maxPriceWithVAT": 3967.885457
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:15:22.948641"
+  }
+}

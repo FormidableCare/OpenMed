@@ -1,0 +1,64 @@
+{
+  "catalogId": "64a1502a-0837-42aa-8862-606fd91482c0",
+  "name": "XADAGO 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 64 35607 00",
+  "treatmentDescriptions": "Xadago is indicated for the treatment of adult patients with idiopathic Parkinson’s disease (PD) as add-on therapy to a stable dose of Levodopa (L-dopa) alone or in combination with other PD medicinal products in mid-to late-stage fluctuating patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SAFINAMIDE AS METHANESULFONATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BD03",
+      "name": "SAFINAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XADAGO 100 MG 30 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8886",
+        "yarpa": "7118",
+        "pharmasoft": "24096"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 296.8201729,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 348.7637032,
+        "maxPriceWithVAT": 411.5411514
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:26:38.031109"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "6f2b9cfe-afdf-4539-a5e3-4599bdd7f3c2",
+  "name": "EXCEDRIN",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 82 31782 01",
+  "treatmentDescriptions": "For temporary relief of the pain of headache, mild to moderate pain associated with migraine headache,  pain of menstrual descomfort and pain accompanied by fever.",
+  "termsOfIssue": "",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL, ACETYLSALICYLIC ACID, CAFFEINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE51",
+      "name": "PARACETAMOL, COMBINATIONS EXCL. PSYCHOLEPTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EXCEDRIN 50 CAPLETS",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5406",
+        "barcode": "7290105040077"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 49.01,
+        "maxPriceWithVAT": 57.8318
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:51:31.412765"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "catalogId": "d6b208d4-8ecd-4bd2-87e5-46785cbc4e00",
+  "name": "ZYVOXID I.V. 2 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "125 81 30502 00",
+  "treatmentDescriptions": "Therapy is indicated only when an organism resistant to all other antibiotics is suspected. Zyvoxid is indicated in adult and pediatric patients for the treatment of  infections when known or suspected to be caused by susceptible organisms including those associated with concurrent bacteraemia such as:   1) Pneumonia - community acquired and nosocomial pneumonia including multi drug resistant streptococcus pneumonia (MDRSP).   2) Skin and soft tissue infections including diabetic foot infections.   3) Enterococcal infections.   Combination therapy may be indicated if a concomitant Gram negative pathogen is documented or suspected.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LINEZOLID/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01XX08",
+      "name": "LINEZOLID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZYVOXID I.V. 2 MG/ML 300 ML 10 BAG",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG EXEL - FILM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8621"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1302.734851,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1530.71345,
+        "maxPriceWithVAT": 1806.241871
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:58:17.261545"
+  }
+}

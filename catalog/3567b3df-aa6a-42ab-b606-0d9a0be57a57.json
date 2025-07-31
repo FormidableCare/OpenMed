@@ -1,0 +1,63 @@
+{
+  "catalogId": "3567b3df-aa6a-42ab-b606-0d9a0be57a57",
+  "name": "CREON 10000",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "103 48 28837 00",
+  "treatmentDescriptions": "Pancreatic exocrine insufficiency.",
+  "termsOfIssue": "",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANCREATIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A09AA02",
+      "name": "MULTIENZYMES (LIPASE, PROTEASE ETC.)"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CREON 10000 U(150MG) 100CAPS",
+      "manufacturer": {
+        "name": "אבוט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3569",
+        "pharmasoft": "9776"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 127.66,
+        "maxPriceWithVAT": 150.6388
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:27:39.712971"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "f079b0da-0c21-4a1c-9a80-0d362a0cb55b",
+  "name": "IRON CARE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 45 34473 00",
+  "treatmentDescriptions": "Prevention and treatment of iron deficiency anemia.",
+  "termsOfIssue": "",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IRON AS IRON III HYDROXIDE POLYMALTOSE COMPL./",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03AB04",
+      "name": "FERRIC HYDROXIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IRON CARE 50 MG/5 ML",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 110.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5572",
+        "barcode": "7290013834256"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 41.06,
+        "maxPriceWithVAT": 48.4508
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:13:38.671671"
+  }
+}

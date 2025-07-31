@@ -1,0 +1,65 @@
+{
+  "catalogId": "8d53bbdb-85ff-4435-83f6-acfa6ae16d3d",
+  "name": "XEFO 8 MG/2 ML INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 83 30653 00",
+  "treatmentDescriptions": "Short term treatment of moderate postoperative pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LORNOXICAM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AC05",
+      "name": "LORNOXICAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XEFO 8MG 20TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4680",
+        "yarpa": "61954",
+        "pharmasoft": "24041",
+        "barcode": "7046264767214"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.6958,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.983246,
+        "maxPriceWithVAT": 31.84023028
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:31:59.210796"
+  }
+}

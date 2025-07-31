@@ -1,0 +1,62 @@
+{
+  "catalogId": "b17f1f41-ed82-48cb-b68d-16c901c95d25",
+  "name": "WILATE  500",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 13 33856 00",
+  "treatmentDescriptions": "Von Willebrand disease (VWD) :Prevention and treatment of haemorrhage or surgical bleeding in von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or contra-indicated.Haemophilia A :Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital FVIII deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VON WILLEBRAND FACTOR/VIAL, FACTOR VIII (HUMAN)/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD02",
+      "name": "COAGULATION FACTOR VIII"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "WILATE 500 1VIAL",
+      "manufacturer": {
+        "name": "דובר מדיקל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7716"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 952.03554,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1118.64176,
+        "maxPriceWithVAT": 1319.997218
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:26:25.320915"
+  }
+}

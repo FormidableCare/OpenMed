@@ -1,0 +1,65 @@
+{
+  "catalogId": "4a3fc548-5e8b-49b1-8f97-9a21c66fb5e1",
+  "name": "ZIAGEN TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "112 97 29542 22",
+  "treatmentDescriptions": "Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infected .",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABACAVIR AS SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF06",
+      "name": "ABACAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZIAGEN 300MG 60TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4210",
+        "yarpa": "17666",
+        "pharmasoft": "26088",
+        "barcode": "7290008086400"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 590.918328,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 694.3290354,
+        "maxPriceWithVAT": 819.3082254
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:47:58.781118"
+  }
+}

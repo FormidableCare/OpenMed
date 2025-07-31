@@ -1,0 +1,64 @@
+{
+  "catalogId": "14fb516c-694e-4edb-835e-253cc554364f",
+  "name": "EYECON",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 76 29346 00",
+  "treatmentDescriptions": "Symptomatic treatment of dry eye syndrome.",
+  "termsOfIssue": "",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYALURONIC ACID AS SODIUM 0.15 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01KA01",
+      "name": "HYALURONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EYECON 20*0.65ML",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER UNIT DOSE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3997",
+        "pharmasoft": "5182",
+        "barcode": "7-290008-012843"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 45.13,
+        "maxPriceWithVAT": 53.2534
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:52:51.342003"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "5e9c2587-b27c-4a11-b737-d9e4022d6df1",
+  "name": "ASPIRIN C",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "057 86 24955 00",
+  "treatmentDescriptions": "Pain relief, fever reduction, antirheumatic treatment.",
+  "termsOfIssue": "",
+  "form": "tablets effervescent",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACETYLSALICYLIC ACID, ASCORBIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BA01",
+      "name": "ACETYLSALICYLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ASPIRIN C 20 TAB EFF.",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PAPER/PE/ALU/PE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5500",
+        "barcode": "7290013092441"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 34.39,
+        "maxPriceWithVAT": 40.5802
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:14:08.230982"
+  }
+}

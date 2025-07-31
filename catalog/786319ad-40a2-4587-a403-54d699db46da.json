@@ -1,0 +1,63 @@
+{
+  "catalogId": "786319ad-40a2-4587-a403-54d699db46da",
+  "name": "POINT",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "103 81 28780 00",
+  "treatmentDescriptions": "Mild and moderate analgesic such as relief of toothache, backache and menstrual pain (primary dysmenorrhea).Fever reduction.Non-steroidal anti-inflammatory for the treatment of rheumatic inflammations, tendinitis and musculoskeletal inflammations.",
+  "termsOfIssue": "",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NAPROXEN SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AE02",
+      "name": "NAPROXEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "POINT 275MG 20TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3339",
+        "pharmasoft": "16197"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 36.95,
+        "maxPriceWithVAT": 43.601
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:49:13.891539"
+  }
+}

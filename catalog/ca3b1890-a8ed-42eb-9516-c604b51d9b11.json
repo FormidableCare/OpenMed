@@ -1,0 +1,65 @@
+{
+  "catalogId": "ca3b1890-a8ed-42eb-9516-c604b51d9b11",
+  "name": "ZAVESCA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 34 30714 00",
+  "treatmentDescriptions": "Zavesca is indicated for the oral treatment of mild to moderate type I Gaucher disease. Zavesca may be used only in the treatment of patients for whom enzyme replacement therapy is unsuitable.Zavesca is indicated for the treatment of progressive neurological manifestations in adult patients and paediatric patients with Niemann-Pick type C disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIGLUSTAT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX06",
+      "name": "MIGLUSTAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZAVESCA 100 MG 84 CAPSULES",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7846",
+        "yarpa": "77007",
+        "pharmasoft": "26204",
+        "barcode": "7640111932543"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11126.8383,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12239.52213,
+        "maxPriceWithVAT": 14442.63548
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:44:12.521085"
+  }
+}

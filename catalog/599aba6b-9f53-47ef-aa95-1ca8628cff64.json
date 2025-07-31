@@ -1,0 +1,63 @@
+{
+  "catalogId": "599aba6b-9f53-47ef-aa95-1ca8628cff64",
+  "name": "MYCONAIL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 71 31856 00",
+  "treatmentDescriptions": "For the treatment of fungal infections of the nails.",
+  "termsOfIssue": "",
+  "form": "lacque",
+  "route": "nail",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CICLOPIROX/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AE14",
+      "name": "CICLOPIROX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYCONAIL NAIL LACQUER 6.6ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.6,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5400",
+        "barcode": "7298074010299"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 102.72,
+        "maxPriceWithVAT": 121.2096
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:28:10.195856"
+  }
+}

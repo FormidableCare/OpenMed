@@ -1,0 +1,63 @@
+{
+  "catalogId": "7fd69e3f-265f-45c4-915c-d6ef63479a86",
+  "name": "HYDROGEN PEROXIDE 3% LIFE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 73 35786 00",
+  "treatmentDescriptions": "Antiseptic",
+  "termsOfIssue": "",
+  "form": "solution",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROGEN PEROXIDEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AX01",
+      "name": "HYDROGEN PEROXIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HYDROGEN  PEROXIDE 3% 50ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2922",
+        "pharmasoft": "8036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 6.23,
+        "maxPriceWithVAT": 7.3514
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:06:34.931626"
+  }
+}

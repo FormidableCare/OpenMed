@@ -1,0 +1,65 @@
+{
+  "catalogId": "d44da3db-eec4-45ab-a54a-065595c32ca9",
+  "name": "XOLAIR ® 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 61 31124 00",
+  "treatmentDescriptions": "Allergic asthma Xolair is indicated for patients 6 to 12 years of age with severe persistent asthma and for patients 12 years of age and older with moderate to severe persistent asthma, who have a positive skin test or in vitro reactivity to a perennial aeroallergen and whose symptoms are inadequately controlled with inhaled corticosteroids. Xolair has been shown to decrease the incidence of asthma exacerbations in these patients. Limitations of use: Xolair is not indicated for the relief of acute bronchospasm or status asthmaticus. Xolair is not indicated for the treatment of other allergic conditions.Chronic rhinosinusitis with nasal polyps (CRSwNP) Xolair is indicated as an add-on therapy with intranasal corticosteroids (INC) for the treatment of adults (18 years and above) with severe CRSwNP for whom therapy with INC does not provide adequate disease control.Chronic spontaneous urticaria (CSU) Xolair is indicated as add-on therapy for the treatment of chronic spontaneous urticaria in adult and adolescent (12 years and above) patients with inadequate response to H1 antihistamine treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OMALIZUMAB/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03DX05",
+      "name": "OMALIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XOLAIR 150MG/VIAL 1 VIAL",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4966",
+        "yarpa": "13355",
+        "pharmasoft": "24043",
+        "barcode": "9319099316550"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1601.982113,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1882.328982,
+        "maxPriceWithVAT": 2221.1481
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:36:08.900215"
+  }
+}

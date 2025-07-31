@@ -1,0 +1,63 @@
+{
+  "catalogId": "b2ddb966-c3ac-486d-bd0a-39b19ae5cffe",
+  "name": "CYCLOVIR",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 54 34102 00",
+  "treatmentDescriptions": "For the treatment of cold sores (herpes labialis).",
+  "termsOfIssue": "",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACICLOVIRW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06BB03",
+      "name": "ACICLOVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CYCLOVIR 5% CREAM 2G",
+      "manufacturer": {
+        "name": "לייף-סופרפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PACK PUMP POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5564",
+        "barcode": "7290106954427"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 25.56,
+        "maxPriceWithVAT": 30.1608
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:28:40.785835"
+  }
+}

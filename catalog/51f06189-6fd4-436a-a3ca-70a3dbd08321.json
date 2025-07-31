@@ -1,0 +1,64 @@
+{
+  "catalogId": "51f06189-6fd4-436a-a3ca-70a3dbd08321",
+  "name": "VIA-AVENIR 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 72 33415 01",
+  "treatmentDescriptions": "Treatment of erectile dysfunction.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SILDENAFIL AS CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BE03",
+      "name": "SILDENAFIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIA AVENIR  50MG  8TABS",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8263",
+        "yarpa": "55874",
+        "barcode": "7290010286911"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 101.6322,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 127.04025,
+        "maxPriceWithVAT": 149.907495
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:11:02.299774"
+  }
+}

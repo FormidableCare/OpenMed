@@ -1,0 +1,64 @@
+{
+  "catalogId": "182356cf-254c-47ef-b53c-17a48de357dd",
+  "name": "SEPTADINE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "108 58 29253 00",
+  "treatmentDescriptions": "For quick disinfection of hands, also before invasive procedures.",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLORHEXIDINE DICLUCONATE 0.5  %W/V, ALCOHOLV/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC52",
+      "name": "CHLORHEXIDINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEPTADINE SOL  500ML",
+      "manufacturer": {
+        "name": "פלוריש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3956",
+        "pharmasoft": "19438",
+        "barcode": "7290008103565"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 26.95,
+        "maxPriceWithVAT": 31.801
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:16:31.349615"
+  }
+}

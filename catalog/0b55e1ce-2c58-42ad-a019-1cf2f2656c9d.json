@@ -1,0 +1,63 @@
+{
+  "catalogId": "0b55e1ce-2c58-42ad-a019-1cf2f2656c9d",
+  "name": "ALCOHOL 70%  FLORIS",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "057 39 27018 00",
+  "treatmentDescriptions": "Antiseptic.",
+  "termsOfIssue": "",
+  "form": "solution",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOLV/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AX08",
+      "name": "ETHANOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALCOHOL 70% 200ML",
+      "manufacturer": {
+        "name": "פלוריש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3597",
+        "pharmasoft": "1425"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 17.02,
+        "maxPriceWithVAT": 20.0836
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:09:34.656512"
+  }
+}

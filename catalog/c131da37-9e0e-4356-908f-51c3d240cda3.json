@@ -1,0 +1,65 @@
+{
+  "catalogId": "c131da37-9e0e-4356-908f-51c3d240cda3",
+  "name": "VESANOID",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 07 28446 04",
+  "treatmentDescriptions": "Induction of remission in acute promyelocytic leukemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRETINOIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX14",
+      "name": "TRETINOIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VESANOID 10MG 100CAPSULES",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7344",
+        "yarpa": "9659",
+        "pharmasoft": "22360",
+        "barcode": "7290013280626"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1400.609313,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1645.715943,
+        "maxPriceWithVAT": 1941.944727
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:08:59.774823"
+  }
+}

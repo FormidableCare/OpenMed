@@ -1,0 +1,65 @@
+{
+  "catalogId": "4d490459-2a60-4346-8fe9-e94ba1fd5199",
+  "name": "XALATAN EYE DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "109 36 29264 05",
+  "treatmentDescriptions": "Reduction of elevated intraocular pressure as a first line treatment in patients with open-angle galucoma and ocular hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LATANOPROST/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EE01",
+      "name": "LATANOPROST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XALATAN 50MCG/ML DROPS 2.5ML",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.5,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PLASTIC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3815",
+        "yarpa": "76255",
+        "pharmasoft": "24006",
+        "barcode": "7298120014165"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.8215,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.265455,
+        "maxPriceWithVAT": 36.8932369
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:27:16.017622"
+  }
+}

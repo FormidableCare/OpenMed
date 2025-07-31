@@ -1,0 +1,64 @@
+{
+  "catalogId": "ba8f6ff5-3829-48ce-8d77-d16a1f8bd7e1",
+  "name": "ALCOXIDINE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 50 28130 00",
+  "treatmentDescriptions": "Disinfection of hands and skin",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOLV/V, CHLORHEXIDINE GLUCONATE 0.5 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC02",
+      "name": "CHLORHEXIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALCOXIDINE 500ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5280",
+        "pharmasoft": "1132",
+        "barcode": "7290008083089"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 29.68,
+        "maxPriceWithVAT": 35.02
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:11:18.783790"
+  }
+}

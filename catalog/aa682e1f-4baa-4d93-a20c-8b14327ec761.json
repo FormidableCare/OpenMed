@@ -1,0 +1,63 @@
+{
+  "catalogId": "aa682e1f-4baa-4d93-a20c-8b14327ec761",
+  "name": "INSTILLAGEL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 11 35080 00",
+  "treatmentDescriptions": "Local anesthesia prior exploration in urology (ureteroscopy, cystoscopy, urethral dilation, catheterization). For use during gynaecological investigation.",
+  "termsOfIssue": "",
+  "form": "gel",
+  "route": "urethral, vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLORHEXIDINE DIGLUCONATE 0.5  MG /, LIDOCAINE HYDROCHLORIDE 20.0  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BB01",
+      "name": "LIDOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STILLA SINGLES 20*0.3ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5162",
+        "pharmasoft": "19803"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 32.81,
+        "maxPriceWithVAT": 38.7158
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:21:30.272887"
+  }
+}

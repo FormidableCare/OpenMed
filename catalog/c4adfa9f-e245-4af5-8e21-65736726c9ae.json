@@ -1,0 +1,64 @@
+{
+  "catalogId": "c4adfa9f-e245-4af5-8e21-65736726c9ae",
+  "name": "ZAPPA ODT 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 21 33756 01",
+  "treatmentDescriptions": "Acute and maintenance treatment of schizophrenia. Zappa ODT is indicated for the management of the manifestations of psychotic disorders. Zappa ODT is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder. Prevention of recurrence in Bipolar Disorder : In patients whose manic episode has responded to olanzapine treatment Zappa ODT is indicated for the prevention of recurrence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Zappa ODT with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets orodispersible",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OLANZAPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AH03",
+      "name": "OLANZAPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZAPPA ODT 5MG 30 O.D.TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7298",
+        "yarpa": "47259",
+        "pharmasoft": "26184"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 60.7141,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 81.6604645,
+        "maxPriceWithVAT": 96.35934811
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:43:51.099396"
+  }
+}

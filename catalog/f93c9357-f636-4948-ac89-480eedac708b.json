@@ -1,0 +1,63 @@
+{
+  "catalogId": "f93c9357-f636-4948-ac89-480eedac708b",
+  "name": "LOSEC 20 MG",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 78 31879 00",
+  "treatmentDescriptions": "Relief of reflux-like symptoms (e.g. heartburn) with frequency of two or more days a week in sufferers aged 18 and over.",
+  "termsOfIssue": "",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OMEPRAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC01",
+      "name": "OMEPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LOSEC 20 MG 28 CAPS (OTC)",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5222",
+        "pharmasoft": "12414"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 42.47,
+        "maxPriceWithVAT": 50.1146
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:23:31.557110"
+  }
+}

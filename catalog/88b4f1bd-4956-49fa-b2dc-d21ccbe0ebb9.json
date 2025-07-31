@@ -1,0 +1,64 @@
+{
+  "catalogId": "88b4f1bd-4956-49fa-b2dc-d21ccbe0ebb9",
+  "name": "ZYLET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 61 31618 00",
+  "treatmentDescriptions": "Zylet is indicated for steroid-responsive inflammatory ocular conditions for which a corticosteroid is indicated and where superficial bacterial ocular infection or a risk of bacterial ocular infection exists.Ocular steroids are indicated in inflammatory conditions of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe such as allergic conjunctivitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and where the inherent risk of steroid use in certain infective conjunctivitides is accepted to obtain a diminution in edema and inflammation. They are also indicated in chronic anterior uveitis and corneal injury from chemical, radiation or thermal burns, or penetration of foreign bodies.The use of a combination drug with an anti-infective component is indicated where the risk of superficial ocular infection is high or where there is an expectation that potentially dangerous numbers of bacteria will be present in the eye.The particular anti-infective drug in this product (tobramycin) is active against the following common bacterial eye pathogens:Staphylococci, including S. aureus and S. epidermidis (coagulase-positive and coagulase-negative), including penicillin-resistant strains. Streptococci, including some of the Group A-beta-hemolytic species, some nonhemolytic species, and some Streptococcus pneumoniae. Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganella morganii, most Proteus vulgaris strains, Haemophilus influenzae, and H. aegyptius, Moraxella lacunata, Acinetobacter calcoaceticus and some Neisseria species.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TOBRAMYCIN/ML, LOTEPREDNOL ETABONATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA12",
+      "name": "TOBRAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZYLET OPHT SUSP 5 ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6495",
+        "yarpa": "32335",
+        "pharmasoft": "26157"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:56:21.938798"
+  }
+}

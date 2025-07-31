@@ -1,0 +1,65 @@
+{
+  "catalogId": "0614f11a-00cc-487c-91b4-88e0c9b3935d",
+  "name": "WELLBUTRIN XR 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 05 31653 00",
+  "treatmentDescriptions": "Wellbutrin XR is indicated for the treatment of major depressive episodes.Following satisfactory response, continuation with Wellbutrin XR therapy is effective in preventingrelapse.",
+  "termsOfIssue": "Prescription required",
+  "form": "modified release tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPROPION HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07BA02",
+      "name": "BUPROPION"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "WELLBUTRIN XR 300MG 30 TABLETS",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6241",
+        "yarpa": "78653",
+        "pharmasoft": "23068",
+        "barcode": "7290010140374"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 63.54225,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 85.46432625,
+        "maxPriceWithVAT": 100.8479005
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:26:02.992526"
+  }
+}

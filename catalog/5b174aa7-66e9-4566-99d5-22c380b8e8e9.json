@@ -1,0 +1,64 @@
+{
+  "catalogId": "5b174aa7-66e9-4566-99d5-22c380b8e8e9",
+  "name": "YAZ",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 04 32023 01",
+  "treatmentDescriptions": "- Oral contraception.   - Treatment of moderate acne vulgaris in women who seek oral contraception.   - Treatment of symptoms of premenstrual dysphoric disorder (PMDD ) in women who have chosen oral contraceptives as their method of birth control. The efficacy of Yaz for PMDD was not assessed beyond 3 cycles. Yaz has not been evaluated for treatment of PMS ( premenstrual syndrome ).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DROSPIRENONE, ETHINYLESTRADIOL 0.02   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AA12",
+      "name": "DROSPIRENONE AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "YAZ PLUS 3X28 F.C.TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7733",
+        "yarpa": "6993",
+        "pharmasoft": "25021"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:40:41.151814"
+  }
+}

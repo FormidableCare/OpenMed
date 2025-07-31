@@ -1,0 +1,64 @@
+{
+  "catalogId": "882a6b25-874e-4df6-b6e2-38e3951a9d02",
+  "name": "ZOLGENSMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 75 36125 00",
+  "treatmentDescriptions": "Zolgensma is indicated for the treatment of:-\tpatients with 5q spinal muscular atrophy (SMA) with a bi-allelic mutation in the SMN1 gene and a clinical diagnosis of SMA Type 1, or-\tpatients with 5q SMA with a bi-allelic mutation in the SMN1 gene and up to 3 copies of the SMN2 gene.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ONASEMNOGENE ABEPARVOVEC 2 x 10^13 VG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M09AX09",
+      "name": "ONASEMNOGENE ABEPARVOVEC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZOLGENSMA 2*10^13VG / 1ML   VIAL",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8558",
+        "yarpa": "60707",
+        "pharmasoft": "26225"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7208297.803,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7929127.584,
+        "maxPriceWithVAT": 9356370.133
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:53:58.611617"
+  }
+}

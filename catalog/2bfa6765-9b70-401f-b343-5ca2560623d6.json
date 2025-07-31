@@ -1,0 +1,64 @@
+{
+  "catalogId": "2bfa6765-9b70-401f-b343-5ca2560623d6",
+  "name": "VIEPAX XR 225",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 42 35039 00",
+  "treatmentDescriptions": "For the treatment of depression. Maintenance of recurrent depression. Generalized anxiety disorder (GAD) - short term and long-term. Social anxiety Disorder (SAD).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VENLAFAXINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX16",
+      "name": "VENLAFAXINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIEPAX XR 225 30 TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8418",
+        "yarpa": "19278",
+        "pharmasoft": "22464"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 65.3993235,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 87.96209011,
+        "maxPriceWithVAT": 103.7952617
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:14:43.225378"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "1fbead10-8644-45ed-a3fd-8de594ca13a3",
+  "name": "TRUE TEST 36",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "178 06 37405 99",
+  "treatmentDescriptions": "This medicinal product is for diagnostic use in adults only.Diagnosis of allergic contact dermatitis.",
+  "termsOfIssue": "",
+  "form": "plaster for provocation test",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALLERGENS (CHEMICAL) 36",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V01AA20",
+      "name": "VARIOUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MICAL 375MG 20TAB",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH LAMINATED",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5020",
+        "pharmasoft": "13037"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 38.93,
+        "maxPriceWithVAT": 45.9374
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:25:14.474115"
+  }
+}

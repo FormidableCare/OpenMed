@@ -1,0 +1,64 @@
+{
+  "catalogId": "d60fd014-60e9-4393-8629-11a022406461",
+  "name": "FERRIFOL",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 01 30647 00",
+  "treatmentDescriptions": "Prevention and treatment of anemia caused by iron and folic acid deficiency including anemia of pregnancy and lactation.",
+  "termsOfIssue": "",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOLIC ACID 0.4  MG, FERROUS AS IRON III HYDROXIDE POLYMALTOSE COMPL.",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03AD01",
+      "name": "FERROUS AMINO ACID COMPLEX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FERRIFOL 3 30CHEWTAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3529",
+        "pharmasoft": "6346",
+        "barcode": "7290008104371"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 45.42,
+        "maxPriceWithVAT": 53.5956
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:54:20.890716"
+  }
+}

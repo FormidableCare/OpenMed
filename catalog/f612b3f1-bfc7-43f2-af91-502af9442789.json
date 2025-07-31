@@ -1,0 +1,65 @@
+{
+  "catalogId": "f612b3f1-bfc7-43f2-af91-502af9442789",
+  "name": "YERVOY 5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 62 33522 00",
+  "treatmentDescriptions": "Unresectable or Metastatic MelanomaYervoy (ipilimumab) is indicated for the treatment of adult patients with advanced (unresectable or metastatic) melanoma. Yervoy in combination with nivolumab is indicated for the treatment of adult and pediatric patients 12 years and older with advanced (unresectable or metastatic) melanoma . Advanced Renal Cell CarcinomaYERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with intermediate or poor risk, advanced renal cell carcinoma (RCC). Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Metastatic Colorectal Cancer•\tYERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult and pediatric patients 12 years and older with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC).•\tYERVOY, in combination with nivolumab, is indicated for the treatment of adult and pediatric patients 12 years of age and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.Metastatic Non-Small Cell Lung CancerYERVOY, in combination with nivolumab and 2 cycles of platinum-doublet chemotherapy, is indicated for the first-line treatment of adult patients with metastatic or recurrent non-small cell lung cancer (NSCLC) with no EGFR or ALK genomic tumor aberrations.Hepatocellular CarcinomaYervoy, in combination with nivolumab, is indicated for the treatment of adult patients with hepatocellular carcinoma (HCC) Child-Pugh A who have been previously treated with sorafenib.Malignant Pleural MesotheliomaYERVOY, in combination with nivolumab, is indicated for the first-line treatment of adult patients with unresectable malignant pleural mesotheliomaEsophageal cancerYervoy in combination with nivolumab is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma with tumour cell PD-L1 expression &#8805; 1%.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IPILIMUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC11",
+      "name": "IPILIMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "YERVOY 5MG/ML VIAL10ML",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6931",
+        "yarpa": "19807",
+        "pharmasoft": "25015",
+        "barcode": "7290014396005"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13400.55057,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 14740.60563,
+        "maxPriceWithVAT": 17393.91386
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:41:15.070104"
+  }
+}

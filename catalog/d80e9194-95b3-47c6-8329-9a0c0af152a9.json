@@ -1,0 +1,65 @@
+{
+  "catalogId": "d80e9194-95b3-47c6-8329-9a0c0af152a9",
+  "name": "ZOLADEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 16 25142 00",
+  "treatmentDescriptions": "Treatment of prostate cancer suitable for hormonal manipulation.   Breast cancer in pre-menopausal women suitable for hormone manipulation.Endometriosis.   Assisted reproduction: pituitary down regulation in preparion for superovulation.   Endometrial thinning: Zoladex is indicated for the prethinning of the utetine endometrium prior ro endometrial ablation or resection.  Uterine Fibroids: For reduction of fibroid size prior to surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "implant",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GOSERELIN AS ACETATE 3.6  MG/UNIT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02AE03",
+      "name": "GOSERELIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZOLADEX LA 10.8MG SINGLE DOSE SYR",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  POLYETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4313",
+        "yarpa": "12202",
+        "pharmasoft": "26130",
+        "barcode": "5000455018204"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 911.7366852,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1071.290605,
+        "maxPriceWithVAT": 1264.122858
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:53:18.787491"
+  }
+}

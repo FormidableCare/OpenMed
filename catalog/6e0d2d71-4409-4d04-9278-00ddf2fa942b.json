@@ -1,0 +1,64 @@
+{
+  "catalogId": "6e0d2d71-4409-4d04-9278-00ddf2fa942b",
+  "name": "OTRIVIN",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "115 43 22229 00",
+  "treatmentDescriptions": "Rapid relief of nasal congestion for up to ten hours in adults and adolescents aged 12 years and older.",
+  "termsOfIssue": "",
+  "form": "nasal solution",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "XYLOMETAZOLINE HYDROCHLORIDE 0.1 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AA07",
+      "name": "XYLOMETAZOLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OTRIVIN MENTHOL MDS 0.1% 10ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE METERED DOSE SPRAY POLYETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3995",
+        "pharmasoft": "15321",
+        "barcode": "7290006603036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 29.43,
+        "maxPriceWithVAT": 34.7274
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:43:36.391985"
+  }
+}

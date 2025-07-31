@@ -1,0 +1,65 @@
+{
+  "catalogId": "cbeb3ea6-23b8-44ba-807f-6a44e017e48b",
+  "name": "V-OPTIC 0.25%",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 80 28592 00",
+  "treatmentDescriptions": "For the reduction of elevated intraocular pressure.may be used in patients with chronic open angle glaucoma, aphakic glaucoma, some patients with secondary glaucoma and patients with ocular hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIMOLOL AS MALEATE 2.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED01",
+      "name": "TIMOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "V-OPTIC 0.25% 5ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3239",
+        "yarpa": "9643",
+        "pharmasoft": "22097",
+        "barcode": "7-290008-083614"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.1575,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.655775,
+        "maxPriceWithVAT": 19.6538145
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:20:10.057903"
+  }
+}

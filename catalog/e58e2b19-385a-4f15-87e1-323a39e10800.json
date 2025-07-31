@@ -1,0 +1,63 @@
+{
+  "catalogId": "e58e2b19-385a-4f15-87e1-323a39e10800",
+  "name": "ADEX 200",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "039 71 26007 00",
+  "treatmentDescriptions": "For the relief of mild to moderate pain such as headache, toothache, primary dysmenorrhea, backache, muscular pain. Anti - inflammatory and relieves pain in reumatoid arthritis and osteo arthritis. For the reduction of fever.For the treatment of pain associated with migraine.",
+  "termsOfIssue": "",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IBUPROFEN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AE01",
+      "name": "IBUPROFEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADEX LIQUIGEL 400MG 20CAPS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5102",
+        "pharmasoft": "9274"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 42.65,
+        "maxPriceWithVAT": 50.327
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:04:20.589596"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "a1f195a1-8462-4ab7-a1b7-88eea50a7ff2",
+  "name": "VIREAD",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 43 30944 23",
+  "treatmentDescriptions": "Viread is indicated for the treatment of :1. HIV 1 infected adults and pediatric patients 12 years of age and older in combination with other antiretroviral medicinal products for the treatment of HIV. 2. Chronic hepatitis B in adults with:   •  Compensated liver disease, with evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis.   • Decompensated liver disease",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR DISOPROXIL AS FUMARATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF07",
+      "name": "TENOFOVIR DISOPROXIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIREAD 300MG 30TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4727",
+        "yarpa": "60430",
+        "pharmasoft": "22243",
+        "barcode": "7290006401397"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 894.0496,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1050.50828,
+        "maxPriceWithVAT": 1239.59977
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:17:48.589026"
+  }
+}

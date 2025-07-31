@@ -1,0 +1,64 @@
+{
+  "catalogId": "6791a519-9085-4e01-a972-d3c9844587b0",
+  "name": "VIEPAX 37.5",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 68 31015 00",
+  "treatmentDescriptions": "For the treatment of depression.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VENLAFAXINE AS HYDROCHLORIDE 37.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX16",
+      "name": "VENLAFAXINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VIEPAX 37.5MG 28TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ACLAR COATED PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4736",
+        "yarpa": "60616",
+        "pharmasoft": "22245"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.6412,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.428444,
+        "maxPriceWithVAT": 25.28556392
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:14:04.438307"
+  }
+}

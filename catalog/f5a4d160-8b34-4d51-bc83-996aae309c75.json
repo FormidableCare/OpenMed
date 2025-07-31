@@ -1,0 +1,63 @@
+{
+  "catalogId": "f5a4d160-8b34-4d51-bc83-996aae309c75",
+  "name": "VITRAKVI  100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 41 36178 00",
+  "treatmentDescriptions": "Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion:• Who have a disease that is locally advanced, metastatic or where surgical resection is likely to result in severe morbidity, and• Who have no satisfactory treatment options",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LAROTRECTINIB AS SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE53",
+      "name": "LAROTRECTINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VITRAKVI  20 MG/ML ORAL SOLUTION 100ML",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8737",
+        "yarpa": "14797"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8051.36334,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8856.499674,
+        "maxPriceWithVAT": 10450.66915
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:18:41.035318"
+  }
+}

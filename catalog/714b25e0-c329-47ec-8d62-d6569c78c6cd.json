@@ -1,0 +1,63 @@
+{
+  "catalogId": "714b25e0-c329-47ec-8d62-d6569c78c6cd",
+  "name": "EMLA 5%",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "043 25 25706 00",
+  "treatmentDescriptions": "EMLA 5% Cream is indicated for: • Topical anaesthesia of the skin in connection with: o needle insertion, e.g. intravenous catheters or blood sampling; o superficial surgical procedures; in adults and in the paediatric population. • Topical anaesthesia of the genital mucosa, e.g. prior to superficial surgical procedures or infiltration anaesthesia; • Topical anaesthesia of leg ulcers to facilitate mechanical cleansing/debridement in adults only",
+  "termsOfIssue": "",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LIDOCAINE 2.5 %, PRILOCAINE 2.5 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB54",
+      "name": "PRILOCAINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EMLA CREAM 5% 30GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2535",
+        "pharmasoft": "5396"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 95.05,
+        "maxPriceWithVAT": 112.159
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:34:47.735330"
+  }
+}

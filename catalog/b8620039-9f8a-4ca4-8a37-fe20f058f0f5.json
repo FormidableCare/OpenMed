@@ -1,0 +1,64 @@
+{
+  "catalogId": "b8620039-9f8a-4ca4-8a37-fe20f058f0f5",
+  "name": "ESRACAIN INJECTION 2 %",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "020 82 21028 00",
+  "treatmentDescriptions": "Local and regional anaesthesia.Severe symptomatic ventricular tachycardia or tachy-arrhythmia, if assessed to be life-threatening.",
+  "termsOfIssue": "",
+  "form": "solution for injection",
+  "route": "i.m, i.v, epidural, s.c, intradermal, submucosal, spinal, perineural, i.v regional anaesthesia",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LIDOCAINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB02",
+      "name": "LIDOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ESRACAIN CREAM 20GR 5%",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1859",
+        "pharmasoft": "5071",
+        "barcode": "7290008013369"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 21.37,
+        "maxPriceWithVAT": 25.2166
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:50:47.136948"
+  }
+}

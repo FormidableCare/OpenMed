@@ -1,0 +1,64 @@
+{
+  "catalogId": "e09e396e-e4c9-46b2-880f-72824d9b2c11",
+  "name": "ZYBAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 33 29919 00",
+  "treatmentDescriptions": "Zyban is indicated as an aid to smoking cessation in combination with motivational support in nicotine-dependent patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPROPION HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07BA02",
+      "name": "BUPROPION"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZYBAN 150MG 60TAB SUSTAINED RELEASE",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PA/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4212",
+        "yarpa": "25889",
+        "pharmasoft": "26101"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 107.210124,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 134.012655,
+        "maxPriceWithVAT": 158.1349259
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:56:04.275271"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "610c1c68-feba-4011-899d-4f7a98b34098",
+  "name": "ZINNAT TABLETS 125 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "041 40 25801 00",
+  "treatmentDescriptions": "Zinnat is indicated for the treatment of the infections listed below in adults and children from the age of 3 months .• Acute streptococcal tonsillitis and pharyngitis.• Acute bacterial sinusitis.• Acute otitis media.• Acute exacerbations of chronic bronchitis.• Cystitis.• Pyelonephritis.• Uncomplicated skin and soft tissue infections. •Treatment of early Lyme disease.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFUROXIME AS AXETIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DC02",
+      "name": "CEFUROXIME"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ZINNAT 250MG/5ML  SUSP 50ML",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3730",
+        "yarpa": "36714",
+        "pharmasoft": "26086"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.2985,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.848945,
+        "maxPriceWithVAT": 19.88175422
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:49:41.507527"
+  }
+}

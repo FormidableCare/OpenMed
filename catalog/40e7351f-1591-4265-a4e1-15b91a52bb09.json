@@ -1,0 +1,64 @@
+{
+  "catalogId": "40e7351f-1591-4265-a4e1-15b91a52bb09",
+  "name": "BRONCHOLATE SYRUP",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 24 30198 00",
+  "treatmentDescriptions": "Symptomatic relief of nasal congestion. Symptomatic relief of eustachian tube congestion in ear inflammation.Symptomatic relief of cough.",
+  "termsOfIssue": "",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIPHENHYDRAMINE HYDROCHLORIDE 0.2 %W/V, PSEUDOEPHEDRINE HYDROCHLORIDE 0.4 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01BA52",
+      "name": "PSEUDOEPHEDRINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRONCHOLATE SYRUP 120ML",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3861",
+        "pharmasoft": "2277",
+        "barcode": "7290008066457"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 27.95,
+        "maxPriceWithVAT": 32.981
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:20:54.568516"
+  }
+}

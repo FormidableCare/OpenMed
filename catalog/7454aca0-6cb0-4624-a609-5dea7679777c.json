@@ -1,0 +1,65 @@
+{
+  "catalogId": "7454aca0-6cb0-4624-a609-5dea7679777c",
+  "name": "XYLOCAINE PUMP SPRAY 10 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 41 25500 00",
+  "treatmentDescriptions": "Surface anaesthesia in dental practice otorhinolaryngology, obstetric and anaesthesiology.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LIDOCAINE/ 0.1  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D04AB01",
+      "name": "LIDOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "XYLOCAINE PUMP SPRAY 10 % 50GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8421",
+        "yarpa": "8163",
+        "pharmasoft": "24010",
+        "barcode": "6091403218424"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:37:44.316921"
+  }
+}

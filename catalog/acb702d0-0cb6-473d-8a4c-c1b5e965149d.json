@@ -1,0 +1,63 @@
+{
+  "catalogId": "acb702d0-0cb6-473d-8a4c-c1b5e965149d",
+  "name": "VYXEOS LIPOSOMAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 36 36917 99",
+  "treatmentDescriptions": "Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CYTARABINE/VIAL, DAUNORUBICIN AS HCL/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XY01",
+      "name": "DAUNORUBICIN AND CYTARABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VYXEOS 100MG / 44MG 1 VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9041",
+        "yarpa": "43897"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21301.72625,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 23431.89887,
+        "maxPriceWithVAT": 27649.63944
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:25:04.974355"
+  }
+}

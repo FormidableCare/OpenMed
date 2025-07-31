@@ -1,0 +1,64 @@
+{
+  "catalogId": "0bfb2b07-425c-44b2-95b9-7e0a8accf79c",
+  "name": "ANAESTHETIC",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "063 15 28051 00",
+  "treatmentDescriptions": "For the relief of pain in acute otitis media and the external, auditory canal.",
+  "termsOfIssue": "",
+  "form": "drops",
+  "route": "otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TETRACAINE HYDROCHLORIDE 0.5 %W/W, PHENAZONEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S02DA30",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANAESTHETIC EAR DRPS10ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2933",
+        "pharmasoft": "1134",
+        "barcode": "7290008084871"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 15.04,
+        "maxPriceWithVAT": 17.75
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:13:04.692911"
+  }
+}

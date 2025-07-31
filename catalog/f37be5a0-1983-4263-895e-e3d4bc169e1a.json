@@ -1,0 +1,63 @@
+{
+  "catalogId": "f37be5a0-1983-4263-895e-e3d4bc169e1a",
+  "name": "SAVIOR",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 25 21373 00",
+  "treatmentDescriptions": "First aid antiseptic for external use in treatment for minor injuries, wounds and burns.",
+  "termsOfIssue": "",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CETRIMIDE 0.5  %W/W, CHLORHEXIDINE HYDROCHLORIDE 0.1  %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC52",
+      "name": "CHLORHEXIDINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SAVIOR 10GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5335",
+        "barcode": "7290000802923"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 14.05,
+        "maxPriceWithVAT": 16.579
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:15:41.106490"
+  }
+}

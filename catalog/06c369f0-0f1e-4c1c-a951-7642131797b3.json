@@ -1,0 +1,63 @@
+{
+  "catalogId": "06c369f0-0f1e-4c1c-a951-7642131797b3",
+  "name": "VESOXX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 61 37610 99",
+  "treatmentDescriptions": "Vesoxx is indicated for the suppression of neurogenic detrusor overactivity (NDO) in children from 6 years of age and adults, who are managing bladder emptying by clean intermittent catheterization (CIC), if they cannot be adequately managed by oral anticholinergic treatment due to lack of efficacy and/or intolerable side effects..",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for intravesical",
+  "route": "intravesical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXYBUTYNIN HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BD04",
+      "name": "OXYBUTYNIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VESOXX 1MG/1ML (10MG/10ML) 100 SYRINGE PREFILLED",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9262",
+        "yarpa": "17138"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7164.163215,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7880.579537,
+        "maxPriceWithVAT": 9299.08344
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:09:52.918941"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "4fa0d37a-b807-45a8-ae31-724e982aa03d",
+  "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "042 50 23368 00",
+  "treatmentDescriptions": "Analgesic, antipyretic.",
+  "termsOfIssue": "",
+  "form": "suppositories",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "PARACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUPRAMOL M 150MG 12 SUPP",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH PVC/PE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2039",
+        "pharmasoft": "19672"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 13.66,
+        "maxPriceWithVAT": 16.1188
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:24:33.548793"
+  }
+}

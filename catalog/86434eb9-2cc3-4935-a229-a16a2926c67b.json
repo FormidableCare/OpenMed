@@ -1,0 +1,64 @@
+{
+  "catalogId": "86434eb9-2cc3-4935-a229-a16a2926c67b",
+  "name": "OTRIVIN",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "115 43 22229 00",
+  "treatmentDescriptions": "Rapid relief of nasal congestion for up to ten hours in adults and adolescents aged 12 years and older.",
+  "termsOfIssue": "",
+  "form": "nasal solution",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "XYLOMETAZOLINE HYDROCHLORIDE 0.1 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AA07",
+      "name": "XYLOMETAZOLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AZOLINE DROPS 15CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE METERED DOSE SPRAY POLYETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1791",
+        "pharmasoft": "1378",
+        "barcode": "7290006603036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 19.4,
+        "maxPriceWithVAT": 22.892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T11:15:26.137711"
+  }
+}

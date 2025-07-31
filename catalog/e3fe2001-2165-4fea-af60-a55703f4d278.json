@@ -1,0 +1,64 @@
+{
+  "catalogId": "e3fe2001-2165-4fea-af60-a55703f4d278",
+  "name": "HISTAZINE",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "109 59 29304 00",
+  "treatmentDescriptions": "Antihistaminic drug for the treatment of allergies for the treatment of seasonal and perennial allergic rhinitis and chronic idiopathic uriticaria in children aged over 2 years and adults.",
+  "termsOfIssue": "",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CETIRIZINE DIHYDROCHLORIDE 0.1  %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AE07",
+      "name": "CETIRIZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HISTAZINE SYRUP 115ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 115.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3602",
+        "pharmasoft": "8003",
+        "barcode": "7290008075459"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 26.77,
+        "maxPriceWithVAT": 31.5886
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T12:05:44.964438"
+  }
+}
