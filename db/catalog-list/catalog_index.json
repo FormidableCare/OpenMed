@@ -1,8 +1,8 @@
 {
   "catalog_index": {
-    "version": "1.0.16",
-    "generated_at": "2025-07-31T14:27:14.039255",
-    "total_medications": 3995,
+    "version": "1.0.17",
+    "generated_at": "2025-07-31T17:09:01.241900",
+    "total_medications": 4026,
     "medications": [
       {
         "catalogId": "0005d4b7-3cd7-485a-9c11-a9ea83b8cdf3",
@@ -183,6 +183,15 @@
         "atc5": "N01AH01",
         "registrationNumber": "148 73 33262 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0170222f-bd72-4b0c-bce9-d263aa400875.json"
+      },
+      {
+        "catalogId": "019739ea-7aeb-401c-a4f9-00fdb1870c12",
+        "name": "BAMYXIN EYE OINT 3.5GR",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/019739ea-7aeb-401c-a4f9-00fdb1870c12.json"
       },
       {
         "catalogId": "01b4d43a-1426-48ac-9611-e08f456ebfa8",
@@ -390,6 +399,15 @@
         "atc5": "N/A",
         "registrationNumber": "137 99 31728 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0345f9ce-9cee-438e-86d8-a5aa323fd9d1.json"
+      },
+      {
+        "catalogId": "0351c705-c1fd-4e2b-be29-df8bac32b953",
+        "name": "COD-GUAIACOL SYRUP 100ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0351c705-c1fd-4e2b-be29-df8bac32b953.json"
       },
       {
         "catalogId": "038d951c-8346-4326-bc1a-178efdca33ec",
@@ -633,6 +651,15 @@
         "atc5": "N02BE01",
         "registrationNumber": "140 18 31762 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/055e9c85-2cf3-4e27-ae31-0193de5e4aa2.json"
+      },
+      {
+        "catalogId": "056f1088-a679-4ec3-bd51-a1a35732da51",
+        "name": "EPIRUBICIN INOVAMED 2MG/ML VIAL 50MG/25ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/056f1088-a679-4ec3-bd51-a1a35732da51.json"
       },
       {
         "catalogId": "0576b68e-ef46-48a3-aeb7-36d5d0a2cd55",
@@ -1965,6 +1992,15 @@
         "atc5": "A12BA01",
         "registrationNumber": "170 46 36674 99",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0f26a6d6-cfca-433e-baac-eaff28e7b6d1.json"
+      },
+      {
+        "catalogId": "0f46e861-cf44-425c-9897-14dfcdbaa151",
+        "name": "EPREX/PROTECS 10000 IU/1ML 6 SYRINGES",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0f46e861-cf44-425c-9897-14dfcdbaa151.json"
       },
       {
         "catalogId": "0f7662ea-ffc5-4ebe-9f77-949afa7a8069",
@@ -4062,6 +4098,15 @@
         "atc5": "L01EX22",
         "registrationNumber": "179 73 38201 99",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1d2e99ab-07e2-4251-846d-ca619a0f8d72.json"
+      },
+      {
+        "catalogId": "1d669245-18a5-40bb-996c-bfdef70c1605",
+        "name": "DACARBAZINE-DACIN 200MG 12VIALS",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1d669245-18a5-40bb-996c-bfdef70c1605.json"
       },
       {
         "catalogId": "1d743fa2-6ca4-4b9e-9bb8-04daf2a0ff19",
@@ -6404,6 +6449,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2e043956-9ace-4765-8896-ece04b9de9af.json"
       },
       {
+        "catalogId": "2e08ae0d-40b3-459c-87b1-92951821af78",
+        "name": "BEKUNIS 45 DRAGEES",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2e08ae0d-40b3-459c-87b1-92951821af78.json"
+      },
+      {
         "catalogId": "2e08b9e0-031c-4748-a1e4-a78f8e0c6923",
         "name": "GASTRO 10",
         "status": "",
@@ -7923,6 +7977,15 @@
         "atc5": "C10AA05",
         "registrationNumber": "126 04 30587 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3a0b7e15-4f16-461a-984f-0512736be2ec.json"
+      },
+      {
+        "catalogId": "3a193967-ac7d-4856-928a-0489404c7962",
+        "name": "AKNE-MYCIN PLUS SOL 25ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3a193967-ac7d-4856-928a-0489404c7962.json"
       },
       {
         "catalogId": "3a19f5ee-d369-45a2-a94c-af67b6708c5c",
@@ -9518,6 +9581,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/45f1a2ca-196b-4b1b-b1ec-3e6341632011.json"
       },
       {
+        "catalogId": "460ce658-3c82-4a84-abe3-1c5279a3ce8f",
+        "name": "CEFURAX 500MG 10TAB",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/460ce658-3c82-4a84-abe3-1c5279a3ce8f.json"
+      },
+      {
         "catalogId": "463dda11-52c6-4d3c-afb1-f3a11f716659",
         "name": "CHOLBAM 250 MG",
         "status": "",
@@ -10751,6 +10823,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/503c7f67-d435-4e55-ae1f-4e8202e00565.json"
       },
       {
+        "catalogId": "506b767d-3581-4a3c-96f0-df6006c5de1c",
+        "name": "CEFURAX 250MG 10TAB",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/506b767d-3581-4a3c-96f0-df6006c5de1c.json"
+      },
+      {
         "catalogId": "506f87bd-910a-447a-90f4-afa615d11740",
         "name": "POLYDINE TINCTURE",
         "status": "",
@@ -11579,6 +11660,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5596c71c-86c8-4f9e-926d-ebbf1978efc6.json"
       },
       {
+        "catalogId": "559ad0d9-06b3-4011-a956-11ea140b3309",
+        "name": "CITRAFLEET POWDER FOR SOL 2 SACHET",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/559ad0d9-06b3-4011-a956-11ea140b3309.json"
+      },
+      {
         "catalogId": "55a37a70-cf4a-4c26-8397-878974b8bc0a",
         "name": "COLOTAL TABLETS 135 MG",
         "status": "",
@@ -11847,6 +11937,15 @@
         "atc5": "N05AX16",
         "registrationNumber": "163 39 35733 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/573b4120-788d-4b67-ae43-c141d77c75b9.json"
+      },
+      {
+        "catalogId": "574b9b20-e10f-4550-9bc0-e4fbbd200fd1",
+        "name": "AKNE-MYCIN SOL 25ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/574b9b20-e10f-4550-9bc0-e4fbbd200fd1.json"
       },
       {
         "catalogId": "574fd619-cdfd-422e-ac41-f9da40a359f6",
@@ -12740,6 +12839,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5df1d82b-cf7c-471f-acc7-a762c1bd1f44.json"
       },
       {
+        "catalogId": "5e1c323d-1b08-478c-85f2-e0c9800012c6",
+        "name": "EPREX/PROTECS 30000 IU/0.75ML 1SYRINGE",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5e1c323d-1b08-478c-85f2-e0c9800012c6.json"
+      },
+      {
         "catalogId": "5e4fd57b-6f0d-41e7-9485-10f2d0e842f1",
         "name": "IMNOVID 1 MG",
         "status": "",
@@ -13325,6 +13433,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/628b1e49-9038-4bf4-a536-a1992fd8610f.json"
       },
       {
+        "catalogId": "6296e5ba-a7cf-449c-8f3e-49d36117dbbc",
+        "name": "FENTAMED 100 MCG",
+        "status": "",
+        "category": "prescription",
+        "atc5": "N01AH01",
+        "registrationNumber": "173 43 36706 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6296e5ba-a7cf-449c-8f3e-49d36117dbbc.json"
+      },
+      {
         "catalogId": "62977684-fbc6-492a-ae8b-1a5e9c968e1a",
         "name": "TRILEPTIN 300 MG",
         "status": "",
@@ -13440,6 +13557,15 @@
         "atc5": "L01XE04",
         "registrationNumber": "136 89 31430 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6348733c-21f2-4997-9daa-926741445cf2.json"
+      },
+      {
+        "catalogId": "635031c0-50b4-45db-819b-74050890bc26",
+        "name": "CEFTAZIDINE PANPHARMA 2G 10VIALS",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/635031c0-50b4-45db-819b-74050890bc26.json"
       },
       {
         "catalogId": "6361e6d2-4a10-47b5-b0ac-dfd251e9940d",
@@ -15170,6 +15296,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6f00e0ea-bed6-47bb-9eb5-f351bd00ab24.json"
       },
       {
+        "catalogId": "6f0b44bc-080f-43eb-9f4f-4e07afed3cb7",
+        "name": "EPREX/PROTECS 20000 IU/0.5ML 1SYRINGE",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6f0b44bc-080f-43eb-9f4f-4e07afed3cb7.json"
+      },
+      {
         "catalogId": "6f25d90f-5ece-42b9-9598-f999e1c5e460",
         "name": "PIFELTRO 100 MG FILM - COATED TABLETS",
         "status": "",
@@ -15413,6 +15548,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/70f88754-277d-46b4-bc53-c46537fa50dd.json"
       },
       {
+        "catalogId": "70fc9f22-cd0f-42d6-9d21-310d9f3299cb",
+        "name": "ANDROCUR 10MG 15TAB",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/70fc9f22-cd0f-42d6-9d21-310d9f3299cb.json"
+      },
+      {
         "catalogId": "71066bea-d94b-49df-a1b9-78b45cc4b6ae",
         "name": "BOVACLOX DC VETERINARY",
         "status": "",
@@ -15420,6 +15564,15 @@
         "atc5": null,
         "registrationNumber": "083 60 92376 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/71066bea-d94b-49df-a1b9-78b45cc4b6ae.json"
+      },
+      {
+        "catalogId": "7133fc77-badc-4f23-9994-2720b3c4d958",
+        "name": "EPREX/PROTECS 3000IU/0.3ML 6 SYRINGES",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7133fc77-badc-4f23-9994-2720b3c4d958.json"
       },
       {
         "catalogId": "7135354b-5228-4cd5-bd0a-d06ce30c8801",
@@ -15618,6 +15771,15 @@
         "atc5": "B01AE07",
         "registrationNumber": "142 96 32974 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/729c209c-a232-44b0-bf58-80a8cc55a2e0.json"
+      },
+      {
+        "catalogId": "72aa9a6b-a623-4ef0-a75f-778e6416f7ba",
+        "name": "ARCO-TEVA 90MG 14TABS",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/72aa9a6b-a623-4ef0-a75f-778e6416f7ba.json"
       },
       {
         "catalogId": "72adef5b-181e-4da5-9df9-ed9754fb4c62",
@@ -19661,6 +19823,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/8d889a00-b94b-4095-a21f-aa193e823ac8.json"
       },
       {
+        "catalogId": "8d8c9c1f-3686-47c7-baee-91e70eacacba",
+        "name": "COLESTID 5G X 50 SACHETS",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/8d8c9c1f-3686-47c7-baee-91e70eacacba.json"
+      },
+      {
         "catalogId": "8da8e9c7-b0ab-42c8-b66d-7ad44a9a9ab9",
         "name": "DEFIROX 125 MG",
         "status": "",
@@ -23531,6 +23702,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/aa8cc0e4-0b89-444c-b1fa-80bfe0a13cc2.json"
       },
       {
+        "catalogId": "aa914482-1df5-4e91-9416-e173ca34549d",
+        "name": "ALCON AZOPT 1%   DROPS 5ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/aa914482-1df5-4e91-9416-e173ca34549d.json"
+      },
+      {
         "catalogId": "aa94b65d-5398-471c-b35f-33eb454716ca",
         "name": "DEFERASIROX TEVA ® 125 MG",
         "status": "",
@@ -24033,6 +24213,15 @@
         "atc5": "L01XE04",
         "registrationNumber": "163 78 35252 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ae6d4607-9d8a-4c9f-8dae-db52b20b3919.json"
+      },
+      {
+        "catalogId": "ae998aab-01ea-4c6d-b975-a4c0f6e8375d",
+        "name": "ANDROCUR 50MG 50TAB",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ae998aab-01ea-4c6d-b975-a4c0f6e8375d.json"
       },
       {
         "catalogId": "aed72a26-f255-4a98-825d-abee53438693",
@@ -26744,6 +26933,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c0e2d529-7a93-48ff-b50c-47ea4f5aa204.json"
       },
       {
+        "catalogId": "c0ed6423-da5d-4700-b811-d049e367fc8b",
+        "name": "CLOFARABINE S.K. 1MG/1ML 1 VIAL 20 ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c0ed6423-da5d-4700-b811-d049e367fc8b.json"
+      },
+      {
         "catalogId": "c0f2335c-fa19-4a69-be08-602bec3bff81",
         "name": "MODAFINIL MEDOCHEMIE",
         "status": "",
@@ -28209,6 +28407,15 @@
         "atc5": "N/A",
         "registrationNumber": "136 44 31351 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cab6b0e2-c89a-46c3-84a4-c589322ad6e2.json"
+      },
+      {
+        "catalogId": "cabcd90a-866b-4a5a-8b94-04634d1fe776",
+        "name": "ALIMTA 100MG/VIAL VIAL 10ML",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cabcd90a-866b-4a5a-8b94-04634d1fe776.json"
       },
       {
         "catalogId": "cac28698-95a2-42a3-bc06-6fd9290ae693",
@@ -29840,6 +30047,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d54f358d-d2df-4987-9555-ff7032858126.json"
       },
       {
+        "catalogId": "d562db93-8d90-45aa-bd75-66ce6168db78",
+        "name": "EPREX/PROTECS 40000 IU/ML 1 SYRINGE",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d562db93-8d90-45aa-bd75-66ce6168db78.json"
+      },
+      {
         "catalogId": "d596308f-cfa4-42bf-acc9-84ed51799f73",
         "name": "VUMERITY 231 MG",
         "status": "",
@@ -30839,6 +31055,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/dc576fbf-bc2b-41a3-bd78-d47282a36617.json"
       },
       {
+        "catalogId": "dc58ec13-011d-447e-9094-f82837aaee7d",
+        "name": "EKLIRA GENUAIR INHALER 60 DOSES (322MCG/DOSE)",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/dc58ec13-011d-447e-9094-f82837aaee7d.json"
+      },
+      {
         "catalogId": "dc5f89eb-7f18-4c54-ad0a-cc7f46a135f7",
         "name": "ZEBINIX 200 MG",
         "status": "",
@@ -31793,6 +32018,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e2f6848a-6a7f-4163-aa4a-8bee50c52201.json"
       },
       {
+        "catalogId": "e3086765-27dc-4adc-9bc3-8f170f4497c0",
+        "name": "CEFTAZIDINE PANPHARMA 1G 10VIAL",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e3086765-27dc-4adc-9bc3-8f170f4497c0.json"
+      },
+      {
         "catalogId": "e30bbe8f-e7eb-4eba-90e1-81aac3f52a28",
         "name": "DEPO-PROVERA 150 MG/ML",
         "status": "",
@@ -32702,6 +32936,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e8571868-e020-4be0-bea5-76ad97156ccd.json"
       },
       {
+        "catalogId": "e86207a4-abb6-4cc0-8972-fcc4af9a232c",
+        "name": "EPREX/PROTECS 2000 IU/0.5ML 6 SYRINGES",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e86207a4-abb6-4cc0-8972-fcc4af9a232c.json"
+      },
+      {
         "catalogId": "e86c7146-c345-4619-bd13-f4443c13582b",
         "name": "COLIRACIN",
         "status": "",
@@ -33015,6 +33258,15 @@
         "atc5": null,
         "registrationNumber": "107 47 28826 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/eb05eda8-d744-4509-a64f-d86fe88491e0.json"
+      },
+      {
+        "catalogId": "eb0b4789-c327-452f-892c-b47b36ee5b0f",
+        "name": "CODABROL 10TAB",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/eb0b4789-c327-452f-892c-b47b36ee5b0f.json"
       },
       {
         "catalogId": "eb0ef1c7-db69-4b39-80c3-b792ebe15857",
@@ -33474,6 +33726,15 @@
         "atc5": "L01XE29",
         "registrationNumber": "155 37 34530 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/eeca8a2b-41df-4456-9e75-343f58382d94.json"
+      },
+      {
+        "catalogId": "eed76858-fa24-42a3-a906-1a6f8847eae0",
+        "name": "DOLESTINE 50MG/ML 10 AMP",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/eed76858-fa24-42a3-a906-1a6f8847eae0.json"
       },
       {
         "catalogId": "eef48193-ef7f-465e-920e-67e4a3bfbea1",
@@ -34133,6 +34394,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f3ff5c7c-6d01-45f8-bf76-51a848156136.json"
       },
       {
+        "catalogId": "f41cba7a-956e-47af-98ee-4e476b2ac627",
+        "name": "DOLESTINE 100MG/2ML 10 AMP",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f41cba7a-956e-47af-98ee-4e476b2ac627.json"
+      },
+      {
         "catalogId": "f4278a84-5bf9-4608-b207-176b4809d291",
         "name": "SIGNIFOR LAR 10 MG",
         "status": "",
@@ -34149,6 +34419,15 @@
         "atc5": "A10AB04",
         "registrationNumber": "102 83 28580 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f4316429-dcaf-4c3c-9cf5-70e1b6418240.json"
+      },
+      {
+        "catalogId": "f43b63e9-4b5e-4ff8-b329-672e8ed68bf1",
+        "name": "EFRIN-10 DROPS 5CC",
+        "status": "active",
+        "category": "prescription",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f43b63e9-4b5e-4ff8-b329-672e8ed68bf1.json"
       },
       {
         "catalogId": "f43f04bf-31a9-4f0b-9665-871e3b7fcca9",
