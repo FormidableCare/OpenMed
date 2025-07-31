@@ -27,13 +27,16 @@ OpenMed is a comprehensive open-source medical catalog system designed specifica
 OpenMed/
 ├── api/                      # Python Flask REST API
 │   └── app.py
-├── catalog/                  # Generated medication data
-│   ├── *.json               # Individual medication files
-│   └── catalog_index.json   # Search index
+├── catalog/                  # Individual medication data
+│   └── *.json               # 3,887 medication files
+├── db/                       # Database indexes
+│   └── catalog-list/         # Catalog indexes
+│       ├── catalog_index.json
+│       └── catalog_index.csv
 ├── schema/                   # JSON schemas
 │   └── openmed_medication.schema.json
-└── assets/                   # Logo
-├── generate_catalog_index.py # Script to generate catalog index
+├── assets/                   # Logo
+└── generate_catalog_index.py # Script to generate catalog index
 ```
 
 ## Quick Start
@@ -119,10 +122,17 @@ This repository includes a GitHub Action that automatically generates and commit
 **How it works:**
 
 - Triggers on pushes and pull requests to `main` and `develop` branches
-- Only runs when files in the `catalog/` directory change (excluding `catalog_index.json` itself)
+- Only runs when files in the `catalog/` directory change (excluding `db/` directory)
 - Automatically runs the `generate_catalog_index.py` script
+- Generates catalog index in JSON and CSV formats
 - Commits and pushes the updated index if changes are detected
 - Uses `[skip ci]` in commit messages to prevent infinite loops
+- Commits are made by the OpenMed Bot (`openmed@formidable.care`)
+
+**Generated files:**
+
+- `db/catalog-list/catalog_index.json` - Main catalog index
+- `db/catalog-list/catalog_index.csv` - Catalog index in CSV format
 
 **Workflow file:** `.github/workflows/update-catalog-index.yml`
 

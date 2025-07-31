@@ -5,12 +5,12 @@ on:
     branches: [main, develop]
     paths:
       - "catalog/**"
-      - "!catalog/catalog_index.json"
+      - "!db/**"
   pull_request:
     branches: [main, develop]
     paths:
       - "catalog/**"
-      - "!catalog/catalog_index.json"
+      - "!db/**"
 
 jobs:
   update-catalog-index:
@@ -40,18 +40,18 @@ jobs:
           python generate_catalog_index.py
           echo "✅ Catalog index generation completed"
 
-      - name: Check if catalog index changed
+      - name: Check if indexes changed
         id: check_changes
         run: |
-          echo "🔍 Checking if catalog index has changed..."
-          if git diff --quiet catalog/catalog_index.json; then
-            echo "ℹ️  No changes detected in catalog_index.json"
+          echo "🔍 Checking if indexes have changed..."
+          if git diff --quiet db/; then
+            echo "ℹ️  No changes detected in db/ directory"
             echo "changed=false" >> $GITHUB_OUTPUT
           else
-            echo "📝 Changes detected in catalog_index.json"
+            echo "📝 Changes detected in db/ directory"
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "📋 Changes:"
-            git diff --stat catalog/catalog_index.json
+            git diff --stat db/
           fi
 
       - name: Commit and push changes
@@ -60,7 +60,7 @@ jobs:
           echo "🚀 Committing and pushing changes..."
           git config --local user.email "openmed@formidable.care"
           git config --local user.name "OpenMed Bot"
-          git add catalog/catalog_index.json
+          git add db/catalog-list/
           git commit -m "🤖 OpenMed: Auto-update catalog index [skip ci]"
           git push
           echo "✅ Changes committed and pushed successfully"
