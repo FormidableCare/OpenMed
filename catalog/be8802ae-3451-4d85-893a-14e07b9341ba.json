@@ -1,0 +1,62 @@
+{
+  "catalogId": "be8802ae-3451-4d85-893a-14e07b9341ba",
+  "name": "SALAZOPYRIN",
+  "status": "",
+  "category": "29C",
+  "registrationValidity": "valid",
+  "registrationNumber": "113 35 21579 00",
+  "treatmentDescriptions": "Treatment of ulcerative colitis and Crohn's disease.",
+  "termsOfIssue": "",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SULFASALAZINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A07EC01",
+      "name": "SULFASALAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SULFASALAZINE 250MG/5ML ROSEMONT UK ORAL SUSPENSION BOTTLE 500ML",
+      "manufacturer": {
+        "name": NaN,
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "20895"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T21:34:32.504106"
+  }
+}

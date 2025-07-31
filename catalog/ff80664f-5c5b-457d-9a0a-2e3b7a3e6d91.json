@@ -1,0 +1,63 @@
+{
+  "catalogId": "ff80664f-5c5b-457d-9a0a-2e3b7a3e6d91",
+  "name": "TOBREX OPHTHALMIC OINTMENT",
+  "status": "",
+  "category": "29C",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 16 22795 00",
+  "treatmentDescriptions": "Antibiotic for the treatment of eye infections caused by bacteria sensitive to Tobramycin.",
+  "termsOfIssue": "",
+  "form": "eye ointment",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TOBRAMYCIN 0.3 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA12",
+      "name": "TOBRAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TOBRAMYCIN 80MG/2ML 25AMP",
+      "manufacturer": {
+        "name": NaN,
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "20237",
+        "barcode": "7290008067188"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T21:41:42.808083"
+  }
+}
