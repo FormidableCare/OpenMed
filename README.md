@@ -5,7 +5,7 @@
   
   **Simple, Accurate, and Efficient Medical Catalog System**
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](https://www.gnu.org/licenses/agpl-3.0)
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
   [![Next.js](https://img.shields.io/badge/Next.js-15.4+-black.svg)](https://nextjs.org)
 </div>
@@ -140,7 +140,14 @@ This repository includes a GitHub Action that automatically generates and commit
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE](LICENSE) file for details.
+
+The AGPL-3.0 license ensures that:
+
+- All modifications to this medical catalog system remain open source
+- Network use (like your REST API) is treated as distribution, requiring source code availability
+- Any improvements made to the system must be shared back with the community
+- This protects the integrity and transparency of healthcare data systems
 
 ## Sponsors
 
