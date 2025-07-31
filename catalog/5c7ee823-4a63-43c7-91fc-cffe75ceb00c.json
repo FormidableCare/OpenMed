@@ -1,0 +1,64 @@
+{
+  "catalogId": "5c7ee823-4a63-43c7-91fc-cffe75ceb00c",
+  "name": "V-TABUR",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "107 90 29156 00",
+  "treatmentDescriptions": "Disinfection of the skin, and for the cleaning of babies umbillical cords until detached.",
+  "termsOfIssue": "",
+  "form": "solution - external",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCOHOL70 %V/V, CHLORHEXIDINE GLUCONATE 0.5 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC02",
+      "name": "CHLORHEXIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "V-TABUR 60ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3130",
+        "pharmasoft": "22150",
+        "barcode": "7290008083164"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 11.73,
+        "maxPriceWithVAT": 13.8414
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:37:58.192264"
+  }
+}

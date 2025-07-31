@@ -1,0 +1,64 @@
+{
+  "catalogId": "d8a9b797-be0b-45f4-97b0-ce28877a96aa",
+  "name": "VITA-MERFEN OINTMENT",
+  "status": "",
+  "category": "off-the-counter",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 17 27599 00",
+  "treatmentDescriptions": "Vita-Merfen ointment is indicated for the treatment of all kinds of small wounds (such as scratches, abrasions, cuts),cracks, chapped skin, minor burns (first degree).",
+  "termsOfIssue": "",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VITAMIN A PALMITATE 0.2 %W/W, BENZOXONIUM CHLORIDE 0.1 %W/W, CHLORHEXIDINE AS GLUCONATE 0.5 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D08AC52",
+      "name": "CHLORHEXIDINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VITA-MERFEN OINT 20GR",
+      "manufacturer": {
+        "name": "מדיטרנד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1186",
+        "pharmasoft": "22091",
+        "barcode": "7290011363406"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": 27.7,
+        "maxPriceWithVAT": 32.686
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T13:36:04.705654"
+  }
+}
