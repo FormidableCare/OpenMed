@@ -5,20 +5,10 @@ __pycache__/
 *.so
 .Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # Virtual environments
 venv/
@@ -26,6 +16,7 @@ env/
 ENV/
 .venv/
 .env/
+israeli_integration_env/
 
 # IDE
 .vscode/
@@ -46,7 +37,7 @@ Thumbs.db
 # Logs
 *.log
 logs/
-
+catalog_enhancement.log
 
 # Environment variables
 .env
@@ -72,73 +63,14 @@ tmp/
 .coverage
 htmlcov/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pyenv
-.python-version
-
-# pipenv
-Pipfile.lock
-
-# PEP 582
-__pypackages__/
-
-# Celery
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
 # mypy
 .mypy_cache/
 .dmypy.json
-dmypy.json 
+dmypy.json
 
-# web   
-# dependencies
-/web/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Flask
+instance/
+.webassets-cache
 
-# testing
-/web/coverage
-
-# next.js
-/web/.next
-
-# production
-/web/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# Local development
+local_settings.py
