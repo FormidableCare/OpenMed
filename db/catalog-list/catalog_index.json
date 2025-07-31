@@ -1,8 +1,8 @@
 {
   "catalog_index": {
-    "version": "1.0.14",
-    "generated_at": "2025-07-31T13:23:56.717100",
-    "total_medications": 3981,
+    "version": "1.0.15",
+    "generated_at": "2025-07-31T13:51:32.060262",
+    "total_medications": 3995,
     "medications": [
       {
         "catalogId": "0005d4b7-3cd7-485a-9c11-a9ea83b8cdf3",
@@ -318,6 +318,15 @@
         "atc5": "C10AA01",
         "registrationNumber": "132 83 31147 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0294c2b3-5a19-465a-b411-78ec7b294b65.json"
+      },
+      {
+        "catalogId": "02bad792-4ed0-4612-9d8b-6eb4202db4c1",
+        "name": "OTOMYCIN",
+        "status": "",
+        "category": "29C",
+        "atc5": "S02AA30",
+        "registrationNumber": "015 86 24749 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/02bad792-4ed0-4612-9d8b-6eb4202db4c1.json"
       },
       {
         "catalogId": "02bd14a7-7e7b-49f2-83df-43442872b317",
@@ -1319,6 +1328,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0ab38bae-e1ec-4980-8282-4aa6d473b07d.json"
       },
       {
+        "catalogId": "0acd2c58-39eb-40d3-87c2-f4eeeda9c0b8",
+        "name": "PHENERGAN 50 MG/2 ML",
+        "status": "",
+        "category": "29C",
+        "atc5": "R06AD02",
+        "registrationNumber": "167 08 35764 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0acd2c58-39eb-40d3-87c2-f4eeeda9c0b8.json"
+      },
+      {
         "catalogId": "0acec6e6-7f10-4613-bd90-b2c2346564ff",
         "name": "VANCOAVENIR 1 G",
         "status": "",
@@ -1362,6 +1380,15 @@
         "atc5": "B06AX01",
         "registrationNumber": "168 71 36562 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0b00aa66-3506-4776-962a-1f13a94d4f48.json"
+      },
+      {
+        "catalogId": "0b17afb3-e381-4ef4-852e-8fdcbbab3b51",
+        "name": "BONJESTA",
+        "status": "",
+        "category": "29C",
+        "atc5": "R06AA09",
+        "registrationNumber": "167 52 36428 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0b17afb3-e381-4ef4-852e-8fdcbbab3b51.json"
       },
       {
         "catalogId": "0b21c559-3068-4b00-9c9c-7efcd3f3e1c3",
@@ -8618,6 +8645,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/40012eaa-f24b-41ef-9a3f-8d69262d0cfa.json"
       },
       {
+        "catalogId": "407d25cc-f12e-45de-b580-736760b8f7eb",
+        "name": "REZUROCK",
+        "status": "",
+        "category": "29C",
+        "atc5": "L04AA48",
+        "registrationNumber": "174 01 37521 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/407d25cc-f12e-45de-b580-736760b8f7eb.json"
+      },
+      {
         "catalogId": "408fd1aa-08b5-452f-a493-ff8e48642345",
         "name": "ASPIRIN CARDIO",
         "status": "",
@@ -15116,6 +15152,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6eddec77-0e99-423c-a72a-236538ca08fb.json"
       },
       {
+        "catalogId": "6ef9d817-19b6-4e60-8964-d639df0921f8",
+        "name": "UTROGESTAN 100",
+        "status": "",
+        "category": "29C",
+        "atc5": "G03DA04",
+        "registrationNumber": "132 44 26341 11",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6ef9d817-19b6-4e60-8964-d639df0921f8.json"
+      },
+      {
         "catalogId": "6f00e0ea-bed6-47bb-9eb5-f351bd00ab24",
         "name": "NORVIR 100 MG TABLETS",
         "status": "",
@@ -17463,6 +17508,15 @@
         "atc5": "N03AF01",
         "registrationNumber": "068 94 27055 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7f75ddad-b1c6-471c-b158-3248207e3bcf.json"
+      },
+      {
+        "catalogId": "7f8cabe0-bd6c-40bf-bfa3-6f791efb7d1b",
+        "name": "UTROGESTAN 100",
+        "status": "",
+        "category": "29C",
+        "atc5": "G03DA04",
+        "registrationNumber": "132 44 26341 11",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7f8cabe0-bd6c-40bf-bfa3-6f791efb7d1b.json"
       },
       {
         "catalogId": "7faa8f8b-cdbf-4678-8fd2-5c87bd1eb544",
@@ -20705,6 +20759,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/95510266-50fe-48e0-a6c7-4b40cf648811.json"
       },
       {
+        "catalogId": "9557b68b-6e4e-466e-8aa7-bd4cc8426943",
+        "name": "OXSORALEN 20 MCG/ML",
+        "status": "",
+        "category": "29C",
+        "atc5": "D05AD02",
+        "registrationNumber": "168 57 35929 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9557b68b-6e4e-466e-8aa7-bd4cc8426943.json"
+      },
+      {
         "catalogId": "958c48f6-e0a7-46b8-b574-abc83328ace3",
         "name": "EPANUTIN 100 MG",
         "status": "",
@@ -21054,6 +21117,15 @@
         "atc5": "M01AE02",
         "registrationNumber": "065 82 22014 15",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/97e30560-9e68-42f9-90f7-88db1fe47923.json"
+      },
+      {
+        "catalogId": "97f1fabf-2871-4c83-acdc-7fed9f2eb4cd",
+        "name": "NUEDEXTA",
+        "status": "",
+        "category": "29C",
+        "atc5": "C01BA01",
+        "registrationNumber": "149 88 33554 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/97f1fabf-2871-4c83-acdc-7fed9f2eb4cd.json"
       },
       {
         "catalogId": "97fe468f-9029-4e5d-b38d-7f8d4f10cf8f",
@@ -22251,6 +22323,15 @@
         "atc5": "L01XE04",
         "registrationNumber": "136 89 31430 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9fecc300-faec-4bc9-999f-d3116129cd85.json"
+      },
+      {
+        "catalogId": "a002fa1c-bb7b-4c47-b90c-01550418c939",
+        "name": "EPANUTIN 100 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "N03AB02",
+        "registrationNumber": "104 27 24678 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a002fa1c-bb7b-4c47-b90c-01550418c939.json"
       },
       {
         "catalogId": "a00e38ca-bd8e-402f-8b0a-424e3bae89f8",
@@ -24269,6 +24350,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b1252b07-6c01-4a94-8900-36f5d28c0503.json"
       },
       {
+        "catalogId": "b14bc8e0-8a4d-4575-972f-b5952f0d1a51",
+        "name": "ODOMZO  200 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "L01XX48",
+        "registrationNumber": "156 37 34574 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b14bc8e0-8a4d-4575-972f-b5952f0d1a51.json"
+      },
+      {
         "catalogId": "b14c22de-f496-4c35-8197-19e0be622365",
         "name": "ENTECAVIR TEVA ® 0.5 MG",
         "status": "",
@@ -24708,6 +24798,15 @@
         "atc5": "H01BA02",
         "registrationNumber": "137 23 31463 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b455bd42-6cf7-457b-912e-d626b4c4f3b3.json"
+      },
+      {
+        "catalogId": "b45c21e0-da11-4102-a448-25614dcc6cb7",
+        "name": "ONGENTYS 50 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "N04BX04",
+        "registrationNumber": "170 17 37081 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b45c21e0-da11-4102-a448-25614dcc6cb7.json"
       },
       {
         "catalogId": "b471ca99-b0be-4d94-b64a-37538ba4fc65",
@@ -29147,6 +29246,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d10a20b7-5836-4784-9e2a-23097e11a9af.json"
       },
       {
+        "catalogId": "d10df7e4-b64c-45fb-91ba-6390ff3d00a1",
+        "name": "EPANUTIN 100 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "N03AB02",
+        "registrationNumber": "104 27 24678 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d10df7e4-b64c-45fb-91ba-6390ff3d00a1.json"
+      },
+      {
         "catalogId": "d11d4515-ffd4-4997-9758-ba5d3fc26b82",
         "name": "ELOCOM LOTION",
         "status": "",
@@ -33485,6 +33593,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ef7415d7-d443-4eb3-8b7b-2eaf114012c7.json"
       },
       {
+        "catalogId": "ef959ace-676f-4e8c-a399-a6cd2b17946a",
+        "name": "ONDEXXYA",
+        "status": "",
+        "category": "29C",
+        "atc5": "V03AB38",
+        "registrationNumber": "171 23 36933 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ef959ace-676f-4e8c-a399-a6cd2b17946a.json"
+      },
+      {
         "catalogId": "efca9144-0e3c-4022-987f-b8945d239c60",
         "name": "VYVANSE 30 MG",
         "status": "",
@@ -35229,6 +35346,15 @@
         "atc5": "A09AC02",
         "registrationNumber": "027 66 22433 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fbc5b0e8-e7ed-4809-be7c-fb8b4e13af96.json"
+      },
+      {
+        "catalogId": "fbdd44b0-6524-4a4e-836f-3915a3e636ca",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fbdd44b0-6524-4a4e-836f-3915a3e636ca.json"
       },
       {
         "catalogId": "fbf7c60b-9e60-4c5c-91f4-a639f2179a92",
