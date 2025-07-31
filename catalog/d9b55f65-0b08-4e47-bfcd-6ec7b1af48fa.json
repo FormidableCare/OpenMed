@@ -1,0 +1,64 @@
+{
+  "catalogId": "d9b55f65-0b08-4e47-bfcd-6ec7b1af48fa",
+  "name": "TRAMADEX OD 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 25 31580 00",
+  "treatmentDescriptions": "Treatment of moderate to severe pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAMADOL HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AX02",
+      "name": "TRAMADOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRAMADEX OD 300MG 10 P.R.TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PCTFE/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7372",
+        "yarpa": "80862",
+        "pharmasoft": "20650"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 29.3952,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 40.271424,
+        "maxPriceWithVAT": 47.52028032
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:32:13.283406"
+  }
+}

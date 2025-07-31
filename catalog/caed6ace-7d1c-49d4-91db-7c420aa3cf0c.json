@@ -1,0 +1,63 @@
+{
+  "catalogId": "caed6ace-7d1c-49d4-91db-7c420aa3cf0c",
+  "name": "VECTOR 160",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 44 33076 01",
+  "treatmentDescriptions": "For treatment of hypertension. Valsartan is indicated for the treatment of heart failure (NYHA class II-IV) in patients who are intolerant of angiotensin converting enzyme inhibitors. In a controlled clinical trial Valsartan significantly reduced hospitalizations for heart failure. There is no evidence that Valsartan provides added benefits when it is used with an adequate dose of an ACE inhibitor. Valsartan is indicated to improve survival following myocardial infarction in clinically stable patients with signs symptoms or radiological evidence of left ventricular failure and /or with left ventricular systolic dysfunction.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALSARTAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09CA03",
+      "name": "VALSARTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VECTOR 80 MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9166",
+        "yarpa": "35628"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.6249,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.516113,
+        "maxPriceWithVAT": 30.10901334
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:01:54.387142"
+  }
+}

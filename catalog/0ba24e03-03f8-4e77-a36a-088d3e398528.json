@@ -1,0 +1,65 @@
+{
+  "catalogId": "0ba24e03-03f8-4e77-a36a-088d3e398528",
+  "name": "TERBULIN SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "065 68 28095 00",
+  "treatmentDescriptions": "Bronchodilator for the treatment of acute attacks of Asthma.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TERBUTALINE SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03CC03",
+      "name": "TERBUTALINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TERBULIN SYRUP 115ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 115.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PET",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3131",
+        "yarpa": "9272",
+        "pharmasoft": "20129",
+        "barcode": "7-290008-068826"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6.68,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 9.1516,
+        "maxPriceWithVAT": 10.798888
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:14:28.943779"
+  }
+}

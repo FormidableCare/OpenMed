@@ -1,0 +1,65 @@
+{
+  "catalogId": "16becb03-fac9-4358-a4b3-3202d681df28",
+  "name": "VENTOLIN INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 64 21556 05",
+  "treatmentDescriptions": "Ventolin Injection is indicated in adults.Ventolin Injection provides short-acting (4-6 hour) bronchodilation with a fast onset (within 5 minutes) in reversible airways obstruction. It is indicated for the relief of severe bronchospasm.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALBUTAMOL AS SULFATE 0.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03CC02",
+      "name": "SALBUTAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENTOLIN INJ 500MCG/ML 5X1ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4351",
+        "yarpa": "9145",
+        "pharmasoft": "22055",
+        "barcode": "7290008085489"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6.452286833,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 8.839632962,
+        "maxPriceWithVAT": 10.43076643
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:05:44.040623"
+  }
+}

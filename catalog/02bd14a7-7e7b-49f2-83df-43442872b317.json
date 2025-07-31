@@ -1,0 +1,65 @@
+{
+  "catalogId": "02bd14a7-7e7b-49f2-83df-43442872b317",
+  "name": "TEVADERM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 85 30213 00",
+  "treatmentDescriptions": "For the local treatment of inflammatory skin conditions accompanied by secondary fungal infections.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIFLUCORTOLONE VALERATE 0.1 %, ISOCONAZOLE NITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC06",
+      "name": "DIFLUCORTOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEVADERM 15GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4416",
+        "yarpa": "4496",
+        "pharmasoft": "20326",
+        "barcode": "7290008097604"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.2,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.344,
+        "maxPriceWithVAT": 18.10592
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:17:23.039341"
+  }
+}

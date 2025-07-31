@@ -1,0 +1,65 @@
+{
+  "catalogId": "3c81da02-9562-4ead-80cf-ea78604633e0",
+  "name": "TEZSPIRE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 59 37290 00",
+  "treatmentDescriptions": "Tezspire is indicated for the add-on maintenance treatment of adult and pediatric patients aged 12 years and older with severe asthma.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEZEPELUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03DX11",
+      "name": "TEZEPELUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEZSPIRE 110MG 1PEN",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9255",
+        "yarpa": "14663",
+        "pharmasoft": "23822",
+        "barcode": "7107929"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4099.185705,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4509.104276,
+        "maxPriceWithVAT": 5320.742809
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:18:25.935452"
+  }
+}

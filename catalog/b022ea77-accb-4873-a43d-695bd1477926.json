@@ -1,0 +1,62 @@
+{
+  "catalogId": "b022ea77-accb-4873-a43d-695bd1477926",
+  "name": "VAXIGRIP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "179 71 38363 00",
+  "treatmentDescriptions": "Prevention of influenza disease caused by the two influenza A virus subtypes and the influenza B virus type contained in the vaccine for:- active immunisation of adults, including pregnant women, and children from 6 months of age and older, - passive protection of infant(s) from birth to less than 6 months of age following vaccination of pregnant women The use of Vaxigrip should be based on official recommendations on vaccination against influenza",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "B/AUSTRIA/1359417/2021-LIKE STRAIN (B/MICHIGAN/01/2021, WILD TYPE)HA, A/CROATIA/10136RV/2023 (H3N2)-LIKE STRAIN (A/CROATIA/10136RV/2023, X-425A)HA, A/VICTORIA/4897/2022 (H1N1)PDM09-LIKE STRAIN (A/VICTORIA/4897/2022, IVR-238)HA",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BB02",
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VAXIGRIP TETRA 10PFS",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "12",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8715"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 518.791725,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 609.5802769,
+        "maxPriceWithVAT": 719.3046947
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:00:48.185672"
+  }
+}

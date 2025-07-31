@@ -1,0 +1,65 @@
+{
+  "catalogId": "883c2513-931d-458d-b2a9-3b6de4b460bd",
+  "name": "ULTOMIRIS 10 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 14 36063 00",
+  "treatmentDescriptions": "•\tUltomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with paroxysmal nocturnal haemoglobinuria (PNH): * In patients with haemolysis with clinical symptom(s) indicative of high disease activity. * In patients who are clinically stable after having been treated with eculizumab for at least the past 6 months. •\tUltomiris is indicated in the treatment of patients with a body weight of 10 kg or above with atypical haemolytic uremic syndrome aHUS who are complement inhibitor treatment naïve or have received eculizumab for at least 3 months and have evidence of response to eculizumab. •\tUltomiris is indicated in the treatment of adult patients with generalized myasthenia gravis (gMG) who are antiacetylcholine receptor (AChR) antibody-positive.•\tUltomiris is indicated in the treatment of adult patients with neuromyelitis optica spectrum disorder (NMOSD) who are anti-aquaporin 4 (AQP4) antibody-positive.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RAVULIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA43",
+      "name": "RAVULIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ULTOMIRIS 10MG/1 ML 30 ML VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8548",
+        "yarpa": "3543",
+        "pharmasoft": "21147",
+        "barcode": "7290111092374"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 17233.77859,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 18957.15645,
+        "maxPriceWithVAT": 22369.44362
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:51:12.795933"
+  }
+}

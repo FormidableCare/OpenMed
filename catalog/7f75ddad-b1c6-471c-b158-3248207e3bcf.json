@@ -1,0 +1,65 @@
+{
+  "catalogId": "7f75ddad-b1c6-471c-b158-3248207e3bcf",
+  "name": "TIMONIL 300 RETARD",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "068 94 27055 00",
+  "treatmentDescriptions": "Epilepsy, trigeminal neuralgia, diabetes insipidus mania, prophylactic in manic depressive illness.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBAMAZEPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AF01",
+      "name": "CARBAMAZEPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TIMONIL RET 300MG 50TAB",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3192",
+        "yarpa": "9115",
+        "pharmasoft": "20134",
+        "barcode": "7290004448332"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.49,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.5513,
+        "maxPriceWithVAT": 39.59053224
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:21:20.262746"
+  }
+}

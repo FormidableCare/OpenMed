@@ -1,0 +1,64 @@
+{
+  "catalogId": "381a5047-e6a6-40d4-a869-ff293835407d",
+  "name": "TINDEN DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 63 35127 00",
+  "treatmentDescriptions": "Antipruritic, antihistaminic and antiallergic.",
+  "termsOfIssue": "Prescription required",
+  "form": "oral drops, solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIMETINDENE MALEATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AB03",
+      "name": "DIMETINDENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TINDEN DROPS 20 ml",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8186",
+        "yarpa": "6695",
+        "pharmasoft": "20857"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.18501973,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.69347703,
+        "maxPriceWithVAT": 19.6983029
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:21:44.041806"
+  }
+}

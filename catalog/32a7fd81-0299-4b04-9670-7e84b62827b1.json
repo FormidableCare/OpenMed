@@ -1,0 +1,63 @@
+{
+  "catalogId": "32a7fd81-0299-4b04-9670-7e84b62827b1",
+  "name": "VECTOR PLUS 160/25",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 47 33146 01",
+  "treatmentDescriptions": "For the treatment of hypertension in patients whose blood pressure is not adequately controlled by monotherapy. This fixed combination should be used as second-line therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALSARTAN, HYDROCHLOROTHIAZIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09CA03",
+      "name": "VALSARTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VECTOR PLUS 160/25 30 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9169",
+        "yarpa": "35662"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 23.8195,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 32.632715,
+        "maxPriceWithVAT": 38.5066037
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:02:17.529701"
+  }
+}

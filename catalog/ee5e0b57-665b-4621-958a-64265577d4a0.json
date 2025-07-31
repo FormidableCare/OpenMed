@@ -1,0 +1,63 @@
+{
+  "catalogId": "ee5e0b57-665b-4621-958a-64265577d4a0",
+  "name": "VERQUVO 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 18 36994 99",
+  "treatmentDescriptions": "Verquvo is indicated to reduce the risk of cardiovascular death and heart failure (HF) hospitalization following a hospitalization for heart failure or need for outpatient IV diuretics, in adults with symptomatic chronic HF and ejection fraction less than 45%.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VERICIGUAT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01DX22",
+      "name": "VERICIGUAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VERQUVO 5 MG 14 TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PP/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9089",
+        "yarpa": "14335"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 160.0461198,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 200.0576498,
+        "maxPriceWithVAT": 236.0680162
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:07:56.868130"
+  }
+}

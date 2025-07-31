@@ -1,0 +1,65 @@
+{
+  "catalogId": "24495f2a-ad75-4e26-a1f8-150ba2c40d01",
+  "name": "ULTRAVIST 300",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "064 18 27492 00",
+  "treatmentDescriptions": "Contrast enhancement in computerized tomography (CT) , digital subtraction angiography (DSA), intravenous urography, arteriography ,phlebography of the extremities, venography, visualization of body cavities (e.g. arthrography, hysterosalpingography,fistulography) with the exception of myelography, ventriculography, cisternography.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, intra-arterial",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IOPROMIDE 623.4   MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V08AB05",
+      "name": "IOPROMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ULTRAVIST 300 623.4MG/ML 200ML",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7005",
+        "yarpa": "64785",
+        "pharmasoft": "21135",
+        "barcode": "7290013092267"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 231.81306,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 272.3803455,
+        "maxPriceWithVAT": 321.4087934
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:51:29.474652"
+  }
+}

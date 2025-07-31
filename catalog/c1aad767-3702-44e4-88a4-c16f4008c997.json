@@ -1,0 +1,65 @@
+{
+  "catalogId": "c1aad767-3702-44e4-88a4-c16f4008c997",
+  "name": "TICOVAC 0.5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 33 35413 00",
+  "treatmentDescriptions": "Ticovac 0.5 ml is indicated for the active (prophylactic) immunization of adolescents from 16 years of age and adults against tick-borne encephalitis (TBE).",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENCEPHALITIS, TICK BORNE, INACTIVATED, WHOLE VIRUS 2.4  MCG / 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BA01",
+      "name": "ENCEPHALITIS, TICK BORNE, INACTIVATED, WHOLE VIRUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TICOVAC 0.5 ML  1 PREFILLED SYRINGE",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8416",
+        "yarpa": "45684",
+        "pharmasoft": "20889",
+        "barcode": "7290013592392"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 135.66739,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 169.5842375,
+        "maxPriceWithVAT": 200.1093914
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:20:18.721655"
+  }
+}

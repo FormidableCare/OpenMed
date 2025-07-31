@@ -1,0 +1,65 @@
+{
+  "catalogId": "e29d8a79-3bbd-4f90-81e7-6aaa1a36ccd5",
+  "name": "TRITACE COMP 2.5 MG/12.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 27 30187 00",
+  "treatmentDescriptions": "Essential hypertension.Tritace comp is indicated in patients whose blood pressure cannot be adequately lowered with ramipril alone or hydrochlorothiazide alone.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RAMIPRIL 2.5  MG, HYDROCHLOROTHIAZIDE 12.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09BA05",
+      "name": "RAMIPRIL AND DIURETICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRITACE COMP 2.5MG/12.5MG 28TAB",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4606",
+        "yarpa": "27928",
+        "pharmasoft": "20317",
+        "barcode": "7290008880947"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.2792,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.712504,
+        "maxPriceWithVAT": 15.00075472
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:44:08.438803"
+  }
+}

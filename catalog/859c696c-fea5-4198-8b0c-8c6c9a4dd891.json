@@ -1,0 +1,65 @@
+{
+  "catalogId": "859c696c-fea5-4198-8b0c-8c6c9a4dd891",
+  "name": "TRUSOPT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 58 28935 00",
+  "treatmentDescriptions": "For the treatment of eleveated intraocular pressure in patients with ocular hypertension, open-angle glaucoma and in some patients secondary glaucoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DORZOLAMIDE AS HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EC03",
+      "name": "DORZOLAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRUSOPT 2% 5 ML",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3562",
+        "yarpa": "53979",
+        "pharmasoft": "20147",
+        "barcode": "7290004997281"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21.3957,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 29.312109,
+        "maxPriceWithVAT": 34.58828862
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:47:24.475468"
+  }
+}

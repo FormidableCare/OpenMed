@@ -1,0 +1,65 @@
+{
+  "catalogId": "d87f2389-80ba-4988-a3a9-5f7ffc59198f",
+  "name": "TRACLEER 125 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "125 58 30488 01",
+  "treatmentDescriptions": "Treatment of pulmonary arterial hypertension (PAH) in patients of WHO functional class II-IV.Reduction in the number of new digital ulcers in patients with systemic sclerosis with active digital ulcer disease",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BOSENTAN AS MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C02KX01",
+      "name": "BOSENTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRACLEER 125MG 60TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4661",
+        "yarpa": "57711",
+        "pharmasoft": "20534",
+        "barcode": "7640111932420"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4313.301944,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4744.632138,
+        "maxPriceWithVAT": 5598.665923
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:28:37.316943"
+  }
+}

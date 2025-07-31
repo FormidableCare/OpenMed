@@ -1,0 +1,65 @@
+{
+  "catalogId": "9ada5b03-9445-4bfd-8446-f11cb8e86d34",
+  "name": "TIVICAY 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 06 35311 00",
+  "treatmentDescriptions": "Tivicay is indicated in combination with other anti-retroviral medicinal products for the treatment of Human Immunodeficiency Virus (HIV) infected adults, adolescents and children of at least 6 years of age or older and weighing at least 14 kg",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOLUTEGRAVIR AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AX12",
+      "name": "DOLUTEGRAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TIVICAY 10 mg 30 film-coated tablets",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8156",
+        "yarpa": "69594",
+        "pharmasoft": "20848",
+        "barcode": "7290014547513"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 502.3568295,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 590.2692747,
+        "maxPriceWithVAT": 696.5177131
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:22:40.014153"
+  }
+}

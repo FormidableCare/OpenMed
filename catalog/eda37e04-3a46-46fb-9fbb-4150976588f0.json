@@ -1,0 +1,65 @@
+{
+  "catalogId": "eda37e04-3a46-46fb-9fbb-4150976588f0",
+  "name": "UPTRAVI ® 1000 microgram",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 11 34942 00",
+  "treatmentDescriptions": "Uptravi is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients with WHO functional class (FC) II-III, either as combination therapy in patients insufficiently controlled with an endothelin receptor antagonist (ERA) and/or a phosphodiesterase type 5 (PDE-5) inhibitor, or as monotherapy in patients who are not candidates for these therapies.Efficacy has been shown in a PAH population including idiopathic and heritable PAH, PAH associated with connective tissue disorders, and PAH associated with corrected simple congenital heart disease",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SELEXIPAG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC27",
+      "name": "SELEXIPAG"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "UPTRAVI ® 400 MCG 60 TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8032",
+        "yarpa": "22558",
+        "pharmasoft": "21126",
+        "barcode": "7640111932642"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10045.50548,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11050.05603,
+        "maxPriceWithVAT": 13039.06554
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:53:31.264737"
+  }
+}

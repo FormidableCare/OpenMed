@@ -1,0 +1,63 @@
+{
+  "catalogId": "63c3a937-cf43-4aa1-8fd2-82eb4f26f86d",
+  "name": "VALGANCICLOVIR TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 38 34391 00",
+  "treatmentDescriptions": "Valganciclovir Teva is indicated for the induction and maintenance treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS). Valganciclovir Teva is indicated for the prevention of  CMV disease in CMV-negative patients who have received a solid organ transplant from a CMV-positive donor.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALGANCICLOVIR AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AB14",
+      "name": "VALGANCICLOVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VALGANCICLOVIR TEVA 450mg 60tab",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ACLAR/PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8021",
+        "yarpa": "73725"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3652.0006,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4017.20066,
+        "maxPriceWithVAT": 4740.296779
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:56:30.882047"
+  }
+}

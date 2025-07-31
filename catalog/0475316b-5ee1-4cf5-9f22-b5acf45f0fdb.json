@@ -1,0 +1,64 @@
+{
+  "catalogId": "0475316b-5ee1-4cf5-9f22-b5acf45f0fdb",
+  "name": "TREVICTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 43 34606 00",
+  "treatmentDescriptions": "TREVICTA, a 3 monthly injection, is indicated for the maintenance treatment of schizophrenia in adult patients who are clinically stable on 1 monthly paliperidone palmitate injectable product",
+  "termsOfIssue": "Prescription required",
+  "form": "extended release suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PALIPERIDONE AS PALMITATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX13",
+      "name": "PALIPERIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TREVICTA E.R SUSP FOR INJ 525MG/2.625ML",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  CYCLIC OLEFIN COPOLYMER",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7924",
+        "yarpa": "73582",
+        "pharmasoft": "20830"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2733.95655,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3007.352205,
+        "maxPriceWithVAT": 3548.675444
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:40:43.587198"
+  }
+}

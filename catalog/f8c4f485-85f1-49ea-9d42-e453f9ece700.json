@@ -1,0 +1,64 @@
+{
+  "catalogId": "f8c4f485-85f1-49ea-9d42-e453f9ece700",
+  "name": "TOVIAZ 4 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 55 31658 00",
+  "treatmentDescriptions": "Treatment of the symptoms (increased urinary frequency and/or urgency and/or urgency incontinence) that may occur in patients with overactive bladder syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets sustained release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FESOTERODINE FUMARATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BD11",
+      "name": "FESOTERODINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TOVIAZ 4MG 28 S.R.TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/PA/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6262",
+        "yarpa": "80261",
+        "pharmasoft": "20647"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 43.0217928,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 57.86431132,
+        "maxPriceWithVAT": 68.27988432
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:28:12.638943"
+  }
+}

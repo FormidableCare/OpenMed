@@ -1,0 +1,64 @@
+{
+  "catalogId": "cdac4746-060c-411e-bfe9-718a660021fe",
+  "name": "TYVASO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 71 33077 01",
+  "treatmentDescriptions": "Treatment of pulmonary arterial hypertension in patients with NYHA class III symptoms, to increase walk distance.Pulmonary hypertension associated with interstitial lung disease (PH-ILD; WHO Group 3) to improve exercise ability.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TREPROSTINIL AS SODIUM SALT 1.74  MG / 2.9  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC21",
+      "name": "TREPROSTINIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TYVASO 1.74 MG/ 2.9 ML 28 AMP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8742",
+        "yarpa": "79161",
+        "barcode": "7290008016179"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:50:18.196982"
+  }
+}

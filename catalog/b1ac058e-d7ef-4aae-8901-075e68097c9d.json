@@ -1,0 +1,64 @@
+{
+  "catalogId": "b1ac058e-d7ef-4aae-8901-075e68097c9d",
+  "name": "TEPADINA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 18 34230 03",
+  "treatmentDescriptions": "TEPADINA is indicated, in combination with other chemotherapy medicinal products:1. with or without total body irradiation (TBI), as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients;2.  when high dose chemotherapy with HPCT support is appropriate for the treatment of solid tumours in adult and paediatric patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "THIOTEPA/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AC01",
+      "name": "THIOTEPA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEPADINA 400 MG 1 BAG",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9506",
+        "yarpa": "31666",
+        "barcode": "7290014257528"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10991.50965,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12090.66061,
+        "maxPriceWithVAT": 14266.97889
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:13:11.553791"
+  }
+}

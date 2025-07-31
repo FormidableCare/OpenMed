@@ -1,0 +1,65 @@
+{
+  "catalogId": "7818982b-5fbe-42d0-b9f2-793282a5f1e7",
+  "name": "VENOFER",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 36 28277 00",
+  "treatmentDescriptions": "Venofer is indicated for the treatment of iron deficiency in the following indications:• Where there is a clinical need for a rapid iron supply,• In patients who cannot tolerate oral iron therapy or who are non-compliant,• In active inflammatory bowel disease where oral iron preparations are ineffective,• In chronic kidney disease when oral iron preparations are less effective.The diagnosis of iron deficiency must be based on appropriate laboratory tests (e.g. Hb, serum ferritin, TSAT, serum iron, etc.)(Hb haemoglobin, TSAT transferrin saturation)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FERROUS AS IRON III HYDROXIDE SUCROSE COMPLEX/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03AC03",
+      "name": "IRON-SORBITOL-CITRIC ACID COMPLEX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENOFER 100MG/5ML 5AMP",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7259",
+        "yarpa": "9602",
+        "pharmasoft": "22076",
+        "barcode": "7290008098656"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 246.4716,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 289.60413,
+        "maxPriceWithVAT": 341.7328734
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:04:51.054418"
+  }
+}

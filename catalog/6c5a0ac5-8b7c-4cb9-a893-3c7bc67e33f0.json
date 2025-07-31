@@ -1,0 +1,65 @@
+{
+  "catalogId": "6c5a0ac5-8b7c-4cb9-a893-3c7bc67e33f0",
+  "name": "TEMO 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 26 33258 00",
+  "treatmentDescriptions": "Temo capsules are indicated for the treatment of patients with malignant glioma such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy. Temo capsules are also indicated as first line treatment for patients with advanced metastatic malignant melanoma. Newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEMOZOLOMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AX03",
+      "name": "TEMOZOLOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEMO 5 MG 5CAPS",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6793",
+        "yarpa": "32067",
+        "pharmasoft": "20701",
+        "barcode": "7298074050721"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 57.4022,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 77.205959,
+        "maxPriceWithVAT": 91.10303162
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:11:27.217833"
+  }
+}

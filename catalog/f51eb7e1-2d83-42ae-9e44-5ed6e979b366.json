@@ -1,0 +1,64 @@
+{
+  "catalogId": "f51eb7e1-2d83-42ae-9e44-5ed6e979b366",
+  "name": "VELPHORO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 48 34557 00",
+  "treatmentDescriptions": "Velphoro is indicated for the control of serum phosphorus levels in adult chronic kidney disease (CKD) patients on haemodialysis (HD) or peritoneal dialysis (PD).Velphoro should be used within the context of a multiple therapeutic approach, which could include calcium supplement, 1,25-dihydroxy vitamin D3 or one of its analogues, or calcimimetics to control the development of renal bone disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "chewable tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IRON AS SUCROFERRIC OXYHYDROXIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AE05",
+      "name": "SUCROFERRIC OXYHYDROXIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VELPHORO 500MG 90 CHEWTAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7843",
+        "yarpa": "54625",
+        "pharmasoft": "22411"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 558.622467,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 656.3813987,
+        "maxPriceWithVAT": 774.5300161
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:03:05.918023"
+  }
+}

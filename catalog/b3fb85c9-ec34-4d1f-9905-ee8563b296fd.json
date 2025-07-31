@@ -1,0 +1,64 @@
+{
+  "catalogId": "b3fb85c9-ec34-4d1f-9905-ee8563b296fd",
+  "name": "TEPMETKO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 25 36977 99",
+  "treatmentDescriptions": "TEPMETKO is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) harbouring a MET tyrosine kinase receptor exon 14 (METex14) skipping mutation.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEPOTINIB AS HYDROCHLORIDE HYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EX21",
+      "name": "TEPOTINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEPMETKO 225MG 60 TABS",
+      "manufacturer": {
+        "name": "מרק סרונו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC-PE-PVDC-PE-PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9037",
+        "yarpa": "76921",
+        "barcode": "7290000845722"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 26168.24816,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 28785.07298,
+        "maxPriceWithVAT": 33966.3846
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:13:45.931696"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "8b8ff1f9-9f18-4ce2-a870-fab3b302daf8",
+  "name": "VERMOX SUSPENSION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 69 21882 00",
+  "treatmentDescriptions": "Treatment of single or mixed infections of Trichuris trichura (whipworm), Ascaris lumbricoides (large roundworm), Ancylostoma duodenale, Necator americanus (hookworm), Strongyloides stercoralis, Enterobius vermicularis (threadworm/pinworm) and Taenia spp.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEBENDAZOLE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P02CA01",
+      "name": "MEBENDAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VERMOX SUSP 30ML",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1432",
+        "yarpa": "2373",
+        "pharmasoft": "1432",
+        "barcode": "7290008124430"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.9801462,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.00280029,
+        "maxPriceWithVAT": 30.68330298
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:07:07.230560"
+  }
+}

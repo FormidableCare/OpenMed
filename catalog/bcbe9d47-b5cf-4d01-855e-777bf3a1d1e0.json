@@ -1,0 +1,64 @@
+{
+  "catalogId": "bcbe9d47-b5cf-4d01-855e-777bf3a1d1e0",
+  "name": "TYGACIL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 43 31352 01",
+  "treatmentDescriptions": "TYGACIL is   indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below for patients 18 years of age and older:Complicated Skin and Skin Structure Infections:Complicated skin and skin structure infections caused by Escherichia coli, Enterococcus faecalis (vancomycin-susceptible isolates ), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus agalactiae, Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Streptococcus pyogenes, Enterobacter cloacae, Klebsiella pneumoniae, and Bacteroides fragilis .Complicated Intra-abdominal Infections:Complicated intra-abdominal infections caused by Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Enterococcus faecalis (vancomycin-susceptible isolates), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides vulgatus, Clostridium perfringens, and Peptostreptococcus micros.Community-Acquired Bacterial Pneumonia:Community-acquired bacterial pneumonia caused by Streptococcus pneumoniae (penicillin susceptible isolates), including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates), and Legionella pneumophila.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIGECYCLINE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01AA12",
+      "name": "TIGECYCLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TYGACIL 50MG/DOSE 10 VIALS 5ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6981",
+        "yarpa": "30484",
+        "pharmasoft": "20891"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1107.471602,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1301.279132,
+        "maxPriceWithVAT": 1535.509308
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:48:58.313392"
+  }
+}

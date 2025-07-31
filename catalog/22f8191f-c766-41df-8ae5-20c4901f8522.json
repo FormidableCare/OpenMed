@@ -1,0 +1,64 @@
+{
+  "catalogId": "22f8191f-c766-41df-8ae5-20c4901f8522",
+  "name": "TERIL 200",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 63 30784 00",
+  "treatmentDescriptions": "Epilepsy, trigeminal neurolgia, diabetes insipidus, mania, prophylactic in manic depressive illness.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBAMAZEPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AF01",
+      "name": "CARBAMAZEPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TERIL 200MG 50TAB",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2112",
+        "yarpa": "2134",
+        "pharmasoft": "20044"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.2151,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.734687,
+        "maxPriceWithVAT": 19.74693066
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:15:06.131546"
+  }
+}

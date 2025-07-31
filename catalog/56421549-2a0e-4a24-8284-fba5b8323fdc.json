@@ -1,0 +1,64 @@
+{
+  "catalogId": "56421549-2a0e-4a24-8284-fba5b8323fdc",
+  "name": "VEMLIDY",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 67 35160 00",
+  "treatmentDescriptions": "Vemlidy is indicated for the treatment of chronic hepatitis B in adults and adolescents (aged 12 years and older with body weight at least 35 kg)",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR ALAFENAMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF13",
+      "name": "TENOFOVIR ALAFENAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VEMLIDY 25MG 30 TABS",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8202",
+        "yarpa": "12458",
+        "barcode": "5391507143631"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1130.363334,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1328.176917,
+        "maxPriceWithVAT": 1567.248693
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:03:41.257492"
+  }
+}

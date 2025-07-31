@@ -1,0 +1,64 @@
+{
+  "catalogId": "4ab4517b-e3b1-44e5-bb92-2b0bbe552962",
+  "name": "VENTOLIN SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 54 24044 20",
+  "treatmentDescriptions": "Relief of bronchospasm in bronchial asthma of all types,chronic bronchitis ,emphysema.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALBUTAMOL AS SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC02",
+      "name": "SALBUTAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENTOLIN SYRUP 150ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 150.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "292",
+        "yarpa": "2369",
+        "pharmasoft": "22059"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.19761875,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 9.860737688,
+        "maxPriceWithVAT": 11.63566995
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:06:07.978516"
+  }
+}

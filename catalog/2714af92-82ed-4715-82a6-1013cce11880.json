@@ -1,0 +1,65 @@
+{
+  "catalogId": "2714af92-82ed-4715-82a6-1013cce11880",
+  "name": "TEVAGRASTIM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 29 31990 00",
+  "treatmentDescriptions": "Tevagrastim is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy  (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes ) and for the reduction in the duration of neutropenia in patients undergoing myeloablative therapy followed by bone marrow transplantation considered to be at increased risk of prolonged severe neutropenia. The safety and efficacy of Tevagrastim are similar in adults and children receiving cytotoxic chemotherapy.   Tevagrastim is indicated for the mobilisation of peripheral blood progenitor cells in normal donors (allogeneic PBPC).  In patients  children or adults with severe congenital neutropenia  cyclic or idiopathic neutropenia  with an absolute nuetrophil count (ANC) less than or equal to  0.5 x 1000000000 /l   and a history of severe or recurrent infections  long term administration of Tevagrastim is indicated to increase neutophil count and to reduce the incidence and duration of infection-related events.   Tevagrastim in indicated for the treatment of persistent neutopenia (ANC less than or equal to 1.0 x 1000000000/l ) in patients with advanced HIV infection  in order to reduce the risk of bacterial infections when other options to manage neutopenia are inappropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FILGRASTIM 0.6 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AA02",
+      "name": "FILGRASTIM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEVAGRASTIM  0.6MG/ML SYR PREFIL 0.5ML(30MU/0.5ML)",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6563",
+        "yarpa": "18959",
+        "pharmasoft": "20675",
+        "barcode": "7290102062447"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 113.8603976,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 142.3254969,
+        "maxPriceWithVAT": 167.9440789
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:17:42.897317"
+  }
+}

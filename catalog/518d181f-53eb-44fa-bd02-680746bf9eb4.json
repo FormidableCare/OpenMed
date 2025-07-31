@@ -1,0 +1,65 @@
+{
+  "catalogId": "518d181f-53eb-44fa-bd02-680746bf9eb4",
+  "name": "ULCERON",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 02 33651 00",
+  "treatmentDescriptions": "For the treatment of duodenal ulcer, gastric ulcer, moderate and severe forms of reflux oesophagitis. Zollinger Ellison Syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANTOPRAZOLE AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC02",
+      "name": "PANTOPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ULCERON 40MG/VIAL",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8071",
+        "yarpa": "51232",
+        "pharmasoft": "21134",
+        "barcode": "2802743401018"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.7973,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.272301,
+        "maxPriceWithVAT": 23.92131518
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:50:51.418471"
+  }
+}

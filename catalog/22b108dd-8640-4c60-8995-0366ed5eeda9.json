@@ -1,0 +1,65 @@
+{
+  "catalogId": "22b108dd-8640-4c60-8995-0366ed5eeda9",
+  "name": "TEGRETOL 200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 41 24602 00",
+  "treatmentDescriptions": "Epilepsy, trigeminal neuralgia, diabetes insipidus, mania, prophylactic in manic depressive illness.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBAMAZEPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AF01",
+      "name": "CARBAMAZEPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEGRETOL CR 200 50T",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "603",
+        "yarpa": "7897",
+        "pharmasoft": "20479",
+        "barcode": "7298087000836"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.4483,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.794171,
+        "maxPriceWithVAT": 23.35712178
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:09:52.344349"
+  }
+}

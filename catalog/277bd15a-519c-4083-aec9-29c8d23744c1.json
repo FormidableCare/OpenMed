@@ -1,0 +1,63 @@
+{
+  "catalogId": "277bd15a-519c-4083-aec9-29c8d23744c1",
+  "name": "TAVALISSE 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 04 36449 99",
+  "treatmentDescriptions": "TAVALISSE is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOSTAMATINIB AS DISODIUM HEXAHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BX09",
+      "name": "FOSTAMATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAVALISSE 100 MG 60 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8792",
+        "yarpa": "60247"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10947.01679,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12041.71847,
+        "maxPriceWithVAT": 14209.22716
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:07:49.879856"
+  }
+}

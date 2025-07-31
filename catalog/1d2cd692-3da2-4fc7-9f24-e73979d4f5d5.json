@@ -1,0 +1,63 @@
+{
+  "catalogId": "1d2cd692-3da2-4fc7-9f24-e73979d4f5d5",
+  "name": "VENCLEXTA 10 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 19 34868 00",
+  "treatmentDescriptions": "Chronic Lymphocytic Leukemia/Small Lymphocytic LymphomaVENCLEXTA in combination with rituximab or as monotherapy is indicated for the treatment of adult patients with chronic lymphocytic leukaemia (CLL) or small lymphocytic lymphoma (SLL), who have received at least one prior therapy.VENCLEXTA in combination with obinutuzumab is indicated for the treatment of patients with previously untreated chronic lymphocytic leukaemia (CLL) or small lymphocytic lymphoma (SLL).Acute Myeloid LeukemiaVENCLEXTA in combination with a hypomethylating agent or in combination with low dose cytarabine is indicated for newly diagnosed patients with acute myeloid leukemia (AML) who are ineligible for intensive chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VENETOCLAX",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX52",
+      "name": "VENETOCLAX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENCLEXTA 100 MG 120 TABLETS",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7988",
+        "yarpa": "42783"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21103.29888,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 23213.62877,
+        "maxPriceWithVAT": 27392.08073
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:04:03.861531"
+  }
+}

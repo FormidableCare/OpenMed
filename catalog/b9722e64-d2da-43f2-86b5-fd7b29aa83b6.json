@@ -1,0 +1,64 @@
+{
+  "catalogId": "b9722e64-d2da-43f2-86b5-fd7b29aa83b6",
+  "name": "TOCTINO 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 92 33163 00",
+  "treatmentDescriptions": "For use in adults who have severe chronic hand eczema that is unresponsive to treatment with potent topical corticosteroids .Patients in whom the eczema has predominantly hyperkeratotic features are more likely to respond to treatment than in those in whom the eczema predominantly presents as pompholyx .",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, soft",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALITRETINOIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D11AX19",
+      "name": "ALITRETINOIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TOCTINO 30MG 30CAPS",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6702",
+        "yarpa": "26066",
+        "pharmasoft": "20718"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1296.954716,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1523.921791,
+        "maxPriceWithVAT": 1798.227633
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:24:34.581671"
+  }
+}

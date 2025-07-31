@@ -1,0 +1,65 @@
+{
+  "catalogId": "34b498a8-9a51-41f6-99c1-16fbb83eed67",
+  "name": "URALYT-U",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "063 87 22365 00",
+  "treatmentDescriptions": "To dissolve uric acid stones in the urinary tract. Prevention of further stone formation.",
+  "termsOfIssue": "Prescription required",
+  "form": "granules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POTASSIUM SODIUM HYDROGEN CITRATE 2.427 G / 2.5 G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A12BA02",
+      "name": "POTASSIUM CITRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "URALYT-U GRANUL.280G",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 280.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER POLYPROPYLENE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "995",
+        "yarpa": "2047",
+        "pharmasoft": "21025",
+        "barcode": "7290008097796"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 76.791834,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 103.2850167,
+        "maxPriceWithVAT": 121.8763143
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:54:08.828265"
+  }
+}

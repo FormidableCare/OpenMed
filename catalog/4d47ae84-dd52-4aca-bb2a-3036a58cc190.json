@@ -1,0 +1,64 @@
+{
+  "catalogId": "4d47ae84-dd52-4aca-bb2a-3036a58cc190",
+  "name": "ERYTHROMYCIN FISIOPHARMA 1 G/ 20  ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 56 35595 00",
+  "treatmentDescriptions": "For the treatment of bacterial infections susceptible to erythromycin and require I.V. treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERYTHROMYCIN AS LACTOBIONATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01FA01",
+      "name": "ERYTHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TOBI 300MG/5ML 56AMPX5ML INH WITH NEBULISER",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4922",
+        "yarpa": "67228",
+        "pharmasoft": "20595"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5128.605522,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5641.466074,
+        "maxPriceWithVAT": 6656.929672
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:23:30.641866"
+  }
+}

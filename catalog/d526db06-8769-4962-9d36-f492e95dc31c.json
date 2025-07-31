@@ -1,0 +1,65 @@
+{
+  "catalogId": "d526db06-8769-4962-9d36-f492e95dc31c",
+  "name": "THYROGEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 91 29910 00",
+  "treatmentDescriptions": "Adjunctive diagnostic tool for serum thyroglobulin (Tg) testing with or without  radioiodine imaging in the follow up of patients with well-differentiated thyroid cancer  who have previously undergone thyroidectomy. Adjunctive treatment for radioiodine ablation of thyroid tissue remnants in patients who have undergone a near-total or total thyroidectomy for well differentiated thyroid cancer and who do not have evidence of metastatic thyroid cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "THYROTROPIN ALFA 0.9 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V04CJ01",
+      "name": "THYROTROPIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "THYROGEN 0.9MG/ML 2VIALS",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4197",
+        "yarpa": "24675",
+        "pharmasoft": "20104",
+        "barcode": "7290013773036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2492.041823,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2741.246005,
+        "maxPriceWithVAT": 3234.670142
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:19:54.020840"
+  }
+}

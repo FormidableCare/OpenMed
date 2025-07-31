@@ -1,0 +1,65 @@
+{
+  "catalogId": "d6afbb34-6932-4ae1-bead-e89586c06aa8",
+  "name": "TERBULIN RESPIRATORY SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "065 67 28096 00",
+  "treatmentDescriptions": "Bronchodilator for the treatment of acute attacks of Asthma.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for inhalation",
+  "route": "inhalation with nebuliser",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TERBUTALINE SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03CC03",
+      "name": "TERBUTALINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TERBULIN RESP 15ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE BROWN GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3132",
+        "yarpa": "9307",
+        "pharmasoft": "20130",
+        "barcode": "7290008068833"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:14:18.042275"
+  }
+}

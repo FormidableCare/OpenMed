@@ -1,0 +1,62 @@
+{
+  "catalogId": "b1a7f769-db4e-4aec-a960-f6ab492dc526",
+  "name": "TRAZIMERA 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 30 36300 00",
+  "treatmentDescriptions": "Metastatic Breast Cancer (MBC)TRAZIMERA is indicated for the treatment of patients with metastatic breast cancer who have tumors that overexpress HER2;1. As a single agent, for the treatment of those patients who have received one or more chemotherapy regimens for their metastatic disease.2. In combination with Paclitaxel or Docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.3. In combination with an aromatase inhibitor for the treatment of postmenopausal patient with hormone-receptor positive metastatic breast cancer.Early Breast Cancer (EBC)TRAZIMERA is indicated to treat patients with HER2 positive early breast cancer following surgery and chemotherapy (neoadjuvant or adjuvant) either alone or in combination with chemotherapy excluding anthracyclines.TRAZIMERA should only be used in patients whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.HER2 Metastatic Gastric Cancer (MGC)TRAZIMERA in combination with capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease.TRAZIMERA should only be used in patients with metastatic gastric cancer whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory FISH+ result, or IHC 3+, as determined by an accurate and validated assay.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRASTUZUMAB/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FD01",
+      "name": "TRASTUZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRAZIMERA 150 MG 1 VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 0.3409,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8750"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1154.291986,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1356.293084,
+        "maxPriceWithVAT": 1600.425768
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:36:56.712647"
+  }
+}

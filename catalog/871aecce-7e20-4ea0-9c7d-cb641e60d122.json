@@ -1,0 +1,64 @@
+{
+  "catalogId": "871aecce-7e20-4ea0-9c7d-cb641e60d122",
+  "name": "UROCIT-K 10 mEq",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 56 34526 00",
+  "treatmentDescriptions": "Urocit®-K is a citrate salt of potassium indicated for the management of:• Renal tubular acidosis (RTA) with calcium stones• Hypocitraturic calcium oxalate nephrolithiasis of any etiologyUric acid lithiasis with or without calcium stones",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POTASSIUM CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A12BA02",
+      "name": "POTASSIUM CITRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "UROCIT-K 10 mEq 100  SR TAB",
+      "manufacturer": {
+        "name": "פארמבסט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7919",
+        "yarpa": "31617",
+        "pharmasoft": "85404"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:54:31.602710"
+  }
+}

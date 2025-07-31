@@ -1,0 +1,65 @@
+{
+  "catalogId": "a598eff2-b080-4848-8a19-c165bee77a98",
+  "name": "TRULICITY 0.75 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 39 34356 00",
+  "treatmentDescriptions": "Type 2 Diabetes MellitusTrulicity is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise• as monotherapy when metformin is considered inappropriate due to intolerance or contraindications• in addition to other medicinal products for the treatment of diabetes.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DULAGLUTIDE 1.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BX14",
+      "name": "DULAGLUTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRULICITY 0.75 MG/0.5 ML 4 SYR-PEN",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7841",
+        "yarpa": "32988",
+        "pharmasoft": "20810",
+        "barcode": "7290008139397"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 321.0341292,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 377.2151018,
+        "maxPriceWithVAT": 445.1138004
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:46:27.861385"
+  }
+}

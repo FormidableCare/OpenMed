@@ -1,0 +1,64 @@
+{
+  "catalogId": "5358c1bd-e175-4288-bd04-7231399ec2a7",
+  "name": "TRANSLARNA 1000 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 28 34267 00",
+  "treatmentDescriptions": "Translarna is indicated for the treatment of Duchenne muscular dystrophy resulting from a nonsense mutation in the dystrophin gene, in ambulatory patients aged 2 years and older.  The presence of a nonsense mutation in the dystrophin gene should be determined by genetic testing.",
+  "termsOfIssue": "Prescription required",
+  "form": "granules for oral suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ATALUREN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M09AX03",
+      "name": "ATALUREN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRANSLARNA 125MG 30 SACHETS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7636",
+        "yarpa": "16013",
+        "pharmasoft": "9848"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12273.46324,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 13500.80956,
+        "maxPriceWithVAT": 15930.95458
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:34:43.753983"
+  }
+}

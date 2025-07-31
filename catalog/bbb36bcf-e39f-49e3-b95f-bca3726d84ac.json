@@ -1,0 +1,65 @@
+{
+  "catalogId": "bbb36bcf-e39f-49e3-b95f-bca3726d84ac",
+  "name": "TOBI PODHALER 28 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 05 33412 00",
+  "treatmentDescriptions": "Suppressive therapy of chronic pulmonary infection due to Pseudomonas aeruginosa in adults and children aged 6 years and older with cystic fibrosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "inhalation powder hard capsules",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TOBRAMYCIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01GB01",
+      "name": "TOBRAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TOBI PODHALER 28MG 224INH HARD CAPS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 224.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PA/AL/PVC",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6965",
+        "yarpa": "26220",
+        "pharmasoft": "20720",
+        "barcode": "7290006257543"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8443.963154,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9288.359469,
+        "maxPriceWithVAT": 10960.26369
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:23:43.914994"
+  }
+}

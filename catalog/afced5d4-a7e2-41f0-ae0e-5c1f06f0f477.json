@@ -1,0 +1,64 @@
+{
+  "catalogId": "afced5d4-a7e2-41f0-ae0e-5c1f06f0f477",
+  "name": "THEOTRIM 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 47 23896 00",
+  "treatmentDescriptions": "Long acting bronchodilator in the symptomatic relief and/or prevention of asthma and reversible bronchospasm associated with chronic bronchitis and emphysema",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets slow release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "THEOPHYLLINE ANHYDROUS",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03DA04",
+      "name": "THEOPHYLLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "THEOTRIM 200 30 SR TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2214",
+        "yarpa": "2261",
+        "pharmasoft": "20101"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.74,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 10.6038,
+        "maxPriceWithVAT": 12.512484
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:19:05.599036"
+  }
+}

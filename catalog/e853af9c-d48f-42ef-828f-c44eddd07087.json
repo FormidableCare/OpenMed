@@ -1,0 +1,65 @@
+{
+  "catalogId": "e853af9c-d48f-42ef-828f-c44eddd07087",
+  "name": "TEVIMBRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 72 37815 00",
+  "treatmentDescriptions": "Oesophageal squamous cell carcinoma (OSCC)Tevimbra as monotherapy is indicated for the treatment of adult patients with unresectable, locally advanced or metastatic oesophageal squamous cell carcinoma after prior platinum-based chemotherapy.Non-small cell lung cancer (NSCLC)Tevimbra in combination with carboplatin and either paclitaxel or nab-paclitaxel is indicated for the first-line treatment of adult patients with squamous non-small cell lung cancer who have: • locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or • metastatic NSCLC.  Tevimbra as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer after prior platinum-based therapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving tislelizumab.Gastric CancerTevimbra, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of adults with unresectable or metastatic HER2-negative gastric or gastroesophageal junction adenocarcinoma (G/GEJ) whose tumors express PD-L1 (&#8805;1).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TISLELIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A01FF09",
+      "name": "TISLELIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEVIMBRA 10MG/ML 1 VIAL",
+      "manufacturer": {
+        "name": "בייגין",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9545",
+        "yarpa": "63052",
+        "pharmasoft": "24838",
+        "barcode": "7290020225009"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7900.0,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8690.0,
+        "maxPriceWithVAT": 10254.19954
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:18:13.643625"
+  }
+}

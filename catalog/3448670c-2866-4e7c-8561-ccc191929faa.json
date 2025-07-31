@@ -1,0 +1,64 @@
+{
+  "catalogId": "3448670c-2866-4e7c-8561-ccc191929faa",
+  "name": "VELTASSA 8.4 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 52 35491 00",
+  "treatmentDescriptions": "Veltassa is indicated for the treatment of hyperkalaemia in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PATIROMER AS SORBITEX CALCIUM 8.4 G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AE09",
+      "name": "PATIROMER CALCIUM "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VELTASSA 8.4 G 30 SACHETS",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8313",
+        "yarpa": "30764",
+        "pharmasoft": "22452"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 812.4144535,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 954.5869829,
+        "maxPriceWithVAT": 1126.41259
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:03:30.340054"
+  }
+}

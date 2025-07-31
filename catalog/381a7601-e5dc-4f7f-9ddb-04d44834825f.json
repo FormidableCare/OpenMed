@@ -1,0 +1,65 @@
+{
+  "catalogId": "381a7601-e5dc-4f7f-9ddb-04d44834825f",
+  "name": "TERROSA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 82 35787 00",
+  "treatmentDescriptions": "Terrosa is indicated* For the treatment of postmenopausal women with osteoporosis at high risk for fracture (defined herein as having a history of osteoporotic fracture or multiple risk factors for fracture) or who have failed or are intolerant to other available osteoporosis therapy. In postmenopausal women with osteoporosis Terrosa reduces the risk of vertebral and nonvertebral fractures . * To increase bone mass in men with primary or hypogonadal osteoporosis at high risk for fracture, or who have failed or are intolerant to other available osteoporosis therapy. * For the treatment of men and women with osteoporosis associated with sustained systemic glucocorticoid therapy (daily dosage equivalent to 5 mg or greater of prednisone) at high risk for fracture or who have failed or are intolerant to other available osteoporosis therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TERIPARATIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H05AA02",
+      "name": "TERIPARATIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TERROSA 250 MCG/  ML",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8546",
+        "yarpa": "58884",
+        "pharmasoft": "20992",
+        "barcode": "7290015912679"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 763.6019362,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 897.232275,
+        "maxPriceWithVAT": 1058.734037
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:16:20.635518"
+  }
+}

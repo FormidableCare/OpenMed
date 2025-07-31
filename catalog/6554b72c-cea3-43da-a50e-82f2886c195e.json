@@ -1,0 +1,65 @@
+{
+  "catalogId": "6554b72c-cea3-43da-a50e-82f2886c195e",
+  "name": "VENTOLIN DISKUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 97 30674 00",
+  "treatmentDescriptions": "Relief of bronchospasm in broncial asthma of all types, chronic, bronchitis and emphysema.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALBUTAMOL AS SULFATE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC02",
+      "name": "SALBUTAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENTOLIN RESP. SOLUTION FOR INHALATION 20CC",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER LAMINATED",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "290",
+        "yarpa": "2372",
+        "pharmasoft": "22056",
+        "barcode": "7290008085410"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.208867,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.46614779,
+        "maxPriceWithVAT": 22.97005337
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:05:56.690076"
+  }
+}

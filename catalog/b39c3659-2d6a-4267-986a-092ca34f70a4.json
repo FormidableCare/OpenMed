@@ -1,0 +1,64 @@
+{
+  "catalogId": "b39c3659-2d6a-4267-986a-092ca34f70a4",
+  "name": "TORISEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 18 32044 00",
+  "treatmentDescriptions": "First line treatment of patients with advanced renal cell carcinoma.Torisel is indicated for the treatment of adult patients with relapsed and/or refractory mantle cell lymphoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEMSIROLIMUS/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE09",
+      "name": "TEMSIROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TORISEL 25 MG/ML VIAL 1.2ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6993",
+        "yarpa": "83864",
+        "pharmasoft": "20728"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2719.559469,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2991.515415,
+        "maxPriceWithVAT": 3529.988033
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:27:40.205581"
+  }
+}

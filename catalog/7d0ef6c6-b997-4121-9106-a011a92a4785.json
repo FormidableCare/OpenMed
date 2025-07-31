@@ -1,0 +1,64 @@
+{
+  "catalogId": "7d0ef6c6-b997-4121-9106-a011a92a4785",
+  "name": "VENTAVIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 14 31070 00",
+  "treatmentDescriptions": "Treatment of patients with primary pulmonary hypertension (PPH) or secondary pulmonary hypertension (SPH) . Due to connective tissue disease or drug - induced, in moderate or severe stages of the disease. In addition, treatment of moderate or severe secondary pulmonary hypertension due to chronic pulmonary thromboembolism, where surgery is not possible.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for inhalation",
+  "route": "inhalation with nebuliser",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ILOPROST 0.01  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC11",
+      "name": "ILOPROST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VENTAVIS SOL FOR INH 0.01MG/ML 30AMP 2ML",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4973",
+        "yarpa": "69523",
+        "pharmasoft": "22353"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2868.576212,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3155.433833,
+        "maxPriceWithVAT": 3723.411757
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:05:09.642887"
+  }
+}

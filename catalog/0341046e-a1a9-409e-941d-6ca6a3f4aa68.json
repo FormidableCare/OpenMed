@@ -1,0 +1,64 @@
+{
+  "catalogId": "0341046e-a1a9-409e-941d-6ca6a3f4aa68",
+  "name": "VECTIBIX 20 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 92 32951 00",
+  "treatmentDescriptions": "In combination with chemotherapy for the treatment of unresectable, advanced or recurrent colorectal cancer (mCRC) with wild-type RAS.Monotherapy for the treatment of patients with metastatic colorectal carcinoma with wild-type RAS after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy regimens.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v. infusion",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANITUMUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC08",
+      "name": "PANITUMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VECTIBIX 20MG/ML 5ML (100MG) VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6331",
+        "yarpa": "83845",
+        "pharmasoft": "22340"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1334.376584,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1567.892487,
+        "maxPriceWithVAT": 1850.113052
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:01:31.718447"
+  }
+}

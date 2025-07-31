@@ -1,0 +1,64 @@
+{
+  "catalogId": "9effd351-f7cc-4725-93ad-eaa32bbc747e",
+  "name": "TUKYSA 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 33 36951 99",
+  "treatmentDescriptions": "TUKYSA is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2-positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TUCATINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EH03",
+      "name": "TUCATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TUKYSA 50 MG 88 TABS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 88.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/OPA/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9038",
+        "yarpa": "63175",
+        "barcode": "5415062123010"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5989.535666,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6588.489233,
+        "maxPriceWithVAT": 7774.416949
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:48:44.195060"
+  }
+}

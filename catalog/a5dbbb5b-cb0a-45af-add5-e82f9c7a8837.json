@@ -1,0 +1,64 @@
+{
+  "catalogId": "a5dbbb5b-cb0a-45af-add5-e82f9c7a8837",
+  "name": "EMTRICITABINE/TENOFOVIR TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 68 35319 00",
+  "treatmentDescriptions": "Treatment of HIV-1 infection: Emtricitabine/Tenofovir Teva® is indicated in combination with other anti-retroviral medicinal products for the treatment of HIV-1 infected adults over 18 years of age.Pre-exposure prophylaxis (PrEP): Emtricitabine/Tenofovir Teva® is indicated in combination with safer sex practices for pre-exposure prophylaxis to reduce the risk of sexually acquired HIV-1 infection in adults at high risk.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR DISOPROXIL AS PHOSPHATE, EMTRICITABINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR03",
+      "name": "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TENOFOVIR TEVA 245MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7351",
+        "yarpa": "51571",
+        "pharmasoft": "20782"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 894.0496,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1050.50828,
+        "maxPriceWithVAT": 1239.59977
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:12:25.134957"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "216319b9-caa6-4c57-80d2-1c9015376c09",
+  "name": "TRANDATE INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "041 03 23598 21",
+  "treatmentDescriptions": "Treatment of hypertension when rapid control of blood pressure is essential.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LABETALOL HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AG01",
+      "name": "LABETALOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRANDATE 100MG 50TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "285",
+        "yarpa": "2222",
+        "pharmasoft": "20167",
+        "barcode": "7290008086899"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 23.708775,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 32.48102175,
+        "maxPriceWithVAT": 38.32760396
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:33:43.905866"
+  }
+}

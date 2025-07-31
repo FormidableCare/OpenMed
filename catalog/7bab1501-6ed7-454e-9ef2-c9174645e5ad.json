@@ -1,0 +1,65 @@
+{
+  "catalogId": "7bab1501-6ed7-454e-9ef2-c9174645e5ad",
+  "name": "TRUXIMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 74 35585 00",
+  "treatmentDescriptions": "Truxima is indicated in adults for the following indications: * Non-Hodgkin’s lymphoma (NHL) Truxima is indicated for the treatment of patients with relapsed or refractory low-grade or follicular, B-cell non-hodgkin’s lymphoma. Truxima is indicated for the treatment of previously untreated patients with low-grade or follicular lymphoma in combination with chemotherapy. Truxima is indicated for the treatment of patients with CD20 positive diffuse large B-cell non-Hodgkin's lymphoma in combination with CHOP chemotherapy. Truxima maintenance therapy is indicated for the treatment of follicular lymphoma patients responding to induction therapy.* Chronic lymphocytic leukaemia (CLL)Truxima in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory CLL. Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including rituximab or patients refractory to previous rituximab plus chemotherapy.* Granulomatosis with polyangiitis and microscopic polyangiitisTruxima, in combination with glucocorticoids, is indicated for the treatment of adult patients with granulomatosis with polyangiitis (GPA)  (Wegener’s Granulomatosis (WG)) and microscopic polyangiitis (MPA).*pemphigus vulgaris (PV):Truxima is indicated for the treatment of adult patients with moderate to severe pemphigus vulgaris (PV).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RITUXIMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC02",
+      "name": "RITUXIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRUXIMA 500MG/50 ML 1 VIAL",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 10 ML GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8343",
+        "yarpa": "30893",
+        "pharmasoft": "20865",
+        "barcode": "7290012162404"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3020.062306,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3322.068537,
+        "maxPriceWithVAT": 3920.040699
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:47:50.110500"
+  }
+}

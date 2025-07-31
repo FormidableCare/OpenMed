@@ -1,0 +1,64 @@
+{
+  "catalogId": "179cd801-3e7f-47d0-a561-dfafc74f5704",
+  "name": "TRIXEO AEROSPHERE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 60 36905 99",
+  "treatmentDescriptions": "Trixeo Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist or combination of a long-acting beta2-agonist and a long-acting muscarinic antagonist",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FORMOTEROL FUMARATE DIHYDRATE, GLYCOPYRRONIUM 7.2  MCG, BUDESONIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BA02",
+      "name": "BUDESONIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRIXEO AEROSPHERE 5/7.2/160 MCG 120 DOSES",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "METERED DOSE INHALER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9009",
+        "yarpa": "76804",
+        "pharmasoft": "17614"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 202.580892,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 238.0325481,
+        "maxPriceWithVAT": 280.8783943
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:45:13.109448"
+  }
+}

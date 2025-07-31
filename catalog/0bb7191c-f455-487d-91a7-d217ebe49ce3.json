@@ -1,0 +1,65 @@
+{
+  "catalogId": "0bb7191c-f455-487d-91a7-d217ebe49ce3",
+  "name": "TYSABRI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 45 31505 00",
+  "treatmentDescriptions": "Tysabri is indicated as monotherapy for the treatment of patients with relapsing forms of multiple sclerosis . To delay the accumulation of physical disability and reduce the frequency of clinical exacerbations. The safety and efficacy of Tysabri beyond two years are unknown. Because Tysabri increases the risk of progressive multifocal leukoencephalopathy (PML), an opportunistic viral infection of the brain that usually leads to death or severe disability. Tysabri is generally recommended for patients who have had an inadequate response to, or are unable to tolerate, alternate multiple sclerosis therapies. Safety and efficacy in patients with chronic progressive multiple sclerosis have not been studied.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NATALIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA23",
+      "name": "NATALIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TYSABRI 300MG/15ML CONCENTRATE FOR SOL. FOR INF.",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6128",
+        "yarpa": "16991",
+        "pharmasoft": "20680",
+        "barcode": "7290008128377"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4842.114846,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5326.326331,
+        "maxPriceWithVAT": 6285.064791
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:49:40.300959"
+  }
+}

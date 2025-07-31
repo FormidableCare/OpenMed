@@ -1,0 +1,65 @@
+{
+  "catalogId": "5eed529b-416a-4458-9cef-bc2bf112b19e",
+  "name": "TRAMAL INJECTION 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "125 54 30477 00",
+  "treatmentDescriptions": "Moderate to severe pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAMADOL HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AX02",
+      "name": "TRAMADOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRAMAL SR 100MG 30TAB",
+      "manufacturer": {
+        "name": "ליברה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4818",
+        "yarpa": "57212",
+        "pharmasoft": "20002",
+        "barcode": "7290008872140"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 23.0695,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.605215,
+        "maxPriceWithVAT": 37.2941537
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:33:27.511447"
+  }
+}

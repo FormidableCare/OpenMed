@@ -1,0 +1,64 @@
+{
+  "catalogId": "7b710be6-8ad2-4af2-a47d-8e37c4fe5937",
+  "name": "TRAMARAZ 100 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 88 34205 00",
+  "treatmentDescriptions": "Moderate to severe pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAMADOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AX02",
+      "name": "TRAMADOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRAMARAZ 100 MG/ML 10 ML",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8232",
+        "yarpa": "52434",
+        "barcode": "8022086001025"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.6058,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.529946,
+        "maxPriceWithVAT": 17.14533628
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:33:33.034670"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "28bfb0a4-95ed-45d5-acef-9a8355e1ecd4",
+  "name": "VEOZA 45 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 65 37787 99",
+  "treatmentDescriptions": "Veoza is indicated for the treatment of moderate to severe vasomotor symptoms (VMS) associated with menopause.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FEZOLINETANT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G02CX06",
+      "name": "FEZOLINETANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VEOZA 45 MG 30 TAB",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9496",
+        "yarpa": "28853",
+        "barcode": "8718692517400"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 228.922607,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 268.9840632,
+        "maxPriceWithVAT": 317.4011805
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:06:21.480604"
+  }
+}

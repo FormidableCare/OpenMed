@@ -1,0 +1,64 @@
+{
+  "catalogId": "e3e3ea74-dbeb-4df0-bb18-74202b1c1b7e",
+  "name": "TRIKAFTA 100MG/50MG/75MG&150MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 03 36448 99",
+  "treatmentDescriptions": "Trikafta is indicated for the treatment of cystic fibrosis (CF) in patients aged 12 years and older who have at least one F508del mutation in the CFTR gene or a mutation in the CFTR gene that is responsive based on in vitro data.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IVACAFTOR, TEZACAFTOR, ELEXACAFTOR, IVACAFTOR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R07AX32",
+      "name": "IVACAFTOR, TEZACAFTOR AND ELEXACAFTOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRIKAFTA 100MG/50MG/75MG/150MG",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ACLAR",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8956",
+        "yarpa": "64957",
+        "pharmasoft": "17194"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:42:32.922560"
+  }
+}

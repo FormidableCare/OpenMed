@@ -1,0 +1,64 @@
+{
+  "catalogId": "fe96f589-1ca5-4184-9b83-b67d40283863",
+  "name": "TREMFYA 100 MG/ML S.C",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 54 35346 00",
+  "treatmentDescriptions": "Plaque psoriasisTremfya is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.Psoriatic arthritisTremfya, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis in adult patients who have had an inadequate response or who have been intolerant to a prior disease-modifying antirheumatic drug (DMARD) therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GUSELKUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC16",
+      "name": "GUSELKUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TREMFYA SYRRINGE PREFILLED 1ML",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8201",
+        "yarpa": "4221",
+        "pharmasoft": "20856"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6720.165222,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7392.181744,
+        "maxPriceWithVAT": 8722.77407
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:39:09.471208"
+  }
+}

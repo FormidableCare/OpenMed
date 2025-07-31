@@ -1,0 +1,64 @@
+{
+  "catalogId": "2a16cee5-ecb3-4e94-9f74-8d43b6ac8cf8",
+  "name": "VERORAB",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 97 31875 00",
+  "treatmentDescriptions": "Prevention of rabies in children and adults. It can be used before and after exposure, as a primary vaccination or as a booster dose.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RABIES, INACTIVATED, WHOLE VIRUS 3.25 IU/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BG01",
+      "name": "RABIES, INACTIVATED, WHOLE VIRUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VERORAB 2.5IU 1VIAL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7529",
+        "yarpa": "61755",
+        "barcode": "7290101535409"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 201.1822793,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 236.3891781,
+        "maxPriceWithVAT": 278.9392178
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:07:24.167755"
+  }
+}

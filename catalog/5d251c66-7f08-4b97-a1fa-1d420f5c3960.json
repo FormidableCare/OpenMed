@@ -1,0 +1,65 @@
+{
+  "catalogId": "5d251c66-7f08-4b97-a1fa-1d420f5c3960",
+  "name": "TRAVATAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 37 30541 20",
+  "treatmentDescriptions": "For the reduction of elevated intra ocular pressure in patients with open-angle glaucoma or ocular hypertension who are intolerant of other IOP lowering medications or insufficiently responsive to another IOP lowering medication.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAVOPROST 0.004 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EE04",
+      "name": "TRAVOPROST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRAVATAN 0.004% OPHT SOL 2.5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.5,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4598",
+        "yarpa": "19765",
+        "pharmasoft": "20713",
+        "barcode": "729001636928"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.36047175,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.3738463,
+        "maxPriceWithVAT": 39.38113863
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:36:29.161468"
+  }
+}

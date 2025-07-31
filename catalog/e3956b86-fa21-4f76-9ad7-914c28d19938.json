@@ -1,0 +1,65 @@
+{
+  "catalogId": "e3956b86-fa21-4f76-9ad7-914c28d19938",
+  "name": "TESTOMAX 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 20 31297 00",
+  "treatmentDescriptions": "Testosterone replacement therapy for males hypogonadism when testosterone deficiency has been confirmed by clinical features and biochemical tests.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TESTOSTERONE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03BA03",
+      "name": "TESTOSTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TESTOMAX 25MG 30SACHX2.5G",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6034",
+        "yarpa": "75520",
+        "pharmasoft": "20621",
+        "barcode": "7290004850463"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 96.2813,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 120.351625,
+        "maxPriceWithVAT": 142.0149175
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:16:32.102693"
+  }
+}

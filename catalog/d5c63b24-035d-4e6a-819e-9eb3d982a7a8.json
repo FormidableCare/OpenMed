@@ -1,0 +1,62 @@
+{
+  "catalogId": "d5c63b24-035d-4e6a-819e-9eb3d982a7a8",
+  "name": "VABYSMO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 14 37335 00",
+  "treatmentDescriptions": "Vabysmo is a vascular endothelial growth factor (VEGF) and angiopoietin 2 (Ang-2) inhibitor indicated for the treatment of patients with:•\tNeovascular (Wet) Age-Related Macular Degeneration (nAMD) •\tDiabetic Macular Edema (DME)•\tvisual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "intravitreal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FARICIMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01LA09",
+      "name": "FARICIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VABYSMO 240MG/2 ML (6 MG/0.05 ML) 1 VIAL",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED SYRINGE  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9261"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3455.282507,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3800.810758,
+        "maxPriceWithVAT": 4484.956495
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:56:18.759058"
+  }
+}

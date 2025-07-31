@@ -1,0 +1,64 @@
+{
+  "catalogId": "13104843-f504-48d8-96bf-dd49b9dc60f4",
+  "name": "VASODIP COMBO 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 06 31726 00",
+  "treatmentDescriptions": "Treatment of essential hypertension in patients whose blood pressure cannot be adequately controlled under Lercanidipine monotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LERCANIDIPINE HYDROCHLORIDE, ENALAPRIL MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09AA02",
+      "name": "ENALAPRIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "VASODIP COMBO 10 30TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/ALUMINIUM/PVC",
+      "shelfLife": "24 ",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6357",
+        "yarpa": "84550",
+        "pharmasoft": "22305"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.33013534,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.33228541,
+        "maxPriceWithVAT": 39.33209679
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T10:00:23.385766"
+  }
+}

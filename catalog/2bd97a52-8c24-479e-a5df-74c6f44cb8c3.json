@@ -1,0 +1,65 @@
+{
+  "catalogId": "2bd97a52-8c24-479e-a5df-74c6f44cb8c3",
+  "name": "TRIUMEQ",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 49 34304 00",
+  "treatmentDescriptions": "Triumeq is indicated for the treatment of Human Immunodeficiency Virus (HIV) infected adults and adolescents above 12 years of age weighing at least 40 kg.Before initiating treatment with abacavir-containing products, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin. Abacavir should not be used in patients known to carry the HLA-B*5701 allele.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOLUTEGRAVIR AS SODIUM, ABACAVIR AS SULFATE, LAMIVUDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR13",
+      "name": "LAMIVUDINE AND ABACAVIR AND DOLUTEGRAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRIUMEQ 30TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7555",
+        "yarpa": "75758",
+        "pharmasoft": "20797",
+        "barcode": "7290014547155"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2893.89131,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3183.280441,
+        "maxPriceWithVAT": 3756.270753
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:44:55.177390"
+  }
+}

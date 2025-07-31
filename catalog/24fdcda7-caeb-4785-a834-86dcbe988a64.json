@@ -1,0 +1,65 @@
+{
+  "catalogId": "24fdcda7-caeb-4785-a834-86dcbe988a64",
+  "name": "THREOLONE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 40 21618 00",
+  "treatmentDescriptions": "Infected eczema, pruritic lesions, angular stomatitis, impetigo, external otitis and pyoderma and other skin infections caused by chloramphenicol susceptible organisms.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREDNISOLONE 0.5 %, CHLORAMPHENICOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07XA02",
+      "name": "PREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "THREOLONE OINT 10GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1426",
+        "yarpa": "2183",
+        "pharmasoft": "20113",
+        "barcode": "7290008001458"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:19:26.427027"
+  }
+}
