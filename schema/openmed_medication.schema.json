@@ -58,6 +58,7 @@
       "type": "string",
       "description": "Current status of the medication",
       "enum": [
+        "draft",
         "active",
         "inactive",
         "discontinued",
