@@ -1,7 +1,7 @@
 {
   "catalogId": "0fcd2b7c-9021-4c73-9740-77a18f51f5b9",
   "name": "VELTASSA 16.8 G",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "161 53 35492 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "V03AE09",
-      "name": "PATIROMER CALCIUM "
+      "name": "PATIROMER CALCIUM"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T10:03:17.294566"
+    "lastUpdated": "2025-07-31T22:09:11.630102"
   }
 }

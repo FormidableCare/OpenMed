@@ -1,7 +1,7 @@
 {
   "catalogId": "5be50039-fd3c-4998-8f17-85697cdab69f",
   "name": "TRELEGY ELLIPTA 184 / 55 / 22 MCG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "168 61 36629 99",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T09:38:18.988844"
+    "lastUpdated": "2025-07-31T22:09:12.343602"
   }
 }

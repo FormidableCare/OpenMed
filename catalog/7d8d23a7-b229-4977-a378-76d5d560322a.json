@@ -1,7 +1,7 @@
 {
   "catalogId": "7d8d23a7-b229-4977-a378-76d5d560322a",
   "name": "CRESTOR ® 5 MG",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "139 22 31615 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 33.79,
         "maxPriceWithVAT": 39.8722
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:22:03.134806"
+    "lastUpdated": "2025-07-31T22:09:12.668990"
   }
 }

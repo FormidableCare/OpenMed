@@ -1,7 +1,7 @@
 {
   "catalogId": "8ad26623-b367-49e7-87de-f349e622b796",
   "name": "NIPRUSS ®",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "164 33 35970 00",
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T05:47:24.456243"
+    "lastUpdated": "2025-07-31T22:09:12.783350"
   }
 }

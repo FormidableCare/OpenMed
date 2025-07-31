@@ -1,7 +1,7 @@
 {
   "catalogId": "23df6efe-6dcb-4fc3-8f9c-20aea6e65de4",
   "name": "TIPTIPOT AFALPI",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "121 43 30172 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -45,13 +45,13 @@
       "codes": {
         "moh": "5058",
         "pharmasoft": "20332",
-        "barcode": " 7290008104579"
+        "barcode": "7290008104579"
       },
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 27.03,
         "maxPriceWithVAT": 31.8954
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:29:38.942233"
+    "lastUpdated": "2025-07-31T22:09:11.826820"
   }
 }

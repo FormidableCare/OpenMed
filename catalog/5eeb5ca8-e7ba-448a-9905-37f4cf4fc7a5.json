@@ -1,7 +1,7 @@
 {
   "catalogId": "5eeb5ca8-e7ba-448a-9905-37f4cf4fc7a5",
   "name": "STRENSIQ ® 100 MG/ML",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "155 44 34545 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:46:27.389543"
+    "lastUpdated": "2025-07-31T22:09:12.371422"
   }
 }

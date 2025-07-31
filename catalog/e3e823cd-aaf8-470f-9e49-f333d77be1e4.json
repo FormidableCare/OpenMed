@@ -1,7 +1,7 @@
 {
   "catalogId": "e3e823cd-aaf8-470f-9e49-f333d77be1e4",
   "name": "AGISTEN ALOEVERA CREAM",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "043 17 22461 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 29.4,
         "maxPriceWithVAT": 34.692
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:07:40.368496"
+    "lastUpdated": "2025-07-31T22:09:13.709015"
   }
 }

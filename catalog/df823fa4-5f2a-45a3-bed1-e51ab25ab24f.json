@@ -1,7 +1,7 @@
 {
   "catalogId": "df823fa4-5f2a-45a3-bed1-e51ab25ab24f",
   "name": "URSOLIT 100",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "019 25 20542 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T09:55:19.651620"
+    "lastUpdated": "2025-07-31T22:09:13.671029"
   }
 }

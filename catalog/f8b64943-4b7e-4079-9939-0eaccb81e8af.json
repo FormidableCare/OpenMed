@@ -1,7 +1,7 @@
 {
   "catalogId": "f8b64943-4b7e-4079-9939-0eaccb81e8af",
   "name": "CANESTEN V",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "149 92 33642 02",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 35.34,
         "maxPriceWithVAT": 41.7012
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:23:24.733513"
+    "lastUpdated": "2025-07-31T22:09:13.859415"
   }
 }

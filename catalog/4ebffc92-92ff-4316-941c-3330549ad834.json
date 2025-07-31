@@ -1,7 +1,7 @@
 {
   "catalogId": "4ebffc92-92ff-4316-941c-3330549ad834",
   "name": "ALRIN AF TEVA",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 61 35825 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 32.31,
         "maxPriceWithVAT": 38.1258
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:12:48.543092"
+    "lastUpdated": "2025-07-31T22:09:12.235796"
   }
 }

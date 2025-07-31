@@ -1,7 +1,7 @@
 {
   "catalogId": "4ed871ca-7cc8-4855-a037-96de861ad2c0",
   "name": "PHYSICARE GEL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "136 05 31442 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 22.03,
         "maxPriceWithVAT": 25.9954
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:47:52.995486"
+    "lastUpdated": "2025-07-31T22:09:12.236237"
   }
 }

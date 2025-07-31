@@ -1,7 +1,7 @@
 {
   "catalogId": "7538bd38-2792-4af9-bd40-5f1a5661d493",
   "name": "OTOMYCIN",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "015 86 24749 00",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T06:18:49.332454"
+    "lastUpdated": "2025-07-31T22:09:12.601382"
   }
 }

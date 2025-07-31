@@ -1,7 +1,7 @@
 {
   "catalogId": "da934fb1-2a67-4a4c-8597-9f27e9a5f216",
   "name": "DES-LORATADIM",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "152 01 32034 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 50.0,
         "maxPriceWithVAT": 59.0
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:22:52.660552"
+    "lastUpdated": "2025-07-31T22:09:13.612972"
   }
 }

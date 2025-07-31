@@ -1,7 +1,7 @@
 {
   "catalogId": "83d620ab-303e-4a19-9600-d0d800235810",
   "name": "TUMS SMOOTHIES EX PEPPERMINT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "134 94 31175 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.22,
         "maxPriceWithVAT": 35.6596
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:31:21.019930"
+    "lastUpdated": "2025-07-31T22:09:12.717388"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "d511b6f7-de7f-4312-95f1-e0708a8fa8a3",
   "name": "HEPARIN SODIUM B.BRAUN 5000 IU/ML",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "172 47 36469 00",
@@ -28,7 +28,7 @@
     {
       "name": "HEPARIN BICHSEL 5000 IU/ML 5ML 10 AMP",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:45:08.389745"
+    "lastUpdated": "2025-07-31T22:09:13.572576"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "53dbfb9d-0ca8-4243-98c0-8db8344444c3",
   "name": "ESOMED GEL",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "132 93 30978 00",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T02:36:13.414709"
+    "lastUpdated": "2025-07-31T22:09:12.284554"
   }
 }

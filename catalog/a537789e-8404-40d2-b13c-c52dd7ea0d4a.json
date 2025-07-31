@@ -1,7 +1,7 @@
 {
   "catalogId": "a537789e-8404-40d2-b13c-c52dd7ea0d4a",
   "name": "PADCEV 20 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "167 37 36604 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "L01XC36",
-      "name": "ENFORTUMAB VEDOTIN "
+      "name": "ENFORTUMAB VEDOTIN"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T03:17:16.227814"
+    "lastUpdated": "2025-07-31T22:09:12.993296"
   }
 }

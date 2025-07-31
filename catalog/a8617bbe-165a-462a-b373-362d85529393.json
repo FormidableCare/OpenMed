@@ -1,7 +1,7 @@
 {
   "catalogId": "a8617bbe-165a-462a-b373-362d85529393",
   "name": "N-ALERGYA",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "155 16 34652 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.68,
         "maxPriceWithVAT": 36.2024
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:28:21.135154"
+    "lastUpdated": "2025-07-31T22:09:13.008836"
   }
 }

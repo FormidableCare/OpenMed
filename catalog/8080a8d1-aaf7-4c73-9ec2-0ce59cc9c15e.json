@@ -1,7 +1,7 @@
 {
   "catalogId": "8080a8d1-aaf7-4c73-9ec2-0ce59cc9c15e",
   "name": "COMAGIS CREAM",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "063 04 26742 00",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T01:26:47.745759"
+    "lastUpdated": "2025-07-31T22:09:12.692911"
   }
 }

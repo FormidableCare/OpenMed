@@ -1,7 +1,7 @@
 {
   "catalogId": "cfd4be07-b0f6-4e15-accd-5da89c69a0fc",
   "name": "NAFPENZAL DC VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "077 64 91961 00",
@@ -22,7 +22,7 @@
     {
       "name": "STREPTOMYCIN 1G VIAL",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -43,15 +43,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T21:33:33.220960"
+    "lastUpdated": "2025-07-31T22:09:13.530585"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "d28a5ddb-cd15-46d5-b382-c9290f341bd0",
   "name": "TARDYFERON",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "135 66 31400 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 22.02,
         "maxPriceWithVAT": 25.9836
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:25:12.408156"
+    "lastUpdated": "2025-07-31T22:09:13.554477"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "f079b0da-0c21-4a1c-9a80-0d362a0cb55b",
   "name": "IRON CARE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 45 34473 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 41.06,
         "maxPriceWithVAT": 48.4508
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:13:38.671671"
+    "lastUpdated": "2025-07-31T22:09:13.799813"
   }
 }

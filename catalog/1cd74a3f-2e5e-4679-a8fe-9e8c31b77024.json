@@ -1,7 +1,7 @@
 {
   "catalogId": "1cd74a3f-2e5e-4679-a8fe-9e8c31b77024",
   "name": "ATOZET10 MG/10 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "156 65 34490 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "C10BA05",
-      "name": "ATORVASTATIN AND EZETIMIBE "
+      "name": "ATORVASTATIN AND EZETIMIBE"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-30T23:30:01.811340"
+    "lastUpdated": "2025-07-31T22:09:11.766230"
   }
 }

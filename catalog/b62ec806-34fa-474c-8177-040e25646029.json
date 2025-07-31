@@ -1,7 +1,7 @@
 {
   "catalogId": "b62ec806-34fa-474c-8177-040e25646029",
   "name": "SWISS RELIEF DUAL RELEASE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "142 10 31815 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 65.38,
         "maxPriceWithVAT": 77.1484
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:24:44.263910"
+    "lastUpdated": "2025-07-31T22:09:13.299884"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "042c29fe-cbd9-4c7a-ae6a-63b1cbf283d1",
   "name": "FOLIRON",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "161 68 34992 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 45.42,
         "maxPriceWithVAT": 53.5956
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:57:21.669985"
+    "lastUpdated": "2025-07-31T22:09:11.505340"
   }
 }

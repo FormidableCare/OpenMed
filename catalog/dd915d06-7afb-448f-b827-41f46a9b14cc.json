@@ -1,7 +1,7 @@
 {
   "catalogId": "dd915d06-7afb-448f-b827-41f46a9b14cc",
   "name": "METADEX XR 10 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "172 56 37337 99",
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T05:16:12.168065"
+    "lastUpdated": "2025-07-31T22:09:13.639864"
   }
 }

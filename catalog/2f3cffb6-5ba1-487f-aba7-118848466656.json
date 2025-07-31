@@ -1,7 +1,7 @@
 {
   "catalogId": "2f3cffb6-5ba1-487f-aba7-118848466656",
   "name": "BENZAC 5 %",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "103 30 27997 00",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 56.28,
         "maxPriceWithVAT": 66.4104
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:17:04.311412"
+    "lastUpdated": "2025-07-31T22:09:11.949365"
   }
 }

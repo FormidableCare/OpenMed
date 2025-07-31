@@ -1,7 +1,7 @@
 {
   "catalogId": "eb05eda8-d744-4509-a64f-d86fe88491e0",
   "name": "FERRIPEL-3 SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "107 47 28826 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 41.06,
         "maxPriceWithVAT": 48.4508
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:54:31.740647"
+    "lastUpdated": "2025-07-31T22:09:13.759004"
   }
 }

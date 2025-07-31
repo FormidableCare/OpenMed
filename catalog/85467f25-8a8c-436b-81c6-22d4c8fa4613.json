@@ -1,7 +1,7 @@
 {
   "catalogId": "85467f25-8a8c-436b-81c6-22d4c8fa4613",
   "name": "CODIVIS SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "132 47 22196 00",
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T01:25:55.062004"
+    "lastUpdated": "2025-07-31T22:09:12.728670"
   }
 }

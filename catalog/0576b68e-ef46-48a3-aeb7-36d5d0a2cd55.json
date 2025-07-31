@@ -1,7 +1,7 @@
 {
   "catalogId": "0576b68e-ef46-48a3-aeb7-36d5d0a2cd55",
   "name": "REMOTIV 250",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "130 71 30720 00",
@@ -45,15 +45,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T07:24:31.588873"
+    "lastUpdated": "2025-07-31T22:09:11.520719"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "959f5c0a-c611-49d0-8224-0db618aad029",
   "name": "YASMIN",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "122 02 30220 00",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T10:39:33.810894"
+    "lastUpdated": "2025-07-31T22:09:12.888548"
   }
 }

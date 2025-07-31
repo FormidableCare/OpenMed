@@ -1,7 +1,7 @@
 {
   "catalogId": "d11d4515-ffd4-4997-9758-ba5d3fc26b82",
   "name": "ELOCOM LOTION",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "137 48 28715 22",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 15.08,
         "maxPriceWithVAT": 17.7944
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:23:48.736338"
+    "lastUpdated": "2025-07-31T22:09:13.542263"
   }
 }

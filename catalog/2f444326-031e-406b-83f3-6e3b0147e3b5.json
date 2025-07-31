@@ -1,7 +1,7 @@
 {
   "catalogId": "2f444326-031e-406b-83f3-6e3b0147e3b5",
   "name": "TEARS NATURAL FREE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "127 88 30655 00",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 65.81,
         "maxPriceWithVAT": 77.6558
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:25:57.191414"
+    "lastUpdated": "2025-07-31T22:09:11.950431"
   }
 }

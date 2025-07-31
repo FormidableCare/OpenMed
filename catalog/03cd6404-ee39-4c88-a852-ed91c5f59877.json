@@ -1,7 +1,7 @@
 {
   "catalogId": "03cd6404-ee39-4c88-a852-ed91c5f59877",
   "name": "HEMAFER",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "150 66 33806 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 51.24,
         "maxPriceWithVAT": 60.4632
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:03:05.075159"
+    "lastUpdated": "2025-07-31T22:09:11.502669"
   }
 }

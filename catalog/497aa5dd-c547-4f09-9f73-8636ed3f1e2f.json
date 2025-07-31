@@ -1,7 +1,7 @@
 {
   "catalogId": "497aa5dd-c547-4f09-9f73-8636ed3f1e2f",
   "name": "AGIOCUR",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "062 97 25777 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 42.13,
         "maxPriceWithVAT": 49.7134
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:06:03.991609"
+    "lastUpdated": "2025-07-31T22:09:12.182243"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "f93c9357-f636-4948-ac89-480eedac708b",
   "name": "LOSEC 20 MG",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "139 78 31879 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 42.47,
         "maxPriceWithVAT": 50.1146
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:23:31.557110"
+    "lastUpdated": "2025-07-31T22:09:13.863513"
   }
 }

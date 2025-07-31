@@ -1,7 +1,7 @@
 {
   "catalogId": "96eedcc8-16dd-438a-a322-38e4ede9ef3d",
   "name": "GASPAN ®",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "165 98 36182 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 43.25,
         "maxPriceWithVAT": 51.035
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:58:27.398645"
+    "lastUpdated": "2025-07-31T22:09:12.899900"
   }
 }

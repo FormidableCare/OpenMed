@@ -1,7 +1,7 @@
 {
   "catalogId": "871526aa-5d5d-4e87-bbeb-7f830cf9c5ae",
   "name": "BREXIN TABLETS",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "136 61 29695 00",
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T00:42:13.337413"
+    "lastUpdated": "2025-07-31T22:09:12.748599"
   }
 }

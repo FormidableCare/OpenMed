@@ -1,7 +1,7 @@
 {
   "catalogId": "792112ca-cd79-48c5-996b-70231ce7c234",
   "name": "RELAXINE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "115 58 29788 00",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -42,8 +42,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 57.26,
         "maxPriceWithVAT": 67.5668
       }
@@ -51,6 +51,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:55:14.341678"
+    "lastUpdated": "2025-07-31T22:09:12.624984"
   }
 }

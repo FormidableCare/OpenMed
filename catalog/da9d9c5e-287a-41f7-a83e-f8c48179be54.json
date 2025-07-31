@@ -1,7 +1,7 @@
 {
   "catalogId": "da9d9c5e-287a-41f7-a83e-f8c48179be54",
   "name": "NUROFEN GEL 5 %",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "134 23 31074 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 22.15,
         "maxPriceWithVAT": 26.137
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:37:25.121416"
+    "lastUpdated": "2025-07-31T22:09:13.613261"
   }
 }

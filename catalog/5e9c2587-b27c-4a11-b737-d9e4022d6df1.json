@@ -1,7 +1,7 @@
 {
   "catalogId": "5e9c2587-b27c-4a11-b737-d9e4022d6df1",
   "name": "ASPIRIN C",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "057 86 24955 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 34.39,
         "maxPriceWithVAT": 40.5802
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:14:08.230982"
+    "lastUpdated": "2025-07-31T22:09:12.368435"
   }
 }

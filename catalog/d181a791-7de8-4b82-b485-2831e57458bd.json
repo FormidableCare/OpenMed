@@ -1,7 +1,7 @@
 {
   "catalogId": "d181a791-7de8-4b82-b485-2831e57458bd",
   "name": "EUCREAS 50/1000 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "147 90 33627 01",
@@ -39,7 +39,7 @@
         "value": 30.0,
         "unit": "units"
       },
-      "packagingDescription": "BLISTER ",
+      "packagingDescription": "BLISTER",
       "shelfLife": "18",
       "storageConditions": "",
       "codes": {
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T02:43:26.783191"
+    "lastUpdated": "2025-07-31T22:09:13.546385"
   }
 }

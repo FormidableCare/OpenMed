@@ -1,7 +1,7 @@
 {
   "catalogId": "894053c0-f44b-4c43-a27b-3825e82eab2f",
   "name": "KALOBA ® SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 31 35357 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 43.16,
         "maxPriceWithVAT": 50.9288
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:15:39.670860"
+    "lastUpdated": "2025-07-31T22:09:12.770746"
   }
 }

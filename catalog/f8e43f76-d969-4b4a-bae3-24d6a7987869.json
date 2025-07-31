@@ -1,7 +1,7 @@
 {
   "catalogId": "f8e43f76-d969-4b4a-bae3-24d6a7987869",
   "name": "HISTAZINE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "109 59 29304 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 37.53,
         "maxPriceWithVAT": 44.2854
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:05:21.609307"
+    "lastUpdated": "2025-07-31T22:09:13.861001"
   }
 }

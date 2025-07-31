@@ -1,7 +1,7 @@
 {
   "catalogId": "75407531-114f-42eb-9e85-86cebfe0ddc5",
   "name": "AGNUCASTON ®",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "159 79 34979 00",
@@ -17,7 +17,7 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "G02CX03",
-      "name": "AGNI CASTI FRUCTUS "
+      "name": "AGNI CASTI FRUCTUS"
     }
   },
   "contraindications": "",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 39.49,
         "maxPriceWithVAT": 46.5982
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:08:36.633634"
+    "lastUpdated": "2025-07-31T22:09:12.601804"
   }
 }

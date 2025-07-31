@@ -1,7 +1,7 @@
 {
   "catalogId": "1cff6a92-5f4e-4492-b9bc-4d731a11fcc1",
   "name": "CICLODERM",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "062 23 26751 00",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T01:11:37.729558"
+    "lastUpdated": "2025-07-31T22:09:11.767020"
   }
 }

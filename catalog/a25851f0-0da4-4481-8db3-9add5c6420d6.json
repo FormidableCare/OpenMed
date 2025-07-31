@@ -1,7 +1,7 @@
 {
   "catalogId": "a25851f0-0da4-4481-8db3-9add5c6420d6",
   "name": "KETOSPRAY 10 %",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "144 45 33067 00",
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T04:25:34.224120"
+    "lastUpdated": "2025-07-31T22:09:12.980278"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "58c91b9b-1d04-48ca-a42c-654b015c8446",
   "name": "LEMOCIN CHERRY",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "117 79 29907 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 25.97,
         "maxPriceWithVAT": 30.6446
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:18:33.875612"
+    "lastUpdated": "2025-07-31T22:09:12.324297"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "0fea5f36-a458-4fd9-9866-323482926e5c",
   "name": "LOPI-CARE TABLETS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "135 81 31537 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 18.64,
         "maxPriceWithVAT": 21.9952
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:21:42.044370"
+    "lastUpdated": "2025-07-31T22:09:11.631361"
   }
 }

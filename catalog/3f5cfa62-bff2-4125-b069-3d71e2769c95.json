@@ -1,7 +1,7 @@
 {
   "catalogId": "3f5cfa62-bff2-4125-b069-3d71e2769c95",
   "name": "IPADINE 2% FORTE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "167 19 36501 99",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 43.44,
         "maxPriceWithVAT": 51.2592
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:13:25.427137"
+    "lastUpdated": "2025-07-31T22:09:12.101640"
   }
 }

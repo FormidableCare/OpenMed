@@ -1,7 +1,7 @@
 {
   "catalogId": "554362ab-24ec-409a-9952-16f76495505e",
   "name": "HISTAFED EXPECTORANT SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "050 31 26252 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 19.73,
         "maxPriceWithVAT": 23.2814
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:04:57.566324"
+    "lastUpdated": "2025-07-31T22:09:12.295691"
   }
 }

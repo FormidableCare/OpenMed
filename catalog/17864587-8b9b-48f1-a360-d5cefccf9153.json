@@ -1,7 +1,7 @@
 {
   "catalogId": "17864587-8b9b-48f1-a360-d5cefccf9153",
   "name": "B-SIX 300 TABLETS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "057 45 21250 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 37.44,
         "maxPriceWithVAT": 44.1792
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:15:39.111314"
+    "lastUpdated": "2025-07-31T22:09:11.712702"
   }
 }

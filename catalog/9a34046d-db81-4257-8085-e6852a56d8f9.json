@@ -1,7 +1,7 @@
 {
   "catalogId": "9a34046d-db81-4257-8085-e6852a56d8f9",
   "name": "HAIRGAIN 5%",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "138 28 31485 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 164.1,
         "maxPriceWithVAT": 193.638
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:35:11.350011"
+    "lastUpdated": "2025-07-31T22:09:12.919543"
   }
 }

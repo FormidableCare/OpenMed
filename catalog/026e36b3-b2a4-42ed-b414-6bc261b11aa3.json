@@ -1,7 +1,7 @@
 {
   "catalogId": "026e36b3-b2a4-42ed-b414-6bc261b11aa3",
   "name": "HYDROXYUREA MEDAC 500 MG",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "168 84 35373 00",
@@ -22,13 +22,13 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
       "name": "HYDROXYUREA 500MG 100CAPS",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:48:25.259656"
+    "lastUpdated": "2025-07-31T22:09:11.488810"
   }
 }

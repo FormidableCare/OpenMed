@@ -1,7 +1,7 @@
 {
   "catalogId": "90231372-b78d-413e-9e1f-cfbbfb09c84e",
   "name": "MIRENA",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "106 74 28833 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -39,7 +39,7 @@
         "value": 1.0,
         "unit": "units"
       },
-      "packagingDescription": "BLISTER ",
+      "packagingDescription": "BLISTER",
       "shelfLife": "36",
       "storageConditions": "",
       "codes": {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T05:27:29.229983"
+    "lastUpdated": "2025-07-31T22:09:12.819672"
   }
 }

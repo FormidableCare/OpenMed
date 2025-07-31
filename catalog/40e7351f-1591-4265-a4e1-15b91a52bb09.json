@@ -1,7 +1,7 @@
 {
   "catalogId": "40e7351f-1591-4265-a4e1-15b91a52bb09",
   "name": "BRONCHOLATE SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "121 24 30198 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 27.95,
         "maxPriceWithVAT": 32.981
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:20:54.568516"
+    "lastUpdated": "2025-07-31T22:09:12.115120"
   }
 }

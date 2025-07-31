@@ -1,7 +1,7 @@
 {
   "catalogId": "fa6af314-0291-491f-a3da-70d2d0ab7f1f",
   "name": "MICROPIRIN 100",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "103 93 28861 01",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 13.59,
         "maxPriceWithVAT": 16.0362
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:25:36.805952"
+    "lastUpdated": "2025-07-31T22:09:13.874223"
   }
 }

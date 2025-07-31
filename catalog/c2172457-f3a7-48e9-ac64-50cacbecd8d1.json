@@ -1,7 +1,7 @@
 {
   "catalogId": "c2172457-f3a7-48e9-ac64-50cacbecd8d1",
   "name": "SEREVENT DISKUS",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "067 16 28303 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -39,7 +39,7 @@
         "value": 60.0,
         "unit": "units"
       },
-      "packagingDescription": "BLISTER ",
+      "packagingDescription": "BLISTER",
       "shelfLife": "24",
       "storageConditions": "",
       "codes": {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:05:56.830527"
+    "lastUpdated": "2025-07-31T22:09:13.423904"
   }
 }

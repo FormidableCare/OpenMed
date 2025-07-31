@@ -1,7 +1,7 @@
 {
   "catalogId": "c9460885-9f1f-40da-876f-3212f787650c",
   "name": "ATROVENT ®",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "130 01 30934 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -39,7 +39,7 @@
         "value": 200.0,
         "unit": "units"
       },
-      "packagingDescription": "INHALER ",
+      "packagingDescription": "INHALER",
       "shelfLife": "36",
       "storageConditions": "",
       "codes": {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T00:26:02.191102"
+    "lastUpdated": "2025-07-31T22:09:13.484851"
   }
 }

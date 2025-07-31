@@ -1,7 +1,7 @@
 {
   "catalogId": "2a7409a3-a956-4505-8024-e39faa05af8d",
   "name": "ISTURISA 1 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "171 12 37207 99",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "H02CA02",
-      "name": "OSILODROSTAT "
+      "name": "OSILODROSTAT"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T04:14:08.114075"
+    "lastUpdated": "2025-07-31T22:09:11.901883"
   }
 }

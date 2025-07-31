@@ -1,7 +1,7 @@
 {
   "catalogId": "313d51c1-8538-455e-8e81-c529159a5b65",
   "name": "CELLCEPT 250 MG",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "111 34 29434 00",
@@ -22,13 +22,13 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
       "name": "CELLCEPT 500MG VIAL",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:05:44.392342"
+    "lastUpdated": "2025-07-31T22:09:11.962363"
   }
 }

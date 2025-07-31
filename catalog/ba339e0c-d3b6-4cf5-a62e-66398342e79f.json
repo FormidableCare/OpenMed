@@ -1,7 +1,7 @@
 {
   "catalogId": "ba339e0c-d3b6-4cf5-a62e-66398342e79f",
   "name": "FLUARIX TETRA",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "152 47 34024 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "J07BB02",
-      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T03:10:08.735260"
+    "lastUpdated": "2025-07-31T22:09:13.358994"
   }
 }

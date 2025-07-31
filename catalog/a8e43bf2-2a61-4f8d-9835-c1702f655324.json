@@ -1,7 +1,7 @@
 {
   "catalogId": "a8e43bf2-2a61-4f8d-9835-c1702f655324",
   "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "066 33 25662 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 32.03,
         "maxPriceWithVAT": 37.7954
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:23:58.943032"
+    "lastUpdated": "2025-07-31T22:09:13.012368"
   }
 }

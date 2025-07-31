@@ -1,7 +1,7 @@
 {
   "catalogId": "9b530ee6-ed6e-41e4-a927-c3b81abb9a6c",
   "name": "MINOXI 2",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "049 97 26155 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 125.0,
         "maxPriceWithVAT": 147.5
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:26:02.254516"
+    "lastUpdated": "2025-07-31T22:09:12.928660"
   }
 }

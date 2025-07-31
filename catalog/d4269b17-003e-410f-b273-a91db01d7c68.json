@@ -1,7 +1,7 @@
 {
   "catalogId": "d4269b17-003e-410f-b273-a91db01d7c68",
   "name": "GRANUPAS",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "160 83 34974 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "J04AA01",
-      "name": "4-AMINOSALICYLIC ACID "
+      "name": "4-AMINOSALICYLIC ACID"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T03:39:11.887011"
+    "lastUpdated": "2025-07-31T22:09:13.564184"
   }
 }

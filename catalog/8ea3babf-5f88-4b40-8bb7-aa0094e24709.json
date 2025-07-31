@@ -1,7 +1,7 @@
 {
   "catalogId": "8ea3babf-5f88-4b40-8bb7-aa0094e24709",
   "name": "FEXOFENADINE - TRIMA 120 MG",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 12 35365 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 11.24,
         "maxPriceWithVAT": 13.2632
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:55:21.698033"
+    "lastUpdated": "2025-07-31T22:09:12.809277"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "4c76abc3-d222-4aad-a0fb-d81a63fca42f",
   "name": "BIKTARVY 30/120/15 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "178 43 38033 99",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "J05AR20",
-      "name": "EMTRICITABINE, TENOFOVIR ALAFENAMIDE AND BICTEGRAVIR "
+      "name": "EMTRICITABINE, TENOFOVIR ALAFENAMIDE AND BICTEGRAVIR"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-30T23:38:47.385254"
+    "lastUpdated": "2025-07-31T22:09:12.216470"
   }
 }

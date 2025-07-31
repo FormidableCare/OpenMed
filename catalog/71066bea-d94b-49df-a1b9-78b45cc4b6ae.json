@@ -1,7 +1,7 @@
 {
   "catalogId": "71066bea-d94b-49df-a1b9-78b45cc4b6ae",
   "name": "BOVACLOX DC VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "083 60 92376 00",
@@ -22,7 +22,7 @@
     {
       "name": "CLOXACILLIN 10G INJECTION STERIMAX CANADA",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -43,15 +43,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:09:28.735521"
+    "lastUpdated": "2025-07-31T22:09:12.547758"
   }
 }

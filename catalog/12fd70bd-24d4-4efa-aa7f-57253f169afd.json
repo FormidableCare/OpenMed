@@ -1,7 +1,7 @@
 {
   "catalogId": "12fd70bd-24d4-4efa-aa7f-57253f169afd",
   "name": "TONIGHT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "118 20 29793 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 36.36,
         "maxPriceWithVAT": 42.9048
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:29:50.657408"
+    "lastUpdated": "2025-07-31T22:09:11.667984"
   }
 }

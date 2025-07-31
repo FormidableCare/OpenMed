@@ -1,7 +1,7 @@
 {
   "catalogId": "2375a550-7c32-4312-942f-17112b721a07",
   "name": "N-KE'EV",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "140 07 31948 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.09,
         "maxPriceWithVAT": 35.5062
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:33:26.682271"
+    "lastUpdated": "2025-07-31T22:09:11.823656"
   }
 }

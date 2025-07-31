@@ -1,7 +1,7 @@
 {
   "catalogId": "ccef0f0f-bd1c-4ab1-b276-a160d65367e7",
   "name": "CORSODYL DENTAL GEL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "114 62 29571 21",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 29.58,
         "maxPriceWithVAT": 34.9044
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:26:46.805003"
+    "lastUpdated": "2025-07-31T22:09:13.511081"
   }
 }

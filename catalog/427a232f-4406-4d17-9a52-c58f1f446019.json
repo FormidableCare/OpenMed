@@ -1,7 +1,7 @@
 {
   "catalogId": "427a232f-4406-4d17-9a52-c58f1f446019",
   "name": "FENLIPS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "142 41 31798 01",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 37.91,
         "maxPriceWithVAT": 44.7338
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:54:08.454515"
+    "lastUpdated": "2025-07-31T22:09:12.130603"
   }
 }

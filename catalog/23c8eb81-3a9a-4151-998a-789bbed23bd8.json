@@ -1,7 +1,7 @@
 {
   "catalogId": "23c8eb81-3a9a-4151-998a-789bbed23bd8",
   "name": "FEXY 180",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "170 13 37246 99",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 31.79,
         "maxPriceWithVAT": 37.5122
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:55:47.045481"
+    "lastUpdated": "2025-07-31T22:09:11.825934"
   }
 }

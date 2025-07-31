@@ -1,7 +1,7 @@
 {
   "catalogId": "db527814-d4f1-41bb-a3d0-6bde771ae13c",
   "name": "ALCOSEPT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "129 67 30806 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.16,
         "maxPriceWithVAT": 35.5888
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:10:29.240333"
+    "lastUpdated": "2025-07-31T22:09:13.617075"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "f7058ba1-bde2-48e0-a108-cde3281befc0",
   "name": "PERTUSSOL SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "141 79 30275 01",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 21.29,
         "maxPriceWithVAT": 25.1222
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:47:30.375535"
+    "lastUpdated": "2025-07-31T22:09:13.848173"
   }
 }

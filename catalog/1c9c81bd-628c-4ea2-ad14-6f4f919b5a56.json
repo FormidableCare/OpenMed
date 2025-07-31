@@ -1,7 +1,7 @@
 {
   "catalogId": "1c9c81bd-628c-4ea2-ad14-6f4f919b5a56",
   "name": "BISMU-CAL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "176 35 38028 99",
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:18:56.192435"
+    "lastUpdated": "2025-07-31T22:09:11.761588"
   }
 }

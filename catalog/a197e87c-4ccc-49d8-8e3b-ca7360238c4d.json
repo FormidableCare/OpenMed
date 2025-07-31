@@ -1,7 +1,7 @@
 {
   "catalogId": "a197e87c-4ccc-49d8-8e3b-ca7360238c4d",
   "name": "SUBLOCADE 100 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "163 66 35771 00",
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:47:46.067042"
+    "lastUpdated": "2025-07-31T22:09:12.976545"
   }
 }

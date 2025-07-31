@@ -1,7 +1,7 @@
 {
   "catalogId": "aa467afe-6a28-4af9-8485-ed767ccafd0f",
   "name": "DORMINOL NIGHT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "149 40 33542 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 42.14,
         "maxPriceWithVAT": 49.7252
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:33:44.056024"
+    "lastUpdated": "2025-07-31T22:09:13.020708"
   }
 }

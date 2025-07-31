@@ -1,7 +1,7 @@
 {
   "catalogId": "6c8a1eb9-36a9-4f8f-912b-b818ec505f6c",
   "name": "SINUFED SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "118 91 29978 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 21.42,
         "maxPriceWithVAT": 25.2756
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:18:24.564993"
+    "lastUpdated": "2025-07-31T22:09:12.478889"
   }
 }

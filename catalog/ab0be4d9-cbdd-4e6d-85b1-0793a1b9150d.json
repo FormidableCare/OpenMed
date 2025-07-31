@@ -1,7 +1,7 @@
 {
   "catalogId": "ab0be4d9-cbdd-4e6d-85b1-0793a1b9150d",
   "name": "GAZIM X",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "131 13 30853 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 34.1,
         "maxPriceWithVAT": 40.238
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:59:45.669653"
+    "lastUpdated": "2025-07-31T22:09:13.027058"
   }
 }

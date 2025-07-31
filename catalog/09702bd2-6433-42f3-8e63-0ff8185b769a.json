@@ -1,7 +1,7 @@
 {
   "catalogId": "09702bd2-6433-42f3-8e63-0ff8185b769a",
   "name": "INOTYOL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "022 26 21121 00",
@@ -33,7 +33,7 @@
         "value": 50.0,
         "unit": "units"
       },
-      "packagingDescription": "TUBE ",
+      "packagingDescription": "TUBE",
       "shelfLife": "36",
       "storageConditions": "",
       "codes": {
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 39.03,
         "maxPriceWithVAT": 46.0554
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:10:14.783339"
+    "lastUpdated": "2025-07-31T22:09:11.561557"
   }
 }

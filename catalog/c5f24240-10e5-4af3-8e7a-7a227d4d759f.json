@@ -1,7 +1,7 @@
 {
   "catalogId": "c5f24240-10e5-4af3-8e7a-7a227d4d759f",
   "name": "VOLTAREN EMULGEL 1%",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "037 66 25000 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 27.03,
         "maxPriceWithVAT": 31.8954
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:36:36.921632"
+    "lastUpdated": "2025-07-31T22:09:13.456525"
   }
 }

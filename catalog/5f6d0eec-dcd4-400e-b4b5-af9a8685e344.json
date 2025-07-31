@@ -1,7 +1,7 @@
 {
   "catalogId": "5f6d0eec-dcd4-400e-b4b5-af9a8685e344",
   "name": "CHLORAMPHENICOL VUAB 1 G.",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "159 56 34926 00",
@@ -22,13 +22,13 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
   "alternativeMedications": [],
   "packaging": [
     {
       "name": "CHLORAMPHENICOL 1G 400 VIALS",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:07:14.687997"
+    "lastUpdated": "2025-07-31T22:09:12.376566"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "073d24ae-7538-4bf6-bc14-bcc66899c792",
   "name": "PITRIYA-T",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "166 65 36323 00",
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 42.65,
         "maxPriceWithVAT": 50.327
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:48:33.556011"
+    "lastUpdated": "2025-07-31T22:09:11.542887"
   }
 }

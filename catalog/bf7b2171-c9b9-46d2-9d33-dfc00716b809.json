@@ -1,7 +1,7 @@
 {
   "catalogId": "bf7b2171-c9b9-46d2-9d33-dfc00716b809",
   "name": "MAALOX PLUS SUSPENSION",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "107 65 20354 01",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 28.97,
         "maxPriceWithVAT": 34.1846
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:24:31.851433"
+    "lastUpdated": "2025-07-31T22:09:13.399174"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "5c5fd1eb-b8c2-4a02-bfd1-ad8267e2cfee",
   "name": "SEPTADINE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "108 58 29253 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 43.85,
         "maxPriceWithVAT": 51.743
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:16:13.666147"
+    "lastUpdated": "2025-07-31T22:09:12.348468"
   }
 }

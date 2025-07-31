@@ -1,7 +1,7 @@
 {
   "catalogId": "fe0116d9-c096-477e-9b80-bdfc378f87ae",
   "name": "KUFFEX",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "148 29 33671 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 29.68,
         "maxPriceWithVAT": 35.0224
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:16:17.781087"
+    "lastUpdated": "2025-07-31T22:09:13.929692"
   }
 }

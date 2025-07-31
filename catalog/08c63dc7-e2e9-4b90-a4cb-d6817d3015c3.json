@@ -1,7 +1,7 @@
 {
   "catalogId": "08c63dc7-e2e9-4b90-a4cb-d6817d3015c3",
   "name": "OCALIVA 10 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "160 33 35218 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "A05AA04",
-      "name": "OBETICHOLIC ACID "
+      "name": "OBETICHOLIC ACID"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T06:00:02.379489"
+    "lastUpdated": "2025-07-31T22:09:11.553868"
   }
 }

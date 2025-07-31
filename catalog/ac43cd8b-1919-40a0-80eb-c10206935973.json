@@ -1,7 +1,7 @@
 {
   "catalogId": "ac43cd8b-1919-40a0-80eb-c10206935973",
   "name": "MYALEPT",
-  "status": "active",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "not-registered",
   "registrationNumber": "",
@@ -22,7 +22,7 @@
     {
       "name": "MYALEPT",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -47,7 +47,7 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T20:58:57.625347",
+    "lastUpdated": "2025-07-31T22:09:13.038563",
     "tags": [
       "failed_il_drug_match"
     ]

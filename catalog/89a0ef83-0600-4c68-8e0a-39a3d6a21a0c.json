@@ -1,7 +1,7 @@
 {
   "catalogId": "89a0ef83-0600-4c68-8e0a-39a3d6a21a0c",
   "name": "NORMALAX",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "142 15 32012 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 18.08,
         "maxPriceWithVAT": 21.3344
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:34:30.666746"
+    "lastUpdated": "2025-07-31T22:09:12.772762"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "7bce0f0c-55f2-44aa-852f-314916957f62",
   "name": "BENDAMUSTINE MEDAC 100 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "163 73 35386 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "L01AA09",
-      "name": "BENDAMUSTINE "
+      "name": "BENDAMUSTINE"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-30T23:35:02.480541"
+    "lastUpdated": "2025-07-31T22:09:12.652374"
   }
 }

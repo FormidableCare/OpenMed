@@ -1,7 +1,7 @@
 {
   "catalogId": "740b997b-c495-468a-9d56-8175bb95f078",
   "name": "BETADINE TOPICAL SPRAY",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "160 94 35157 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 12.36,
         "maxPriceWithVAT": 14.5848
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:11:53.847196"
+    "lastUpdated": "2025-07-31T22:09:12.593102"
   }
 }

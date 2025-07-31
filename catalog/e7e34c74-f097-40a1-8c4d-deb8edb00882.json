@@ -1,7 +1,7 @@
 {
   "catalogId": "e7e34c74-f097-40a1-8c4d-deb8edb00882",
   "name": "ROGARON LEMON SUGAR FREE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "164 22 35301 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.09,
         "maxPriceWithVAT": 35.5062
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:14:34.726093"
+    "lastUpdated": "2025-07-31T22:09:13.737317"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "b32d0f8d-b490-476d-b36a-4e8fa89c61fe",
   "name": "STRIBILD",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "151 77 33963 01",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "J05AR09",
-      "name": "EMTRICITABINE, TENOFOVIR DISOPROXIL, ELVITEGRAVIR AND COBICISTAT "
+      "name": "EMTRICITABINE, TENOFOVIR DISOPROXIL, ELVITEGRAVIR AND COBICISTAT"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:47:17.960626"
+    "lastUpdated": "2025-07-31T22:09:13.248490"
   }
 }

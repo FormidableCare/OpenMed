@@ -1,7 +1,7 @@
 {
   "catalogId": "977f619f-6a89-4acf-87eb-625d47cc53bd",
   "name": "CIMIDONA 6.5 MG",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "153 88 34027 00",
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:24:41.079693"
+    "lastUpdated": "2025-07-31T22:09:12.902395"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "c73fbe9e-8b0b-4d81-92bd-0bdb27fc4a82",
   "name": "RINGER LACTATED SOLUTION/VIOSER",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "169 66 36052 00",
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:25:49.996544"
+    "lastUpdated": "2025-07-31T22:09:13.469019"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "320b335b-066c-4c20-9ce7-d2cde674697c",
   "name": "EXIDOL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "136 77 31055 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 50.85,
         "maxPriceWithVAT": 60.003
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:51:53.536345"
+    "lastUpdated": "2025-07-31T22:09:11.971107"
   }
 }

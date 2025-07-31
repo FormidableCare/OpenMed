@@ -1,13 +1,13 @@
 {
   "catalogId": "bd5addc7-7a73-42bf-aa96-a5f61403adae",
   "name": "FLUMIST",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "177 71 38099 00",
   "treatmentDescriptions": "FluMist is a vaccine indicated for active immunization for the prevention of influenza disease caused by influenza virus subtypes A and type B contained in the vaccine. FluMist is approved for use in persons 2 through 49 years of age.",
   "termsOfIssue": "Prescription required",
-  "form": "nasal spray, suspension ",
+  "form": "nasal spray, suspension",
   "route": "intranasal",
   "site": "",
   "method": "",
@@ -17,7 +17,7 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "J07BB02",
-      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN"
     }
   },
   "contraindications": "",
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T03:13:16.842101"
+    "lastUpdated": "2025-07-31T22:09:13.379158"
   }
 }

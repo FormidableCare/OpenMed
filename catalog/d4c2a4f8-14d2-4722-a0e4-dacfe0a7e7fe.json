@@ -1,7 +1,7 @@
 {
   "catalogId": "d4c2a4f8-14d2-4722-a0e4-dacfe0a7e7fe",
   "name": "DICLOPLAST",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "129 72 28525 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 57.34,
         "maxPriceWithVAT": 67.6612
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:32:37.485886"
+    "lastUpdated": "2025-07-31T22:09:13.569844"
   }
 }

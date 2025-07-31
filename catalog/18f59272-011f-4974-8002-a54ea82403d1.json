@@ -1,7 +1,7 @@
 {
   "catalogId": "18f59272-011f-4974-8002-a54ea82403d1",
   "name": "MENOPRET ®",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "165 11 34785 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 54.13,
         "maxPriceWithVAT": 63.8734
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:24:52.755084"
+    "lastUpdated": "2025-07-31T22:09:11.729179"
   }
 }

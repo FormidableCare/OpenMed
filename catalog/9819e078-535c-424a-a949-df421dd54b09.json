@@ -1,7 +1,7 @@
 {
   "catalogId": "9819e078-535c-424a-a949-df421dd54b09",
   "name": "TRAUMAPLANT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "140 61 31480 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 41.12,
         "maxPriceWithVAT": 48.5216
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:30:01.133341"
+    "lastUpdated": "2025-07-31T22:09:12.906741"
   }
 }

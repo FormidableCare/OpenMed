@@ -1,7 +1,7 @@
 {
   "catalogId": "b964b23f-656d-420d-a30d-4aa9f4ce3864",
   "name": "SYMBICORT TURBUHALER 80/4.5 MCG/DOSE",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "123 76 30316 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -39,7 +39,7 @@
         "value": 120.0,
         "unit": "units"
       },
-      "packagingDescription": "METERED DOSE INHALER ",
+      "packagingDescription": "METERED DOSE INHALER",
       "shelfLife": "36",
       "storageConditions": "",
       "codes": {
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:54:40.908645"
+    "lastUpdated": "2025-07-31T22:09:13.321704"
   }
 }

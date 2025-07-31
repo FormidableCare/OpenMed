@@ -1,7 +1,7 @@
 {
   "catalogId": "0b17afb3-e381-4ef4-852e-8fdcbbab3b51",
   "name": "BONJESTA",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "167 52 36428 00",
@@ -28,7 +28,7 @@
     {
       "name": "PYRIDOXINE 100MG/3ML INJ",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T15:43:05.533519"
+    "lastUpdated": "2025-07-31T22:09:11.582320"
   }
 }

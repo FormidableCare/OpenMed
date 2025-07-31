@@ -1,7 +1,7 @@
 {
   "catalogId": "e1fcb75a-852e-47e1-bf8c-82d92569dcac",
   "name": "FOROL TABLETS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "154 68 34101 00",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -42,8 +42,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 35.07,
         "maxPriceWithVAT": 41.3826
       }
@@ -51,6 +51,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:57:43.506707"
+    "lastUpdated": "2025-07-31T22:09:13.692172"
   }
 }

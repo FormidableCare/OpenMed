@@ -1,7 +1,7 @@
 {
   "catalogId": "fe898167-505b-430c-af66-464f21b6bc77",
   "name": "DIMETINDENE INOVAMED GEL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "167 86 35712 00",
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 69.27,
         "maxPriceWithVAT": 81.7386
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:27:47.269265"
+    "lastUpdated": "2025-07-31T22:09:13.933143"
   }
 }

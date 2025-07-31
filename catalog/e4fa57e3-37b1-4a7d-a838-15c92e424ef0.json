@@ -1,7 +1,7 @@
 {
   "catalogId": "e4fa57e3-37b1-4a7d-a838-15c92e424ef0",
   "name": "YESCARTA",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "162 57 35695 00",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -33,7 +33,7 @@
         "value": 1.0,
         "unit": "units"
       },
-      "packagingDescription": "BAG ",
+      "packagingDescription": "BAG",
       "shelfLife": "12",
       "storageConditions": "",
       "codes": {
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T10:41:37.640173"
+    "lastUpdated": "2025-07-31T22:09:13.718245"
   }
 }

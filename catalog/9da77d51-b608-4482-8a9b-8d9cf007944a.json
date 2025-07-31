@@ -1,7 +1,7 @@
 {
   "catalogId": "9da77d51-b608-4482-8a9b-8d9cf007944a",
   "name": "LAVECALM",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "173 95 36643 99",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 77.52,
         "maxPriceWithVAT": 91.4736
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:18:10.820877"
+    "lastUpdated": "2025-07-31T22:09:12.949706"
   }
 }

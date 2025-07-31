@@ -1,7 +1,7 @@
 {
   "catalogId": "2b5e21ff-740b-439f-87ff-d6a2af6dd7ec",
   "name": "IPADINE 0.5 %",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "166 25 36467 99",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 36.2,
         "maxPriceWithVAT": 42.716
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:13:11.431878"
+    "lastUpdated": "2025-07-31T22:09:11.910502"
   }
 }

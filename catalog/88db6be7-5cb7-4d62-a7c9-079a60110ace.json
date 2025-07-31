@@ -1,7 +1,7 @@
 {
   "catalogId": "88db6be7-5cb7-4d62-a7c9-079a60110ace",
   "name": "AUGMENTIN ES 600 MG/5 ML",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "145 87 33332 01",
@@ -51,15 +51,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-30T23:31:41.741217"
+    "lastUpdated": "2025-07-31T22:09:12.769311"
   }
 }

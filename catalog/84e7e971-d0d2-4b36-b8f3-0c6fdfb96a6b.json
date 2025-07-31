@@ -1,7 +1,7 @@
 {
   "catalogId": "84e7e971-d0d2-4b36-b8f3-0c6fdfb96a6b",
   "name": "IBOO 2 % FOR CHILDREN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "153 81 34080 01",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 22.15,
         "maxPriceWithVAT": 26.137
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:07:31.519826"
+    "lastUpdated": "2025-07-31T22:09:12.723238"
   }
 }

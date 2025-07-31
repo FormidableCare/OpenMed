@@ -1,7 +1,7 @@
 {
   "catalogId": "e1f37c93-f100-4762-9a25-f4d0537d37bf",
   "name": "OXTRA VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "083 17 92350 00",
@@ -22,7 +22,7 @@
     {
       "name": "TETRACYCLINE 250MG 100CAPS",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -42,15 +42,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T21:38:26.307161"
+    "lastUpdated": "2025-07-31T22:09:13.691808"
   }
 }

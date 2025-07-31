@@ -1,7 +1,7 @@
 {
   "catalogId": "7c728644-9527-4751-b872-3310265be5e5",
   "name": "IODO-VIT VETERINARY SOLUTION",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "083 35 92361 00",
@@ -42,8 +42,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 20.38,
         "maxPriceWithVAT": 24.0484
       }
@@ -51,6 +51,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:12:58.932151"
+    "lastUpdated": "2025-07-31T22:09:12.659393"
   }
 }

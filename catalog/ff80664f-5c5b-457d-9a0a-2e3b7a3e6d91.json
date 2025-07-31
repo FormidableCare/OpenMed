@@ -1,7 +1,7 @@
 {
   "catalogId": "ff80664f-5c5b-457d-9a0a-2e3b7a3e6d91",
   "name": "TOBREX OPHTHALMIC OINTMENT",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "047 16 22795 00",
@@ -28,7 +28,7 @@
     {
       "name": "TOBRAMYCIN 80MG/2ML 25AMP",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T21:41:42.808083"
+    "lastUpdated": "2025-07-31T22:09:13.939354"
   }
 }

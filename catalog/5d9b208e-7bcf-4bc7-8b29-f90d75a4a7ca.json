@@ -1,7 +1,7 @@
 {
   "catalogId": "5d9b208e-7bcf-4bc7-8b29-f90d75a4a7ca",
   "name": "THIO GEL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "140 23 24394 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 31.19,
         "maxPriceWithVAT": 36.8042
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:27:04.553238"
+    "lastUpdated": "2025-07-31T22:09:12.362727"
   }
 }

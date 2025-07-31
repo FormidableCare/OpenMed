@@ -1,7 +1,7 @@
 {
   "catalogId": "ffad8fd3-7b0c-4e5c-a452-3986d9bc8b74",
   "name": "NAROCIN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "065 82 22014 15",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 20.34,
         "maxPriceWithVAT": 24.0012
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:28:50.881236"
+    "lastUpdated": "2025-07-31T22:09:13.941373"
   }
 }

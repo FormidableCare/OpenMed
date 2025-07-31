@@ -1,7 +1,7 @@
 {
   "catalogId": "91eaf8f4-b8f4-4fbb-9674-22a1b82b568b",
   "name": "BESPONSA",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "160 79 35350 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "L01XC26",
-      "name": "INOTUZUMAB OZOGAMICIN "
+      "name": "INOTUZUMAB OZOGAMICIN"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-30T23:36:09.997160"
+    "lastUpdated": "2025-07-31T22:09:12.837404"
   }
 }

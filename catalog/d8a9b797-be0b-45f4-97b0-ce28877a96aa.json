@@ -1,7 +1,7 @@
 {
   "catalogId": "d8a9b797-be0b-45f4-97b0-ce28877a96aa",
   "name": "VITA-MERFEN OINTMENT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "118 17 27599 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 27.7,
         "maxPriceWithVAT": 32.686
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:36:04.705654"
+    "lastUpdated": "2025-07-31T22:09:13.598520"
   }
 }

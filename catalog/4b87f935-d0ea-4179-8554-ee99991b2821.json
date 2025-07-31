@@ -1,7 +1,7 @@
 {
   "catalogId": "4b87f935-d0ea-4179-8554-ee99991b2821",
   "name": "LAMISIL ONCE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "137 26 31486 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 43.29,
         "maxPriceWithVAT": 51.0822
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:17:03.362901"
+    "lastUpdated": "2025-07-31T22:09:12.208096"
   }
 }

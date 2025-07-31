@@ -1,7 +1,7 @@
 {
   "catalogId": "387ea6f5-7ea1-41b3-b489-9f36a785ae8d",
   "name": "IODO-VIT VETERINARY OINTMENT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "083 26 92362 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 9.4,
         "maxPriceWithVAT": 11.092
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:12:04.967701"
+    "lastUpdated": "2025-07-31T22:09:12.028235"
   }
 }

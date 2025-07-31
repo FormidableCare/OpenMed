@@ -1,7 +1,7 @@
 {
   "catalogId": "b2ddb966-c3ac-486d-bd0a-39b19ae5cffe",
   "name": "CYCLOVIR",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "152 54 34102 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 25.56,
         "maxPriceWithVAT": 30.1608
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:28:40.785835"
+    "lastUpdated": "2025-07-31T22:09:13.243030"
   }
 }

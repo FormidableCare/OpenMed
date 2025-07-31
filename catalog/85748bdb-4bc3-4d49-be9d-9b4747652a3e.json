@@ -1,7 +1,7 @@
 {
   "catalogId": "85748bdb-4bc3-4d49-be9d-9b4747652a3e",
   "name": "LIDOPRI-AVENIR 5 %",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 80 35307 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 76.92,
         "maxPriceWithVAT": 90.7656
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:18:58.747762"
+    "lastUpdated": "2025-07-31T22:09:12.732587"
   }
 }

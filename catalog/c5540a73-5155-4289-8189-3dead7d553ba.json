@@ -1,7 +1,7 @@
 {
   "catalogId": "c5540a73-5155-4289-8189-3dead7d553ba",
   "name": "RINGER LACTATED SOLUTION/VIOSER",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "169 66 36052 00",
@@ -28,7 +28,7 @@
     {
       "name": "SODIUM CHLORIDE OPHTALMIC 5% 3X15ML",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T21:31:16.189238"
+    "lastUpdated": "2025-07-31T22:09:13.451844"
   }
 }

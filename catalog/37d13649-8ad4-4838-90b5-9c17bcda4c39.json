@@ -1,7 +1,7 @@
 {
   "catalogId": "37d13649-8ad4-4838-90b5-9c17bcda4c39",
   "name": "BIAFINE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "067 13 28323 01",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 61.02,
         "maxPriceWithVAT": 72.0036
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:18:17.107459"
+    "lastUpdated": "2025-07-31T22:09:12.022241"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "7ff715de-216d-40a9-b98c-0da7dd9952ff",
   "name": "CALMANERVIN S ELIXIR",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "035 48 25445 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 18.03,
         "maxPriceWithVAT": 21.2754
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:22:14.356975"
+    "lastUpdated": "2025-07-31T22:09:12.687287"
   }
 }

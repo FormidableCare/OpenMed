@@ -1,7 +1,7 @@
 {
   "catalogId": "18f71e52-ac40-465e-b02a-842cf3571480",
   "name": "HYDROGEN PEROXIDE 3% LIFE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "162 73 35786 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 8.73,
         "maxPriceWithVAT": 10.3014
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:06:48.264311"
+    "lastUpdated": "2025-07-31T22:09:11.729726"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "932d51f0-d332-41a2-8ca6-3b1e0215b5a5",
   "name": "TIPTIPOT CLEAN-AF",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "178 01 38142 99",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 12.88,
         "maxPriceWithVAT": 15.1984
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:25:26.582351"
+    "lastUpdated": "2025-07-31T22:09:12.858618"
   }
 }

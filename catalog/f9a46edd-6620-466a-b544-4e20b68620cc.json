@@ -1,7 +1,7 @@
 {
   "catalogId": "f9a46edd-6620-466a-b544-4e20b68620cc",
   "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "107 95 26735 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 19.75,
         "maxPriceWithVAT": 23.3
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:03:20.745697"
+    "lastUpdated": "2025-07-31T22:09:13.868213"
   }
 }

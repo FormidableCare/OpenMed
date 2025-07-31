@@ -1,7 +1,7 @@
 {
   "catalogId": "9dda424b-af8f-4e9a-92d8-543cb64ef5af",
   "name": "MAGNESIUM SULFATE 50 % W/V INOVAMED",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "164 55 35842 00",
@@ -22,13 +22,13 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
       "name": "MAGNESIUM SULFATE 40MG/ML VIAL 100ML HOSPIRA USA SOLUTION FOR INJECTION",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T15:04:58.981847"
+    "lastUpdated": "2025-07-31T22:09:12.950954"
   }
 }

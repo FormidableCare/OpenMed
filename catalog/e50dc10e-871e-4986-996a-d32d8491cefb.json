@@ -1,7 +1,7 @@
 {
   "catalogId": "e50dc10e-871e-4986-996a-d32d8491cefb",
   "name": "ARTHRYL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "136 92 31267 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 79.66,
         "maxPriceWithVAT": 93.9988
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:13:28.926663"
+    "lastUpdated": "2025-07-31T22:09:13.720097"
   }
 }

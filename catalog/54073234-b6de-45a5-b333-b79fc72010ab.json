@@ -1,7 +1,7 @@
 {
   "catalogId": "54073234-b6de-45a5-b333-b79fc72010ab",
   "name": "NERVEN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "067 74 28081 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 39.32,
         "maxPriceWithVAT": 46.3976
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:29:12.744055"
+    "lastUpdated": "2025-07-31T22:09:12.285181"
   }
 }

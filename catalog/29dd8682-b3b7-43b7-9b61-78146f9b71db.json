@@ -1,7 +1,7 @@
 {
   "catalogId": "29dd8682-b3b7-43b7-9b61-78146f9b71db",
   "name": "HYALASE",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "128 29 29170 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,15 +50,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T03:51:58.221443"
+    "lastUpdated": "2025-07-31T22:09:11.897721"
   }
 }

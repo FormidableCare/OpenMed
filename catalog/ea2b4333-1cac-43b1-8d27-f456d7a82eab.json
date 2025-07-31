@@ -1,7 +1,7 @@
 {
   "catalogId": "ea2b4333-1cac-43b1-8d27-f456d7a82eab",
   "name": "URALYT-U",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "063 87 22365 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 24.36,
         "maxPriceWithVAT": 28.7448
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:06:59.415170"
+    "lastUpdated": "2025-07-31T22:09:13.753157"
   }
 }

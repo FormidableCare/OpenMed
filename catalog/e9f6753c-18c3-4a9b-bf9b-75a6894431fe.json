@@ -1,7 +1,7 @@
 {
   "catalogId": "e9f6753c-18c3-4a9b-bf9b-75a6894431fe",
   "name": "WAKIX 4.5 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "164 01 36119 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "N07XX11",
-      "name": "PITOLISANT "
+      "name": "PITOLISANT"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T10:25:28.148632"
+    "lastUpdated": "2025-07-31T22:09:13.751241"
   }
 }

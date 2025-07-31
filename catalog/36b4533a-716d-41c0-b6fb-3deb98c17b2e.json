@@ -1,7 +1,7 @@
 {
   "catalogId": "36b4533a-716d-41c0-b6fb-3deb98c17b2e",
   "name": "SINUCLEAR SYRUP",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "171 01 34683 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 38.46,
         "maxPriceWithVAT": 45.3828
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:18:01.043895"
+    "lastUpdated": "2025-07-31T22:09:12.009286"
   }
 }

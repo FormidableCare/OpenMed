@@ -1,7 +1,7 @@
 {
   "catalogId": "80913f58-3ea6-44ba-abb8-3dcd2372626d",
   "name": "BRONCHOLATE PLUS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "126 07 30479 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 18.79,
         "maxPriceWithVAT": 22.1722
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:20:42.001401"
+    "lastUpdated": "2025-07-31T22:09:12.693292"
   }
 }

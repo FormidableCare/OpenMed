@@ -1,7 +1,7 @@
 {
   "catalogId": "36873b9e-821e-47bb-8294-1b0f90220b8a",
   "name": "EXCEDRIN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "141 82 31782 01",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 33.05,
         "maxPriceWithVAT": 38.999
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:51:20.665090"
+    "lastUpdated": "2025-07-31T22:09:12.008920"
   }
 }

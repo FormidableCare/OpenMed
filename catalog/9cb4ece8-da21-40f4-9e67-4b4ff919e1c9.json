@@ -1,7 +1,7 @@
 {
   "catalogId": "9cb4ece8-da21-40f4-9e67-4b4ff919e1c9",
   "name": "BROMSITE",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "166 23 35657 00",
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T00:44:26.684449"
+    "lastUpdated": "2025-07-31T22:09:12.943990"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "58d50f80-dc21-48c0-a587-cf256fd6618c",
   "name": "S.C.P 47 VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "072 14 91672 01",
@@ -44,15 +44,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T07:17:43.437388"
+    "lastUpdated": "2025-07-31T22:09:12.324655"
   }
 }

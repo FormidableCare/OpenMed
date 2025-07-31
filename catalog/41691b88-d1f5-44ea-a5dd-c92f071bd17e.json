@@ -1,7 +1,7 @@
 {
   "catalogId": "41691b88-d1f5-44ea-a5dd-c92f071bd17e",
   "name": "BEPANTHEN PLUS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "127 48 26501 01",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 5.63,
         "maxPriceWithVAT": 6.6434
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:17:47.686850"
+    "lastUpdated": "2025-07-31T22:09:12.118559"
   }
 }

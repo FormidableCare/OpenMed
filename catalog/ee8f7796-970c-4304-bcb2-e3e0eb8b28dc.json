@@ -1,7 +1,7 @@
 {
   "catalogId": "ee8f7796-970c-4304-bcb2-e3e0eb8b28dc",
   "name": "KALURIL",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "117 57 23150 01",
@@ -28,7 +28,7 @@
     {
       "name": "AMILORIDE HCL 5MG 28TAB",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:48:16.847494"
+    "lastUpdated": "2025-07-31T22:09:13.783009"
   }
 }

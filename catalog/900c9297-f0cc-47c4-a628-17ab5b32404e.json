@@ -1,7 +1,7 @@
 {
   "catalogId": "900c9297-f0cc-47c4-a628-17ab5b32404e",
   "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "107 95 26735 00",
@@ -28,7 +28,7 @@
     {
       "name": "GLUCOSE 20% STEROP BELGIUM 500ML",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:42:25.838735"
+    "lastUpdated": "2025-07-31T22:09:12.819241"
   }
 }

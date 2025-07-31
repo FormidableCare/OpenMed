@@ -1,7 +1,7 @@
 {
   "catalogId": "0c3258fe-538a-41fe-807c-f94e20577733",
   "name": "DERMASIL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "134 74 31484 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 46.07,
         "maxPriceWithVAT": 54.3626
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:29:18.706187"
+    "lastUpdated": "2025-07-31T22:09:11.599073"
   }
 }

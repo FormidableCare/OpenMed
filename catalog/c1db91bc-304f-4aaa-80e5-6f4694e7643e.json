@@ -1,7 +1,7 @@
 {
   "catalogId": "c1db91bc-304f-4aaa-80e5-6f4694e7643e",
   "name": "BESREMI 250 MCG/0.5 ML",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "166 66 36574 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "L03AB15",
-      "name": "ROPEGINTERFERON ALFA-2B "
+      "name": "ROPEGINTERFERON ALFA-2B"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T00:32:07.659430"
+    "lastUpdated": "2025-07-31T22:09:13.420356"
   }
 }

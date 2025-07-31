@@ -1,7 +1,7 @@
 {
   "catalogId": "8bb8c41d-75d4-4eb4-b2e8-465a0938bbca",
   "name": "SMOFKABIVEN PERIPHERAL",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "147 83 33337 00",
@@ -33,7 +33,7 @@
         "value": 1206.0,
         "unit": "units"
       },
-      "packagingDescription": "BAG PROPYLENE ",
+      "packagingDescription": "BAG PROPYLENE",
       "shelfLife": "24",
       "storageConditions": "",
       "codes": {
@@ -43,15 +43,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T08:23:33.407846"
+    "lastUpdated": "2025-07-31T22:09:12.790668"
   }
 }

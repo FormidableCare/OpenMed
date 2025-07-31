@@ -1,7 +1,7 @@
 {
   "catalogId": "a4453e73-5f25-45c7-be2d-f5828bc79479",
   "name": "ADVIL COLD & SINUS",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "135 50 31178 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 27.62,
         "maxPriceWithVAT": 32.5916
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:05:11.971724"
+    "lastUpdated": "2025-07-31T22:09:12.990057"
   }
 }

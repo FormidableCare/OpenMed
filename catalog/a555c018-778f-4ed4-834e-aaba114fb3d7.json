@@ -1,7 +1,7 @@
 {
   "catalogId": "a555c018-778f-4ed4-834e-aaba114fb3d7",
   "name": "ODEFSEY",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "162 38 35353 00",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": " ",
+  "warnings": "",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -39,7 +39,7 @@
         "value": 30.0,
         "unit": "units"
       },
-      "packagingDescription": "BOTTLE ",
+      "packagingDescription": "BOTTLE",
       "shelfLife": "36",
       "storageConditions": "",
       "codes": {
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T06:02:57.480307"
+    "lastUpdated": "2025-07-31T22:09:12.994469"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "b294914f-5bbd-4242-87fa-f47a56d34205",
   "name": "TRIDERM CREAM",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "105 13 28792 00",
@@ -45,15 +45,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T09:41:48.115422"
+    "lastUpdated": "2025-07-31T22:09:13.241874"
   }
 }

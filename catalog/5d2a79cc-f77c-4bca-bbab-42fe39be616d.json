@@ -1,7 +1,7 @@
 {
   "catalogId": "5d2a79cc-f77c-4bca-bbab-42fe39be616d",
   "name": "STUD 100",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "133 05 24173 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 50.43,
         "maxPriceWithVAT": 59.5074
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:24:09.810886"
+    "lastUpdated": "2025-07-31T22:09:12.356972"
   }
 }

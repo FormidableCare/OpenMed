@@ -1,7 +1,7 @@
 {
   "catalogId": "7be5ac76-8622-4771-b878-c46aafd547a0",
   "name": "SONGHA NIGHT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "134 16 29935 00",
@@ -43,8 +43,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 53.5,
         "maxPriceWithVAT": 63.13
       }
@@ -52,6 +52,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:19:44.959194"
+    "lastUpdated": "2025-07-31T22:09:12.653742"
   }
 }

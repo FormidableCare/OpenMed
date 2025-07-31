@@ -1,7 +1,7 @@
 {
   "catalogId": "ff4a1aec-2543-4d0d-b03c-0b238efe52b3",
   "name": "RADIAN B MUSCLE RUB",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "137 01 22841 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 20.51,
         "maxPriceWithVAT": 24.2018
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:52:51.016091"
+    "lastUpdated": "2025-07-31T22:09:13.937468"
   }
 }

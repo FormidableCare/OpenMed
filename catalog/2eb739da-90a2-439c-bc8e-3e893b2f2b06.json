@@ -1,7 +1,7 @@
 {
   "catalogId": "2eb739da-90a2-439c-bc8e-3e893b2f2b06",
   "name": "ADVIL FORTE 400",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "145 20 32014 00",
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 42.65,
         "maxPriceWithVAT": 50.327
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:05:36.972560"
+    "lastUpdated": "2025-07-31T22:09:11.944316"
   }
 }

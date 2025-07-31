@@ -1,7 +1,7 @@
 {
   "catalogId": "14fb516c-694e-4edb-835e-253cc554364f",
   "name": "EYECON",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "116 76 29346 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 45.13,
         "maxPriceWithVAT": 53.2534
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:52:51.342003"
+    "lastUpdated": "2025-07-31T22:09:11.686205"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "b703ceb4-4c93-4b50-bd14-31ce235aec52",
   "name": "BUVIDAL 128 MG",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "168 78 36086 00",
@@ -28,7 +28,7 @@
     {
       "name": "BUVIDAL 8 MG /0.16 ML 1 SRINGE",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:01:15.975521"
+    "lastUpdated": "2025-07-31T22:09:13.307184"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "5369f492-06f6-406c-a0ef-04632c4244cc",
   "name": "ABITREN TEVA ® 75 MG/3 ML",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "159 38 34860 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 18.36,
         "maxPriceWithVAT": 21.6648
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:26:41.561329"
+    "lastUpdated": "2025-07-31T22:09:12.280519"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "5f4ce99d-1c83-417b-8c7d-a6af3a8fa483",
   "name": "OCTOCAINE 100",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "136 86 31595 00",
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T04:47:05.959869"
+    "lastUpdated": "2025-07-31T22:09:12.375525"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "c867e97b-666e-4441-bc2b-4cf89291b76c",
   "name": "INSTILLAGEL",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "160 11 35080 00",
@@ -48,8 +48,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 17.09,
         "maxPriceWithVAT": 20.1662
       }
@@ -57,6 +57,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:21:13.611513"
+    "lastUpdated": "2025-07-31T22:09:13.476578"
   }
 }

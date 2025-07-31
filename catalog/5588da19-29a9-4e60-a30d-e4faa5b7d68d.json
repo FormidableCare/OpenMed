@@ -1,7 +1,7 @@
 {
   "catalogId": "5588da19-29a9-4e60-a30d-e4faa5b7d68d",
   "name": "CURATANE 10 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "136 12 30295 00",
@@ -43,15 +43,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T01:36:01.416861"
+    "lastUpdated": "2025-07-31T22:09:12.297422"
   }
 }

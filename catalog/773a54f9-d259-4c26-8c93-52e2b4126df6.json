@@ -1,7 +1,7 @@
 {
   "catalogId": "773a54f9-d259-4c26-8c93-52e2b4126df6",
   "name": "GAVISCON LIQUID PEPPERMINT",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "141 67 31756 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 31.78,
         "maxPriceWithVAT": 37.5004
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:59:06.886881"
+    "lastUpdated": "2025-07-31T22:09:12.614147"
   }
 }

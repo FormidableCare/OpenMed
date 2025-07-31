@@ -1,7 +1,7 @@
 {
   "catalogId": "a3dfe4a8-70db-474e-b263-79e8275707bb",
   "name": "DODICILE VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "083 38 92357 00",
@@ -22,7 +22,7 @@
     {
       "name": "B12 DEPOT 1MG/ML AMP",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -42,15 +42,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:56:42.895053"
+    "lastUpdated": "2025-07-31T22:09:12.986903"
   }
 }

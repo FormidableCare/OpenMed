@@ -1,7 +1,7 @@
 {
   "catalogId": "4e5294eb-cd21-4b29-98bc-6de08497e27f",
   "name": "ENDARI",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "164 80 35650 00",
@@ -39,7 +39,7 @@
         "value": 60.0,
         "unit": "units"
       },
-      "packagingDescription": "PACKETS PAPER/FOIL/PLASTIC LAMINATE ",
+      "packagingDescription": "PACKETS PAPER/FOIL/PLASTIC LAMINATE",
       "shelfLife": "48",
       "storageConditions": "",
       "codes": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T02:20:53.599897"
+    "lastUpdated": "2025-07-31T22:09:12.232383"
   }
 }

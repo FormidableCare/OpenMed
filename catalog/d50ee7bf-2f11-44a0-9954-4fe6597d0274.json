@@ -1,7 +1,7 @@
 {
   "catalogId": "d50ee7bf-2f11-44a0-9954-4fe6597d0274",
   "name": "COLPERMIN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "109 07 26971 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 32.48,
         "maxPriceWithVAT": 38.3264
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:26:23.314214"
+    "lastUpdated": "2025-07-31T22:09:13.572202"
   }
 }

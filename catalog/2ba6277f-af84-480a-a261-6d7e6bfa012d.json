@@ -1,7 +1,7 @@
 {
   "catalogId": "2ba6277f-af84-480a-a261-6d7e6bfa012d",
   "name": "RIBOMUSTIN 100 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "152 40 33966 00",
@@ -17,12 +17,12 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "L01AA09",
-      "name": "BENDAMUSTINE "
+      "name": "BENDAMUSTINE"
     }
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -60,6 +60,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T07:34:40.034711"
+    "lastUpdated": "2025-07-31T22:09:11.915110"
   }
 }

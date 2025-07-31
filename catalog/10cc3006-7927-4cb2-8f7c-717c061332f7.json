@@ -1,7 +1,7 @@
 {
   "catalogId": "10cc3006-7927-4cb2-8f7c-717c061332f7",
   "name": "FOLEX 400",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "142 40 33082 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 24.87,
         "maxPriceWithVAT": 29.3466
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:56:34.480645"
+    "lastUpdated": "2025-07-31T22:09:11.640767"
   }
 }

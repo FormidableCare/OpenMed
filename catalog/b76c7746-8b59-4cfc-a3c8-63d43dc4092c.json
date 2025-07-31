@@ -1,7 +1,7 @@
 {
   "catalogId": "b76c7746-8b59-4cfc-a3c8-63d43dc4092c",
   "name": "PREFEMIN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "164 38 35417 00",
@@ -17,7 +17,7 @@
     "atc5": {
       "system": "WHO ATC Classification",
       "code": "G02CX03",
-      "name": "AGNI CASTI FRUCTUS "
+      "name": "AGNI CASTI FRUCTUS"
     }
   },
   "contraindications": "",
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:51:54.085952"
+    "lastUpdated": "2025-07-31T22:09:13.307794"
   }
 }

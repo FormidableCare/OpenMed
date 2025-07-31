@@ -1,7 +1,7 @@
 {
   "catalogId": "5da43209-cfc3-49d1-b1f5-fa3fd6ccc16c",
   "name": "CONJUPRI 2.5 MG",
-  "status": "",
+  "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
   "registrationNumber": "176 44 37508 99",
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T01:28:59.008000"
+    "lastUpdated": "2025-07-31T22:09:12.364095"
   }
 }

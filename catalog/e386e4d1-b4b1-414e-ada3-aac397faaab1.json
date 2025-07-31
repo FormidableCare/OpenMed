@@ -1,7 +1,7 @@
 {
   "catalogId": "e386e4d1-b4b1-414e-ada3-aac397faaab1",
   "name": "DERMAX",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "022 58 24975 00",
@@ -44,8 +44,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 28.36,
         "maxPriceWithVAT": 33.4648
       }
@@ -53,6 +53,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T11:29:31.047480"
+    "lastUpdated": "2025-07-31T22:09:13.706737"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "0109492b-c844-484b-acf3-b9fba9b9469b",
   "name": "PRILIDAN",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "157 87 34381 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 85.3,
         "maxPriceWithVAT": 100.654
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:52:16.476911"
+    "lastUpdated": "2025-07-31T22:09:11.469907"
   }
 }

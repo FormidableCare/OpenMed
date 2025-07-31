@@ -1,7 +1,7 @@
 {
   "catalogId": "e7bc5051-a47c-420b-bd3a-1538643a16a1",
   "name": "KALGARON ORANGE",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "163 63 36018 00",
@@ -49,8 +49,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 25.95,
         "maxPriceWithVAT": 30.621
       }
@@ -58,6 +58,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T12:15:29.107049"
+    "lastUpdated": "2025-07-31T22:09:13.735958"
   }
 }

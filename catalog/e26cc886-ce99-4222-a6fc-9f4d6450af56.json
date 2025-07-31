@@ -1,7 +1,7 @@
 {
   "catalogId": "e26cc886-ce99-4222-a6fc-9f4d6450af56",
   "name": "ZOVIRAX",
-  "status": "",
+  "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
   "registrationNumber": "126 38 30532 00",
@@ -50,8 +50,8 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
+        "maxWholesalePrice": "",
+        "retailMargin": "",
         "maxRetailPrice": 30.25,
         "maxPriceWithVAT": 35.695
       }
@@ -59,6 +59,6 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T13:40:33.035666"
+    "lastUpdated": "2025-07-31T22:09:13.695776"
   }
 }

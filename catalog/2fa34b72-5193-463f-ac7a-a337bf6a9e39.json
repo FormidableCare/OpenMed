@@ -1,7 +1,7 @@
 {
   "catalogId": "2fa34b72-5193-463f-ac7a-a337bf6a9e39",
   "name": "ACAMOL FOCUS",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "131 35 30995 00",
@@ -28,7 +28,7 @@
     {
       "name": "CAFFEINE CITRATE 20MG/ML VIAL",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:02:09.347567"
+    "lastUpdated": "2025-07-31T22:09:11.951696"
   }
 }

@@ -1,7 +1,7 @@
 {
   "catalogId": "518bcb2e-5187-428b-8fb1-395d03198c84",
   "name": "METABOLASE VETERINARY",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "082 87 92329 00",
@@ -22,7 +22,7 @@
     {
       "name": "CARNITINE INJ 1G/5ML 5AMP",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -42,15 +42,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-07-31T14:03:52.438326"
+    "lastUpdated": "2025-07-31T22:09:12.259115"
   }
 }
