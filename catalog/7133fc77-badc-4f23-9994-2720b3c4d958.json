@@ -1,0 +1,61 @@
+{
+  "catalogId": "7133fc77-badc-4f23-9994-2720b3c4d958",
+  "name": "EPREX/PROTECS 3000IU/0.3ML 6 SYRINGES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 3000IU/0. 6 SYRINGES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 3000IU/0.3ML 6 SYRINGES",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86979",
+        "pharmasoft": "5457",
+        "moh": "4572"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 511.7347,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 601.2882725,
+        "maxPriceWithVAT": 709.5201616,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:07:52.609061",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "1d669245-18a5-40bb-996c-bfdef70c1605",
+  "name": "DACARBAZINE-DACIN 200MG 12VIALS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DACARBAZINE-DACIN 200MG S",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DACARBAZINE-DACIN 200MG 12VIALS",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "15926",
+        "pharmasoft": "4514",
+        "moh": "7443"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 1238.0353,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1454.691478,
+        "maxPriceWithVAT": 1716.535943,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:04:19.592748",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

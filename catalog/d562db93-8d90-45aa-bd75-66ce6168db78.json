@@ -1,0 +1,61 @@
+{
+  "catalogId": "d562db93-8d90-45aa-bd75-66ce6168db78",
+  "name": "EPREX/PROTECS 40000 IU/ML 1 SYRINGE",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 40000 IU/ML 1 SYRINGE",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 40000 IU/ML 1 SYRINGE",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86986",
+        "pharmasoft": "5463",
+        "moh": "4726"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 937.0056,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1100.98158,
+        "maxPriceWithVAT": 1299.158264,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:08:15.920612",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "5e1c323d-1b08-478c-85f2-e0c9800012c6",
+  "name": "EPREX/PROTECS 30000 IU/0.75ML 1SYRINGE",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 30000 IU/0. 1SYRINGE",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 30000 IU/0.75ML 1SYRINGE",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86953",
+        "pharmasoft": "31601",
+        "moh": "6158"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 704.3577,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 827.6202975,
+        "maxPriceWithVAT": 976.5919511,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:07:28.303558",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "0f46e861-cf44-425c-9897-14dfcdbaa151",
+  "name": "EPREX/PROTECS 10000 IU/1ML 6 SYRINGES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 10000 IU/ 6 SYRINGES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 10000 IU/1ML 6 SYRINGES",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86985",
+        "pharmasoft": "5462",
+        "moh": "4569"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 1705.7787,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2004.289973,
+        "maxPriceWithVAT": 2365.062168,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:06:22.911603",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

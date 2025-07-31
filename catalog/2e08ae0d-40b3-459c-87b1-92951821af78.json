@@ -1,0 +1,61 @@
+{
+  "catalogId": "2e08ae0d-40b3-459c-87b1-92951821af78",
+  "name": "BEKUNIS 45 DRAGEES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BEKUNIS 45 DRAGEES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BEKUNIS 45 DRAGEES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 45.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "79115",
+        "pharmasoft": "2047",
+        "moh": "364"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 35.3506,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 48.430322,
+        "maxPriceWithVAT": 57.14777996,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:00:18.818196",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

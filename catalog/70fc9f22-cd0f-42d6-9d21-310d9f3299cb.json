@@ -1,0 +1,61 @@
+{
+  "catalogId": "70fc9f22-cd0f-42d6-9d21-310d9f3299cb",
+  "name": "ANDROCUR 10MG 15TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANDROCUR 10MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANDROCUR 10MG 15TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "238",
+        "pharmasoft": "1269",
+        "moh": "8"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 24.94443263,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 34.1738727,
+        "maxPriceWithVAT": 40.32516799,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:59:05.306644",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

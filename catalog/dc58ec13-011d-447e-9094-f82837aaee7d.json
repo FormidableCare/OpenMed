@@ -1,0 +1,61 @@
+{
+  "catalogId": "dc58ec13-011d-447e-9094-f82837aaee7d",
+  "name": "EKLIRA GENUAIR INHALER 60 DOSES (322MCG/DOSE)",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EKLIRA GENUAIR INHALER 60 DOSES (322MCG/DOSE)",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EKLIRA GENUAIR INHALER 60 DOSES (322MCG/DOSE)",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "53969",
+        "pharmasoft": "5624",
+        "moh": "7363"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 111.413139,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 139.2664238,
+        "maxPriceWithVAT": 164.3343727,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:05:32.442961",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

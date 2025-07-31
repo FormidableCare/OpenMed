@@ -1,0 +1,61 @@
+{
+  "catalogId": "aa914482-1df5-4e91-9416-e173ca34549d",
+  "name": "ALCON AZOPT 1%   DROPS 5ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "drops",
+  "route": "ophthalmic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALCON AZOPT 1% DROPS",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALCON AZOPT 1%   DROPS 5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "22441",
+        "pharmasoft": "1611",
+        "moh": "4004"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 19.44721713,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.64268747,
+        "maxPriceWithVAT": 31.43837122,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:58:30.973338",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

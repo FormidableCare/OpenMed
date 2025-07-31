@@ -1,0 +1,61 @@
+{
+  "catalogId": "eed76858-fa24-42a3-a906-1a6f8847eae0",
+  "name": "DOLESTINE 50MG/ML 10 AMP",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOLESTINE 50MG/ML",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DOLESTINE 50MG/ML 10 AMP",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "48732",
+        "pharmasoft": "",
+        "moh": "8583"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 25.97153467,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 35.58100249,
+        "maxPriceWithVAT": 41.98558108,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:04:42.151845",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

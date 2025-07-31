@@ -1,0 +1,61 @@
+{
+  "catalogId": "3a193967-ac7d-4856-928a-0489404c7962",
+  "name": "AKNE-MYCIN PLUS SOL 25ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "solution",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AKNE-MYCIN PLUS SOL",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AKNE-MYCIN PLUS SOL 25ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "30027",
+        "pharmasoft": "1680",
+        "moh": "4522"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 39.634725,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 53.30870513,
+        "maxPriceWithVAT": 62.90426925,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:57:11.078174",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

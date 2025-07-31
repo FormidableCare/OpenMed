@@ -1,0 +1,61 @@
+{
+  "catalogId": "506b767d-3581-4a3c-96f0-df6006c5de1c",
+  "name": "CEFURAX 250MG 10TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFURAX 250MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFURAX 250MG 10TAB",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "60868",
+        "pharmasoft": "3764",
+        "moh": "4740"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 14.1834,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.431258,
+        "maxPriceWithVAT": 22.92888444,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:01:40.050750",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

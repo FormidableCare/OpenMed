@@ -1,0 +1,61 @@
+{
+  "catalogId": "460ce658-3c82-4a84-abe3-1c5279a3ce8f",
+  "name": "CEFURAX 500MG 10TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFURAX 500MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFURAX 500MG 10TAB",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "60869",
+        "pharmasoft": "3763",
+        "moh": "4741"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 26.5544,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 36.379528,
+        "maxPriceWithVAT": 42.92784304,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:01:57.151022",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "056f1088-a679-4ec3-bd51-a1a35732da51",
+  "name": "EPIRUBICIN INOVAMED 2MG/ML VIAL 50MG/25ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPIRUBICIN INOVAMED 2MG/ML VIAL 50MG/",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPIRUBICIN INOVAMED 2MG/ML VIAL 50MG/25ML",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "58467",
+        "pharmasoft": "5588",
+        "moh": "7691"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 186.5251,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 233.156375,
+        "maxPriceWithVAT": 275.1245225,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:06:00.790968",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

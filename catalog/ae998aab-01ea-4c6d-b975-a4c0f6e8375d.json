@@ -1,0 +1,61 @@
+{
+  "catalogId": "ae998aab-01ea-4c6d-b975-a4c0f6e8375d",
+  "name": "ANDROCUR 50MG 50TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANDROCUR 50MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANDROCUR 50MG 50TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "57280",
+        "pharmasoft": "1059",
+        "moh": "4645"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 89.2392825,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 120.026835,
+        "maxPriceWithVAT": 141.631659,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:59:21.944336",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

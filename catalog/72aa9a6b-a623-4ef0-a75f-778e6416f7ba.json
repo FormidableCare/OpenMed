@@ -1,0 +1,61 @@
+{
+  "catalogId": "72aa9a6b-a623-4ef0-a75f-778e6416f7ba",
+  "name": "ARCO-TEVA 90MG 14TABS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARCO- 90MG S",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARCO-TEVA 90MG 14TABS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "20087",
+        "pharmasoft": "",
+        "moh": "8241"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 27.93932293,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.27687241,
+        "maxPriceWithVAT": 45.16670944,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:59:45.614791",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

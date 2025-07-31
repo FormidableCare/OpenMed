@@ -1,0 +1,61 @@
+{
+  "catalogId": "cabcd90a-866b-4a5a-8b94-04634d1fe776",
+  "name": "ALIMTA 100MG/VIAL VIAL 10ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALIMTA 100MG/VIAL VIAL",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALIMTA 100MG/VIAL VIAL 10ML",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "80343",
+        "pharmasoft": "9610",
+        "moh": "7336"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 775.1132,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 910.75801,
+        "maxPriceWithVAT": 1074.694452,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T18:58:47.969389",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

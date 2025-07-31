@@ -1,0 +1,61 @@
+{
+  "catalogId": "f43b63e9-4b5e-4ff8-b329-672e8ed68bf1",
+  "name": "EFRIN-10 DROPS 5CC",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "drops",
+  "route": "ophthalmic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EFRIN-10 DROPS 5CC",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EFRIN-10 DROPS 5CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "750",
+        "pharmasoft": "5011",
+        "moh": "1802"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 8.35,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.4395,
+        "maxPriceWithVAT": 13.4986094,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:05:04.327721",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "635031c0-50b4-45db-819b-74050890bc26",
+  "name": "CEFTAZIDINE PANPHARMA 2G 10VIALS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFTAZIDINE PANPHARMA 2G S",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFTAZIDINE PANPHARMA 2G 10VIALS",
+      "manufacturer": {
+        "name": "פארמלוג'יק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "66930",
+        "pharmasoft": "",
+        "moh": "8216"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 459.3,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 539.6775,
+        "maxPriceWithVAT": 636.81945,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:01:21.863192",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}
