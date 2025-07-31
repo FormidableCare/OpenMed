@@ -1,8 +1,8 @@
 {
   "catalog_index": {
-    "version": "1.0.19",
-    "generated_at": "2025-07-31T19:23:15.312942",
-    "total_medications": 4444,
+    "version": "1.0.20",
+    "generated_at": "2025-07-31T20:04:15.437633",
+    "total_medications": 4564,
     "medications": [
       {
         "catalogId": "0005d4b7-3cd7-485a-9c11-a9ea83b8cdf3",
@@ -545,6 +545,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/04041f48-64ff-486f-8ef4-b638ca7ba732.json"
       },
       {
+        "catalogId": "041fd957-adb2-4ed8-937a-4affb2ea2ba8",
+        "name": "SOLINITRINA 5MG/ML 12AMPX10ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/041fd957-adb2-4ed8-937a-4affb2ea2ba8.json"
+      },
+      {
         "catalogId": "042c29fe-cbd9-4c7a-ae6a-63b1cbf283d1",
         "name": "FOLIRON",
         "status": "",
@@ -750,6 +759,15 @@
         "atc5": null,
         "registrationNumber": "130 71 30720 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0576b68e-ef46-48a3-aeb7-36d5d0a2cd55.json"
+      },
+      {
+        "catalogId": "058b06c0-8d61-4f3f-bcd3-3af0f24be576",
+        "name": "TEXPAMI 90MG/10ML INJECTION",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/058b06c0-8d61-4f3f-bcd3-3af0f24be576.json"
       },
       {
         "catalogId": "05934eb4-f085-47d4-acc9-6bf9ee35fc65",
@@ -1499,6 +1517,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0ad06e04-857f-4120-a7e3-2a1ca528704f.json"
       },
       {
+        "catalogId": "0aecf4dd-f0b5-447f-8d3f-bd4e5e89c2cd",
+        "name": "ZINK TRINATRIUM PENTETAT 1G/5ML 5AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0aecf4dd-f0b5-447f-8d3f-bd4e5e89c2cd.json"
+      },
+      {
         "catalogId": "0af06252-8288-4d05-a17a-5af13d0be7cd",
         "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
         "status": "",
@@ -2237,6 +2264,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0f9baeaf-9310-4739-a76f-e07a40360c37.json"
       },
       {
+        "catalogId": "0faae1ba-2d4c-441c-91e9-5339007d5fef",
+        "name": "SUXAMETONIO 100MG/2ML 50 AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/0faae1ba-2d4c-441c-91e9-5339007d5fef.json"
+      },
+      {
         "catalogId": "0fcd2b7c-9021-4c73-9740-77a18f51f5b9",
         "name": "VELTASSA 16.8 G",
         "status": "",
@@ -2361,6 +2397,15 @@
         "atc5": "J01DH02",
         "registrationNumber": "150 54 33679 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/109a7ad7-baee-49fa-863d-cf58ce079759.json"
+      },
+      {
+        "catalogId": "10a54a75-0d28-46d5-bc18-727f29d47384",
+        "name": "TEBRAZID 500MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/10a54a75-0d28-46d5-bc18-727f29d47384.json"
       },
       {
         "catalogId": "10a883e8-20b1-4d54-89d9-c48ad3af67a7",
@@ -2543,6 +2588,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1189730b-9b0c-4273-b5b2-e1a4804956b3.json"
       },
       {
+        "catalogId": "118facb1-d6cc-4a77-a654-708b7788c77a",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/118facb1-d6cc-4a77-a654-708b7788c77a.json"
+      },
+      {
         "catalogId": "11ab2bb5-ee5b-4943-ab75-0ffbe08e3004",
         "name": "TUMS SMOOTHIES EX PEPPERMINT",
         "status": "",
@@ -2613,6 +2667,15 @@
         "atc5": null,
         "registrationNumber": "124 58 30421 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1209c585-0ac4-466f-828c-a16005c6af24.json"
+      },
+      {
+        "catalogId": "121933e7-08d8-4e46-bac8-1a81e5285474",
+        "name": "TEXPAMI 30MG.10ML INJECTION",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/121933e7-08d8-4e46-bac8-1a81e5285474.json"
       },
       {
         "catalogId": "121993a9-c4b0-4a46-ba65-34daeb22a1da",
@@ -2919,6 +2982,15 @@
         "atc5": "L01FG01",
         "registrationNumber": "170 95 36978 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/13bcec48-6bbc-4366-9625-9383a34dd96c.json"
+      },
+      {
+        "catalogId": "13d0c37d-377d-4f56-a723-2c376016337b",
+        "name": "WELLVONE 750MG/5ML ORAL SOLUTION  226ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/13d0c37d-377d-4f56-a723-2c376016337b.json"
       },
       {
         "catalogId": "13ea7b24-d80b-4d96-9c58-82f987b35dcf",
@@ -3605,6 +3677,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/17d2b653-1865-4f19-8710-661c087a4be7.json"
       },
       {
+        "catalogId": "17d6ed4a-1e15-4624-b899-768fcff28bc0",
+        "name": "VALCYTE POWDER FOR ORAL SUSPENSION 100ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/17d6ed4a-1e15-4624-b899-768fcff28bc0.json"
+      },
+      {
         "catalogId": "17d781df-c17c-4249-a0b5-619496f461b7",
         "name": "ENTEAVENIR 0.5 MG",
         "status": "",
@@ -4091,6 +4172,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1afbb0fa-dc92-4f08-af3f-0627de1e53d7.json"
       },
       {
+        "catalogId": "1b409e02-c0ab-48e3-8b78-972182750873",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1b409e02-c0ab-48e3-8b78-972182750873.json"
+      },
+      {
         "catalogId": "1b440a62-d611-4301-aead-1bee81566266",
         "name": "SALVAKAL",
         "status": "",
@@ -4289,6 +4379,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1c628367-4213-49f0-a29a-779e40e0dac1.json"
       },
       {
+        "catalogId": "1c6e5d72-6f1a-4568-895e-fde65de589e4",
+        "name": "VEPESID 50MG 20CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1c6e5d72-6f1a-4568-895e-fde65de589e4.json"
+      },
+      {
         "catalogId": "1c6ee09e-c7ca-4cb8-add4-fdf95e93b6bd",
         "name": "ATZIRUT X",
         "status": "",
@@ -4377,6 +4476,15 @@
         "atc5": "N02BE01",
         "registrationNumber": "140 18 31762 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1ccf6c80-8b7d-453f-b569-fc0fd54f366c.json"
+      },
+      {
+        "catalogId": "1ccfbf1b-fc75-40e8-80ef-103017f24120",
+        "name": "UROMITEXAN 400 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "V03AF01",
+        "registrationNumber": "153 48 34007 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1ccfbf1b-fc75-40e8-80ef-103017f24120.json"
       },
       {
         "catalogId": "1cd2dac4-0c20-41bd-a0ea-2c8f02901b61",
@@ -4523,6 +4631,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1dcaab8c-5195-461d-9f1a-01b8cc040280.json"
       },
       {
+        "catalogId": "1ddb45ea-6a1c-438a-9202-304a21c23cd7",
+        "name": "ZERIT 30MG 60CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1ddb45ea-6a1c-438a-9202-304a21c23cd7.json"
+      },
+      {
         "catalogId": "1df67e81-cdb8-42ab-98ec-79217682e769",
         "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
         "status": "",
@@ -4566,6 +4683,15 @@
         "atc5": "S02DA30",
         "registrationNumber": "165 07 36421 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1e1cb5be-dd79-42c1-80e6-ad3afbe4564b.json"
+      },
+      {
+        "catalogId": "1e21b5f2-1d2e-4ec7-9be3-a5be7c47aa78",
+        "name": "OLATUTON 10 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "H01CB02",
+        "registrationNumber": "169 38 36088 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/1e21b5f2-1d2e-4ec7-9be3-a5be7c47aa78.json"
       },
       {
         "catalogId": "1e4bb0ba-a374-4f0f-ad73-c3498b01dd14",
@@ -5540,6 +5666,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/24cd85dc-0dee-429d-8087-5747aec6b382.json"
       },
       {
+        "catalogId": "24d37edc-bb1a-4f05-b8ea-87cdb19cfcd7",
+        "name": "RESOCHIN 250MG 50TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/24d37edc-bb1a-4f05-b8ea-87cdb19cfcd7.json"
+      },
+      {
         "catalogId": "24ea8cd9-b398-4e9d-804e-e1b2d57c232f",
         "name": "HUMALOG",
         "status": "",
@@ -5675,6 +5810,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/25c0f320-9680-4b10-ae56-02c0a7471a72.json"
       },
       {
+        "catalogId": "25d9e8c2-5fdf-42e1-b27b-e321e44c37fb",
+        "name": "ULORIC 40MG 30TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/25d9e8c2-5fdf-42e1-b27b-e321e44c37fb.json"
+      },
+      {
         "catalogId": "25da1c13-6fd3-4eda-8b7c-52c941ec81ce",
         "name": "YUFLYMA",
         "status": "",
@@ -5736,6 +5880,15 @@
         "atc5": "L01FD06",
         "registrationNumber": "172 18 37089 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/25fe29bc-b28a-458e-9dfc-0fcc946c2acb.json"
+      },
+      {
+        "catalogId": "26209a87-b71e-43cc-bbfb-794fcd322e8d",
+        "name": "THYROID ARMOUR 60MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/26209a87-b71e-43cc-bbfb-794fcd322e8d.json"
       },
       {
         "catalogId": "2621e24e-744a-4e48-b0d6-da55ea54894d",
@@ -5844,6 +5997,15 @@
         "atc5": "V03AF03",
         "registrationNumber": "053 49 26932 05",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/26c24662-c963-4d73-8cdf-52f2014fcb2c.json"
+      },
+      {
+        "catalogId": "26c6350a-fd2d-4698-81fb-c6c0f83dffe8",
+        "name": "STROMECTOL 3MG 20TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/26c6350a-fd2d-4698-81fb-c6c0f83dffe8.json"
       },
       {
         "catalogId": "26cf80fe-9fb0-444f-8063-1ff43899f69b",
@@ -6339,6 +6501,15 @@
         "atc5": "A05AA02",
         "registrationNumber": "150 68 33832 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/29b74acd-36f3-424b-b0f8-0eb3ca658ac6.json"
+      },
+      {
+        "catalogId": "29cc9efd-5864-4601-b264-b35599aa1469",
+        "name": "VUMON 50MG/5ML 10AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/29cc9efd-5864-4601-b264-b35599aa1469.json"
       },
       {
         "catalogId": "29dd8682-b3b7-43b7-9b61-78146f9b71db",
@@ -6899,6 +7070,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2cdb165d-e9dc-4358-b58b-7f2350ff2c75.json"
       },
       {
+        "catalogId": "2cdbf59b-7e77-49aa-b065-f0697c442dab",
+        "name": "RIFALDIN 300MG 24 CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2cdbf59b-7e77-49aa-b065-f0697c442dab.json"
+      },
+      {
         "catalogId": "2cef6cd4-80a6-4d8c-8143-5ed7f0ca3e98",
         "name": "NULIBRY",
         "status": "",
@@ -7232,6 +7412,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2e9316e2-6e82-46be-929c-69f38d96f2df.json"
       },
       {
+        "catalogId": "2e933072-6c0e-44ed-8ea5-2bc7ae34fcfa",
+        "name": "TORECAN 6.5MG 20TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2e933072-6c0e-44ed-8ea5-2bc7ae34fcfa.json"
+      },
+      {
         "catalogId": "2e97f655-0419-444b-a950-dc1e05a57b4c",
         "name": "VYVANSE 30 MG",
         "status": "",
@@ -7286,6 +7475,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2edf8179-7e81-44f6-9de7-1b62f46269e5.json"
       },
       {
+        "catalogId": "2eeb7ed0-da59-4f77-8ca0-a31c428aa535",
+        "name": "SILVEROL CREAM",
+        "status": "",
+        "category": "29C",
+        "atc5": "D06BA01",
+        "registrationNumber": "020 56 20515 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2eeb7ed0-da59-4f77-8ca0-a31c428aa535.json"
+      },
+      {
         "catalogId": "2ef8df68-f1a2-44d9-ada5-e9cdb1f7c748",
         "name": "MAGNESIUM SULFATE 50 % W/V INOVAMED",
         "status": "",
@@ -7311,6 +7509,15 @@
         "atc5": "J01CR02",
         "registrationNumber": "112 75 29288 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2efcb6fb-db24-42dd-8ae2-a9c5696ead76.json"
+      },
+      {
+        "catalogId": "2f24d3e3-a2cd-434b-a7a1-d2e0b2aef2e4",
+        "name": "RIAMET 20MG/120MG 24 TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/2f24d3e3-a2cd-434b-a7a1-d2e0b2aef2e4.json"
       },
       {
         "catalogId": "2f2d44fa-a423-4e2b-aff7-db0eab06f838",
@@ -7529,6 +7736,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/30aaa264-a233-4f07-b121-df9e95f614a3.json"
       },
       {
+        "catalogId": "30ab448c-fa49-4762-b54f-72688931c82c",
+        "name": "ZANOSAR 1G 1VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/30ab448c-fa49-4762-b54f-72688931c82c.json"
+      },
+      {
         "catalogId": "30e8025b-ec88-4c62-9821-24ace5f81c2c",
         "name": "FINOLIM 0.5 MG",
         "status": "",
@@ -7682,6 +7898,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/31dc7ff7-1b41-4f6a-9130-239f95e861dd.json"
       },
       {
+        "catalogId": "31dce6bc-3f36-48dc-9ad1-1c4f738ae4a5",
+        "name": "TIBSOVO",
+        "status": "",
+        "category": "29C",
+        "atc5": "L01XX62",
+        "registrationNumber": "179 35 38216 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/31dce6bc-3f36-48dc-9ad1-1c4f738ae4a5.json"
+      },
+      {
         "catalogId": "31e7cca1-8c5a-4834-9001-48c467ad754b",
         "name": "RISPERIDEX 1 MG",
         "status": "",
@@ -7707,6 +7932,15 @@
         "atc5": "L04AA18",
         "registrationNumber": "163 28 35376 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3211e723-8806-4c8e-9b12-adaf359588d8.json"
+      },
+      {
+        "catalogId": "32281a0e-8839-42ee-bbac-e08690a4628b",
+        "name": "THIOPHENICOL 250MG 16 TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/32281a0e-8839-42ee-bbac-e08690a4628b.json"
       },
       {
         "catalogId": "323acb44-abc4-4a8c-a71a-b1fb14341cb3",
@@ -7815,6 +8049,15 @@
         "atc5": "L01BA04",
         "registrationNumber": "157 35 34702 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/32d63c67-b8b2-4abd-9c18-1dd36d1074e5.json"
+      },
+      {
+        "catalogId": "32efa57d-1dc6-4584-a036-a17554798339",
+        "name": "TRANSCOP 1.5MG 4 PATCHES",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/32efa57d-1dc6-4584-a036-a17554798339.json"
       },
       {
         "catalogId": "3311a0ea-2bd2-4619-af7d-cba535e828dd",
@@ -7997,6 +8240,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/34272c23-b155-4f37-919c-f6582868088b.json"
       },
       {
+        "catalogId": "3446fd7b-08c3-4c57-9171-6ee44c960136",
+        "name": "TOMUDEX INJECTION  2MG",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3446fd7b-08c3-4c57-9171-6ee44c960136.json"
+      },
+      {
         "catalogId": "34477e87-9424-431c-bc88-1bb31958c7ad",
         "name": "PERGOVERIS ®",
         "status": "",
@@ -8166,6 +8418,15 @@
         "atc5": "H02AB09",
         "registrationNumber": "164 46 35964 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/35368df3-081b-470d-8ee2-618edd1decaa.json"
+      },
+      {
+        "catalogId": "35511431-28a2-4b88-ae9a-20050b81ca54",
+        "name": "ZONISAMIDE 50MG 100CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/35511431-28a2-4b88-ae9a-20050b81ca54.json"
       },
       {
         "catalogId": "35535446-a928-4927-afcd-6fad3a180ff9",
@@ -8391,6 +8652,15 @@
         "atc5": "N06BA04",
         "registrationNumber": "146 50 33288 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/36f7aa3a-2d9e-477d-a7a4-50a35ca8f064.json"
+      },
+      {
+        "catalogId": "37058a93-9d3a-423c-9419-a78c90a4560a",
+        "name": "ANDROGEL 50 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "G03BA03",
+        "registrationNumber": "141 18 30760 01",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/37058a93-9d3a-423c-9419-a78c90a4560a.json"
       },
       {
         "catalogId": "3711f917-78d5-4d0d-9a91-f50a4b57de06",
@@ -9210,6 +9480,15 @@
         "atc5": "S01ED01",
         "registrationNumber": "156 64 34246 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3cc96954-0a3d-4571-9fae-a5b7d975c2f2.json"
+      },
+      {
+        "catalogId": "3cd95fbf-6773-40e2-974e-a173da40756b",
+        "name": "SIRDALUD 4MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/3cd95fbf-6773-40e2-974e-a173da40756b.json"
       },
       {
         "catalogId": "3cf2b841-afe7-46ae-9f53-37007f4c1cb2",
@@ -10436,6 +10715,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/447c39f7-6543-4ae2-a82a-bc721472243c.json"
       },
       {
+        "catalogId": "448c615d-6e98-4ed9-9530-d9502ad698fd",
+        "name": "SINERDOL ISO 300MG/150MG  60 CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/448c615d-6e98-4ed9-9530-d9502ad698fd.json"
+      },
+      {
         "catalogId": "448c6e93-d10f-49fd-b840-c7ed64662430",
         "name": "PARSABIV",
         "status": "",
@@ -10713,6 +11001,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/45ddd58f-1840-4654-a234-bc0155ce8a03.json"
+      },
+      {
+        "catalogId": "45eac514-b64a-4bc6-a8ec-ba1165144eab",
+        "name": "ULTRALAN 5MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/45eac514-b64a-4bc6-a8ec-ba1165144eab.json"
       },
       {
         "catalogId": "45f1a2ca-196b-4b1b-b1ec-3e6341632011",
@@ -11471,6 +11768,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4bc0f6b2-3816-40a6-ba04-557ce8ecd9d8.json"
       },
       {
+        "catalogId": "4bc1d5de-4f3a-4497-a4c0-f95a582b2d1f",
+        "name": "VERAPRESS 240 SR",
+        "status": "",
+        "category": "29C",
+        "atc5": "C08DA01",
+        "registrationNumber": "068 63 26427 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4bc1d5de-4f3a-4497-a4c0-f95a582b2d1f.json"
+      },
+      {
         "catalogId": "4bd20363-7735-4b40-880c-00a8ee386651",
         "name": "TARGIN 10",
         "status": "",
@@ -11723,6 +12029,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4d662f7b-1eb1-4a3c-b57a-656b2a17d427.json"
       },
       {
+        "catalogId": "4d75d835-351b-4945-8cc9-48c711decfc0",
+        "name": "VEPESID 100MG 20 CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4d75d835-351b-4945-8cc9-48c711decfc0.json"
+      },
+      {
         "catalogId": "4da9c860-a4fa-48de-9be7-6ac2c8bb75ca",
         "name": "PERGOVERIS ®",
         "status": "",
@@ -11730,6 +12045,15 @@
         "atc5": "G03GA05",
         "registrationNumber": "145 07 33159 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4da9c860-a4fa-48de-9be7-6ac2c8bb75ca.json"
+      },
+      {
+        "catalogId": "4dc5f72e-ace6-4213-96ce-a4c455e0d2f1",
+        "name": "SEBOSEL",
+        "status": "",
+        "category": "29C",
+        "atc5": "D01AE13",
+        "registrationNumber": "016 79 21210 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/4dc5f72e-ace6-4213-96ce-a4c455e0d2f1.json"
       },
       {
         "catalogId": "4dd786ee-fe56-4a78-969d-24a2b9750c2e",
@@ -12191,6 +12515,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/50e27df4-d150-4624-988e-b4ceb400624d.json"
       },
       {
+        "catalogId": "50edc734-a19f-4e0c-a6db-44db423f6675",
+        "name": "VIMPAT 10 MG/ML",
+        "status": "",
+        "category": "29C",
+        "atc5": "N03AX18",
+        "registrationNumber": "149 13 33552 01",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/50edc734-a19f-4e0c-a6db-44db423f6675.json"
+      },
+      {
         "catalogId": "50f2f54c-1166-4250-8f72-2b9deefa4696",
         "name": "ASSIVAL 5 MG",
         "status": "",
@@ -12441,6 +12774,15 @@
         "atc5": "C07AB07",
         "registrationNumber": "152 68 34097 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/52542f28-a12c-4aac-b31a-ca0bbb97dabc.json"
+      },
+      {
+        "catalogId": "52553e13-820d-4742-bf4c-92ce6d4f5cfc",
+        "name": "ZERIT 40MG 60CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/52553e13-820d-4742-bf4c-92ce6d4f5cfc.json"
       },
       {
         "catalogId": "5257bdf5-8853-4581-80a2-f9fde32dce1f",
@@ -12947,6 +13289,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/55586f69-b1a1-47ee-b052-71d78138c2fb.json"
       },
       {
+        "catalogId": "5587e534-8301-4069-a8b6-c026a118aab3",
+        "name": "TIAPRIDAL 100MG 20TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5587e534-8301-4069-a8b6-c026a118aab3.json"
+      },
+      {
         "catalogId": "5588da19-29a9-4e60-a30d-e4faa5b7d68d",
         "name": "CURATANE 10 MG",
         "status": "",
@@ -13217,6 +13568,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/56fcf8a7-8d64-4f33-aa49-340cfc142f64.json"
       },
       {
+        "catalogId": "571277d6-8515-4361-bf7e-85b29464f047",
+        "name": "SYNACTHEN 0.25MG/ML 10AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/571277d6-8515-4361-bf7e-85b29464f047.json"
+      },
+      {
         "catalogId": "5716e373-930d-4e71-9b8b-ea65af6c822c",
         "name": "INS.INSULATARD H10ML",
         "status": "active",
@@ -13386,6 +13746,15 @@
         "atc5": "N05AX13",
         "registrationNumber": "169 09 37280 99",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/58453aba-469c-43dc-b5ed-5d26354726ca.json"
+      },
+      {
+        "catalogId": "5857e0de-d541-4e61-aa7e-2565faff21c8",
+        "name": "ROHYPNOL 1MG 20TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5857e0de-d541-4e61-aa7e-2565faff21c8.json"
       },
       {
         "catalogId": "585c0548-b99a-4275-9291-e32e0b4c175c",
@@ -13584,6 +13953,15 @@
         "atc5": "G03AC09",
         "registrationNumber": "103 11 26498 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/599bdaae-59b9-400d-a3bf-d4a9a25495c0.json"
+      },
+      {
+        "catalogId": "59d173df-76a6-430f-9ac6-7321cfbf1c46",
+        "name": "RYTARY ER 48.75/195 CAPSULES",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/59d173df-76a6-430f-9ac6-7321cfbf1c46.json"
       },
       {
         "catalogId": "59d17863-9349-49e0-b04e-b4256cc5acc0",
@@ -13973,6 +14351,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5c2001f5-6a79-427a-b14d-4fa95a7be778.json"
       },
       {
+        "catalogId": "5c2a04be-e845-4144-a9c8-43f0c0f5420b",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5c2a04be-e845-4144-a9c8-43f0c0f5420b.json"
+      },
+      {
         "catalogId": "5c3e0d58-3951-42ba-bb02-7eea59dbfe44",
         "name": "OMEPRADEX - Z",
         "status": "",
@@ -14286,6 +14673,15 @@
         "atc5": "L04AA05",
         "registrationNumber": "127 71 30667 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5e7b1bb2-7932-4817-9fef-8fa8517f4f64.json"
+      },
+      {
+        "catalogId": "5e98e1a1-5976-488c-a8ce-9387e59515e4",
+        "name": "TISEPT 25ML 250 SACHET",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/5e98e1a1-5976-488c-a8ce-9387e59515e4.json"
       },
       {
         "catalogId": "5e9c2587-b27c-4a11-b737-d9e4022d6df1",
@@ -14808,6 +15204,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/622e77dc-02a1-4d58-b6ba-218fd2edb59e.json"
+      },
+      {
+        "catalogId": "62446c06-740a-4600-aa67-e70b7ce1fc03",
+        "name": "ZERIT PED. POWDER FOR ORAL SOL 1MG/ML 200ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/62446c06-740a-4600-aa67-e70b7ce1fc03.json"
       },
       {
         "catalogId": "62481773-7d56-4e7e-b8a0-605f5ed92486",
@@ -15341,6 +15746,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/64b18131-4ce1-4234-9c8f-845f955c19f2.json"
       },
       {
+        "catalogId": "64b934c2-fc4f-4d0b-91f8-c99828d64354",
+        "name": "TELMISARTAN ACTAVIS 80MG   28tabs",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/64b934c2-fc4f-4d0b-91f8-c99828d64354.json"
+      },
+      {
         "catalogId": "64db8b2b-e340-4489-9351-c9a9e490f7c1",
         "name": "OSPOLOT",
         "status": "",
@@ -15611,6 +16025,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/662bc5b1-7822-4769-b183-12fdeeb7f7a9.json"
       },
       {
+        "catalogId": "66326bcd-7580-4ab3-b023-12adbd40049f",
+        "name": "TILAVIST 2% EYE DROPS 5 ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/66326bcd-7580-4ab3-b023-12adbd40049f.json"
+      },
+      {
         "catalogId": "66347896-0767-409e-8016-2d233f4c7d1f",
         "name": "VOLTAREN EMULGEL 1%",
         "status": "",
@@ -15789,6 +16212,15 @@
         "atc5": "N03AF03",
         "registrationNumber": "145 35 33202 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/679e03aa-ee3f-4d7e-874f-a9d4e212e997.json"
+      },
+      {
+        "catalogId": "67cd4721-94ab-458c-92bb-0c7482c52dfa",
+        "name": "SEREPRILE 100MG 20TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/67cd4721-94ab-458c-92bb-0c7482c52dfa.json"
       },
       {
         "catalogId": "67e3f8db-405b-440b-a75e-9cd039525e56",
@@ -16484,6 +16916,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6c8a1eb9-36a9-4f8f-912b-b818ec505f6c.json"
       },
       {
+        "catalogId": "6c8fbc2e-f0b4-4c34-aa12-cc6c9a25571c",
+        "name": "SYNACTHEN 0.25MG/ML AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6c8fbc2e-f0b4-4c34-aa12-cc6c9a25571c.json"
+      },
+      {
         "catalogId": "6c904672-c77a-4d02-b245-ba119c9a5cbd",
         "name": "SKYRIZI 150 MG",
         "status": "",
@@ -16527,6 +16968,15 @@
         "atc5": "L01XX32",
         "registrationNumber": "157 36 34619 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6cb6096f-eff0-4b4c-983d-4f9d61086ec3.json"
+      },
+      {
+        "catalogId": "6cbbeb0b-97ce-4e7b-b5e7-5961ebbf0784",
+        "name": "REBETOL 40MG/ML SYR 100ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6cbbeb0b-97ce-4e7b-b5e7-5961ebbf0784.json"
       },
       {
         "catalogId": "6ccc7478-436e-4933-91a2-93e5fe573439",
@@ -16608,6 +17058,15 @@
         "atc5": "R03BA05",
         "registrationNumber": "129 81 30973 11",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6d6a4b10-14a0-4007-b190-37794e84f09f.json"
+      },
+      {
+        "catalogId": "6d6fceb1-17b0-4df1-a171-1657b8e5643c",
+        "name": "SAMSCA 30MG 10 tab",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6d6fceb1-17b0-4df1-a171-1657b8e5643c.json"
       },
       {
         "catalogId": "6d7c7866-3045-4ada-bb4c-74469c01305d",
@@ -16862,6 +17321,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6e927c91-9157-4707-a32e-844f57dcfa50.json"
       },
       {
+        "catalogId": "6e9707bd-86cf-4754-bf66-7b2d483ddff8",
+        "name": "RIFADIN SYR 100MG/5ML 120ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6e9707bd-86cf-4754-bf66-7b2d483ddff8.json"
+      },
+      {
         "catalogId": "6ea20035-36ed-4814-bb41-3b0cc2b7be03",
         "name": "PARNATE 10MG 100TAB",
         "status": "active",
@@ -16941,6 +17409,15 @@
         "atc5": "G03DA04",
         "registrationNumber": "132 44 26341 11",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6ef9d817-19b6-4e60-8964-d639df0921f8.json"
+      },
+      {
+        "catalogId": "6efbc4a5-6d33-4fc2-a53e-e643f35d331c",
+        "name": "VEPESID 50MG 10CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/6efbc4a5-6d33-4fc2-a53e-e643f35d331c.json"
       },
       {
         "catalogId": "6f00e0ea-bed6-47bb-9eb5-f351bd00ab24",
@@ -17591,6 +18068,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/73a12361-de33-4b00-b996-92c2bcb4bd83.json"
       },
       {
+        "catalogId": "73a24f9a-f2ef-43c4-9f99-37c3a4fdca74",
+        "name": "RIBODRONATE 3MG/ML 20ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/73a24f9a-f2ef-43c4-9f99-37c3a4fdca74.json"
+      },
+      {
         "catalogId": "73b688be-1304-4e4f-b05c-cd11cf611d51",
         "name": "ENDOMETRIN",
         "status": "",
@@ -17742,6 +18228,15 @@
         "atc5": "L01EE01",
         "registrationNumber": "154 95 34309 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/74582eb9-db07-4c60-a0f5-3006a992881f.json"
+      },
+      {
+        "catalogId": "746715be-8de6-4285-a304-3fb5d688635c",
+        "name": "RIFADIN 150MG 100 CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/746715be-8de6-4285-a304-3fb5d688635c.json"
       },
       {
         "catalogId": "7482cbc8-5ed0-434e-8070-8ac8dfdc6290",
@@ -18039,6 +18534,15 @@
         "atc5": null,
         "registrationNumber": "083 70 92374 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/77189d4a-48db-4ea3-a97c-ec5afe3608d2.json"
+      },
+      {
+        "catalogId": "772cee99-1376-4257-a055-e1b3d8f31dcb",
+        "name": "X-PREP 150MG  LIQUID 10MG/5ML 75ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/772cee99-1376-4257-a055-e1b3d8f31dcb.json"
       },
       {
         "catalogId": "773193b8-5aed-4df6-8b73-d3a98ef961b1",
@@ -18588,6 +19092,15 @@
         "atc5": "N01AH01",
         "registrationNumber": "152 90 34050 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7a815dac-8598-4976-8748-4cf184f1ee05.json"
+      },
+      {
+        "catalogId": "7a870dea-5fb3-4a61-b6cf-41a1e8e15d54",
+        "name": "SUXAMETHONIUM CHLORID VUAB 100 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "M03AB01",
+        "registrationNumber": "166 27 35120 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7a870dea-5fb3-4a61-b6cf-41a1e8e15d54.json"
       },
       {
         "catalogId": "7a958e8d-e250-47cb-bafd-c2e52a21f535",
@@ -19209,6 +19722,15 @@
         "atc5": "H01BA02",
         "registrationNumber": "141 99 25705 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7d9f0af4-51a0-477e-b902-6d5ce4a1ef46.json"
+      },
+      {
+        "catalogId": "7da43451-f742-484f-9a16-2d5b9f1eda88",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/7da43451-f742-484f-9a16-2d5b9f1eda88.json"
       },
       {
         "catalogId": "7da5fa69-1b0f-4017-a83c-7c639bc37e00",
@@ -20372,6 +20894,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/850cf5de-1fdd-4cdd-b38b-dfaae661bb63.json"
       },
       {
+        "catalogId": "8515bd49-21e7-4e80-b69b-b203b357cd69",
+        "name": "VASOPRESSIN FARMAK",
+        "status": "",
+        "category": "29C",
+        "atc5": "H01BA06",
+        "registrationNumber": "171 34 36960 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/8515bd49-21e7-4e80-b69b-b203b357cd69.json"
+      },
+      {
         "catalogId": "85165470-b2f2-47c0-803a-52abd102e6ea",
         "name": "NICOTINELL LOZENGES 1 MG",
         "status": "",
@@ -20453,6 +20984,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/8553c012-4e3e-4ff6-b77f-c1830e3dfc5c.json"
       },
       {
+        "catalogId": "855fd155-cf0f-4cbb-8512-667a27c00986",
+        "name": "SUPRAX 100MG/5ML syringe 60 ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/855fd155-cf0f-4cbb-8512-667a27c00986.json"
+      },
+      {
         "catalogId": "856e2b8f-6519-4ee8-ba25-f7241100c53c",
         "name": "CEFOTAXIME MEDO 1 GR",
         "status": "",
@@ -20525,6 +21065,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/859c696c-fea5-4198-8b0c-8c6c9a4dd891.json"
       },
       {
+        "catalogId": "85a6330b-31c5-422b-b81a-3bf6fc767f98",
+        "name": "THIOLA 250MG 30TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/85a6330b-31c5-422b-b81a-3bf6fc767f98.json"
+      },
+      {
         "catalogId": "85aa16f0-8ffd-4b7d-838d-be3d9c968153",
         "name": "HYDROGEN PEROXIDE 3% LIFE",
         "status": "",
@@ -20559,6 +21108,15 @@
         "atc5": "V03AC03",
         "registrationNumber": "167 88 35880 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/85e1adef-c2fb-43aa-9958-a9e05763092d.json"
+      },
+      {
+        "catalogId": "85ebc3b9-8d2e-408e-baf4-aa775f23b7e3",
+        "name": "ZOLINZA 100MG 120CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/85ebc3b9-8d2e-408e-baf4-aa775f23b7e3.json"
       },
       {
         "catalogId": "85f0c9e6-3b8b-4990-af0c-92d11fac9a2c",
@@ -20946,6 +21504,15 @@
         "atc5": "L01XE01",
         "registrationNumber": "157 59 34527 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/87b4c14a-29d2-4742-9b9c-aa793fbbd236.json"
+      },
+      {
+        "catalogId": "87bc0984-6a3f-4dbc-90d5-07c88c56fba6",
+        "name": "VEPESID 100MG 10CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/87bc0984-6a3f-4dbc-90d5-07c88c56fba6.json"
       },
       {
         "catalogId": "87ccdaaa-f514-4b9d-9d7f-c655b3ae8ab6",
@@ -22316,6 +22883,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/906f3338-0a78-4c44-803e-f4e09fc46221.json"
       },
       {
+        "catalogId": "9084facc-6bcd-4c52-93fe-75fcf606a339",
+        "name": "ZONISAMIDE 100MG 100CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9084facc-6bcd-4c52-93fe-75fcf606a339.json"
+      },
+      {
         "catalogId": "90886049-e0c7-4cd4-bf04-0e693ba0b7b4",
         "name": "REPATHA",
         "status": "",
@@ -22730,6 +23306,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/92cf5ad1-c5e9-42c4-b0a2-491124706be1.json"
       },
       {
+        "catalogId": "92dbe5a8-a9fe-4bd4-857c-5ea35be5b7e3",
+        "name": "TREOSULFAN RAZ 5 G",
+        "status": "",
+        "category": "29C",
+        "atc5": "L01AB02",
+        "registrationNumber": "167 98 35696 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/92dbe5a8-a9fe-4bd4-857c-5ea35be5b7e3.json"
+      },
+      {
         "catalogId": "92e89d48-23ce-4b8d-908f-d2f0f5dc990c",
         "name": "IXIFI",
         "status": "",
@@ -22845,6 +23430,15 @@
         "atc5": "C01AA05",
         "registrationNumber": "126 96 30673 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/937000a1-e8eb-4bd3-a061-69421fd01e5c.json"
+      },
+      {
+        "catalogId": "9382c121-d7a7-4764-955a-c6830ba311eb",
+        "name": "TOLBUTAMIDE 500MG 28TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9382c121-d7a7-4764-955a-c6830ba311eb.json"
       },
       {
         "catalogId": "939eceaa-5a6c-43e3-8cfa-12002b488116",
@@ -23738,6 +24332,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/98f2f5ed-c25e-451f-bb51-d69303951979.json"
       },
       {
+        "catalogId": "99133a1e-bec7-493e-839c-d04d7c1d089e",
+        "name": "R-GENE 10% INJ 300ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/99133a1e-bec7-493e-839c-d04d7c1d089e.json"
+      },
+      {
         "catalogId": "993b061f-6f9c-4eb6-863c-38578ff028b5",
         "name": "VOLTAREN ACTI-GO LIQUID GEL CAPS",
         "status": "",
@@ -24287,6 +24890,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9c4da5ff-4119-4073-b6d9-b7fb9c550b4f.json"
       },
       {
+        "catalogId": "9c8465bd-3767-4fea-9912-8372d8e647f7",
+        "name": "TIAPRIZAL 100MG 24TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9c8465bd-3767-4fea-9912-8372d8e647f7.json"
+      },
+      {
         "catalogId": "9c85912f-94c6-4001-8e66-05222782b207",
         "name": "BITNI TABLETS",
         "status": "",
@@ -24728,6 +25340,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9f7a40c9-6352-4a1d-94b2-b5f1ad2550ef.json"
       },
       {
+        "catalogId": "9f7c829e-8dcf-4706-845b-22d85091c6a0",
+        "name": "RIFALDIN 600MG VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9f7c829e-8dcf-4706-845b-22d85091c6a0.json"
+      },
+      {
         "catalogId": "9f809232-9f57-4cb3-9469-8586b3fdf995",
         "name": "CEFAZOL 1 G.",
         "status": "",
@@ -24762,6 +25383,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9f9b95b0-c0a8-40d9-9fce-fe73e157de60.json"
+      },
+      {
+        "catalogId": "9fa2c963-eb04-481b-a4fc-db19bef4f765",
+        "name": "UBRETID 5MG TABLETS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/9fa2c963-eb04-481b-a4fc-db19bef4f765.json"
       },
       {
         "catalogId": "9fa6770f-da90-4b6c-9c1d-ee2a8d841b21",
@@ -24897,6 +25527,15 @@
         "atc5": "J06BA02",
         "registrationNumber": "121 04 29877 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a04f669d-dfb1-4fde-8820-2cc26ebc9fc3.json"
+      },
+      {
+        "catalogId": "a0590ea3-e3b4-4bfc-95b1-73503a5c7e6e",
+        "name": "TALOXA 600MG 40 TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a0590ea3-e3b4-4bfc-95b1-73503a5c7e6e.json"
       },
       {
         "catalogId": "a060ab79-533c-4e60-a501-01eda0f823e5",
@@ -25259,6 +25898,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a388601b-ae51-4ed9-808d-b993ce4241cc.json"
       },
       {
+        "catalogId": "a3a571f3-584a-405a-80dd-6c5820552f9e",
+        "name": "VISTARIL 25MG CAPSULES",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a3a571f3-584a-405a-80dd-6c5820552f9e.json"
+      },
+      {
         "catalogId": "a3aa7bb1-7a44-439b-870b-93ff3da55368",
         "name": "FELDENE GEL 50GR",
         "status": "active",
@@ -25464,6 +26112,15 @@
         "atc5": "B01AF01",
         "registrationNumber": "151 87 34048 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a502d5a6-6cfa-4766-b4c3-500871ffd3bc.json"
+      },
+      {
+        "catalogId": "a50545a1-3e5c-481c-adcf-26ffc538f416",
+        "name": "ZYMAFLUOR 0.5MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a50545a1-3e5c-481c-adcf-26ffc538f416.json"
       },
       {
         "catalogId": "a537789e-8404-40d2-b13c-c52dd7ea0d4a",
@@ -26024,6 +26681,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a95a4c81-5f52-4f0c-ace1-63653352c539.json"
       },
       {
+        "catalogId": "a971a4f7-0eab-478d-b650-04654e230a90",
+        "name": "UROREC 8MG 10 caps",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/a971a4f7-0eab-478d-b650-04654e230a90.json"
+      },
+      {
         "catalogId": "a98ec3c2-4847-4d6c-965a-48ad4a9d2164",
         "name": "PHENIDIN 18 MG",
         "status": "",
@@ -26121,6 +26787,15 @@
         "atc5": "A10AE05",
         "registrationNumber": "132 40 31119 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/aa358f79-5163-438f-b0c7-1c3b352ba695.json"
+      },
+      {
+        "catalogId": "aa373c9a-568d-41e2-807d-090c5b848eed",
+        "name": "STIMOL 1G/10ML ORAL SOL 36 SACHETS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/aa373c9a-568d-41e2-807d-090c5b848eed.json"
       },
       {
         "catalogId": "aa404808-7c01-4c96-a403-a07df7a8cbfd",
@@ -26780,6 +27455,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ae2fca20-1919-4917-9060-ce42a36fe585.json"
       },
       {
+        "catalogId": "ae55be7d-a9a2-40ec-8e2c-035dde0045ae",
+        "name": "ZARONTIN 50MG/ML ORAL SUSP 200ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ae55be7d-a9a2-40ec-8e2c-035dde0045ae.json"
+      },
+      {
         "catalogId": "ae6d4607-9d8a-4c9f-8dae-db52b20b3919",
         "name": "SUNITINIB TEVA  ® 12.5 MG",
         "status": "",
@@ -26877,6 +27561,15 @@
         "atc5": "D01AC01",
         "registrationNumber": "165 90 36618 99",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/af284413-e1bf-4ed4-bee5-27c827a9bce2.json"
+      },
+      {
+        "catalogId": "af327b8f-7458-4649-8ed4-6e68f45ffcaa",
+        "name": "SOTALOL 80MG 30TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/af327b8f-7458-4649-8ed4-6e68f45ffcaa.json"
       },
       {
         "catalogId": "af68d654-8930-4de7-ab38-8604f66d6042",
@@ -27122,6 +27815,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b101151c-45f7-4e7a-afd0-0e9b03ff3571.json"
       },
       {
+        "catalogId": "b10f19b7-8486-414d-8a33-b6c2bf3d468f",
+        "name": "TRIGON DEPOT 40MG/ML 5 AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b10f19b7-8486-414d-8a33-b6c2bf3d468f.json"
+      },
+      {
         "catalogId": "b1105672-6487-48d1-8504-10c2aca6a246",
         "name": "TREMFYA 100 MG/ML S.C",
         "status": "",
@@ -27156,6 +27858,15 @@
         "atc5": "J05AF10",
         "registrationNumber": "154 78 34441 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b14c22de-f496-4c35-8197-19e0be622365.json"
+      },
+      {
+        "catalogId": "b15b7370-2ebc-479e-9782-6af8ea2f6b01",
+        "name": "TALOXA 600MG/5ML ORAL SUSP 230ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b15b7370-2ebc-479e-9782-6af8ea2f6b01.json"
       },
       {
         "catalogId": "b15e8231-2dd1-456a-8279-8985e34f55d8",
@@ -27545,6 +28256,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b3bd7752-a599-4386-84d1-a628869722d4.json"
       },
       {
+        "catalogId": "b3c5d4fc-eae6-4a9b-9c82-480fabb386bf",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b3c5d4fc-eae6-4a9b-9c82-480fabb386bf.json"
+      },
+      {
         "catalogId": "b3d4c24f-aed4-4b19-8c47-9d79bda3a592",
         "name": "AGISPOR SOLUTION",
         "status": "",
@@ -27914,6 +28634,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b5dd6c1c-15d8-4f21-98cb-64acebeb9a96.json"
       },
       {
+        "catalogId": "b5e2c1f2-c5bb-4e1a-8afb-54f248897f4b",
+        "name": "RELEFACT LH-RH 100MCG (0.1MG/ML) 10 AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b5e2c1f2-c5bb-4e1a-8afb-54f248897f4b.json"
+      },
+      {
         "catalogId": "b5e358eb-41a3-489a-a9fc-59a2ef24656f",
         "name": "PIQRAY 150 MG",
         "status": "",
@@ -28218,6 +28947,15 @@
         "atc5": "R01AD05",
         "registrationNumber": "142 43 33002 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b7b453e1-70cd-4f0a-a378-f784d4b7aa5e.json"
+      },
+      {
+        "catalogId": "b7c5db7a-948e-4fe0-98ed-647a65c662c6",
+        "name": "SUNOSI 150 MG",
+        "status": "",
+        "category": "29C",
+        "atc5": "N06BA14",
+        "registrationNumber": "172 81 37285 99",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/b7c5db7a-948e-4fe0-98ed-647a65c662c6.json"
       },
       {
         "catalogId": "b7d66f5b-47fb-47e6-a5f9-52f1e4e51e42",
@@ -29318,6 +30056,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/be7b5d13-ddfc-4e6f-8e6e-1d76bc3005dd.json"
       },
       {
+        "catalogId": "be8802ae-3451-4d85-893a-14e07b9341ba",
+        "name": "SALAZOPYRIN",
+        "status": "",
+        "category": "29C",
+        "atc5": "A07EC01",
+        "registrationNumber": "113 35 21579 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/be8802ae-3451-4d85-893a-14e07b9341ba.json"
+      },
+      {
         "catalogId": "be96725e-4ad0-451b-9984-d2ddfa47de43",
         "name": "NERIDERM OINTMENT",
         "status": "",
@@ -29732,6 +30479,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c0a057c7-48c7-46f9-8264-da2149f82208.json"
       },
       {
+        "catalogId": "c0ae9cda-231a-4e09-88a9-c8ca3f845455",
+        "name": "SYNTOMETRINE 5 I.U./1ML 5AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c0ae9cda-231a-4e09-88a9-c8ca3f845455.json"
+      },
+      {
         "catalogId": "c0b5b16f-8e65-48f1-af57-98daf5a251da",
         "name": "BUPIVACAIN HYPERBAR SINTETICA 5 MG/ML",
         "status": "",
@@ -30083,6 +30839,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c1fda98c-58a9-44aa-bd12-1cd6d0aba825.json"
       },
       {
+        "catalogId": "c1ff0354-f468-4871-8270-83eca6002428",
+        "name": "SCOPODERM TTS 1.5MG 2 PATCHES",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c1ff0354-f468-4871-8270-83eca6002428.json"
+      },
+      {
         "catalogId": "c2045fa5-0556-40e7-8ad0-66802d0e3e40",
         "name": "GLAUTAN",
         "status": "",
@@ -30135,6 +30900,15 @@
         "atc5": "R03AC12",
         "registrationNumber": "067 16 28303 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c2172457-f3a7-48e9-ac64-50cacbecd8d1.json"
+      },
+      {
+        "catalogId": "c21da5cc-ca80-4980-a8a8-85697f57716b",
+        "name": "VIDEX PED 2G POWDER FOR SOL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c21da5cc-ca80-4980-a8a8-85697f57716b.json"
       },
       {
         "catalogId": "c21dc043-1da4-4fab-9ea2-2ddeb1abba4c",
@@ -30290,6 +31064,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c2f82348-0d2b-4014-802f-bdc35d97712f.json"
       },
       {
+        "catalogId": "c30c3b23-fbf0-4628-b96a-d4ab4b726f6d",
+        "name": "TOBREX OPHTHALMIC OINTMENT",
+        "status": "",
+        "category": "29C",
+        "atc5": "S01AA12",
+        "registrationNumber": "047 16 22795 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c30c3b23-fbf0-4628-b96a-d4ab4b726f6d.json"
+      },
+      {
         "catalogId": "c30ff113-a962-4840-a6bd-995cd054e5e5",
         "name": "THEOTRIM 100",
         "status": "",
@@ -30369,6 +31152,24 @@
         "atc5": "L01BA01",
         "registrationNumber": "145 34 33074 04",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c3918555-5921-4f25-8e06-2ab0f89d4ace.json"
+      },
+      {
+        "catalogId": "c39e6656-8155-4ace-be80-ce0e7945c3ac",
+        "name": "ROCALTROL 0.25MCG 100CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c39e6656-8155-4ace-be80-ce0e7945c3ac.json"
+      },
+      {
+        "catalogId": "c3b537b5-8980-4697-baa6-0e9d0c13707b",
+        "name": "TAPAZOLE   5MG  100TABS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c3b537b5-8980-4697-baa6-0e9d0c13707b.json"
       },
       {
         "catalogId": "c3b5b96d-89fe-4e22-a2e3-a81fb3eb4a6d",
@@ -30641,6 +31442,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c54e515d-3258-45ea-999c-bdf5bc40b876.json"
       },
       {
+        "catalogId": "c5540a73-5155-4289-8189-3dead7d553ba",
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "status": "",
+        "category": "29C",
+        "atc5": "B05BB01",
+        "registrationNumber": "169 66 36052 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c5540a73-5155-4289-8189-3dead7d553ba.json"
+      },
+      {
         "catalogId": "c55574b3-bf70-4365-8d17-084b9694455d",
         "name": "OPDUALAG",
         "status": "",
@@ -30675,6 +31485,15 @@
         "atc5": "G04BD08",
         "registrationNumber": "152 33 33869 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c5af2218-b124-4197-a4dc-f765278e1a8b.json"
+      },
+      {
+        "catalogId": "c5b2e2b2-f42b-48c5-982f-492deb2bd194",
+        "name": "VASONASE 5MG/5ML 5AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c5b2e2b2-f42b-48c5-982f-492deb2bd194.json"
       },
       {
         "catalogId": "c5c3089e-3a54-4ca3-b634-adf79f761c91",
@@ -30713,6 +31532,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c5d84cdc-f8d6-488a-92b7-ab3e96412275.json"
       },
       {
+        "catalogId": "c5e88405-cbf4-46e3-8521-fa62e60689ea",
+        "name": "SERECOR 300MG 20 SR CAP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c5e88405-cbf4-46e3-8521-fa62e60689ea.json"
+      },
+      {
         "catalogId": "c5f24240-10e5-4af3-8e7a-7a227d4d759f",
         "name": "VOLTAREN EMULGEL 1%",
         "status": "",
@@ -30738,6 +31566,15 @@
         "atc5": "J07CA06",
         "registrationNumber": "112 53 29413 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c6108958-209c-48fa-b5af-5aa2edfaef7b.json"
+      },
+      {
+        "catalogId": "c61756dd-fc4c-48f2-9446-8c2a93728f0e",
+        "name": "SERECOR 300MG 60 SR CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c61756dd-fc4c-48f2-9446-8c2a93728f0e.json"
       },
       {
         "catalogId": "c62d6056-9f47-46f7-8bbb-f35643a90f1a",
@@ -30864,6 +31701,15 @@
         "atc5": "C01BA01",
         "registrationNumber": "149 88 33554 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c6a8a079-04be-401b-bf5b-5dbda3efdc82.json"
+      },
+      {
+        "catalogId": "c6b74074-ec7c-40c7-aee7-486023828fab",
+        "name": "SIBELUM 5MG 20CAPSULES",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c6b74074-ec7c-40c7-aee7-486023828fab.json"
       },
       {
         "catalogId": "c6b90b5e-139c-4bec-8195-42c131d087d5",
@@ -31008,6 +31854,15 @@
         "atc5": "R07AX31",
         "registrationNumber": "162 71 35683 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c783acb9-e076-43bd-9613-7c59f3fcb5ff.json"
+      },
+      {
+        "catalogId": "c7b54013-c1aa-4008-a469-bb3f980c70cf",
+        "name": "XIAPEX 0.9MG / VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c7b54013-c1aa-4008-a469-bb3f980c70cf.json"
       },
       {
         "catalogId": "c7b82dc9-7541-41b9-b90f-328bfa399095",
@@ -31341,6 +32196,15 @@
         "atc5": "C02KX01",
         "registrationNumber": "162 02 34906 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/c9f34780-980d-4d7e-a9da-354cf371f502.json"
+      },
+      {
+        "catalogId": "ca03cb28-358c-4ee5-be06-62b6fca763e8",
+        "name": "UVADEX 20MCG/ML INJECTION VIAL10ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ca03cb28-358c-4ee5-be06-62b6fca763e8.json"
       },
       {
         "catalogId": "ca06e460-7af2-493d-b17a-fa4dc8ae7363",
@@ -32297,6 +33161,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cf402054-224a-45dd-a98d-0417533c22df.json"
       },
       {
+        "catalogId": "cf4529cf-64d6-4ee9-901c-3e2573c71494",
+        "name": "RIFADIN 300MG 100 CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cf4529cf-64d6-4ee9-901c-3e2573c71494.json"
+      },
+      {
         "catalogId": "cf5104a0-58a0-4f3f-bc4c-f05e141edad3",
         "name": "LAMODEX 100 MG DISPERSIBLE/CHEWABLE TABLETS",
         "status": "",
@@ -32331,6 +33204,15 @@
         "atc5": "N05CD08",
         "registrationNumber": "171 77 37234 99",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cfd1be99-6481-4185-8a15-c36ee4488d5c.json"
+      },
+      {
+        "catalogId": "cfd4be07-b0f6-4e15-accd-5da89c69a0fc",
+        "name": "NAFPENZAL DC VETERINARY",
+        "status": "",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "077 64 91961 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/cfd4be07-b0f6-4e15-accd-5da89c69a0fc.json"
       },
       {
         "catalogId": "cffed0c1-40fb-4317-af0d-68506d21d37a",
@@ -32495,6 +33377,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d0b20dbb-4def-426c-b8d9-278d58342c99.json"
       },
       {
+        "catalogId": "d0b84387-cae0-4087-9def-c3dddbd39153",
+        "name": "TRAVASEPT 12 BOTTLES X 100ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d0b84387-cae0-4087-9def-c3dddbd39153.json"
+      },
+      {
         "catalogId": "d0bb185b-796b-4ad1-88bb-a4876f2e8e5a",
         "name": "FOSTIMON 150 IU",
         "status": "",
@@ -32502,6 +33393,15 @@
         "atc5": "G03GA04",
         "registrationNumber": "137 16 30176 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d0bb185b-796b-4ad1-88bb-a4876f2e8e5a.json"
+      },
+      {
+        "catalogId": "d0ca6acb-fc44-43e1-a951-0c1ad606d3d5",
+        "name": "RELISTOR 12MG/0.6ML 2VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d0ca6acb-fc44-43e1-a951-0c1ad606d3d5.json"
       },
       {
         "catalogId": "d0df045f-372a-4af0-8e8a-94629b135394",
@@ -33377,6 +34277,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d657c8a8-4047-4883-a65f-0730081b1f0a.json"
       },
       {
+        "catalogId": "d6586cf7-f5e1-416a-a87f-cdbeab6ba4bc",
+        "name": "UROLUX RETRO 250MG/ML 1X20ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d6586cf7-f5e1-416a-a87f-cdbeab6ba4bc.json"
+      },
+      {
         "catalogId": "d6780982-5464-429d-93c2-7d2f55bb0772",
         "name": "URAMOX",
         "status": "",
@@ -33447,6 +34356,15 @@
         "atc5": "J06BA02",
         "registrationNumber": "160 21 35267 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d6dc5aa3-66ab-4dd6-b7dd-7501cae74c2d.json"
+      },
+      {
+        "catalogId": "d6dce43d-e31a-4e39-9672-aa1f1002593d",
+        "name": "TRAVASEPT 12 BOTTLES X 500ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d6dce43d-e31a-4e39-9672-aa1f1002593d.json"
       },
       {
         "catalogId": "d6e30492-949a-414d-a9a0-a5c022328112",
@@ -33629,6 +34547,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d7f8d265-728d-4a59-bca4-f41d2703472a.json"
       },
       {
+        "catalogId": "d7fba71e-8d6c-4cf6-a24d-cb388feb338d",
+        "name": "SUCCINULCHOLINE 100MG/2ML 10VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d7fba71e-8d6c-4cf6-a24d-cb388feb338d.json"
+      },
+      {
         "catalogId": "d80e9194-95b3-47c6-8329-9a0c0af152a9",
         "name": "ZOLADEX",
         "status": "",
@@ -33690,6 +34617,15 @@
         "atc5": "N05AH04",
         "registrationNumber": "146 97 33472 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d8764252-053f-4a78-9d75-1a896613f3f0.json"
+      },
+      {
+        "catalogId": "d878a41c-2e97-4b52-bfff-750b5e399491",
+        "name": "SUCCINULCHOLINE 100MG/2ML 50VIAL",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/d878a41c-2e97-4b52-bfff-750b5e399491.json"
       },
       {
         "catalogId": "d87f2389-80ba-4988-a3a9-5f7ffc59198f",
@@ -34700,6 +35636,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/df68a5f8-28b5-49b3-9c10-486da59d3d23.json"
       },
       {
+        "catalogId": "df7352a6-7a9b-4af4-b24b-9ed7a74f94ba",
+        "name": "VEPESID 100MG 100CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/df7352a6-7a9b-4af4-b24b-9ed7a74f94ba.json"
+      },
+      {
         "catalogId": "df7bdd6e-2af1-4f32-8901-8eb323536506",
         "name": "IDELVION 1000 IU",
         "status": "",
@@ -34716,6 +35661,15 @@
         "atc5": "A05AA02",
         "registrationNumber": "019 25 20542 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/df823fa4-5f2a-45a3-bed1-e51ab25ab24f.json"
+      },
+      {
+        "catalogId": "df8c9aa5-f07a-48f6-93aa-361378f814d7",
+        "name": "XOROX 3% EYE OINTMENT   4.5g",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/df8c9aa5-f07a-48f6-93aa-361378f814d7.json"
       },
       {
         "catalogId": "df8f9d92-d95f-4790-b767-f4c400056b88",
@@ -34752,6 +35706,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/dfc3da9f-05c3-41db-990a-a9c16ce9abbe.json"
+      },
+      {
+        "catalogId": "dfc7261d-a616-4871-b015-9065c0b2a6a6",
+        "name": "ZARONTIN SYR 50MG/ML 500ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/dfc7261d-a616-4871-b015-9065c0b2a6a6.json"
       },
       {
         "catalogId": "dfd0e8b7-ee3a-4dea-b0e8-f1390835a6f9",
@@ -35042,6 +36005,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e103088a-b810-40d4-a7bf-60b454c688e7.json"
       },
       {
+        "catalogId": "e113db2d-7f4c-4fb0-8e3b-ac2c0c47061c",
+        "name": "STEROGYL15H 600 000UI/1.5ML 1AMP",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e113db2d-7f4c-4fb0-8e3b-ac2c0c47061c.json"
+      },
+      {
         "catalogId": "e11cd57b-1286-43b3-aabf-ff7d079343f3",
         "name": "CIALIS 10 MG",
         "status": "",
@@ -35157,6 +36129,15 @@
         "atc5": "G03AC09",
         "registrationNumber": "131 09 30977 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e1e7d01c-5ae4-498d-a738-83a384bbd03e.json"
+      },
+      {
+        "catalogId": "e1f37c93-f100-4762-9a25-f4d0537d37bf",
+        "name": "OXTRA VETERINARY",
+        "status": "",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "083 17 92350 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e1f37c93-f100-4762-9a25-f4d0537d37bf.json"
       },
       {
         "catalogId": "e1fcb75a-852e-47e1-bf8c-82d92569dcac",
@@ -36266,6 +37247,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e81590f2-73ea-4b50-b1e2-a171d4963a90.json"
       },
       {
+        "catalogId": "e82492f8-522d-457d-a063-ceca33ac518c",
+        "name": "UNISEPT 25ML 250 SACHETS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/e82492f8-522d-457d-a063-ceca33ac518c.json"
+      },
+      {
         "catalogId": "e83076d9-8b81-4774-9db4-a014241dd33c",
         "name": "PHYSICARE GEL",
         "status": "",
@@ -37157,6 +38147,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ee7a4d40-3691-42c8-8fae-e683b9c5388d.json"
       },
       {
+        "catalogId": "ee86d13d-903e-428d-a923-335f2132074e",
+        "name": "SYNTHROID 100 MCG TABLETS",
+        "status": "",
+        "category": "29C",
+        "atc5": "H03AA01",
+        "registrationNumber": "149 74 33763 01",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ee86d13d-903e-428d-a923-335f2132074e.json"
+      },
+      {
         "catalogId": "ee8debf7-73ac-492c-98b2-04ba7989ca1b",
         "name": "VANCOMYCIN LYOMARK 1000 MG",
         "status": "",
@@ -37263,6 +38262,15 @@
         "atc5": "L01CA01",
         "registrationNumber": "146 63 33376 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ef20c71c-4491-4817-8989-3767e93bf9bb.json"
+      },
+      {
+        "catalogId": "ef23ad5c-08cf-452f-a986-06b054d51cfa",
+        "name": "RIFASYNT 300MG  30CAPS",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ef23ad5c-08cf-452f-a986-06b054d51cfa.json"
       },
       {
         "catalogId": "ef27ad89-3e13-4f49-ba9d-5618468414fc",
@@ -37769,6 +38777,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f2570396-c41d-4621-9aa4-1afbb0176ce7.json"
       },
       {
+        "catalogId": "f26aab8c-83c6-46e5-9075-32201fd39171",
+        "name": "XYLOCAINE PUMP SPRAY 10 %",
+        "status": "",
+        "category": "29C",
+        "atc5": "D04AB01",
+        "registrationNumber": "116 41 25500 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f26aab8c-83c6-46e5-9075-32201fd39171.json"
+      },
+      {
         "catalogId": "f26dd8c0-8677-4a33-8277-bfc42c30e73e",
         "name": "ICATIBANT TEVA ®",
         "status": "",
@@ -37866,6 +38883,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f31956c9-dd7d-4c6f-8380-8ba42f5da2f8.json"
+      },
+      {
+        "catalogId": "f31dc187-3c0a-4d7d-a3e2-be5ed719adca",
+        "name": "VIVITROL DEPOT INJECTION 380MG VIAL 4ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f31dc187-3c0a-4d7d-a3e2-be5ed719adca.json"
       },
       {
         "catalogId": "f342f7ac-06a5-4d72-9fbe-e6fe5c347bb9",
@@ -38030,6 +39056,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f41cba7a-956e-47af-98ee-4e476b2ac627.json"
       },
       {
+        "catalogId": "f4242708-2ff9-42bc-870b-056bac672d59",
+        "name": "VIBRAMYCIN SUSP 50MG/5ML 60ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f4242708-2ff9-42bc-870b-056bac672d59.json"
+      },
+      {
         "catalogId": "f4278a84-5bf9-4608-b207-176b4809d291",
         "name": "SIGNIFOR LAR 10 MG",
         "status": "",
@@ -38181,6 +39216,15 @@
         "atc5": null,
         "registrationNumber": "136 54 31154 01",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f505dd16-d6b0-4f1b-9b3e-611a4fbdf2ae.json"
+      },
+      {
+        "catalogId": "f50991e4-3d9f-47b2-a82d-39e5ca59e985",
+        "name": "RIFADIN SYR 100MG/5ML 60ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f50991e4-3d9f-47b2-a82d-39e5ca59e985.json"
       },
       {
         "catalogId": "f509b7e5-3485-4760-a7fc-1527b109fab9",
@@ -38640,6 +39684,15 @@
         "atc5": null,
         "registrationNumber": "",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f8261154-01d7-407a-ac9b-5dc17e680452.json"
+      },
+      {
+        "catalogId": "f833b63b-0b0d-4869-95d7-843b2012f148",
+        "name": "TRILEPTAL 60 MG/ML ORAL SUSP 250ML",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/f833b63b-0b0d-4869-95d7-843b2012f148.json"
       },
       {
         "catalogId": "f834fc10-9b63-4cc0-a21c-6cce4a664250",
@@ -39551,6 +40604,15 @@
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fd058fa4-ac72-420b-a9ac-114519dc601a.json"
       },
       {
+        "catalogId": "fd3ed591-0fa2-45dd-a20d-83a9b3e9745d",
+        "name": "TRIFLUOPERAZINE 10MG 100TAB",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fd3ed591-0fa2-45dd-a20d-83a9b3e9745d.json"
+      },
+      {
         "catalogId": "fd4f02fb-ca93-4c14-ad28-036e2dd6a823",
         "name": "ENTUMIN ®",
         "status": "",
@@ -39639,6 +40701,15 @@
         "atc5": "L01XE18",
         "registrationNumber": "158 58 34859 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fd816f48-f4ce-4864-baa8-1f9887002501.json"
+      },
+      {
+        "catalogId": "fdad6a60-8ddf-4983-adf8-3af80ce2b664",
+        "name": "VALORAN 1G NORMON SPAIN powder for solution for injection",
+        "status": "active",
+        "category": "29C",
+        "atc5": null,
+        "registrationNumber": "",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/fdad6a60-8ddf-4983-adf8-3af80ce2b664.json"
       },
       {
         "catalogId": "fdcbe2b8-8be3-421e-b43e-ea488a3b99da",
@@ -39909,6 +40980,15 @@
         "atc5": "D06BX01",
         "registrationNumber": "062 18 26970 00",
         "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ff6883c0-fb5e-48f4-bb33-317b810c27ff.json"
+      },
+      {
+        "catalogId": "ff80664f-5c5b-457d-9a0a-2e3b7a3e6d91",
+        "name": "TOBREX OPHTHALMIC OINTMENT",
+        "status": "",
+        "category": "29C",
+        "atc5": "S01AA12",
+        "registrationNumber": "047 16 22795 00",
+        "filename": "https://github.com/FormidableCare/OpenMed/tree/main/catalog/ff80664f-5c5b-457d-9a0a-2e3b7a3e6d91.json"
       },
       {
         "catalogId": "ff90a1d6-ee09-4561-8ab0-0f890d8007bc",
