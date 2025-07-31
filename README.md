@@ -1,6 +1,6 @@
-# OpenMed - Open Source Medical Catalog
-
 <div align="center">
+  <h1>OpenMed - Open Source Medical Catalog</h1>
+  
   <img src="assets/logo.png" alt="OpenMed Logo" width="200"/>
   
   **Simple, Accurate, and Efficient Medical Catalog System**
