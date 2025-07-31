@@ -1,8 +1,8 @@
 {
   "catalog_index": {
-    "version": "1.0.4",
-    "generated_at": "2025-07-31T13:16:42.912697",
-    "total_medications": 3773,
+    "version": "1.0.5",
+    "generated_at": "2025-07-31T13:32:14.799728",
+    "total_medications": 3844,
     "medications": [
       {
         "catalogId": "0005d4b7-3cd7-485a-9c11-a9ea83b8cdf3",
@@ -563,6 +563,15 @@
         "filename": "05044ea6-d76e-4205-b80d-963c1cd4d62f.json"
       },
       {
+        "catalogId": "0508bd53-543c-42a1-bf4f-953b021e906e",
+        "name": "TUMS ULTRA ASSORTED BERRIES",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A12AA04",
+        "registrationNumber": "124 55 30280 00",
+        "filename": "0508bd53-543c-42a1-bf4f-953b021e906e.json"
+      },
+      {
         "catalogId": "051b5355-dd48-445c-96c2-c553365466c4",
         "name": "DEXAMOL",
         "status": "",
@@ -606,6 +615,15 @@
         "atc5": null,
         "registrationNumber": "130 71 30720 00",
         "filename": "0576b68e-ef46-48a3-aeb7-36d5d0a2cd55.json"
+      },
+      {
+        "catalogId": "05a3e8d4-4d56-45c7-a756-a960cc4fead4",
+        "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "N02BE01",
+        "registrationNumber": "042 50 23368 00",
+        "filename": "05a3e8d4-4d56-45c7-a756-a960cc4fead4.json"
       },
       {
         "catalogId": "05bc8320-bcc5-4502-bd87-8c74b3b74642",
@@ -1130,6 +1148,15 @@
         "filename": "09c84b03-3681-4e9c-96df-19f371ee1a96.json"
       },
       {
+        "catalogId": "09f3899d-4dd7-4b20-9fee-e5a2965f6e3a",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "09f3899d-4dd7-4b20-9fee-e5a2965f6e3a.json"
+      },
+      {
         "catalogId": "0a018370-5550-4a6b-b340-068ea729cf45",
         "name": "BELARA",
         "status": "",
@@ -1137,6 +1164,15 @@
         "atc5": "G03AA01",
         "registrationNumber": "127 34 30410 00",
         "filename": "0a018370-5550-4a6b-b340-068ea729cf45.json"
+      },
+      {
+        "catalogId": "0a10adff-e676-4d7b-95b5-83309f04c490",
+        "name": "ONPATTRO 2 MG/ML",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "N07XX12",
+        "registrationNumber": "165 33 36108 00",
+        "filename": "0a10adff-e676-4d7b-95b5-83309f04c490.json"
       },
       {
         "catalogId": "0a2645d2-294c-4293-91cf-3945b791a122",
@@ -1218,6 +1254,15 @@
         "atc5": "L01AX03",
         "registrationNumber": "120 30 30116 23",
         "filename": "0a87e2a8-0e5c-4bf1-8929-52b06f5dc106.json"
+      },
+      {
+        "catalogId": "0a8caef0-a087-49e2-a1b8-447ad8133548",
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A02AC01",
+        "registrationNumber": "134 94 31175 00",
+        "filename": "0a8caef0-a087-49e2-a1b8-447ad8133548.json"
       },
       {
         "catalogId": "0aa37967-2ba5-478b-ab32-478a2e6c4000",
@@ -2138,6 +2183,15 @@
         "filename": "114298be-2c95-4730-bd6f-f08b4da8d2ea.json"
       },
       {
+        "catalogId": "11499815-2494-45e6-9700-e8a5de27d6a8",
+        "name": "SOLODENT ALCOHOL FREE MOUTHWASH",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A01AB03",
+        "registrationNumber": "172 54 37476 99",
+        "filename": "11499815-2494-45e6-9700-e8a5de27d6a8.json"
+      },
+      {
         "catalogId": "117bd44c-6529-4009-b284-e28dae958d7f",
         "name": "TEMO 100 MG",
         "status": "",
@@ -2154,6 +2208,15 @@
         "atc5": "A07EC02",
         "registrationNumber": "157 47 34816 00",
         "filename": "1189730b-9b0c-4273-b5b2-e1a4804956b3.json"
+      },
+      {
+        "catalogId": "11ab2bb5-ee5b-4943-ab75-0ffbe08e3004",
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A02AC01",
+        "registrationNumber": "134 94 31175 00",
+        "filename": "11ab2bb5-ee5b-4943-ab75-0ffbe08e3004.json"
       },
       {
         "catalogId": "11b5b264-c2c8-49f7-807e-93930c4de8aa",
@@ -2361,6 +2424,15 @@
         "atc5": "L01BA01",
         "registrationNumber": "145 34 33074 04",
         "filename": "12ee2617-eb6a-4b4d-957b-82c0b4dc0eb2.json"
+      },
+      {
+        "catalogId": "12fd70bd-24d4-4efa-aa7f-57253f169afd",
+        "name": "TONIGHT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R06AA09",
+        "registrationNumber": "118 20 29793 00",
+        "filename": "12fd70bd-24d4-4efa-aa7f-57253f169afd.json"
       },
       {
         "catalogId": "13104843-f504-48d8-96bf-dd49b9dc60f4",
@@ -4721,6 +4793,15 @@
         "filename": "23cdbeb1-324a-43c6-a8c7-8ee45baee69a.json"
       },
       {
+        "catalogId": "23df6efe-6dcb-4fc3-8f9c-20aea6e65de4",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "23df6efe-6dcb-4fc3-8f9c-20aea6e65de4.json"
+      },
+      {
         "catalogId": "24010c15-0e62-4eec-914c-4b1a2e598fba",
         "name": "AGISERC 16",
         "status": "",
@@ -6134,6 +6215,15 @@
         "filename": "2dff22ff-09e9-40f5-9c48-0f9367c69bf2.json"
       },
       {
+        "catalogId": "2e043956-9ace-4765-8896-ece04b9de9af",
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A02AC01",
+        "registrationNumber": "134 94 31175 00",
+        "filename": "2e043956-9ace-4765-8896-ece04b9de9af.json"
+      },
+      {
         "catalogId": "2e08b9e0-031c-4748-a1e4-a78f8e0c6923",
         "name": "GASTRO 10",
         "status": "",
@@ -6204,6 +6294,15 @@
         "atc5": null,
         "registrationNumber": "137 54 25091 01",
         "filename": "2e8fe481-aefb-4145-97d9-5d1136637e3e.json"
+      },
+      {
+        "catalogId": "2e919397-a066-414f-8278-d5daa3f49564",
+        "name": "TEVAPIRIN",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "B01AC06",
+        "registrationNumber": "119 71 29957 13",
+        "filename": "2e919397-a066-414f-8278-d5daa3f49564.json"
       },
       {
         "catalogId": "2e9316e2-6e82-46be-929c-69f38d96f2df",
@@ -6312,6 +6411,15 @@
         "atc5": null,
         "registrationNumber": "131 72 30868 00",
         "filename": "2f43f5eb-3dca-45ee-b4a6-efaa32bd99e9.json"
+      },
+      {
+        "catalogId": "2f444326-031e-406b-83f3-6e3b0147e3b5",
+        "name": "TEARS NATURAL FREE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "127 88 30655 00",
+        "filename": "2f444326-031e-406b-83f3-6e3b0147e3b5.json"
       },
       {
         "catalogId": "2f4ac89c-5310-4f2c-ab9e-b480cecc9d07",
@@ -7124,6 +7232,15 @@
         "filename": "36873b9e-821e-47bb-8294-1b0f90220b8a.json"
       },
       {
+        "catalogId": "36b4533a-716d-41c0-b6fb-3deb98c17b2e",
+        "name": "SINUCLEAR SYRUP",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "171 01 34683 00",
+        "filename": "36b4533a-716d-41c0-b6fb-3deb98c17b2e.json"
+      },
+      {
         "catalogId": "36d7e8e1-0bfe-4fcd-bf82-712286a4e9d8",
         "name": "BUCCOLAM 10 MG",
         "status": "",
@@ -7320,6 +7437,15 @@
         "atc5": "H05AA02",
         "registrationNumber": "163 82 35787 00",
         "filename": "381a7601-e5dc-4f7f-9ddb-04d44834825f.json"
+      },
+      {
+        "catalogId": "381e5610-d959-44f8-ae22-9bf3d166bf23",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "381e5610-d959-44f8-ae22-9bf3d166bf23.json"
       },
       {
         "catalogId": "383cb738-243c-4de5-93f1-6f1e4d6294fa",
@@ -7718,6 +7844,15 @@
         "filename": "3c63155d-45c8-4efa-87ab-e6954f5d3b4d.json"
       },
       {
+        "catalogId": "3c690aa0-a2a7-4640-880d-965fec72f087",
+        "name": "STOPIT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A07DA03",
+        "registrationNumber": "067 64 28224 00",
+        "filename": "3c690aa0-a2a7-4640-880d-965fec72f087.json"
+      },
+      {
         "catalogId": "3c6bf3c9-5641-4364-91b6-2f2e07e6a546",
         "name": "BRENZYS 50 MG/ML",
         "status": "",
@@ -8067,6 +8202,15 @@
         "atc5": "L01XE06",
         "registrationNumber": "169 90 36435 00",
         "filename": "3f190f7c-44c7-4fb3-90e2-238f40882075.json"
+      },
+      {
+        "catalogId": "3f215979-3bc9-40be-b79c-549220f00daf",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "3f215979-3bc9-40be-b79c-549220f00daf.json"
       },
       {
         "catalogId": "3f2db15f-5500-4410-ab5c-8624a1286834",
@@ -8715,6 +8859,15 @@
         "atc5": "M01AB08",
         "registrationNumber": "128 08 30651 00",
         "filename": "44466eeb-f513-4fa7-ac2c-f50102fb56f2.json"
+      },
+      {
+        "catalogId": "444f10c1-9a6e-4454-98ee-f780385a3228",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "444f10c1-9a6e-4454-98ee-f780385a3228.json"
       },
       {
         "catalogId": "44594210-97b0-4d13-a7e6-da5b23d033fe",
@@ -9770,6 +9923,15 @@
         "filename": "4c8c3d3b-443a-4619-a15d-f06821c44ee5.json"
       },
       {
+        "catalogId": "4c8e0801-9e8b-4f13-aa78-b6f5d6c79429",
+        "name": "SEPTOL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D08AC52",
+        "registrationNumber": "029 79 25425 00",
+        "filename": "4c8e0801-9e8b-4f13-aa78-b6f5d6c79429.json"
+      },
+      {
         "catalogId": "4cc7ddd2-77c6-419d-b209-958a9df0bdb4",
         "name": "FUCIDIN",
         "status": "",
@@ -10004,6 +10166,15 @@
         "filename": "4e83305b-2f87-492b-be23-27cc2342d8b9.json"
       },
       {
+        "catalogId": "4eadab6d-dcf6-439d-984b-f49802e5e5ab",
+        "name": "TIGER BALM RED",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "127 22 30565 00",
+        "filename": "4eadab6d-dcf6-439d-984b-f49802e5e5ab.json"
+      },
+      {
         "catalogId": "4eb00d31-752b-4459-82ed-4b544126cfda",
         "name": "MACLIVAN 250 MG/5 ML",
         "status": "",
@@ -10110,6 +10281,15 @@
         "atc5": "L02BX02",
         "registrationNumber": "145 04 32955 00",
         "filename": "4f971a1b-2025-4476-944f-ad0dcfb56bf7.json"
+      },
+      {
+        "catalogId": "4fa0d37a-b807-45a8-ae31-724e982aa03d",
+        "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "N02BE01",
+        "registrationNumber": "042 50 23368 00",
+        "filename": "4fa0d37a-b807-45a8-ae31-724e982aa03d.json"
       },
       {
         "catalogId": "4fc8edd7-5eb5-4561-a26a-83b2f0f5600c",
@@ -10686,6 +10866,15 @@
         "atc5": "N02CX08",
         "registrationNumber": "162 90 35852 00",
         "filename": "5366fc9a-8fd4-45c2-897c-c4d732775c59.json"
+      },
+      {
+        "catalogId": "5369f492-06f6-406c-a0ef-04632c4244cc",
+        "name": "ABITREN TEVA ® 75 MG/3 ML",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "M01AB05",
+        "registrationNumber": "159 38 34860 00",
+        "filename": "5369f492-06f6-406c-a0ef-04632c4244cc.json"
       },
       {
         "catalogId": "537c4229-c4ca-4f4f-bb61-7260519bc7f2",
@@ -11822,6 +12011,15 @@
         "filename": "5be50039-fd3c-4998-8f17-85697cdab69f.json"
       },
       {
+        "catalogId": "5bef3279-6f85-407d-99e8-e907179ca02e",
+        "name": "TARODENT MOUTHWASH",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A01AB03",
+        "registrationNumber": "060 32 27698 00",
+        "filename": "5bef3279-6f85-407d-99e8-e907179ca02e.json"
+      },
+      {
         "catalogId": "5bf2caa4-4fa8-4737-876b-47b9af511957",
         "name": "TRUXIMA",
         "status": "",
@@ -11975,6 +12173,15 @@
         "filename": "5d251c66-7f08-4b97-a1fa-1d420f5c3960.json"
       },
       {
+        "catalogId": "5d2a79cc-f77c-4bca-bbab-42fe39be616d",
+        "name": "STUD 100",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D04AB01",
+        "registrationNumber": "133 05 24173 00",
+        "filename": "5d2a79cc-f77c-4bca-bbab-42fe39be616d.json"
+      },
+      {
         "catalogId": "5d2ad57b-3cb2-40d0-a02f-cf2954f26eb2",
         "name": "CLARISCAN",
         "status": "",
@@ -12036,6 +12243,15 @@
         "atc5": "A10AB04",
         "registrationNumber": "102 83 28580 00",
         "filename": "5d86689e-6f35-448c-ad0c-1848c46ffd63.json"
+      },
+      {
+        "catalogId": "5d9b208e-7bcf-4bc7-8b29-f90d75a4a7ca",
+        "name": "THIO GEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D04AA22",
+        "registrationNumber": "140 23 24394 00",
+        "filename": "5d9b208e-7bcf-4bc7-8b29-f90d75a4a7ca.json"
       },
       {
         "catalogId": "5da43209-cfc3-49d1-b1f5-fa3fd6ccc16c",
@@ -12126,6 +12342,15 @@
         "atc5": "L02BG03",
         "registrationNumber": "105 16 28931 00",
         "filename": "5eb40094-54cc-4312-94ed-2f9145da3102.json"
+      },
+      {
+        "catalogId": "5edf8483-4c6e-45c7-9bf1-5735019d02c1",
+        "name": "TELFAST 120 MG",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R06AX26",
+        "registrationNumber": "108 90 29135 21",
+        "filename": "5edf8483-4c6e-45c7-9bf1-5735019d02c1.json"
       },
       {
         "catalogId": "5ee4ffb5-54c4-4a1f-955e-d3069fe9d003",
@@ -12540,6 +12765,15 @@
         "atc5": "L01EX23",
         "registrationNumber": "169 37 36872 99",
         "filename": "621cc572-f991-4406-a583-aa8aa7eaf154.json"
+      },
+      {
+        "catalogId": "622858f1-87be-468d-bbc8-96bb520a8a3d",
+        "name": "GAVISCON PEPPERMINT TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "141 58 31757 00",
+        "filename": "622858f1-87be-468d-bbc8-96bb520a8a3d.json"
       },
       {
         "catalogId": "62481773-7d56-4e7e-b8a0-605f5ed92486",
@@ -14000,6 +14234,15 @@
         "filename": "6c831f1d-d090-4bef-8ce6-7318d832f504.json"
       },
       {
+        "catalogId": "6c8a1eb9-36a9-4f8f-912b-b818ec505f6c",
+        "name": "SINUFED SYRUP",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "118 91 29978 00",
+        "filename": "6c8a1eb9-36a9-4f8f-912b-b818ec505f6c.json"
+      },
+      {
         "catalogId": "6c904672-c77a-4d02-b245-ba119c9a5cbd",
         "name": "SKYRIZI 150 MG",
         "status": "",
@@ -14061,6 +14304,15 @@
         "atc5": "A02BC05",
         "registrationNumber": "161 48 35207 00",
         "filename": "6d4c8693-ec24-45d3-ab9b-27374ae14b81.json"
+      },
+      {
+        "catalogId": "6d5e400c-e665-437c-84d3-49570dd208cd",
+        "name": "TELFAST 120 MG",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R06AX26",
+        "registrationNumber": "108 90 29135 21",
+        "filename": "6d5e400c-e665-437c-84d3-49570dd208cd.json"
       },
       {
         "catalogId": "6d641f92-6132-49f3-996b-1c5b696af3d5",
@@ -14954,6 +15206,15 @@
         "filename": "73e67776-8af4-48bc-8816-df023b1fd819.json"
       },
       {
+        "catalogId": "73e81cac-f962-4f3c-a5fd-c7cbbfbb8738",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "73e81cac-f962-4f3c-a5fd-c7cbbfbb8738.json"
+      },
+      {
         "catalogId": "740452ba-9daf-45fd-889a-1d0a170fc0d7",
         "name": "NOVOEIGHT 1000 IU",
         "status": "",
@@ -15278,6 +15539,15 @@
         "filename": "76b80a66-b625-40fd-8801-e501876b38f0.json"
       },
       {
+        "catalogId": "76d37bce-aef5-483c-9ab1-eddb1238e9ca",
+        "name": "TRAVAMIN TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R06AA52",
+        "registrationNumber": "020 17 20777 00",
+        "filename": "76d37bce-aef5-483c-9ab1-eddb1238e9ca.json"
+      },
+      {
         "catalogId": "76dd126e-d79f-46f1-8449-46e8c7769173",
         "name": "ZOVIRAX TABLETS 200 MG",
         "status": "",
@@ -15591,6 +15861,15 @@
         "atc5": "L01BC05",
         "registrationNumber": "145 95 33400 00",
         "filename": "7965c03e-5688-4f66-ba2d-c0e5f7cf483c.json"
+      },
+      {
+        "catalogId": "797346ef-0f14-4b08-8770-e77090415e07",
+        "name": "TIGER BALM RED",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "127 22 30565 00",
+        "filename": "797346ef-0f14-4b08-8770-e77090415e07.json"
       },
       {
         "catalogId": "797492f4-74fe-4453-87af-fb5b8d879511",
@@ -16032,6 +16311,15 @@
         "atc5": "N02BE01",
         "registrationNumber": "165 92 35757 00",
         "filename": "7be536fb-8346-4b25-9aa4-87439120b967.json"
+      },
+      {
+        "catalogId": "7be5ac76-8622-4771-b878-c46aafd547a0",
+        "name": "SONGHA NIGHT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "134 16 29935 00",
+        "filename": "7be5ac76-8622-4771-b878-c46aafd547a0.json"
       },
       {
         "catalogId": "7bf3a82c-7249-4c42-b50b-b19bfbffddaf",
@@ -17060,6 +17348,15 @@
         "filename": "832a7ec8-fa26-4c87-8ac2-98e1fd57c2f9.json"
       },
       {
+        "catalogId": "83399397-bc5b-42e9-9987-d07aad5c57df",
+        "name": "SEPTAL SCRUB",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D08AC02",
+        "registrationNumber": "043 08 23618 00",
+        "filename": "83399397-bc5b-42e9-9987-d07aad5c57df.json"
+      },
+      {
         "catalogId": "836bb2c2-02d0-4484-898f-ec929a2e40cb",
         "name": "FOMINIC",
         "status": "",
@@ -17139,6 +17436,15 @@
         "atc5": "N02BB02",
         "registrationNumber": "162 62 36039 00",
         "filename": "83c21041-2141-465d-b70b-92f002ec4ab0.json"
+      },
+      {
+        "catalogId": "83d620ab-303e-4a19-9600-d0d800235810",
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A02AC01",
+        "registrationNumber": "134 94 31175 00",
+        "filename": "83d620ab-303e-4a19-9600-d0d800235810.json"
       },
       {
         "catalogId": "83deb215-97dd-4ca1-883a-109fa001155a",
@@ -17258,6 +17564,15 @@
         "filename": "84f8434c-0d8d-4fcd-9617-c5e88f616ee6.json"
       },
       {
+        "catalogId": "84f8b380-1b1b-46a8-81ec-d6df1e890a9e",
+        "name": "SEPTADINE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D08AC52",
+        "registrationNumber": "108 58 29253 00",
+        "filename": "84f8b380-1b1b-46a8-81ec-d6df1e890a9e.json"
+      },
+      {
         "catalogId": "84fbebdf-87a9-4d98-ac78-4a7713e0ce78",
         "name": "ARCOXIA 120 MG TABLETS",
         "status": "",
@@ -17373,6 +17688,15 @@
         "atc5": "B02BX06",
         "registrationNumber": "161 19 35415 00",
         "filename": "8588a335-7149-4400-a881-d4b51721b847.json"
+      },
+      {
+        "catalogId": "858ab2a2-4758-453e-bebc-1c4069235223",
+        "name": "TANTUM VERDE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A01AD02",
+        "registrationNumber": "140 35 31801 00",
+        "filename": "858ab2a2-4758-453e-bebc-1c4069235223.json"
       },
       {
         "catalogId": "85913c8b-9a71-411b-92c7-633e41598b83",
@@ -17607,6 +17931,15 @@
         "atc5": "M03BC51",
         "registrationNumber": "018 08 20537 01",
         "filename": "86b595bf-c8a7-4b51-913d-e5fa3ea32bec.json"
+      },
+      {
+        "catalogId": "86bdba34-9a64-428e-905a-606450f1b60f",
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A02AC01",
+        "registrationNumber": "134 94 31175 00",
+        "filename": "86bdba34-9a64-428e-905a-606450f1b60f.json"
       },
       {
         "catalogId": "86fdeb6d-37b7-4b8e-85f8-bffcfcb47c96",
@@ -17861,6 +18194,15 @@
         "filename": "885d05ce-79ae-4bb1-8c03-048d3832a4cb.json"
       },
       {
+        "catalogId": "886d923e-f041-4b7f-898f-94b53bc42095",
+        "name": "STERONASE AQ NASAL SPRAY",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01AD11",
+        "registrationNumber": "069 12 28059 00",
+        "filename": "886d923e-f041-4b7f-898f-94b53bc42095.json"
+      },
+      {
         "catalogId": "8884c166-7a47-4045-a537-2fa535537951",
         "name": "KETOCONAZOLE HRA 200 MG",
         "status": "",
@@ -17913,6 +18255,15 @@
         "atc5": "V03AB15",
         "registrationNumber": "139 95 31636 00",
         "filename": "88d5c3c0-3874-4803-b88d-21d4259b522a.json"
+      },
+      {
+        "catalogId": "88d73572-233c-4d89-88bc-cd59969d21f9",
+        "name": "SPIRIT WHITFIELD FLORIS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D01AE12",
+        "registrationNumber": "060 91 27485 00",
+        "filename": "88d73572-233c-4d89-88bc-cd59969d21f9.json"
       },
       {
         "catalogId": "88db6be7-5cb7-4d62-a7c9-079a60110ace",
@@ -19976,6 +20327,15 @@
         "filename": "97fe468f-9029-4e5d-b38d-7f8d4f10cf8f.json"
       },
       {
+        "catalogId": "9819e078-535c-424a-a949-df421dd54b09",
+        "name": "TRAUMAPLANT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "140 61 31480 00",
+        "filename": "9819e078-535c-424a-a949-df421dd54b09.json"
+      },
+      {
         "catalogId": "98368ac5-ba7c-4a97-bce5-c8524888b361",
         "name": "FEMINET",
         "status": "",
@@ -20163,6 +20523,15 @@
         "atc5": "B03XA02",
         "registrationNumber": "124 46 30400 00",
         "filename": "9a102df3-bead-4dde-a105-ff4c247615db.json"
+      },
+      {
+        "catalogId": "9a150816-3b34-4655-86ed-61239e42e45c",
+        "name": "DURATEARS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "109 33 24050 00",
+        "filename": "9a150816-3b34-4655-86ed-61239e42e45c.json"
       },
       {
         "catalogId": "9a164f5b-a1d9-437c-8604-059300be90cc",
@@ -20966,6 +21335,15 @@
         "filename": "9f0bd937-1097-49ad-89bd-d44e679293ca.json"
       },
       {
+        "catalogId": "9f586d8a-6518-4cc4-bc65-833fcdb83dce",
+        "name": "STREFEN HONEY AND LEMON",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "S01BC04",
+        "registrationNumber": "147 77 31684 00",
+        "filename": "9f586d8a-6518-4cc4-bc65-833fcdb83dce.json"
+      },
+      {
         "catalogId": "9f616393-8008-4107-a0e4-1e99b1f5949a",
         "name": "CILARIL 1",
         "status": "",
@@ -21389,6 +21767,15 @@
         "filename": "a33b9e80-8cc2-4c96-8ff9-197798966e83.json"
       },
       {
+        "catalogId": "a346c615-3c2d-46aa-b846-7eae3a116f7c",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "a346c615-3c2d-46aa-b846-7eae3a116f7c.json"
+      },
+      {
         "catalogId": "a35928a4-f7e3-4753-a3f7-0f8da8bbe7e0",
         "name": "REOLIN EFFERVESCENT TABLETS 200 MG",
         "status": "",
@@ -21632,6 +22019,15 @@
         "filename": "a598eff2-b080-4848-8a19-c165bee77a98.json"
       },
       {
+        "catalogId": "a5b18e98-1520-43ae-b4e0-d6d1cf37abcc",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "a5b18e98-1520-43ae-b4e0-d6d1cf37abcc.json"
+      },
+      {
         "catalogId": "a5c278bb-d94d-494b-baea-2591b392bad9",
         "name": "LACOSAMIDE TEVA ® 100 MG",
         "status": "",
@@ -21648,6 +22044,15 @@
         "atc5": "C10BA05",
         "registrationNumber": "156 65 34490 00",
         "filename": "a5d5c570-372f-4d94-99bb-fb220a6422e9.json"
+      },
+      {
+        "catalogId": "a5d8467c-54fd-4ff0-aff6-e03fc7059f8a",
+        "name": "TRAUMAPLANT",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "140 61 31480 00",
+        "filename": "a5d8467c-54fd-4ff0-aff6-e03fc7059f8a.json"
       },
       {
         "catalogId": "a5dbbb5b-cb0a-45af-add5-e82f9c7a8837",
@@ -21947,6 +22352,15 @@
         "filename": "a8b375a8-e261-4d10-be31-7e1777e4d3f9.json"
       },
       {
+        "catalogId": "a8d63890-7c37-418c-96ea-8889a04c724a",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "a8d63890-7c37-418c-96ea-8889a04c724a.json"
+      },
+      {
         "catalogId": "a8df89af-72f6-4141-980c-feee5a49430b",
         "name": "VARDENAFIL INOVAMED 10 MG",
         "status": "",
@@ -21954,6 +22368,15 @@
         "atc5": "G04BE09",
         "registrationNumber": "168 12 36000 00",
         "filename": "a8df89af-72f6-4141-980c-feee5a49430b.json"
+      },
+      {
+        "catalogId": "a8e43bf2-2a61-4f8d-9835-c1702f655324",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "a8e43bf2-2a61-4f8d-9835-c1702f655324.json"
       },
       {
         "catalogId": "a91f45a0-8409-4db1-b7cc-824ba5473ac1",
@@ -22161,6 +22584,15 @@
         "atc5": "L01XC33",
         "registrationNumber": "164 99 36023 00",
         "filename": "aa680f27-5176-49dd-8c45-483e0b8ce485.json"
+      },
+      {
+        "catalogId": "aa682e1f-4baa-4d93-a20c-8b14327ec761",
+        "name": "INSTILLAGEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "C01BB01",
+        "registrationNumber": "160 11 35080 00",
+        "filename": "aa682e1f-4baa-4d93-a20c-8b14327ec761.json"
       },
       {
         "catalogId": "aa74947c-9ac8-4637-b448-ce1c19272164",
@@ -22773,6 +23205,15 @@
         "atc5": "J05AF05",
         "registrationNumber": "114 12 29545 05",
         "filename": "af8041fd-b3d0-4b74-a171-cee8a0d8a085.json"
+      },
+      {
+        "catalogId": "af99e249-4f79-4d88-8841-50a56eaaa43e",
+        "name": "TIPTIPOT AFALPI",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "121 43 30172 00",
+        "filename": "af99e249-4f79-4d88-8841-50a56eaaa43e.json"
       },
       {
         "catalogId": "af9a5416-8de0-460e-962a-3b2084e3e3b2",
@@ -23691,6 +24132,15 @@
         "atc5": "H01CB05",
         "registrationNumber": "172 50 36981 99",
         "filename": "b61e62ea-83aa-4533-9232-3256cd583a28.json"
+      },
+      {
+        "catalogId": "b62ec806-34fa-474c-8177-040e25646029",
+        "name": "SWISS RELIEF DUAL RELEASE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "S01BC03",
+        "registrationNumber": "142 10 31815 00",
+        "filename": "b62ec806-34fa-474c-8177-040e25646029.json"
       },
       {
         "catalogId": "b637aa25-24db-4418-8ce9-42328167595f",
@@ -24629,6 +25079,15 @@
         "filename": "bccbc110-c768-4f36-bdab-cf9b9247a9b1.json"
       },
       {
+        "catalogId": "bd1115a3-0560-4902-a000-08bbd8a0499f",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "bd1115a3-0560-4902-a000-08bbd8a0499f.json"
+      },
+      {
         "catalogId": "bd349ef5-8a79-4acc-9857-f030c7c56e6d",
         "name": "LIPITOR 10 MG",
         "status": "",
@@ -24782,6 +25241,15 @@
         "filename": "be4560ad-0fcd-4ea5-b033-4d8e16eceac7.json"
       },
       {
+        "catalogId": "be5eedb8-b299-4be3-8482-8129778efb36",
+        "name": "SPIRIT WHITFIELD FLORIS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D01AE12",
+        "registrationNumber": "060 91 27485 00",
+        "filename": "be5eedb8-b299-4be3-8482-8129778efb36.json"
+      },
+      {
         "catalogId": "be5ff59a-cdff-44e6-9358-214e1485520b",
         "name": "RISPERDAL 1 MG",
         "status": "",
@@ -24789,6 +25257,15 @@
         "atc5": "N05AX08",
         "registrationNumber": "144 78 28260 01",
         "filename": "be5ff59a-cdff-44e6-9358-214e1485520b.json"
+      },
+      {
+        "catalogId": "be7537d4-2678-423f-9f44-ed4ee75e8628",
+        "name": "SINUFED TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R01BA02",
+        "registrationNumber": "030 06 25464 00",
+        "filename": "be7537d4-2678-423f-9f44-ed4ee75e8628.json"
       },
       {
         "catalogId": "be762882-7e63-43b0-a35f-a78a7f5be2c4",
@@ -24879,6 +25356,15 @@
         "atc5": "L03AA02",
         "registrationNumber": "160 35 34790 00",
         "filename": "bebb437e-aab0-414a-8632-ac371dc15c16.json"
+      },
+      {
+        "catalogId": "bebd5843-ccff-4ea0-bdd2-c0143f606cbf",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "bebd5843-ccff-4ea0-bdd2-c0143f606cbf.json"
       },
       {
         "catalogId": "bebdbc1f-08c4-4d4b-a68e-da210f001e4e",
@@ -25059,6 +25545,15 @@
         "atc5": "N06BA09",
         "registrationNumber": "158 61 35026 00",
         "filename": "bfae4306-32b3-4789-8a03-286bcd89a88d.json"
+      },
+      {
+        "catalogId": "bfe5b7ce-4ba7-46d9-bac1-16e99bab7f71",
+        "name": "DIMETINDENE INOVAMED GEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D04AA13",
+        "registrationNumber": "167 86 35712 00",
+        "filename": "bfe5b7ce-4ba7-46d9-bac1-16e99bab7f71.json"
       },
       {
         "catalogId": "bff7c5fb-f10b-408f-b241-b4601e1a4a07",
@@ -26204,6 +26699,15 @@
         "filename": "c736c719-2825-48e4-882b-57ff8562c2e8.json"
       },
       {
+        "catalogId": "c73b4308-9025-4247-bf68-fb1f7eccef0c",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "c73b4308-9025-4247-bf68-fb1f7eccef0c.json"
+      },
+      {
         "catalogId": "c73fbe9e-8b0b-4d81-92bd-0bdb27fc4a82",
         "name": "RINGER LACTATED SOLUTION/VIOSER",
         "status": "",
@@ -26346,6 +26850,15 @@
         "atc5": "S01LA04",
         "registrationNumber": "136 75 31520 00",
         "filename": "c85d809d-a0ab-42b8-a7fe-a330e8351ee0.json"
+      },
+      {
+        "catalogId": "c867e97b-666e-4441-bc2b-4cf89291b76c",
+        "name": "INSTILLAGEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "C01BB01",
+        "registrationNumber": "160 11 35080 00",
+        "filename": "c867e97b-666e-4441-bc2b-4cf89291b76c.json"
       },
       {
         "catalogId": "c87115f7-d6fe-4867-a657-1eb16a079e86",
@@ -27329,6 +27842,15 @@
         "filename": "ce70c108-b8b9-4933-a209-15a44240d4d7.json"
       },
       {
+        "catalogId": "ce8f0298-b801-46bd-b9bd-b6de4ee47e6c",
+        "name": "SOLODENT ALCOHOL FREE MOUTHWASH",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A01AB03",
+        "registrationNumber": "172 54 37476 99",
+        "filename": "ce8f0298-b801-46bd-b9bd-b6de4ee47e6c.json"
+      },
+      {
         "catalogId": "ce8f9a6b-2d30-41a8-a028-99788615133e",
         "name": "ZEPOSIA 0.23 MG",
         "status": "",
@@ -27768,6 +28290,15 @@
         "atc5": "R01AD05",
         "registrationNumber": "142 43 33002 00",
         "filename": "d28446fb-6279-4ed7-86d7-23aa3feaf173.json"
+      },
+      {
+        "catalogId": "d28a5ddb-cd15-46d5-b382-c9290f341bd0",
+        "name": "TARDYFERON",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "135 66 31400 00",
+        "filename": "d28a5ddb-cd15-46d5-b382-c9290f341bd0.json"
       },
       {
         "catalogId": "d28eb7cc-ef1b-4965-82e3-19c6efc212d9",
@@ -28319,6 +28850,15 @@
         "filename": "d6b208d4-8ecd-4bd2-87e5-46785cbc4e00.json"
       },
       {
+        "catalogId": "d6b66c94-751d-4b04-ac6e-3b2e04fa1cc1",
+        "name": "TRIBEMIN TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "A11HA02",
+        "registrationNumber": "040 39 22836 00",
+        "filename": "d6b66c94-751d-4b04-ac6e-3b2e04fa1cc1.json"
+      },
+      {
         "catalogId": "d6b6ad40-72cc-4fbc-839d-3061a8a9a1e4",
         "name": "INSULATARD VIAL",
         "status": "",
@@ -28461,6 +29001,15 @@
         "atc5": "N03AX23",
         "registrationNumber": "159 88 35241 00",
         "filename": "d7821c77-991a-4426-bf4c-145688b94669.json"
+      },
+      {
+        "catalogId": "d7a32fc6-2e21-40e0-9c89-3e254781f072",
+        "name": "SEPTADINE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D08AC52",
+        "registrationNumber": "108 58 29253 00",
+        "filename": "d7a32fc6-2e21-40e0-9c89-3e254781f072.json"
       },
       {
         "catalogId": "d7a3475d-1652-4cfd-b301-98d4c107777d",
@@ -29795,6 +30344,15 @@
         "filename": "e1b6f237-69fe-4b62-8913-575b77345bfb.json"
       },
       {
+        "catalogId": "e1beb145-e5ef-4961-83e4-15f4071af482",
+        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R02AA03",
+        "registrationNumber": "066 33 25662 00",
+        "filename": "e1beb145-e5ef-4961-83e4-15f4071af482.json"
+      },
+      {
         "catalogId": "e1c628bf-79ed-49e8-b427-944bb6427483",
         "name": "ZOLEDRONIC ACID FRESENIUS 4 MG/5 ML",
         "status": "",
@@ -29874,6 +30432,15 @@
         "atc5": "A10BX16",
         "registrationNumber": "177 53 38072 99",
         "filename": "e22b5e60-6704-4678-89fb-29fa8400f577.json"
+      },
+      {
+        "catalogId": "e23049a5-d6aa-479c-921b-69fd8e2402b1",
+        "name": "STREFEN HONEY AND LEMON",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "S01BC04",
+        "registrationNumber": "147 77 31684 00",
+        "filename": "e23049a5-d6aa-479c-921b-69fd8e2402b1.json"
       },
       {
         "catalogId": "e2416b3b-7fbb-4b44-bb94-48d462e5b294",
@@ -30144,6 +30711,15 @@
         "atc5": "G03BA03",
         "registrationNumber": "136 20 31297 00",
         "filename": "e3956b86-fa21-4f76-9ad7-914c28d19938.json"
+      },
+      {
+        "catalogId": "e39d4cbc-1fdc-4947-b24f-a622e7274535",
+        "name": "SINUCLEAR EXTRACT TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "177 48 36980 00",
+        "filename": "e39d4cbc-1fdc-4947-b24f-a622e7274535.json"
       },
       {
         "catalogId": "e3be0e90-7995-4c78-bbc3-251db2b05dd3",
@@ -31640,6 +32216,15 @@
         "filename": "eeb30d46-e685-47d9-b49c-f6d7a7fea9e8.json"
       },
       {
+        "catalogId": "eec34ec6-b60e-462c-9ec3-2206af5a7134",
+        "name": "TUSSOPHEDRINE",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R05DA20",
+        "registrationNumber": "131 32 31021 00",
+        "filename": "eec34ec6-b60e-462c-9ec3-2206af5a7134.json"
+      },
+      {
         "catalogId": "eeca8a2b-41df-4456-9e75-343f58382d94",
         "name": "LENVIMA 10 MG",
         "status": "",
@@ -31800,6 +32385,15 @@
         "atc5": "L01FD01",
         "registrationNumber": "164 96 35475 00",
         "filename": "efe8343d-6188-4512-a535-be081943d393.json"
+      },
+      {
+        "catalogId": "efeb160e-5344-45b1-a3cd-475123aa82b2",
+        "name": "SINUCLEAR EXTRACT TABLETS",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": null,
+        "registrationNumber": "177 48 36980 00",
+        "filename": "efeb160e-5344-45b1-a3cd-475123aa82b2.json"
       },
       {
         "catalogId": "f00ef5c3-3276-4b5d-86b4-d839036172d7",
@@ -32189,6 +32783,15 @@
         "filename": "f35e92eb-14de-43df-874e-dd7140f1e698.json"
       },
       {
+        "catalogId": "f3758ac5-4918-49b6-8ca6-864a9a3259ca",
+        "name": "SPIRIT SALICYL 2%",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D01AE12",
+        "registrationNumber": "064 30 28131 00",
+        "filename": "f3758ac5-4918-49b6-8ca6-864a9a3259ca.json"
+      },
+      {
         "catalogId": "f376f1ce-2581-48ba-aaca-70ddfb20ad60",
         "name": "BUSULFAN RAZ 6 MG/ML",
         "status": "",
@@ -32205,6 +32808,15 @@
         "atc5": "D08AC52",
         "registrationNumber": "126 25 21373 00",
         "filename": "f37be5a0-1983-4263-895e-e3d4bc169e1a.json"
+      },
+      {
+        "catalogId": "f3a38c8c-598c-41c0-a5ad-a4f0f018e158",
+        "name": "SLEEP AID",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "R06AA09",
+        "registrationNumber": "131 07 30938 00",
+        "filename": "f3a38c8c-598c-41c0-a5ad-a4f0f018e158.json"
       },
       {
         "catalogId": "f3b260a9-a85d-4cf5-8291-7a4be2cb855b",
@@ -32430,6 +33042,15 @@
         "atc5": "L01XE56",
         "registrationNumber": "164 36 36185 00",
         "filename": "f560636e-35c1-442f-89ac-b5c368a5bc8a.json"
+      },
+      {
+        "catalogId": "f565feac-9515-4077-94d7-3942edd4610d",
+        "name": "INSTILLAGEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "C01BB01",
+        "registrationNumber": "160 11 35080 00",
+        "filename": "f565feac-9515-4077-94d7-3942edd4610d.json"
       },
       {
         "catalogId": "f57907ea-538c-48b7-ab27-9fc67fbd5356",
@@ -33746,6 +34367,15 @@
         "filename": "fe742794-bb1d-4db7-98f5-53cacd000f25.json"
       },
       {
+        "catalogId": "fe898167-505b-430c-af66-464f21b6bc77",
+        "name": "DIMETINDENE INOVAMED GEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "D04AA13",
+        "registrationNumber": "167 86 35712 00",
+        "filename": "fe898167-505b-430c-af66-464f21b6bc77.json"
+      },
+      {
         "catalogId": "fe96f589-1ca5-4184-9b83-b67d40283863",
         "name": "TREMFYA 100 MG/ML S.C",
         "status": "",
@@ -33951,6 +34581,15 @@
         "atc5": "L01BA04",
         "registrationNumber": "156 39 34393 01",
         "filename": "ffd8db71-15ff-42f0-9b00-d8dab6fafff7.json"
+      },
+      {
+        "catalogId": "ffeed955-64b3-465f-8d61-d23af0fd0399",
+        "name": "TEEJEL GEL",
+        "status": "",
+        "category": "off-the-counter",
+        "atc5": "N02BA03",
+        "registrationNumber": "042 17 25901 00",
+        "filename": "ffeed955-64b3-465f-8d61-d23af0fd0399.json"
       },
       {
         "catalogId": "fffb671e-85ed-4854-ad41-c638be284a33",

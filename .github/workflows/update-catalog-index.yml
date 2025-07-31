@@ -1,0 +1,74 @@
+name: OpenMed - Update Catalog Index
+
+on:
+  push:
+    branches: [main, develop]
+    paths:
+      - "catalog/**"
+      - "!catalog/catalog_index.json"
+  pull_request:
+    branches: [main, develop]
+    paths:
+      - "catalog/**"
+      - "!catalog/catalog_index.json"
+
+jobs:
+  update-catalog-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Show catalog directory contents
+        run: |
+          echo "📁 Catalog directory contents:"
+          ls -la catalog/ | head -20
+          echo "📊 Total files in catalog: $(ls catalog/*.json | wc -l)"
+
+      - name: Generate catalog index
+        run: |
+          echo "🔧 Generating catalog index..."
+          python generate_catalog_index.py
+          echo "✅ Catalog index generation completed"
+
+      - name: Check if catalog index changed
+        id: check_changes
+        run: |
+          echo "🔍 Checking if catalog index has changed..."
+          if git diff --quiet catalog/catalog_index.json; then
+            echo "ℹ️  No changes detected in catalog_index.json"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "📝 Changes detected in catalog_index.json"
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📋 Changes:"
+            git diff --stat catalog/catalog_index.json
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          echo "🚀 Committing and pushing changes..."
+          git config --local user.email "openmed@formidable.care"
+          git config --local user.name "OpenMed Bot"
+          git add catalog/catalog_index.json
+          git commit -m "🤖 OpenMed: Auto-update catalog index [skip ci]"
+          git push
+          echo "✅ Changes committed and pushed successfully"
+
+      - name: Show final status
+        run: |
+          if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
+            echo "🎉 Catalog index updated successfully!"
+          else
+            echo "ℹ️  No catalog index update needed"
+          fi

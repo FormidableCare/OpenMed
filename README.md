@@ -110,6 +110,24 @@ Schema is available in the [schema](schema/openmed_medication.schema.json) file.
 4. Add tests if applicable
 5. Submit a pull request
 
+## Automated Workflows
+
+### Catalog Index Auto-Generation
+
+This repository includes a GitHub Action that automatically generates and commits the `catalog_index.json` file whenever catalog files are modified.
+
+**How it works:**
+
+- Triggers on pushes and pull requests to `main` and `develop` branches
+- Only runs when files in the `catalog/` directory change (excluding `catalog_index.json` itself)
+- Automatically runs the `generate_catalog_index.py` script
+- Commits and pushes the updated index if changes are detected
+- Uses `[skip ci]` in commit messages to prevent infinite loops
+
+**Workflow file:** `.github/workflows/update-catalog-index.yml`
+
+**Manual trigger:** You can also manually trigger this workflow from the GitHub Actions tab.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
