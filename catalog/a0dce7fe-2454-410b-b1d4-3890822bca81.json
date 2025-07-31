@@ -1,0 +1,65 @@
+{
+  "catalogId": "a0dce7fe-2454-410b-b1d4-3890822bca81",
+  "name": "TAFINLAR 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 42 33976 00",
+  "treatmentDescriptions": "Dabrafenib as monotherapy or in combination with trametinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.Non-small cell lung cancer (NSCLC) :Dabrafenib in combination with trametinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.Adjuvant treatment of melanoma :Dabrafenib in combination with trametinib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with BRAF V600 mutation, following complete resection.BRAF V600E Mutation-Positive Locally Advanced or Metastatic Anaplastic Thyroid CancerTAFINLAR is indicated, in combination with trametinib, for the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment optionsBRAF V600E Mutation-Positive Unresectable or Metastatic Solid TumorsTafinlar is indicated, in combination with trametinib, for the treatment of adult and pediatric patients 6 years of age and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. Limitations of Use: Dabrafenib is not indicated for treatment of patients with colorectal cancer because of known intrinsic resistance to BRAF inhibition. Dabrafenib is indicated, in combination with trametinib, for the treatment of pediatric patients 6 year of age and older with low-grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DABRAFENIB AS MESILATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE23",
+      "name": "DABRAFENIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAFINLAR 75 MG 28 CAPSULES",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7417",
+        "yarpa": "53567",
+        "pharmasoft": "20785",
+        "barcode": "7290014257689"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4356.779836,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4792.457819,
+        "maxPriceWithVAT": 5655.099975
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:01:09.608442"
+  }
+}

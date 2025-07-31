@@ -1,0 +1,64 @@
+{
+  "catalogId": "d6e30492-949a-414d-a9a0-a5c022328112",
+  "name": "TAMOXIFEN TEVA ® 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 98 33084 00",
+  "treatmentDescriptions": "For the palliative treatment of breast cancer generally in post menopausal women, either alone or in combination with other modalities.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAMOXIFEN AS CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BA01",
+      "name": "TAMOXIFEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMOXIFEN TEVA 20MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6527",
+        "yarpa": "11644",
+        "pharmasoft": "20644"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.1274,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.314538,
+        "maxPriceWithVAT": 35.77115484
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:03:53.618020"
+  }
+}

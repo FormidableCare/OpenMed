@@ -1,0 +1,65 @@
+{
+  "catalogId": "9545b770-789d-4c51-b397-3e12aba2e098",
+  "name": "TAMSULIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 43 31538 01",
+  "treatmentDescriptions": "Treatment of functional symptoms of benign prostatic hyperplasia (BPH).",
+  "termsOfIssue": "Prescription required",
+  "form": "modified release capsules hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAMSULOSIN HYDROCHLORIDE 0.4   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA02",
+      "name": "TAMSULOSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMSULIN 0.4MG 30 SR CAPS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6154",
+        "yarpa": "86739",
+        "pharmasoft": "20629",
+        "barcode": "7290008013994"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25.9509,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 35.552733,
+        "maxPriceWithVAT": 41.95222494
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:04:26.917277"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "3fe7c798-9834-45ec-b9eb-e9a13e994871",
+  "name": "TAMIFLU 30 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 02 31733 00",
+  "treatmentDescriptions": "Treatment of influenza : Treatment of uncomplicated acute illness due to influenza infection in adults and children 1 year of age or older who have been symptomatic for no more than 2 days.  Prophylaxis of influenza : Post exposure prevention in adults and children 1 year of age or older patients following contact with a clinically diagnosed influenza case when influenza virus is circulating in the community.   The appropriate use of Tamiflu for prevention of influenza should be determined on a case by case basis by the circumstances and the population requiring protection. In exceptional situations (e.g. in case of a mismatch between the circulating and vaccine virus strains  and a pandemic situation) seasonal prevention could be considered in adults and children 1 year of age or older.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OSELTAMIVIR AS PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AH02",
+      "name": "OSELTAMIVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMIFLU 45MG 10 CAPSULES",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "120",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6194",
+        "yarpa": "88116",
+        "pharmasoft": "20634",
+        "barcode": "7290008140911"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 60.59459633,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 81.49973207,
+        "maxPriceWithVAT": 96.16967957
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:03:31.462824"
+  }
+}

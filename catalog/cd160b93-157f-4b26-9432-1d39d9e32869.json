@@ -1,0 +1,63 @@
+{
+  "catalogId": "cd160b93-157f-4b26-9432-1d39d9e32869",
+  "name": "TAKHZYRO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 47 35885 00",
+  "treatmentDescriptions": "Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE)in patients aged 2 years and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LANADELUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B06AC05",
+      "name": "LANADELUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAKHZYRO 150MG/ML 1 PFS",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED SYRINGE  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9455",
+        "yarpa": "18907"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 49726.76201,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 54699.43821,
+        "maxPriceWithVAT": 64545.33421
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:01:49.232135"
+  }
+}

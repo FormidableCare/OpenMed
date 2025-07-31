@@ -1,0 +1,64 @@
+{
+  "catalogId": "4b12423c-c528-41d6-bc03-57a16240d32b",
+  "name": "TASIGNA 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 84 33271 00",
+  "treatmentDescriptions": "Treatment of adult patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukemia in chronic phase.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NILOTINIB AS HYDROCHLORIDE MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE08",
+      "name": "NILOTINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TASIGNA 200MG 120CAPS",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7040",
+        "yarpa": "37070",
+        "pharmasoft": "20742"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10802.62616,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11882.88878,
+        "maxPriceWithVAT": 14021.80814
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:07:38.286935"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "95c2dba7-3f62-4063-9afc-4aba30a439f6",
+  "name": "DUODART",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 34 33278 01",
+  "treatmentDescriptions": "Treatment of moderate to severe symptoms of benign prostatic hyperplasia (BPH). Reduction in the risk of acute urinary retention (AUR) and surgery in patients with moderate to severe symptoms of BPH.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DUTASTERIDE 0.5  MG, TAMSULOSIN HYDROCHLORIDE 0.4  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA02",
+      "name": "TAMSULOSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMSULOSIN INOVAMED 0.4MG 30 P.R.TAB",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7687",
+        "yarpa": "58489",
+        "pharmasoft": "20794"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35.9941,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 49.311917,
+        "maxPriceWithVAT": 58.18806206
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:04:44.974562"
+  }
+}

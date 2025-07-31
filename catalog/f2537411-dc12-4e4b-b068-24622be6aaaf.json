@@ -1,0 +1,64 @@
+{
+  "catalogId": "f2537411-dc12-4e4b-b068-24622be6aaaf",
+  "name": "TARIOL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 51 36732 99",
+  "treatmentDescriptions": "Topical treatment of psoriasis vulgaris on the scalp and topical treatment of mild to moderate “non-scalp” plaque psoriasis vulgaris in adults 18 years of age and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CALCIPOTRIOL AS MONOHYDRATE/, BETAMETHASONE AS DIPROPIONATE 0.5  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC01",
+      "name": "BETAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TARIOL  GEL 60 GR",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9451",
+        "yarpa": "73685",
+        "barcode": "7290017164496"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 87.425937,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 117.5878853,
+        "maxPriceWithVAT": 138.7536984
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:06:50.162841"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "3c8f3527-a6b9-4f73-b23c-9ba3632fa4b3",
+  "name": "TAMBOCOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 41 23294 00",
+  "treatmentDescriptions": "Serious sustained life threatening ventricular arrhthymias that have not respoded to other drugs.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLECAINIDE ACETATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BC04",
+      "name": "FLECAINIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMBOCOR INJECTION 10MG/ML 5AMP/15ML",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7300",
+        "yarpa": "3642",
+        "pharmasoft": "20779",
+        "barcode": "5000485088604"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 151.5653475,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 189.4566844,
+        "maxPriceWithVAT": 223.5588776
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:03:09.091505"
+  }
+}

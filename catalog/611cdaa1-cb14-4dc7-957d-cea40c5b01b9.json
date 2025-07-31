@@ -1,0 +1,64 @@
+{
+  "catalogId": "611cdaa1-cb14-4dc7-957d-cea40c5b01b9",
+  "name": "TACROCEL 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 54 33452 00",
+  "treatmentDescriptions": "Prophylaxis of transplant rejection in liver kidney or heart allograft recipients.Treatment of allograft rejection resistant to treatment with other immuonosuppressive medicinal products.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TACROLIMUS AS MONOHYDRATE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AD02",
+      "name": "TACROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TACROCEL 0.5 MG 50 CAPSULES",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7078",
+        "yarpa": "38112",
+        "pharmasoft": "20745"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 145.096,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 181.37,
+        "maxPriceWithVAT": 214.0166
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:57:37.044884"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "8b6076b1-e379-4b20-8dd0-b738fa12d834",
+  "name": "TADALAMED 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 52 37026 99",
+  "treatmentDescriptions": "For the treatment of Erectile dysfunction in adult men.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TADALAFIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BE08",
+      "name": "TADALAFIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TADALAMED 20 MG 4 tabs",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/PVC/PE // PAPER/PET/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9320",
+        "yarpa": "2926",
+        "pharmasoft": "23572"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 160.7671,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 200.958875,
+        "maxPriceWithVAT": 237.1314725
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:59:38.386689"
+  }
+}

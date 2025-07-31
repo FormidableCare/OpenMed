@@ -1,0 +1,65 @@
+{
+  "catalogId": "e7a6d42b-a1c7-4872-b43f-4c2b5cd7c8a2",
+  "name": "TAMBOCOR 100 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "123 99 23293 00",
+  "treatmentDescriptions": "Serious sustained life threatening ventricular arrhytmias that have not responsed to other drugs. Paroxymal atrial flutter.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLECAINIDE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BC04",
+      "name": "FLECAINIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TAMBOCOR 100MG 60TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2869",
+        "yarpa": "9002",
+        "pharmasoft": "20437",
+        "barcode": "7290008107464"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 38.5282004,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 51.82042954,
+        "maxPriceWithVAT": 61.14810414
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T09:02:46.913318"
+  }
+}
