@@ -7,7 +7,6 @@
   
   [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](https://www.gnu.org/licenses/agpl-3.0)
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-  [![Next.js](https://img.shields.io/badge/Next.js-15.4+-black.svg)](https://nextjs.org)
 </div>
 
 ## What is OpenMed?
