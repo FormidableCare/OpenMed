@@ -1,0 +1,65 @@
+{
+  "catalogId": "feb456e3-36f3-4bc3-8ba7-e7091be3b611",
+  "name": "INOVELON 100 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 35 33202 00",
+  "treatmentDescriptions": "Inovelon is indicated as adjunctive therapy in the treatment of seizures associated with Lennox Gastaut syndrome in patients 1 year of age and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RUFINAMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AF03",
+      "name": "RUFINAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INOVELON 400 MG 60TAB",
+      "manufacturer": {
+        "name": "אסיי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/ALUMINIUM/PVC",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6671",
+        "yarpa": "25919",
+        "pharmasoft": "9421",
+        "barcode": "5036519000519"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 460.070487,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 540.5828222,
+        "maxPriceWithVAT": 637.8877019
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:06:43.036264"
+  }
+}

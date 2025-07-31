@@ -1,0 +1,64 @@
+{
+  "catalogId": "17239a41-9bd2-4425-8051-982409e6b87d",
+  "name": "SPASMALGIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "036 36 22208 00",
+  "treatmentDescriptions": "Analgesic and antispasmodic for the digestive system, the kidneys and the gall bladder.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL, ATROPINE SULFATE 0.4  MG, PAPAVERINE HYDROCHLORIDE, CODEINE PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE51",
+      "name": "PARACETAMOL, COMBINATIONS EXCL. PSYCHOLEPTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPASMALGIN 30TAB",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2038",
+        "yarpa": "7235",
+        "pharmasoft": "19115"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:32:38.124272"
+  }
+}

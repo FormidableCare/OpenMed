@@ -1,0 +1,64 @@
+{
+  "catalogId": "0afa4e0c-d91c-438e-88d3-39a0c318e723",
+  "name": "DAIVOBET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 60 30600 00",
+  "treatmentDescriptions": "Topical treatment of stable plaque psoriasis vulgaris amenable to topical therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETAMETHASONE AS DIPROPIONATE 0.5 MG/G, CALCIPOTRIOL AS HYDRATE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D05AX52",
+      "name": "CALCIPOTRIOL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DAIVOBET OINT 60GR",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4704",
+        "yarpa": "10346",
+        "pharmasoft": "4463"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 81.850617,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 110.0890799,
+        "maxPriceWithVAT": 129.9051085
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:39:31.471204"
+  }
+}

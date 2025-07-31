@@ -1,0 +1,65 @@
+{
+  "catalogId": "6a3826f6-c3ff-4059-ac4b-f212e5b098d3",
+  "name": "ANAGRID 0.5",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 64 33344 00",
+  "treatmentDescriptions": "Indicated for the treatment of patients with Essential Thrombocythemia to reduce the elevated platelet count and the risk of thrombosis and to ameliorate associated symptoms.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANAGRELIDE AS HYDROCHLORIDE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX35",
+      "name": "ANAGRELIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANAGRID 0.5MG 60CAPS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7693",
+        "yarpa": "40018",
+        "pharmasoft": "9623",
+        "barcode": "7290008013956"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 993.2818,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1167.106115,
+        "maxPriceWithVAT": 1377.185216
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:23:30.388898"
+  }
+}

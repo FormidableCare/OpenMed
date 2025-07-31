@@ -1,0 +1,62 @@
+{
+  "catalogId": "aefd3496-5a23-48bb-ae30-a10bfbe31889",
+  "name": "PAXLOVID",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 58 37720 99",
+  "treatmentDescriptions": "Paxlovid is indicated for the treatment of confirmed coronavirus disease 2019 (COVID-19) in adults who do not require supplemental oxygen and who are at increased risk for progressing to severe COVID19",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NIRMATRELVIR, RITONAVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AE30",
+      "name": "NIRMATRELVIR AND RITONAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PAXLOVID  100MG/150MG 30 TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/AL/PVC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9461"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3728.17139,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4100.988528,
+        "maxPriceWithVAT": 4839.166248
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:30:34.937746"
+  }
+}

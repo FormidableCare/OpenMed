@@ -1,0 +1,65 @@
+{
+  "catalogId": "cb17399c-c6e5-43dd-8bf3-1e7c0200ddbd",
+  "name": "ADCETRIS  50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 09 33991 00",
+  "treatmentDescriptions": "ADCETRIS is indicated for the treatment of adult patients with relapsed or refractory CD30+ Hodgkin lymphoma (HL): 1. following autologous stem cell transplant (ASCT) or 2. following at least two prior therapies when ASCT or multi-agent chemotherapy is not a treatment option. ADCETRIS is indicated for the treatment of adult patients with relapsed or refractory systemic anaplastic large cell lymphoma (sALCL). ADCETRIS is indicated for the treatment of adult patients with CD30+ HL at increased risk of relapse or progression following ASCT. ADCETRIS is indicated for the treatment of adult patients with CD30+ cutaneous T-cell lymphoma (CTCL) after at least 1 prior systemic therapy . ADCETRIS is indicated for the treatment of adult patients with previously untreated Stage III or IV classical Hodgkin lymphoma (cHL), in combination with doxorubicin, vinblastine, and dacarbazine.ADCETRIS is indicated for the treatment of adult patients with previously untreated systemic anaplastic large cell lymphoma (sALCL) or other CD30-expressing peripheral T-cell lymphomas (PTCL), including angioimmunoblastic T-cell lymphoma and PTCL not otherwise specified, in combination with cyclophosphamide, doxorubicin, and prednisone.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BRENTUXIMAB VEDOTIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC12",
+      "name": "BRENTUXIMAB VEDOTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADCETRIS 50MG/VIAL 1 VIAL",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7193",
+        "yarpa": "50844",
+        "pharmasoft": "9722",
+        "barcode": "7290019217817"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11235.03085,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12358.53393,
+        "maxPriceWithVAT": 14583.06939
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:14:24.837192"
+  }
+}

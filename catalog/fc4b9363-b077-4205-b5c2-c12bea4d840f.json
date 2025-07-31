@@ -1,0 +1,65 @@
+{
+  "catalogId": "fc4b9363-b077-4205-b5c2-c12bea4d840f",
+  "name": "BETMIGA 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 46 34104 00",
+  "treatmentDescriptions": "Symptomatic treatment of urgency, increased micturition frequency and/or urgency incontinence as may occur in adult patients with overactive bladder (OAB) syndrome",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIRABEGRON",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BD12",
+      "name": "MIRABEGRON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BETMIGA 25MG 30 P.R.TAB",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/AL/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7534",
+        "yarpa": "85010",
+        "pharmasoft": "2584",
+        "barcode": "8718692510739"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 145.8321308,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 182.2901635,
+        "maxPriceWithVAT": 215.1023834
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:34:10.378684"
+  }
+}

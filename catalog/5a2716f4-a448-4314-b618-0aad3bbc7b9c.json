@@ -1,0 +1,65 @@
+{
+  "catalogId": "5a2716f4-a448-4314-b618-0aad3bbc7b9c",
+  "name": "ELOCOM OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "060 06 26513 00",
+  "treatmentDescriptions": "For the relief of the inflammatory and pruritic manifestations of corticosteroid - responsive dermatoses such as psoriasis and atopic dermatitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOMETASONE FUROATE 0.1 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC13",
+      "name": "MOMETASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELOCOM OINT TUBE 15GR",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3055",
+        "yarpa": "9183",
+        "pharmasoft": "5052",
+        "barcode": "72989807"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.9695,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 10.918215,
+        "maxPriceWithVAT": 12.88349313
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:16:09.882738"
+  }
+}

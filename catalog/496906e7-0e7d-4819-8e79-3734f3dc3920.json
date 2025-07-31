@@ -1,0 +1,63 @@
+{
+  "catalogId": "496906e7-0e7d-4819-8e79-3734f3dc3920",
+  "name": "RIVAR TEVA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 08 36158 00",
+  "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), in adults (following completion of at least 6 months therapy for DVT or PE)",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIVAROXABAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AF01",
+      "name": "RIVAROXABAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIVAR TEVA 20 MG 28 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9174",
+        "yarpa": "38145"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 175.787,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 219.73375,
+        "maxPriceWithVAT": 259.285825
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:42:15.786493"
+  }
+}

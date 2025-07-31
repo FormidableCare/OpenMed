@@ -1,0 +1,63 @@
+{
+  "catalogId": "167e72c7-d5c1-4053-a650-06acb3424054",
+  "name": "MINJUVI 200 mg",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 96 37059 00",
+  "treatmentDescriptions": "MINJUVI is indicated in combination with lenalidomide followed by MINJUVI monotherapy for the treatment of adult patients with relapsed or refractory diffuse large B cell lymphoma (DLBCL) who are not eligible for autologous stem cell transplant (ASCT).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAFASITAMAB/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FX12",
+      "name": "TAFASITAMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MINJUVI 200 MG 1 VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9021",
+        "yarpa": "44052"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2741.82759,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3016.010349,
+        "maxPriceWithVAT": 3558.892054
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:25:33.544737"
+  }
+}

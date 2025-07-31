@@ -1,0 +1,65 @@
+{
+  "catalogId": "c15e78c1-05d4-4a33-8931-c4c3abd180f8",
+  "name": "SPRAVATO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 65 36113 00",
+  "treatmentDescriptions": "Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different treatments with antidepressants in the current moderate to severe depressive episode.Spravato, co-administered with oral antidepressant therapy, is indicated in adults with a moderate to severe episode of Major Depressive Disorder, as acute short-term treatment, for the rapid reduction of depressive symptoms, which according to clinical judgement constitute a psychiatric emergency.Limitations of Use: The effectiveness of SPRAVATO in preventing suicide or in reducing suicidal ideation or behavior has not been demonstrated. Use of SPRAVATO does not preclude the need for hospitalization if clinically warranted, even if patients experience improvement after an initial dose of SPRAVATO.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for spray",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESKETAMINE AS HYDROCHLORIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX27",
+      "name": "ESKETAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPRAVATO NASAL SPRAY 28MG 3 VIALS",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8738",
+        "yarpa": "425",
+        "pharmasoft": "10683",
+        "barcode": "7290014577619"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2240.355499,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2464.391049,
+        "maxPriceWithVAT": 2907.981308
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:35:57.564839"
+  }
+}

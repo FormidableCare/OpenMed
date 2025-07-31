@@ -1,0 +1,64 @@
+{
+  "catalogId": "4417e94a-f682-409b-bb4a-65d83feaf851",
+  "name": "FIRDAPSE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 29 33301 01",
+  "treatmentDescriptions": "Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMIFAMPRIDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX05",
+      "name": "AMIFAMPRIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FIRDAPSE 10MG 100TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6711",
+        "yarpa": "15378",
+        "pharmasoft": "6457"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6277.94697,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6905.741667,
+        "maxPriceWithVAT": 8148.774805
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:05:19.495348"
+  }
+}

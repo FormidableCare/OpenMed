@@ -1,0 +1,65 @@
+{
+  "catalogId": "b637aa25-24db-4418-8ce9-42328167595f",
+  "name": "DEXAMETHASONE 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 05 22579 00",
+  "treatmentDescriptions": "Indicated in a wide variety of disorders amenable to glucocorticoid therapy, as well as an adjunct in the control of cerebral oedema.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXAMETHASONE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB02",
+      "name": "DEXAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEXAMETHASONE 0.5MG 30T",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SECURITAINER POLYPROPYLENE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1928",
+        "yarpa": "715",
+        "pharmasoft": "4091",
+        "barcode": "7290008089159"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.2562,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.530994,
+        "maxPriceWithVAT": 23.04657292
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:52:23.147148"
+  }
+}

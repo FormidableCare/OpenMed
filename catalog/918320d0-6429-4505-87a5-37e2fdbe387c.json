@@ -1,0 +1,65 @@
+{
+  "catalogId": "918320d0-6429-4505-87a5-37e2fdbe387c",
+  "name": "PLAQUENIL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "044 96 23782 00",
+  "treatmentDescriptions": "Plaquenil is indicated for the suppressive treatment and treatment of acute attacks of malaria due to Plasmodium vivax, p. malaria. p. ovale and susceptible strains of p. falciparum it is also indicated for the treatment of discoid and sustemic lupus erythematosus and rheumatoid arthritis.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROXYCHLOROQUINE SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P01BA02",
+      "name": "HYDROXYCHLOROQUINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PLAQUENIL 200MG 100TAB",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "481",
+        "yarpa": "1720",
+        "pharmasoft": "16018",
+        "barcode": "7290012711275"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.25709,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 54.14578605,
+        "maxPriceWithVAT": 63.8920247
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:45:46.173577"
+  }
+}

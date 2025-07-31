@@ -1,0 +1,64 @@
+{
+  "catalogId": "135ab70f-5145-44a2-9c3f-22ce805b7851",
+  "name": "ALOFISEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 67 35458 00",
+  "treatmentDescriptions": "Alofisel is indicated for the treatment of complex perianal fistulas in adult patients with non-active/mildly active luminal Crohn’s disease, when fistulas have shown an inadequate response to at least one conventional or biologic therapy. Alofisel should be used only after conditioning of the fistulas.",
+  "termsOfIssue": "Prescription required",
+  "form": "dispersion for injection",
+  "route": "perilesional use",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DARVADSTROCEL 5000000 CELLS/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX08",
+      "name": "DARVADSTROCEL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALOFISEL 5000000 CELLS/ML 4 VIAL",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "72",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8482",
+        "yarpa": "55040",
+        "barcode": "7920017585345"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 232100.025,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 255310.0275,
+        "maxPriceWithVAT": 301265.8191
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:16:49.238739"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "47206084-7e2b-48d7-a1b4-7e9ca3b71ed2",
+  "name": "PHENOBARBITONE REKAH 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "028 67 21938 00",
+  "treatmentDescriptions": "Sedative, hypnotic.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENOBARBITAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AA02",
+      "name": "PHENOBARBITAL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENOBARBITONE 15MG 30TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7322",
+        "yarpa": "19232",
+        "pharmasoft": "16072",
+        "barcode": "7290008089319"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 54.6346,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 73.483537,
+        "maxPriceWithVAT": 86.71057366
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:40:54.910684"
+  }
+}

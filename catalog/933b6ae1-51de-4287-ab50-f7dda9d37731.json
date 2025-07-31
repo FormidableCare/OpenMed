@@ -1,0 +1,64 @@
+{
+  "catalogId": "933b6ae1-51de-4287-ab50-f7dda9d37731",
+  "name": "RYALTRIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 78 37350 99",
+  "treatmentDescriptions": "Ryaltris is indicated in adults and adolescents 12 years of age and older for the treatment of moderate to severe nasal symptoms associated with allergic rhinitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "nasal spray, suspension",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOMETASONE FUROATE (AS MONOHYDRATE)/DELIVERED DOSE, OLOPATADINE AS HYDROCHLORIDE/DELIVERED DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AD59",
+      "name": "MOMETASONE, COMBINATIONS "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RYALTRIS  SUSPENSION 240 DOSES",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 240.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE METERED DOSE SPRAY HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9245",
+        "yarpa": "53553",
+        "pharmasoft": "18714"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 49.160904,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 66.12141588,
+        "maxPriceWithVAT": 78.02326727
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:54:30.936313"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "210ac869-9a21-4dc0-a92f-ad808572a19d",
+  "name": "ONUREG 200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 93 36929 99",
+  "treatmentDescriptions": "ONUREG is indicated for continued treatment of adult patients with acute myeloid leukemia who achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following intensive induction chemotherapy and are not able to complete intensive curative therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZACITIDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC07",
+      "name": "AZACITIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ONUREG 300 MG 7 TAB",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/OPA/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9048",
+        "yarpa": "33376",
+        "barcode": "7290014396203"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27265.72025,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 29992.29227,
+        "maxPriceWithVAT": 35390.90331
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:13:13.359802"
+  }
+}

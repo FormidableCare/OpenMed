@@ -1,0 +1,65 @@
+{
+  "catalogId": "2d8c63d4-1914-4b0d-ad4e-eba2d682a863",
+  "name": "LYCLEAR DERMAL CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "060 18 27015 06",
+  "treatmentDescriptions": "Is indicated for the treatment of scabies.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PERMETHRINW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P03AC04",
+      "name": "PERMETHRIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LYCLEAR CRM 5% 30GR",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2987",
+        "yarpa": "68083",
+        "pharmasoft": "12352",
+        "barcode": "7290008086936"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35.5549635,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 48.7103,
+        "maxPriceWithVAT": 57.47815144
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:00:40.980335"
+  }
+}

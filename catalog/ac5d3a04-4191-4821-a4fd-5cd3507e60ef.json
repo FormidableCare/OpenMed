@@ -1,0 +1,63 @@
+{
+  "catalogId": "ac5d3a04-4191-4821-a4fd-5cd3507e60ef",
+  "name": "EPHEDRIN SINTETICA 50 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 42 34407 00",
+  "treatmentDescriptions": "Ephedrine Hydrochloride is used in the prevention and treatment of hypotension from spinal or epidural anaesthesia and during general anaesthesia, with or without a reduction in the heart rate, administered for a surgical or obstetric procedure.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c, i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPHEDRINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03CA02",
+      "name": "EPHEDRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPHEDRIN SINTETICA 50 MG/ML  10 VIAL",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7939",
+        "barcode": "7290016369113"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 61.6359825,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 82.90039646,
+        "maxPriceWithVAT": 97.82246348
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:25:39.088005"
+  }
+}

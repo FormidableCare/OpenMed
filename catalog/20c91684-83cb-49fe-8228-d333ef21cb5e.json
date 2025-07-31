@@ -1,0 +1,64 @@
+{
+  "catalogId": "20c91684-83cb-49fe-8228-d333ef21cb5e",
+  "name": "GENTATRIM OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 61 23635 01",
+  "treatmentDescriptions": "For the treatment of wounds, burns, acne spots and dermatoses infected with bacteria sensitive to gentamycin.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GENTAMICIN AS SULFATE 0.10 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06AX07",
+      "name": "GENTAMICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GENTATRIM  DERMAL CREAM 15GR",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2186",
+        "yarpa": "908",
+        "pharmasoft": "7020"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.0162,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.092194,
+        "maxPriceWithVAT": 17.80878892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:31:35.925941"
+  }
+}

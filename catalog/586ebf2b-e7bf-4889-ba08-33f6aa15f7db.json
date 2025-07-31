@@ -1,0 +1,64 @@
+{
+  "catalogId": "586ebf2b-e7bf-4889-ba08-33f6aa15f7db",
+  "name": "BRIVIACT 10 MG FILM COATED TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 88 35241 00",
+  "treatmentDescriptions": "Briviact is indicated as adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BRIVARACETAM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX23",
+      "name": "BRIVARACETAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRIVIACT 10MG/ML SO FOR INJ  10VIALS 5ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE/AL",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8359",
+        "yarpa": "64879",
+        "pharmasoft": "2628"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 854.171067,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1003.651004,
+        "maxPriceWithVAT": 1184.308132
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:44:09.630930"
+  }
+}

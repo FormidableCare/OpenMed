@@ -1,0 +1,64 @@
+{
+  "catalogId": "e2b435cb-e916-49e1-b024-6d4defc7bf79",
+  "name": "CABAZITAXEL S.K.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 69 36260 00",
+  "treatmentDescriptions": "CABAZITAXEL S.K. is indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer previously treated with a docetaxel- containing treatment regimen.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate and solvent for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CABAZITAXEL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01CD04",
+      "name": "CABAZITAXEL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CABAZITAXEL S.K.  40 MG/ML (60 MG/1.5 ML) 1 VIAL",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9183",
+        "yarpa": "31559",
+        "pharmasoft": "23141"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8464.066681,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9310.473349,
+        "maxPriceWithVAT": 10986.35855
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:47:02.946670"
+  }
+}

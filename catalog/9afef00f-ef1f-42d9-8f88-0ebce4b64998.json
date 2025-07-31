@@ -1,0 +1,65 @@
+{
+  "catalogId": "9afef00f-ef1f-42d9-8f88-0ebce4b64998",
+  "name": "ODNATRON",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 38 33805 00",
+  "treatmentDescriptions": "Adults:Odnatron is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy and radiotherapy.  Odnatron is indicated for the prevention and treatment of post-operative nausea and vomiting (PONV). Paediatric Population:Odnatron is indicated for the management of chemotherapy-induced nausea and vomiting (CINV) in children aged &#8805;6 months, and for the prevention and treatment of PONV in children aged &#8805; 1 month.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ONDANSETRON AS HYDROCHLORIDE DIHYDRATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A04AA01",
+      "name": "ONDANSETRON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ODNATRON 4MG/2ML 5 amp",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8069",
+        "yarpa": "54624",
+        "pharmasoft": "15467",
+        "barcode": "7290016845013"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 82.0531,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 110.3614195,
+        "maxPriceWithVAT": 130.226475
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:03:19.590986"
+  }
+}

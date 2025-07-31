@@ -1,0 +1,65 @@
+{
+  "catalogId": "1586f9c9-d123-49c0-a7b0-520caf8d9885",
+  "name": "KETOZOL SHAMPOO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 73 31583 00",
+  "treatmentDescriptions": "Topical treatment of seborrhoeic dermatitis including dandruff resulting from proven fungal infection including Pityriasis versicolor.",
+  "termsOfIssue": "Prescription required",
+  "form": "shampoo",
+  "route": "topical- scalp",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "KETOCONAZOLE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC08",
+      "name": "KETOCONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KETOZOL SHAMPOO 100ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE 120 ML HDPE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6428",
+        "yarpa": "89359",
+        "pharmasoft": "11213",
+        "barcode": "7290012162084"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.907,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 39.60259,
+        "maxPriceWithVAT": 46.7310562
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:25:44.980017"
+  }
+}

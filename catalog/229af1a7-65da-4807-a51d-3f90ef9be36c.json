@@ -1,0 +1,63 @@
+{
+  "catalogId": "229af1a7-65da-4807-a51d-3f90ef9be36c",
+  "name": "OCTANINE F 1000 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 35 33831 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COAGULATION FACTOR IX (HUMAN)/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD04",
+      "name": "COAGULATION FACTOR IX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCTANINE F 1000 IU VIAL",
+      "manufacturer": {
+        "name": "דובר מדיקל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7719",
+        "yarpa": "5096"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1402.478094,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1647.911761,
+        "maxPriceWithVAT": 1944.535791
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:01:53.633601"
+  }
+}

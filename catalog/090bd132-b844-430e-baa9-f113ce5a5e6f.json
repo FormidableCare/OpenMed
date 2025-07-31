@@ -1,0 +1,64 @@
+{
+  "catalogId": "090bd132-b844-430e-baa9-f113ce5a5e6f",
+  "name": "LIXIANA15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 82 36013 00",
+  "treatmentDescriptions": "• Prevention of stroke and systemic embolism in adult patients with nonvalvular atrial fibrillation (NVAF) with  one or more risk factors, such as congestive heart failure, hypertension, age &#8805; 75 years,diabetes mellitus, prior stroke or transient ischaemic attack (TIA).• Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EDOXABAN AS TOSYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AF03",
+      "name": "EDOXABAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIXIANA 15 MG 10 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8518",
+        "yarpa": "73223",
+        "pharmasoft": "12606"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 75.52926167,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 101.5868569,
+        "maxPriceWithVAT": 119.8724859
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:51:36.897686"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "c84fbbe1-4df1-4f38-aafd-580af6ddac82",
+  "name": "MIGLUSTAT DIPHARMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 46 36284 00",
+  "treatmentDescriptions": "Miglustat Dipharma is indicated for the oral treatment of mild to moderate type I Gaucher disease. Miglustat Dipharma may be used only in the treatment of patients for whom enzyme replacement therapy is unsuitable. Miglustat Dipharma is indicated for the treatment of progressive neurological manifestations in adult patients and paediatric patients with Niemann-Pick type C disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIGLUSTAT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX06",
+      "name": "MIGLUSTAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIGLUSTAT DIPHARMA 100MG 84 CAPS",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/AL/PVC",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8950",
+        "yarpa": "74612"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11126.8383,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12239.52213,
+        "maxPriceWithVAT": 14442.63548
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:23:38.773219"
+  }
+}

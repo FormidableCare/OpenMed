@@ -1,0 +1,64 @@
+{
+  "catalogId": "a07544e0-4ac4-42f9-9789-1def3c9c82c5",
+  "name": "AMLOW 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 66 31035 01",
+  "treatmentDescriptions": "Mild to moderate hypertension. Vasospastic angina (Prinzmetal's or variant angina). Chronic stable angina.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMLODIPINE AS MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08CA01",
+      "name": "AMLODIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMLOW 10 MG 30 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7941",
+        "yarpa": "55821",
+        "pharmasoft": "9952"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.0967,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.572479,
+        "maxPriceWithVAT": 19.55552522
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:22:45.258620"
+  }
+}

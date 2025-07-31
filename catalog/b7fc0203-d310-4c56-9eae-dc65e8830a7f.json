@@ -1,0 +1,65 @@
+{
+  "catalogId": "b7fc0203-d310-4c56-9eae-dc65e8830a7f",
+  "name": "LORMYX  200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 55 33667 00",
+  "treatmentDescriptions": "• Casual treatment of diseases of grown-ups and youngsters from 12 years up, caused by bacteria in the gastrointestinal tract, sensitive to Rifaximin:• hepatic encephalopathy • traveller’s diarrhea, caused by not-invasive enteropathogeneous bacteria.• Non-complicated diverticular diseases.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIFAXIMINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A07AA11",
+      "name": "RIFAXIMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LORMYX 200MG 12 F.C.TAB",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7182",
+        "yarpa": "47006",
+        "pharmasoft": "16358",
+        "barcode": "7290004448707"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 64.12876368,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 86.25318715,
+        "maxPriceWithVAT": 101.7787563
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:54:22.379471"
+  }
+}

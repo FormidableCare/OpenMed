@@ -1,0 +1,63 @@
+{
+  "catalogId": "8ee558dd-ea3d-4a5b-a874-efb9ecab33a4",
+  "name": "AMLOW 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 66 31035 01",
+  "treatmentDescriptions": "Mild to moderate hypertension. Vasospastic angina (Prinzmetal's or variant angina). Chronic stable angina.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMLODIPINE AS MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08CA01",
+      "name": "AMLODIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMLODIPINE TEVA 10 MG \t30 TABLETS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8077",
+        "yarpa": "67877"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.0967,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.572479,
+        "maxPriceWithVAT": 19.55552522
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:22:25.404177"
+  }
+}

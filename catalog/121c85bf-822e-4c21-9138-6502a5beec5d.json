@@ -1,0 +1,65 @@
+{
+  "catalogId": "121c85bf-822e-4c21-9138-6502a5beec5d",
+  "name": "DOPICAR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "040 96 22970 00",
+  "treatmentDescriptions": "For the relief of symptoms associated with parkinson's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVODOPA, CARBIDOPA",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BA01",
+      "name": "LEVODOPA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DOPICAR 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1529",
+        "yarpa": "719",
+        "pharmasoft": "4162",
+        "barcode": "7290000800424"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.2603,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.016611,
+        "maxPriceWithVAT": 29.51960098
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:02:34.862126"
+  }
+}

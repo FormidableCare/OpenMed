@@ -1,0 +1,65 @@
+{
+  "catalogId": "5d1924a8-d20f-40ec-abeb-6f36778e7299",
+  "name": "MENOPUR 75 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "123 86 30045 00",
+  "treatmentDescriptions": "Sterility in females with hypo or normogonadotropic ovarian insufficiency : stimulation of follicle growth. Sterility in males with hypo or normogonadotropic hypogonadism: In combination with HCG to spermatogenesis.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MENOTROPHIN/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA02",
+      "name": "HUMAN MENOPAUSAL GONADOTROPHIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MENOPUR INJ 75IU /1ML 10AMP",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4419",
+        "yarpa": "28448",
+        "pharmasoft": "13153",
+        "barcode": "4031925151283"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 667.865124,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 784.7415207,
+        "maxPriceWithVAT": 925.9949533
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:11:19.912615"
+  }
+}

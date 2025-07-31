@@ -1,0 +1,63 @@
+{
+  "catalogId": "34216011-3a22-4c56-a521-820dce593ece",
+  "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "107 95 26735 00",
+  "treatmentDescriptions": "For use in patients with end-stage (decompensated) chronic renal failure of any origin being maintained on peritoneal dialysis.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for peritoneal dialysis",
+  "route": "intra-peritoneal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MAGNESIUM CHLORIDE 0.1017 G/L, SODIUM CHLORIDE 5.786 G/L, CALCIUM CHLORIDE 0.2573 G/L, GLUCOSE AS MONOHYDRATE 16.5 G/L, LACTIC ACID AS SODIUM 3.925 G/L",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05XA30",
+      "name": "COMBINATIONS OF ELECTROLYTES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLUCOSE 5 % INTRAVENOUS INFUSION BP  VIAFLO 500ml",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8848",
+        "yarpa": "42634"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5.8614651,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 8.030207187,
+        "maxPriceWithVAT": 9.475644059
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:37:42.148983"
+  }
+}

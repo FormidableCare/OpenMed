@@ -1,0 +1,64 @@
+{
+  "catalogId": "89f3a19f-8393-4883-a6db-694b6aa133fe",
+  "name": "RIVASTIGMINE PATCH DEXCEL 9.5 MG/24 H",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 88 34452 00",
+  "treatmentDescriptions": "Treatment of mild to moderate dementia of the Alzheimer's type.",
+  "termsOfIssue": "Prescription required",
+  "form": "patches",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIVASTIGMINE 13.8  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DA03",
+      "name": "RIVASTIGMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIVASTIGMINE PATCH DEXCEL 9.5 MG/24 H 30PATCHES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET PAPER /POLYETHYLENE TEREPHTHALATE/ALUMINUM/POLYACRYLNITRILE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8184",
+        "yarpa": "66787",
+        "pharmasoft": "18579"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 165.6234,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 207.02925,
+        "maxPriceWithVAT": 244.294515
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:45:30.649750"
+  }
+}

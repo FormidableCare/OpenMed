@@ -1,0 +1,64 @@
+{
+  "catalogId": "eb9248b8-69b1-42ee-8c75-401a89546a81",
+  "name": "LIVMARLI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 65 37132 99",
+  "treatmentDescriptions": "Livamrli ® is an ileal bile acid transporter (IBAT) inhibitor indicated for the treatment of cholestatic pruritus in patients with Alagille syndrome (ALGS) 2 months of age and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MARALIXIBAT CHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A05AX04",
+      "name": "MARALIXIBAT CHLORIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIVMARLI ORAL SOLUTION 10 MG/ML 30ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PET",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9219",
+        "yarpa": "88146",
+        "pharmasoft": "12628"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 115887.2487,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 127475.9736,
+        "maxPriceWithVAT": 150421.6421
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:51:15.800637"
+  }
+}

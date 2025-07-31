@@ -1,0 +1,65 @@
+{
+  "catalogId": "65eedbbe-d52d-42e5-b140-e4ccd00f6a50",
+  "name": "DERMOVATE OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 57 22063 00",
+  "treatmentDescriptions": "Clobetasol is a very potent topical corticosteroid indicated for adults, elderly and children over 1 year for the short term treatment only of more resistant inflammatory and pruritic manifestations of steroid responsive dermatoses unresponsive to less potent corticosteroids. These include the following:• Psoriasis (excluding widespread plaque psoriasis)• Recalcitrant dermatoses  •Lichen planus• Discoid lupus erythematosus • Other skin conditions which do not respond satisfactorily to less potent steroids.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOBETASOL 17- PROPIONATE 0.05 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AD01",
+      "name": "CLOBETASOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DERMOVATE CREAM 30GR",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8198",
+        "yarpa": "25765",
+        "pharmasoft": "4691",
+        "barcode": "7290008086127"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.3148,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.871276,
+        "maxPriceWithVAT": 19.90810568
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:49:13.672686"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "ec243e18-7d17-43a4-bfb5-2ec2f74faedf",
+  "name": "SONOVUE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 03 34004 00",
+  "treatmentDescriptions": "This medicinal product is for diagnostic use only. SonoVue is for use with ultrasound imaging to enhance the echogenicity of the blood, which results in an improved signal to noise ratio. SonoVue should only be used in patients where study without contrast enhancement is inconclusive.Echocardiography: SonoVue is a transpulmonary echocardiographic contrast agent for use in patients with suspected or established cardiovascular disease to provide opacification of cardiac chambers and enhance left ventricular endocardial border delineation.Doppler of macrovasculature: SonoVue increases the accuracy in detection or exclusion of abnormalities in cerebral arteries and extracranial carotid or peripheral arteries by improving the Doppler signal to noise ratio. SonoVue increases the quality of the Doppler flow image and the duration of clinically useful signal enhancement in portal vein assessment.Doppler of microvasculature: SonoVue improves display of the vascularity of liver and breast lesions during Doppler sonography, leading to more specific lesion characterisation.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for dispersion for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SULPHUR HEXAFLUORIDE 8 MCL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V08DA05",
+      "name": "SULFUR HEXAFLUORIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SONOVUE  8 MCL/ML 1VIAL 25MG PWDR",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8188",
+        "yarpa": "25131",
+        "pharmasoft": "10374"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 275.52,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 323.736,
+        "maxPriceWithVAT": 382.008463
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:31:08.495037"
+  }
+}

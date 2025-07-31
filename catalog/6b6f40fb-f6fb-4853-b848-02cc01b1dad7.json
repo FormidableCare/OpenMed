@@ -1,0 +1,63 @@
+{
+  "catalogId": "6b6f40fb-f6fb-4853-b848-02cc01b1dad7",
+  "name": "PHENYLEPHRINE AGUETTANT 50 MCG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 76 36718 99",
+  "treatmentDescriptions": "Treatment of hypotension during general anaesthesia and locoregional anaesthesia, whether spinal or epidural, and whether for surgical or obstetric procedures. Preventive treatment of hypotension during spinal anaesthesia for surgical or obstetric procedures.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENYLEPHRINE AS HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CA06",
+      "name": "PHENYLEPHRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENYLEPHRINE AGUETTANT 50 MCG/ML 10PFS",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9509",
+        "yarpa": "17377"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:41:05.566918"
+  }
+}

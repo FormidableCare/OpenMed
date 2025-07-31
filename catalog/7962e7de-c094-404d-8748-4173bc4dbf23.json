@@ -1,0 +1,65 @@
+{
+  "catalogId": "7962e7de-c094-404d-8748-4173bc4dbf23",
+  "name": "BONJESTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 52 36428 00",
+  "treatmentDescriptions": "BONJESTA is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.Limitations of UseBONJESTA has not been studied in women with hyperemesis gravidarum.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOXYLAMINE SUCCINATE, PYRIDOXINE (VIT B6) HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AA09",
+      "name": "DOXYLAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BONJESTA 50 TAB",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/AL/PVC",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8864",
+        "yarpa": "70698",
+        "pharmasoft": "2871",
+        "barcode": "7290100819074"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 374.01105,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 439.4629838,
+        "maxPriceWithVAT": 518.5662978
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:41:02.324325"
+  }
+}

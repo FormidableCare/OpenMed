@@ -1,0 +1,64 @@
+{
+  "catalogId": "60c0a17c-2fef-4eae-a4f7-ad34c1a3212b",
+  "name": "ABILIFY  MAINTENA 300 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 68 34089 00",
+  "treatmentDescriptions": "Abilify Maintena is indicated for maintenance treatment of schizophrenia in adult patients stabilised with oral aripiprazole.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for prolonged-release suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARIPIPRAZOLE AS MONOHYDRATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX12",
+      "name": "ARIPIPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABILIFY MAINTENA 400 MG/PREFILLED SYR",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7940",
+        "yarpa": "85126",
+        "pharmasoft": "9950"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 803.1837798,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 943.7409412,
+        "maxPriceWithVAT": 1113.614261
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:10:01.289898"
+  }
+}

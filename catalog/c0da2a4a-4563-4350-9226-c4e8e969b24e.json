@@ -1,0 +1,64 @@
+{
+  "catalogId": "c0da2a4a-4563-4350-9226-c4e8e969b24e",
+  "name": "NIFEDILONG 30",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 89 31415 00",
+  "treatmentDescriptions": "Chronic stable angina, hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NIFEDIPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08CA05",
+      "name": "NIFEDIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NIFEDILONG 60MG 30SRTAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6238",
+        "yarpa": "87932",
+        "pharmasoft": "14470"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.5989,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.510493,
+        "maxPriceWithVAT": 60.78238174
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:46:25.634558"
+  }
+}

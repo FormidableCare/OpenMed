@@ -1,0 +1,65 @@
+{
+  "catalogId": "f7843e2c-bd86-43a4-af2f-5a73a1fd9a96",
+  "name": "BENLYSTA I.V. 120 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 37 33499 00",
+  "treatmentDescriptions": "Benlysta is indicated as add-on therapy in patients aged 5 years and older with active, autoantibody-positive systemic lupus erythematosus (SLE) with a high degree of disease activity (e.g., positive anti-dsDNA and low complement) despite standard therapy.Benlysta is indicated in combination with background immunosuppressive therapies for the treatment of adult patients with active lupus nephritis.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BELIMUMAB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA26",
+      "name": "BELIMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BENLYSTA 200 MG 4 PREFILLED SYR",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8337",
+        "yarpa": "26816",
+        "pharmasoft": "2647",
+        "barcode": "7290010140893"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3331.527,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3664.6797,
+        "maxPriceWithVAT": 4324.321854
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:31:18.077119"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "1d9d7859-1117-4d24-bff6-ef86ca4825ad",
+  "name": "AMINOPHYLLINE S.A.L.F 240 MG/10 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 55 34846 00",
+  "treatmentDescriptions": "- Bronchial asthma;- Pulmonary affections with bronchial spastic component.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "THEOPHYLLINE ETHYLENEDIAMINE DEHYDRATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03DA04",
+      "name": "THEOPHYLLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMINOPHYLLINE S.A.L.F 240 MG/10 ML 5 AMP",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8253",
+        "yarpa": "52749",
+        "barcode": "7290015863117"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.720062,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.12648494,
+        "maxPriceWithVAT": 36.7292506
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:22:04.201547"
+  }
+}

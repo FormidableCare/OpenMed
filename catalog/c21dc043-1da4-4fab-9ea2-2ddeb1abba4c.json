@@ -1,0 +1,63 @@
+{
+  "catalogId": "c21dc043-1da4-4fab-9ea2-2ddeb1abba4c",
+  "name": "BYLVAY 1200 MICROGRAMS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 44 37200 99",
+  "treatmentDescriptions": "Bylvay is indicated for the treatment of progressive familial intrahepatic cholestasis (PFIC) in patients aged 6 months or older.Bylvay is indicated for the treatment of cholestatic pruritus in patients 12 months of age and older with Alagille syndrome (ALGS).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ODEVIXIBAT AS SESQUIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A05AX05",
+      "name": "ODEVIXIBAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BYLVAY 400 MCG 30 HARD CAPS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9198",
+        "yarpa": "25877"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 26105.36171,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 28715.89788,
+        "maxPriceWithVAT": 33884.75799
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:48:06.966062"
+  }
+}

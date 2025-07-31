@@ -1,0 +1,65 @@
+{
+  "catalogId": "740452ba-9daf-45fd-889a-1d0a170fc0d7",
+  "name": "NOVOEIGHT 1000 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 52 34374 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).NovoEight can be used for all age groups.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TUROCTOCOG ALFA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD02",
+      "name": "COAGULATION FACTOR VIII"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NOVOEIGHT 250 IU/4 ML 1 VIAL",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8029",
+        "yarpa": "58046",
+        "pharmasoft": "14616",
+        "barcode": "7290015659055"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 489.3896908,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 575.0328867,
+        "maxPriceWithVAT": 678.5387762
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:53:49.866265"
+  }
+}

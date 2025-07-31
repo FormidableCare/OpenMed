@@ -1,0 +1,64 @@
+{
+  "catalogId": "e3f82755-7af0-4bcd-9935-9b72d2c4efe9",
+  "name": "LIPANOR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "105 56 28758 00",
+  "treatmentDescriptions": "For the treatment of primary hyperlipidaemia resistant to appropriate dietary management, including hypercholesterolaemia, hypertriglyceridaemia and combined hyperlipidaemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CIPROFIBRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AB08",
+      "name": "CIPROFIBRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIPANOR 100MG 30CAP",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3427",
+        "yarpa": "9595",
+        "pharmasoft": "2067"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.47782515,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.20462046,
+        "maxPriceWithVAT": 25.02145103
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:47:37.778129"
+  }
+}

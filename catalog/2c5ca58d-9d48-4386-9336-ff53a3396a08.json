@@ -1,0 +1,65 @@
+{
+  "catalogId": "2c5ca58d-9d48-4386-9336-ff53a3396a08",
+  "name": "LEVETRIM SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 58 33779 00",
+  "treatmentDescriptions": "Levetrim Solution is indicated as:- monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. - adjunctive therapy:in the treatment of partial onset seizures with or without secondary generalisation in adults and children from 4 years of age with epilepsy.In the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy. in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with Idiopathic Generalised Epilepsy",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVETIRACETAM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX14",
+      "name": "LEVETIRACETAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LEVETRIM SOLUTION 100MG/ML 300ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 300.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7348",
+        "yarpa": "51488",
+        "pharmasoft": "12499",
+        "barcode": "7290000843513"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 170.7,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 213.375,
+        "maxPriceWithVAT": 251.7825
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:44:16.544252"
+  }
+}

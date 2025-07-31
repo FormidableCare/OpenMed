@@ -1,0 +1,64 @@
+{
+  "catalogId": "294336be-4a35-4fb6-9f22-614e72772f46",
+  "name": "ADATAR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 95 35656 00",
+  "treatmentDescriptions": "Cutaneous treatment of acne vulgaris when comedones, papules and pustules are present",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZOYL PEROXIDE AS HYDROUS 2.5 %W/W, ADAPALENE 0.1 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AD03",
+      "name": "ADAPALENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADATAR GEL 30G",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER PP",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8944",
+        "yarpa": "68994",
+        "barcode": "7290017164199"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 65.62,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 88.2589,
+        "maxPriceWithVAT": 104.145502
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:14:14.944197"
+  }
+}

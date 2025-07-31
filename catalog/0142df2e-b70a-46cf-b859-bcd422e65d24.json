@@ -1,0 +1,65 @@
+{
+  "catalogId": "0142df2e-b70a-46cf-b859-bcd422e65d24",
+  "name": "ABIRATERONE - TRIMA 250 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 37 37264 99",
+  "treatmentDescriptions": "Abiraterone Trima 250 mg is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer. The treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABIRATERONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BX03",
+      "name": "ABIRATERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABIRATERONE - TRIMA 250 MG 120 TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9389",
+        "yarpa": "15853",
+        "pharmasoft": "23875",
+        "barcode": "7290016981414"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13221.014,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 14543.1154,
+        "maxPriceWithVAT": 17160.87617
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:10:11.230636"
+  }
+}

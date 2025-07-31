@@ -1,0 +1,65 @@
+{
+  "catalogId": "351becff-1338-415a-a3da-6e8875ddcfb0",
+  "name": "CLOPIXOL DEPOT 200",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 70 25491 00",
+  "treatmentDescriptions": "Clopixol Depot injection is a depot neuroleptic preparation designed for the maintenance treatment of acute and chronic schizophrenia and other paranoid psychoses, especially where compliance with oral medication is a problem.",
+  "termsOfIssue": "Prescription required",
+  "form": "prolonged release solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZUCLOPENTHIXOL DECANOATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AF05",
+      "name": "ZUCLOPENTHIXOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLOPIXOL DEPOT 200MG 1AMP",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2426",
+        "yarpa": "8223",
+        "pharmasoft": "3634",
+        "barcode": "5702157109203"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.314845,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.98133765,
+        "maxPriceWithVAT": 24.75797733
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:23:25.456798"
+  }
+}

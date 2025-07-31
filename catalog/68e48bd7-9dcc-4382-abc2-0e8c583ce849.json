@@ -1,0 +1,65 @@
+{
+  "catalogId": "68e48bd7-9dcc-4382-abc2-0e8c583ce849",
+  "name": "SIFROL ER 1.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 97 33090 00",
+  "treatmentDescriptions": "Treatment of signs and symptoms of idiopathic Parkinson's disease, as monotherapy or in combination with levodopa.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRAMIPEXOLE DIHYDROCHLORIDE MONOHYDRATE 1.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BC05",
+      "name": "PRAMIPEXOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SIFROL 1.0 MG 100 TAB",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6143",
+        "yarpa": "17218",
+        "pharmasoft": "9791",
+        "barcode": "900698012513"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 223.17869,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 262.2349608,
+        "maxPriceWithVAT": 309.4372399
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:10:01.351076"
+  }
+}

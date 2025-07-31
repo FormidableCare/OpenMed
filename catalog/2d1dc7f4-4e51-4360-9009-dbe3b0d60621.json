@@ -1,0 +1,65 @@
+{
+  "catalogId": "2d1dc7f4-4e51-4360-9009-dbe3b0d60621",
+  "name": "AMOXICLAV TEVA ® 875 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 13 33189 00",
+  "treatmentDescriptions": "Amoxiclav teva is indicated for the treatment of the following infections in adults and children :• Acute bacterial sinusitis (adequately diagnosed)• Acute otitis media• Acute exacerbations of chronic bronchitis (adequately diagnosed)• Community acquired pneumonia• Cystitis• Pyelonephritis• Skin and soft tissue infections in particular cellulitis, animal bites, severe dental abscess with spreading cellulitis.• Bone and joint infections, in particular osteomyelitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMOXICILLIN AS TRIHYDRATE, CLAVULANIC ACID AS POTASSIUM SALT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CA51",
+      "name": "AMPICILLIN, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMOXICLAV TEVA 875MG 14TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6962",
+        "yarpa": "20585",
+        "pharmasoft": "9505",
+        "barcode": "7290102065776"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.3056,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.298672,
+        "maxPriceWithVAT": 39.29243296
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:22:55.417179"
+  }
+}

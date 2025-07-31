@@ -1,0 +1,65 @@
+{
+  "catalogId": "e103088a-b810-40d4-a7bf-60b454c688e7",
+  "name": "CLOPIXOL ACUPHASE 50",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 80 25490 00",
+  "treatmentDescriptions": "Acute psychoses.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZUCLOPENTHIXOL ACETATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AF05",
+      "name": "ZUCLOPENTHIXOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLOPIXOL ACUPHASE 100MG 2ML",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "624",
+        "yarpa": "8222",
+        "pharmasoft": "3633",
+        "barcode": "5702157108244"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:23:04.545929"
+  }
+}

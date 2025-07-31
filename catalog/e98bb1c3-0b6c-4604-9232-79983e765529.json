@@ -1,0 +1,65 @@
+{
+  "catalogId": "e98bb1c3-0b6c-4604-9232-79983e765529",
+  "name": "STALEVO 75/18.75/200",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 30 32962 01",
+  "treatmentDescriptions": "Treatment of patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa/dopa/decarboxylase (DDC) inhibitor treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBIDOPA AS MONOHYDRATE 18.75  MG, ENTACAPONE, LEVODOPA",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BA01",
+      "name": "LEVODOPA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STALEVO 75/18.75/200MG 30TAB",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6457",
+        "yarpa": "21389",
+        "pharmasoft": "19924",
+        "barcode": "7290006257475"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 39.7890027,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 53.51620863,
+        "maxPriceWithVAT": 63.14912338
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:39:32.805996"
+  }
+}

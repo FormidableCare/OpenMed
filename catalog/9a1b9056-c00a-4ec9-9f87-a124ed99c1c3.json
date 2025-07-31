@@ -1,0 +1,65 @@
+{
+  "catalogId": "9a1b9056-c00a-4ec9-9f87-a124ed99c1c3",
+  "name": "LEDAGA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 12 34556 00",
+  "treatmentDescriptions": "Topical treatment of Stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma in patients who have received prior skin-directed therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLORMETHINE AS HYDROCHLORIDE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AA05",
+      "name": "CHLORMETHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LEDAGA 160MCG/G GEL 60G",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7823",
+        "yarpa": "32087",
+        "pharmasoft": "12511",
+        "barcode": "7640111932697"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4761.955821,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5238.151403,
+        "maxPriceWithVAT": 6181.01838
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:37:38.084702"
+  }
+}

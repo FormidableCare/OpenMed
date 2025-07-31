@@ -1,0 +1,64 @@
+{
+  "catalogId": "423b7217-fd4d-402b-ab16-4f76314a7289",
+  "name": "NEVANAC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 57 31467 00",
+  "treatmentDescriptions": "Prevention and treatment of postoperative pain and inflammation associated with cataract surgery and reduction in the risk of postoperative macular oedema associated with cataract surgery in diabetic patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NEPAFENAC 0.1 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01BC10",
+      "name": "NEPAFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEVANAC 0.1% OPHTALMIC SUSP. 5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7007",
+        "yarpa": "31048",
+        "pharmasoft": "14548"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 68.5832815,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 92.24451362,
+        "maxPriceWithVAT": 108.8485212
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:44:27.596994"
+  }
+}

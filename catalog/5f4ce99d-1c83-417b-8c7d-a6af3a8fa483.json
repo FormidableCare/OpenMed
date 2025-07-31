@@ -1,0 +1,63 @@
+{
+  "catalogId": "5f4ce99d-1c83-417b-8c7d-a6af3a8fa483",
+  "name": "OCTOCAINE 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 86 31595 00",
+  "treatmentDescriptions": "Production of local anesthesia for dental procedures by nerve block or infiltration technique.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "dental nerve block, dental infiltration inj.",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINEPHRINE AS BITARTRATE 0.01 MG/ML, LIDOCAINE HYDROCHLORIDE ( AS MONOHYDRATE)/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB02",
+      "name": "LIDOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIDOCAINE RAZ SPRAY 10 % 1 bottle",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 80.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9280",
+        "yarpa": "43216"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:47:05.959869"
+  }
+}

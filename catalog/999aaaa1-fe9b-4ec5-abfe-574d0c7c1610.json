@@ -1,0 +1,65 @@
+{
+  "catalogId": "999aaaa1-fe9b-4ec5-abfe-574d0c7c1610",
+  "name": "BUCCOLAM 2.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 78 33743 07",
+  "treatmentDescriptions": "Treatment of prolonged, acute, convulsive seizures in infants, toddlers, children and adolescents (from 3 months to < 18 years). Buccolam must only be used by parents/carers where the patient has been diagnosed to have epilepsy. For infants between 3-6 months of age treatment should be in a hospital setting where monitoring is possible and resuscitation equipment is available.",
+  "termsOfIssue": "Prescription required",
+  "form": "oromucosal solution",
+  "route": "buccal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIDAZOLAM AS HYDROCHLORIDE 2.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CD08",
+      "name": "MIDAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUCCOLAM 2.5 MG SYRINGE PREFILLED 4X0.5ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  HDPE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7127",
+        "yarpa": "40572",
+        "pharmasoft": "2548",
+        "barcode": "5060147020052"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 277.5438024,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 326.1139678,
+        "maxPriceWithVAT": 384.8144649
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:45:04.687075"
+  }
+}

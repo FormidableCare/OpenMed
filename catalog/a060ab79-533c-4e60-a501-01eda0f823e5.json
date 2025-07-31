@@ -1,0 +1,65 @@
+{
+  "catalogId": "a060ab79-533c-4e60-a501-01eda0f823e5",
+  "name": "APIDRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 94 31195 00",
+  "treatmentDescriptions": "Treatment of adults, adolescents and children, 6 years or older with diabetes mellitus, where treatment with insulin is required.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INSULIN GLULISINE 100 U/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AB06",
+      "name": "INSULIN GLULISINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "APIDRA OPTISET/SOLOSTAR PREFILLED PEN 5X3ML",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4984",
+        "yarpa": "15343",
+        "pharmasoft": "9250",
+        "barcode": "7290008880732"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 122.8189703,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 153.5237128,
+        "maxPriceWithVAT": 181.1579731
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:20:52.948869"
+  }
+}

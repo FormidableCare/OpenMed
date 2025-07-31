@@ -1,0 +1,63 @@
+{
+  "catalogId": "1ab7df0e-9ade-4536-8f0f-f5a5e3e3d17b",
+  "name": "METADEX XR 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 56 37337 99",
+  "treatmentDescriptions": "Metadex XR extended-release capsules are a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in children of 6 years and older, in adolescents and in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA11",
+      "name": "DEXMETHYLPHENIDATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METADEX XR 10 MG S.K. 100 CAPSULES",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9224",
+        "yarpa": "70901"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:15:28.888927"
+  }
+}

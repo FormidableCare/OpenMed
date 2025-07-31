@@ -1,0 +1,64 @@
+{
+  "catalogId": "61659f6e-57c1-4523-84d6-6bd7b2605c84",
+  "name": "PROLUTEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 15 37196 99",
+  "treatmentDescriptions": "Prolutex is indicated in adults for luteal support as part of an Assisted Reproductive Technology (ART) treatment program in infertile women who are unable to use or tolerate vaginal preparations.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROGESTERONE 22.48 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03DA04",
+      "name": "PROGESTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROLUTEX 25 MG 7 VIALS",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9460",
+        "yarpa": "28868",
+        "pharmasoft": "24425"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 155.8029898,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 194.7537372,
+        "maxPriceWithVAT": 229.8093997
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:01:06.354625"
+  }
+}

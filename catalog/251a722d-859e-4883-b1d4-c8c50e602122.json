@@ -1,0 +1,65 @@
+{
+  "catalogId": "251a722d-859e-4883-b1d4-c8c50e602122",
+  "name": "HEMANGIOL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 68 35287 00",
+  "treatmentDescriptions": "For the treatment of proliferating infantile haemangioma requiring systemic therapy:• Life- or function-threatening haemangioma,• Ulcerated haemangioma with pain and/or lack of response to simple wound care measures,• Haemangioma with a risk of permanent scars or disfigurement.It is to be initiated in infants aged 5 weeks to 5 months",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROPRANOLOL AS HYDROCHLORIDE 3.75  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AA05",
+      "name": "PROPRANOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEMANGIOL SOLUTION 3.75 MG/ML 120 ML BOTTLE",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8105",
+        "yarpa": "26396",
+        "pharmasoft": "8448",
+        "barcode": "7290012162411"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 674.236566,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 792.2279651,
+        "maxPriceWithVAT": 934.8289572
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:43:48.771892"
+  }
+}

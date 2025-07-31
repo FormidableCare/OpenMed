@@ -1,0 +1,65 @@
+{
+  "catalogId": "281358ae-6f50-4d35-9154-24f5fc6c70b3",
+  "name": "RUBRACA 200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 81 35664 00",
+  "treatmentDescriptions": "For the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube,or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RUCAPARIB AS CAMSYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX55",
+      "name": "RUCAPARIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RUBRACA 250 MG 60 TAB",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8470",
+        "yarpa": "54994",
+        "pharmasoft": "18609",
+        "barcode": "7290111090660"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10150.57517,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11165.63269,
+        "maxPriceWithVAT": 13175.44599
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:52:56.937012"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "f58b9a83-9c1d-46c2-a64c-6fa3d24f3aa3",
+  "name": "GAMUNEX ® - C",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 95 31058 00",
+  "treatmentDescriptions": "Gamunex is indicated as replacement therapy of primary immunodeficiency (PI) states in which severe impaiment of antibody forming capacity has been shown, such as congential agammaglobulinemia, common variable immunodeficiency, X-limked immunodeficiency with hyper IgM, Wiskott- Aldrich syndrom, and severed combined immunodeficiencies. Gamunex is also indicated in Idiopathic Thrombocytopenia Purpura (ITP) to raise platelet counts to prevent bleeding or to allow a patient with ITP to undergo surgery.Treatment of Chronic Inflammatory Demyelinating Polyneuropathy (CIDP).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMMUNOGLOBULINS, NORMAL HUMAN 0.1 G/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GAMUNEX C 0.1G/ML 2.5GR 25ML SOLUTION FOR INJECTION",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7052",
+        "yarpa": "35514",
+        "pharmasoft": "7925",
+        "barcode": "7298074020687"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 588.1700101,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 691.0997618,
+        "maxPriceWithVAT": 815.4976827
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:27:12.465760"
+  }
+}

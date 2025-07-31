@@ -1,0 +1,63 @@
+{
+  "catalogId": "f376f1ce-2581-48ba-aaca-70ddfb20ad60",
+  "name": "BUSULFAN RAZ 6 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 90 36140 00",
+  "treatmentDescriptions": "BUSULFAN RAZ is indicated for use in combination with other chemotherapeutic agents and/or radiotherapy as a conditioning regimen prior to hematopoietic progenitor cell transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUSULFAN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AB01",
+      "name": "BUSULFAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUSULFAN RAZ 6 MG/ML 8 VIAL",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9318",
+        "yarpa": "50989"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7697.574304,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8467.331734,
+        "maxPriceWithVAT": 9991.451002
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:46:08.994965"
+  }
+}

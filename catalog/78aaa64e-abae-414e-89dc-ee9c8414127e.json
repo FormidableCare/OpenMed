@@ -1,0 +1,65 @@
+{
+  "catalogId": "78aaa64e-abae-414e-89dc-ee9c8414127e",
+  "name": "OXYCOD FORTE 10 MG/ML SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 46 33521 00",
+  "treatmentDescriptions": "For the relief of moderate to severe pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXYCODONE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AA05",
+      "name": "OXYCODONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXYCOD FORTE 10MG/ML SYRUP 30ML",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7694",
+        "yarpa": "57242",
+        "pharmasoft": "15415",
+        "barcode": "7290008013321"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 46.2141839,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 62.15807735,
+        "maxPriceWithVAT": 73.34652801
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:21:25.649099"
+  }
+}

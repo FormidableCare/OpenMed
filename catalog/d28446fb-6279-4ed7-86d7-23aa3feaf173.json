@@ -1,0 +1,63 @@
+{
+  "catalogId": "d28446fb-6279-4ed7-86d7-23aa3feaf173",
+  "name": "BUDESONIDE STERINEBS TEVA ® 0.5 MG/2 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 43 33002 00",
+  "treatmentDescriptions": "Bronchial asthma especially in cases where other therapy is insufficient or insuitable.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUDESONIDE 0.25  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AD05",
+      "name": "BUDESONIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUDESON 9MG GRANULES 30 SACHETS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8133",
+        "yarpa": "64696"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 256.4810291,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 301.3652092,
+        "maxPriceWithVAT": 355.610931
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:45:37.723789"
+  }
+}

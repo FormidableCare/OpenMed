@@ -1,0 +1,64 @@
+{
+  "catalogId": "aab777f0-a9da-4877-98a7-e03b3042727b",
+  "name": "BREXIN TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 61 29695 00",
+  "treatmentDescriptions": "Piroxicam is indicated for symptomatic relief of osteoarthritis  rheumatoid arthritis or ankylosing spondylitis.   When an NSAID is indicated piroxicam should be considered as a second line option. The desicion to prescribe piroxocam should be based on an assesment of the individual's patient overall risk.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PIROXICAM AS BETA-CYCLODEXTRIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M02AA07",
+      "name": "PIROXICAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BREXIN 20MG 20TAB",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6027",
+        "yarpa": "5853",
+        "pharmasoft": "2468"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.65357967,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.07540414,
+        "maxPriceWithVAT": 23.68897584
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:42:54.654883"
+  }
+}

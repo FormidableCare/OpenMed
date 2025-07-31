@@ -1,0 +1,65 @@
+{
+  "catalogId": "428aaa5e-729f-4391-88c5-36f27d503250",
+  "name": "BELARA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 34 30410 00",
+  "treatmentDescriptions": "Oral hormonal contraceptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 0.03  MG, CHLORMADINONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AA01",
+      "name": "ETYNODIOL AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BELARA 1X21TAB",
+      "manufacturer": {
+        "name": "ליברה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4962",
+        "yarpa": "61868",
+        "pharmasoft": "2411",
+        "barcode": "7290008872218"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.62446665,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.73551931,
+        "maxPriceWithVAT": 39.80791102
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:29:45.423629"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "aa219206-070a-4ee8-8106-2bcf99a11d4c",
+  "name": "FLEBOGAMMA 5 % DIF",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 04 29877 00",
+  "treatmentDescriptions": "Replacement therapy in:Primary immunodeficiency syndromes such as:- congenital agammaglobulinaemia and hypogammaglobulinaemia- common variable immunodeficiency- severe combined immunodeficiency- Wiskott Aldrich syndromeMyeloma or chronic lymphocytic leukaemia with severe secondary hypogammaglobulinaemia and recurrent infections.Children with congenital AIDS and recurrent infections.Immunomodulation :Idiopathic thrombocytopenic purpura (ITP), in children or adults at high risk of bleeding or prior to surgery to correct the platelet count.Guillain Barré Syndrome.Kawasaki disease.Allogeneic bone marrow transplantation",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMMUNOGLOBULINS, NORMAL HUMAN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLEBOGAMMA 5% 200ML VIAL",
+      "manufacturer": {
+        "name": "מדיצ'י",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7149",
+        "yarpa": "74379",
+        "pharmasoft": "6559"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2437.23218,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2680.955398,
+        "maxPriceWithVAT": 3163.527229
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:07:22.775787"
+  }
+}

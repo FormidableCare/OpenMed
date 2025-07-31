@@ -1,0 +1,64 @@
+{
+  "catalogId": "2a8048b2-aeb7-49d9-8148-f31474098e88",
+  "name": "AGISPOR SHAMPOO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 23 26745 00",
+  "treatmentDescriptions": "Pityriorisis versicolor and sebarrrhoeic dermatitis of the scalp caused by pityrosporum.",
+  "termsOfIssue": "Prescription required",
+  "form": "shampoo",
+  "route": "topical- scalp",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BIFONAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC10",
+      "name": "BIFONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AGISPOR SHAMPO 100ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2891",
+        "yarpa": "8432",
+        "pharmasoft": "1045"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:17:02.123075"
+  }
+}

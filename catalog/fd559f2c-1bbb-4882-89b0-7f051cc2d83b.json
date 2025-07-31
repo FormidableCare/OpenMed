@@ -1,0 +1,65 @@
+{
+  "catalogId": "fd559f2c-1bbb-4882-89b0-7f051cc2d83b",
+  "name": "GENDEVRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 46 34742 00",
+  "treatmentDescriptions": "Gendevra is indicated for the treatment of human immunodeficiency virus 1 (HIV 1) infection without any known mutations associated with resistance to the integrase inhibitor class, emtricitabine or tenofovir as follows:• In adults and adolescents aged from 12 years and with body weight at least 35 kg• In children aged from 6 years and with body weight at least 25 kg for whom alternative regimens are unsuitable due to toxicities.תוספת התוויה: 2/7/2019Addition of new info to posology section: precaution in pregnant women",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR ALAFENAMIDE, EMTRICITABINE, COBICISTATE, ELVITEGRAVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR18",
+      "name": "EMTRICITABINE, TENOFOVIR ALAFENAMIDE, ELVITEGRAVIR AND COBICISTAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GENDEVRA 30 TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7973",
+        "yarpa": "73726",
+        "pharmasoft": "7942",
+        "barcode": "5391507142764"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2843.630474,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3127.993521,
+        "maxPriceWithVAT": 3691.032191
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:30:04.908866"
+  }
+}

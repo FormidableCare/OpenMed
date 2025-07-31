@@ -1,0 +1,64 @@
+{
+  "catalogId": "6aa68918-999f-465f-9a9f-8f4b7a0b761f",
+  "name": "IMJUDO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 80 37652 00",
+  "treatmentDescriptions": "Hepatocellular CarcinomaIMJUDO in combination with durvalumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC).Non-Small Cell Lung Cancer (NSCLC)IMJUDO in combination with durvalumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic NSCLC with no sensitising EGFR mutations or ALK positive mutations.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TREMELIMUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FX20",
+      "name": "TREMELIMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMJUDO 20MG/ML 1.25 ML 1 VIAL",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9475",
+        "yarpa": "22336",
+        "barcode": "7290013075628"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7756.704945,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8532.37544,
+        "maxPriceWithVAT": 10068.20257
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:02:21.400135"
+  }
+}

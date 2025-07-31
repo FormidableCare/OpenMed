@@ -1,0 +1,64 @@
+{
+  "catalogId": "1ccab2a6-a723-4332-8c37-fbc3c2765621",
+  "name": "DOXORUBICIN TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 78 27503 00",
+  "treatmentDescriptions": "To produce regression in disseminated neoplastic conditions such as: - acute lymphoblastic leukemia, - acute myeloblastic leukemia, - Wilms' tumor neuroblastoma, - soft tissue and bone sarcomas, - breast carcinoma, - lymphomas of both Hodgkin's and non-Hodgkin's types, - bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types, - gastric carcinoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOXORUBICIN HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DB01",
+      "name": "DOXORUBICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DOXORUBICIN TEVA 2MG/ML  1 VIAL 100ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8855",
+        "yarpa": "58603",
+        "barcode": "7290102064281"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 267.1428564,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 313.8928563,
+        "maxPriceWithVAT": 370.3935539
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:04:21.882825"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "c35c96d4-5b71-47bf-ac98-bee1ba47892d",
+  "name": "OPTI GENTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 76 28591 00",
+  "treatmentDescriptions": "Infection of external eye and its adnexa caused by susceptible bacteria.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GENTAMICIN AS SULFATE 0.3 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA11",
+      "name": "GENTAMICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GENTAMICIN TEVA 80 MG/2 ML 10 AMP",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8850",
+        "yarpa": "48819",
+        "barcode": "7-290008-083850"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 29.887915,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 40.94644355,
+        "maxPriceWithVAT": 48.31680124
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:31:25.468998"
+  }
+}

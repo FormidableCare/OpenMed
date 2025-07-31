@@ -1,0 +1,63 @@
+{
+  "catalogId": "e59ad42b-f90f-4ea3-a385-98e2980a443e",
+  "name": "ENTEAVENIR 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 96 36713 99",
+  "treatmentDescriptions": "Enteavenir is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with: -  Compensated liver disease and evidence of active viral replication, and persistently elevated serum alanine aminotransferase (ALT) levels. -  Decompensated liver disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENTECAVIR AS MONOHYDRATE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF10",
+      "name": "ENTECAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENTEAVENIR 0.5 MG 10 TAB",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8935",
+        "yarpa": "70663"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1640.5301,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1927.622868,
+        "maxPriceWithVAT": 2274.594984
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:23:10.320627"
+  }
+}

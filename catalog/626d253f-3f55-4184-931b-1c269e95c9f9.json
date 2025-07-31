@@ -1,0 +1,64 @@
+{
+  "catalogId": "626d253f-3f55-4184-931b-1c269e95c9f9",
+  "name": "EBIXA TABLETS 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 83 30891 00",
+  "treatmentDescriptions": "Treatment of patient with moderate to severe Alzheimer's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEMANTINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DX01",
+      "name": "MEMANTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EBIXA DROPS 10MG/G 50ML",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PP/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6150",
+        "yarpa": "87670",
+        "pharmasoft": "5468"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 191.06403,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 238.8300375,
+        "maxPriceWithVAT": 281.8194317
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:11:02.376812"
+  }
+}

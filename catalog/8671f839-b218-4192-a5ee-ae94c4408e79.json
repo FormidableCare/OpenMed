@@ -1,0 +1,65 @@
+{
+  "catalogId": "8671f839-b218-4192-a5ee-ae94c4408e79",
+  "name": "MONUROL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "107 93 28982 00",
+  "treatmentDescriptions": "Monurol is indicated for: - The treatment of acute uncomplicated cystitis in women and female adolescents- Perioperative antibiotic prophylaxis for transrectal prostate biopsy in adult manConsideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOSFOMYCIN AS TROMETAMOL/SACHET",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01XX01",
+      "name": "FOSFOMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MONUROL 1SACHET",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3611",
+        "yarpa": "76690",
+        "pharmasoft": "13248",
+        "barcode": "7290008012751"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.73385,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.8153745,
+        "maxPriceWithVAT": 22.20214092
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:31:21.903758"
+  }
+}

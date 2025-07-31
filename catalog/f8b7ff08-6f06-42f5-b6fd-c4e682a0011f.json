@@ -1,0 +1,65 @@
+{
+  "catalogId": "f8b7ff08-6f06-42f5-b6fd-c4e682a0011f",
+  "name": "DECAPEPTYL 0.1",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 67 24855 00",
+  "treatmentDescriptions": "IVF",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIPTORELIN ACETATE 0.1 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02AE04",
+      "name": "TRIPTORELIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DECAPEPTYL 0.1MG 7AMP",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "631",
+        "yarpa": "13756",
+        "pharmasoft": "4513",
+        "barcode": "7640128540304"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 99.49172205,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 124.3646526,
+        "maxPriceWithVAT": 146.7502835
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:44:03.423521"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "c6343c57-6890-41c0-b9bd-6b52c0911ca8",
+  "name": "ANTROLIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 31 34663 00",
+  "treatmentDescriptions": "Treatment of anal fissures and proctologies generally associated with anal sphincter hypertonia.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LIDOCAINE HYDROCHLORIDE 1.5 %W/W, NIFEDIPINE 0.3 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB52",
+      "name": "LIDOCAINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANTROLIN CREAM 1 TUBE 30GR",
+      "manufacturer": {
+        "name": "סופר-פארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8387",
+        "yarpa": "5162",
+        "pharmasoft": "10305"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.264455,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.05230335,
+        "maxPriceWithVAT": 60.24171528
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:20:36.954570"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "7a053192-25d0-4eaf-bce3-35095e8d432d",
+  "name": "ILUMYA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 49 36455 00",
+  "treatmentDescriptions": "Treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TILDRAKIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC17",
+      "name": "TILDRAKIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ILUMYA 1 PFS",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8772",
+        "yarpa": "72977",
+        "barcode": "7290017164380"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10332.54392,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11365.79831,
+        "maxPriceWithVAT": 13411.64141
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:59:04.166473"
+  }
+}

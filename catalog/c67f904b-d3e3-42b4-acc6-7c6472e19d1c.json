@@ -1,0 +1,62 @@
+{
+  "catalogId": "c67f904b-d3e3-42b4-acc6-7c6472e19d1c",
+  "name": "GAVRETO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 37 36872 99",
+  "treatmentDescriptions": "- GAVRETO is indicated for the treatment of adult patients with metastatic RET fusion-positive non-small cell lung cancer (NSCLC).- GAVRETO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET-mutant medullary thyroid cancer (MTC) who require systemic therapy.- GAVRETO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRALSETINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EX23",
+      "name": "PRALSETINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GAVRETO 120 CAPS 100 MG",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9017"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 23938.24405,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 26332.06846,
+        "maxPriceWithVAT": 31071.8394
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:28:20.389493"
+  }
+}

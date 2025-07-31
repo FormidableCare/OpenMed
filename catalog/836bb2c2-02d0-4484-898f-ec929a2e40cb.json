@@ -1,0 +1,65 @@
+{
+  "catalogId": "836bb2c2-02d0-4484-898f-ec929a2e40cb",
+  "name": "FOMINIC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 65 34262 00",
+  "treatmentDescriptions": "Contraseptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESOGESTREL 0.075  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AC09",
+      "name": "DESOGESTREL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FOMINIC 0.075MG 28 TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7992",
+        "yarpa": "58859",
+        "pharmasoft": "6578",
+        "barcode": "7290010578825"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.5355,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.543635,
+        "maxPriceWithVAT": 21.8814893
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:16:14.161182"
+  }
+}

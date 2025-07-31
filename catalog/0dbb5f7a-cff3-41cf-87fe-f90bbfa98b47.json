@@ -1,0 +1,65 @@
+{
+  "catalogId": "0dbb5f7a-cff3-41cf-87fe-f90bbfa98b47",
+  "name": "FUROSEMIDE S.A.L.F 250 MG/25 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 77 35843 00",
+  "treatmentDescriptions": "Furosemide is a potent diuretic indicated for use when a prompt and effective diuresis is required.Furosemide is appropriate for use in emergencies or where oral therapy is not feasible. The indications include cardiac, pulmonary, hepatic and renal oedema",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FUROSEMIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C03CA01",
+      "name": "FUROSEMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FUROSEMIDE S.A.L.F 250 MG/25 ML 5 VIALS",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9423",
+        "yarpa": "70837",
+        "pharmasoft": "6643",
+        "barcode": "7290018490181"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.48324575,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 54.44996553,
+        "maxPriceWithVAT": 64.25095647
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:23:23.602960"
+  }
+}

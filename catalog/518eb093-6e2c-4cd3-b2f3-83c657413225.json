@@ -1,0 +1,64 @@
+{
+  "catalogId": "518eb093-6e2c-4cd3-b2f3-83c657413225",
+  "name": "MESTINON DRAGEES 60 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 84 21200 01",
+  "treatmentDescriptions": "Treatment of myasthenia gravis.",
+  "termsOfIssue": "Prescription required",
+  "form": "dragee",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PYRIDOSTIGMINE BROMIDE 60.0   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07AA02",
+      "name": "PYRIDOSTIGMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PYRIDOSTIGMINE 30MG 21TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2468",
+        "yarpa": "8299",
+        "pharmasoft": "16620"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:08:05.537012"
+  }
+}

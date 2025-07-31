@@ -1,0 +1,64 @@
+{
+  "catalogId": "1899addd-7ba9-4479-b10c-e137401058af",
+  "name": "MAVIRET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 05 35323 00",
+  "treatmentDescriptions": "Maviret is indicated for the treatment of chronic hepatitis C virus (HCV) infection in adults and in adolescents aged 12 to <18 years",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PIBRENTASVIR, GLECAPREVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AP57",
+      "name": "GLECAPREVIR AND PIBRENTASVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MAVIRET 84 TAB",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PCTFE/AL",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8348",
+        "yarpa": "54768",
+        "barcode": "8054083015323"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 45007.38872,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 49508.12759,
+        "maxPriceWithVAT": 58419.58796
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:06:27.058110"
+  }
+}

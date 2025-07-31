@@ -1,0 +1,65 @@
+{
+  "catalogId": "44a538a6-0227-4c81-8094-3a78b70e8f5a",
+  "name": "SILVEROL CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "020 56 20515 00",
+  "treatmentDescriptions": "Treatment of infected burn wounds, leg ulcers and pressure sores.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SULPHADIAZINE SILVER",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06BA01",
+      "name": "SILVER SULFADIAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SILVEROL CREAM 50GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM LAMINATE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2913",
+        "yarpa": "9056",
+        "pharmasoft": "19069",
+        "barcode": "7290008001083"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.1523,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.388651,
+        "maxPriceWithVAT": 22.87860818
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:12:54.609595"
+  }
+}

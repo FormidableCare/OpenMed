@@ -1,0 +1,62 @@
+{
+  "catalogId": "3caa53ed-bbf8-4f3d-b52a-fd975643ffd4",
+  "name": "IDEFIRIX 11 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 35 37017 00",
+  "treatmentDescriptions": "Idefirix is indicated for desensitisation treatment of highly sensitised adult kidney transplant patients with positive crossmatch against an available deceased donor. The use of Idefirix should be reserved for patients unlikely to be transplanted under the available kidney allocation system including prioritisation programmes for highly sensitised patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMLIFIDASE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA41",
+      "name": "IMLIFIDASE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IDEFIRIX 11 MG/VIAL 1 VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9440"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 578961.8996,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 636858.0896,
+        "maxPriceWithVAT": 751492.5123
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:56:58.455876"
+  }
+}

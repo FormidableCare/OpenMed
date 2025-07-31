@@ -1,0 +1,65 @@
+{
+  "catalogId": "00e0e537-f647-4904-b62c-89c1877a08fa",
+  "name": "GEODON IM 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "125 75 30516 00",
+  "treatmentDescriptions": "Rapid control of agitation in patients with schizophrenia, when oral therapy is not appropriate, for a maximum of 3 consecutive days.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZIPRASIDONE MESYLATE TRIHYDRATE 40.93   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AE04",
+      "name": "ZIPRASIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GEODON 80MG 60CAPS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4506",
+        "yarpa": "29828",
+        "pharmasoft": "7602",
+        "barcode": "7290008095341"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 350.397591,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 411.7171694,
+        "maxPriceWithVAT": 485.8262383
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:32:27.577021"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "ff27817f-4770-4d9a-ad51-ec4979e17974",
+  "name": "CILOXAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 17 27635 00",
+  "treatmentDescriptions": "Corneal ulcers and conjunctivitis caused by susceptible gram positive and gram negative microorganisms for adults and pediatric patients above the age of 1 year. For localized or diffuse otitis externa accompanied by a strong inflammatory reaction and of which the strains are susceptible to ciprofloxacin, and for the acute flare-up of a chronic otitis media. In this case, a mucopurulent secretion comes through the perforated eardrum. Pseudomonas aeruginosa is one of the organisms most likely to be found in this case. Also in other infections of the ear in which Pseudomonas aeruginosa and/or other susceptible strains may be demonstrated or suspected (for example with suppurating tympanic tubes), Ciloxan can be used under the strict supervision of an ear specialist. It must be understood that this is not a routine treatment and that improper use must be avoided.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "ocular, otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CIPROFLOXACIN AS HYDROCHLORIDE 0.3 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AX13",
+      "name": "CIPROFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CILOXAN 0.3% EYE DROPS 5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2782",
+        "yarpa": "8860",
+        "pharmasoft": "3033",
+        "barcode": "7290016369243"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.0876,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.930012,
+        "maxPriceWithVAT": 21.15741416
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:13:12.783555"
+  }
+}

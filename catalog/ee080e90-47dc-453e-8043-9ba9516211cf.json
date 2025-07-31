@@ -1,0 +1,65 @@
+{
+  "catalogId": "ee080e90-47dc-453e-8043-9ba9516211cf",
+  "name": "RELESTAT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 58 31028 00",
+  "treatmentDescriptions": "Treatment of the symptoms of seasonal allergic conjunctivitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINASTINE HYDROCHLORIDE 0.05 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01GX10",
+      "name": "EPINASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RELESTAT EYE DROPS 0.05% 5ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4942",
+        "yarpa": "68144",
+        "pharmasoft": "18352",
+        "barcode": "7290008127455"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20.446515,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 28.01172555,
+        "maxPriceWithVAT": 33.05383468
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:22:42.888587"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "69e1e00c-bbcb-4bde-844d-234453d1ea67",
+  "name": "METHOTREXAT \"EBEWE\" 2.5 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 29 30819 00",
+  "treatmentDescriptions": "The treatment of acute lymphoblastic leukaemia and Burkitt's lymphoma. The treatment of severe cases of uncontrolled psoriasis, unresponsive to conventional therapy. The treatment of adults with severe, active, classical or definite rheumatoid arthritis who are unresponsive or intolerant to conventional therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHOTREXATE 2.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX03",
+      "name": "METHOTREXATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METHOTREXAT EBEWE 2.5MG 50TAB",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4679",
+        "yarpa": "58781",
+        "pharmasoft": "13510"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.8561,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 34.052857,
+        "maxPriceWithVAT": 40.18237126
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:17:21.322112"
+  }
+}

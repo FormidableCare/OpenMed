@@ -1,0 +1,64 @@
+{
+  "catalogId": "e14e2f56-3e8b-47aa-8220-26b14ffc8307",
+  "name": "IDELVION 1000 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 31 35015 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALBUTREPENONACOG ALFA",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD04",
+      "name": "COAGULATION FACTOR IX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IDELVION 1000 IU VIAL",
+      "manufacturer": {
+        "name": "סי אס אל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8412",
+        "yarpa": "59390",
+        "pharmasoft": "17079"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6723.34713,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7395.681843,
+        "maxPriceWithVAT": 8726.904187
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:57:19.968917"
+  }
+}

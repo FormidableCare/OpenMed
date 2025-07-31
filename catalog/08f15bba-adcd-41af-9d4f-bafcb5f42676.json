@@ -1,0 +1,64 @@
+{
+  "catalogId": "08f15bba-adcd-41af-9d4f-bafcb5f42676",
+  "name": "RHINOLAST",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 44 29866 00",
+  "treatmentDescriptions": "Treatment of seasonal allergic rhinitis and perennial allergic rhinitis for adults and children 6 years and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "nasal solution",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZELASTINE HYDROCHLORIDE 0.1 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AC03",
+      "name": "AZELASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RHINOLAST SPRAY 0.1% 10ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4557",
+        "yarpa": "51962",
+        "pharmasoft": "18311"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.5860445,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.83288097,
+        "maxPriceWithVAT": 31.66279813
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:33:16.374667"
+  }
+}

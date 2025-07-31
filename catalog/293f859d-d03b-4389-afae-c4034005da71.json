@@ -1,0 +1,65 @@
+{
+  "catalogId": "293f859d-d03b-4389-afae-c4034005da71",
+  "name": "EPCLUSA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 31 34976 00",
+  "treatmentDescriptions": "Epclusa is indicated for the treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older or weighing at least 30 kg",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VELPATASVIR, SOFOSBUVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AX15",
+      "name": "SOFOSBUVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPCLUSA 28 TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7976",
+        "yarpa": "62097",
+        "pharmasoft": "5615",
+        "barcode": "5391507143006"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 31948.93835,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 35143.83219,
+        "maxPriceWithVAT": 41469.72014
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:25:28.291674"
+  }
+}

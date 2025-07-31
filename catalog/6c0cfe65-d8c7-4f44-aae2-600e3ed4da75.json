@@ -1,0 +1,62 @@
+{
+  "catalogId": "6c0cfe65-d8c7-4f44-aae2-600e3ed4da75",
+  "name": "FLUMAZENIL KABI 0.1 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 37 37182 99",
+  "treatmentDescriptions": "Benzodiazepine antagonist for reversal of benzodiazepine anesthesia, as well as for patients with Benzodiazepine intoxication. In a hospital setting:In anaesthesiology to neutralise the sedative effects of benzodiazepines on the central nervous system in adults and children older than 1 year:•\treversal of sedative effect during general anaesthesia induced and maintained by benzodiazepines,•\treversal of conscious sedation induced by benzodiazepines in short operations with a diagnostic or therapeutic objective.In intensive care to neutralise the sedative effects of benzodiazepines on the central nervous system and treat a coma of unknown aetiology, in adults and children (including newborns) if the semiology is compatible with the hypothesis of a benzodiazepine or related substance-induced coma:•\tdiagnosis and/or treatment of intentional or accidental benzodiazepine overdose,•\taetiological diagnosis of an unexplained coma in order to differentiate what is caused by a benzodiazepine from another cause (pharmacological or neurological).•\tspecific cancellation of the effects on the central nervous system by excessive benzodiazepine doses (re-establishment of spontaneous ventilation to avoid intubation or interrupt ventilatory assistance).In an emergency situation or medical transport, in adults and children older than 6 years:•\treversal of benzodiazepine-induced conscious sedation in case of respiratory depression or apnoea.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUMAZENIL 0.1  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AB25",
+      "name": "FLUMAZENIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUMAZENIL MYLAN 0.1 MG/ML 5 VIAL 10ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7938"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 219.6,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 258.03,
+        "maxPriceWithVAT": 304.4754
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:12:44.588997"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "catalogId": "1aeec496-d7c8-403e-8ed1-1d3961e22e7c",
+  "name": "HISTADEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "063 16 28042 00",
+  "treatmentDescriptions": "Relief of congestion in the respiratory tract due to allergy.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXCHLORPHENIRAMINE MALEATE/, PSEUDOEPHEDRINE HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01BA52",
+      "name": "PSEUDOEPHEDRINE, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HISTADEX BOTTLE 50ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "5633"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:46:56.433050"
+  }
+}

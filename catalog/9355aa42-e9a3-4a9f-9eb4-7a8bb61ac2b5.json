@@ -1,0 +1,64 @@
+{
+  "catalogId": "9355aa42-e9a3-4a9f-9eb4-7a8bb61ac2b5",
+  "name": "COPAXONE ® 40 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 75 34057 00",
+  "treatmentDescriptions": "Copaxone 40 mg/ml is indicated for reducing the frequency of relapses in patients with relapsing-remitting multiple sclerosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLATIRAMER ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AX13",
+      "name": "GLATIRAMER ACETATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COPAXONE 20MG/DOSE 28 PREFILLED SYRINGE",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PREFILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6121",
+        "yarpa": "21055",
+        "pharmasoft": "3925"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1965.189321,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2161.708253,
+        "maxPriceWithVAT": 2550.815625
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:30:01.178839"
+  }
+}

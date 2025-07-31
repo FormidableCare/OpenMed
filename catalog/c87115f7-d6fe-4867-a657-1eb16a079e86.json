@@ -1,0 +1,65 @@
+{
+  "catalogId": "c87115f7-d6fe-4867-a657-1eb16a079e86",
+  "name": "RUCONEST - POWDER FOR SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 22 33442 00",
+  "treatmentDescriptions": "Ruconest is indicated for treatment of acute angioedema attacks in adults and adolescents aged 12 years and above with hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CONESTAT ALFA 2100 U/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B06AC04",
+      "name": "CONESTAT ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RUCONEST - POWDER FOR SOL FOR INJ VIAL 25ML",
+      "manufacturer": {
+        "name": "קמהדע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7411",
+        "yarpa": "53952",
+        "pharmasoft": "18509",
+        "barcode": "8718309680039"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3359.868243,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3695.855067,
+        "maxPriceWithVAT": 4361.108785
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:53:24.372151"
+  }
+}

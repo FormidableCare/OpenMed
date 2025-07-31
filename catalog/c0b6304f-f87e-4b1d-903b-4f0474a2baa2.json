@@ -1,0 +1,65 @@
+{
+  "catalogId": "c0b6304f-f87e-4b1d-903b-4f0474a2baa2",
+  "name": "PRADAXA 110",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 96 32974 00",
+  "treatmentDescriptions": "Primary prevention of venous thromboembolic events in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.Prevention of stroke and systemic embolism in adult patients with nonvalvular  atrial fibrillation.Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DABIGATRAN ETEXILATE AS MESILATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AE07",
+      "name": "DABIGATRAN ETEXILATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRADAXA 150MG 60CAPS",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6685",
+        "yarpa": "26096",
+        "pharmasoft": "16833",
+        "barcode": "9006968012391"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 91.7579286,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 123.414414,
+        "maxPriceWithVAT": 145.629002
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:48:22.630601"
+  }
+}

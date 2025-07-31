@@ -1,0 +1,64 @@
+{
+  "catalogId": "1f7d73ea-863c-497e-a51d-ecd150d60cfa",
+  "name": "GLYXAMBI 10 MG/5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 76 34531 00",
+  "treatmentDescriptions": "GLYXAMBI tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both empagliflozin and linagliptin is appropriate.  Limitations of UseGLYXAMBI is not recommended for patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.GLYXAMBI has not been studied in patients with a history of pancreatitis.  It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using GLYXAMBI.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LINAGLIPTIN, EMPAGLIFLOZIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BD19",
+      "name": "LINAGLIPTIN AND EMPAGLIFLOZIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLYXAMBI 25 MG/5 MG 30 F.C.TAB",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7820",
+        "yarpa": "41770",
+        "pharmasoft": "7935"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 263.6112893,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 309.7432649,
+        "maxPriceWithVAT": 365.4970364
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:38:13.602960"
+  }
+}

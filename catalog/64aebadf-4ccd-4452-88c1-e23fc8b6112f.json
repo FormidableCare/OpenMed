@@ -1,0 +1,64 @@
+{
+  "catalogId": "64aebadf-4ccd-4452-88c1-e23fc8b6112f",
+  "name": "REZOLSTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 69 34386 00",
+  "treatmentDescriptions": "REZOLSTA is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV 1) infection in treatment-naïve and treatment-experienced adults with no darunavir resistance-associated substitutions (V11i, V32i, L33F, i47V, i50V, i54L, i54M, T74P, L76V, i84V, L89V).שינוי משטר מינון 2/4/2019Pregnancy and postpartumTreatment with REZOLSTA during pregnancy results in low darunavir exposure (see sections 4.4 and 5.2). Therefore, therapy with REZOLSTA should not be initiated during pregnancy, and women who become pregnant during therapy with REZOLSTA should be switched to an alternative regimen, see section 4.4 and 4.6. Darunavir/ritonavir may be considered as an alternative.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COBICISTATE, DARUNAVIR AS ETHANOLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AE10",
+      "name": "DARUNAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DARUNAVIR TEVA 600 MG 60 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8674",
+        "yarpa": "56604",
+        "barcode": "7290014577329"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1237.659936,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1454.250425,
+        "maxPriceWithVAT": 1716.015502
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:41:34.704039"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "005200b4-b3d4-4566-8783-5d1ec6fab36e",
+  "name": "INVEGA 3 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 15 31639 01",
+  "treatmentDescriptions": "Invega is indicated for :-treatment of schizophrenia in adults and adolescents (12-17 years).-treatment of schizoaffective disorder in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PALIPERIDONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX13",
+      "name": "PALIPERIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INVEGA 9MG 28TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6191",
+        "yarpa": "88019",
+        "pharmasoft": "9292",
+        "barcode": "7290008099356"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 197.0058979,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 231.48193,
+        "maxPriceWithVAT": 273.1486652
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:11:13.617592"
+  }
+}

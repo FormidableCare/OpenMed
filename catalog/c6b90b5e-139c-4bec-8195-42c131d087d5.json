@@ -1,0 +1,65 @@
+{
+  "catalogId": "c6b90b5e-139c-4bec-8195-42c131d087d5",
+  "name": "NEOTIGASON 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 62 28448 11",
+  "treatmentDescriptions": "Severe disorders of keratinization  such as erythrodermic psoriasis  local or generalized pustular psoriasis  congenital ichthyosis  pityriasis rubra pilaris  darier's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACITRETIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D05BB02",
+      "name": "ACITRETIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEOTIGASON 10MG 30CAPS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4540",
+        "yarpa": "61640",
+        "pharmasoft": "14484",
+        "barcode": "5690528199024"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 64.899,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 87.289155,
+        "maxPriceWithVAT": 103.0012029
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:42:26.666459"
+  }
+}

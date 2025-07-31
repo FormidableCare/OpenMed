@@ -1,0 +1,63 @@
+{
+  "catalogId": "e0e48f4d-831e-4992-8d58-e3451eabb4fb",
+  "name": "SUGAMEDIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 54 36854 99",
+  "treatmentDescriptions": "Sugamedin is indicated for reversal of neuromuscular blockade induced by rocuronium or vecuronium",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SUGAMMADEX AS SODIUM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AB35",
+      "name": "SUGAMMADEX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUGAMEDIN 100MG/ML 2ML 10 VIAL",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9499",
+        "yarpa": "31332"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1966.22475,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2162.847225,
+        "maxPriceWithVAT": 2552.159726
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:49:30.769037"
+  }
+}

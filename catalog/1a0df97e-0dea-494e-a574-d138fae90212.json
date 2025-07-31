@@ -1,0 +1,64 @@
+{
+  "catalogId": "1a0df97e-0dea-494e-a574-d138fae90212",
+  "name": "QINLOCK 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 40 36884 99",
+  "treatmentDescriptions": "QINLOCK is indicated for the treatment of adult patients with advanced gastrointestinal stromal tumor (GIST) who have received prior treatment with 3 or more kinase inhibitors, including imatinib.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIPRETINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EX19",
+      "name": "RIPRETINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "QINLOCK 50MG 90 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9032",
+        "yarpa": "3039",
+        "pharmasoft": "23570"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 84448.38434,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 92893.22277,
+        "maxPriceWithVAT": 109613.998
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:08:50.244257"
+  }
+}

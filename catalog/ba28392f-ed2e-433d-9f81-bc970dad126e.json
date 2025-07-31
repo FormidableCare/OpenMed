@@ -1,0 +1,64 @@
+{
+  "catalogId": "ba28392f-ed2e-433d-9f81-bc970dad126e",
+  "name": "AROMASIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "119 48 30005 00",
+  "treatmentDescriptions": "Aromasin is indicated for the treatment of advanced breast cancer (ABC) in women with natural or induced postmenopausal status whose disease has progressed following anti-oestrogen therapy alone. Aromasin is also indicated for the treatment of postmenopausal women with ABC whose disease has progressed following multiple hormonal therapies.   Aromasin is indicated for the adjuvant treatment of postmenopausal women with oestrogen receptor positive invasive early breas cancer  following 2-3 years of initial adjuvant tamoxifen therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EXEMESTANE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BG06",
+      "name": "EXEMESTANE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AROMASIN 25MG 30TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4011",
+        "yarpa": "25921",
+        "pharmasoft": "1054"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 217.1922,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 255.200835,
+        "maxPriceWithVAT": 301.1369853
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:28:01.301631"
+  }
+}

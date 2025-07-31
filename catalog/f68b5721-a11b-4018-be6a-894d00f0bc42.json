@@ -1,0 +1,65 @@
+{
+  "catalogId": "f68b5721-a11b-4018-be6a-894d00f0bc42",
+  "name": "SOLU MEDROL 1000 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 10 22489 00",
+  "treatmentDescriptions": "Solu Medrol is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: endocrine disorders, rheumatic disorders, collagen diseases, immune complex diseases, dermatologic diseases, allergic states, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, management of neoplastic diseases, edematous states, nervous system disorders and organ transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHYLPREDNISOLONE AS SODIUM SUCCINATE 62.5  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB04",
+      "name": "METHYLPREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOLU MEDROL 125MG VIAL2ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "139",
+        "yarpa": "2021",
+        "pharmasoft": "19109",
+        "barcode": "7298074000658"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.01609807,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.57205435,
+        "maxPriceWithVAT": 24.27502306
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:28:31.567360"
+  }
+}

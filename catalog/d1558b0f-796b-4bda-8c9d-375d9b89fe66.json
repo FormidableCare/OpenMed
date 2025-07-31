@@ -1,0 +1,65 @@
+{
+  "catalogId": "d1558b0f-796b-4bda-8c9d-375d9b89fe66",
+  "name": "DERMACOMBIN OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 28 24536 00",
+  "treatmentDescriptions": "For the relief of corticosteroid-responsive inflammatory or pruritic dermatoses caused, threatened or complicated by infection due to bacteria and/or candida",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIAMCINOLONE ACETONIDE/G, NEOMYCIN AS SULFATE 2.5 MG/G, GRAMICIDIN 0.25 MG/G, NYSTATIN/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07CB01",
+      "name": "TRIAMCINOLONE AND ANTIBIOTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NYSTATIN RM SUSP 30ML",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2076",
+        "yarpa": "7907",
+        "pharmasoft": "14356",
+        "barcode": "7-290000-809120"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.7915,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.154355,
+        "maxPriceWithVAT": 19.06213805
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:59:40.725683"
+  }
+}

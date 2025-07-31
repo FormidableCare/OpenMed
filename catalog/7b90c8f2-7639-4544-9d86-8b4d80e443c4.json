@@ -1,0 +1,64 @@
+{
+  "catalogId": "7b90c8f2-7639-4544-9d86-8b4d80e443c4",
+  "name": "OMR-IGG-AM 5 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 54 30698 00",
+  "treatmentDescriptions": "Replacement therapy     * PRIMARY immunodeficiency (patients with PRIMARY defective antibody synthesis such as agammaglobulinemia OR hypogammaglobulinemia)     * Myeloma OR chronic Lymphocytic Leukemia (CLL) with severe secondary hypogammaglobulinemia AND recurrent infections.     * Children with congenital AIDS AND recurrent infections    - Immunomodulation     * Idiopathic Thrombocytopenic Purpura (ITP)     * Guillain Barre Syndrome     * Kawasaki Disease    - Allogenic Bone Marrow Transplantation",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMMUNOGLOBULINS, NORMAL HUMAN/ML MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OMR-IGG-AM 5% SOL FOR INJ 100ML",
+      "manufacturer": {
+        "name": "אומריקס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6424",
+        "yarpa": "9693",
+        "pharmasoft": "15026"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1218.61609,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1431.873906,
+        "maxPriceWithVAT": 1689.611134
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:09:29.148786"
+  }
+}

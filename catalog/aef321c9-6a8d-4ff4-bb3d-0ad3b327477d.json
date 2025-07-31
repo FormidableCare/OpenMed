@@ -1,0 +1,64 @@
+{
+  "catalogId": "aef321c9-6a8d-4ff4-bb3d-0ad3b327477d",
+  "name": "AVONEX SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 95 33434 00",
+  "treatmentDescriptions": "Treatment of relapsing forms of multiple sclerosis to slow the accumulation of physical disability and to decrease the frequency of clinical exacerbations. Treatment of patients who have experienced a single demyelinating event with an active inflammatory process if it is severe enough to warrant treatment with intravenous corticosteroids if alternative diagnosis have been excluded, including the prescence of MRI abnormalities characteristic of MS and if they are determined to be at high risk of developing clinically definite multiple sclerosis. Safety and efficacy in patients with chronic progressive multiple sclerosis has not been evaluated.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INTERFERON BETA 1A/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AB07",
+      "name": "INTERFERON BETA-1A"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AVONEX SOLUTION FOR INJECTION 30MCG/0.5ML 4PEN",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7370",
+        "yarpa": "43606",
+        "pharmasoft": "9661"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2214.899385,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2436.389323,
+        "maxPriceWithVAT": 2874.939274
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:27:38.192010"
+  }
+}

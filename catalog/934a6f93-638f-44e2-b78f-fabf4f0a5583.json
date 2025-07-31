@@ -1,0 +1,64 @@
+{
+  "catalogId": "934a6f93-638f-44e2-b78f-fabf4f0a5583",
+  "name": "NORMALOL 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "052 39 26224 00",
+  "treatmentDescriptions": "For the treatment of angina pectoris, acute myocardial infarction, hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ATENOLOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB03",
+      "name": "ATENOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NORMALOL 25MG 30TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3333",
+        "yarpa": "9546",
+        "pharmasoft": "14081"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.81,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 10.6997,
+        "maxPriceWithVAT": 12.625646
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:51:26.917009"
+  }
+}

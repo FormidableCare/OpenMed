@@ -1,0 +1,63 @@
+{
+  "catalogId": "cdf5b66b-0237-4661-94be-54c3055ceebb",
+  "name": "CIBINQO 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 31 37239 99",
+  "treatmentDescriptions": "Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis in adults who are candidates for systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABROCITINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D11AH08",
+      "name": "ABROCITINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CIBINQO 100 MG  28 F.C.T",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9205",
+        "yarpa": "46907"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4002.787964,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4403.06676,
+        "maxPriceWithVAT": 5195.618546
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:10:56.361086"
+  }
+}

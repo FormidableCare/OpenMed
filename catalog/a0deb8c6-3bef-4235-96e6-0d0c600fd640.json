@@ -1,0 +1,64 @@
+{
+  "catalogId": "a0deb8c6-3bef-4235-96e6-0d0c600fd640",
+  "name": "EPIDUO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 10 34289 00",
+  "treatmentDescriptions": "Cutaneous treatment of Acne vulgaris when comedones, papules and pustules are present.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZOYL PEROXIDE/G, ADAPALENE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AE01",
+      "name": "BENZOYL PEROXIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPIDUO FORTE 0.3% /2.5 % 30 GR GEL",
+      "manufacturer": {
+        "name": "אמי טכנולוגיות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PUMP PP/HDPE/LDPE/EURICAMIDE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9374",
+        "yarpa": "34941",
+        "barcode": "3499320011709"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 86.8921202,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 116.8699017,
+        "maxPriceWithVAT": 137.9064778
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:26:17.180928"
+  }
+}

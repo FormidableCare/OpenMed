@@ -1,0 +1,63 @@
+{
+  "catalogId": "1ae66f25-624a-4b5a-a599-daf9c7a20702",
+  "name": "RELERT 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "124 28 30370 01",
+  "treatmentDescriptions": "Acute treatment of the headache phase of migraine attacks, with or without aura.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELETRIPTAN HYDROBROMIDE 24.242   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CC06",
+      "name": "ELETRIPTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RELERT 80 MG 4 TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8901",
+        "yarpa": "72761"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:22:14.532147"
+  }
+}

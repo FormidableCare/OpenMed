@@ -1,0 +1,65 @@
+{
+  "catalogId": "1cff6a92-5f4e-4492-b9bc-4d731a11fcc1",
+  "name": "CICLODERM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "062 23 26751 00",
+  "treatmentDescriptions": "Topical treatment of localized fungal infections of the body and fungal infections of the feet.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CICLOPIROX OLAMINEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AE14",
+      "name": "CICLOPIROX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CICLODERM C 15GR",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3038",
+        "yarpa": "9200",
+        "pharmasoft": "3081",
+        "barcode": "7290008075114"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:11:37.729558"
+  }
+}

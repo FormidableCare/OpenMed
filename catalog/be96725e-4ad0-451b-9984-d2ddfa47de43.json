@@ -1,0 +1,65 @@
+{
+  "catalogId": "be96725e-4ad0-451b-9984-d2ddfa47de43",
+  "name": "NERIDERM OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 51 24637 00",
+  "treatmentDescriptions": "Corticoid responsive dermatoses in the absence of infection",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIFLUCORTOLONE VALERATE 0.1 G /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC06",
+      "name": "DIFLUCORTOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NERIDERM OINT 30G",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3686",
+        "yarpa": "8836",
+        "pharmasoft": "14016",
+        "barcode": "7290002925521"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.028767,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.58941079,
+        "maxPriceWithVAT": 24.29550365
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:42:57.932895"
+  }
+}

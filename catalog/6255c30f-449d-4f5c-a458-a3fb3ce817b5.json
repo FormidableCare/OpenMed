@@ -1,0 +1,64 @@
+{
+  "catalogId": "6255c30f-449d-4f5c-a458-a3fb3ce817b5",
+  "name": "ESBRIET 267 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 66 35826 00",
+  "treatmentDescriptions": "Esbriet is indicated in adults for the treatment of mild to moderate idiopathic pulmonary fibrosis (IPF).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PIRFENIDONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX05",
+      "name": "PIRFENIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ESBRIET 801 MG 90  COATED TAB",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8450",
+        "yarpa": "26637",
+        "barcode": "7290014774131"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6047.365982,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6652.10258,
+        "maxPriceWithVAT": 7849.480695
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:35:10.681033"
+  }
+}

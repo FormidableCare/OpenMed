@@ -1,0 +1,63 @@
+{
+  "catalogId": "0469adfb-fd11-40fd-9417-23a9c14ca2f5",
+  "name": "STAMARIL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 30 30951 00",
+  "treatmentDescriptions": "STAMARIL is indicated for active immunization against yellow fever in persons:•\ttravelling to, passing through or living in an endemic area,•\ttravelling to any country that requires an International Certificate of Vaccination for entry(which may or may not depend on the previous itinerary).•\thandling potentially infectious materials (e.g. laboratory personnel).See sections 4.2, 4.3 and 4.4 regarding the minimum age for vaccination of children under special circumstances and guidance for vaccination of other specific patient populations.In order to comply with vaccine regulations and to be officially recognized, yellow fever vaccines must be administered in an approved World Health Organization (WHO) vaccination centre and registered on an International Certificate of Vaccination. The validity period of thiscertificate is established according to International Health Regulations (IHR) recommendations, and starts 10 days after primary vaccination and immediately after re-vaccination (see Section 4.2).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for suspension for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "YELLOW FEVER VIRUS STRAIN 17D204 (SUBSTRAIN AB237)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BL01",
+      "name": "YELLOW FEVER, LIVE ATTENUATED"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STAMARIL 1VIAL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 3 ML GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7530",
+        "yarpa": "61759"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 133.6501226,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 167.0626532,
+        "maxPriceWithVAT": 197.133922
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:39:46.911725"
+  }
+}

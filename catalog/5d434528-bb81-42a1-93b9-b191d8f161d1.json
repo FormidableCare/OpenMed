@@ -1,0 +1,64 @@
+{
+  "catalogId": "5d434528-bb81-42a1-93b9-b191d8f161d1",
+  "name": "SINTREDIUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 82 35801 00",
+  "treatmentDescriptions": "Sintredius oral solution is indicated for the treatment of:- Rheumatological disorders and connective tissue diseases such as:   • rheumatoid arthritis (for primary chronic disease and maintenance therapy),   • systemic lupus erythematosus (non-organ threatening disease),   • mild-moderate juvenile dermatomyositis.- Severe or debilitating allergic conditions, not treatable in a conventional manner such as:   • bronchial asthma in children,   • bronchial asthma in adults (for maintenance therapy).- Sarcoidosis in children and for maintenance therapy in adults.- Acquired haemolytic anaemia (autoimmune, for maintenance therapy).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREDNISOLONE AS SODIUM PHOSPHATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB06",
+      "name": "PREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SINTREDIUS 1MG/ML 5 ML",
+      "manufacturer": {
+        "name": "קמהדע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9531",
+        "yarpa": "17427",
+        "barcode": "5060347610015"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:18:03.677270"
+  }
+}

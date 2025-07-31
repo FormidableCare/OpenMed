@@ -1,0 +1,65 @@
+{
+  "catalogId": "937000a1-e8eb-4bd3-a061-69421fd01e5c",
+  "name": "LANOXIN ELIXIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 96 30673 00",
+  "treatmentDescriptions": "Lanoxin is indicated whenever digitalis therapy is required for the treatment of congestive heart failure, atrial fibrilation and/or flutter and supra-ventricular tachycardia.",
+  "termsOfIssue": "Prescription required",
+  "form": "elixir",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIGOXIN 0.05  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01AA05",
+      "name": "DIGOXIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LANOXIN PEDI ELX 60ML",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1110",
+        "yarpa": "1167",
+        "pharmasoft": "12019",
+        "barcode": "7290008105064"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.282658,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.56724146,
+        "maxPriceWithVAT": 23.0893439
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:35:15.562077"
+  }
+}

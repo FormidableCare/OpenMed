@@ -1,0 +1,64 @@
+{
+  "catalogId": "a1f1ff1e-4858-4335-b608-5f3acc9f3fa6",
+  "name": "PIPERACILLIN /TAZOBACTAM - FRESENIUS 4 G/0.5 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 28 33274 03",
+  "treatmentDescriptions": "- Treatment of systemic and/or local infections caused by susceptible organisms.- Piperacillin/tazobactam in combination with an aminoglycoside is indicated for the treatment of suspected bacterial infections in neutropenic adults and children above 2 years. - Appendicitis complicated by rupture with peritonitis and/or abscess formation in children aged 2-12 years.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PIPERACILLIN AS SODIUM SALT 4.0 G/VIAL, TAZOBACTAM AS SODIUM SALT 0.5 G/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CG02",
+      "name": "TAZOBACTAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PIPERACILLIN /TAZOBACTAM - FRESENIUS 4 G/0.5 G 10 VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 50 ML GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8605",
+        "yarpa": "435",
+        "pharmasoft": "10665"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 371.8858,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 436.965815,
+        "maxPriceWithVAT": 515.6196617
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:44:04.696115"
+  }
+}

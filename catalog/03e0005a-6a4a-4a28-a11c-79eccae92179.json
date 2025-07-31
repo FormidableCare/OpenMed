@@ -1,0 +1,65 @@
+{
+  "catalogId": "03e0005a-6a4a-4a28-a11c-79eccae92179",
+  "name": "M.I.R. 15",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "033 83 25309 00",
+  "treatmentDescriptions": "For the relief of moderate to severe pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MORPHINE SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AA01",
+      "name": "MORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "M.I.R 30MG 20TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1865",
+        "yarpa": "8343",
+        "pharmasoft": "13465",
+        "barcode": "7290008014076"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 34.4505,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 47.197185,
+        "maxPriceWithVAT": 55.69267582
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:03:07.211066"
+  }
+}

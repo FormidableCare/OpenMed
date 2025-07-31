@@ -1,0 +1,64 @@
+{
+  "catalogId": "75ca1b62-e3f8-4db3-8ffa-2e2715d25881",
+  "name": "DEXIMUNE 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "124 48 30358 11",
+  "treatmentDescriptions": "Prophylaxis of organ rejection in kidney  liver heart allogenic transplants in conjunction with corticosteroids. May also be used in the treatment of chronic rejection in patients previously treated with other immuno-suppressive agents.  Bone marrow transplantation.   Endogenous uveitis.   Severe psoriasis above age 16 that did not respond to other treatment.   Atopic dermatitis in adults only up to 8 weeks  for severe cases in which conventional therapy is ineffective or inappropriate.   Rheumatoid arthritis: Severe cases in which standard treatments are ineffective or inappropriate. Nephrotic syndrom type MCD (minimal change disease) in cases where conventional therapy has failed.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CICLOSPORIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA01",
+      "name": "CYCLOSPORIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEXIMUNE 50MG 50 CAPSULES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4601",
+        "yarpa": "10443",
+        "pharmasoft": "4537"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 222.8635,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 261.8646125,
+        "maxPriceWithVAT": 309.0002428
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:53:58.785638"
+  }
+}

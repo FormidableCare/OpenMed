@@ -1,0 +1,65 @@
+{
+  "catalogId": "5366fc9a-8fd4-45c2-897c-c4d732775c59",
+  "name": "EMGALITY 120 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 90 35852 00",
+  "treatmentDescriptions": "Emgality is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GALCANEZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CX08",
+      "name": "GALCANEZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EMGALITY 120 MG 1 PEN",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN ",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8741",
+        "yarpa": "42703",
+        "pharmasoft": "5655",
+        "barcode": "7290016021158"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1677.387359,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1970.930147,
+        "maxPriceWithVAT": 2325.69747
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:18:17.974148"
+  }
+}

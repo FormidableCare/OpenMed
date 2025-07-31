@@ -1,0 +1,65 @@
+{
+  "catalogId": "e2e95678-483d-4893-9a6e-b4b3c16ad913",
+  "name": "AMBISOME",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "066 56 28192 01",
+  "treatmentDescriptions": "Antifungal antibiotic for the treatment of severe systemic and/or deep mycoses where toxicity precludes the use of conventional systemic amphotericin B in effective dosages. This drug should not be used to treat the common clinically inapparent forms of fungal disease which show only positive skin or serologic tests. Ambisome is also indicated for the treatment of systemic fungal infections in immunocompromised patients (e.g. patients with AIDS or cancer). Ambisome is also indicated for the primary therapy of visceral leishmaniasis in immunocompetent patients and immunocompromised patients (e.g. HIV positive). Empirical treatment of presumed fungal infection in febrile neutropenic patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMPHOTERICIN B/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J02AA01",
+      "name": "AMPHOTERICIN B"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMBISOME 50MG/VIAL 10VIALS",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 15 ML GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7809",
+        "yarpa": "2505",
+        "pharmasoft": "9446",
+        "barcode": "7290008142151"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3956.37719,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4352.014909,
+        "maxPriceWithVAT": 5135.377364
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:18:09.836666"
+  }
+}

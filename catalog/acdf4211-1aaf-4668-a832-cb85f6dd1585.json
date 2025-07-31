@@ -1,0 +1,65 @@
+{
+  "catalogId": "acdf4211-1aaf-4668-a832-cb85f6dd1585",
+  "name": "ANDROGEL 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 18 30760 01",
+  "treatmentDescriptions": "Testosterone replacement therapy for male hypogonadism when testosterone deficiency has been confirmed by clinical features and biochemical tests.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TESTOSTERONEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03BA03",
+      "name": "TESTOSTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANDROGEL 50MG 30 SACH 5G",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM/LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4677",
+        "yarpa": "29965",
+        "pharmasoft": "1679",
+        "barcode": "7290008098144"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 173.3393,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 216.674125,
+        "maxPriceWithVAT": 255.6754675
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:19:57.363251"
+  }
+}

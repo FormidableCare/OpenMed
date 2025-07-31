@@ -1,0 +1,64 @@
+{
+  "catalogId": "a53df470-be56-40fd-b8bd-cfac37b24493",
+  "name": "REFIXIA 1000 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 35 37303 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in pretreated patients with haemophilia B (congenital factor IX deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NONACOG BETA PEGOL/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD04",
+      "name": "COAGULATION FACTOR IX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REFIXIA 1000 IU 1 VIAL",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9241",
+        "yarpa": "11589",
+        "pharmasoft": "18696"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7414.10973,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8155.520703,
+        "maxPriceWithVAT": 9623.514002
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:20:04.337990"
+  }
+}

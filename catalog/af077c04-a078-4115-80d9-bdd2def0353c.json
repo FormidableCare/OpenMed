@@ -1,0 +1,64 @@
+{
+  "catalogId": "af077c04-a078-4115-80d9-bdd2def0353c",
+  "name": "RETEVMO 120 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "179 73 38201 99",
+  "treatmentDescriptions": "Metastatic RET Fusion-Positive Non-Small Cell Lung CancerRETEVMO is indicated for the treatment of adult patients with metastatic RET fusion-positive non-small cell lung cancer (NSCLC).RET-Mutant Medullary Thyroid CancerRETEVMO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET-mutant medullary thyroid cancer (MTC) who require systemic therapy.RET Fusion-Positive Thyroid CancerRETEVMO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate).Other RET Fusion-Positive Solid TumorsRETEVMO is indicated for the treatment of adult patients with locally advanced or metastatic solid tumors with a RET gene fusion that have progressed on or following prior systemic treatment or who have no satisfactory alternative treatment options.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SELPERCATINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EX22",
+      "name": "SELPERCATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RETEVMO 80 MG 60 CAPS",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9244",
+        "yarpa": "28957",
+        "pharmasoft": "18720"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16516.41816,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 18168.05997,
+        "maxPriceWithVAT": 21438.30981
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:29:52.695696"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "7196d9c2-a8ca-4b9d-a2d0-f01323f05d75",
+  "name": "LOTEMAX® GEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 22 34925 00",
+  "treatmentDescriptions": "LOTEMAX® is a corticosteroid indicated for the treatment of post-operative   inflammation and pain following ocular surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye gel",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LOTEPREDNOL ETABONATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01BA14",
+      "name": "LOTEPREDNOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LOTEMAX 0.5% EYE DROPS 5 ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6453",
+        "yarpa": "84777",
+        "pharmasoft": "12432"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.3695,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.866215,
+        "maxPriceWithVAT": 45.8621337
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:57:10.098734"
+  }
+}

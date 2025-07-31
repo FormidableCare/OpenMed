@@ -1,0 +1,65 @@
+{
+  "catalogId": "442c6feb-734b-4c2d-ad1d-1f5ea5115241",
+  "name": "FLUOROURACIL \"EBEWE\" 50 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 30 30866 00",
+  "treatmentDescriptions": "Palliative management of carcinoma of the colon, rectum, breast, stomach and pancreas, in selected patients considered incurable by surgery or other means.As leucovorin-fluorouracil chemotherapy combination for cancer treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for injection / infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUOROURACIL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC02",
+      "name": "FLUOROURACIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUOROURACIL EBEWE 50 MG/ML VIAL 5000MG/100ML",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7932",
+        "yarpa": "61079",
+        "pharmasoft": "6377",
+        "barcode": "7290016369649"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 52.8512,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 71.084864,
+        "maxPriceWithVAT": 83.88013952
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:13:38.244246"
+  }
+}

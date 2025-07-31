@@ -1,0 +1,64 @@
+{
+  "catalogId": "dc417880-7c97-48cd-a1eb-392b6d4dec6e",
+  "name": "MVASI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 30 35864 00",
+  "treatmentDescriptions": "MVASI in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum.MVASI in addition to platinum - based chemotherapy is indicated for first - line treatment of adult patients with unresectable advanced metastatic or recurrent non- small cell lung cancer other than predominantly squamous cell histology.MVASI in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer.MVASI in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. MVASI as a single agent, is indicated for the treatment of glioblastoma in patients with progressive disease following prior therapy.MVASI in combination with carboplatin and paclitaxel, is indicated for the front-line treatment of advanced (FIGO stages IIIB, IIIC and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer in adult patients who are at high risk for recurrence (residual disease after debulking).MVASI  in combination with carboplatin and gemcitabine, is indicated for the treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor-targeted agents.MVASI in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin isindicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents.MVASI in combination with paclitaxel and cisplatin or paclitaxel and topotecan is indicated, in patients who cannot receive platinum therapy, for treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.MVASI, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BEVACIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FG01",
+      "name": "BEVACIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MVASI 400MG 25MG/ML VIAL 16ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8967",
+        "yarpa": "60700",
+        "barcode": "8715131022426"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2725.665538,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2998.232092,
+        "maxPriceWithVAT": 3537.913711
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:36:29.458662"
+  }
+}

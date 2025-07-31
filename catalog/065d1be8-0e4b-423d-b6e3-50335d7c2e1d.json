@@ -1,0 +1,64 @@
+{
+  "catalogId": "065d1be8-0e4b-423d-b6e3-50335d7c2e1d",
+  "name": "AMBRISENTAN S.K. 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 63 36826 99",
+  "treatmentDescriptions": "AMBRISENTAN S.K. is indicated for treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, including use in combination treatment with tadalafil.Efficacy has been  shown in idiopathic PAH (IPAH) and in PAH associated with connective tissue disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMBRISENTAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C02KX02",
+      "name": "AMBRISENTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMBRISENTAN TEVA 10 MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8984",
+        "yarpa": "74872",
+        "pharmasoft": "17583"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3112.472687,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3423.719956,
+        "maxPriceWithVAT": 4039.989548
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:21:32.476031"
+  }
+}

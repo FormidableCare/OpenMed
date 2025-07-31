@@ -1,0 +1,62 @@
+{
+  "catalogId": "2cef6cd4-80a6-4d8c-8143-5ed7f0ca3e98",
+  "name": "NULIBRY",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 28 36983 99",
+  "treatmentDescriptions": "Nulibry is indicated to reduce the risk of mortality in patients with molybdenum cofactor deficiency (MoCD) Type A.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for reconstitution for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOSDENOPTERIN HYDROBROMIDE 9.5 MG/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX19",
+      "name": "FOSDENOPTERIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NULIBRY 9.5 MG / VIAL 10 ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9023"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:58:05.731578"
+  }
+}

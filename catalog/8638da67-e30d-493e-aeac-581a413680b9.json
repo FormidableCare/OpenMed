@@ -1,0 +1,64 @@
+{
+  "catalogId": "8638da67-e30d-493e-aeac-581a413680b9",
+  "name": "RYDAPT ® 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 65 35320 00",
+  "treatmentDescriptions": "Acute myeloid leukaemia (AML) :Rydapt is indicated in combination with standard induction and consolidation chemotherapy followed by single-agent maintenance therapy for adults with newly diagnosed acute myeloid leukaemia (AML) who have an FLT3 mutation.Advanced systemic mastocytosis (advanced SM) :Rydapt is indicated for the treatment of adult patients with advanced systemic mastocytosis (advanced SM).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, soft",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIDOSTAURIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE40",
+      "name": "MIDOSTAURIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RYDAPT 25 MG 56 CAPSULES",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PACK PA/ALUMINIUM/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8107",
+        "yarpa": "10110",
+        "pharmasoft": "14626"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22845.85112,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 25130.43623,
+        "maxPriceWithVAT": 29653.91343
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:55:38.938857"
+  }
+}

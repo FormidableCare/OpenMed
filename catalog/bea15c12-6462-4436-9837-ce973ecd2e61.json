@@ -1,0 +1,64 @@
+{
+  "catalogId": "bea15c12-6462-4436-9837-ce973ecd2e61",
+  "name": "MALARONE TABLETS FOR ADULTS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 46 30733 01",
+  "treatmentDescriptions": "Prevention of malaria: For the prophylaxis of P.falciparum malaria, including in areas where chloroquine resistance has been reported. Treatment of malaria: For the treatment of acute, uncomplicated P.flaciparum malaria. Malarone has been shown to be effective in regions where the drugs chloroquine, halofantrine, mefloquine, and amodiaquine may have unacceptable failure rates, presumably due to drug resistance.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ATOVAQUONE, PROGUANIL HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P01BB51",
+      "name": "PROGUANIL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MALARONE ADULTS 12TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4648",
+        "yarpa": "59161",
+        "pharmasoft": "13499"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 71.347698,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 95.96265381,
+        "maxPriceWithVAT": 113.2359265
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:05:06.482923"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "2a081478-5b66-4758-a2bd-ba5ed7a33275",
+  "name": "CYSTADANE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "111 87 29443 00",
+  "treatmentDescriptions": "Treatment of homocystinuria.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETAINE ANHYDROUS/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AA06",
+      "name": "BETAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CYSTADANE 180GR PWDR/ORAL SOL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 180.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4020",
+        "yarpa": "21918",
+        "pharmasoft": "9538",
+        "barcode": "7290008128575"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1579.004415,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1855.330188,
+        "maxPriceWithVAT": 2189.289524
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:37:45.109144"
+  }
+}

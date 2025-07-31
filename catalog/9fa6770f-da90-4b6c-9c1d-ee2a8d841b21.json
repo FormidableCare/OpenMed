@@ -1,0 +1,65 @@
+{
+  "catalogId": "9fa6770f-da90-4b6c-9c1d-ee2a8d841b21",
+  "name": "HARVONI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 21 34517 00",
+  "treatmentDescriptions": "Harvoni is indicated for the treatment of chronic hepatitis C (CHC) in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEDIPASVIR, SOFOSBUVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AP51",
+      "name": "SOFOSBUVIR AND LEDIPASVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HARVONI 90MG/400MG 28 F.C.TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "72",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7822",
+        "yarpa": "75730",
+        "pharmasoft": "8416",
+        "barcode": "5391507141729"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 47906.87835,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 52697.56618,
+        "maxPriceWithVAT": 62183.12533
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:43:22.756306"
+  }
+}

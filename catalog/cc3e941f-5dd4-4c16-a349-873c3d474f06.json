@@ -1,0 +1,65 @@
+{
+  "catalogId": "cc3e941f-5dd4-4c16-a349-873c3d474f06",
+  "name": "PREDNISONE 1 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 06 26041 00",
+  "treatmentDescriptions": "Anti-inflammatory.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREDNISONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB07",
+      "name": "PREDNISONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PREDNISONE 20MG 30TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SECURITAINER POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1983",
+        "yarpa": "9664",
+        "pharmasoft": "16196",
+        "barcode": "7290008089326"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.1329,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.212073,
+        "maxPriceWithVAT": 30.93024614
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:51:41.343887"
+  }
+}

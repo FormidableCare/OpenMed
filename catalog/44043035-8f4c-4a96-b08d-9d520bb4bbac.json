@@ -1,0 +1,65 @@
+{
+  "catalogId": "44043035-8f4c-4a96-b08d-9d520bb4bbac",
+  "name": "AEROVENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "055 80 27113 01",
+  "treatmentDescriptions": "For the relief of symptoms of reversible bronchospasm associated with asthma, chronic bronchitis and emphysema. Aerovent respirator solution is of particular benefit in relieving acute bronchospasm when used concomitantly with inhaled beta agonists.",
+  "termsOfIssue": "Prescription required",
+  "form": "inhalation solution",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IPRATROPIUM BROMIDE 0.25  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BB01",
+      "name": "IPRATROPIUM BROMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AEROVENT SOL 20ML",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1442",
+        "yarpa": "49689",
+        "pharmasoft": "1772",
+        "barcode": "9006968011943"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.23807907,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.46616832,
+        "maxPriceWithVAT": 35.95007862
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:10:52.031507"
+  }
+}

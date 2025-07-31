@@ -1,0 +1,64 @@
+{
+  "catalogId": "d742b783-191d-4f8d-885f-26201fe27f03",
+  "name": "DOXORUBICIN TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 78 27503 00",
+  "treatmentDescriptions": "To produce regression in disseminated neoplastic conditions such as: - acute lymphoblastic leukemia, - acute myeloblastic leukemia, - Wilms' tumor neuroblastoma, - soft tissue and bone sarcomas, - breast carcinoma, - lymphomas of both Hodgkin's and non-Hodgkin's types, - bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types, - gastric carcinoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOXORUBICIN HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DB01",
+      "name": "DOXORUBICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DOXORUBICIN TEVA 2MG/ML VIAL 25ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7448",
+        "yarpa": "86193",
+        "barcode": "7290102064281"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1528.376976,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1795.842947,
+        "maxPriceWithVAT": 2119.094584
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:04:32.427929"
+  }
+}

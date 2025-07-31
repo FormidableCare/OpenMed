@@ -1,0 +1,62 @@
+{
+  "catalogId": "c8e44ada-1d24-4d98-8896-14110947878a",
+  "name": "AKLIEF",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 48 37123 99",
+  "treatmentDescriptions": "Aklief is indicated for the cutaneous treatment of Acne Vulgaris of the face and/or the trunk in patients from 12 years of age and older, when many comedones, papules and pustules are present.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIFAROTENE 0.005 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AD06",
+      "name": "TRIFAROTENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AKLIEF 50 MCG 30 GR",
+      "manufacturer": {
+        "name": "אמי טכנולוגיות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9505"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 50.2475715,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 67.58298367,
+        "maxPriceWithVAT": 79.74791718
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:12:44.313504"
+  }
+}

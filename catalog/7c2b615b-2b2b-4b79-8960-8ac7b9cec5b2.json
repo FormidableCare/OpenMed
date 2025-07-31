@@ -1,0 +1,65 @@
+{
+  "catalogId": "7c2b615b-2b2b-4b79-8960-8ac7b9cec5b2",
+  "name": "BONDORMIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "120 37 26021 12",
+  "treatmentDescriptions": "Treatment of Insomnia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BROTIZOLAM 0.25  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CD09",
+      "name": "BROTIZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BONDORMIN 0.25MG 10TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1844",
+        "yarpa": "7872",
+        "pharmasoft": "2337",
+        "barcode": "7290008013932"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.6,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 13.152,
+        "maxPriceWithVAT": 15.51936
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:40:52.372086"
+  }
+}

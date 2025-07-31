@@ -1,0 +1,65 @@
+{
+  "catalogId": "7d0dbc05-aa39-4ae3-84dd-b08f0efb8c6f",
+  "name": "NOVOSEVEN ® RT 1 MG/VIAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 63 32929 00",
+  "treatmentDescriptions": "NovoSeven ® RT is indicated for the treatment of bleeding episodes and for the prevention of bleeding in those undergoing surgery or invasive procedures in the following patient groups: •in patients with congenital haemophilia with inhibitors to coagulation factors VIII or IX > 5 Bethesda Units (BU) •in patients with congenital haemophilia who are expected to have a high anamnestic response to factor VIII or factor IX administration •in patients with acquired haemophilia •in patients with congenital FVII deficiency •in patients with Glanzmann’s thrombasthenia with past or present refractoriness to platelet transfusions, or where platelets are not readily available.Severe postpartum haemorrhageNovoSeven RT is indicated for the treatment of severe postpartum haemorrhage when uterotonics are insufficient to achieve haemostasis",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPTACOG ALFA (ACTIVATED)/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD08",
+      "name": "COAGULATION FACTOR VIIA "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NOVOSEVEN RT 5MG/VIAL",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7072",
+        "yarpa": "35602",
+        "pharmasoft": "14536",
+        "barcode": "7290008126717"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9756.940538,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 10732.63459,
+        "maxPriceWithVAT": 12664.50826
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:56:33.910641"
+  }
+}

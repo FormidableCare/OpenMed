@@ -1,0 +1,64 @@
+{
+  "catalogId": "7a958e8d-e250-47cb-bafd-c2e52a21f535",
+  "name": "CETRAXAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 13 33374 00",
+  "treatmentDescriptions": "Cetraxal is indicated in adults and in children aged 6 months and older for the following infections:- Acute otitis externa (AOE)- Acute otitis media in patients with tympanostomy tubes (AOMT)caused by ciprofloxacin susceptible microorganisms.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "ear drops",
+  "route": "otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CIPROFLOXACIN AS HYDROCHLORIDE/, FLUOCINOLONE ACETONIDE 0.25  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S03AA07",
+      "name": "CIPROFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CETRAXAL 3 MG/ML+0.25 MG/ ML 10 ML",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8668",
+        "yarpa": "67355",
+        "barcode": "7290018386149"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20.96327465,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 28.71968627,
+        "maxPriceWithVAT": 33.88922829
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:07:54.278325"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "a592d13d-2e65-438f-b717-de34c4cc8e19",
+  "name": "ROPIVACAINE FRESENIUS 2 MG/ML SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 68 34445 00",
+  "treatmentDescriptions": "Acute pain management :In adults and adolescents above 12 years of age for:- Continuous epidural infusion or intermittent bolus administration during postoperative or labour pain.- Field blocks.- Peripheral nerve block via a continuous infusion or intermittent bolus injections, e.g. postoperative pain management.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "perineural, epidural",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ROPIVACAINE AS HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB09",
+      "name": "ROPIVACAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROPIVACAINE FRESENIUS 2 MG/ML 100ML 5 BAG",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES PP",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8614",
+        "yarpa": "447",
+        "pharmasoft": "18611"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 130.3333538,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 162.9166922,
+        "maxPriceWithVAT": 192.2416882
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:49:10.314109"
+  }
+}

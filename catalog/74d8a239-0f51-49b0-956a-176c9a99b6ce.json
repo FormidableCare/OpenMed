@@ -1,0 +1,64 @@
+{
+  "catalogId": "74d8a239-0f51-49b0-956a-176c9a99b6ce",
+  "name": "ETOPOSIDE TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 48 28897 05",
+  "treatmentDescriptions": "Hodgkin's disease. Malignant (non-Hodgkin's) Lymphomas, especially of the Histiocytic variety.Acute Non-Lymphocytic leukemia.  Management of refractory testicular tumors and of small cell lung cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETOPOSIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01CB01",
+      "name": "ETOPOSIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ETOPOSIDE VIAL 100MG/5 ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8577",
+        "yarpa": "35132",
+        "barcode": "7290106061774"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.0,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 36.99,
+        "maxPriceWithVAT": 43.6482
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:40:30.323408"
+  }
+}

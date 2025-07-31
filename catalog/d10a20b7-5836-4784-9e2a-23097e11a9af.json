@@ -1,0 +1,63 @@
+{
+  "catalogId": "d10a20b7-5836-4784-9e2a-23097e11a9af",
+  "name": "CLASTEON 800 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 03 34600 00",
+  "treatmentDescriptions": "Treatment of hypercalcemia due to malignancy. Palliative treatment of osteolysis due to malignancy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLODRONIC ACID AS DISODIUM TETRATHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BA02",
+      "name": "CLODRONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLASTEON 800MG  30TABS",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8283",
+        "yarpa": "12470"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 290.05,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 340.80875,
+        "maxPriceWithVAT": 402.154325
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:19:12.659883"
+  }
+}

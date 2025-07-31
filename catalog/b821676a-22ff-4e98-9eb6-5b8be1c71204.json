@@ -1,0 +1,63 @@
+{
+  "catalogId": "b821676a-22ff-4e98-9eb6-5b8be1c71204",
+  "name": "ROZLYTREK 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 36 36185 00",
+  "treatmentDescriptions": "NTRK Gene Fusion-Positive Solid TumorsROZLYTREK is indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that:• have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion without a known acquired resistance mutation,• are metastatic or where surgical resection is likely to result in severe morbidity,and• have either progressed following treatment or have no satisfactory alternative therapy.ROS1-Positive Non-Small Cell Lung CancerROZLYTREK is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are ROS1-positive.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENTRECTINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE56",
+      "name": "ENTRECTINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROZLYTREK 200 MG 90 CAPS",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8533",
+        "barcode": "7290014774155"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21491.59185,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 23640.75104,
+        "maxPriceWithVAT": 27896.08499
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:52:35.817283"
+  }
+}

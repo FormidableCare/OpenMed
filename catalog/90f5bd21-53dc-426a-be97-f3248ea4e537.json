@@ -1,0 +1,63 @@
+{
+  "catalogId": "90f5bd21-53dc-426a-be97-f3248ea4e537",
+  "name": "AVODART",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 27 30679 01",
+  "treatmentDescriptions": "Avodart is indicated for : Treatment of moderate to severe symptoms of benign prostatic hyperplasia (BPH).Reduction in the risk of acute urinary retention (AUR) and surgery in patients with moderate to severe symptoms of BPH.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, soft",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DUTASTERIDE 0.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CB02",
+      "name": "DUTASTERIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DUTASTERIDE TARO 0.5MG 30 TAB",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8466",
+        "yarpa": "35081"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 84.3933,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 113.5089885,
+        "maxPriceWithVAT": 133.9406064
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:09:02.217795"
+  }
+}

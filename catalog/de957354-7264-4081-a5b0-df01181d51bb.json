@@ -1,0 +1,65 @@
+{
+  "catalogId": "de957354-7264-4081-a5b0-df01181d51bb",
+  "name": "CORDAMIL 40 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 31 36504 99",
+  "treatmentDescriptions": "Cordamil is indicated for treatment of coronary heart disease, including:- chronic stable angina pectoris (effort angina), - unstable angina pectoris: - aggravated angina, resting angina, vasospastic angina (Prinzmetal angina)   - post heart-attack angina in patients without heart failure, when adrenergic beta-blockers are contraindicated. Prevention of ventricular fast heart rate disorders not controlled by tonic-cardiac glycosides or beta-blockers (for example supraventricular paroxysmal tachycardia, atrial fibrillation/ flutter with rapid ventricular response, except for Wolff-Parkinson-White syndrome.) Moderate to mild essential hypertension",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VERAPAMIL HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08DA01",
+      "name": "VERAPAMIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CORDAMIL 40 MG 60TAB",
+      "manufacturer": {
+        "name": "טרוסטפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9123",
+        "yarpa": "30322",
+        "pharmasoft": "23211",
+        "barcode": "5944708138700"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.8,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.646,
+        "maxPriceWithVAT": 25.54228
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:30:11.504614"
+  }
+}

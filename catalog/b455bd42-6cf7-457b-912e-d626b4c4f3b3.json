@@ -1,0 +1,65 @@
+{
+  "catalogId": "b455bd42-6cf7-457b-912e-d626b4c4f3b3",
+  "name": "MINIRIN MELT 120 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 23 31463 00",
+  "treatmentDescriptions": "Nocturnal enuresis.",
+  "termsOfIssue": "Prescription required",
+  "form": "sublingual tablets",
+  "route": "sublingual",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESMOPRESSIN AS ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BA02",
+      "name": "DESMOPRESSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MINIRIN MELT 60MCG 30TAB",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6064",
+        "yarpa": "452",
+        "pharmasoft": "13596",
+        "barcode": "7640128540427"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 55.3631579,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 74.46344738,
+        "maxPriceWithVAT": 87.866864
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:25:22.990037"
+  }
+}

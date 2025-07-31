@@ -1,0 +1,64 @@
+{
+  "catalogId": "f2faf3f1-8bbc-4191-8e72-d3b9424edde7",
+  "name": "RIZALT 10 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "112 36 29508 00",
+  "treatmentDescriptions": "Rizalt is indicated for the acute treatment of migraine attacks with or without aura in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIZATRIPTAN AS BENZOATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CC04",
+      "name": "RIZATRIPTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIZALT 10MG 12 TAB",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7569",
+        "yarpa": "61224",
+        "pharmasoft": "18514"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 105.3204,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 131.6505,
+        "maxPriceWithVAT": 155.34759
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:46:19.649298"
+  }
+}

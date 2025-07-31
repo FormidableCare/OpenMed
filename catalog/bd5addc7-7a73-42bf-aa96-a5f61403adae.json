@@ -1,0 +1,65 @@
+{
+  "catalogId": "bd5addc7-7a73-42bf-aa96-a5f61403adae",
+  "name": "FLUMIST",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 71 38099 00",
+  "treatmentDescriptions": "FluMist is a vaccine indicated for active immunization for the prevention of influenza disease caused by influenza virus subtypes A and type B contained in the vaccine. FluMist is approved for use in persons 2 through 49 years of age.",
+  "termsOfIssue": "Prescription required",
+  "form": "nasal spray, suspension ",
+  "route": "intranasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "B/AUSTRIA/1359417/2021 (B/VICTORIA LINEAGE)-LIKE VIRUS 10^7.0±0.5 FFU / 0.2  ML, A/VICTORIA/4897/2022 (H1N1)PDM09-LIKE VIRUS 10^7.0±0.5 FFU / 0.2  ML, A/THAILAND/8/2022 (H3N2)-LIKE VIRUS 10^7.0±0.5 FFU / 0.2  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BB02",
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUMIST QUADRIVALENT 0.2ML 10 UNIT DOSE",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PREFILED SPRAYER GLASS",
+      "shelfLife": "15",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7584",
+        "yarpa": "81270",
+        "pharmasoft": "6602",
+        "barcode": "7290019949015"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 869.50395,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1021.667141,
+        "maxPriceWithVAT": 1205.567173
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:13:16.842101"
+  }
+}

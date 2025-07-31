@@ -1,0 +1,64 @@
+{
+  "catalogId": "588aa710-749a-41e3-81f0-87c57392af85",
+  "name": "MYLERAN TABLETS 2 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 38 30943 00",
+  "treatmentDescriptions": "For the palliative treatment of the chronic granulocytic leukemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUSULFAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AB01",
+      "name": "BUSULFAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYLERAN 2MG 100TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4404",
+        "yarpa": "26244",
+        "pharmasoft": "13067"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 249.185441,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 292.7928932,
+        "maxPriceWithVAT": 345.4955986
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:38:15.836377"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "aa680f27-5176-49dd-8c45-483e0b8ce485",
+  "name": "LIBTAYO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 99 36023 00",
+  "treatmentDescriptions": "CCutaneous Squamous Cell CarcinomaLIBTAYO as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma who are not candidates for curative surgery or curative radiation. Basal Cell CarcinomaLIBTAYO as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic basal cell carcinoma (laBCC or mBCC) who have progressed on or are intolerant to a hedgehog pathway inhibitor (HHI).Non-Small Cell Lung CancerLIBTAYO as a single agent is indicated for the first-line treatment of adult patients with NSCLC whose tumors have high PD-L1 expression [Tumor Proportion Score (TPS) &#8805; 50%] as determined by an approved test, with no EGFR, ALK or ROS1 aberrations, and is:•\tlocally advanced where patients are not candidates for surgical resection or definitive chemoradiation or •\tmetastatic.LIBTAYO in combination with platinum‐based chemotherapy is indicated for the first‐line treatment of adult patients with non-small cell lung cancer (NSCLC) expressing PD-L1 (in &#8805; 1% of tumour cells), with no EGFR, ALK or ROS1 aberrations and is:•\tlocally advanced where patients are not candidates for surgical resection or definitive chemoradiation or•\tmetastatic.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEMIPLIMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC33",
+      "name": "CEMIPLIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIBTAYO 50 MG/1 ML (1 VIAL) 7ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8512",
+        "yarpa": "51656",
+        "pharmasoft": "12563",
+        "barcode": "3664798033717"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20439.60099,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 22483.56108,
+        "maxPriceWithVAT": 26530.6009
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:45:58.314080"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "27825dc3-1b58-413f-8da9-816c3d268a37",
+  "name": "KOSELUGO 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 72 36526 99",
+  "treatmentDescriptions": "Koselugo is indicated for the treatment of pediatric patients 2 years of age and older withneurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SELUMETINIB AS HYD-SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EE04",
+      "name": "SELUMETINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KOSELUGO 25 MG 60 CAPS",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8775",
+        "yarpa": "73205",
+        "pharmasoft": "11304",
+        "barcode": "7290013075826"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 47355.96458,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 52091.56104,
+        "maxPriceWithVAT": 61468.03929
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:29:43.226243"
+  }
+}

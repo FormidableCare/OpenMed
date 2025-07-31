@@ -1,0 +1,65 @@
+{
+  "catalogId": "431f2ea9-3855-4bde-82f2-8ac4d122cd60",
+  "name": "ENTACAPONE MEDOCHEMIE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 98 35150 00",
+  "treatmentDescriptions": "Entacapone is indicated as an adjunct to standard preparations of levodopa/benserazide or levodopa/carbidopa for use in patients with Parkinson`s disease and end-of-dose motor fluctuations who cannot be stabilised on those combinations.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENTACAPONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BX02",
+      "name": "ENTACAPONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENTACAPONE MEDOCHEMIE 200mg 30tab",
+      "manufacturer": {
+        "name": "דפריס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPAQUE PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8345",
+        "yarpa": "28166",
+        "pharmasoft": "5650",
+        "barcode": "5290931020764"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 49.7775315,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 66.95077987,
+        "maxPriceWithVAT": 79.00191673
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:22:59.680020"
+  }
+}

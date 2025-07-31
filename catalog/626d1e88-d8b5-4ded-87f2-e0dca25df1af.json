@@ -1,0 +1,64 @@
+{
+  "catalogId": "626d1e88-d8b5-4ded-87f2-e0dca25df1af",
+  "name": "MESULID 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "068 27 27431 00",
+  "treatmentDescriptions": "Acute pain.Primary dysmenorrhea.",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NIMESULIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AX17",
+      "name": "NIMESULIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MESULID 100MG 30CAPLETS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3118",
+        "yarpa": "9259",
+        "pharmasoft": "13013"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.9366533,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.98321502,
+        "maxPriceWithVAT": 17.68019294
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:15:17.961833"
+  }
+}

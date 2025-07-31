@@ -1,0 +1,65 @@
+{
+  "catalogId": "628b1e49-9038-4bf4-a536-a1992fd8610f",
+  "name": "DUOTRAV",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 33 31764 00",
+  "treatmentDescriptions": "Decrease of intraocular pressure (IOP) in patients with open angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAVOPROST/ML, TIMOLOL AS MALEATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED51",
+      "name": "TIMOLOL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DUOTRAV 2.5ML OPHTHALMIC SOLUTION",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.5,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6407",
+        "yarpa": "48349",
+        "pharmasoft": "4543",
+        "barcode": "729001639250"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.30388575,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.29632348,
+        "maxPriceWithVAT": 39.28965996
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:07:33.791397"
+  }
+}

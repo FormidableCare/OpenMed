@@ -1,0 +1,63 @@
+{
+  "catalogId": "e8f378b8-0ff6-4d9e-90cc-ec8ec7da80b2",
+  "name": "SKYRIZI 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 73 36871 00",
+  "treatmentDescriptions": "Plaque PsoriasisSkyrizi is indicated for the treatment of moderate to severe plaque psoriasis in adults who arecandidates for systemic therapy.Psoriatic ArthritisSkyrizi, alone or in combination with methotrexate (MTX), is indicated for the treatment of activepsoriatic arthritis in adults who have had an inadequate response or who have been intolerant to one or more disease-modifying antirheumatic drugs (DMARDs).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RISANKIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC18",
+      "name": "RISANKIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SKYRIZI 150 MG 1 PFS",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9259",
+        "yarpa": "73693"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9780.376973,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 10758.41467,
+        "maxPriceWithVAT": 12694.92875
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:21:33.166746"
+  }
+}

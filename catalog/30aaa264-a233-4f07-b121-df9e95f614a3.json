@@ -1,0 +1,65 @@
+{
+  "catalogId": "30aaa264-a233-4f07-b121-df9e95f614a3",
+  "name": "SANDOSTATIN ® 0.05 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 03 25697 00",
+  "treatmentDescriptions": "Prevention of complications following pancreatic surgery.   Symptomatic control and reduction of GH and IGF-1plasma levels in patients with acromegaly who are inadequately controlled by surgery  or radiotherapy. Sandostatin treatment is also indicated for acromegalic patients unfit or unwilling to undergo surgery  or in the interim period until radiotherapy becomes fully effective.   Relief of symptoms associated with functional gastroenteropancreatic endocrine tumours:   - Carcinoid tumours with features of the carcinoid syndrome    - VIPomas    - Glucagonomas    - Gastrinomas / zollinger-Ellison syndrome usually in conjunction with proton pump inhibitors  or H2- antagonist therapy    - Insulinomas  for pre-operative control of hypoglycaemia and for maintenance therapy   - GRFomas.   Sandostatin is not an antitumour therapy and is not curative in these patients.Emergency management of bleeding gastro-oesophageal varices secondary to cirrhosis in combination with specific therapy such as endoscopic sclerotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OCTREOTIDE 0.05  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01CB02",
+      "name": "OCTREOTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SANDOSTATIN 0.5MG/ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2607",
+        "yarpa": "8651",
+        "pharmasoft": "19012",
+        "barcode": "7298120012734"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 391.5798341,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 460.106305,
+        "maxPriceWithVAT": 542.9254399
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:59:29.919851"
+  }
+}

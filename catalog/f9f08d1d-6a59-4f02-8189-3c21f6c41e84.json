@@ -1,0 +1,65 @@
+{
+  "catalogId": "f9f08d1d-6a59-4f02-8189-3c21f6c41e84",
+  "name": "AKYNZEO 300mg/0.50mg",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 79 34343 00",
+  "treatmentDescriptions": "Prevention of Acute and delayed nausea and vomiting associated with initial and repeat courses of cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NETUPITANT, PALONOSETRON AS HYDROCHLORIDE 0.50  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A04AA55",
+      "name": "PALONOSETRON, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SETRON 1MG 10TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3612",
+        "yarpa": "85049",
+        "pharmasoft": "19246",
+        "barcode": "7290017179254"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 156.853,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 196.06625,
+        "maxPriceWithVAT": 231.358175
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:08:43.598371"
+  }
+}

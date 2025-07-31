@@ -1,0 +1,65 @@
+{
+  "catalogId": "59f1bd5f-9b58-4be7-8606-a055e4aec78c",
+  "name": "DIPROSALIC OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 51 24242 00",
+  "treatmentDescriptions": "Provides anti inflammatory, antipruritic, anti allergic and chronic hyperkeratotic and dry keratolytic activity in the topical management of subacute dermatoses responsive to corticosteroid therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALICYLIC ACID/G, BETAMETHASONE AS DIPROPIONATE 0.5 MG/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07XC01",
+      "name": "BETAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DIPROSALIC OINT 15GR",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1245",
+        "yarpa": "8461",
+        "pharmasoft": "4433",
+        "barcode": "72989586"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.476,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 10.24212,
+        "maxPriceWithVAT": 12.08570106
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:59:06.513259"
+  }
+}

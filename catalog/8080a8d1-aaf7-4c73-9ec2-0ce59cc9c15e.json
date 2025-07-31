@@ -1,0 +1,65 @@
+{
+  "catalogId": "8080a8d1-aaf7-4c73-9ec2-0ce59cc9c15e",
+  "name": "COMAGIS CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "063 04 26742 00",
+  "treatmentDescriptions": "Broad-spectrum drug for relief of inflammatory conditions accompanied by fungal infection, which respond to corticoid therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUOCINONIDE 0.05  W/W, BIFONAZOLE 1.00  W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC10",
+      "name": "BIFONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COMAGIS CREAM 15GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3116",
+        "yarpa": "9297",
+        "pharmasoft": "3053",
+        "barcode": "7290002925033"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:26:47.745759"
+  }
+}

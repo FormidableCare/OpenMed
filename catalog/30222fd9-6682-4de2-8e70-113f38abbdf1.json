@@ -1,0 +1,65 @@
+{
+  "catalogId": "30222fd9-6682-4de2-8e70-113f38abbdf1",
+  "name": "MIDRO TEA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 27 20919 00",
+  "treatmentDescriptions": "Laxative.",
+  "termsOfIssue": "Prescription required",
+  "form": "tea",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SENNAE FOLIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A06AB06",
+      "name": "SENNA GLYCOSIDES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIDRO TEA 80GR",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 80.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOX PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1120",
+        "yarpa": "1339",
+        "pharmasoft": "13129",
+        "barcode": "7298120000649"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:22:34.348724"
+  }
+}

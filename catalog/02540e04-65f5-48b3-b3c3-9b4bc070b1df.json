@@ -1,0 +1,64 @@
+{
+  "catalogId": "02540e04-65f5-48b3-b3c3-9b4bc070b1df",
+  "name": "PREGABALIN DEXCEL 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 75 34730 00",
+  "treatmentDescriptions": "For the treatment of peripheral and central neuropathic pain in adults.Management of FibromyalgiaTreatment of Generalised Anxiety Disorder (GAD) in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREGABALIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX16",
+      "name": "PREGABALIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PREGABALIN DEXCEL 75 MG 56 CAPSULES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8080",
+        "yarpa": "58330",
+        "pharmasoft": "16992"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77.8568,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 104.717396,
+        "maxPriceWithVAT": 123.5665273
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:52:48.660854"
+  }
+}

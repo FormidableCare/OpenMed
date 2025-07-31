@@ -1,0 +1,64 @@
+{
+  "catalogId": "cbb8ad1f-2ca6-4869-b79a-60240fdabadf",
+  "name": "NORVASC 10 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 49 30947 00",
+  "treatmentDescriptions": "Mild to moderate hypertension.  Vasospastic angina ( Prinzmetal's or variant angina). Chronic stable angina.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMLODIPINE AS BESYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08CA01",
+      "name": "AMLODIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NORVASC 10 MG 30 TABLETS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8040",
+        "yarpa": "27185",
+        "pharmasoft": "14613"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.0967,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.572479,
+        "maxPriceWithVAT": 19.55552522
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:52:30.786636"
+  }
+}

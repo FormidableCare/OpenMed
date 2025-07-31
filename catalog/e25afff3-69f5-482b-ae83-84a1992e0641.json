@@ -1,0 +1,62 @@
+{
+  "catalogId": "e25afff3-69f5-482b-ae83-84a1992e0641",
+  "name": "ETOMIDATE-LIPURO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "113 84 29554 00",
+  "treatmentDescriptions": "Induction of general anaesthesia.",
+  "termsOfIssue": "Prescription required",
+  "form": "emulsion for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETOMIDATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AX07",
+      "name": "ETOMIDATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ETOMIDATE-LIPURO 20 MG/10 ML 10 AMP",
+      "manufacturer": {
+        "name": "לפידות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8685"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77.2496899,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 103.9008329,
+        "maxPriceWithVAT": 122.6029774
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:39:01.692839"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "e2416b3b-7fbb-4b44-bb94-48d462e5b294",
+  "name": "ERAXIS 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 84 31584 00",
+  "treatmentDescriptions": "Treatment of invasive candidiasis in adults and paediatric patients aged 1 month to < 18 years",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANIDULAFUNGIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J02AX06",
+      "name": "ANIDULAFUNGIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ERAXIS 100MG 30ML VIAL LYOPHILIZED POWDER FOR INJ.",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6403",
+        "yarpa": "21260",
+        "pharmasoft": "5494",
+        "barcode": "7290010355907"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 803.531,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 944.148925,
+        "maxPriceWithVAT": 1114.095732
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:32:44.347451"
+  }
+}

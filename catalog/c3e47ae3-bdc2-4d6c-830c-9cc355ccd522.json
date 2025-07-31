@@ -1,0 +1,65 @@
+{
+  "catalogId": "c3e47ae3-bdc2-4d6c-830c-9cc355ccd522",
+  "name": "FLAME",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 58 31529 00",
+  "treatmentDescriptions": "Contraceptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 0.02   MG, GESTODENE 0.075   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA01",
+      "name": "ETHINYLESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLAME 21TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6361",
+        "yarpa": "82918",
+        "pharmasoft": "6431",
+        "barcode": "7290010577606"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.2437,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.513869,
+        "maxPriceWithVAT": 23.02636542
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:06:19.785723"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "d5a031f4-c227-4507-945b-c8318dcab0da",
+  "name": "MONOCORD 20",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "052 51 23128 00",
+  "treatmentDescriptions": "For the treatment of angina pectoris and prevention of anginal attacks. Treatment of congestive heart failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ISOSORBIDE MONONITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01DA14",
+      "name": "ISOSORBIDE MONONITRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MONOCORD 20MG 60TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2779",
+        "yarpa": "8885",
+        "pharmasoft": "13033",
+        "barcode": "7290008113427"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.4644,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.076228,
+        "maxPriceWithVAT": 20.14994904
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:29:29.528259"
+  }
+}

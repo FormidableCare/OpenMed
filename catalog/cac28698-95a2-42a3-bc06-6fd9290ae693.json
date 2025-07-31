@@ -1,0 +1,65 @@
+{
+  "catalogId": "cac28698-95a2-42a3-bc06-6fd9290ae693",
+  "name": "SPASMEX 15",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 49 30583 00",
+  "treatmentDescriptions": "For the treatment of vegetative bladder dysfunction accompanied by urgency and/or frequency and/or urinary incontinence.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TROSPIUM CHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BD09",
+      "name": "TROSPIUM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPASMEX 30MG 30TAB",
+      "manufacturer": {
+        "name": "ליברה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6333",
+        "yarpa": "21296",
+        "pharmasoft": "19923",
+        "barcode": "4028305000521"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 47.208258,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 63.49510701,
+        "maxPriceWithVAT": 74.92422627
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:33:00.274469"
+  }
+}

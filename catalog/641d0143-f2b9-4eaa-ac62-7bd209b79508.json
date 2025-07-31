@@ -1,0 +1,63 @@
+{
+  "catalogId": "641d0143-f2b9-4eaa-ac62-7bd209b79508",
+  "name": "FULVESTRANT TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 90 35053 00",
+  "treatmentDescriptions": "MonotherapyFulvestrant Teva is indicated for the treatment of oestrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women:* not previously treated with endocrine therapy,or* with disease relapse on or after adjuvant endocrine therapy, or* with disease progression on endocrine therapy.Combination TherapyFulvestrant Teva is indicated for the treatment of:- HR-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in men and postmenopausal women in combination with ribociclib as initial endocrine based therapy or following disease progression on endocrine therapy.- HR- positive, human epidermal  growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FULVESTRANT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BA03",
+      "name": "FULVESTRANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FULVESTRANT TEVA 250MG/5ML 2 VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8859",
+        "yarpa": "67132"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 702.0991288,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 824.9664764,
+        "maxPriceWithVAT": 973.4604421
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:22:23.178217"
+  }
+}

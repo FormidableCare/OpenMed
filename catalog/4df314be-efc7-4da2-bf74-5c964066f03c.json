@@ -1,0 +1,63 @@
+{
+  "catalogId": "4df314be-efc7-4da2-bf74-5c964066f03c",
+  "name": "HEMOSOL B0",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 26 30751 00",
+  "treatmentDescriptions": "As substitution solution in continuous haemofiltration and haemodiafiltration and as dialysis solution in continuous haemodialysis for acute renal failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for haemofiltration",
+  "route": "for use with hemodialysis machines",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CALCIUM CHLORIDE DIHYDRATE 5.145 G /, MAGNESIUM CHLORIDE HEXAHYDRATE 2.033 G /, LACTIC ACID 5.400 G /, SODIUM CHLORIDE 6.45 G /, SODIUM CARBONATE HYDROGEN 3.090 G /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05XA30",
+      "name": "COMBINATIONS OF ELECTROLYTES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEMOSOL B0 5000ML(4750+250)",
+      "manufacturer": {
+        "name": "בקסטר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG POLYOLEFINE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8975",
+        "barcode": "7290018454046"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 128.6319246,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 160.7899058,
+        "maxPriceWithVAT": 189.7320804
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:44:41.035643"
+  }
+}

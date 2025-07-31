@@ -1,0 +1,64 @@
+{
+  "catalogId": "c73fbe9e-8b0b-4d81-92bd-0bdb27fc4a82",
+  "name": "RINGER LACTATED SOLUTION/VIOSER",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 66 36052 00",
+  "treatmentDescriptions": "Source of water and electrolytes. Regulation or maintenance of metabolic acidosis (except lactic acidosis)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SODIUM LACTATE 3.14 G/L, CALCIUM CHLORIDE DIHYDRATE 0.26 G/L, POTASSIUM CHLORIDE 0.41 G/L, SODIUM CHLORIDE 6.02 G/L",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05BB01",
+      "name": "ELECTROLYTES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SODIUM CHLORIDE MONICO 0.45 %  BAG 500 ML",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9442",
+        "yarpa": "68102",
+        "barcode": "7290111096761"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:25:49.996544"
+  }
+}

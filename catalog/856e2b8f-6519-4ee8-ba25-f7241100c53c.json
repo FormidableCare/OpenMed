@@ -1,0 +1,62 @@
+{
+  "catalogId": "856e2b8f-6519-4ee8-ba25-f7241100c53c",
+  "name": "CEFOTAXIME MEDO 1 GR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 79 36007 00",
+  "treatmentDescriptions": "Imetoxim 1 gr is indicated in the treatment of the following infections either before the infecting organism has been identified or when caused by bacteria of established sensitivity. SepticaemiasRespiratory Tract Infections such as acute and chronic bronchitis, bacterial pneumonia, infected bronchiectasis, lung abscess and post-operative chest infections. Urinary Tract Infections such as acute and chronic pyelonephritis, cystitis and asymptomatic bacteriuria. Soft-Tissue Infections such as cellulitis, peritonitis and wound infections. Bone and Joint Infections such as osteomyelitis, septic arthritis. Obstetric and Gynaecological Infections such as pelvic inflammatory disease. Gonorrhoea particularly when penicillin has failed or is unsuitable. Other Bacterial Infections such as meningitis and other sensitive infections suitable for parenteral antibiotic therapy PROPHYLAXIS: Prophylaxis of infections in patients with reduced resistance. Pre-operative prophylaxis in patients who are at increased risk from infection.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFOTAXIME AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DD01",
+      "name": "CEFOTAXIME"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFOTAXIME MEDO 1 GR/VIAL 10 VIAL",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9058"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 102.4899891,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 128.1124863,
+        "maxPriceWithVAT": 151.1727272
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:59:15.045298"
+  }
+}

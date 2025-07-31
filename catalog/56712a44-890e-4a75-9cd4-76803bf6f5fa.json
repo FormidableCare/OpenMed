@@ -1,0 +1,63 @@
+{
+  "catalogId": "56712a44-890e-4a75-9cd4-76803bf6f5fa",
+  "name": "STEGLATRO 15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 73 35637 00",
+  "treatmentDescriptions": "Steglatro is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:• as monotherapy in patients for whom the use of metformin is considered inappropriate due to intolerance or contraindications.• in addition to other medicinal products for the treatment of diabetes.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERTUGLIFLOZIN (L-PGA)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BK04",
+      "name": "ERTUGLIFLOZIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STEGLATRO 5 MG 28 TAB",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/PA/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8311",
+        "yarpa": "29321"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 113.4227041,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 141.7783801,
+        "maxPriceWithVAT": 167.2984811
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:41:35.416766"
+  }
+}

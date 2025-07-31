@@ -1,0 +1,65 @@
+{
+  "catalogId": "aaaa0d42-ef4c-44de-88c7-a46c056c9c37",
+  "name": "RAFASSAL 4 GRAM ENEMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "029 58 25321 00",
+  "treatmentDescriptions": "Treatment and prevention of ulcerative colitis and Crohn's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "enema",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MESALAZINE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A07EC02",
+      "name": "MESALAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RAFASSAL 1GR 30TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3019",
+        "yarpa": "9126",
+        "pharmasoft": "18071",
+        "barcode": "7290008013765"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 69.240555,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 93.12854648,
+        "maxPriceWithVAT": 109.89168
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:14:20.243113"
+  }
+}

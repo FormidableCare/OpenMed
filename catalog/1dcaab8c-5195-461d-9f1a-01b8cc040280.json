@@ -1,0 +1,65 @@
+{
+  "catalogId": "1dcaab8c-5195-461d-9f1a-01b8cc040280",
+  "name": "OZURDEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 03 33284 00",
+  "treatmentDescriptions": "Ozurdex is indicated for the treatment of adult patients with:• diabetic macular oedema (DME)• macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO).• inflammation of the posterior segment of the eye presenting as non-infectious uveitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "implant in applicator",
+  "route": "intravitreal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXAMETHASONE 0.7  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AD03",
+      "name": "DEXAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEXAMETHASONE 2MG 50TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "APPLICATOR STAINLESS STEEL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1929",
+        "yarpa": "7105",
+        "pharmasoft": "4094",
+        "barcode": "7290104780011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 119.8452,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 149.8065,
+        "maxPriceWithVAT": 176.77167
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:52:33.283629"
+  }
+}

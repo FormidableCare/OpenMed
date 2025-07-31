@@ -1,0 +1,64 @@
+{
+  "catalogId": "33de5d58-61eb-43ea-aa57-63e06d4ec6f8",
+  "name": "AVODART",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 27 30679 01",
+  "treatmentDescriptions": "Avodart is indicated for : Treatment of moderate to severe symptoms of benign prostatic hyperplasia (BPH).Reduction in the risk of acute urinary retention (AUR) and surgery in patients with moderate to severe symptoms of BPH.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, soft",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DUTASTERIDE 0.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CB02",
+      "name": "DUTASTERIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AVODART 0.5MG 30CAPS",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4646",
+        "yarpa": "58281",
+        "pharmasoft": "1891"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 84.3933,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 113.5089885,
+        "maxPriceWithVAT": 133.9406064
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:32:21.419581"
+  }
+}

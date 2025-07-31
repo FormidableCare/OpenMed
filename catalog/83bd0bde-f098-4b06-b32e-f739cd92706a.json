@@ -1,0 +1,63 @@
+{
+  "catalogId": "83bd0bde-f098-4b06-b32e-f739cd92706a",
+  "name": "ENDARI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 80 35650 00",
+  "treatmentDescriptions": "ENDARI is an amino acid indicated to reduce the acute complications of sickle cell disease in adult and pediatric patients 5 years of age and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLUTAMINE/SACHET",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05BA01",
+      "name": "AMINO ACIDS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENDARI 5 G/SACHET 60 PACKETS",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PACKETS PAPER/FOIL/PLASTIC LAMINATE ",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8651",
+        "barcode": "7290014573277"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:21:04.080841"
+  }
+}

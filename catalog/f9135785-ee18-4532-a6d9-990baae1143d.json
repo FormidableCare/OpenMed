@@ -1,0 +1,63 @@
+{
+  "catalogId": "f9135785-ee18-4532-a6d9-990baae1143d",
+  "name": "LINEZO - AVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 94 35977 00",
+  "treatmentDescriptions": "Therapy is indicated only when an organism resistant to all other antibiotics is suspected.Linezo-Avenir  is indicated in adult and pediatric patients for the treatment of infections when known or suspected to be caused by susceptible organisms including those associated with concurrent bacteraemia such as:1) Pneumonia - community acquired and nosocomial pneumonia including multi drug resistant streptococcus pneumonia (MDRSP). 2) Skin and soft tissue infections including diabetic foot infections. 3) Enterococcal infections. Combination therapy may be indicated if a concomitant Gram negative pathogen is documented or suspected.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LINEZOLID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01XX08",
+      "name": "LINEZOLID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LINEZO - AVENIR 600 mg 10 tabs",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9086",
+        "yarpa": "81404"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 675.6891555,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 793.9347577,
+        "maxPriceWithVAT": 936.8429725
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:47:27.523187"
+  }
+}

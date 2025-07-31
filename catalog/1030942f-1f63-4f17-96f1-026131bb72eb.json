@@ -1,0 +1,64 @@
+{
+  "catalogId": "1030942f-1f63-4f17-96f1-026131bb72eb",
+  "name": "ATACAND ® 16 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "109 10 29185 00",
+  "treatmentDescriptions": "Hypertension. Treatment of patients with heart failure and impaired left ventricle systolic function ( left ventricular ejection fraction < or = 40 % ) as add-on therapy to ACE inhibitors or when ACE inhibitors are not tolerated.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CANDESARTAN CILEXETIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09CA06",
+      "name": "CANDESARTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ATACAND 8MG 28TAB",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6430",
+        "yarpa": "80922",
+        "pharmasoft": "9320"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.8588,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.356556,
+        "maxPriceWithVAT": 24.02073608
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:28:51.604863"
+  }
+}

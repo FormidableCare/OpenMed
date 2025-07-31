@@ -1,0 +1,64 @@
+{
+  "catalogId": "436d1dcf-ea1c-45a5-b433-fd4d6540187d",
+  "name": "CIPRALEX 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 01 30558 00",
+  "treatmentDescriptions": "Treatment of depression and panic disorder.   Treatment of generalized anxiety disorder (GAD)  treatment of social anxiety disorder (social phobia).   Treatment of obsessive - compulsive disorder.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESCITALOPRAM AS OXALATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB10",
+      "name": "ESCITALOPRAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CIPRALEX 20MG 28TAB",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6152",
+        "yarpa": "87703",
+        "pharmasoft": "3930"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 34.6182,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 47.426934,
+        "maxPriceWithVAT": 55.96378212
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:15:49.949324"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "bb0cdf9e-b365-4ff5-b023-d2e5ed56694c",
+  "name": "LATANO-AVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 66 34068 00",
+  "treatmentDescriptions": "Reduction of elevated intraocular pressure as a first line treatment in patients with open-angle galucoma and ocular hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LATANOPROST 0.05 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EE01",
+      "name": "LATANOPROST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LATANO-AVENIR 0.05 MG/ML   2.5ML  VIAL",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.5,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL PLASTIC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8277",
+        "yarpa": "37852",
+        "barcode": "7290010286461"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.8215,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.265455,
+        "maxPriceWithVAT": 36.8932369
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:36:41.106364"
+  }
+}

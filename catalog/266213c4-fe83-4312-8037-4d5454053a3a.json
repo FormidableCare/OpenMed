@@ -1,0 +1,64 @@
+{
+  "catalogId": "266213c4-fe83-4312-8037-4d5454053a3a",
+  "name": "ARESTIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 92 31853 00",
+  "treatmentDescriptions": "Arestin is indicated as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis. Arestin may be used as part of a periodontal maintenance program which includes good oral hygiene, and scaling and root planing.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder soluble",
+  "route": "subgingival",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MINOCYCLINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01AA08",
+      "name": "MINOCYCLINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MINOCYCLIN 100MG 10CAP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2860",
+        "yarpa": "8962",
+        "pharmasoft": "13046"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.5623,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.580351,
+        "maxPriceWithVAT": 21.92481418
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:26:21.894836"
+  }
+}

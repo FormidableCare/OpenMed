@@ -1,0 +1,65 @@
+{
+  "catalogId": "48a0fa88-f3c9-4c5c-9a2b-f26bb0927744",
+  "name": "ABITREXATE TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "048 96 23819 05",
+  "treatmentDescriptions": "Antineoplastic chemotherapy: treatment of gestational choriocarcinoma, chorioadenoma destruents and hydatidiform mole. Palliation of acute lymphocytic leukemia. Abitrexate is also indicated in the treatment and prophylaxis of meningeal leukemia. Greatest effect has been observed in palliation of acute lymphoblastic (stem cell) leukemias in children. In combination with other anticancer agents, Abitrexate may be used for the induction of remission, but is most commonly used in maintenance of induced remissions. Abitrexate may be used alone or in combination with other antineoplastics in the management of breast cancer, epidermoid cancers of the head and neck, lung cancer (particularly squamous cell and small cell types), bladder cancer and osteogenic cancer. Abitrexate is effective in the treatment of the advanced stages (III and IV Peter's Staging System) of lymphosarcoma, particularly in children, and in advanced cases of mycosis fungoides. Psoriasis: because of the high risk attending its use, Abitrexate is indicated only in the symptomatic control of severe recalcitrant, disabling psoriasis  which is not adequately responsive to other forms of therapy, and only when the diagnosis has been established, as by biopsy and/or after dermatological consultation. Rheumatoid Arthritis: Abitrexate can be used in the treatment of selected adults with severe rheumatoid arthritis, only when the diagnosis has been well estabished according to rheumatological standards, with inadequate response to other forms of antirheumatic therapy, including full dose NSAIDs and usually a trial of at least one or more disease-modifying antirheumatic drugs.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v, intrathecal, intra-arterial, intra ventricular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHOTREXATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BA01",
+      "name": "METHOTREXATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABITREXATE TEVA 50MG/2 ML 1VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8843",
+        "yarpa": "28807",
+        "pharmasoft": "1935",
+        "barcode": "7290000850627"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.37107513,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 37.49837293,
+        "maxPriceWithVAT": 44.24807809
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:10:53.068959"
+  }
+}

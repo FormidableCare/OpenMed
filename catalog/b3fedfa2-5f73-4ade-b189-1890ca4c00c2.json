@@ -1,0 +1,63 @@
+{
+  "catalogId": "b3fedfa2-5f73-4ade-b189-1890ca4c00c2",
+  "name": "ROPIAVENIR 2 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "179 58 38443 99",
+  "treatmentDescriptions": "ROPIAVENIR 2 MG/ML is indicated for:Acute pain management :In adults and adolescents above 12 years of age for:- Continuous epidural infusion or intermittent bolus administration during postoperative or labour pain- Field blocks- Peripheral nerve block via a continuous infusion or intermittent bolus injections, e.g. postoperative pain management",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "perineural, epidural",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ROPIVACAINE HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB09",
+      "name": "ROPIVACAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROPIVACAIN  2MG/ML  200ML  5 BAG",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8275",
+        "yarpa": "42033"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 285.6033,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 335.5838775,
+        "maxPriceWithVAT": 395.9889755
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:48:34.194008"
+  }
+}

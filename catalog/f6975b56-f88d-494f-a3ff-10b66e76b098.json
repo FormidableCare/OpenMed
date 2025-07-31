@@ -1,0 +1,65 @@
+{
+  "catalogId": "f6975b56-f88d-494f-a3ff-10b66e76b098",
+  "name": "KANUMA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 74 34903 00",
+  "treatmentDescriptions": "KANUMA is indicated for long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEBELIPASE ALFA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB14",
+      "name": "SEBELIPASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KANUMA 2MG/ML VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 10 ML GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8012",
+        "yarpa": "62010",
+        "pharmasoft": "11270",
+        "barcode": "7290111097362"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27183.81916,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 29902.20108,
+        "maxPriceWithVAT": 35284.5957
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:23:16.374435"
+  }
+}

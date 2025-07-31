@@ -1,0 +1,65 @@
+{
+  "catalogId": "bd3aee83-d5ee-404a-89c3-271ea495d69a",
+  "name": "MYFORTIC 180 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 30 30715 01",
+  "treatmentDescriptions": "Myfortic is indicated in combination with ciclosporin and corticosteroids for the prophylaxis of acute transplant rejection in adult patients receiving allogeneic renal transplants.",
+  "termsOfIssue": "Prescription required",
+  "form": "gastro resistant tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MYCOPHENOLIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA06",
+      "name": "MYCOPHENOLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYFORTIC 360MG 120TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/ALUMINIUM/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4699",
+        "yarpa": "59276",
+        "pharmasoft": "13508",
+        "barcode": "7290100419984"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 621.4844416,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 730.2442189,
+        "maxPriceWithVAT": 861.6881783
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:38:05.137632"
+  }
+}

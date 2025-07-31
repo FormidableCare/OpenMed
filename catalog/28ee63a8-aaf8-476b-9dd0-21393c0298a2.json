@@ -1,0 +1,65 @@
+{
+  "catalogId": "28ee63a8-aaf8-476b-9dd0-21393c0298a2",
+  "name": "MENACTRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 59 33384 00",
+  "treatmentDescriptions": "Active immunization of individuals 9 months through 55 years of age for the prevention of invasive meningococcal disease caused by N meningitidis serogroups A, C, Y, and W-135 Menactra vaccine does not prevent N meningitidis serogroup B disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MENINGOCOCCAL VACCINES GROUP C/ 0.5  ML, MENINGOCOCCAL VACCINES GROUP Y/ 0.5  ML, MENINGOCOCCAL VACCINES GROUP W/ 0.5  ML, MENINGOCOCCAL VACCINES GROUP A/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07AH02",
+      "name": "OTHER MENINGOCOCCAL MONOVALENT PURIFIED POLYSACCHARIDES ANTIGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MENACTRA VIAL 4MCG/0.5ML",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7485",
+        "yarpa": "69341",
+        "pharmasoft": "13776",
+        "barcode": "7290101535713"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:11:04.183139"
+  }
+}

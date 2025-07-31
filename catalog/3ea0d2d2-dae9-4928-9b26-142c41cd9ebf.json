@@ -1,0 +1,65 @@
+{
+  "catalogId": "3ea0d2d2-dae9-4928-9b26-142c41cd9ebf",
+  "name": "ENTRESTO 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 98 34485 00",
+  "treatmentDescriptions": "Entresto is indicated for the treatment of heart failure (NYHA class II-IV) in patients with systolic dysfunction. Entresto has been shown to reduce the rate of cardiovascular death and heart failure hospitalisation compared to angiotensin converting enzyme (ACE) inhibitor therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SACUBITRIL/VALSARTAN AS SODIUM SALT COMPLEX 49/51  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09DX04",
+      "name": "VALSARTAN AND SACUBITRIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENTRESTO 200 MG 56F.C.TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7792",
+        "yarpa": "32621",
+        "pharmasoft": "5599",
+        "barcode": "290014257498"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 413.966062,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 486.4101228,
+        "maxPriceWithVAT": 573.9639449
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:24:24.990522"
+  }
+}

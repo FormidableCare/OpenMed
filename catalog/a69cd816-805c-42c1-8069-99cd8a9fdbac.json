@@ -1,0 +1,65 @@
+{
+  "catalogId": "a69cd816-805c-42c1-8069-99cd8a9fdbac",
+  "name": "BENDAMUSTINE MEDAC 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 73 35386 00",
+  "treatmentDescriptions": "First-line treatment of chronic lymphocytic leukaemia (Binet stage B or C) in patients for whom fludarabine combination chemotherapy is not appropriate.Indolent non-Hodgkin’s lymphomas as monotherapy in patients, who have progressed during or within 6 months following treatment with rituximab or a rituximab containing regimen. Follicular non-Hodgkin’s lymphoma as first line treatment in combination with rituximab.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENDAMUSTINE  HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AA09",
+      "name": "BENDAMUSTINE "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BENDAMUSTINE MEDAC 25 MG 1 VIAL",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8661",
+        "yarpa": "28455",
+        "pharmasoft": "2779",
+        "barcode": "7290100819029"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 93.65292,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 125.9631774,
+        "maxPriceWithVAT": 148.6365493
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:35:07.468962"
+  }
+}

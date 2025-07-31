@@ -1,0 +1,62 @@
+{
+  "catalogId": "5d2bb0f6-9c92-4afc-b935-0d4a6b75e190",
+  "name": "ABECMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 53 37039 00",
+  "treatmentDescriptions": "Abecma is indicated for the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior therapies, including an immunomodulatory agent, a proteasome inhibitor and an anti-CD38 antibody and have demonstrated disease progression on the last therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "dispersion for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IDECABTAGENE VICLEUCEL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XL07",
+      "name": "IDECABTAGENE VICLEUCEL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABECMA 1 BAG",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG ETHYLENE VINYL ACETATE (EVA)",
+      "shelfLife": "12",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9546"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1209367.955,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 1330304.751,
+        "maxPriceWithVAT": 1569759.536
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:09:37.700383"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "9a164f5b-a1d9-437c-8604-059300be90cc",
+  "name": "AMVUTTRA 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 25 37761 99",
+  "treatmentDescriptions": "Amvuttra is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VUTRISIRAN AS SODIUM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX18",
+      "name": "VUTRISIRAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMVUTTRA 25MG/0.5ML 1 PFS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9464",
+        "yarpa": "30586"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 313577.8335,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 344935.6168,
+        "maxPriceWithVAT": 407024.0098
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:18:56.701540"
+  }
+}

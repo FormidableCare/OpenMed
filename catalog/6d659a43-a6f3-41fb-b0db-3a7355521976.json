@@ -1,0 +1,65 @@
+{
+  "catalogId": "6d659a43-a6f3-41fb-b0db-3a7355521976",
+  "name": "SAFLUTAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 96 33302 01",
+  "treatmentDescriptions": "Reduction of elevated intraocular pressure in open angle glaucoma and ocular hypertension.As monotherapy in patients  • who would benefit from preservative free eye drops • insufficiently responsive to first line therapy • intolerant or contra-indicated to first line therapyAs adjunctive therapy to beta-blockers.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAFLUPROST/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EE05",
+      "name": "TAFLUPROST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SAFLUTAN 15MCG/ML OPHT SOL SINGLE DOSE 30X0.3ML",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINERS SINGLE DOSE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7010",
+        "yarpa": "36461",
+        "pharmasoft": "19990",
+        "barcode": "7290006813510"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 53.6901523,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 72.21325484,
+        "maxPriceWithVAT": 85.21163693
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:56:11.297872"
+  }
+}

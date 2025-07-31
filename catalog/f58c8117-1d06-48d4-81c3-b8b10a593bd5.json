@@ -1,0 +1,65 @@
+{
+  "catalogId": "f58c8117-1d06-48d4-81c3-b8b10a593bd5",
+  "name": "FANAPT TABLETS 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 32 33482 00",
+  "treatmentDescriptions": "FANAPT is an atypical antipsychotic agent indicated for the treatment of schizophrenia in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ILOPERIDONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX14",
+      "name": "ILOPERIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FANAPT 1MG*2TAB + 2MG*2TAB + 4MG*2TAB + 6MG*2TAB",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7252",
+        "yarpa": "53735",
+        "pharmasoft": "6536",
+        "barcode": "7290014573062"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:53:56.449998"
+  }
+}

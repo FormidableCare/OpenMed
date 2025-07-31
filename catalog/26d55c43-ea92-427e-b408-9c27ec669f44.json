@@ -1,0 +1,64 @@
+{
+  "catalogId": "26d55c43-ea92-427e-b408-9c27ec669f44",
+  "name": "ROSUVASTATIN SANDOZ 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 39 35574 00",
+  "treatmentDescriptions": "Primary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise weight reduction) is inadequate. Homozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ROSUVASTATIN AS CALCIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AA07",
+      "name": "ROSUVASTATIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROSUVASTATIN SANDOZ 40 MG 30 TAB",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8433",
+        "yarpa": "14866",
+        "pharmasoft": "18615"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 120.2565,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 150.320625,
+        "maxPriceWithVAT": 177.3783375
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:51:21.308989"
+  }
+}

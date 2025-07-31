@@ -1,0 +1,65 @@
+{
+  "catalogId": "63a2f527-7f89-42ff-a6ed-387c9eecec50",
+  "name": "DESOREN EAR DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "060 83 27506 00",
+  "treatmentDescriptions": "For the treatment of superficial bacterial infections of the external auditory canal, caused by organisms susceptible to the action of the antibiotics",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POLYMYXIN B SULFATE/ML, DEXAMETHASONE AS SODIUM PHOSPHATE/ML, NEOMYCIN AS SULFATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S02CA06",
+      "name": "DEXAMETHASONE AND ANTIINFECTIVES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DESOREN EAR DRPS 5ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "20",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2725",
+        "yarpa": "8829",
+        "pharmasoft": "4032",
+        "barcode": "7-290008-068376"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:51:41.239418"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "41122e09-7514-4382-a5f2-1a7bdcdd6077",
+  "name": "FLUTIFORM 125/5",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 63 33813 00",
+  "treatmentDescriptions": "The regular treatment of asthma where use of a combination product (an inhaled corticosteroid and a long -acting β2 agonist) is appropriate:• For patients not adequately controlled with inhaled corticosteroids and ‘as required’ inhaled short -acting β2 agonist.• For patients already adequately controlled on both an inhaled corticosteroid and a long-acting β2 agonist.Flutiform 125mcg/5mcg inhaler is indicated in adults and adolescents aged 12 years and above.",
+  "termsOfIssue": "Prescription required",
+  "form": "pressurised suspention for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUTICASONE PROPIONATE 0.125 MG/DOSE, FORMOTEROL FUMARATE DIHYDRATE 0.005 MG/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AD08",
+      "name": "FLUTICASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUTIFORM 125/5  INHALER 120 DOSES",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CANISTER ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7387",
+        "yarpa": "51485",
+        "pharmasoft": "6534",
+        "barcode": "7290008015967"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 107.833248,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 134.79156,
+        "maxPriceWithVAT": 159.0540337
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:14:43.675018"
+  }
+}

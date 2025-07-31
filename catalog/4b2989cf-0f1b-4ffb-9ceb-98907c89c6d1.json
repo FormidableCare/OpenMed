@@ -1,0 +1,64 @@
+{
+  "catalogId": "4b2989cf-0f1b-4ffb-9ceb-98907c89c6d1",
+  "name": "DISOTHIAZIDE 25",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "032 85 21827 00",
+  "treatmentDescriptions": "Diuretic to treat hypertension, edema.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROCHLOROTHIAZIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C03AA03",
+      "name": "HYDROCHLOROTHIAZIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DISOTHIAZIDE 25MG 30TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4620",
+        "yarpa": "56306",
+        "pharmasoft": "4344"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.545,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 10.33665,
+        "maxPriceWithVAT": 12.197247
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:00:25.645662"
+  }
+}

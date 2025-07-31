@@ -1,0 +1,64 @@
+{
+  "catalogId": "0a794244-a00d-44dd-8965-74f2e900217b",
+  "name": "ONCASPAR 750 U/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 21 36198 00",
+  "treatmentDescriptions": "Oncaspar is indicated as a component of antineoplastic combination therapy in acute lymphoblastic leukaemia (ALL) in paediatric patients from birth to 18 years, and adult patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PEGASPARGASE 3750 U/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX24",
+      "name": "PEGASPARGASE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ONCASPAR 750 U/ML 1 VIAL 5 ML",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8866",
+        "yarpa": "86966",
+        "barcode": "7290100819036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6032.661481,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6635.927629,
+        "maxPriceWithVAT": 7830.394254
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:11:29.568085"
+  }
+}

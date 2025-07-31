@@ -1,0 +1,65 @@
+{
+  "catalogId": "34946b3a-9255-43aa-a7b1-84ab1fc13ce9",
+  "name": "RITALIN ® LA 10 MG MODIFIED-RELEASE CAPSULES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 50 33288 01",
+  "treatmentDescriptions": "Attention Deficit Hyperactivity Disorder (ADHD) .",
+  "termsOfIssue": "Prescription required",
+  "form": "modified release capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHYLPHENIDATE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA04",
+      "name": "METHYLPHENIDATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RITALIN LA 40MG 30CAPS",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4755",
+        "yarpa": "61783",
+        "pharmasoft": "18326",
+        "barcode": "7290003257192"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 108.4660303,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 135.5825378,
+        "maxPriceWithVAT": 159.9873946
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:41:30.237220"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "23813908-d3b8-421f-96c1-1eb1af8fc7b0",
+  "name": "OCREVUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 11 34981 00",
+  "treatmentDescriptions": "OCREVUS is indicated for the treatment of adult patients with relapsing or primary progressive forms of multiple sclerosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OCRELIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA36",
+      "name": "OCRELIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCREVUS 300MG/10ML 1VIAL 15ML",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8347",
+        "yarpa": "55497",
+        "barcode": "7290014774056"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18855.66625,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 20741.23288,
+        "maxPriceWithVAT": 24474.65371
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:00:13.830285"
+  }
+}

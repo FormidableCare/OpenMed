@@ -1,0 +1,65 @@
+{
+  "catalogId": "ed850df0-1a57-40d7-ba00-2954111ec93f",
+  "name": "SKYRIZI 360 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 09 37477 00",
+  "treatmentDescriptions": "Crohn's disease Skyrizi is indicated for the treatment of patients 16 years and older with moderately to severely active Crohn's disease who have had an inadequate response to, lost response to, or were intolerant to conventional therapy or a biologic therapy, or if such therapies are not advisable.Ulcerative colitisSkyrizi is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response, lost response, or were intolerant to either conventional therapy, or a biological therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RISANKIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC18",
+      "name": "RISANKIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SKYRIZI 360 MG",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9315",
+        "yarpa": "31579",
+        "pharmasoft": "23146",
+        "barcode": "300741070011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8965.456185,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9862.001804,
+        "maxPriceWithVAT": 11637.16161
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:21:39.026226"
+  }
+}

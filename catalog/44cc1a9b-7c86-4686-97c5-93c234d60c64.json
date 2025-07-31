@@ -1,0 +1,65 @@
+{
+  "catalogId": "44cc1a9b-7c86-4686-97c5-93c234d60c64",
+  "name": "DIANE ® 35",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "034 03 25085 00",
+  "treatmentDescriptions": "Treatment of moderate to severe acne related to androgen-sensitivity (with or without seborrhoea) and/or hirsutism, in women of reproductive age.  For the treatment of acne, Diane-35 should only be used after topical therapy or systemic antibiotic treatments have failed.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL, CYPROTERONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03HB01",
+      "name": "CYPROTERONE AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DIANE 21TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "46",
+        "yarpa": "674",
+        "pharmasoft": "4105",
+        "barcode": "7298074040036"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.694,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.76078,
+        "maxPriceWithVAT": 22.1377204
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:54:25.837552"
+  }
+}

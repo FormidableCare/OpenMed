@@ -1,0 +1,64 @@
+{
+  "catalogId": "ac9f6ad6-fd4b-4740-a67b-e1c1d47ecae5",
+  "name": "ASSIVAL 5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "014 61 24381 03",
+  "treatmentDescriptions": "Tension, anxiety, agitation due to acute alcohol withdrawal, adjunct for the relief of skeletal muscle spasm, convulsive disorders.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIAZEPAM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05BA01",
+      "name": "DIAZEPAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ASSIVAL 5MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1469",
+        "yarpa": "20756",
+        "pharmasoft": "1823"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.6,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.522,
+        "maxPriceWithVAT": 17.13596
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:28:36.718383"
+  }
+}

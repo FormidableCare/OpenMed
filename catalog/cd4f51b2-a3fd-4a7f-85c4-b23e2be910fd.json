@@ -1,0 +1,63 @@
+{
+  "catalogId": "cd4f51b2-a3fd-4a7f-85c4-b23e2be910fd",
+  "name": "ABIRATERONE MEDOMIE 250 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 35 37168 99",
+  "treatmentDescriptions": "a CYP17 inhibitor indicated:- in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer.- for the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT)",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABIRATERONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BX03",
+      "name": "ABIRATERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABIRATERONE MEDOMIE 250 MG 120 TAB",
+      "manufacturer": {
+        "name": "מדומי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9410",
+        "yarpa": "16192"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13221.014,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 14543.1154,
+        "maxPriceWithVAT": 17160.87617
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:10:16.288342"
+  }
+}

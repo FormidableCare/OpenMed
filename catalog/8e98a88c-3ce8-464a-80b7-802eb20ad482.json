@@ -1,0 +1,62 @@
+{
+  "catalogId": "8e98a88c-3ce8-464a-80b7-802eb20ad482",
+  "name": "IRINOTECAN VENUS 20 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 15 37137 99",
+  "treatmentDescriptions": "IRINOTECAN VENUS 20 MG/ML is indicated for the treatments of patients with metastatic colorectal cancer:- In combination with 5-fluorouracil and folinic acid in patient without prior chemotherapy for metastatic disease.- As a single agent in patients who have failed an established 5-fluorouracil treatment regimen.- For the treatment of patients with small cell lung cancer.- For the treatment of patients with gastric cancer.- Irinotecan in combination with leucovorin, Oxaliplatin and 5- fluorouracil, for the first line treatment of patients with metastatic pancreatic adenocarcinoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IRINOTECAN HYDROCHLORIDE TRIHYDRATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX19",
+      "name": "IRINOTECAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IRINOTECAN VENUS 20 MG/ML 2ML",
+      "manufacturer": {
+        "name": "טרוסטפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9510"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 52.64454915,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 70.80691861,
+        "maxPriceWithVAT": 83.55216024
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:12:43.799096"
+  }
+}

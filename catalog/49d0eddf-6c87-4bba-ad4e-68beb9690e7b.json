@@ -1,0 +1,64 @@
+{
+  "catalogId": "49d0eddf-6c87-4bba-ad4e-68beb9690e7b",
+  "name": "OFLODEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 99 30179 00",
+  "treatmentDescriptions": "Ofloxacin is indicated in adults for the treatment of the following bacterial infections: - acute pyelonephritis and complicated infections of the urinary tract - bacterial prostatitis, epididymo-orchitis including cases due to susceptible Neisseria gonorrhoeae- gonococcal urethritis and cervicitis due to susceptible Neisseria gonorrhoeae - pelvic inflammatory disease, in combination with other antibacterial agents.- Chronic bacterial sinusitis- Chronic suppurative otitis mediaIn the infections below, Ofloxacin should be used only when it is considered inappropriate to use other antibacterial agents that are commonly recommended for the treatment of these infections. -Uncomplicated acute cystitis - Urethritis - Bone and joint infections - Complicated skin and soft-tissue infections - Acute bacterial sinusitis - Acute exacerbation of chronic obstructive pulmonary disease including bronchitis - Community-acquired pneumonia - Prophylaxis of bacterial infections in neutropenic patientsOfloxacin is not effective against Treponema pallidum.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OFLOXACIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01MA01",
+      "name": "OFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OFLODEX 200MG 20TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4398",
+        "yarpa": "3658",
+        "pharmasoft": "15123"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 42.6698,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 57.390881,
+        "maxPriceWithVAT": 67.72123958
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:04:12.041777"
+  }
+}

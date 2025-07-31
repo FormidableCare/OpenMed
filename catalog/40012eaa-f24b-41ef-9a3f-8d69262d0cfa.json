@@ -1,0 +1,63 @@
+{
+  "catalogId": "40012eaa-f24b-41ef-9a3f-8d69262d0cfa",
+  "name": "EMFOVIR S.K. 200/245 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 62 36385 00",
+  "treatmentDescriptions": "Emfovir S.K. 200/245 mg is indicated in combination with other anti-retroviral medicinal products for the treatment of HIV-1 infected adults over 18 years of age. Emfovir S.K. 200/245 mg is indicated in combination with safer sex practices for pre-exposure prophylaxis to reduce the risk of sexually acquired HIV-1 infection in adults at high risk",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR DISOPROXIL AS FUMARATE, EMTRICITABINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR03",
+      "name": "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EMFOVIR S.K. 200/245 MG 30 TAB",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9439",
+        "yarpa": "17327"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1589.0832,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1867.17276,
+        "maxPriceWithVAT": 2203.263857
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:18:07.525298"
+  }
+}

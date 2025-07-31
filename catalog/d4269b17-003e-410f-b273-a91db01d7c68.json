@@ -1,0 +1,64 @@
+{
+  "catalogId": "d4269b17-003e-410f-b273-a91db01d7c68",
+  "name": "GRANUPAS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 83 34974 00",
+  "treatmentDescriptions": "GRANUPAS is indicated for use as part of an appropriate combination regimen for multi-drug resistant tuberculosis in adults and paediatric patients from 28 days of age and older when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability.",
+  "termsOfIssue": "Prescription required",
+  "form": "gastro resistant granules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "4 - AMINOSALICYLIC ACID/SACHET",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J04AA01",
+      "name": "4-AMINOSALICYLIC ACID "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GRANUPAS 30 SACHETS",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET POLYETHYLENE/ALUMINIUM/LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7982",
+        "yarpa": "20106",
+        "pharmasoft": "7949"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1749.341881,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2055.47671,
+        "maxPriceWithVAT": 2425.46241
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:39:11.887011"
+  }
+}

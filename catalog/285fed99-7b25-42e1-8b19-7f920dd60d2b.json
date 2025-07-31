@@ -1,0 +1,65 @@
+{
+  "catalogId": "285fed99-7b25-42e1-8b19-7f920dd60d2b",
+  "name": "FENTADOL 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 87 34320 00",
+  "treatmentDescriptions": "Management of chronic pain and intractable pain requiring opioid analgesia.Fentadol should only be used in patients who are already receiving opioid therapy, who have demonstrated opioid tolerance.",
+  "termsOfIssue": "Prescription required",
+  "form": "patches",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL 16.8 MG/PATCH",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AB03",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FENTADOL 75 5 PATCHES",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET PAPER/PE/ALU/PE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7891",
+        "yarpa": "59914",
+        "pharmasoft": "166029",
+        "barcode": "7290017585710"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 143.5894,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 179.48675,
+        "maxPriceWithVAT": 211.794365
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:59:25.438525"
+  }
+}

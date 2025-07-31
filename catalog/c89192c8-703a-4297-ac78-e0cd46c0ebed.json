@@ -1,0 +1,65 @@
+{
+  "catalogId": "c89192c8-703a-4297-ac78-e0cd46c0ebed",
+  "name": "RIBONE 150",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 68 33575 01",
+  "treatmentDescriptions": "Treatment of postmenopausal osteoporosis.Prevention of postmenopausal osteoporosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RISEDRONIC ACID AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BA07",
+      "name": "RISEDRONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIBONE 35MG 4TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6783",
+        "yarpa": "31859",
+        "pharmasoft": "18460",
+        "barcode": "7290008546591"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.8812,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 54.985214,
+        "maxPriceWithVAT": 64.88255252
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:35:01.708198"
+  }
+}

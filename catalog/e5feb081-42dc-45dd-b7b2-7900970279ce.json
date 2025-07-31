@@ -1,0 +1,65 @@
+{
+  "catalogId": "e5feb081-42dc-45dd-b7b2-7900970279ce",
+  "name": "FOSCAVIR 24 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "068 16 28118 02",
+  "treatmentDescriptions": "Treatment of CMV retinitis in patients with aquired immunodeficiency syndrome (AIDS).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOSCARNET TRISODIUM HEXAHYDRATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AD01",
+      "name": "FOSCARNET"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FOSCAVIR 24MG/ML 250ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6786",
+        "yarpa": "83426",
+        "pharmasoft": "6498",
+        "barcode": "506022922011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 407.9208975,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 479.3070545,
+        "maxPriceWithVAT": 565.5822992
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:18:02.669341"
+  }
+}

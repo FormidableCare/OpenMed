@@ -1,0 +1,64 @@
+{
+  "catalogId": "47f25da1-98cb-4894-a4fe-5166542ed083",
+  "name": "EUCREAS 50/1000 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 90 33627 01",
+  "treatmentDescriptions": "Eucreas is indicated in the treatment of type 2 diabetes mellitus:- Eucreas is indicated in the treatment of adult patients who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone or who are already treated with the combination of vildagliptin and metformin as separate tablets.- Eucreas is indicated in combination with a sulphonylurea (i.e. triple combination therapy) as an adjunct to diet and exercise in adult patients inadequately controlled with metformin and a sulphonylurea.- Eucreas is indicated in triple combination therapy with insulin as an adjunct to diet and exercise to improve glycaemic control in adult patients when insulin at a stable dose and metformin alone do not provide adequate glycaemic control.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METFORMIN HYDROCHLORIDE, VILDAGLIPTIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BA02",
+      "name": "METFORMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EUCREAS 50/1000MG 60 FC TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7199",
+        "yarpa": "34570",
+        "pharmasoft": "5536"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 57.6634476,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 77.55733702,
+        "maxPriceWithVAT": 91.51765362
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:42:57.425432"
+  }
+}

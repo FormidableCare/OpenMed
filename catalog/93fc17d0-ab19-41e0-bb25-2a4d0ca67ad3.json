@@ -1,0 +1,64 @@
+{
+  "catalogId": "93fc17d0-ab19-41e0-bb25-2a4d0ca67ad3",
+  "name": "ENDOMETRIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 08 29832 00",
+  "treatmentDescriptions": "Progesterone supplementation or replacement in cases such as treatment of infertile women and IVF.",
+  "termsOfIssue": "Prescription required",
+  "form": "vaginal tablets",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROGESTERONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03DA04",
+      "name": "PROGESTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENDOMETRIN 100MG 30 VAG.TAB",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6395",
+        "yarpa": "52175",
+        "pharmasoft": "5016"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 159.6307746,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 199.5384683,
+        "maxPriceWithVAT": 235.4553821
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:21:14.529106"
+  }
+}

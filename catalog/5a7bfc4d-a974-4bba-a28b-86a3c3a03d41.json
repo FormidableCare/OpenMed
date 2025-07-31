@@ -1,0 +1,64 @@
+{
+  "catalogId": "5a7bfc4d-a974-4bba-a28b-86a3c3a03d41",
+  "name": "SATIVEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 48 33290 00",
+  "treatmentDescriptions": "Sativex is indicated, as add-on treatment, for symptom relief in patients with moderate to severe spasticity due to multiple sclerosis (MS) who have not responded adequately to other medication and who demonstrate at least 20 % improvement in spasticity related symptoms during a four week trial of therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "oromucosal spray",
+  "route": "oral transmucosal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CANNABIDIOL DRUG SUBSTANCE ( CBD BDS )/, DELTA-9-TETRAHYDROCANNABINOL DRUG SUBSTANCE  ( THC BDS )/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BG10",
+      "name": "NABIXIMOLS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SATIVEX 3X10ML OROMUCOSAL SPRAY",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL AMBER GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7230",
+        "yarpa": "31035",
+        "pharmasoft": "19970"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1315.250546,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1545.419391,
+        "maxPriceWithVAT": 1823.594801
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:01:11.338518"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "6e3a86ad-3c00-42b0-85bc-2ba4f1ec0631",
+  "name": "SEROQUEL 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "109 40 29314 00",
+  "treatmentDescriptions": "Indicated for the treatment of schizophrenia.   Treatment of manic episodes associated with bipolar disorder. Treatment of major depressive episodes in bipolar disorders.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "QUETIAPINE AS FUMARATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AH04",
+      "name": "QUETIAPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEROQUEL 25MG 30TAB",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4131",
+        "yarpa": "25350",
+        "pharmasoft": "19418"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.5564,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.422268,
+        "maxPriceWithVAT": 29.99827624
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:06:44.151107"
+  }
+}

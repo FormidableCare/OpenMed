@@ -1,0 +1,65 @@
+{
+  "catalogId": "826ae501-09fd-444f-ac4f-778c1e6c52d0",
+  "name": "HARMONET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 88 30272 00",
+  "treatmentDescriptions": "Contraceptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 0.020   MG, GESTODENE 0.075   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AA10",
+      "name": "GESTODENE AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HARMONET 21TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4086",
+        "yarpa": "29925",
+        "pharmasoft": "8032",
+        "barcode": "7290008142908"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.2437,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.513869,
+        "maxPriceWithVAT": 23.02636542
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:42:57.063143"
+  }
+}

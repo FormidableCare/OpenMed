@@ -1,0 +1,63 @@
+{
+  "catalogId": "7d1ce296-9fdd-444d-b296-24b9f3a75c9e",
+  "name": "LISSIN 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 71 37820 99",
+  "treatmentDescriptions": "Lissin is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients ages 6 years and above.Lissin is indicated for the treatment of Moderate to Severe Binge Eating Disorder (BED) for patients over 18 years.Limitation of Use:Lissin is not indicated or recommended for weight loss. Use of other sympathomimetic drugs for weight loss has been associated with serious cardiovascular adverse events. The safety and effectiveness of Lissin for the treatment of obesity have not been established.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LISDEXAMFETAMINE DIMESYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA12",
+      "name": "LISDEXAMFETAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LISSIN 70 MG 30 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9530",
+        "yarpa": "37695"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 277.921503,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 326.557766,
+        "maxPriceWithVAT": 385.3381468
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:49:45.890105"
+  }
+}

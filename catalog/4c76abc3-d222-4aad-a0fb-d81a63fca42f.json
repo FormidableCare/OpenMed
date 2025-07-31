@@ -1,0 +1,63 @@
+{
+  "catalogId": "4c76abc3-d222-4aad-a0fb-d81a63fca42f",
+  "name": "BIKTARVY 30/120/15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "178 43 38033 99",
+  "treatmentDescriptions": "Biktarvy 30/120/15 mg is indicated for the treatment of human immunodeficiency virus-1 (HIV-1) infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg without present or past evidence of viral resistance to the integrase inhibitor class, emtricitabine or tenofovir",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR ALAFENAMIDE AS FUMARATE, EMTRICITABINE, BICTEGRAVIR AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR20",
+      "name": "EMTRICITABINE, TENOFOVIR ALAFENAMIDE AND BICTEGRAVIR "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BIKTARVY 30 TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8287",
+        "yarpa": "25132"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2541.150351,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2795.265386,
+        "maxPriceWithVAT": 3298.413009
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:38:47.385254"
+  }
+}

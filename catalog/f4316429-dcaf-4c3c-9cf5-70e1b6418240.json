@@ -1,0 +1,65 @@
+{
+  "catalogId": "f4316429-dcaf-4c3c-9cf5-70e1b6418240",
+  "name": "HUMALOG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "102 83 28580 00",
+  "treatmentDescriptions": "Humalog is indicated for the treatment of adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis. Humalog is also indicated for the initial stabilization of diabetes mellitus.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c, i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INSULIN LISPRO 100 U/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AB04",
+      "name": "INSULIN LISPRO"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HUMALOG VIALS 10ML",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3323",
+        "yarpa": "69988",
+        "pharmasoft": "9239",
+        "barcode": "7290008067676"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 66.3914025,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 89.29643636,
+        "maxPriceWithVAT": 105.3697902
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:49:18.712770"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "catalogId": "0ff85eb0-9aff-4a06-85bd-1feb027cbdd2",
+  "name": "OMRI-HEP-B 5 % IV",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 31 30076 00",
+  "treatmentDescriptions": "Passive immunization for the prevention of Hepatitis B virus re-infection after liver transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HUMAN IMMUNOGLOBULIN/",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OMRI-HEP-B VIAL 5G/100ML",
+      "manufacturer": {
+        "name": "אומריקס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE II",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7450",
+        "yarpa": "3271",
+        "pharmasoft": "53706",
+        "barcode": "7290004961800"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12641.94231,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 13906.13654,
+        "maxPriceWithVAT": 16409.24039
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:10:01.209663"
+  }
+}

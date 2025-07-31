@@ -1,0 +1,64 @@
+{
+  "catalogId": "87e6cd11-dbfb-4b63-830d-7ffbd0a0ba6b",
+  "name": "ETOPAN XL 500",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 08 30651 00",
+  "treatmentDescriptions": "For the management of signs and symptoms of osteoarthrities and rheumatoid arthritis.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETODOLAC",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AB08",
+      "name": "ETODOLAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ETOPAN 400MG 20 XL TAB",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4869",
+        "yarpa": "65843",
+        "pharmasoft": "5414"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:39:32.669787"
+  }
+}

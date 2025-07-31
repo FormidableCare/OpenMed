@@ -1,0 +1,64 @@
+{
+  "catalogId": "0bd1d736-9130-4ce9-b6cc-399e612d6785",
+  "name": "HYDROAGISTEN CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "042 82 24888 00",
+  "treatmentDescriptions": "Skin inflammation involving fungal infection",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOTRIMAZOLE, HYDROCORTISONE ACETATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AA02",
+      "name": "HYDROCORTISONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HYDROAGISTEN CR 15GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2395",
+        "yarpa": "7968",
+        "pharmasoft": "8243"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20.7967635,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 28.491566,
+        "maxPriceWithVAT": 33.62004638
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:52:41.357597"
+  }
+}

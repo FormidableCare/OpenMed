@@ -1,0 +1,63 @@
+{
+  "catalogId": "ffbdfea9-0270-4d61-8229-0dfc6e5d1ad7",
+  "name": "DASATINIB SANDOZ ® 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 10 36531 99",
+  "treatmentDescriptions": "Treatment of adult patients with :  Newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase.  Chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate.  Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DASATINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE06",
+      "name": "DASATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DASATINIB SANDOZ 140 MG 30 TAB",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9354",
+        "yarpa": "14603"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4396.968079,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4836.664887,
+        "maxPriceWithVAT": 5707.264313
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:42:48.771282"
+  }
+}

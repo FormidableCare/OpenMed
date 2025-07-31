@@ -1,0 +1,64 @@
+{
+  "catalogId": "918fd553-c947-4cd5-8d4f-2b8861122e03",
+  "name": "ELETRIPTAN - TRIMA 40 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 03 34741 00",
+  "treatmentDescriptions": "Acute treatment of the headache phase of migraine attacks, with or without aura",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELETRIPTAN AS HYDROBROMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CC06",
+      "name": "ELETRIPTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELETRIPTAN - TRIMA 40 MG 3 TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8055",
+        "yarpa": "58067",
+        "pharmasoft": "5622"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 50.9629,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 68.5451005,
+        "maxPriceWithVAT": 80.88321859
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:13:58.414376"
+  }
+}

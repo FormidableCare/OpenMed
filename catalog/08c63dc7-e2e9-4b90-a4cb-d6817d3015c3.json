@@ -1,0 +1,64 @@
+{
+  "catalogId": "08c63dc7-e2e9-4b90-a4cb-d6817d3015c3",
+  "name": "OCALIVA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 33 35218 00",
+  "treatmentDescriptions": "OCALIVA is indicated for the treatment of primary biliary cholangitis (also known as primary biliary cirrhosis) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA or as monotherapy in adults unable to tolerate UDCA.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OBETICHOLIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A05AA04",
+      "name": "OBETICHOLIC ACID "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCALIVA 5 MG 30 TAB",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8469",
+        "yarpa": "54992",
+        "pharmasoft": "15505"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10113.77806,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11125.15587,
+        "maxPriceWithVAT": 13127.68334
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:00:02.379489"
+  }
+}

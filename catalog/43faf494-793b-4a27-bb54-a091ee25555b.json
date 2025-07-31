@@ -1,0 +1,65 @@
+{
+  "catalogId": "43faf494-793b-4a27-bb54-a091ee25555b",
+  "name": "METOPIRONE 250",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "068 34 23659 01",
+  "treatmentDescriptions": "Diagnostic test for ACTH insufficiency and in the differential diagnosis of ACTH dependant Cushing’s Syndrome. For the Management of patient with endogenous Cushing’s syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METYRAPONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V04CD01",
+      "name": "METYRAPONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METOPIRONE 250MG 50CAPS",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "563",
+        "yarpa": "1324",
+        "pharmasoft": "13113",
+        "barcode": "7298087000478"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 971.813805,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1141.881221,
+        "maxPriceWithVAT": 1347.419781
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:20:44.151955"
+  }
+}

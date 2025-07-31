@@ -1,0 +1,65 @@
+{
+  "catalogId": "204c7692-24a9-4a0e-9b06-4de56729161b",
+  "name": "HYQVIA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 21 35267 00",
+  "treatmentDescriptions": "Replacement therapy in adults, children and adolescents (0-18 years) in:• Primary immunodeficiency syndromes with impaired antibody production • Hypogammaglobulinaemia and recurrent bacterial infections in patients with chronic lymphocytic leukaemia (CLL), in whom prophylactic antibiotics have failed or are contra-indicated.• Hypogammaglobulinaemia and recurrent bacterial infections in multiple myeloma (MM) patients.• Hypogammaglobulinaemia in patients pre- and post-allogeneic hematopoietic stem cell transplantation (HSCT).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HUMAN NORMAL IMMUNOGLOBULIN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HYQVIA 1vial normal 30g/300ml + 1vial recombinant 15ml",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 300.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8151",
+        "yarpa": "59755",
+        "pharmasoft": "8473",
+        "barcode": "7290018375235"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7868.617389,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8655.479128,
+        "maxPriceWithVAT": 10213.46492
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:54:04.356423"
+  }
+}

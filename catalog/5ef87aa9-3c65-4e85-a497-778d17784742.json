@@ -1,0 +1,64 @@
+{
+  "catalogId": "5ef87aa9-3c65-4e85-a497-778d17784742",
+  "name": "HEMLIBRA 150 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 19 35415 00",
+  "treatmentDescriptions": "Hemlibra is indicated for routine prophylaxis to prevent bleeding or reduce the frequency of bleeding episodes in patients with hemophilia A (congenital factor VIII deficiency) with or without factor VIII inhibitors.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EMICIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BX06",
+      "name": "EMICIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEMLIBRA 150 MG/ML (60MG/0.4ML)",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8446",
+        "yarpa": "26630",
+        "barcode": "7290014774094"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13890.1004,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 15279.11044,
+        "maxPriceWithVAT": 18029.34952
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:44:09.757179"
+  }
+}

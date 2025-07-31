@@ -1,0 +1,65 @@
+{
+  "catalogId": "674df04b-3cd3-4f64-ae6f-f668bc797d46",
+  "name": "DECITABINE S.K",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 59 36259 00",
+  "treatmentDescriptions": "Decitabine s.k.  is indicated for treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and Intermediate-1, Intermediate-2 and High-Risk International Prognostic Scoring System groups. Decitabine s.k.  is indicated for the treatment of adult patients with newly diagnosed de novo or secondary acute myeloid leukemia (AML), according to the World Health Organisation (WHO) classification, who are not candidates for standard induction chemotherapy",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DECITABINE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC08",
+      "name": "DECITABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DECITABINE S.K 50 MG/VIAL 1 VIAL 20 ML",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8735",
+        "yarpa": "59391",
+        "pharmasoft": "4712",
+        "barcode": "7290016845419"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3859.780149,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4245.758164,
+        "maxPriceWithVAT": 5009.994634
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:44:51.052757"
+  }
+}

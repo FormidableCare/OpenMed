@@ -1,0 +1,63 @@
+{
+  "catalogId": "88bf2e6f-ae29-4682-8e28-1f527786d771",
+  "name": "FULVESTRANT SANDOZ",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 58 36012 00",
+  "treatmentDescriptions": "MonotherapyFulvestrant Sandoz® is indicated for the treatment of estrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women: - Not previously treated with endocrine therapy,or - With disease relapse on or after adjuvant endocrine therapy;or - disease progression on endocrine therapyCombination Therapy Fulvestrant Sandoz® is indicated for the treatment of:- HR-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in men and postmenopausal women in combination with ribociclib as initial endocrine based therapy or following disease progression on endocrine therapy.- HR-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with palbociclib or abemaciclib in women with disease progression after endocrine therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FULVESTRANT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BA03",
+      "name": "FULVESTRANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FULVESTRANT SANDOZ 50MG/ML 5ML 2SYR",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9300",
+        "yarpa": "37780"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 702.0991288,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 824.9664764,
+        "maxPriceWithVAT": 973.4604421
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:22:12.760880"
+  }
+}

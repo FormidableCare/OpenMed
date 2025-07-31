@@ -1,0 +1,65 @@
+{
+  "catalogId": "50b87f58-fcbe-4036-b849-f5d3fb9aa5da",
+  "name": "BACTROBAN NASAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 85 26431 21",
+  "treatmentDescriptions": "The elimination of nasal carriage of staphylococci, including methycillin-resistant staphylococus aureus (MRSA).",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MUPIROCIN AS CALCIUMW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AX06",
+      "name": "MUPIROCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MUPIROCIN 2% OINT 15GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3718",
+        "yarpa": "22715",
+        "pharmasoft": "13009",
+        "barcode": "7290008102582"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.3954,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.201698,
+        "maxPriceWithVAT": 29.73800364
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:35:47.275770"
+  }
+}

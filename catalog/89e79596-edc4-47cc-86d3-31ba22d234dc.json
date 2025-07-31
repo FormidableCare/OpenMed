@@ -1,0 +1,65 @@
+{
+  "catalogId": "89e79596-edc4-47cc-86d3-31ba22d234dc",
+  "name": "FENISTIL DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "034 23 22255 00",
+  "treatmentDescriptions": "Antipruritic, antihistaminic and antiallergic.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIMETINDENE MALEATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AB03",
+      "name": "DIMETINDENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FENISTIL DROPS 20ML",
+      "manufacturer": {
+        "name": "ג.ס.ק קונסיומר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2469",
+        "yarpa": "8387",
+        "pharmasoft": "6322",
+        "barcode": "7298120000274"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.18501973,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.69347703,
+        "maxPriceWithVAT": 19.6983029
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:57:22.458868"
+  }
+}

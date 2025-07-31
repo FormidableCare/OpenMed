@@ -1,0 +1,64 @@
+{
+  "catalogId": "853c018d-7c87-4c12-8d21-8130e3173380",
+  "name": "AZENIL 200 MG/5 ML SUSPENSION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 26 29828 00",
+  "treatmentDescriptions": "Infections caused by susceptible organisms in lower respiratory tract including bronchitis and pneumonia, skin and soft tissue infections, otitis media, upper respiratory tract infections including sinusitis and pharyngitis, tonsilitis, also in the treatment of uncomplicated genital infections due to chlamydia trachomatis.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZITHROMYCIN AS DIHYDRATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01FA10",
+      "name": "AZITHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AZENIL 200MG 15ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3091",
+        "yarpa": "9137",
+        "pharmasoft": "1073"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.8513,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.346281,
+        "maxPriceWithVAT": 24.00861158
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:32:44.744402"
+  }
+}

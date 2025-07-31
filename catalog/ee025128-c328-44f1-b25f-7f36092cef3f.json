@@ -1,0 +1,63 @@
+{
+  "catalogId": "ee025128-c328-44f1-b25f-7f36092cef3f",
+  "name": "KOATE DVI 1000",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 90 29931 00",
+  "treatmentDescriptions": "For the treatment of classical hemophilia (hemophilia A)  in which there is a demonstrated deficiency of activity of the plasma clotting factor, factor VIII . Koate-DVI provides a means of temporarily replacing the missing clotting factor in order to control or prevent bleeding episodes, or in order to perform emergency and elective surgery on individuals with hemophilia.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FACTOR VIII (HUMAN)/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD02",
+      "name": "COAGULATION FACTOR VIII"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KOATE DVI 500IU/VIAL",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7055",
+        "barcode": "7298074020335"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 568.1246968,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 667.5465188,
+        "maxPriceWithVAT": 787.7048571
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:28:44.789215"
+  }
+}

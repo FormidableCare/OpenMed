@@ -1,0 +1,64 @@
+{
+  "catalogId": "06670f74-4ffc-4e12-8788-98053192d5df",
+  "name": "RAVICTI 1.1 G/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 79 35361 03",
+  "treatmentDescriptions": "RAVICTI is indicated for use as adjunctive therapy  for chronic management of adult and paediatric patients &#8805;2 months of age with urea cycle disorders (UCDs) including deficiencies of carbamoyl phosphate-synthase-I (CPS), ornithine carbamoyltransferase (OTC), argininosuccinate synthetase (ASS), argininosuccinate lyase (ASL), arginase I (ARG) and ornithine translocase deficiency hyperornithinaemia-hyperammonaemia homocitrullinuria syndrome (HHH) who cannot be managed by dietary protein restriction and/or amino acid supplementation alone.   RAVICTI must be used with dietary protein restriction and, in some cases, dietary supplements (e.g., essential amino acids, arginine, citrulline, protein-free calorie supplements).",
+  "termsOfIssue": "Prescription required",
+  "form": "liquid",
+  "route": "gastroenteral, oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLYCEROL PHENYLBUTYRATE 1.1 G /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX09",
+      "name": "GLYCEROL PHENYLBUTYRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RAVICTI 1.1 G/ML 25 ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8691",
+        "yarpa": "64852",
+        "pharmasoft": "18574"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 688.8014063,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 809.3416523,
+        "maxPriceWithVAT": 955.0231073
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:17:22.593923"
+  }
+}

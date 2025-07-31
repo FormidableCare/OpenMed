@@ -1,0 +1,64 @@
+{
+  "catalogId": "e4a23fa2-b8c7-4452-a935-45ef91a57c6f",
+  "name": "CEFOVIT 250",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "026 84 25145 00",
+  "treatmentDescriptions": "Antibiotic for the treatment of infections caused by micro-organisms sensitive to Cephalexin.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFALEXIN AS MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DB01",
+      "name": "CEFALEXIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFOVIT 125 SUSP 60ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2275",
+        "yarpa": "7692",
+        "pharmasoft": "3588"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.25,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.3025,
+        "maxPriceWithVAT": 13.33695
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:59:30.789690"
+  }
+}

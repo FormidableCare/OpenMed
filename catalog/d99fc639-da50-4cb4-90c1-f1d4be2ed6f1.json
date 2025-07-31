@@ -1,0 +1,64 @@
+{
+  "catalogId": "d99fc639-da50-4cb4-90c1-f1d4be2ed6f1",
+  "name": "ROXO 150",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "134 98 30273 01",
+  "treatmentDescriptions": "For the treatment of infections caused by microorganisms sensitive to roxithromycin e.g: ENT bronchopulmonary, genital and skin manifestations.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ROXITHROMYCIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01FA06",
+      "name": "ROXITHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROXO 150MG 20TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6488",
+        "yarpa": "84743",
+        "pharmasoft": "18423"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 30.3217,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 41.540729,
+        "maxPriceWithVAT": 49.01806022
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:51:58.497274"
+  }
+}

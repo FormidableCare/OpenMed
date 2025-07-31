@@ -1,0 +1,64 @@
+{
+  "catalogId": "9e25f2e1-9f47-4613-abfe-b3fcc7c8554b",
+  "name": "SILDAZEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 66 36152 00",
+  "treatmentDescriptions": "Sildazen is indicated in the treatment for adult men with erectile dysfunction.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for oral spray",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SILDENAFIL AS CITRATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BE03",
+      "name": "SILDENAFIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SILDAZEN 25MG/ML 30 ML",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9391",
+        "yarpa": "15914",
+        "barcode": "7290017164717"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:12:15.494455"
+  }
+}

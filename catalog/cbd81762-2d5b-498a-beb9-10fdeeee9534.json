@@ -1,0 +1,65 @@
+{
+  "catalogId": "cbd81762-2d5b-498a-beb9-10fdeeee9534",
+  "name": "STALEVO ® 50/12.5/200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 34 31105 00",
+  "treatmentDescriptions": "Treatment of patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa/dopa decarboxylase (DDC) inhibitor treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVODOPA, CARBIDOPA 12.5   MG, ENTACAPONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BA02",
+      "name": "LEVODOPA AND DECARBOXYLASE INHIBITOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STALEVO 50/12.5/200MG 30TAB",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4844",
+        "yarpa": "61885",
+        "pharmasoft": "19737",
+        "barcode": "7290100418246"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 42.0534647,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 56.56191002,
+        "maxPriceWithVAT": 66.74305086
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:39:18.237278"
+  }
+}

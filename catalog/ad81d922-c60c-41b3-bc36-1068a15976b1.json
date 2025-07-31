@@ -1,0 +1,64 @@
+{
+  "catalogId": "ad81d922-c60c-41b3-bc36-1068a15976b1",
+  "name": "SLENYTO 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 84 36331 00",
+  "treatmentDescriptions": "Slenyto is indicated for the treatment of insomnia in children and adolescents aged 2-18 with Autism Spectrum Disorder (ASD) and/or Smith-Magenis syndrome, where sleep hygiene measures have been insufficient.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MELATONIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CH01",
+      "name": "MELATONIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SLENYTO 5 MG 30 PR TAB",
+      "manufacturer": {
+        "name": "נעורים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8814",
+        "yarpa": "69208",
+        "barcode": "5060292650012"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 434.6073767,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 510.6636676,
+        "maxPriceWithVAT": 602.583101
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:22:16.455425"
+  }
+}

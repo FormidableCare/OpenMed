@@ -1,0 +1,65 @@
+{
+  "catalogId": "b6bb63fd-66d3-4078-8c46-ef3270a9b99e",
+  "name": "NIMENRIX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 74 33816 00",
+  "treatmentDescriptions": "Nimenrix is indicated for active immunisation of individuals from the age of 6 weeks against invasive meningococcal diseases caused by Neisseria meningitidis group A, C, W-135 and Y.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NEISSERIA MENINGITIDIS GROUP Y POLYSACCHARIDE, NEISSERIA MENINGITIDIS GROUP W - 135 POLYSACCHARIDE, NEISSERIA MENINGITIDIS GROUP C POLYSACCHARIDE, NEISSERIA MENINGITIDIS GROUP A POLYSACCHARIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07AH02",
+      "name": "OTHER MENINGOCOCCAL MONOVALENT PURIFIED POLYSACCHARIDES ANTIGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NIMENRIX 1X0.5ML VIAL POWDER+PRE FILLED SYR SOLVENT",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7327",
+        "yarpa": "50290",
+        "pharmasoft": "14558",
+        "barcode": "7290014547124"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 153.3461241,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 191.6826551,
+        "maxPriceWithVAT": 226.1855229
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:46:41.481639"
+  }
+}

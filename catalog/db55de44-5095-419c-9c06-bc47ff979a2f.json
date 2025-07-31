@@ -1,0 +1,65 @@
+{
+  "catalogId": "db55de44-5095-419c-9c06-bc47ff979a2f",
+  "name": "AQUIMOD CREAM 5 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 90 33114 00",
+  "treatmentDescriptions": "Indicated for the topical treatment of external genital and perianal warts (condyloma acuminata) in adult patients. For the treatment of actinic keratoses in adults with normal immune systems. For the treatment of superficial basal cell carcinoma in adults with normal immune systems when surgical methods are less appropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMIQUIMOD",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06BB10",
+      "name": "IMIQUIMOD"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AQUIMOD CREAM 5 % 12SACHET (0.25G)",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6876",
+        "yarpa": "19683",
+        "pharmasoft": "9502",
+        "barcode": "7290012066337"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 181.9566,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 227.44575,
+        "maxPriceWithVAT": 268.385985
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:21:46.282137"
+  }
+}

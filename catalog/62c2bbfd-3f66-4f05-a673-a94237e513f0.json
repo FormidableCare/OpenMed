@@ -1,0 +1,65 @@
+{
+  "catalogId": "62c2bbfd-3f66-4f05-a673-a94237e513f0",
+  "name": "ELIDEL CREAM 1 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 12 30517 01",
+  "treatmentDescriptions": "Elidel 1 % cream is indicated for the short-term treatment of the signs and symptoms of atopic dermatitis (eczema) and intermittent long-term treatment to prevent progression to flares in patients 3 months of age and above. Treatment with Elidel is indicated in patients in whom the use of conventional topical corticosteroids therapy is deemed inadvisable because of potential risks or in patients who are not adequately responsive to or intolerant of conventional topical corticosteroids therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PIMECROLIMUS",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D11AX15",
+      "name": "PIMECROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELIDEL CREAM 1% 15G",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4583",
+        "yarpa": "4924",
+        "pharmasoft": "5525",
+        "barcode": "7290001173510"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 41.12719405,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 55.316076,
+        "maxPriceWithVAT": 65.27296678
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:14:24.925791"
+  }
+}

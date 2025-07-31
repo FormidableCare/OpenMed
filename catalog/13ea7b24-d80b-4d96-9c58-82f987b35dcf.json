@@ -1,0 +1,65 @@
+{
+  "catalogId": "13ea7b24-d80b-4d96-9c58-82f987b35dcf",
+  "name": "SERETIDE DISKUS 50/100 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 13 29551 01",
+  "treatmentDescriptions": "Seretide is indicated in the regular treatment of asthma in children and adults, where use of a combination (bronchodilator and inhaled corticosteroid) has been found to be appropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUTICASONE PROPIONATE, SALMETEROL AS XINAFOATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AK06",
+      "name": "SALMETEROL AND OTHER DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SERETIDE DISKUS 50/500MCG 60DISK",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4128",
+        "yarpa": "21199",
+        "pharmasoft": "19397",
+        "barcode": "7290008086509"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 103.4776912,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 129.347114,
+        "maxPriceWithVAT": 152.6295945
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:05:44.968595"
+  }
+}

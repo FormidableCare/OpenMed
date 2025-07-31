@@ -1,0 +1,65 @@
+{
+  "catalogId": "db333406-bb8c-469c-86e5-0016327725be",
+  "name": "LITORVA 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 31 33305 01",
+  "treatmentDescriptions": "Litorva is indicated as an adjunct to diet for reduction of elevated total cholesterol LDL- cholesterol apolipoprotein B and triglycerides and to increase HDL Cholesterol in patients with primary hypercholesterolaemia including familial hypercholesterolaemia (heterozygous variant) or combined (mixed) hyperlipidaemia (corresponding to types IIa and IIb of the fredrickson classification) when response to diet and other nonpharmacological measures is inadequate. Litorva is also indicated to reduce total-C and LDL -C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatment (e.g. LDL apheresis) or if such treatments are unavailable. Pediatric patients (10-17 years of age) : Atorvastatin is indicated as an adjunct to diet to reduce total -C LDL-C and apo B levels in boys and postmenarchal girls 10 to 17 years of age with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present:  1. LDL-C remains >or = 190 mg/dl or   2. LDL-C remains > or = 160 mg/dl and: there is a positive family history of premature cardiovascular disease or two or more other CVD risk factors are present in the pediatric patient. Prevention of cardiovascular and/or cerebrovascular event sush as MI or stroke as an adjunct to correction of other risk factors such as hypertension in patients with three or more additional risk factors or diabetes with one additional risk factor. In patients with clinically evident coronary heart disease, Litorva is indicated to : Reduce the risk of non-fatal myocardial infarction. Reduce the risk of fatal and non fatal stroke. Reduce the risk for revascularization procedures. Reduce the risk of hospitalization for CHF. Reduce the risk of angina.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ATORVASTATIN AS CALCIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AA05",
+      "name": "ATORVASTATIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LITORVA 40MG 30 TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6759",
+        "yarpa": "26469",
+        "pharmasoft": "12451",
+        "barcode": "7290010578429"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 33.6009,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 46.033233,
+        "maxPriceWithVAT": 54.31921494
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:50:39.052660"
+  }
+}

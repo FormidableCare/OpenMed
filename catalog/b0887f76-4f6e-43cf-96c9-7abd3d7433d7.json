@@ -1,0 +1,65 @@
+{
+  "catalogId": "b0887f76-4f6e-43cf-96c9-7abd3d7433d7",
+  "name": "DEPO MEDROL 40 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "024 49 21841 00",
+  "treatmentDescriptions": "For the treatment of conditions responsive to steroid injection therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "periarticular, i.m, intra-articular, intra-lesional, intrabursal, intrarectal instillation, soft tissues",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHYLPREDNISOLONE ACETATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB04",
+      "name": "METHYLPREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEPO MEDROL+LIDOCAIN 2CC",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "40",
+        "yarpa": "619",
+        "pharmasoft": "4054",
+        "barcode": "72982006"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35.82963,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 49.0865931,
+        "maxPriceWithVAT": 57.92217728
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:47:51.258778"
+  }
+}

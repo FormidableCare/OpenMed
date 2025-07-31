@@ -1,0 +1,63 @@
+{
+  "catalogId": "b5b2bfc0-c7a9-496b-800f-c976c8a6b814",
+  "name": "ADAKVEO 10 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 71 36562 00",
+  "treatmentDescriptions": "ADAKVEO is indicated to reduce the frequency of vasoocclusive crises (VOCs) in adults and pediatric patients aged 16 years and older with sickle cell disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CRIZANLIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B06AX01",
+      "name": "CRIZANLIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIZ TABS 1(24+4)",
+      "manufacturer": {
+        "name": "ליברה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9052",
+        "yarpa": "70496"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.45240907,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.97980042,
+        "maxPriceWithVAT": 45.99616245
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:52:08.309082"
+  }
+}

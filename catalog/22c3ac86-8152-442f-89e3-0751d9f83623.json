@@ -1,0 +1,63 @@
+{
+  "catalogId": "22c3ac86-8152-442f-89e3-0751d9f83623",
+  "name": "ADATAR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 95 35656 00",
+  "treatmentDescriptions": "Cutaneous treatment of acne vulgaris when comedones, papules and pustules are present",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZOYL PEROXIDE AS HYDROUS 2.5 %W/W, ADAPALENE 0.1 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AD03",
+      "name": "ADAPALENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADATAR GEL 45G",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 45.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER PP",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8945",
+        "barcode": "7290017164199"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 98.43,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 123.0375,
+        "maxPriceWithVAT": 145.18425
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:14:19.904019"
+  }
+}

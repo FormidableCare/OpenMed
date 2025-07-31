@@ -1,0 +1,63 @@
+{
+  "catalogId": "49951ea2-ca7c-4e8f-a637-ea1247e36dc2",
+  "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 89 36923 99",
+  "treatmentDescriptions": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE is indicated for cardiac arrest and cardiopulmonary resuscitation (physical measures should be used first).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, intracardiac",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINEPHRINE AS TARTRATE 0.1  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CA24",
+      "name": "EPINEPHRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADRENALINE AGUETTANT  0.1 MG/ML 10ML 10 PFS",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9507",
+        "yarpa": "17378"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:09:29.425062"
+  }
+}

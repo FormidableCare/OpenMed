@@ -1,0 +1,63 @@
+{
+  "catalogId": "ca491b93-24c8-4411-9dac-ca9d009c9e2d",
+  "name": "ALDACTONE 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "125 97 24826 00",
+  "treatmentDescriptions": "Congestive heart failure, cirrhotic ascites.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SPIRONOLACTONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C03DA01",
+      "name": "SPIRONOLACTONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PIRON 267 MG 90 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9384",
+        "yarpa": "15124"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1598.202374,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1877.887789,
+        "maxPriceWithVAT": 2215.907492
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:45:25.054179"
+  }
+}

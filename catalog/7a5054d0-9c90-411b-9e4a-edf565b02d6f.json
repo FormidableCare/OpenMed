@@ -1,0 +1,62 @@
+{
+  "catalogId": "7a5054d0-9c90-411b-9e4a-edf565b02d6f",
+  "name": "LECIGON",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 28 37033 99",
+  "treatmentDescriptions": "Treatment of advanced Parkinson's disease with severe motor fluctuations and hyperkinesia or dyskinesia when available oral combinations of Parkinson medicinal products have not given satisfactory results.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "intestinal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENTACAPONE/, CARBIDOPA MONOHYDRATE/, LEVODOPA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BA01",
+      "name": "LEVODOPA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LECIGON GEL 7 CART",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE POLYPROPYLENE",
+      "shelfLife": "26",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9218"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2254.855699,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2480.341269,
+        "maxPriceWithVAT": 2926.802568
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:37:27.776019"
+  }
+}

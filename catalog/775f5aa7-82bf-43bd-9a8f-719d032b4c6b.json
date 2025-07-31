@@ -1,0 +1,65 @@
+{
+  "catalogId": "775f5aa7-82bf-43bd-9a8f-719d032b4c6b",
+  "name": "REVLIMID ® 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 46 31661 11",
+  "treatmentDescriptions": "Multiple Myeloma (MM) Revlimid is indicated for the treatment of multiple myeloma.Myelodysplastic Syndromes REVLIMID is indicated for patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.Revlimid 7.5 mg is not indicated for treatment in MDS.Mantle Cell LymphomaREVLIMID is indicated for the treatment of adult patients with relapsed and/or refractory mantle cell lymphoma (MCL).Follicular lymphomaRevlimid in combination with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients with previously treated follicular lymphoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LENALIDOMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX04",
+      "name": "LENALIDOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REVLIMID 10MG 21CAPS",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6275",
+        "yarpa": "23430",
+        "pharmasoft": "18462",
+        "barcode": "7640133681382"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16646.98066,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 18311.67873,
+        "maxPriceWithVAT": 21607.7809
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:30:42.662197"
+  }
+}

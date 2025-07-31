@@ -1,0 +1,64 @@
+{
+  "catalogId": "4d1ff2ee-0d51-4a59-b94b-a9249260a13c",
+  "name": "CERDELGA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 56 34703 00",
+  "treatmentDescriptions": "Cerdelga is indicated for the long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers (IMs) or extensive metabolisers (EMs).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELIGLUSTAT AS TARTRATE 84.4  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX10",
+      "name": "ELIGLUSTAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CERDELGA 84.4 MG 56 CAPS",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8004",
+        "yarpa": "73597",
+        "pharmasoft": "10077"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 73839.26259,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 81223.18885,
+        "maxPriceWithVAT": 95843.35859
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:06:29.721248"
+  }
+}

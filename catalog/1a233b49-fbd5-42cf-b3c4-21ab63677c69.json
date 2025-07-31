@@ -1,0 +1,65 @@
+{
+  "catalogId": "1a233b49-fbd5-42cf-b3c4-21ab63677c69",
+  "name": "NOVOMIX 30 FLEXPEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 24 30599 00",
+  "treatmentDescriptions": "NovoMix® 30 is indicated for treatment of diabetes mellitus in adults, adolescents and children aged 10 years and above.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INSULIN ASPART 100 U/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AD05",
+      "name": "INSULIN ASPART"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NOVOMIX 50 FLEXPEN 5X3ML",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN ",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6159",
+        "yarpa": "87579",
+        "pharmasoft": "14463",
+        "barcode": "7290008126571"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 123.4174973,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 154.2718716,
+        "maxPriceWithVAT": 182.0408004
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:54:43.707579"
+  }
+}

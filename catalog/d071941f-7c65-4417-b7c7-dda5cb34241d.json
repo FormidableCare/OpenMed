@@ -1,0 +1,65 @@
+{
+  "catalogId": "d071941f-7c65-4417-b7c7-dda5cb34241d",
+  "name": "ACTIVELLE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 30 29629 00",
+  "treatmentDescriptions": "Hormone replacement therapy (HRT) for oestrogen deficiency symptoms in women more than one year after menopause. Prevention of osteoporosis in postmenopausal women at high risk of future fractures who are intolerant of , or contraindicated for, other medicinal products approved for the prevention of osteoporosis.The experience treating women older than 65 years is limited.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESTRADIOL AS HEMIHYDRATE, NORETHISTERONE ACETATE 0.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AA05",
+      "name": "NORETHISTERONE AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACTIVELLE 28TAB",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DISPENSER PACK POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3811",
+        "yarpa": "20255",
+        "pharmasoft": "1599",
+        "barcode": "7290008126403"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.47628157,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.53250576,
+        "maxPriceWithVAT": 39.56835503
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:13:28.971781"
+  }
+}

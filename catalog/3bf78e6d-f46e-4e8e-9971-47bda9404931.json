@@ -1,0 +1,63 @@
+{
+  "catalogId": "3bf78e6d-f46e-4e8e-9971-47bda9404931",
+  "name": "BRINZOTOL S.K",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 03 36386 00",
+  "treatmentDescriptions": "Brinzotol S.K is indicated for decrease of intra-ocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIMOLOL AS MALEATE/, BRINZOLAMIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED51",
+      "name": "TIMOLOL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRINZOTOL S.K BOTTLE 5 ML",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9438",
+        "yarpa": "17325"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 29.5753245,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 40.51819457,
+        "maxPriceWithVAT": 47.81146746
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:43:57.568662"
+  }
+}

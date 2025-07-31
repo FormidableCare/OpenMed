@@ -1,0 +1,65 @@
+{
+  "catalogId": "7f27de69-6dcd-411b-bba6-4bf61c558a5c",
+  "name": "OESTROGEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "060 93 26342 00",
+  "treatmentDescriptions": "Hormonal replacement therapy for the treatment of symptoms associated with estrogen deficiency in menopausal women. Prevention of postmenopausal osteoporosis in women with an increased risk for osteoporotic fractures and presenting intolerace or a contraindication to others treatments indicated in the prevention of osteoporosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESTRADIOL 0.06 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA03",
+      "name": "ESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OESTROGEL 80G",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 80.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2901",
+        "yarpa": "9008",
+        "pharmasoft": "15006",
+        "barcode": "7290008098205"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.619976,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 39.20936712,
+        "maxPriceWithVAT": 46.26705114
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:03:41.333101"
+  }
+}

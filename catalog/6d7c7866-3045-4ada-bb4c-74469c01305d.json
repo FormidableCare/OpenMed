@@ -1,0 +1,64 @@
+{
+  "catalogId": "6d7c7866-3045-4ada-bb4c-74469c01305d",
+  "name": "KARIN 250",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "104 96 28719 01",
+  "treatmentDescriptions": "Karin is indicated in the treatment of infections caused by one or more susceptible organisms. Indications include:* Lower respiratory tract infections, for example, acute and chronic bronchitis and pneumonia.* Upper respiratory tract infections, for example, sinusitis and pharyngitis.Karin is appropriate for initial therapy in community acquired respiratory infections and has been shown to be active in vitro against common and atypical respiratory pathogens as listed in the microbiology section.Karin is also indicated in:* skin and soft tissue infections of mild to moderate severity.* combination with proton pump inhibitor for the eradication of H. Pylori in patients with proven duodenal ulcer.* treatment of Mycobacterium Avium Complex infection in AIDS patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLARITHROMYCIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01FA09",
+      "name": "CLARITHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KARIN 250MG 14TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3358",
+        "yarpa": "9561",
+        "pharmasoft": "11028"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.2054,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.311398,
+        "maxPriceWithVAT": 31.04744964
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:23:27.562278"
+  }
+}

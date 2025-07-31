@@ -1,0 +1,65 @@
+{
+  "catalogId": "d430cddd-4ce9-43db-9f23-70183df11888",
+  "name": "MULTAQ",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 42 32977 00",
+  "treatmentDescriptions": "MULTAQ is indicated for the maintenance of sinus rhythm after successful cardioversion in adult clinically stable patients with paroxysmal or persistent atrial fibrillation (AF). Due to its safety profile, Multaq should only be prescribed after alternative treatment options have been considered.MULTAQ should not be given to patients with left ventricular systolic dysfunction or to patients with current or previous episodes of heart failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DRONEDARONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BD07",
+      "name": "DRONEDARONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MULTAQ 400MG  60 F.C. TABLETS",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6412",
+        "yarpa": "83861",
+        "pharmasoft": "13636",
+        "barcode": "7290012711251"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 226.823,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 266.517025,
+        "maxPriceWithVAT": 314.4900895
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:35:36.868785"
+  }
+}

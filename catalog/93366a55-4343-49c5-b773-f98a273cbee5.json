@@ -1,0 +1,64 @@
+{
+  "catalogId": "93366a55-4343-49c5-b773-f98a273cbee5",
+  "name": "GATTEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 48 33962 00",
+  "treatmentDescriptions": "Gattex is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome. Patients should be stable following a period of intestinal adaptation after surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEDUGLUTIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX08",
+      "name": "TEDUGLUTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GATTEX 5MG/VIAL  30 VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7377",
+        "yarpa": "61837",
+        "pharmasoft": "7940"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 72852.56706,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 80137.82376,
+        "maxPriceWithVAT": 94562.62784
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:28:09.805712"
+  }
+}

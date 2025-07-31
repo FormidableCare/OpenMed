@@ -1,0 +1,64 @@
+{
+  "catalogId": "aa4b85f1-98c2-4e4c-a7ee-b24da3978969",
+  "name": "PRIVIGEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 46 33254 00",
+  "treatmentDescriptions": "Replacement therapy in• Primary immunodeficiency syndromes (PID) such as:  – congenital agammaglobulinaemia and hypogammaglobulinaemia  – common variable immunodeficiency  – severe combined immunodeficiency  – Wiskott-Aldrich syndrome• Myeloma or chronic lymphocytic leukaemia with severe secondary hypogammaglobulinaemia and recurrent infections• Children with congenital AIDS and recurrent infectionsImmunomodulation• Immune thrombocytopenic purpura (ITP) in children or adults at high risk of bleeding or prior to surgical interventions to correct the platelet count• Guillain-Barré syndrome• Kawasaki disease• Chronic inflammatory demyelinating polyneuropathy (CIDP)Allogeneic bone marrow transplantation",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMMUNOGLOBULINS, NORMAL HUMAN/L",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRIVIGEN 5G/50ML VIAL",
+      "manufacturer": {
+        "name": "סי אס אל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7137",
+        "yarpa": "40633",
+        "pharmasoft": "16919"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1176.34002,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1382.199524,
+        "maxPriceWithVAT": 1630.995365
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:57:26.585210"
+  }
+}

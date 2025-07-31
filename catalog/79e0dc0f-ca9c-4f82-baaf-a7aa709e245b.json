@@ -1,0 +1,62 @@
+{
+  "catalogId": "79e0dc0f-ca9c-4f82-baaf-a7aa709e245b",
+  "name": "ELOCTA 1000 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 50 36896 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COAGULATION FACTOR VIII",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD05",
+      "name": "COAGULATION FACTOR VII"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELOCTA 1000 IU",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9069"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1898.839576,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2088.723534,
+        "maxPriceWithVAT": 2464.693661
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:16:14.907775"
+  }
+}

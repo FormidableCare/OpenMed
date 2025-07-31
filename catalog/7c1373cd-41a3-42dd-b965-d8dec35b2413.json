@@ -1,0 +1,64 @@
+{
+  "catalogId": "7c1373cd-41a3-42dd-b965-d8dec35b2413",
+  "name": "ARAVA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 78 30132 00",
+  "treatmentDescriptions": "Arava is indicated in adults for the treatment of active rheumatoid arthritis (RA) :   1. to reduce signs and symptoms    2. to inhibit structural damage as evidenced by X-ray erosions and joint space narrowing    3. to imptove physical function.   Arava is indicated for the treatment of adult patients with active psoriatic arthritis.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEFLUNOMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA13",
+      "name": "LEFLUNOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARAVA 20MG 30TAB",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4010",
+        "yarpa": "27277",
+        "pharmasoft": "1650"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 99.9909045,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 124.9886306,
+        "maxPriceWithVAT": 147.4865776
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:26:20.467702"
+  }
+}

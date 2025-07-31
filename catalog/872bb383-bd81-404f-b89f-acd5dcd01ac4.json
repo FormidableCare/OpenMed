@@ -1,0 +1,64 @@
+{
+  "catalogId": "872bb383-bd81-404f-b89f-acd5dcd01ac4",
+  "name": "JANUET XR 50/1000 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 32 33933 02",
+  "treatmentDescriptions": "Januet XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both sitagliptin and metformin extended-release is appropriate",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SITAGLIPTIN AS PHOSPHATE SALT, METFORMIN HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BA02",
+      "name": "METFORMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "JANUET XR 50/1000 MG 60TAB",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7567",
+        "yarpa": "53751",
+        "pharmasoft": "10059"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:16:59.470686"
+  }
+}

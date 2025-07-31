@@ -1,0 +1,65 @@
+{
+  "catalogId": "263b182f-f68a-403a-9e01-6cf77d245d9c",
+  "name": "KESIMPTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 85 36656 00",
+  "treatmentDescriptions": "Kesimpta is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OFATUMUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC10",
+      "name": "OFATUMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KESIMPTA 20MG/0.4ML 1PF PEN",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8900",
+        "yarpa": "70898",
+        "pharmasoft": "11302",
+        "barcode": "7290018609446"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5029.913859,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5532.905245,
+        "maxPriceWithVAT": 6528.827899
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:25:11.923500"
+  }
+}

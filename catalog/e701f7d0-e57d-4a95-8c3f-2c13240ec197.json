@@ -1,0 +1,63 @@
+{
+  "catalogId": "e701f7d0-e57d-4a95-8c3f-2c13240ec197",
+  "name": "FENTANYL-PIRAMAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "025 41 21376 00",
+  "treatmentDescriptions": "For analgesic action of short duration during anesthtic periods (premedication dinduction and maintenance) and in the immediate postoperative period  as need arises. As a narcotic analgesic supplement in general or regional anesthesia. For administration with neuroleptics (such as droperidol) as an anesthetic premedication  for the induction of anesthesia  and as an adjunct in the maintenance of general or regional anesthesia. For use as an anesthetic agent with oxygen in selected  high-risk patients (open heart surgery or certain neurological or orthopedic procedures). By the epidural route for the postoperative management of pain following general surgical procedures and cesarean sections  and as adjunct to general anesthesia.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "epidural, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL AS CITRATE 0.05 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AH01",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FENTANYL-PIRAMAL 0.05 MG/ML 2 amp 10ML",
+      "manufacturer": {
+        "name": "פארמהמדיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9148",
+        "barcode": "5056162500679"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.5418,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.922266,
+        "maxPriceWithVAT": 23.50827388
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:01:58.592580"
+  }
+}

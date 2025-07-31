@@ -1,0 +1,64 @@
+{
+  "catalogId": "d0bb185b-796b-4ad1-88bb-a4876f2e8e5a",
+  "name": "FOSTIMON 150 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 16 30176 00",
+  "treatmentDescriptions": "A treatment with FSH followed by the administration of human chronic gonadotrophin (HCG) is indicated to induce ovulation in infertile women suffering from hypothalamus or hypophyseal disorders and in spanomenorrhoeic or amenorrhoeic women. These women belong to the WHO group II and have generally already been treated with clomiphene citrate. Most have polycystic ovarian syndrome. FSH offers good therapeutic prospects for patients whose LH:FSH ratio has to be adjusted, avoiding an exogenous supply of LH FSH may be used alone or in concomitance with human menopausal gonadotropin (HMG) in order to stimulate multiple follicular growth in patients involved in medically assisted reproduction programs (IVF-ET,GIFT).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "UROFOLLITROPIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA04",
+      "name": "UROFOLLITROPIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FOSTIMON 150 IU 10 VIALS",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6066",
+        "yarpa": "14011",
+        "pharmasoft": "6427"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1356.979595,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1594.451024,
+        "maxPriceWithVAT": 1881.452124
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:19:19.152546"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "3a06fc1c-5098-4f77-bf97-e0e52fd536d6",
+  "name": "ARIPLY 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 03 33529 01",
+  "treatmentDescriptions": "Ariply is indicated for the treatment of schizophrenia, for the treatment of moderate to severe manic episodes in Bipolar I disorder and for the prevention of a new manic episode in patient who experienced predominantly manic episodes and whose manic episodes responded to aripiprazole treatment.Ariply  is indicated for use as an adjunctive therapy to antidepressants for the treatment of major depressive disorder (MDD). Efficacy was established in two 6-week trials in adults with MDD who had an inadequate response to antidepressant therapy during the current episode.Ariply  is indicated for the treatment of irritability associated with autistic disorder. Efficacy was established in two 8-week trials in pediatric patients (aged 6 to 17 years) with irritability associated with autistic disorder (including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARIPIPRAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX12",
+      "name": "ARIPIPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARIPLY 5MG 28TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7200",
+        "yarpa": "40537",
+        "pharmasoft": "9641"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 166.6287,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 208.285875,
+        "maxPriceWithVAT": 245.7773325
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:27:32.241697"
+  }
+}

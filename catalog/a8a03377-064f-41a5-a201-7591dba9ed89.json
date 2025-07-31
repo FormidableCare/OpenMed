@@ -1,0 +1,64 @@
+{
+  "catalogId": "a8a03377-064f-41a5-a201-7591dba9ed89",
+  "name": "EXELON PATCH 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 70 31675 01",
+  "treatmentDescriptions": "Treatment of mild to moderate dementia of the Alzheimer's type.",
+  "termsOfIssue": "Prescription required",
+  "form": "patches",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIVASTIGMINE 9.5 MG/DAY",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DA03",
+      "name": "RIVASTIGMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EXELON PATCH 10 30 PATCH",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH PAPER/PET/PE/AL/POLYAMIDE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6223",
+        "yarpa": "78064",
+        "pharmasoft": "5478"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 165.6234,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 207.02925,
+        "maxPriceWithVAT": 244.294515
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:48:22.886060"
+  }
+}

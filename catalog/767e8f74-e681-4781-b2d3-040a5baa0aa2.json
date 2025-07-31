@@ -1,0 +1,65 @@
+{
+  "catalogId": "767e8f74-e681-4781-b2d3-040a5baa0aa2",
+  "name": "HAVRIX 1440",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 61 28393 00",
+  "treatmentDescriptions": "Active immunisation against infections caused by Hepatitis A virus.The vaccine is particularly indicated for those at increased risk of infection or transmission.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HEPATITIS A VIRUS ANTIGEN, INACTIVATED 1440 E.L.U/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BC02",
+      "name": "HEPATITIS A, INACTIVATED, WHOLE VIRUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HAVRIX 1440 MONODOSE",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3217",
+        "yarpa": "9393",
+        "pharmasoft": "8126",
+        "barcode": "7290008102049"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 94.98064567,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 118.7258071,
+        "maxPriceWithVAT": 140.0964461
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:43:32.925780"
+  }
+}

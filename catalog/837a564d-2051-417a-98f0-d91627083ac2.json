@@ -1,0 +1,65 @@
+{
+  "catalogId": "837a564d-2051-417a-98f0-d91627083ac2",
+  "name": "PROMNIX 0.4",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 08 31452 00",
+  "treatmentDescriptions": "Treatment of functional symptoms of benign prostatic hyperplasia (BPH).",
+  "termsOfIssue": "Prescription required",
+  "form": "modified release capsules hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAMSULOSIN HYDROCHLORIDE 0.4   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA02",
+      "name": "TAMSULOSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROMNIX 0.4 MG 30  MR CAPSULES",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6085",
+        "yarpa": "86496",
+        "pharmasoft": "16771",
+        "barcode": "7290000810676"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25.9509,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 35.552733,
+        "maxPriceWithVAT": 41.95222494
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:01:55.056582"
+  }
+}

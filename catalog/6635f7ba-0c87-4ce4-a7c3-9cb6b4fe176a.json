@@ -1,0 +1,65 @@
+{
+  "catalogId": "6635f7ba-0c87-4ce4-a7c3-9cb6b4fe176a",
+  "name": "OXYCONTIN 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 71 28431 00",
+  "treatmentDescriptions": "For the relief of moderate to severe chronic pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets controlled release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXYCODONE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AA05",
+      "name": "OXYCODONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXYCONTIN 80MG 20TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3688",
+        "yarpa": "35563",
+        "pharmasoft": "15103",
+        "barcode": "7290008014373"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 66.53964107,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 89.49581723,
+        "maxPriceWithVAT": 105.6050596
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:22:17.863614"
+  }
+}

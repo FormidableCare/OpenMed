@@ -1,0 +1,64 @@
+{
+  "catalogId": "d181a791-7de8-4b82-b485-2831e57458bd",
+  "name": "EUCREAS 50/1000 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 90 33627 01",
+  "treatmentDescriptions": "Eucreas is indicated in the treatment of type 2 diabetes mellitus:- Eucreas is indicated in the treatment of adult patients who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone or who are already treated with the combination of vildagliptin and metformin as separate tablets.- Eucreas is indicated in combination with a sulphonylurea (i.e. triple combination therapy) as an adjunct to diet and exercise in adult patients inadequately controlled with metformin and a sulphonylurea.- Eucreas is indicated in triple combination therapy with insulin as an adjunct to diet and exercise to improve glycaemic control in adult patients when insulin at a stable dose and metformin alone do not provide adequate glycaemic control.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METFORMIN HYDROCHLORIDE, VILDAGLIPTIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BA02",
+      "name": "METFORMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EUCREAS 500/50MG 30 FC TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7015",
+        "yarpa": "34571",
+        "pharmasoft": "5537"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:43:26.783191"
+  }
+}

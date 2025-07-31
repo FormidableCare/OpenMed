@@ -1,0 +1,64 @@
+{
+  "catalogId": "13918473-dbbf-403d-b690-c0e3c5142a8d",
+  "name": "EVRYSDI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 71 36630 99",
+  "treatmentDescriptions": "EVRYSDI is indicated for the treatment of spinal muscular atrophy (SMA) types 1, 2 and 3 in pediatric and adult patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RISDIPLAM/BOTTLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M09AX10",
+      "name": "RISDIPLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVRYSDI 0.75MG/ML BOTTLE 60MG/80ML",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 80.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8768",
+        "yarpa": "74874",
+        "barcode": "7290014774216"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32777.7217,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 36055.49387,
+        "maxPriceWithVAT": 42545.48087
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:47:20.745731"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "e081cefd-d678-4a2b-85ba-23f98b59e6cf",
+  "name": "SIGNIFOR 0.3 MG/ 1 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 59 33762 00",
+  "treatmentDescriptions": "Treatment of adult patients with Cushing’s disease for whom surgery is not an option or for whom surgery has failed.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PASIREOTIDE AS DIASPARTATE 0.3 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01CB05",
+      "name": "PASIREOTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SIGNIFOR 0.9MG/1ML 60AMP (1ML)",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7122",
+        "yarpa": "48814",
+        "pharmasoft": "9690",
+        "barcode": "7290014257191"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14636.59436,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 16100.25379,
+        "maxPriceWithVAT": 18998.29863
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:11:01.297002"
+  }
+}

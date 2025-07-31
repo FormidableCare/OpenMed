@@ -1,0 +1,65 @@
+{
+  "catalogId": "97350474-761a-4acf-95ab-c90abd00ccc9",
+  "name": "CAELYX LIPOSOMAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "110 27 28836 02",
+  "treatmentDescriptions": "First or second line therapy of aids related kaposis sarcoma in patients with low cd 4 counts and extensive mucocutaneous or visceral disease The treatment of patients with metastatic carcinoma of the ovary who are refractory to both paclitaxel and platinium-based chemotherapy regimens and who may also be refractory to topotecan. Refractory is defined as a patient having progressive disease while on treatment  or within 6 months of completing treatmnt. As monotherapy for patients with metastatic breast cancer  where there is an increased cardiac risk.   In combination with bortezomib for the treatment of progressive multiplemyeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for bone marrow transplant.",
+  "termsOfIssue": "Prescription required",
+  "form": "liposome concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOXORUBICIN HYDROCHLORIDE 2.0  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DB01",
+      "name": "DOXORUBICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CAELYX 2MG/ML VIAL 10ML",
+      "manufacturer": {
+        "name": "בקסטר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "20",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7295",
+        "yarpa": "47257",
+        "pharmasoft": "9673",
+        "barcode": "7290014577183"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1269.132229,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1491.230369,
+        "maxPriceWithVAT": 1759.651757
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:49:42.486997"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "906f3338-0a78-4c44-803e-f4e09fc46221",
+  "name": "OXYCONTIN 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 71 28431 00",
+  "treatmentDescriptions": "For the relief of moderate to severe chronic pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets controlled release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXYCODONE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AA05",
+      "name": "OXYCODONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXYCONTIN 10MG 20TAB (CONTROLLED RELEASE)",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3198",
+        "yarpa": "9404",
+        "pharmasoft": "15028",
+        "barcode": "7290008014373"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.585465,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.24208705,
+        "maxPriceWithVAT": 20.34566181
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:21:46.768552"
+  }
+}

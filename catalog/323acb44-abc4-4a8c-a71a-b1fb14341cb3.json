@@ -1,0 +1,62 @@
+{
+  "catalogId": "323acb44-abc4-4a8c-a71a-b1fb14341cb3",
+  "name": "QDENGA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 51 37674 00",
+  "treatmentDescriptions": "Qdenga is indicated for the prevention of dengue disease in individuals from 4 years of age",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DENGUE VIRUS SEROTYPE 4 (LIVE, ATTENUATED), DENGUE VIRUS SEROTYPE 3 (LIVE, ATTENUATED), DENGUE VIRUS, SEROTYPE 2, LIVE, ATTENUATED), DENGUE VIRUS SEROTYPE 1 (LIVE, ATTENUATED)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BX04",
+      "name": "DENGUE VIRUS VACCINES "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "QDENGA 1 VIAL",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9614"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 319.8423033,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 375.8147064,
+        "maxPriceWithVAT": 443.4613339
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:08:38.877965"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "catalogId": "84181b1f-bf94-436e-8358-090097c6e5ad",
+  "name": "EFLUELDA TETRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 15 36617 00",
+  "treatmentDescriptions": "Active immunisation in adults 60 years of age and older for the prevention of influenza disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "B/PHUKET/3073/2013 LIKE STRAIN/ 0.7  ML, B/AUSTRIA/1359417/2021 (B/VICTORIA LINEAGE)-LIKE VIRUS/ 0.7  ML, A/DARWIN/9/2021 (H3N2)-LIKE VIRUS/ 0.7  ML, A/VICTORIA/4897/2022 (H1N1)PDM09-LIKE VIRUS/ 0.7  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BB02",
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EFLUELDA  1 PFS",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "12",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9135"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 128.765295,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 160.9566188,
+        "maxPriceWithVAT": 189.9288017
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:11:54.634468"
+  }
+}

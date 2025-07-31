@@ -1,0 +1,65 @@
+{
+  "catalogId": "68d697e1-f030-4017-b957-43ca86bb507d",
+  "name": "DONEPEZIL TEVA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 51 34714 00",
+  "treatmentDescriptions": "Treatment of mild to moderately severe Alzheimer's dementia.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DONEPEZIL HYDROCHLORIDE ( AS MONOHYDRATE)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DA02",
+      "name": "DONEPEZIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DONEPEZIL TEVA 10MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6368",
+        "yarpa": "76343",
+        "pharmasoft": "4530",
+        "barcode": "7291064976285"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 92.2833,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 124.1210385,
+        "maxPriceWithVAT": 146.4628254
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:02:03.225040"
+  }
+}

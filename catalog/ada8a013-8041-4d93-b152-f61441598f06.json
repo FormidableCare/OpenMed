@@ -1,0 +1,64 @@
+{
+  "catalogId": "ada8a013-8041-4d93-b152-f61441598f06",
+  "name": "NERLYNX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 61 35663 00",
+  "treatmentDescriptions": "Nerlynx is indicated for the extended adjuvant treatment of adult patients with early-stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy.\"Nerlynx in combination with capecitabine is indicated for the treatment of adult patients with advanced or metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 based regimens in the metastatic setting.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NERATINIB AS MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE45",
+      "name": "NERATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NERLYNX  40MG   180TABS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 180.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8305",
+        "yarpa": "76013",
+        "pharmasoft": "14625"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18964.49921,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 20860.94913,
+        "maxPriceWithVAT": 24615.91887
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:43:08.847496"
+  }
+}

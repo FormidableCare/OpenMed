@@ -1,0 +1,64 @@
+{
+  "catalogId": "29dd8682-b3b7-43b7-9b61-78146f9b71db",
+  "name": "HYALASE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 29 29170 00",
+  "treatmentDescriptions": "To enhance permeation of subcutaneous or intramuscular injections, local anesthetics and subcutaneous infusions to promote resorption of excess fluids and blood in the tissues .",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYALURONIDASE/AMPOULE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B06AA03",
+      "name": "HYALURONIDASE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HYALASE 1500 IU 10 AMP",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8615",
+        "yarpa": "33604",
+        "barcode": "5012727911793"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:51:58.221443"
+  }
+}

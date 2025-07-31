@@ -1,0 +1,64 @@
+{
+  "catalogId": "fa442aa9-b260-4418-998b-794d447bf678",
+  "name": "KADCYLA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 63 33939 00",
+  "treatmentDescriptions": "\"Early Breast Cancer (EBC):KADCYLA, as a single agent, is indicated for the adjuvant treatment of patients with HER2-positive early breast cancer who have residual invasive disease after neoadjuvant taxane and trastuzumab -based treatment.\"Metastatic Breast Cancer (MBC)Kadcyla, as a single agent, is indicated for the treatment of patients with HER2-positive, metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either:•\tReceived prior therapy for metastatic disease, or•\tDeveloped disease recurrence during or within six months of completing adjuvant therapy.\"",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRASTUZUMAB EMTANSINE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FD03",
+      "name": "TRASTUZUMAB EMTANSINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KADCYLA  20MG/ML VIAL15ML 100MG",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 15 ML GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7398",
+        "yarpa": "77757",
+        "barcode": "7290008140959"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5779.664313,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6357.630744,
+        "maxPriceWithVAT": 7502.003945
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:20:24.256439"
+  }
+}

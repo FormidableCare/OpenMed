@@ -1,0 +1,65 @@
+{
+  "catalogId": "0097dc09-6d38-48ee-8a4d-83b20028de0f",
+  "name": "DESMOPRESSIN TEVA 0.1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 40 33065 00",
+  "treatmentDescriptions": "Desmopressin teva tablets are indicated for central diabetes insipidus, nocturnal enuresis ( in patients from 5 years of age with normal ability to concentrate the urine) and for symptomatic treatment of nocturia in adults associated with nocturnal polyuria, i.e. nocturnal urine production exceeding bladder capacity. The treatment must be started befor the age of 65.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESMOPRESSIN ACETATE 0.1  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BA02",
+      "name": "DESMOPRESSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DESMOPRESSIN TEVA 0.2MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/AL/PVC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6772",
+        "yarpa": "30593",
+        "pharmasoft": "4552",
+        "barcode": "7290102065516"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 92.8816,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 124.925752,
+        "maxPriceWithVAT": 147.4123874
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:51:25.468803"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "2b13b805-dbc4-43aa-b1e9-6630c18c3515",
+  "name": "OXYTOCIN - GRINDEKS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 47 35690 00",
+  "treatmentDescriptions": "- Induction of labour for medical reasons;- Stimulation of labour in hypnotic uterine inertia;- During Caesarean section following the delivery of the child;- Prevention and treatment of postpartum uterine atony and hemorrhage.- In early stages of pregnancy as an adjunctive therapy for the management of incomplete, inevitable of missed abortion.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXYTOCIN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BB02",
+      "name": "OXYTOCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXYTOCIN INJECTION BP 10AMP (10IU/ML)",
+      "manufacturer": {
+        "name": "פארמלוג'יק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6969",
+        "yarpa": "18816",
+        "pharmasoft": "15474"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 58.216,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 78.30052,
+        "maxPriceWithVAT": 92.3946136
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:22:44.723707"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "91eaf8f4-b8f4-4fbb-9674-22a1b82b568b",
+  "name": "BESPONSA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 79 35350 00",
+  "treatmentDescriptions": "BESPONSA is indicated as monotherapy for the treatment of adults with relapsed or refractory CD22-positive B cell precursor acute lymphoblastic leukaemia (ALL). Adult patients with Philadelphia chromosome positive (Ph+) relapsed or refractory B cell precursor ALL should have failed treatment with at least 1 tyrosine kinase inhibitor (TKI).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INOTUZUMAB OZOGAMICIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC26",
+      "name": "INOTUZUMAB OZOGAMICIN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BESPONSA 1 VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8286",
+        "yarpa": "25210",
+        "pharmasoft": "2673",
+        "barcode": "7290013592477"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 39114.00298,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 43025.40328,
+        "maxPriceWithVAT": 50769.97361
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:36:09.997160"
+  }
+}

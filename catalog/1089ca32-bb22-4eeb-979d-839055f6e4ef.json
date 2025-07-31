@@ -1,0 +1,65 @@
+{
+  "catalogId": "1089ca32-bb22-4eeb-979d-839055f6e4ef",
+  "name": "CONTROLOC I.V.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 41 30772 00",
+  "treatmentDescriptions": "For the treatment of duodenal ulcer, gastric ulcer, moderate and severe forms of reflux oesophagitis. Zollinger Ellison Syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANTOPRAZOLE AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC02",
+      "name": "PANTOPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CONTROLOC I.V.  40MG/VIAL",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6026",
+        "yarpa": "22893",
+        "pharmasoft": "3928",
+        "barcode": "7298074020502"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.7973,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.272301,
+        "maxPriceWithVAT": 23.92131518
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:29:40.063296"
+  }
+}

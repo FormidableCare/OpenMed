@@ -1,0 +1,65 @@
+{
+  "catalogId": "6e0947f7-27f0-42d4-b95a-c64728ec9da2",
+  "name": "IMURAN TABLETS 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "034 79 25384 00",
+  "treatmentDescriptions": "Immunosuppressive agent used in transplantation surgery for suppression of graft rejection. For special cases of rheumatoid arthritis- not responsive to other agents- and only by rheumatology experts in hospitals or rheumatic clinics.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZATHIOPRINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX01",
+      "name": "AZATHIOPRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMURAN 25MG 100TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1107",
+        "yarpa": "7860",
+        "pharmasoft": "9157",
+        "barcode": "7290008105446"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 39.46058167,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 53.07448234,
+        "maxPriceWithVAT": 62.62788638
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:04:24.133254"
+  }
+}

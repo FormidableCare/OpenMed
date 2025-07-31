@@ -1,0 +1,65 @@
+{
+  "catalogId": "17d2b653-1865-4f19-8710-661c087a4be7",
+  "name": "STELARA 130 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 52 35072 00",
+  "treatmentDescriptions": "Crohn’s Disease :STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.Ulcerative colitis :STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic or have medical contraindications to such therapies",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "USTEKINUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC05",
+      "name": "USTEKINUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STELARA 45MG VIAL 1X0.5ML SOL. FOR INJ.",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6418",
+        "yarpa": "21016",
+        "pharmasoft": "19922",
+        "barcode": "7290014577404"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6193.836436,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6813.22008,
+        "maxPriceWithVAT": 8039.599337
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:42:25.104198"
+  }
+}

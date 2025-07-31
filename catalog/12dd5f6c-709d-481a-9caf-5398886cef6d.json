@@ -1,0 +1,65 @@
+{
+  "catalogId": "12dd5f6c-709d-481a-9caf-5398886cef6d",
+  "name": "TROSMOLYT 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 44 35071 00",
+  "treatmentDescriptions": "Symptomatic treatment of urge incontinence and /or increased urinary frequency and urgency as may occur in patients with overactive bladder (e.g. idiopathic or neurologic detrusor overactivity)",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TROSPIUM CHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BD09",
+      "name": "TROSPIUM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OSMO ADALAT 60MG 30 SR TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4293",
+        "yarpa": "5307",
+        "pharmasoft": "15373",
+        "barcode": "7290010038480"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.5989,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.510493,
+        "maxPriceWithVAT": 60.78238174
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:17:54.671199"
+  }
+}

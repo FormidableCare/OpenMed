@@ -1,0 +1,65 @@
+{
+  "catalogId": "3bd9affa-cf5a-4a17-8352-29020d1234ad",
+  "name": "DESCOVY 200 MG/10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 05 34949 00",
+  "treatmentDescriptions": "Descovy is indicated in combination with other antiretroviral agents for the treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus type 1 (HIV 1).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR ALAFENAMIDE FUMARATE, EMTRICITABINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR03",
+      "name": "TENOFOVIR DISOPROXIL AND EMTRICITABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DESCOVY 200MG/25MG 30 TAB",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7980",
+        "yarpa": "62098",
+        "pharmasoft": "4666",
+        "barcode": "5391507143198"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1749.942022,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2056.181876,
+        "maxPriceWithVAT": 2426.294506
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:50:00.862196"
+  }
+}

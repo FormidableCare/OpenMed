@@ -1,0 +1,65 @@
+{
+  "catalogId": "5273fc2c-de7b-40aa-9ee3-0f31bf055eaf",
+  "name": "CAPRELSA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 23 33769 01",
+  "treatmentDescriptions": "Caprelsa is indicated for the treatment of aggressive and symptomatic Rearranged during Transfection (RET) mutant medullary thyroid cancer (MTC) in patients with unresectable locally advanced or metastatic disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VANDETANIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE12",
+      "name": "VANDETANIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CAPRELSA 100 MG 30TAB",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7139",
+        "yarpa": "41306",
+        "pharmasoft": "9652",
+        "barcode": "7290012711695"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6487.003706,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7135.704076,
+        "maxPriceWithVAT": 8420.130435
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:53:28.986500"
+  }
+}

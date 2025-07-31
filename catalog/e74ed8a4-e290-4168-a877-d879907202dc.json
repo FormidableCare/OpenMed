@@ -1,0 +1,64 @@
+{
+  "catalogId": "e74ed8a4-e290-4168-a877-d879907202dc",
+  "name": "MERONEM 500 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "104 08 28622 02",
+  "treatmentDescriptions": "Meronem is indicated for treatment  in adults and children  of the following severe infections caused by single or multiple susceptible bacteria sensitive to meropenem:  - Pneumonias and nosocomial pneumonias.   - Pulmonary infections in patients with cystic fibrosis.   - Urinary tract infections.   - Intra-abdominal infections.  - Gynecological infections  such as endometritis and pelvic inflammatory disease.   - Skin and skin structure infections.   - Meningitis.   - Septicemia.   Meronem has proved efficacious alone or in combination with other antimicrobial agents in the treatment of polymicrobial infections.   There is no experience in pediatric patients with neutropenia or primary or secondary immunodeficiency.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEROPENEM AS TRIHYDRATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DH02",
+      "name": "MEROPENEM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MERONEM 500MG 10VIAL POWDER FOR SOL. FOR INJ.",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6436",
+        "yarpa": "83475",
+        "pharmasoft": "13633"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 337.0602,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 396.045735,
+        "maxPriceWithVAT": 467.3339673
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:14:14.454428"
+  }
+}

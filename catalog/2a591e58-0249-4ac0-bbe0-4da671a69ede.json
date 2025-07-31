@@ -1,0 +1,64 @@
+{
+  "catalogId": "2a591e58-0249-4ac0-bbe0-4da671a69ede",
+  "name": "PREGABALIN TEVA ® 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 26 34479 00",
+  "treatmentDescriptions": "PREGABALIN TEVA ® is indicated for the: - Treatment of peripheral and central neuropathic pain in adults. - Management of Fibromyalgia. - Treatment of Generalised Anxiety Disorder (GAD) in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREGABALIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX16",
+      "name": "PREGABALIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PREGABALIN TEVA  75 MG 56 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8018",
+        "yarpa": "56106",
+        "pharmasoft": "16984"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77.8568,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 104.717396,
+        "maxPriceWithVAT": 123.5665273
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:55:14.022108"
+  }
+}

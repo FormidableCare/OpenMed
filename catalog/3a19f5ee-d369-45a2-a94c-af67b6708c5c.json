@@ -1,0 +1,65 @@
+{
+  "catalogId": "3a19f5ee-d369-45a2-a94c-af67b6708c5c",
+  "name": "FLUDARABIN \"EBEWE\" 50 MG/2 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 60 31781 00",
+  "treatmentDescriptions": "Palliative treatment of patients with CLL refractory to other therapy. Treatment of less malignant Non-Hodgkin lymphoma of stage 3 to 4 in patients who have not responded to standard therapy with at least one alkylating agent or in whom the disease progressed during or after standard therapy. Fludarabine is indicated for the initial treatment of patients with B- cell chronic lymphocytic leukaemia (CLL) or after first line therapy, in patients with sufficient bone marrow reserves.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for injection / infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUDARABINE PHOSPHATE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BB05",
+      "name": "FLUDARABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUDARABIN EBEWE 50 MG/2 ML 1 VIAL",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7931",
+        "yarpa": "88439",
+        "pharmasoft": "6415",
+        "barcode": "7290016369717"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 435.0015,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 511.1267625,
+        "maxPriceWithVAT": 603.1295798
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:12:18.079641"
+  }
+}

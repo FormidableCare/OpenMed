@@ -1,0 +1,64 @@
+{
+  "catalogId": "da134ae7-6f8a-443c-9744-1296df3fddd4",
+  "name": "EPINEPHRINE INJECTION MYLAN 0.3 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 59 35821 00",
+  "treatmentDescriptions": "Epinephrine is indicated in the emergency treatment of severe allergic reactions (Type I) including anaphylaxis to stinging insects (e.g., order Hymenoptera which includes bees,wasps,hornets,yellow jackets and fire ants) and biting insects (e.g., triatoma, mosquitoes), allergen immunotherapy, foods, drugs,diagnostic testing substances (e.g., radiocontrast media) and other allergens, as well as idiopathic anaphylaxis or exercise induced anaphylaxis.Epinephrine is intended for immediate administration in patients who are determined to be at increased risk for anaphylaxis, including individuals with a history of anaphylactic reactions.Epinephrine is intended for immediate administration as emergency supportive therapy only, and is not a substitute for immediate medical care",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINEPHRINE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AA14",
+      "name": "EPINEPHRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPINEPHRINE INJECTION MYLAN 0.3 MG 2 SYR",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AUTO-INJECTOR GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8517",
+        "yarpa": "28568",
+        "pharmasoft": "5652"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 388.983,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 457.055025,
+        "maxPriceWithVAT": 539.3249055
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:27:00.404009"
+  }
+}

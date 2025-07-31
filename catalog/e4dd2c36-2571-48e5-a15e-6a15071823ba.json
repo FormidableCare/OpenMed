@@ -1,0 +1,65 @@
+{
+  "catalogId": "e4dd2c36-2571-48e5-a15e-6a15071823ba",
+  "name": "HUMULIN N",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "054 12 22715 22",
+  "treatmentDescriptions": "For the treatment of patients with diabetes mellitus who require insulin for the maintenance of glucose homeostasis",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INSULIN (HUMAN)/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AC01",
+      "name": "INSULIN (HUMAN)"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HUMULIN REGUL CART 5x3ML",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3322",
+        "yarpa": "9473",
+        "pharmasoft": "9091",
+        "barcode": "7290008139816"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77.71710675,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 104.5295086,
+        "maxPriceWithVAT": 123.3448146
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:51:28.937454"
+  }
+}

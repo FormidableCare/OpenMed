@@ -1,0 +1,65 @@
+{
+  "catalogId": "78d43c00-fc34-4056-ac9b-90eb64d94d67",
+  "name": "EXFORGE 10 MG/160 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 42 31568 01",
+  "treatmentDescriptions": "Treatment of essential hypertension. Exforge is indicated for patients whose blood pressure is not adequately controlled on monotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMLODIPINE AS BESYLATE, VALSARTAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C08CA01",
+      "name": "AMLODIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EXFORGE 10MG/160MG 28TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PA/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6148",
+        "yarpa": "87351",
+        "pharmasoft": "5467",
+        "barcode": "7290006257963"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 75.2742,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 101.243799,
+        "maxPriceWithVAT": 119.4676828
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:49:04.551674"
+  }
+}

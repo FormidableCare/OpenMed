@@ -1,0 +1,65 @@
+{
+  "catalogId": "2d7661e0-5fc8-422b-bad1-e7cc8bb444cb",
+  "name": "COROSAN 75 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 53 35927 00",
+  "treatmentDescriptions": "Corosan is indicated for:• As an adjunct to oral anticoagulation for prophylaxis of thromboembolism associated with prosthetic heart valves.• As an alternative to exercise stress in thallium myocardial imaging particularly in patients unable to exercise or in those for whom exercise may be contraindicated.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIPYRIDAMOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC07",
+      "name": "DIPYRIDAMOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COROSAN 75 MG 10 TABLETS",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9299",
+        "yarpa": "77068",
+        "pharmasoft": "23367",
+        "barcode": "7290015863698"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.222,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.74414,
+        "maxPriceWithVAT": 19.75808432
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:30:32.552526"
+  }
+}

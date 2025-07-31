@@ -1,0 +1,64 @@
+{
+  "catalogId": "d81add1c-2a26-4542-bb59-d7401ba10fce",
+  "name": "FENTORA ® 100 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 90 34050 00",
+  "treatmentDescriptions": "Fentora is indicated for the treatment of breakthrough pain (BTP) in adults with cancer who are already receiving maintenance opioid therapy for chronic cancer pain. BTP is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain.                                      Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "buccal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL AS CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AH01",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FENTORA 400MCG 28 BUCCAL TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALU/POLYAMIDE/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7613",
+        "yarpa": "76298",
+        "pharmasoft": "6584"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 429.1236348,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 504.2202709,
+        "maxPriceWithVAT": 594.9798932
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:02:30.813915"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "0dce3b27-086e-4f2b-9d0c-21b9ac8b5690",
+  "name": "NUVIGIL 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 84 34389 06",
+  "treatmentDescriptions": "Nuvigil is indicated to improve wakefulness in adult patients with excessive sleepiness associated with obstructive sleep apnea (OSA), narcolepsy, or shift work disorder (SWD).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARMODAFINIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA07",
+      "name": "MODAFINIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NUVIGIL 250 MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7880",
+        "yarpa": "51370",
+        "pharmasoft": "14597"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:58:48.371382"
+  }
+}

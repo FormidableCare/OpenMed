@@ -1,0 +1,64 @@
+{
+  "catalogId": "16654de8-963b-4157-963e-aea658547267",
+  "name": "FERRIPROX  ORAL SOLUTION 100 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 69 33222 00",
+  "treatmentDescriptions": "Ferriprox monotherapy is indicated for the treatment of iron overload in patients over 6 years old with thalassaemia major when current chelation therapy is contraindicated or inadequate.Ferriprox in combination with another chelator is indicated in patients with thalassaemia major when monotherapy with any iron chelator is ineffective, or when prevention or treatment of life-threatening consequences of iron overload (mainly cardiac overload) justifies rapid or intensive correction.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEFERIPRONE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AC02",
+      "name": "DEFERIPRONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FERRIPROX ORAL SOLUTION 100MG/ML 500ML",
+      "manufacturer": {
+        "name": "לפידות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 500.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PET",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7014",
+        "yarpa": "33765",
+        "pharmasoft": "6479"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 720.42497,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 846.4993398,
+        "maxPriceWithVAT": 998.8691765
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:03:34.288938"
+  }
+}

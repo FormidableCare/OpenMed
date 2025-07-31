@@ -1,0 +1,64 @@
+{
+  "catalogId": "c55574b3-bf70-4365-8d17-084b9694455d",
+  "name": "OPDUALAG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 74 37423 00",
+  "treatmentDescriptions": "Opdualag is indicated for the treatment of adult and pediatric patients 12 years of age or older with unresectable or metastatic melanoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RELATLIMAB/ML, NIVOLUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC17",
+      "name": "NIVOLUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OPDUALAG (12 MG /4 MG)/ML  (240 MG/80 MG)/1 VIAL20 ML",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9285",
+        "yarpa": "14127",
+        "barcode": "7290014396227"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 26792.96045,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 29472.2565,
+        "maxPriceWithVAT": 34777.26112
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:13:50.726929"
+  }
+}

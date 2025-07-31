@@ -1,0 +1,64 @@
+{
+  "catalogId": "37d370b9-0c76-4032-8ceb-3daacff1c2e8",
+  "name": "NEXVIAZYME",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 81 37090 00",
+  "treatmentDescriptions": "Nexviazyme is indicated long-term enzyme replacement therapy (ERT) for the treatment of patients with Pompe disease (acid α-glucosidase deficiency)",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AVALGLUCOSIDASE ALPHA/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB22",
+      "name": "AVALGLUCOSIDASE ALPHA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEXVIAZYME 100MG 1 VIAL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9022",
+        "yarpa": "78964",
+        "pharmasoft": "14709"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3879.310474,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4267.241521,
+        "maxPriceWithVAT": 5035.344771
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:45:41.690816"
+  }
+}

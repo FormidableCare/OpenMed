@@ -1,0 +1,64 @@
+{
+  "catalogId": "5a5950ae-daf8-4eb3-b9da-c00575ff11d6",
+  "name": "EMBESIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 92 35430 00",
+  "treatmentDescriptions": "Embesin is indicated for the treatment of catecholamine-refractory hypotension following septic shock in patients older than 18 years. A catecholamine-refractory hypotension is present if the mean arterial blood pressure cannot be stabilized to 65 – 75 mmHg despite adequate volume substitution and application of catecholamines.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARGIPRESSIN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BA06",
+      "name": "ARGIPRESSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EMBESIN 40 iu/2 ml 10 AMP",
+      "manufacturer": {
+        "name": "אי.או.פי אורפן",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8643",
+        "yarpa": "58472",
+        "pharmasoft": "5676"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3629.594744,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3992.554218,
+        "maxPriceWithVAT": 4711.213768
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:17:40.772990"
+  }
+}

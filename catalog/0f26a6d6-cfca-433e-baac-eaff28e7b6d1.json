@@ -1,0 +1,63 @@
+{
+  "catalogId": "0f26a6d6-cfca-433e-baac-eaff28e7b6d1",
+  "name": "KALINOR RETARD 600 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 46 36674 99",
+  "treatmentDescriptions": "Treatment and prevention of hypokalemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POTASSIUM CHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A12BA01",
+      "name": "POTASSIUM CHLORIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KALINOR RETARD 600 MG SR 100 CAPS",
+      "manufacturer": {
+        "name": "טרוסטפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9146",
+        "yarpa": "2444"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 51.612705,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 69.41908823,
+        "maxPriceWithVAT": 81.91452046
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:21:24.768235"
+  }
+}

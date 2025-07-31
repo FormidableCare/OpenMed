@@ -1,0 +1,65 @@
+{
+  "catalogId": "ad174095-6d08-474e-827a-efa74c9bd7b1",
+  "name": "ACTIQ 1200 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 25 31575 00",
+  "treatmentDescriptions": "Actiq is indicated only for the management of breakthrough cancer pain in patients 16 and older with malignancies who are already receiving and who are tolerant to opioid therapy for their underlying persistent cancer pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "compressed tablet on a handle",
+  "route": "oral transmucosal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL AS CITRATE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AB03",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACTIQ 1200MCG 30 COMPRESSED TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ACLAR",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6126",
+        "yarpa": "86433",
+        "pharmasoft": "9267",
+        "barcode": "7290106061019"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 800.7568942,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 940.8893507,
+        "maxPriceWithVAT": 1110.249384
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:06:57.457071"
+  }
+}

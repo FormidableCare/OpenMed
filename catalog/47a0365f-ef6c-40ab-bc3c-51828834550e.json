@@ -1,0 +1,64 @@
+{
+  "catalogId": "47a0365f-ef6c-40ab-bc3c-51828834550e",
+  "name": "NEMDATINE 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 02 34401 00",
+  "treatmentDescriptions": "Treatment of patients with moderate to severe Alzheimer’s disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEMANTINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DX01",
+      "name": "MEMANTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEMDATINE 10 MG  56 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8514",
+        "yarpa": "25982",
+        "barcode": "7290110732110"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 74.87424,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 100.7058528,
+        "maxPriceWithVAT": 118.8329063
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:41:12.578240"
+  }
+}

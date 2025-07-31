@@ -1,0 +1,64 @@
+{
+  "catalogId": "faa3a08f-68ce-4cff-b4f6-a47413ce03b5",
+  "name": "OCSAAR 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 79 28344 00",
+  "treatmentDescriptions": "Hypertension: Ocsaar  50 mg  is indicated for the treatment of hypertensionHeart failure: Ocsaar  50 mg is indicated for the treatment of heart failure, usually in addition to diuretics and/or digitalis, if use of an ACE inhibitor is not appropriate.Switching patients with heart failure who are stable on an ACE inhibitor to Ocsaar  50 mg is not recommended.Renal protection in Type-2 diabetic patients with proteinuria: Ocsaar 50 mg is indicated to delay the progression of renal disease as measured by a reduction in the combined incidence of doubling of serum creatinine, end stage renal disease (need for dialysis or renal transplantation) or death; and to reduce proteinuria.Reduction in the risk of cardiovascular morbidity and mortality in hypertensive patients with left ventricular hypertrophy. Ocsaar 50 mg is indicated to reduce the risk of cardiovascular morbidity and mortality as measured by the combined incidence of cardiovascular death, stroke, and myocardial infarction in hypertensive patients with left ventricular hypertrophy.The benefit of Ocsaar 50 mg on the primary deposite endpoint was largely driven by reduction in the risk of stroke.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LOSARTAN POTASSIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09CA01",
+      "name": "LOSARTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCSAAR 50MG 30 TAB",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3577",
+        "yarpa": "9314",
+        "pharmasoft": "15021"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.8329,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.691073,
+        "maxPriceWithVAT": 25.59546614
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:00:24.933576"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "c2172457-f3a7-48e9-ac64-50cacbecd8d1",
+  "name": "SEREVENT DISKUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "067 16 28303 00",
+  "treatmentDescriptions": "Salmeterol is a selective beta-2-agonist indicated for reversible airways obstruction in patients with asthma and chronic obstructive pulmonary disease (COPD).In asthma (including nocturnal asthma and exercise induced symptoms) it is indicated for those treated with inhaled corticosteroids who require a long-acting beta agonist in accordance with current treatment guidelines.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALMETEROL AS XINAFOATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC12",
+      "name": "SALMETEROL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEREVENT DISK 50MCG 60DOSES",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3541",
+        "yarpa": "9291",
+        "pharmasoft": "19103",
+        "barcode": "7290008085328"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 65.3327388,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 87.87253369,
+        "maxPriceWithVAT": 103.6895851
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:05:56.830527"
+  }
+}

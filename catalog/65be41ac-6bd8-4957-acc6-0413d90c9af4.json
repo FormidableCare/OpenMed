@@ -1,0 +1,64 @@
+{
+  "catalogId": "65be41ac-6bd8-4957-acc6-0413d90c9af4",
+  "name": "ADEMPAS 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 76 34132 01",
+  "treatmentDescriptions": "Chronic thromboembolic pulmonary hypertension (CTEPH) Adempas is indicated for the treatment of adult patients with WHO Functional Class (FC) II to III with\t• inoperable CTEPH, • persistent or recurrent CTEPH after surgical treatment, to improve exercise capacity. Pulmonary arterial hypertension (PAH)Adempas, as monotherapy or in combination with endothelin receptor antagonists, is indicated for the treatment of adult patients with pulmonary arterial hypertension (PAH) with WHO Functional Class (FC) II to III to improve exercise capacity.Efficacy has been shown in a PAH population including aetiologies of idiopathic or heritable PAH or PAH associated with connective tissue disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIOCIGUAT 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C02KX05",
+      "name": "RIOCIGUAT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADEMPAS 2MG 42TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 42.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PP/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7575",
+        "yarpa": "28791",
+        "pharmasoft": "9872"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3535.281482,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3888.80963,
+        "maxPriceWithVAT": 4588.795159
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:14:45.455404"
+  }
+}

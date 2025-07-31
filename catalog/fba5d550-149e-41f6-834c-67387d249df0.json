@@ -1,0 +1,64 @@
+{
+  "catalogId": "fba5d550-149e-41f6-834c-67387d249df0",
+  "name": "IMATINIB - TRIMA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 59 34527 00",
+  "treatmentDescriptions": "Imatinib - Trima is indicated for the• Treatment of adult patients and children 3 years of age and above with Ph+ chronic myeloid leukaemia (Ph+ -CML) in chronic phase, accelerated phase or blast crisis.• Treatment of adult patients with Kit (CD117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST). • Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.• Treatment of adult patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) integrated with chemotherapy. • Treatment of adult patients with relapsed or refractory Ph+ ALL as monotherapy. • Treatment of adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery.• Treatment of adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements. • Treatment of adult patients with hypereosinophilic syndrome (HES) and/or chronic eosinophilic leukaemia (CEL) who have the FIP1L1-PDGFRα fusion kinase (mutational analysis or FISH demonstration of CHIC2 allele deletion) and for patients with HES and/or CEL who are FIP1L1- PDGFRα fusion kinase negative. • Treatment of adult patients with aggressive systemic mastocytosis (ASM) without the D816V c-kit mutation.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMATINIB AS MESYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE01",
+      "name": "IMATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMATINIB - TRIMA 400 MG 30 TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8434",
+        "yarpa": "49971",
+        "pharmasoft": "10576"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5551.3945,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6106.53395,
+        "maxPriceWithVAT": 7205.710061
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:59:26.171004"
+  }
+}

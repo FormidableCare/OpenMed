@@ -1,0 +1,65 @@
+{
+  "catalogId": "3b8d5473-06c7-4c60-983d-8bb7e5691cba",
+  "name": "QARZIBA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 50 35299 00",
+  "treatmentDescriptions": "Qarziba is indicated for the treatment of high-risk neuroblastoma in patients aged 12 months and above, who have previously received induction chemotherapy and achieved at least a partial response, followed by myeloablative therapy and stem cell transplantation, as well as patients with history of relapsed or refractory neuroblastoma, with or without residual disease. Prior to the treatment of relapsed neuroblastoma, any actively progressing disease should be stabilised by other suitable measures.In patients with a history of relapsed/refractory disease and in patients who have not achieved a complete response after first line therapy, Qarziba should be combined with interleukin-2 (IL-2).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DINUTUXIMAB BETA 4.5  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC16",
+      "name": "DINUTUXIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "QARZIBA 20MG/4.5ML 1 VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8955",
+        "yarpa": "64848",
+        "pharmasoft": "4677",
+        "barcode": "7290015666732"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35255.7,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 38781.27,
+        "maxPriceWithVAT": 45761.89657
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:08:27.646714"
+  }
+}

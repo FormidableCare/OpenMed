@@ -1,0 +1,65 @@
+{
+  "catalogId": "04800a5c-b6ff-42e3-a6f4-0ab5ec27a8da",
+  "name": "MELODIL 25",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "032 57 22655 01",
+  "treatmentDescriptions": "Treatment of depressive states and anxiety states associated with depression.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MAPROTILINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AA21",
+      "name": "MAPROTILINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MELODIL 25MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2248",
+        "yarpa": "2563",
+        "pharmasoft": "13070",
+        "barcode": "7290000812199"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.072,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.42864,
+        "maxPriceWithVAT": 14.6657952
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:09:45.441697"
+  }
+}

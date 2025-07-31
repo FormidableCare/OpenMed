@@ -1,0 +1,65 @@
+{
+  "catalogId": "c23ca38d-69f8-4808-9653-c6cd7f1a8679",
+  "name": "BLEOMYCIN PFI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 57 25199 00",
+  "treatmentDescriptions": "Bleomycin is useful in the management of the following neoplasms: Squamous cell carcinoma affecting the mouth, nasopharynx and paranasal sinuses, larynx, oesaphagus, cervix, vagina, penis and skin. Well differentiated tumors usually respond better than anaplastic ones.Hodgkin's disease and other malignant lymphomas, including mycosis fungoides. Testicular carcinoma (seminoma and no seminoma) .Malignant effusions of serous cavities (intrapleural and intraperitoneal).Secondary indications in which bleomycin has been shown to be of some value include metastatic malignant melanoma, carcinoma of the thyroid lung and bladder. Local treatment of refractory warts. Bleomycin can be used as a single agent, but is generally used in combination with other cytotoxics and/or with radiation therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "intrapleural, intra-arterial, i.v, s.c, i.m, intra-tumoral, intra-cavitary",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BLEOMYCIN SULFATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DC01",
+      "name": "BLEOMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BLEOMYCIN PFI 15000 IU/VIAL 10 VIALS",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "42",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6846",
+        "yarpa": "26707",
+        "pharmasoft": "2268",
+        "barcode": "9088880084885"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 674.7568492,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 792.8392978,
+        "maxPriceWithVAT": 935.5503298
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:39:56.651693"
+  }
+}

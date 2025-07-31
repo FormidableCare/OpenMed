@@ -1,0 +1,65 @@
+{
+  "catalogId": "d72a07fb-49e1-4e7e-bd05-a828d73bd023",
+  "name": "PERJETA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 26 33749 00",
+  "treatmentDescriptions": "Early breast cancer Perjeta is indicated for use in combination with trastuzumab and chemotherapy for: •\tThe neoadjuvant treatment of patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer. • the adjuvant treatment of patients with HER2-positive early breast cancer (node positive) at high risk of recurrence .Metastatic Breast CancerPerjeta is indicated for use in combination with trastuzumab and docetaxel for the treatment of patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PERTUZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FD02",
+      "name": "PERTUZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PERJETA 420MG/14ML 1VIAL(14ML)",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7116",
+        "yarpa": "77202",
+        "pharmasoft": "16988",
+        "barcode": "7290008140935"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8372.540357,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9209.794393,
+        "maxPriceWithVAT": 10867.5569
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:38:09.751181"
+  }
+}

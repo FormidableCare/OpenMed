@@ -1,0 +1,65 @@
+{
+  "catalogId": "e205306c-3ff9-4062-a114-2cac51ad308f",
+  "name": "ELOCOM LOTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 48 28715 22",
+  "treatmentDescriptions": "The relief of the inflammatory and pruritic manifestations of corticosteroid - responsive dermatoses, such as psoriasis and atopic dermatitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "lotion",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOMETASONE FUROATE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC13",
+      "name": "MOMETASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELOCOM LOTION 20ML",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3509",
+        "yarpa": "82906",
+        "pharmasoft": "5053",
+        "barcode": "7290008121538"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.61,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.5357,
+        "maxPriceWithVAT": 17.15212524
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:15:59.543545"
+  }
+}

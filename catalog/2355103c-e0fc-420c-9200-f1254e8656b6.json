@@ -1,0 +1,65 @@
+{
+  "catalogId": "2355103c-e0fc-420c-9200-f1254e8656b6",
+  "name": "BRIVIACT ORAL SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 93 35246 00",
+  "treatmentDescriptions": "Briviact is indicated as adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BRIVARACETAM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX23",
+      "name": "BRIVARACETAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRIVIACT ORAL SOLUTION 10MG/ML 300ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 300.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8465",
+        "yarpa": "74100",
+        "pharmasoft": "2633",
+        "barcode": "72901110927425"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 384.656085,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 451.9708999,
+        "maxPriceWithVAT": 533.3256381
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:44:24.839002"
+  }
+}

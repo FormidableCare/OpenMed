@@ -1,0 +1,65 @@
+{
+  "catalogId": "f7ea02bc-ffdf-4298-8771-eedada1abaec",
+  "name": "MAXITROL OPHTHALMIC SUSPENSION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 23 22787 00",
+  "treatmentDescriptions": "Maxitrol is indicated in ocular inflammation when concurrent use of antimicrobial in judged necessary.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXAMETHASONE 1.0  MG/ML, NEOMYCIN AS SULFATE 3,500  IU/ML, POLYMYXIN B SULFATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA18",
+      "name": "POLYMYXIN B"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MAXITROL OPHT SUSPENSION  5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "742",
+        "yarpa": "7438",
+        "pharmasoft": "13394",
+        "barcode": "7290008067195"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.51841125,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.41022341,
+        "maxPriceWithVAT": 17.00406287
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:06:58.297574"
+  }
+}

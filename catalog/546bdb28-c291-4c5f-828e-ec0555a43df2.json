@@ -1,0 +1,62 @@
+{
+  "catalogId": "546bdb28-c291-4c5f-828e-ec0555a43df2",
+  "name": "AIRWAYS RESPIRATORY SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 12 36642 99",
+  "treatmentDescriptions": "AIRWAYS RESPIRATORY SOLUTION is indicated for the relief of symptoms of reversible bronchospasm associated with asthma, chronic bronchitis and emphysema. AIRWAYS RESPIRATORY SOLUTION is of particular benefit in relieving acute bronchospasm when used concomitantly with inhaled beta agonists.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IPRATROPIUM BROMIDE 0.25 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BB01",
+      "name": "IPRATROPIUM BROMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AIRWAYS RESPIRATORY SOL 0.25MG/ML 20 ML BOTTLE",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9387"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.23807907,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.46616832,
+        "maxPriceWithVAT": 35.95007862
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:12:31.723179"
+  }
+}

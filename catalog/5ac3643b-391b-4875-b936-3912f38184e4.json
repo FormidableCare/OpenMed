@@ -1,0 +1,65 @@
+{
+  "catalogId": "5ac3643b-391b-4875-b936-3912f38184e4",
+  "name": "KUVAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 23 33052 01",
+  "treatmentDescriptions": "Kuvan is indicated for the treatment of hyperphenylalaninaemia (HPA) in adults and paediatric patients of all ages with phenylketonuria (PKU) who have been shown to be responsive to such treatment.Kuvan is also indicated for the treatment of hyperphenylalaninaemia (HPA) in adults and paediatric patients of all ages with tetrahydrobiopterin (BH4) deficiency who have been shown to be responsive to such treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets soluble",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SAPROPTERIN DIHYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX07",
+      "name": "SAPROPTERIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KUVAN 100MG 120TAB SOLUBLE",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6299",
+        "yarpa": "26687",
+        "pharmasoft": "11231",
+        "barcode": "7290000845449"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5525.945622,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6078.540184,
+        "maxPriceWithVAT": 7172.677099
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:30:18.080649"
+  }
+}

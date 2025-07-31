@@ -1,0 +1,64 @@
+{
+  "catalogId": "ec85e404-c745-4f51-8519-0383ce9e29cb",
+  "name": "BICALUTAMIDE TEVA ® 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 83 31741 00",
+  "treatmentDescriptions": "In patients with locally advanced prostate cancer (T3-T4  any N  M0  T1-T2  N+  M0)  Bicalutamide is indicated as immediate therapy either alone or as adjuvant to treatment by radical prostatectomy or radiotherapy. The management of patients with locally advanced  non-metastatic prostate cancer for whom surgical castration or other medical intervention is not considered appropriate or acceptable.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BICALUTAMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BB03",
+      "name": "BICALUTAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BICALUTAMIDE TEVA 150MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6271",
+        "yarpa": "80700",
+        "pharmasoft": "2488"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 361.4738,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 424.731715,
+        "maxPriceWithVAT": 501.1834237
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:38:37.498192"
+  }
+}

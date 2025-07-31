@@ -1,0 +1,64 @@
+{
+  "catalogId": "52a9337a-ebf6-445c-b33a-ac7ac19a29af",
+  "name": "MEMOX 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 16 31117 02",
+  "treatmentDescriptions": "Treatment of patient with moderate  to severe Alzheimer's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEMANTINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DX01",
+      "name": "MEMANTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEMOX 10MG 56TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4862",
+        "yarpa": "63643",
+        "pharmasoft": "13538"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 105.7131,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 132.141375,
+        "maxPriceWithVAT": 155.9268225
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:10:38.368484"
+  }
+}

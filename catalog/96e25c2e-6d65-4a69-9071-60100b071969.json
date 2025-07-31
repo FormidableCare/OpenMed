@@ -1,0 +1,65 @@
+{
+  "catalogId": "96e25c2e-6d65-4a69-9071-60100b071969",
+  "name": "PUREGON SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 52 30898 00",
+  "treatmentDescriptions": "Puregon is indicated for the treatment of female infertility in the following clinical situations: Anovulation (including polycystic ovarian disease, PCOD) in women who have beenunresponsive to treatment with clomiphene citrate. Controlled ovarian hyperstimulation to induce the development of multiple follicles in medically assisted reproduction programs [ e.g. in vitro fertilisation/embryo transfer (IVF/ET), gamete intra-fallopian transfer (GIFT) and intracytoplasmic sperm injection (ICSI)]. In the male : Deficient spermatogenesis due to hypogonadotrophic hypogonadism.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOLLITROPIN BETA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA06",
+      "name": "FOLLITROPIN BETA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PUREGON SOL FOR INJ CART 1X900 IU /1.08ML",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4965",
+        "yarpa": "70199",
+        "pharmasoft": "16734",
+        "barcode": "7290006537096"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 966.0699956,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1135.132245,
+        "maxPriceWithVAT": 1339.455989
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:07:44.180948"
+  }
+}

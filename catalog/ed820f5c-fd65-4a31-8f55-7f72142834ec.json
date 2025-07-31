@@ -1,0 +1,65 @@
+{
+  "catalogId": "ed820f5c-fd65-4a31-8f55-7f72142834ec",
+  "name": "DESLORATADINE - TRIMA SYRUP 0.5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 37 33827 00",
+  "treatmentDescriptions": "For the relief of symptoms associated with allergic rhinitis and/or chronic idiopathic  urticaria in adults and children 1 year of age and above.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESLORATADINE 0.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX27",
+      "name": "DESLORATADINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DESLORATADINE-TRIMA SYRUP 0.5MG/ML 120ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7311",
+        "yarpa": "50861",
+        "pharmasoft": "4606",
+        "barcode": "7290000843551"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.516,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 13.03692,
+        "maxPriceWithVAT": 15.3835656
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:51:04.359474"
+  }
+}

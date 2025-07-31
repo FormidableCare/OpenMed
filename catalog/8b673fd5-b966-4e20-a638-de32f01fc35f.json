@@ -1,0 +1,65 @@
+{
+  "catalogId": "8b673fd5-b966-4e20-a638-de32f01fc35f",
+  "name": "MIOZAC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 22 36662 99",
+  "treatmentDescriptions": "Dobutamine is indicated for patients who require a positive inotropic support in the short term treatment of adults with cardiac decompensation due to depressed contractility resulting either from organic heart disease or from cardiac surgical procedures, especially when a low cardiac output is associated with raised pulmonary pressure.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOBUTAMINE AS HYDROCHLORIDE 12.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CA07",
+      "name": "DOBUTAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIOZAC 12.5 MG/ML 20ML 1 VIAL",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9500",
+        "yarpa": "30489",
+        "pharmasoft": "24776",
+        "barcode": "7290018490310"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.46436361,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.29617814,
+        "maxPriceWithVAT": 29.84948888
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:27:18.998344"
+  }
+}

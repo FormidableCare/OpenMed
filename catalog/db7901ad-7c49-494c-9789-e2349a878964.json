@@ -1,0 +1,63 @@
+{
+  "catalogId": "db7901ad-7c49-494c-9789-e2349a878964",
+  "name": "CLOXACILLIN - MEDO 1 GR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 15 36456 99",
+  "treatmentDescriptions": "Cloxacillin is indicated for the treatment of sensitive staphylococcal infections: respiratory infections, otorhinolaryngologic infections, renal infections, urogenital infections, neuro-meningeal infections, bone and joint infections, endocarditis, and treatment of skin infections caused by sensitive staphylococci and/or streptococci. Cloxacillin is also indicated as preventive treatment of postoperative infections in neurosurgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOXACILLIN AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CF02",
+      "name": "CLOXACILLIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLOXACILLIN - MEDO 500 MG 10 VIALS",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8624",
+        "yarpa": "11432"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 50.3839735,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 67.76644436,
+        "maxPriceWithVAT": 79.96440079
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:24:03.120748"
+  }
+}

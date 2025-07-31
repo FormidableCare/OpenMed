@@ -1,0 +1,65 @@
+{
+  "catalogId": "5013366f-d3f0-47ea-8fca-6c62ab7c97de",
+  "name": "ITRANOL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 86 31044 00",
+  "treatmentDescriptions": "Blastomycosis (pulmonary and extrapulmonary). Histoplasmosis. Onchomycosis caused by dermatophytes and/or yeast. Dermatomycoses. Vulvovaginal candidosis. Oral candidosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ITRACONAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J02AC02",
+      "name": "ITRACONAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ITRANOL 100MG 14CAP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4885",
+        "yarpa": "65403",
+        "pharmasoft": "9225",
+        "barcode": "7290008013918"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 43.1121,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 57.9857745,
+        "maxPriceWithVAT": 68.42321391
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:14:40.085902"
+  }
+}

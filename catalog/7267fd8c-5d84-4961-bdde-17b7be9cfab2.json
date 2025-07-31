@@ -1,0 +1,64 @@
+{
+  "catalogId": "7267fd8c-5d84-4961-bdde-17b7be9cfab2",
+  "name": "RELERT 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "124 28 30370 01",
+  "treatmentDescriptions": "Acute treatment of the headache phase of migraine attacks, with or without aura.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELETRIPTAN HYDROBROMIDE 24.242   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CC06",
+      "name": "ELETRIPTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RELERT 20MG 3TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4452",
+        "yarpa": "28687",
+        "pharmasoft": "18025"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35.3712,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 48.458544,
+        "maxPriceWithVAT": 57.18108192
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:21:40.805461"
+  }
+}

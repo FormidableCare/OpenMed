@@ -1,0 +1,64 @@
+{
+  "catalogId": "ba339e0c-d3b6-4cf5-a62e-66398342e79f",
+  "name": "FLUARIX TETRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 47 34024 00",
+  "treatmentDescriptions": "Fluarix Tetra is indicated for active immunisation of adults and children from 6 months of age for the prevention of influenza disease caused by the two influenza A virus subtypes and the two influenza B virus types contained in the vaccine.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "B/PHUKET/3073/2013 (B/YAMAGATA LINEAGE)-LIKE VIRUSHA /, B/AUSTRIA/1359417/2021 (B/VICTORIA LINEAGE)-LIKE VIRUSHA /, A/VICTORIA/4897/2022 (H1N1)PDM09-LIKE VIRUSHA /, A/THAILAND/8/2022 (H3N2)-LIKE VIRUSHA /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BB02",
+      "name": "INFLUENZA, INACTIVATED, SPLIT VIRUS OR SURFACE ANTIGEN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FLUARIX TETRA SYRINGE 1X0.5ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "12",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7676",
+        "yarpa": "62174",
+        "pharmasoft": "6563"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 39.0592,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 52.534624,
+        "maxPriceWithVAT": 61.99085356
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:10:08.735260"
+  }
+}

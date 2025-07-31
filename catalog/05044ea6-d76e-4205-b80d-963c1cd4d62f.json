@@ -1,0 +1,63 @@
+{
+  "catalogId": "05044ea6-d76e-4205-b80d-963c1cd4d62f",
+  "name": "SODIUM VALPROATE WOCKHARDT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 63 34432 00",
+  "treatmentDescriptions": "Treatment of:•Generalized seizures in the form of absences, myoclonic and tonic-clonic seizures•Partial and secondary generalized seizures.Combination treatment of other forms of seizures.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALPROIC ACID AS SODIUM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AG01",
+      "name": "VALPROIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SODIUM VALPROATE WOCKHARDT 100 MG/ML (4 ML) 5 AMP",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8618",
+        "yarpa": "55515"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 321.6722363,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 377.9648776,
+        "maxPriceWithVAT": 445.9985357
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:26:20.738840"
+  }
+}

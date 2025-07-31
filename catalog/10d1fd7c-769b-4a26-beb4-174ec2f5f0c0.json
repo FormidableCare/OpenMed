@@ -1,0 +1,65 @@
+{
+  "catalogId": "10d1fd7c-769b-4a26-beb4-174ec2f5f0c0",
+  "name": "APO-GO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 26 30682 00",
+  "treatmentDescriptions": "Treatment of motor fluctuations (“on-off” phenomena) in patients with Parkinson's disease which are not sufficiently controlled by oral anti-Parkinson medication.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "APOMORPHINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04BC07",
+      "name": "APOMORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "APO-GO 10MG/ML 5AMPX2ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4763",
+        "yarpa": "63825",
+        "pharmasoft": "1960",
+        "barcode": "5-017807-103693"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:21:29.950239"
+  }
+}

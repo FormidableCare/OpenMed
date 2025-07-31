@@ -1,0 +1,65 @@
+{
+  "catalogId": "7ba2e370-fa1f-4c8c-ba8a-73992b20c623",
+  "name": "SUBUTEX 2 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 88 29872 00",
+  "treatmentDescriptions": "Substitution treatment for opioid dependence within a Framework of medical, social and psychological treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets sublingual",
+  "route": "sublingual",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPRENORPHINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07BC01",
+      "name": "BUPRENORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUBUTEX 2MG 7SUBLING TAB",
+      "manufacturer": {
+        "name": "נעמי שאקו עזרה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4383",
+        "yarpa": "3880",
+        "pharmasoft": "19447",
+        "barcode": "7290008121378"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.06883249,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.12430051,
+        "maxPriceWithVAT": 30.82667323
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:48:56.475369"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "c54286fc-b848-41f7-82fd-bf76c7f3f0d3",
+  "name": "PROAVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 83 33638 00",
+  "treatmentDescriptions": "ProAvenir is indicated for the treatment of men with male pattern hair loss (androgenetic alopecia) to increase hair growth and prevent further hair loss.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FINASTERIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CB01",
+      "name": "FINASTERIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROAVENIR 1MG 98 F.C.TAB",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 98.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7743",
+        "yarpa": "55452",
+        "pharmasoft": "16937",
+        "barcode": "7290010286973"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 328.9937,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 386.5675975,
+        "maxPriceWithVAT": 456.1497651
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:58:25.458927"
+  }
+}

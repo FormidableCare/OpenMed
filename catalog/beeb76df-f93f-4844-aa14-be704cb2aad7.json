@@ -1,0 +1,65 @@
+{
+  "catalogId": "beeb76df-f93f-4844-aa14-be704cb2aad7",
+  "name": "ELELYSO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 67 33413 00",
+  "treatmentDescriptions": "ELELYSO™ (taliglucerase alfa) for injection is a hydrolytic lysosomal glucocerebroside-specific enzyme indicated for long-term enzyme replacement therapy (ERT) for adults and pediatric patients with a confirmed diagnosis of Type 1 Gaucher disease",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TALIGLUCERASE ALFA 200 U/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB11",
+      "name": "TALIGLUCERASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELELYSO 200 U/VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7154",
+        "yarpa": "26152",
+        "pharmasoft": "5557",
+        "barcode": "7290013823007"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:13:36.802845"
+  }
+}

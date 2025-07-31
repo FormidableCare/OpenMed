@@ -1,0 +1,65 @@
+{
+  "catalogId": "7d1027f7-1d57-4786-a728-6f072937877a",
+  "name": "IMNOVID 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 02 33954 00",
+  "treatmentDescriptions": "Imnovid in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have demonstrated disease progression on the last therapy.Imnovid in combination with bortezomib and dexamethasone is indicated in the treatment of adult patients with multiple myeloma who have received at least one prior treatment regimen including lenalidomide",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POMALIDOMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX06",
+      "name": "POMALIDOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMNOVID 3MG 3X7 CAPSULES (POMALYST)",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7407",
+        "yarpa": "65785",
+        "pharmasoft": "9799",
+        "barcode": "7640133683157"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16268.18306,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 17895.00137,
+        "maxPriceWithVAT": 21116.10068
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:02:53.307337"
+  }
+}

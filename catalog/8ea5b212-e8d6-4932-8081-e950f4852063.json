@@ -1,0 +1,64 @@
+{
+  "catalogId": "8ea5b212-e8d6-4932-8081-e950f4852063",
+  "name": "ACNETRIM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "035 38 25621 00",
+  "treatmentDescriptions": "As a topical antibiotic treatment for all forms of acne, particularly inflamatory acne with papules and pustules.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERYTHROMYCINW/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AF02",
+      "name": "ERYTHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACNETRIM SOL 25ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "15",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2163",
+        "yarpa": "7781",
+        "pharmasoft": "1803"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.4049,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.624713,
+        "maxPriceWithVAT": 18.43716134
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:06:04.949703"
+  }
+}

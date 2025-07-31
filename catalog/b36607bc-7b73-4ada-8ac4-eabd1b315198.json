@@ -1,0 +1,64 @@
+{
+  "catalogId": "b36607bc-7b73-4ada-8ac4-eabd1b315198",
+  "name": "PRIZMA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 63 28423 01",
+  "treatmentDescriptions": "Adults:Major depressive episodes.Obsessive-compulsive disorder (OCD).Bulimia nervosa: Fluoxetine is indicated as a complement of psychotherapy for the reduction of binge-eating and purging activity.Children and adolescents aged 8 years and above:Moderate to severe major depressive episode, if depression is unresponsive to psychological therapy after 4-6 sessions. Antidepressant medication should be offered to a child or young person with moderate to severe depression only in combination with a concurrent psychological therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUOXETINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB03",
+      "name": "FLUOXETINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRIZMA FRTE 60MG 20T",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3607",
+        "yarpa": "76251",
+        "pharmasoft": "16009"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:57:52.938033"
+  }
+}

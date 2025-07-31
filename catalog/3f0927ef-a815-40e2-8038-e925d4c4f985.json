@@ -1,0 +1,63 @@
+{
+  "catalogId": "3f0927ef-a815-40e2-8038-e925d4c4f985",
+  "name": "ISTODAX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 75 33742 00",
+  "treatmentDescriptions": "Cutaneous T-Cell LymphomaISTODAX is indicated for the treatment of cutaneous T-cell lymphoma (CTCL) in adult patients who have received at least one prior systemic therapy.Peripheral T-Cell LymphomaISTODAX is indicated for the treatment of peripheral T-cell lymphoma (PTCL) in adult patients who have received at least one prior therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and diluent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ROMIDEPSIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX39",
+      "name": "ROMIDEPSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ISTODAX 10MG/ML KIT(VIAL POWDER+VIAL DILUENT)",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "KIT GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7089",
+        "barcode": "359572984011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:13:57.594899"
+  }
+}

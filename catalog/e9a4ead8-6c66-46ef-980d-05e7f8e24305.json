@@ -1,0 +1,65 @@
+{
+  "catalogId": "e9a4ead8-6c66-46ef-980d-05e7f8e24305",
+  "name": "BUDICORT TURBUHALER 100 MCG/DOSE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "057 98 26940 00",
+  "treatmentDescriptions": "Bronchial asthma.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUDESONIDE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BA02",
+      "name": "BUDESONIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUDICORT TURBUHALER 200MCG/DOSE 100DOSES",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POWDER INHALER LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6530",
+        "yarpa": "84647",
+        "pharmasoft": "2499",
+        "barcode": "7290013075024"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 36.772515,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 50.37834555,
+        "maxPriceWithVAT": 59.44644511
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:45:59.083659"
+  }
+}

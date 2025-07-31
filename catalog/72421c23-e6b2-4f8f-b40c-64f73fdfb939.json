@@ -1,0 +1,65 @@
+{
+  "catalogId": "72421c23-e6b2-4f8f-b40c-64f73fdfb939",
+  "name": "BETAFERON ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 34 28359 00",
+  "treatmentDescriptions": "Use in ambulatory patients with relapsing-remitting multiple sclerosis (RRMS) and relapsing progressive M.S. to reduce the frequency of clinical exacerbations. Treatment of secondary progressive (SP) form of multiple sclerosis. Treatment of patients who have experienced a single demyelinating event with an active inflammatory process, if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, including the prescence of MRI abnormalities characteristic of M.S. and if they are determined to be at high risk of developing clinically definite multiple sclerosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INTERFERON BETA 1B 0.3  MG/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AB08",
+      "name": "INTERFERON BETA-1B"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BETAFERON 0.3MG/VIAL 15VIAL+SYR",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6119",
+        "yarpa": "10345",
+        "pharmasoft": "2529",
+        "barcode": "72980740740821"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2333.660873,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2567.02696,
+        "maxPriceWithVAT": 3029.091678
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:33:38.788442"
+  }
+}

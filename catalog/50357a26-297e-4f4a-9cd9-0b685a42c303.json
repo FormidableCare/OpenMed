@@ -1,0 +1,65 @@
+{
+  "catalogId": "50357a26-297e-4f4a-9cd9-0b685a42c303",
+  "name": "DALACIN 2 % VAGINAL CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "064 17 27818 00",
+  "treatmentDescriptions": "Treatment of bacterial vaginosis only if bacteria susceptible to clindamycin were found.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLINDAMYCIN PHOSPHATEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G01AA10",
+      "name": "CLINDAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DALACIN C 150MG 100CAPS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE PLASTIC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8130",
+        "yarpa": "35574",
+        "pharmasoft": "4006",
+        "barcode": "7298074000054"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 57.57503033,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 77.4384158,
+        "maxPriceWithVAT": 91.37732658
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:39:41.945039"
+  }
+}

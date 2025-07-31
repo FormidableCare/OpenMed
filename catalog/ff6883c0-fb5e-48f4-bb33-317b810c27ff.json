@@ -1,0 +1,65 @@
+{
+  "catalogId": "ff6883c0-fb5e-48f4-bb33-317b810c27ff",
+  "name": "ROZEX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "062 18 26970 00",
+  "treatmentDescriptions": "Topical application for the treatment of inflammatory papules, pustules and erythema of rosacea.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METRONIDAZOLE 0.75 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06BX01",
+      "name": "METRONIDAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROZEX GEL 30GR",
+      "manufacturer": {
+        "name": "אמי טכנולוגיות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2910",
+        "yarpa": "9036",
+        "pharmasoft": "18111",
+        "barcode": "6009626120363"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.2957,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.545109,
+        "maxPriceWithVAT": 36.04322862
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:52:08.882242"
+  }
+}

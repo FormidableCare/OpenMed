@@ -1,0 +1,63 @@
+{
+  "catalogId": "949e0e7d-9c75-4078-83a7-faad64312af2",
+  "name": "DRONCOR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 80 35478 00",
+  "treatmentDescriptions": "DRONCOR is indicated for the maintenance of sinus rhythm after successful cardioversion in adult clinically stable patients with paroxysmal or persistent atrial fibrillation (AF). Due to its safety profile, DRONCOR should only be prescribed after alternative treatment options have been considered. DRONCOR should not be given to patients with left ventricular systolic dysfunction or to patients with current or previous episodes of heart failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DRONEDARONE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BD07",
+      "name": "DRONEDARONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DRONCOR 400MG 60TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8719",
+        "yarpa": "59876"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 226.823,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 266.517025,
+        "maxPriceWithVAT": 314.4900895
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:05:04.306035"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "2d38b2da-a04f-405b-9ddf-554835881b45",
+  "name": "EVETOR 10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 89 36326 00",
+  "treatmentDescriptions": "Evetor is indicated for:- Treatment of patients with SEGA associated with tuberous sclerosis Complex (TSC) who require therapeutic intervention but are not candidates for curative surgical resection. The effectiveness of Evetor is based on an analysis of change in SEGA volume. Clinical benefit such as improvement in disease-related symptoms or increase in overall survival has not been demonstrated. - Treatment of progressive neuroendocrine tumors of pancreatic origin (PNET) in patients with unresectable, locally advanced or metastatic disease. The safety and effectiveness of EVETOR in the treatment of patients with carcinoid tumors have not been established. - Treatment of hormone receptor – positive, HER2/neu negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression following a non – steroidal aromatase inhibitor. - Treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery. The effectiveness of Evetor in treatment of renal angiomyolipoma is based on an analysis of durable objective responses in patients treated for a median of 8.3 months. Further follow-up of patients is required to determine long-term outcomes. - Treatment of patients with advanced renal cell carcinoma, whose disease has progressed on or after treatment with VEGF-targeted therapy.- Treatment of unresectable, locally advanced or metastatic, well-differentiated (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal or lung origin in adults with progressive disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EVEROLIMUS",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA18",
+      "name": "EVEROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVETOR 5MG 30 TABS",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU-PA/AI/PVC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9056",
+        "yarpa": "75165"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3029.12119,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3332.033309,
+        "maxPriceWithVAT": 3931.799305
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:45:12.546103"
+  }
+}

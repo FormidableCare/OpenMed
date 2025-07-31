@@ -1,0 +1,63 @@
+{
+  "catalogId": "7a417eb7-c9b6-47e3-bf5f-b66d191cae91",
+  "name": "MEMANTINE GRINDEKS 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 38 36376 00",
+  "treatmentDescriptions": "Treatment of patient with moderate to severe Alzheimer's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEMANTINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DX01",
+      "name": "MEMANTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEMANTINE GRINDEKS 10 MG TABS",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9627",
+        "yarpa": "65930"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 105.7131,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 132.141375,
+        "maxPriceWithVAT": 155.9268156
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:10:16.742976"
+  }
+}

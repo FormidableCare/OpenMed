@@ -1,0 +1,65 @@
+{
+  "catalogId": "b0bd4e27-fc3b-4355-ad62-1c28676f65a6",
+  "name": "SOLU CORTEF 500",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "034 93 22552 00",
+  "treatmentDescriptions": "Solu-Cortef is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: - allergic states- dermatologic diseases- endocrine disorders- gastrointestinal diseases- hematologic disorders- miscellaneous- neoplastic diseases- nervous system disorders- ophthalmic diseases- renal diseases- respiratory diseases- rheumatic disorders- dollagen diseases- certain medical emergencies",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROCORTISONE AS SODIUM SUCCINATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB09",
+      "name": "HYDROCORTISONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOLU CORTEF 500mg/4 ml 1 VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8219",
+        "yarpa": "86418",
+        "pharmasoft": "19851",
+        "barcode": "7290010355556"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 45.8201115,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 61.62804997,
+        "maxPriceWithVAT": 72.72109573
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:28:08.304277"
+  }
+}

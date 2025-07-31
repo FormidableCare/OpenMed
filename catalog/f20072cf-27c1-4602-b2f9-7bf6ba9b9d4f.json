@@ -1,0 +1,65 @@
+{
+  "catalogId": "f20072cf-27c1-4602-b2f9-7bf6ba9b9d4f",
+  "name": "BENEFIX 1000 IU/VIAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "120 57 30123 01",
+  "treatmentDescriptions": "Benefix is indicated for the control and prevention of hemorrhagic episodes in patients with hemophilia B (congenital factor IX deficiency or christmas disease), including control and prevention of bleeding in surgical settings, in previously treated patients (PTP) and previously untreated patients (PUP). Benefix  is not indicated for the treatment of other factor deficiencies (e.g. factors II,VII, and X)' nor for the treatment of hemophilia A patients with inhibitors to factor VIII, nor for the reversal of coumarin-induced anticoagulation, nor for the treatment of bleeding due to low levels of liver-dependent coagulation factors.",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COAGULATION FACTOR IX RECOMBINANT-RFIX/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD04",
+      "name": "COAGULATION FACTOR IX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BENEFIX 500 IU/VIAL I.V 1 VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6728",
+        "yarpa": "37886",
+        "pharmasoft": "54960",
+        "barcode": "8470006591734"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 930.058197,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1092.818381,
+        "maxPriceWithVAT": 1289.525633
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:30:33.084423"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "661d8acc-32ed-4629-b61a-9d74c735fdaa",
+  "name": "FULPHILA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 12 35791 00",
+  "treatmentDescriptions": "Reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with cytotoxic chemotherapy, given at intervals of 14 days or more, for malignancy. ( with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PEGFILGRASTIM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AA13",
+      "name": "PEGFILGRASTIM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FULPHILA 6MG/0.6ML PRE-FILED SYR",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8639",
+        "yarpa": "28673",
+        "pharmasoft": "6633",
+        "barcode": "7290015912693"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2092.801309,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2302.08144,
+        "maxPriceWithVAT": 2716.455979
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:21:28.551807"
+  }
+}

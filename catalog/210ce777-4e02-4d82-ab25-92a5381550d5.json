@@ -1,0 +1,63 @@
+{
+  "catalogId": "210ce777-4e02-4d82-ab25-92a5381550d5",
+  "name": "SITAR PLUS 50/1000",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 98 36685 99",
+  "treatmentDescriptions": "Sitar plus is indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes mellitus. Important limitations of use: Sitar plus should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings. Sitar plus has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Sitar plus.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METFORMIN HYDROCHLORIDE, SITAGLIPTIN AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BD07",
+      "name": "METFORMIN AND SITAGLIPTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SITAR PLUS 50/1000 56 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPAQUE PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9130",
+        "yarpa": "5823"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 54.81748343,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 73.72951522,
+        "maxPriceWithVAT": 87.00082796
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:20:56.366686"
+  }
+}

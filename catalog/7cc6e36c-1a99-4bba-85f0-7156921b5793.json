@@ -1,0 +1,62 @@
+{
+  "catalogId": "7cc6e36c-1a99-4bba-85f0-7156921b5793",
+  "name": "EXONDYS 51",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 85 35258 00",
+  "treatmentDescriptions": "EXONDYS 51 is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients who have a confirmed mutation of the DMD gene that is amenable to exon 51 skipping.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETEPLIRSEN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M09AX06",
+      "name": "ETEPLIRSEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EXONDYS 51\t 1VIAL  100 MG/2ML",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8237"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:50:17.284657"
+  }
+}

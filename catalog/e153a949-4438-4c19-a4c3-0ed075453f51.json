@@ -1,0 +1,63 @@
+{
+  "catalogId": "e153a949-4438-4c19-a4c3-0ed075453f51",
+  "name": "METOJECT 50 MG/ML S.C",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 34 33074 04",
+  "treatmentDescriptions": "Psoriasis in adult patients :because of the high risk attending its use, Methotrexate is indicated only in the symptomatic control of severe recalcitrant, disabling psoriasis  which is not adequately responsive to other forms of therapy, and only when the diagnosis has been established, as by biopsy and/or after dermatological consultation. Rheumatoid Arthritis: Methotrexate can be used in the treatment of selected adults with severe rheumatoid arthritis, only when the diagnosis has been well estabished according to rheumatological standards, with inadequate response to other forms of antirheumatic therapy, including full dose NSAIDs and usually a trial of at least one or more disease-modifying antirheumatic drugs.Juvenile Idiopathic Arthritis:Treatment of Polyarthritic forms of severe, active juvenile idiopathic arthritis in patients 3 years of age and above when the response to non-steroidal anti-inflammatory drugs (NSAIDs) has been inadequateCrohn’s Disease: Mild to moderate Crohn's disease either alone or in combination with corticosteroids in adult patients refractory or intolerant to thiopurines.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHOTREXATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BA01",
+      "name": "METHOTREXATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METOJECT 50MG/ML SYRINGE PREFILLED 22.5MG/0.45ML",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7455",
+        "yarpa": "4090"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 90.5645,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 121.8092525,
+        "maxPriceWithVAT": 143.734918
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:19:50.825984"
+  }
+}

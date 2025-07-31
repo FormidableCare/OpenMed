@@ -1,0 +1,65 @@
+{
+  "catalogId": "a9f598de-035f-4769-9c62-2675ce55cb4f",
+  "name": "INTELENCE 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 29 31789 00",
+  "treatmentDescriptions": "Intelence is indicated in combination with other antiretroviral medicinal products  for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in antiretroviral treatment-experienced adult patients  including those with non-nucleoside reverse transcriptase inhibitor (NNRTI) resistance.  Treatment history and when available  resistance testing  should guide the use of Intelence. In patients who have experienced virological failure on an NNRTI- and nucleoside or nucleotide reverse transcriptase inhibitor (N[t]RTI) - containing regimen  Intelence is not recommended for use in combination with N(t)RTIs only.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETRAVIRINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AG04",
+      "name": "ETRAVIRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INTELENCE 100MG 120 TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6394",
+        "yarpa": "83838",
+        "pharmasoft": "9338",
+        "barcode": "7290008099332"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1265.50919,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1486.973298,
+        "maxPriceWithVAT": 1754.628413
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:09:17.706906"
+  }
+}

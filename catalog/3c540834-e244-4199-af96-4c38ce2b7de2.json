@@ -1,0 +1,65 @@
+{
+  "catalogId": "3c540834-e244-4199-af96-4c38ce2b7de2",
+  "name": "ATROSPAN EYE DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 40 23520 00",
+  "treatmentDescriptions": "Mydriatic.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ATROPINE SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01FA01",
+      "name": "ATROPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ATROSPAN DROPS 1% 10CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1790",
+        "yarpa": "282",
+        "pharmasoft": "1363",
+        "barcode": "7290000849508"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.9,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 39.593,
+        "maxPriceWithVAT": 46.71973792
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:25:44.372915"
+  }
+}

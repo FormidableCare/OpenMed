@@ -1,0 +1,65 @@
+{
+  "catalogId": "587d0340-34de-4608-8be9-bf87d79b34f9",
+  "name": "DANALONE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 81 31155 00",
+  "treatmentDescriptions": "For glucocorticoid respousive inflamination as: Endocrine disorders, rheumatic disorders, collagen diseases, dermatologic diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states and gastrointestinal diseases.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREDNISOLONE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB06",
+      "name": "PREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DANALONE SYRUP 60ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "20",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4913",
+        "yarpa": "66605",
+        "pharmasoft": "4481",
+        "barcode": "7290000843292"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:40:54.988295"
+  }
+}

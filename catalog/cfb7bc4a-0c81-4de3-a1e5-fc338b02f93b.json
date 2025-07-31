@@ -1,0 +1,64 @@
+{
+  "catalogId": "cfb7bc4a-0c81-4de3-a1e5-fc338b02f93b",
+  "name": "DIPROSPAN INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 07 24139 00",
+  "treatmentDescriptions": "Produces anti-inflammatory, anti rheumatic and anti-allergic action and is indicated for systemic and local therapy of acute and chronic corticosteroid-responsive disorders.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m, intradermal, intra-articular, intrabursal, periarticular, soft tissue injection, intralesional",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETAMETHASONE SODIUM PHOSPHATE/ML, BETAMETHASONE AS DIPROPIONATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB01",
+      "name": "BETAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DIPROSPAN 1AMPX1ML",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1252",
+        "yarpa": "702",
+        "pharmasoft": "4137"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.18427,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.4324499,
+        "maxPriceWithVAT": 22.93028986
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:59:22.048485"
+  }
+}

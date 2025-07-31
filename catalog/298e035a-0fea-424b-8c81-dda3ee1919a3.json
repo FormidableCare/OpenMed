@@ -1,0 +1,65 @@
+{
+  "catalogId": "298e035a-0fea-424b-8c81-dda3ee1919a3",
+  "name": "RECTOGESIC ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 66 31709 00",
+  "treatmentDescriptions": "For relief of pain associated with chronic anal fissure.   In the clinical development of the drug  a modest effect has shown on improvement in average daily pain intensity.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLYCERYL TRINITRATE 0.4 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01DA02",
+      "name": "GLYCERYL TRINITRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RECTOGESIC 0.4% 30GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6338",
+        "yarpa": "83584",
+        "pharmasoft": "18414",
+        "barcode": "7298074050202"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 160.4067615,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 200.5084519,
+        "maxPriceWithVAT": 236.5999627
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:19:52.798837"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "1386e7b2-24dc-454c-ac42-f19e5130d5d3",
+  "name": "MYOCHOLINE-GLENWOOD 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 20 35286 00",
+  "treatmentDescriptions": "Myocholine Glenwood is indicated in cases of postoperative urinary retention due to atony of the bladder in adults in diseases in which a stimulation of the bladder muscle is needed.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETHANECHOL CHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07AB02",
+      "name": "BETHANECHOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYOCHOLINE-GLENWOOD 25 MG 50 TAB",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9421",
+        "yarpa": "73031",
+        "barcode": "7290018609880"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 103.6968525,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 129.6210656,
+        "maxPriceWithVAT": 152.9528506
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:38:37.085133"
+  }
+}

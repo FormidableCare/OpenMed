@@ -1,0 +1,63 @@
+{
+  "catalogId": "b9adeb73-0534-4407-8866-34a451d2ff42",
+  "name": "KAMRAB",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 88 31771 00",
+  "treatmentDescriptions": "KamRAB IM is indicated for passive, transient post-exposure prevention of rabies infection when given immediately to individuals in cases of contact with rabid or possibly rabid animal.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HUMAN-RABIES IMMUNOGLOBULIN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BB05",
+      "name": "RABIES IMMUNOGLOBULIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KAMRAB 150IU/ML 1VIAL/10ML",
+      "manufacturer": {
+        "name": "קמהדע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6889",
+        "barcode": "7290008072250"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5439.585555,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5983.544111,
+        "maxPriceWithVAT": 7060.581737
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:22:28.661815"
+  }
+}

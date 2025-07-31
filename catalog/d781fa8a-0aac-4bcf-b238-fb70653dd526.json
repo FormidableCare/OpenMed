@@ -1,0 +1,65 @@
+{
+  "catalogId": "d781fa8a-0aac-4bcf-b238-fb70653dd526",
+  "name": "ELONVA 100 MCG / 0.5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 30 33282 00",
+  "treatmentDescriptions": "Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist for the development of multiple follicles in women participating in an Assisted Reproductive Technology (ART) program.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CORIFOLLITROPIN ALFA/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA09",
+      "name": "CORIFOLLITROPIN ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELONVA 150MCG/0.5ML 1 SYRINGE PREFILLED",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6676",
+        "yarpa": "19933",
+        "pharmasoft": "5529",
+        "barcode": "7290008121804"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1846.849074,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2031.533981,
+        "maxPriceWithVAT": 2397.209991
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:16:46.200328"
+  }
+}

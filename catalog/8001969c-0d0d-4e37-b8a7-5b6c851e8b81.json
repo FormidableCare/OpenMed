@@ -1,0 +1,64 @@
+{
+  "catalogId": "8001969c-0d0d-4e37-b8a7-5b6c851e8b81",
+  "name": "INLYTA 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 67 33736 00",
+  "treatmentDescriptions": "For the treatment of advanced renal cell carcinoma (RCC) after failure of one prior systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AXITINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE17",
+      "name": "AXITINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INLYTA 1MG 60 F.C.TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7321",
+        "yarpa": "48746",
+        "pharmasoft": "9684"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2363.099382,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2599.40932,
+        "maxPriceWithVAT": 3067.302861
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:06:00.863595"
+  }
+}

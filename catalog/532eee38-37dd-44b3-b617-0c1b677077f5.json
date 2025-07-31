@@ -1,0 +1,65 @@
+{
+  "catalogId": "532eee38-37dd-44b3-b617-0c1b677077f5",
+  "name": "NEXAVAR ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 01 31543 00",
+  "treatmentDescriptions": "Nexavar is indicated for the treatment of patients with advanced renal cell carcinoma.   Treatment of patients with hepatocellular carcinoma.Nexavar is indicated for the treatment of patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma, refractory to radioactive iodine.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SORAFENIB AS TOSYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE05",
+      "name": "SORAFENIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEXAVAR 200MG 112 TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 112.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER POLYPROPYLENE/ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6135",
+        "yarpa": "89330",
+        "pharmasoft": "14447",
+        "barcode": "7298074020595"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4918.89524,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5410.784764,
+        "maxPriceWithVAT": 6384.726022
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:44:37.950571"
+  }
+}

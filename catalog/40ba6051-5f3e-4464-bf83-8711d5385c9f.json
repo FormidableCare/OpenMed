@@ -1,0 +1,65 @@
+{
+  "catalogId": "40ba6051-5f3e-4464-bf83-8711d5385c9f",
+  "name": "PRED-FORTE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 24 29914 00",
+  "treatmentDescriptions": "For steroid responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREDNISOLONE ACETATEW/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01BA04",
+      "name": "PREDNISOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRED-FORTE 1% OPH 5ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4507",
+        "yarpa": "29889",
+        "pharmasoft": "16424",
+        "barcode": "7290008127349"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.580570417,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 13.12538147,
+        "maxPriceWithVAT": 15.48794945
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:51:18.782021"
+  }
+}

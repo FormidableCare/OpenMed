@@ -1,0 +1,62 @@
+{
+  "catalogId": "a197e87c-4ccc-49d8-8e3b-ca7360238c4d",
+  "name": "SUBLOCADE 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 66 35771 00",
+  "treatmentDescriptions": "SUBLOCADE is indicated for the treatment of moderate to severe opioid use disorder in patients over 15 years of age who have been induced and clinically stabilized on a transmucosal buprenorphine-containing product. SUBLOCADE should be used as part of a complete treatment plan that includes counseling and psychosocial support.",
+  "termsOfIssue": "Prescription required",
+  "form": "extended release solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPRENORPHINE/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AE01",
+      "name": "BUPRENORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUBLOCADE 100 MG/0.5 ML  E.R SOL FOR INJ 1 PFS",
+      "manufacturer": {
+        "name": "נעמי שאקו עזרה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8629"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:47:46.067042"
+  }
+}

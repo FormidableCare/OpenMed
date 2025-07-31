@@ -1,0 +1,64 @@
+{
+  "catalogId": "9bd1b50a-bb5e-4d2d-a397-d8cefee0926d",
+  "name": "CLOPIXOL 10 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 86 25486 00",
+  "treatmentDescriptions": "Acute schizophrenia .Other acute psychoses.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZUCLOPENTHIXOL AS DIHYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AF05",
+      "name": "ZUCLOPENTHIXOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLOPIXOL 2MG 50TAB",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "628",
+        "yarpa": "8217",
+        "pharmasoft": "3628"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.345,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.80265,
+        "maxPriceWithVAT": 15.10712633
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:22:54.222410"
+  }
+}

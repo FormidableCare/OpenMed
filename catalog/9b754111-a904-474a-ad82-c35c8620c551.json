@@ -1,0 +1,63 @@
+{
+  "catalogId": "9b754111-a904-474a-ad82-c35c8620c551",
+  "name": "AMPRES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 11 36305 00",
+  "treatmentDescriptions": "Spinal anaesthesia in adults where the planned surgical procedure should not exceed 40 minutes",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "intrathecal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLOROPROCAINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BA04",
+      "name": "CHLOROPROCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMPRES 10MG/ML  10 AMP 5 ML",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8815",
+        "barcode": "7290018609842"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 419.7891683,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 493.2522728,
+        "maxPriceWithVAT": 582.037656
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:23:10.277878"
+  }
+}

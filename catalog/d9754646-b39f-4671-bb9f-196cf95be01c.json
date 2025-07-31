@@ -1,0 +1,65 @@
+{
+  "catalogId": "d9754646-b39f-4671-bb9f-196cf95be01c",
+  "name": "DERMACOMBIN CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 54 23775 00",
+  "treatmentDescriptions": "For the relief of corticosteroid-responsive inflammatory or pruritic dermatoses caused, threatened or complicated by infection due to bacteria and/or candida",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NYSTATIN/G, GRAMICIDIN 0.25 MG/G, NEOMYCIN AS SULFATE 2.5 MG/G, TRIAMCINOLONE ACETONIDE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07CB01",
+      "name": "TRIAMCINOLONE AND ANTIBIOTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DERMACOMBIN CREAM 15G",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2060",
+        "yarpa": "636",
+        "pharmasoft": "4070",
+        "barcode": "7290000809113"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:48:32.434332"
+  }
+}

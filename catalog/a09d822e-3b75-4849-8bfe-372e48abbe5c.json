@@ -1,0 +1,65 @@
+{
+  "catalogId": "a09d822e-3b75-4849-8bfe-372e48abbe5c",
+  "name": "CEFUROXIME PANPHARMA 750 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 73 30873 00",
+  "treatmentDescriptions": "Infections caused by susceptible microorganisms, prophylaxis against post operative infections in a variety of operations.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFUROXIME AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DC02",
+      "name": "CEFUROXIME"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PAN-CEFUROXIME 750 MG 10 VIAL",
+      "manufacturer": {
+        "name": "פארמלוג'יק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7965",
+        "yarpa": "72438",
+        "pharmasoft": "16713",
+        "barcode": "7290006676832"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 91.4523,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 123.0033435,
+        "maxPriceWithVAT": 145.1439453
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:26:30.087732"
+  }
+}

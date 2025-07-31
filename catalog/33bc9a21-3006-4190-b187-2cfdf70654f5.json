@@ -1,0 +1,64 @@
+{
+  "catalogId": "33bc9a21-3006-4190-b187-2cfdf70654f5",
+  "name": "REBLOZYL 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 03 36646 00",
+  "treatmentDescriptions": "Reblozyl is indicated in: •\tAdults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).•\tAdults for the treatment of anaemia associated with transfusion dependent and non-transfusion-dependent beta-thalassaemia",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LUSPATERCEPT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03XA06",
+      "name": "LUSPATERCEPT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REBLOZYL 25 MG 1 VIAL",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8784",
+        "yarpa": "16519",
+        "barcode": "7290014396180"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4804.327992,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5284.760791,
+        "maxPriceWithVAT": 6236.017456
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:18:59.864007"
+  }
+}

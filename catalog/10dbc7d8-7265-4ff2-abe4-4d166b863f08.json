@@ -1,0 +1,64 @@
+{
+  "catalogId": "10dbc7d8-7265-4ff2-abe4-4d166b863f08",
+  "name": "FUCICORT CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "056 30 26527 00",
+  "treatmentDescriptions": "Treatment of eczematous dermatoses when secondary bacterial infection is confirmed.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FUSIDIC ACID, BETAMETHASONE AS VALERATE 0.1 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07CC01",
+      "name": "BETAMETHASONE AND ANTIBIOTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FUCICORT CREAM 15GR",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2568",
+        "yarpa": "8552",
+        "pharmasoft": "6329"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 28.09592325,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.49141485,
+        "maxPriceWithVAT": 45.41986751
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:20:46.096753"
+  }
+}

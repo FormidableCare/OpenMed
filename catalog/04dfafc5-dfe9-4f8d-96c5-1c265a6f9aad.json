@@ -1,0 +1,65 @@
+{
+  "catalogId": "04dfafc5-dfe9-4f8d-96c5-1c265a6f9aad",
+  "name": "CATAFLAM 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 40 28459 00",
+  "treatmentDescriptions": "Management of pain and primary dysmenorrhea, when prompt pain relief is desired.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DICLOFENAC AS POTASSIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AB05",
+      "name": "DICLOFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CATAFLAM 50MG 10TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3156",
+        "yarpa": "9289",
+        "pharmasoft": "3122",
+        "barcode": "7290008051873"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.35742,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.1896654,
+        "maxPriceWithVAT": 16.74380443
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:57:20.159440"
+  }
+}

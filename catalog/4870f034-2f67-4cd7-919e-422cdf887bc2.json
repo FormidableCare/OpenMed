@@ -1,0 +1,64 @@
+{
+  "catalogId": "4870f034-2f67-4cd7-919e-422cdf887bc2",
+  "name": "NOVONORM 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 47 29661 12",
+  "treatmentDescriptions": "Repaglinide is indicated in adults with type 2 diabetes mellitus whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Repaglinide is also indicated in combination with metformin in adults with type 2diabetes mellitus who are not satisfactorily controlled on metformin alone.Treatment should be initiated as an adjunct to diet and exercise to lower the blood glucose in relation to meals.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "REPAGLINIDE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BX02",
+      "name": "REPAGLINIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NOVONORM 2MG 90TAB",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3810",
+        "yarpa": "20254",
+        "pharmasoft": "14216"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 35.9442,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 49.243554,
+        "maxPriceWithVAT": 58.10739372
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:55:14.818122"
+  }
+}

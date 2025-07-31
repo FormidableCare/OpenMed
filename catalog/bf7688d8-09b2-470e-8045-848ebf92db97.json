@@ -1,0 +1,64 @@
+{
+  "catalogId": "bf7688d8-09b2-470e-8045-848ebf92db97",
+  "name": "RYBELSUS 14 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 74 36541 00",
+  "treatmentDescriptions": "Rybelsus is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise• as monotherapy when metformin is considered inappropriate due to intolerance or contraindications• in combination with other medicinal products for the treatment of diabetes.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEMAGLUTIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BJ06",
+      "name": "SEMAGLUTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RYBELSUS 7 MG 30 TAB",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8787",
+        "yarpa": "69366",
+        "pharmasoft": "18634"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 365.7368925,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 429.7408487,
+        "maxPriceWithVAT": 507.0941789
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:54:54.396017"
+  }
+}

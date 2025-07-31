@@ -1,0 +1,65 @@
+{
+  "catalogId": "5310eefe-e603-4dae-a081-b533631acde9",
+  "name": "SULFACID",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 39 24176 00",
+  "treatmentDescriptions": "Eye infections caused by micro-organisms sensitive to sulfacetamide.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SULFACETAMIDE SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AB04",
+      "name": "SULFACETAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SULFACID DROPS 5CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE POLYETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1834",
+        "yarpa": "2061",
+        "pharmasoft": "19171",
+        "barcode": "7290000849645"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.51,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.6587,
+        "maxPriceWithVAT": 13.75726539
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:49:41.209380"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "56cdbd31-ceb4-46b4-97e5-dd2a9ef90780",
+  "name": "ORAMORPH 20 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 96 34100 00",
+  "treatmentDescriptions": "For the relief of moderate to severe pain",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MORPHINE AS SULFATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AA01",
+      "name": "MORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MORPHINE 1MG/ML 5ML 5 AMP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6612",
+        "yarpa": "10066",
+        "barcode": "7290010286867"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 161.85156,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 202.31445,
+        "maxPriceWithVAT": 238.7310404
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:31:32.365693"
+  }
+}

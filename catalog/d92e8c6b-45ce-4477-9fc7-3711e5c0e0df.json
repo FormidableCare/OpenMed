@@ -1,0 +1,63 @@
+{
+  "catalogId": "d92e8c6b-45ce-4477-9fc7-3711e5c0e0df",
+  "name": "FOMICYT 2 G.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 51 37318 99",
+  "treatmentDescriptions": "Fomicyt is indicated in all age groups for the treatment of the following infections when it is considered inappropriate to use antibacterial agents that are commonly recommended for their initial treatment:• complicated urinary tract infections• infective endocarditis• bone and joint infections• hospital-acquired pneumonia, including ventilator-associated pneumonia• complicated skin and soft tissue infection• bacterial meningitis• complicated intra-abdominal infections• bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed aboveConsideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOSFOMYCIN AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01XX01",
+      "name": "FOSFOMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FOMICYT 2 G. 10 VIALS",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9457",
+        "yarpa": "19056"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 717.764341,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 843.3731007,
+        "maxPriceWithVAT": 995.1802146
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:15:36.508962"
+  }
+}

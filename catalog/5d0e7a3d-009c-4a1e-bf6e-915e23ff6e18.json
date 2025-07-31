@@ -1,0 +1,65 @@
+{
+  "catalogId": "5d0e7a3d-009c-4a1e-bf6e-915e23ff6e18",
+  "name": "SPIRIVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 47 31120 00",
+  "treatmentDescriptions": "Tiotropium is a bronchodilator for the maintenance treatment of chronic obstructive pulmonary disease (COPD).",
+  "termsOfIssue": "Prescription required",
+  "form": "inhalation powder hard capsules",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIOTROPIUM BROMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BB04",
+      "name": "TIOTROPIUM BROMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPIRIVA 18MCG 30 HARD CAPS+HANDIHALER",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4874",
+        "yarpa": "65853",
+        "pharmasoft": "19758",
+        "barcode": "9006968012605"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 78.9935055,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 106.2462649,
+        "maxPriceWithVAT": 125.370587
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:34:28.043091"
+  }
+}

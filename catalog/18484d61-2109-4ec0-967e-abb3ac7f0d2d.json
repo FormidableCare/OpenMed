@@ -1,0 +1,63 @@
+{
+  "catalogId": "18484d61-2109-4ec0-967e-abb3ac7f0d2d",
+  "name": "FAMPRIDINE TEVA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 44 37498 99",
+  "treatmentDescriptions": "Fampridine Teva is indicated for the improvement of walking in adult patients with multiple sclerosis with walking disability (EDSS 4-7)",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FAMPRIDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX07",
+      "name": "FAMPRIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FAMPRIDINE TEVA 10 MG 56 P.R. Tab",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/PVDC",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9585",
+        "yarpa": "30407"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 546.4706499,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 642.1030136,
+        "maxPriceWithVAT": 757.6815224
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:53:04.353980"
+  }
+}

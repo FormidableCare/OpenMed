@@ -1,0 +1,64 @@
+{
+  "catalogId": "78641f5a-3d5d-49e4-855f-aecd60cf9472",
+  "name": "JULUCA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 69 35445 00",
+  "treatmentDescriptions": "Juluca is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults who are virologically-suppressed (HIV-1 RNA <50 copies/mL) on a stable antiretroviral regimen for at least six months with no history of virological failure and no known or suspected resistance to any non-nucleoside reverse transcriptase inhibitor or integrase inhibitor",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RILPIVIRINE AS HYDROCHLORIDE, DOLUTEGRAVIR AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AR21",
+      "name": "DOLUTEGRAVIR AND RILPIVIRINE "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "JULUCA 30 tab",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8302",
+        "yarpa": "26818",
+        "pharmasoft": "10395"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2533.173667,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2786.491034,
+        "maxPriceWithVAT": 3288.059274
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:20:13.858560"
+  }
+}

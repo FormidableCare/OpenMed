@@ -1,0 +1,64 @@
+{
+  "catalogId": "6d949cf3-2688-42b2-b952-8b17803feee8",
+  "name": "GLIOLAN ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 85 33857 01",
+  "treatmentDescriptions": "Gliolan® is indicated in adult patients for visualisation of malignant tissue during surgery for malignant  glioma (WHO grade III and IV).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "5-AMINOLEVULINIC ACID HYDROCHLORIDE 1.5 G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XD04",
+      "name": "AMINOLEVULINIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLIOLAN 1.5 G 1 VIAL",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9456",
+        "yarpa": "19097",
+        "barcode": "7290100819159"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3763.327335,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4139.660069,
+        "maxPriceWithVAT": 4884.798664
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:35:51.525787"
+  }
+}

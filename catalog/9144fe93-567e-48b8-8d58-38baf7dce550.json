@@ -1,0 +1,64 @@
+{
+  "catalogId": "9144fe93-567e-48b8-8d58-38baf7dce550",
+  "name": "ABSTRAL 100 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 73 33262 01",
+  "treatmentDescriptions": "Management of breakthrough pain in adult patients using opioid therapy for chronic cancer pain. Breakthrough pain is a transient exacerbation of otherwise controlled chronic background pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets sublingual",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL AS CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AH01",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABSTRAL 200MCG 30TAB SUBLINGUAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM-ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7243",
+        "yarpa": "46852",
+        "pharmasoft": "9668"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 762.3881,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 895.8060175,
+        "maxPriceWithVAT": 1057.051101
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:04:10.155024"
+  }
+}

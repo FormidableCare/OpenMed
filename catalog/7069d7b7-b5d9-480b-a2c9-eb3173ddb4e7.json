@@ -1,0 +1,65 @@
+{
+  "catalogId": "7069d7b7-b5d9-480b-a2c9-eb3173ddb4e7",
+  "name": "CELLCEPT 250 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "111 34 29434 00",
+  "treatmentDescriptions": "Prophylaxis of rejection in renal allograft recepients, and in patients reciving allogenic cardiac transplants. Cellcept should be used concomitantly with cyclosporin and corticosteroids.Allogenic hepatic transplant.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MYCOPHENOLATE MOFETIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA06",
+      "name": "MYCOPHENOLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CELLCEPT 500MG 50TAB",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3668",
+        "yarpa": "33841",
+        "pharmasoft": "3391",
+        "barcode": "7290008140188"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 231.6613,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 272.2020275,
+        "maxPriceWithVAT": 321.1983925
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:04:48.516627"
+  }
+}

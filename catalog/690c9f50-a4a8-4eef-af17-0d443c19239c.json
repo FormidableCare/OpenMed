@@ -1,0 +1,64 @@
+{
+  "catalogId": "690c9f50-a4a8-4eef-af17-0d443c19239c",
+  "name": "ESKAZOLE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "114 55 27464 01",
+  "treatmentDescriptions": "Albendazole is indicated for the treatment of the following systemic helminth diseases: * Echinococcosis (hydatid disease)Albendazole is indicated for the treatment of liver, lung and peritoneal cysts. Experience with bone cysts and those in the central nervous system and heart is limited.  * Cystic echinococcosis (caused by Echinococcus granulosus)Albendazole is used in patients with cystic echinococcosis:1. When surgical intervention is not feasible .2. As a co-adjunct to surgical treatment. 3. Prior to surgical intervention. 4. If preoperative treatment was too short, if spillage has occurred or if viable cysts were found at surgery. 5. Following percutaneous drainage of cysts for diagnostic or therapeutic reasons.  * Alveolar echinococcosis (caused by Echinococcus multilocularis)Although its efficacy has not been completely demonstrated in clinical trials, albendazole is used in patients with alveolar echinococcosis in the following situations:1. In inoperable disease, particularly in cases of local or distant metastasis.2. Following palliative surgery.3. Following radical surgery or liver transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALBENDAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P02CA03",
+      "name": "ALBENDAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ESKAZOLE 400MG 60TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2754",
+        "yarpa": "8904",
+        "pharmasoft": "5010"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 524.686806,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 616.5069971,
+        "maxPriceWithVAT": 727.4782242
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:35:31.363433"
+  }
+}

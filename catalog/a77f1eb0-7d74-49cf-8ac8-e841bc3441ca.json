@@ -1,0 +1,64 @@
+{
+  "catalogId": "a77f1eb0-7d74-49cf-8ac8-e841bc3441ca",
+  "name": "INVANZ",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 09 30612 00",
+  "treatmentDescriptions": "Invanz is indicated for the treatment of adult patients and pediatric patients ( 3 months of age and older) with the following moderate to severe infections caused by susceptible isolates of the designated microorganisms. - Complicated intra-abdominal infections. - Complicated skin and skin structure infections including diabetic foot infections without osteomyelitis. - Community acquired pneumonia. - Complicated urinary tract infections including pyelonephritis. Acute pelvic infections including postpartum endomyometritis  septic abortion and post surgical gynecologic infections.",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERTAPENEM AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DH03",
+      "name": "ERTAPENEM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INVANZ IM/IV 1G/VIAL 20ML 10VIAL",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 15 ML GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7749",
+        "yarpa": "35593",
+        "pharmasoft": "9278"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1064.282593,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1250.532047,
+        "maxPriceWithVAT": 1475.627749
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:10:42.714551"
+  }
+}

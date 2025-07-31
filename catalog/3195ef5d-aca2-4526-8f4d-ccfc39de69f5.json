@@ -1,0 +1,64 @@
+{
+  "catalogId": "3195ef5d-aca2-4526-8f4d-ccfc39de69f5",
+  "name": "SPECTRACEF 200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 36 36015 00",
+  "treatmentDescriptions": "SPECTRACEF is indicated in adults and adolescents (12 years of age or older) for the treatment of the following infections caused by susceptible microorganisms:• Acute pharyngo-tonsillitis• Acute maxillary sinusitis• Acute exacerbations of chronic bronchitis• Community-acquired pneumonia, mild to moderate• Uncomplicated skin and skin structure infections, such as cellulitis, infected wounds, abscesses, folliculitis, impetigo and boils.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFDITOREN AS PIVOXIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DD16",
+      "name": "CEFDITOREN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPECTRACEF 400 MG 10 TABS",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/PA/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9063",
+        "yarpa": "64146",
+        "barcode": "7290017164298"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 107.554482,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 134.4431025,
+        "maxPriceWithVAT": 158.6428539
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:33:26.117017"
+  }
+}

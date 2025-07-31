@@ -1,0 +1,65 @@
+{
+  "catalogId": "c005e101-09bb-4a58-a341-6f1941a43850",
+  "name": "DUAVIVE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 37 34551 00",
+  "treatmentDescriptions": "Treatment of the following conditions in women with a uterus:• Treatment of moderate to severe vasomotor symptoms associated with menopause• Prevention of postmenopausal osteoporosis",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets modified release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BAZEDOXIFENE ACETATE, ESTROGENS CONJUGATED 0.45  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CC07",
+      "name": "CONJUGATED ESTROGENS AND BAZEDOXIFENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DUAVIVE 28 SR TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ACLAR/PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7999",
+        "yarpa": "56619",
+        "pharmasoft": "4670",
+        "barcode": "7290013592286"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 112.0005264,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 140.000658,
+        "maxPriceWithVAT": 165.2007691
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:05:25.153391"
+  }
+}

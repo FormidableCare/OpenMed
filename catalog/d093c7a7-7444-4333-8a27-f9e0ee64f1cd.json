@@ -1,0 +1,65 @@
+{
+  "catalogId": "d093c7a7-7444-4333-8a27-f9e0ee64f1cd",
+  "name": "PROQUAD",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 72 34392 00",
+  "treatmentDescriptions": "ProQuad is indicated for simultaneous vaccination against measles, mumps, rubella, and varicella in individuals from 12 months of age to 12 years of age.ProQuad can be administered to individuals from 9 months of age under special circumstances: outbreak situations, or travel to a region with high prevalence of measles.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for suspension for injection",
+  "route": "s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEASLES VIRUS ENDERS EDMONSTON STRAIN (LIVE, ATTENUATED), VARICELLA VIRUS OKA/MERCK STRAIN (LIVE, ATTENUATED), RUBELLA VIRUS WISTAR RA 27/3 STRAIN (LIVE, ATTENUATED), MUMPS VIRUS JERYL LYNN (LEVEL B) STRAIN (LIVE, ATTENUATED)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BD54",
+      "name": "MEASLES, COMBINATIONS WITH MUMPS, RUBELLA AND VARICELLA, LIVE ATTENUATED"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROQUAD 1 vial",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 3 ML GLASS TYPE I",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7893",
+        "yarpa": "47562",
+        "pharmasoft": "16958",
+        "barcode": "7290006813831"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 303.9381599,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 357.1273378,
+        "maxPriceWithVAT": 421.4102399
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:03:15.255239"
+  }
+}

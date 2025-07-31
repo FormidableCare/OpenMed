@@ -1,0 +1,65 @@
+{
+  "catalogId": "b7a61f22-7395-4c1e-9905-65c21c0ab013",
+  "name": "KEMADRIN TABLETS 5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "018 27 20446 05",
+  "treatmentDescriptions": "Indicated in all forms of parkinson's disease: idiopathic (paralysis agitans), post encephalitic and arteriosclerotic.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROCYCLIDINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N04AA04",
+      "name": "PROCYCLIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KEMADRIN 5MG 100TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2470",
+        "yarpa": "1130",
+        "pharmasoft": "11047",
+        "barcode": "7290008105262"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16.94461,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 23.2141157,
+        "maxPriceWithVAT": 27.39265531
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:23:59.149333"
+  }
+}

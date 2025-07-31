@@ -1,0 +1,64 @@
+{
+  "catalogId": "33e5547c-9bc3-4ea5-bb61-ff0b789c927f",
+  "name": "MYLOTARG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 34 35804 00",
+  "treatmentDescriptions": "MYLOTARG is indicated for the treatment of newly-diagnosed CD33-positive acute myeloid leukemia in adults and pediatric patients 1 month and older.MYLOTARG is indicated for the treatment of relapsed or refractory CD33-positive acute myeloid leukemia in adults and in pediatric patients 2 years and older",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GEMTUZUMAB OZOGAMICIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC05",
+      "name": "GEMTUZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYLOTARG 5MG/VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8463",
+        "yarpa": "69619",
+        "barcode": "7290013592583"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27269.0656,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 29995.97216,
+        "maxPriceWithVAT": 35395.24557
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:38:26.651237"
+  }
+}

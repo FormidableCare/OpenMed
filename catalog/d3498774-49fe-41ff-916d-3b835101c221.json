@@ -1,0 +1,65 @@
+{
+  "catalogId": "d3498774-49fe-41ff-916d-3b835101c221",
+  "name": "RHOPHYLAC 300",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 75 30675 00",
+  "treatmentDescriptions": "Prophylaxis of Rh (D) immunisation in Rh (D)-negative women:    Anti-D immune globulin is administered for the prevention of Rh (D) immunization if it has been demonstrated  or if it is  suspected  that fetal erythrocytes have entered the circulation of the mother. Treatment is not necessary when it is assured that the child or the father are Rh (D)- negative. Criteria for a rhesus-incompatible pregnancy and the administration of anti-D immune globulin are : a) the mother is Rh (D) -negative  b) the child is either Rh (D)-positive Rh (D)weak - positive or its rhesus type is not known.    Routine antepartum prophylaxis : To prevent Rh (D) immunisation due to spontaneous fetomaternal haemorrhage (FMH) during the last trimester of pregnancy.   Postpartum prophylaxis To prevent Rh (D) immunisation of the Rh (D)-negative mother following delivery of a Rh (D)-positive child.    Complications of pregnancy: Interventions during pregnancy  such as invasive prenatal diagnosis (e.g. amniocentesis  chorionic villus sampling  fetal blood sampling) or other intrauterine procedures (e.g. insertion of shunts  embryo reduction)  external version of the fetus and therapeutic abortion. Incidents during pregnancy  such as antepartum haemorrhage  spontaneous abortion  ruptured tubal pregnancy  ectopic pregnancy  stillbirths  intrauterine death and abdominal trauma.   Treatment of Rh (D) -negative persons after incompatible transfusions of Rh (D)-positive blood or erythrocyte concentrate:    Prevention of Rh (D) immunisation in Rh (D)-negative persons who for any reason have been given blood or blood components containing Rh (D)-positive red cells.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANTI-D IMMUNOGLOBULINS/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BB01",
+      "name": "ANTI-D (RH) IMMUNOGLOBULIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RHOPHYLAC 300 150MCG/ML 2 ML",
+      "manufacturer": {
+        "name": "סי אס אל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9326",
+        "yarpa": "83471",
+        "pharmasoft": "18472",
+        "barcode": "7290011714925"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 256.4909568,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 301.3768742,
+        "maxPriceWithVAT": 355.6246958
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:33:27.218677"
+  }
+}

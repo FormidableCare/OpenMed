@@ -1,0 +1,65 @@
+{
+  "catalogId": "f4868433-7c24-447c-b66d-fe2228748c03",
+  "name": "CYSTADROPS  3.8 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 69 35476 00",
+  "treatmentDescriptions": "Cystadrops is indicated for the treatment of corneal cystine crystal deposits in adults and children from 2 years of age with cystinosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MERCAPTAMINE AS HYDROCHLORIDE 3.8  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AA04",
+      "name": "MERCAPTAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CYSTADROPS 3.8 MG / 1 VIAL 5 ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "6",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8501",
+        "yarpa": "3494",
+        "pharmasoft": "10662",
+        "barcode": "7290015666619"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:37:55.922548"
+  }
+}

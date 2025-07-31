@@ -1,0 +1,62 @@
+{
+  "catalogId": "34968e7b-05e7-4961-a6a2-2c73e6b06ce0",
+  "name": "MITOCIN 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 89 37070 99",
+  "treatmentDescriptions": "Intravenous, intra-arterial (hepatic artery), and local (intraserosal) administration for treatment ofadenocarcinomas of the stomach, pancreas, colon, rectum, breast and their Metastases.Intravesical administration for the prevention of recurrence in superficial cancer of bladder after transurethral resection.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.v, intravesical, , intra-arterial, intraserosal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MITOMYCIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01DC03",
+      "name": "MITOMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MITOCIN 20 MG 1 VIAL",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9495"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 207.8501963,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 244.2239807,
+        "maxPriceWithVAT": 288.1842844
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:28:00.010939"
+  }
+}

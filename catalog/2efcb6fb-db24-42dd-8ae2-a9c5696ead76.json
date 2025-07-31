@@ -1,0 +1,65 @@
+{
+  "catalogId": "2efcb6fb-db24-42dd-8ae2-a9c5696ead76",
+  "name": "AUGMENTIN SUSPENSION 400 MG/5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "112 75 29288 01",
+  "treatmentDescriptions": "Augmentin is indicated for the treatment of the following infections in adults and children: • Acute bacterial sinusitis (adequately diagnosed)• Acute otitis media• Acute exacerbations of chronic bronchitis (adequately diagnosed)• Community acquired pneumonia• Cystitis• Pyelonephritis• Skin and soft tissue infections in particular cellulitis, animal bites, severe dental abscess with spreading cellulitis.• Bone and joint infections, in particular osteomyelitis.• Recurrent tonsillitis",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLAVULANIC ACID AS POTASSIUM SALT 11.4 MG/ML, AMOXICILLIN AS TRIHYDRATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CR02",
+      "name": "AMOXICILLIN AND ENZYME INHIBITOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AUGMENTIN 250MG 20TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2637",
+        "yarpa": "8642",
+        "pharmasoft": "1008",
+        "barcode": "7290010140121"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16.91,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 23.1667,
+        "maxPriceWithVAT": 27.336706
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:31:16.067736"
+  }
+}

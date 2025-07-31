@@ -1,0 +1,65 @@
+{
+  "catalogId": "35352958-8093-41cf-9949-c703d0da895c",
+  "name": "CLEXANE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "046 77 26037 11",
+  "treatmentDescriptions": "Clexane is indicated in adults for: • Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients, in particular those undergoing orthopaedic or general surgery including cancer surgery. • Prophylaxis of venous thromboembolic disease in medical patients with an acute illness (such as acute heart failure, respiratory insufficiency, severe infections or rheumatic diseases) and reduced mobility at increased risk of venous thromboembolism. • Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), excluding PE likely to require thrombolytic therapy or surgery. • Prevention of thrombus formation in extra corporeal circulation during haemodialysis. • Acute coronary syndrome: - Treatment of unstable angina and Non ST-segment elevation myocardial infarction (NSTEMI), in combination with oral acetylsalicylic acid. - Treatment of acute ST-segment elevation myocardial infarction (STEMI) including patients to be managed medically or with subsequent percutaneous coronary intervention (PCI).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, s.c, extracorporeal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENOXAPARIN SODIUM/ML  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AB05",
+      "name": "ENOXAPARIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLEXANE 120MG/0.8ML SAFETY LOCK 10 SYR PREFIL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6634",
+        "yarpa": "22699",
+        "pharmasoft": "12436",
+        "barcode": "7290012711121"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 247.1070678,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 290.3508047,
+        "maxPriceWithVAT": 342.6139343
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:19:44.715289"
+  }
+}

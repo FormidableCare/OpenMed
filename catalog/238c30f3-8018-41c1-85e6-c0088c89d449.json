@@ -1,0 +1,65 @@
+{
+  "catalogId": "238c30f3-8018-41c1-85e6-c0088c89d449",
+  "name": "PREGABALIN INOVAMED 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 17 34774 00",
+  "treatmentDescriptions": "Pregabalin Inovamed is indicated for the:* treatment of peripheral and central neuropathic pain in adults. * Management of Fibromyalgia.* Treatment of Generalised Anxiety Disorder (GAD) in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREGABALIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX16",
+      "name": "PREGABALIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PREGABALIN INOVAMED 300 MG 56 CAPS",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8327",
+        "yarpa": "4218",
+        "pharmasoft": "10304",
+        "barcode": "7290104530364"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 135.7099,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 169.637375,
+        "maxPriceWithVAT": 200.1721025
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:53:22.161948"
+  }
+}

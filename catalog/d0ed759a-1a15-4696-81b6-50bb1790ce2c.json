@@ -1,0 +1,65 @@
+{
+  "catalogId": "d0ed759a-1a15-4696-81b6-50bb1790ce2c",
+  "name": "PROTHIAZINE EXPECTORANT SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 30 23206 00",
+  "treatmentDescriptions": "For temporary relief of cough due to colds, allergies.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROMETHAZINE HYDROCHLORIDE/, GUAIFENESIN/, IPECACUANHA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R05CA10",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROTHIAZINE EXP110ML",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 110.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2340",
+        "yarpa": "1823",
+        "pharmasoft": "16278",
+        "barcode": "7290008005265"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:04:48.852240"
+  }
+}

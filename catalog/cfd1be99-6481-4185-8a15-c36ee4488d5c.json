@@ -1,0 +1,63 @@
+{
+  "catalogId": "cfd1be99-6481-4185-8a15-c36ee4488d5c",
+  "name": "MIDAZOLAM KALCEKS 1 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 77 37234 99",
+  "treatmentDescriptions": "Midazolam is a short-acting sleep-inducing drug that is indicated: In adults * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia* Induction of anaesthesia* As a sedative component in combined anaesthesia * SEDATION IN INTENSIVE CARE UNITSIn children * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia * SEDATION IN INTENSIVE CARE UNITS",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIDAZOLAM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CD08",
+      "name": "MIDAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIDAZOLAM KALCEKS 5 MG/ML 1ML X 10AMP",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8910",
+        "yarpa": "71511"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.42,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.6054,
+        "maxPriceWithVAT": 31.394372
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:21:31.512056"
+  }
+}

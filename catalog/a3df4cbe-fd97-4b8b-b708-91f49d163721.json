@@ -1,0 +1,65 @@
+{
+  "catalogId": "a3df4cbe-fd97-4b8b-b708-91f49d163721",
+  "name": "ACYCLOVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 05 31907 00",
+  "treatmentDescriptions": "•\tindicated for the treatment of Herpes simplex infections in immunocompromised patients and severe initial genital herpes in the non-immunocompromised. •\tindicated for the prophylaxis of Herpes simplex infections in immunocompromised patients. •\tindicated for the treatment of Varicella zoster infections. •\tindicated for the treatment of herpes encephalitis. •\tindicated for the treatment of Herpes simplex infections in the neonate and infant up to 3 months of age.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ACICLOVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AB01",
+      "name": "ACICLOVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ACYCLO-V 200MG 30TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7602",
+        "yarpa": "59112",
+        "pharmasoft": "1903",
+        "barcode": "7290010286348"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.8579,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.165323,
+        "maxPriceWithVAT": 45.03508114
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:13:49.583671"
+  }
+}

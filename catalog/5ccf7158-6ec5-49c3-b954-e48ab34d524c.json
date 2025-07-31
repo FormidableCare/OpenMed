@@ -1,0 +1,65 @@
+{
+  "catalogId": "5ccf7158-6ec5-49c3-b954-e48ab34d524c",
+  "name": "CEFTAZIDIME-VIT 2 G.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 81 37596 99",
+  "treatmentDescriptions": "Ceftazidime-VIT  2 G is indicated for the treatment of the infections listed below in adults and children including neonates (from birth).•Nosocomial pneumonia•Broncho-pulmonary infections in cystic fibrosis•Bacterial meningitis•Chronic suppurative otitis media•Malignant otitis externa•Complicated urinary tract infections•Complicated skin and soft tissue infections•Complicated intra-abdominal infections•Bone and joint infections•Peritonitis associated with dialysis in patient on CAPD.Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above. Ceftazidime VIT 2 G may be used in the management of neutropenic patients with fever that is suspected to be due to abacterial infection. Ceftazidime VIT 2 G may be used in the peri-operative prophylaxis of urinary tract infections for patients undergoing trans-urethral resection of the prostate (TURP). The selection of ceftazidime should take into account its antibacterial spectrum, which is mainly restricted to aerobic Gram negative bacteria. Ceftazidime VIT 2 G should be co-administered with other antibacterial agents whenever the possible range of causive bacteria would not fall within its spectrum of activity. Consideration should be given to official guidelines on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFTAZIDIME AS PENTAHYDRATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DD02",
+      "name": "CEFTAZIDIME"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFTAZIDIME-VIT 1GR/VIAL   10VIALS",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8249",
+        "yarpa": "17058",
+        "pharmasoft": "129283",
+        "barcode": "7290104344343"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 229.92,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 270.156,
+        "maxPriceWithVAT": 318.78408
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:00:50.623439"
+  }
+}

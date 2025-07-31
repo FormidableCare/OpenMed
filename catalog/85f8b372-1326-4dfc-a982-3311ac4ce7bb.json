@@ -1,0 +1,65 @@
+{
+  "catalogId": "85f8b372-1326-4dfc-a982-3311ac4ce7bb",
+  "name": "MENOPUR MULTIDOSE 1200 IU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 67 33343 00",
+  "treatmentDescriptions": "Sterility in females with hypo or normogonadotropic ovarian insufficiency: stimulation of follicle growth. Sterility in males with hypo or normogonadotropic hypogonadism: In combination with HCG to spermatogenesis",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MENOTROPHIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA02",
+      "name": "HUMAN MENOPAUSAL GONADOTROPHIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MENOPUR MULTIDOSE 600 IU 1VIAL",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7023",
+        "yarpa": "33846",
+        "pharmasoft": "13698",
+        "barcode": "7046260863804"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 581.131455,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 682.8294596,
+        "maxPriceWithVAT": 805.7387265
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:11:40.971296"
+  }
+}

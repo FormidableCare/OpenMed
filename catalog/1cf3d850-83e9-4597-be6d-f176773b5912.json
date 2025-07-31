@@ -1,0 +1,65 @@
+{
+  "catalogId": "1cf3d850-83e9-4597-be6d-f176773b5912",
+  "name": "DUAC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 92 31439 01",
+  "treatmentDescriptions": "Mild to moderate acne vulgaris, particulary inflammatory lesions.",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLINDAMYCIN AS PHOSPHATEW/W, BENZOYL PEROXIDE AS HYDROUSW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D10AF01",
+      "name": "CLINDAMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DUAC TOPICAL GEL 30 GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9119",
+        "yarpa": "4433",
+        "pharmasoft": "4754",
+        "barcode": "7298074090093"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 66.463,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 89.392735,
+        "maxPriceWithVAT": 105.4834273
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:05:14.766267"
+  }
+}

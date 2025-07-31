@@ -1,0 +1,63 @@
+{
+  "catalogId": "be79cb28-afe5-4400-af80-1eab0c55bc26",
+  "name": "ALBUNORM 20 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 28 33713 00",
+  "treatmentDescriptions": "Restoration and maintenance of circulating blood volume where volume deficiency has been demonstrated, and use of a colloid is appropriate.The choice of albumin rather than artificial colloid will depend on the clinical situation of the individual patient, based on the official recommendations",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALBUMIN HUMAN/, PLASMA PROTEIN FRACTION",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05AA01",
+      "name": "ALBUMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALBUNORM 5% VIAL 250ML",
+      "manufacturer": {
+        "name": "דובר מדיקל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 250.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7721",
+        "yarpa": "13718"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 146.42805,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 183.0350625,
+        "maxPriceWithVAT": 215.9813641
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:14:46.821315"
+  }
+}

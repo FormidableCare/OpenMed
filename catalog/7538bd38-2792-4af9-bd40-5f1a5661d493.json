@@ -1,0 +1,65 @@
+{
+  "catalogId": "7538bd38-2792-4af9-bd40-5f1a5661d493",
+  "name": "OTOMYCIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 86 24749 00",
+  "treatmentDescriptions": "Antibacterial, antifungal ear drops.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZOCAINE, NEOMYCIN AS SULFATE 0.35 %, PHENYLEPHRINE HYDROCHLORIDE 0.25 %, SODIUM PROPIONATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S02AA30",
+      "name": "ANTIINFECTIVES, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OTOMYCIN EAR DROPS10ML",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2081",
+        "yarpa": "1597",
+        "pharmasoft": "15078",
+        "barcode": "7290000808253"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:18:49.332454"
+  }
+}

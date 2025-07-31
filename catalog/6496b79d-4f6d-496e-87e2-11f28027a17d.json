@@ -1,0 +1,62 @@
+{
+  "catalogId": "6496b79d-4f6d-496e-87e2-11f28027a17d",
+  "name": "SPIKEVAX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 86 36765 00",
+  "treatmentDescriptions": "Spikevax is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 18 years of age and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "dispersion for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CX-024414 MRNA 1.26 MG/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BX03",
+      "name": "COVID-19 VACCINES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPIKEVAX 10 VIALS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "9",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9321"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6604.335495,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7264.769045,
+        "maxPriceWithVAT": 8572.427091
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:33:49.639153"
+  }
+}

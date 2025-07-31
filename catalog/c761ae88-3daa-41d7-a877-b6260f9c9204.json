@@ -1,0 +1,64 @@
+{
+  "catalogId": "c761ae88-3daa-41d7-a877-b6260f9c9204",
+  "name": "CEFUROXIME - FRESENIUS 1500 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 08 33470 00",
+  "treatmentDescriptions": "Cefuroxime -Fresenius is indicated for the treatment of the infections listed below in adults and children, including neonates (from birth).•\tCommunity acquired pneumonia•\t Acute exacerbations of chronic bronchitis•\t Complicated urinary tract infections, including pyelonephritis•\t Soft-tissue infections: cellulitis, erysipelas and wound infections•\t Intra-abdominal infections •\t Prophylaxis against infection in gastrointestinal (including oesophageal), orthopaedic, cardiovascular, and gynaecological surgery (including caesarean section)•\t Nose infections for example, sinusitis•\t Septic arthritis",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFUROXIME AS SODIUM SALT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DC02",
+      "name": "CEFUROXIME"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFUROXIME  FRESENIUS 750 MG 10 VIAL",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 20 ML GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8609",
+        "yarpa": "440",
+        "pharmasoft": "10668"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 91.4523,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 123.0033435,
+        "maxPriceWithVAT": 145.1439453
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:03:56.717770"
+  }
+}

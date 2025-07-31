@@ -1,0 +1,64 @@
+{
+  "catalogId": "0bfb8e35-1d73-45fc-ac31-9a127805b8db",
+  "name": "STIMOPEG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 06 37317 00",
+  "treatmentDescriptions": "Reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with cytotoxic chemotherapy, given at intervals of 14 days or more, for malignancy. (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PEGFILGRASTIM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AA13",
+      "name": "PEGFILGRASTIM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STIMOPEG 10MG/ML 1 PFS 0.6 ML",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9432",
+        "yarpa": "1485",
+        "barcode": "7290100819067"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2518.690165,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2770.559182,
+        "maxPriceWithVAT": 3269.259689
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:44:14.272277"
+  }
+}

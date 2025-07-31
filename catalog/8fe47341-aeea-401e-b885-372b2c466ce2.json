@@ -1,0 +1,65 @@
+{
+  "catalogId": "8fe47341-aeea-401e-b885-372b2c466ce2",
+  "name": "ALLORIL 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "039 76 26038 00",
+  "treatmentDescriptions": "Management of patients with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis and/or nephropathy). Management of patients with leukemia, lymphoma, and malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels. Management of patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients. Therapy in such patients should be carefully assessed initially and reassessed periodically to determine in each case that treatment is beneficial and that the benefits outweigh the risks.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALLOPURINOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M04AA01",
+      "name": "ALLOPURINOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALLORIL 100MG 50TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1726",
+        "yarpa": "7938",
+        "pharmasoft": "1824",
+        "barcode": "7290000806181"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.5,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.645,
+        "maxPriceWithVAT": 13.7411
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:19:57.935421"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "abe44af8-2593-4be0-98c2-4cc6caa580ac",
+  "name": "PHENERGAN 50 MG/2 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 08 35764 00",
+  "treatmentDescriptions": "Phenergan is indicated :As symptomatic treatment for allergic conditions of the upper respiratory tract and skin including allergic rhinitis, urticaria and anaphylactic reactions to drugs and foreign proteins.For sedation and treatment of insomnia in adults.As an adjunct in preoperative sedation in surgery and obstetrics.As a paediatric sedative. For prevention and control of nausea and vomiting associated with certain types of anaesthesia and surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROMETHAZINE AS HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AD02",
+      "name": "PROMETHAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENERGAN 50 MG/2 ML 5 AMP",
+      "manufacturer": {
+        "name": "ביומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8816",
+        "yarpa": "77729",
+        "barcode": "7290018609873"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 36.587,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 50.12419,
+        "maxPriceWithVAT": 59.1465442
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:39:19.450826"
+  }
+}

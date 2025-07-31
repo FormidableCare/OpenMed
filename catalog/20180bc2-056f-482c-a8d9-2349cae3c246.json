@@ -1,0 +1,65 @@
+{
+  "catalogId": "20180bc2-056f-482c-a8d9-2349cae3c246",
+  "name": "MODAL FORTE TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "029 29 21895 00",
+  "treatmentDescriptions": "Anti - dopaminergic agent.   1) For use in vertigo and prepsychotic states.   2) At high doses - in psychiatric patients for treatment of depression and apathy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SULPIRIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AL01",
+      "name": "SULPIRIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MODAL FORTE 200MG 40TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 40.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1871",
+        "yarpa": "8247",
+        "pharmasoft": "13451",
+        "barcode": "7290008014748"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.73995,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.0037315,
+        "maxPriceWithVAT": 44.84440118
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:29:08.565753"
+  }
+}

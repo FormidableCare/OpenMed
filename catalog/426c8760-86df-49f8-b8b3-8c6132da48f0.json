@@ -1,0 +1,65 @@
+{
+  "catalogId": "426c8760-86df-49f8-b8b3-8c6132da48f0",
+  "name": "METHOTREXAT \"EBEWE\" 100 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 09 30803 00",
+  "treatmentDescriptions": "Antineoplastic Chemotherapy: Treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole. Palliation of acute lymphocytic leukemia. In the treatment and prophylaxis of meningeal leukemia. Greatest effect has been observed in palliation of acute lymphoblastic (stem cell) leukemias in children. In combination with other anticancer agents, methotrexate may be used for the induction of remission, but is most commonly used in maintenance of induced remissions. Methotrexate may be used alone or in combination with other antineoplastics in the management of breast cancer, epidermoid cancers of the head and neck, lung cancer (particularly squamous cell and small cell types), bladder cancer and osteogenic cancer. Methotrexate is effective in the treatment of the advanced stages (III and IV, Peters’ Staging System) of lymphosarcoma, particularly in children, and in advanced cases of mycosis fungoides.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.m, intra-arterial, i.v, intra ventricular, intrathecal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHOTREXATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BA01",
+      "name": "METHOTREXATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METHOTREXAT EBEWE 100MG/ML VIAL 5000MG/50ML",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7241",
+        "yarpa": "58780",
+        "pharmasoft": "13555",
+        "barcode": "729000667694-8"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 744.8622,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 875.213085,
+        "maxPriceWithVAT": 1032.75144
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:17:10.866914"
+  }
+}

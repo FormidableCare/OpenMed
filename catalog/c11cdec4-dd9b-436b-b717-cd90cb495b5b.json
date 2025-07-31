@@ -1,0 +1,65 @@
+{
+  "catalogId": "c11cdec4-dd9b-436b-b717-cd90cb495b5b",
+  "name": "PADCEV 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 37 36604 00",
+  "treatmentDescriptions": "PADCEV, in combination with pembrolizumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial cancer (mUC). PADCEV, as a single agent , is indicated for the treatment of adult patients with locally advanced or mUC who: •\thave previously received a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor, and a platinum-containing chemotherapy in the neoadjuvant/adjuvant, locally advanced or metastatic settingor:•\tare ineligible for cisplatin-containing chemotherapy and have previously received a PD-1/PD-L1 inhibitor.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENFORTUMAB VEDOTIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC36",
+      "name": "ENFORTUMAB VEDOTIN "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PADCEV 30 MG 1 VIAL",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8783",
+        "yarpa": "43088",
+        "pharmasoft": "23224",
+        "barcode": "8718692511422"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3518.665622,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3870.532184,
+        "maxPriceWithVAT": 4567.227774
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:24:59.566136"
+  }
+}

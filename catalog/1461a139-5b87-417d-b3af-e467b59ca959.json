@@ -1,0 +1,64 @@
+{
+  "catalogId": "1461a139-5b87-417d-b3af-e467b59ca959",
+  "name": "KINERET 100 MG SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 79 33059 00",
+  "treatmentDescriptions": "Kineret 100 mg solution for injection is indicated in adults for the treatment of the signs and symptoms of Rheumatoid Arthritis (RA) in combination with methotrexate, in patients with an inadequate response to methotrexate alone.Kineret 100 mg solution for injection is indicated in adults, adolescents, children and infants aged 8 months and older with a body weight of 10 kg or above for the treatment of Cryopyrin-Associated Periodic Syndromes (CAPS), including:-\tNeonatal-Onset Multisystem Inflammatory Disease (NOMID) / Chronic Infantile Neurological, Cutaneous, Articular Syndrome (CINCA)-\tMuckle-Wells Syndrome (MWS)-\tFamilial Cold Autoinflammatory Syndrome (FCAS) Kineret 100 mg solution for injection is indicated for the treatment of Familial Mediterranean Fever (FMF). Kineret 100 mg solution for injection should be given in combination with colchicine, if appropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANAKINRA/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC03",
+      "name": "ANAKINRA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KINERET 100MG SYR PREFIL 7X0.67ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6665",
+        "yarpa": "46286",
+        "pharmasoft": "11290"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 845.6743764,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 993.6673923,
+        "maxPriceWithVAT": 1172.527471
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:26:34.857359"
+  }
+}

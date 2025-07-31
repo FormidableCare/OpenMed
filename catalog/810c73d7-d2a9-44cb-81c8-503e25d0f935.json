@@ -1,0 +1,65 @@
+{
+  "catalogId": "810c73d7-d2a9-44cb-81c8-503e25d0f935",
+  "name": "AGISTEN LOZENGES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 13 34540 00",
+  "treatmentDescriptions": "For local treatment of oropharyngeal candidiasis.Prophylactic treatment to reduce incidence of oropharyngeal candidiasis in patientsimmunocompromised by:- chemotherapy,- radiotherapy,- steroid therapy in Leukemia,- solid tumors,- renal transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "lozenges",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOTRIMAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A01AB18",
+      "name": "CLOTRIMAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AGISTEN LOZENGES 10 MG 70 TABLETS",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 70.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8101",
+        "yarpa": "64520",
+        "pharmasoft": "10134",
+        "barcode": "7298074010367"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:17:12.869080"
+  }
+}

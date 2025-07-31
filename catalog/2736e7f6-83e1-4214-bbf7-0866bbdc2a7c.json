@@ -1,0 +1,63 @@
+{
+  "catalogId": "2736e7f6-83e1-4214-bbf7-0866bbdc2a7c",
+  "name": "ALKINDI 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 46 35964 00",
+  "treatmentDescriptions": "Alkindi is indicated for replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old)",
+  "termsOfIssue": "Prescription required",
+  "form": "granules in capsules for opening",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROCORTISONE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB09",
+      "name": "HYDROCORTISONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALKINDI 5 MG 50 CAPSULES",
+      "manufacturer": {
+        "name": "מדומי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9082",
+        "yarpa": "83373"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1400.695155,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1645.816807,
+        "maxPriceWithVAT": 1942.063746
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:19:53.030869"
+  }
+}

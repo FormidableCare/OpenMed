@@ -1,0 +1,65 @@
+{
+  "catalogId": "98dc27dc-957f-4dac-9722-51e37a9cf1ec",
+  "name": "CODICAL TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "044 37 23143 00",
+  "treatmentDescriptions": "Indicated as an analgesic for the relief of mild to moderate pain.For the symptomatic relief of unproductive cough",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CODEINE PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R05DA04",
+      "name": "CODEINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CODICAL 20MG 10TAB",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2005",
+        "yarpa": "7528",
+        "pharmasoft": "3568",
+        "barcode": "7290008066440"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:25:13.606441"
+  }
+}

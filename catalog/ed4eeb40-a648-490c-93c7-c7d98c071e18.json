@@ -1,0 +1,65 @@
+{
+  "catalogId": "ed4eeb40-a648-490c-93c7-c7d98c071e18",
+  "name": "LOPRESOR DIVITABS 200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "045 04 22324 00",
+  "treatmentDescriptions": "Hypertension, angina pectoris, arrhythmia, prophylaxis of migrain, prophylaxis of reinfarction.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets slow release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METOPROLOL TARTRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB02",
+      "name": "METOPROLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LOPRESOR 200MG 14SR DIVITAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "556",
+        "yarpa": "6872",
+        "pharmasoft": "12099",
+        "barcode": "7298087000386"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7.1817774,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 9.839035038,
+        "maxPriceWithVAT": 11.61006083
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:54:00.145308"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "7f489141-f40d-44dd-98d9-5a503baed25b",
+  "name": "MIDAZOLAM KALCEKS 1 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 77 37234 99",
+  "treatmentDescriptions": "Midazolam is a short-acting sleep-inducing drug that is indicated: In adults * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia* Induction of anaesthesia* As a sedative component in combined anaesthesia * SEDATION IN INTENSIVE CARE UNITSIn children * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia * SEDATION IN INTENSIVE CARE UNITS",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIDAZOLAM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CD08",
+      "name": "MIDAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIDAZOLAM KALCEKS 5 MG/ML 10ML X 10 AMP",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8911",
+        "yarpa": "71512"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 100.66,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 125.825,
+        "maxPriceWithVAT": 148.4735
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:21:20.828995"
+  }
+}

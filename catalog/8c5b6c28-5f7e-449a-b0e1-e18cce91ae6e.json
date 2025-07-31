@@ -1,0 +1,63 @@
+{
+  "catalogId": "8c5b6c28-5f7e-449a-b0e1-e18cce91ae6e",
+  "name": "HERZUMA 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 26 36465 00",
+  "treatmentDescriptions": "Herzuma is indicated for the treatment of patients with metastatic breast cancer who have tumours that overexpress HER2; 1. As a single agent, for the treatment of those patients who have received one or more chemotherapy regimens for their metastatic disease.2. In combination with Paclitaxel or Docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.3. In combination with an aromatase inhibitor for the treatment of postmenopausal patient with hormone-receptor positive metastatic breast cancer.Early Breast Cancer (EBC); Herzuma is indicated to treat patients with HER2-positive early breast cancer following surgery and chemotherapy (neoadjuvant or adjuvant) either alone or in combination with chemotherapy excluding Anthracyclines. Herzuma should only be used in patients whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.HER2 Metastatic Gastric Cancer (mGC);Herzuma in combination with capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease. Herzuma should only be used in patients with metastatic gastric cancer whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory FISH+ result, or IHC 3+, as determined by an accurate and validated assay",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRASTUZUMAB/ 1 VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FD01",
+      "name": "TRASTUZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HERZUMA 420 MG 1 VIAL",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "72",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9337",
+        "yarpa": "18497"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3386.013454,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3724.614799,
+        "maxPriceWithVAT": 4395.045268
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:46:18.785615"
+  }
+}

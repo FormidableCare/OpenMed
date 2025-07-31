@@ -1,0 +1,62 @@
+{
+  "catalogId": "5d2ad57b-3cb2-40d0-a02f-cf2954f26eb2",
+  "name": "CLARISCAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 65 35367 00",
+  "treatmentDescriptions": "Enhancement of contrast in magnetic resonance imaging.Encephalic and spinal pathologies: brain tumours, tumours of the spine and the surrounding tissue, intervertebral disk prolapse infectious diseases.Abdominal pathologies: primary and secondary liver tumours.Osteo-articular pathology: bone and soft tissue tumours synovial diseases.Magnetic resonance imaging for angiography.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GADOTERIC ACID 279.3  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V08CA02",
+      "name": "GADOTERIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLARISCAN 279.3MG/ML 50ML",
+      "manufacturer": {
+        "name": "אלדן",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9059"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 303.8755577,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 357.0537803,
+        "maxPriceWithVAT": 421.323442
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:18:46.697969"
+  }
+}

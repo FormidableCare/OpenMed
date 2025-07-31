@@ -1,0 +1,65 @@
+{
+  "catalogId": "b40fcf64-aa88-45d2-b813-c98cd895bba7",
+  "name": "ANAFRANIL 25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "108 06 24600 00",
+  "treatmentDescriptions": "Adults:Depression of varying originObsessive-compulsive syndromesChildren and adolescents (5-18 years old):Obsessive-compulsive syndromes",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOMIPRAMINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AA04",
+      "name": "CLOMIPRAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ANAFRANIL 25MG 30TAB",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "516",
+        "yarpa": "221",
+        "pharmasoft": "1265",
+        "barcode": "7298087000041"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.543,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 13.07391,
+        "maxPriceWithVAT": 15.4272138
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:23:20.501247"
+  }
+}

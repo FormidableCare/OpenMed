@@ -1,0 +1,64 @@
+{
+  "catalogId": "3b568901-a3ba-471e-97d3-9dc6c240d642",
+  "name": "ORFIRIL INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 73 29852 00",
+  "treatmentDescriptions": "Treatment of:•\tGeneralized seizures in the form of absences, myoclonic and tonic-clonic seizures•\tPartial and secondary generalized seizures.Combination treatment of other forms of seizures.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALPROIC ACID AS SODIUM/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AG01",
+      "name": "VALPROIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ORFIRIL 300MG/3ML INJ 5AMP",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4093",
+        "yarpa": "25439",
+        "pharmasoft": "15120"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 137.404308,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 171.755385,
+        "maxPriceWithVAT": 202.6713453
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:16:07.630733"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "59d4642d-117a-477c-87fc-898463d0ec99",
+  "name": "KLACID SR TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 74 29326 00",
+  "treatmentDescriptions": "For treatment of infections caused by susceptible organisms. For lower respiratory tract infections, upper respiratory tract infections, skin and soft tissue infections",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets slow release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLARITHROMYCIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01FA09",
+      "name": "CLARITHROMYCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KLACID PED SUSP 60ML",
+      "manufacturer": {
+        "name": "אבוט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2761",
+        "yarpa": "8846",
+        "pharmasoft": "11006"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.971096,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.14040152,
+        "maxPriceWithVAT": 22.58567279
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:27:34.089843"
+  }
+}

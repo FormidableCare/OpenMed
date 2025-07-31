@@ -1,0 +1,65 @@
+{
+  "catalogId": "bbb50922-08ea-48b2-8ce4-d82d60732395",
+  "name": "PROGRAF 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 07 30215 00",
+  "treatmentDescriptions": "Prophylaxis of transplant rejection in liver  kidney or heart allograft recipients.   Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TACROLIMUS 0.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA05",
+      "name": "TACROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROGRAF 0.5 MG 50 CAPSULES",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6132",
+        "yarpa": "86607",
+        "pharmasoft": "16772",
+        "barcode": "8718692511460"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 145.096,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 181.37,
+        "maxPriceWithVAT": 214.0166
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:59:27.014433"
+  }
+}

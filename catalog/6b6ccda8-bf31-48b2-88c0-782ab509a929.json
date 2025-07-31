@@ -1,0 +1,65 @@
+{
+  "catalogId": "6b6ccda8-bf31-48b2-88c0-782ab509a929",
+  "name": "EVOREL 50",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "103 09 28671 00",
+  "treatmentDescriptions": "Deficiency symptoms by absence of Estrogen after the menopause or after surgical removal of the ovarians. They comprise hot flushes, insomnia, atrophies of the urogenital system, changes of mood and increasing loss of the bone substance, which can lead to osteoporosis. In women with intact uterus, estrogen substitution must always be supplemented with a sequential gestagen therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "patches",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESTRADIOL AS HEMIHYDRATE 3.2  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA03",
+      "name": "ESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVOREL CONTI  8 PATCH",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4459",
+        "yarpa": "3046",
+        "pharmasoft": "5180",
+        "barcode": "7290103848538"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 71.087744,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 95.61301568,
+        "maxPriceWithVAT": 112.8233535
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:46:44.804786"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "d5269f12-9967-44cb-a8a7-df095711327d",
+  "name": "MAVENCLAD 10 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 78 35306 00",
+  "treatmentDescriptions": "Mavenclad 10mg tablets is indicated for the treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLADRIBINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BB04",
+      "name": "CLADRIBINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MAVENCLAD 10 MG 6 TABLETS",
+      "manufacturer": {
+        "name": "מרק סרונו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8150",
+        "yarpa": "64837",
+        "pharmasoft": "13832"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 36734.82271,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 40408.30499,
+        "maxPriceWithVAT": 47681.79776
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:06:16.618056"
+  }
+}

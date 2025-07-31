@@ -1,0 +1,65 @@
+{
+  "catalogId": "99a7eeec-26e3-4f4d-8e48-a9e442436171",
+  "name": "CEFAZOLIN PANPHARMA 1 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 28 33854 01",
+  "treatmentDescriptions": "Cefazolin is indicated for the treatment of infections due to susceptible organisms and also perioperatively for prophylaxis.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFAZOLIN AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DB04",
+      "name": "CEFAZOLIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFAZOLIN PANPHARMA 1 G 25 VIAL",
+      "manufacturer": {
+        "name": "פארמלוג'יק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7964",
+        "yarpa": "43292",
+        "pharmasoft": "16907",
+        "barcode": "7290006676665"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 162.3592,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 202.949,
+        "maxPriceWithVAT": 239.47982
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:58:47.727095"
+  }
+}

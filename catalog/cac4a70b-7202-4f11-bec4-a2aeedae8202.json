@@ -1,0 +1,64 @@
+{
+  "catalogId": "cac4a70b-7202-4f11-bec4-a2aeedae8202",
+  "name": "DETHAMYCIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 62 28764 00",
+  "treatmentDescriptions": "For the treatment of inflammations with probable secondary bacterial infections.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "nasal, ocular, otic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NEOMYCIN SULFATE 0.5 %W/V, DEXAMETHASONE SODIUM PHOSPHATE 0.1 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01CA01",
+      "name": "DEXAMETHASONE AND ANTIINFECTIVES"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DETHAMYCIN 10ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3236",
+        "yarpa": "9369",
+        "pharmasoft": "4196"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:51:51.979592"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "1ca4cbec-4068-4082-b7b5-4101eeb8a961",
+  "name": "PRYSOLINE TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "024 79 21145 00",
+  "treatmentDescriptions": "Anticonvulsant.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRIMIDONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AA03",
+      "name": "PRIMIDONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRYSOLIN 250MG 30TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1406",
+        "yarpa": "7805",
+        "pharmasoft": "16522",
+        "barcode": "7290008089760"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16.6649,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 22.830913,
+        "maxPriceWithVAT": 26.94047734
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:06:36.483357"
+  }
+}

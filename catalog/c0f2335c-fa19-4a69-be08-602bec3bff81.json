@@ -1,0 +1,64 @@
+{
+  "catalogId": "c0f2335c-fa19-4a69-be08-602bec3bff81",
+  "name": "MODAFINIL MEDOCHEMIE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 27 35354 00",
+  "treatmentDescriptions": "To improve wakefulness in patients with excessive sleepiness associated with narcolepsy (with or without cataplexy), obstructive sleep apnea/hypopnea syndrome   (OSAHS ) and shift work sleep disorder (SWDS).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MODAFINIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA07",
+      "name": "MODAFINIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MODAFINIL MEDOCHEMIE 100 MG 30 TAB",
+      "manufacturer": {
+        "name": "דפריס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8587",
+        "yarpa": "489",
+        "pharmasoft": "13975"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 102.01424,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 127.5178,
+        "maxPriceWithVAT": 150.471004
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:28:47.931971"
+  }
+}

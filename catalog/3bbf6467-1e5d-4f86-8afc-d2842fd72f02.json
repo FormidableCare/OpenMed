@@ -1,0 +1,63 @@
+{
+  "catalogId": "3bbf6467-1e5d-4f86-8afc-d2842fd72f02",
+  "name": "OCTANATE 1000",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 12 31683 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).This preparation does not contain von Willebrand factor in pharmacologically effective quantities and is therefore not indicated in von Willebrand’s disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FACTOR VIII/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD02",
+      "name": "COAGULATION FACTOR VIII"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCTANATE 500 VIAL",
+      "manufacturer": {
+        "name": "דובר מדיקל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8321",
+        "yarpa": "5089"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 568.1246968,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 667.5465188,
+        "maxPriceWithVAT": 787.7048571
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:01:43.211577"
+  }
+}

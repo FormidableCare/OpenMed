@@ -1,0 +1,65 @@
+{
+  "catalogId": "4753c50c-bc8e-4fc0-964e-ac56becf16bb",
+  "name": "RIBOMUSTIN 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 40 33966 00",
+  "treatmentDescriptions": "First-line of chronic lymphocytic leukaemia (Binet stage B or C) in patients for whom fludarabine combination chemotheraphy is not appropiate. Indolent non-Hodgkin’s lymphomas as monotheraphy in patients, who have progressed during or within 6 months following treatment with rituximab or a rituximab containing regimen.Follicular non-Hodgkin’s lymphoma as first line treatment in combination with rituximab.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENDAMUSTINE  HYDROCHLORIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AA09",
+      "name": "BENDAMUSTINE "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIBOMUSTIN  25 MG 5 VIALS",
+      "manufacturer": {
+        "name": "דור שירותים פרמצבטיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL BROWN GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7666",
+        "yarpa": "65545",
+        "pharmasoft": "18516",
+        "barcode": "8718692510647"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 468.2646,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 550.210905,
+        "maxPriceWithVAT": 649.2488679
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:34:18.127576"
+  }
+}

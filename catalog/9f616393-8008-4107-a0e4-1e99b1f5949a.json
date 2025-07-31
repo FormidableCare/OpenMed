@@ -1,0 +1,63 @@
+{
+  "catalogId": "9f616393-8008-4107-a0e4-1e99b1f5949a",
+  "name": "CILARIL 1",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 01 31495 00",
+  "treatmentDescriptions": "Cilaril is indicated for the treatment of hypertension. Cilaril is indicated for the treatment of chronic heart failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CILAZAPRIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09AA08",
+      "name": "CILAZAPRIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CILARIL 5 MG 30 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9379",
+        "yarpa": "14027"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 43.6,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 58.642,
+        "maxPriceWithVAT": 69.19756
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:12:46.526673"
+  }
+}

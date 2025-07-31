@@ -1,0 +1,64 @@
+{
+  "catalogId": "5c7e50b5-e62f-428b-ae12-94533634a3ec",
+  "name": "BORTEZOMIB INOVAMED 3.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 86 34777 00",
+  "treatmentDescriptions": "Bortezomib Inovamed is indicated for the treatment of patients with multiple myeloma.Bortezomib Inovamed is indicated for the treatment of patients with mantle cell lymphoma who have received at least one prior therapy. Bortezomib Inovamed in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BORTEZOMIB 3.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX32",
+      "name": "BORTEZOMIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BORTEZOMIB INOVAMED 3.5 MG PWDR FOR INJ 1VIAL 10ML",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 10 ML GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9158",
+        "yarpa": "58672",
+        "barcode": "7290104530326"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4020.1981,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4422.21791,
+        "maxPriceWithVAT": 5218.217134
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:40:24.420565"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "d769fd9b-6716-4b08-87ba-5c070f9a0b56",
+  "name": "LOSARDEX PLUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 56 31892 00",
+  "treatmentDescriptions": "Losardex plus is indicated for the treatment of hypertension, for patients in whom combination therapy is appropriate. To reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HYDROCHLOROTHIAZIDE 12.5   MG, LOSARTAN POTASSIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09DA01",
+      "name": "LOSARTAN AND DIURETICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LOSARDEX PLUS 30 TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6525",
+        "yarpa": "82005",
+        "pharmasoft": "12424"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.3374,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.012238,
+        "maxPriceWithVAT": 24.79444084
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:55:25.452583"
+  }
+}

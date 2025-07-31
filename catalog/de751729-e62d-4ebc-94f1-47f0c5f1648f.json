@@ -1,0 +1,63 @@
+{
+  "catalogId": "de751729-e62d-4ebc-94f1-47f0c5f1648f",
+  "name": "NORADRENALINE SINTETICA 4 MG/4 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 56 34555 00",
+  "treatmentDescriptions": "For blood pressure control in certain acute hypotensive states (e.g., pheochromocytomectomy, sympathectomy, poliomyelitis, spinal anesthesia, myocardial infarction, septicemia, blood transfusion, and drug reactions). As an adjunct in the treatment of cardiac arrest and profound hypotension.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NOREPINEPHRINE AS BITARTRATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CA03",
+      "name": "NOREPINEPHRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NORADRENALINE SINTETICA 4MG/4ML  10 AMP",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8246",
+        "barcode": "7290016369359"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 68.847003,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 92.59921904,
+        "maxPriceWithVAT": 109.2670736
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:50:33.515723"
+  }
+}

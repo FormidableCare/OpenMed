@@ -1,0 +1,63 @@
+{
+  "catalogId": "6daae4a1-28cc-416b-ab01-3ac31fea9bfb",
+  "name": "PENICILLIN G SODIUM 5 MU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "024 73 21066 00",
+  "treatmentDescriptions": "Infections due to penicillin sensitive organisms.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BENZYLPENICILLIN SODIUM 5 MIU/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CE01",
+      "name": "BENZYLPENICILLIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PENICILLIN G SODIUM 5 MU 1 VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8880",
+        "yarpa": "35253"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.49681205,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.71063251,
+        "maxPriceWithVAT": 31.51854496
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:34:35.312498"
+  }
+}

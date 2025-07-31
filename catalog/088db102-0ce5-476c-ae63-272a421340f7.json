@@ -1,0 +1,63 @@
+{
+  "catalogId": "088db102-0ce5-476c-ae63-272a421340f7",
+  "name": "LUMYKRAS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 95 37013 99",
+  "treatmentDescriptions": "LUMYKRAS is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an approved test, who have received at least one prior systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SOTORASIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX73",
+      "name": "SOTORASIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LUMYKRAS 120 MG 240 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 240.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU-PVC/PE/PVDC ",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9221",
+        "barcode": "8715131024918"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25732.03676,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 28305.24044,
+        "maxPriceWithVAT": 33400.18224
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:59:11.584441"
+  }
+}

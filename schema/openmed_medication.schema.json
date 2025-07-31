@@ -71,17 +71,7 @@
     "category": {
       "type": "string",
       "description": "Medication category",
-      "enum": [
-        "prescription",
-        "over-the-counter",
-        "controlled",
-        "experimental",
-        "clinical-trial",
-        "herbal",
-        "supplement",
-        "vaccine",
-        "diagnostic"
-      ]
+      "enum": ["prescription", "off-the-counter", "29C"]
     },
     "registrationValidity": {
       "type": "string",
@@ -346,23 +336,9 @@
             "maxLength": 200
           },
           "storageConditions": {
-            "type": "array",
-            "description": "Storage conditions",
-            "items": {
-              "type": "string",
-              "enum": [
-                "Room Temperature",
-                "Refrigerated",
-                "Frozen",
-                "Protect from Light",
-                "Keep Dry",
-                "Controlled Room Temperature",
-                "Below 25°C",
-                "Below 30°C",
-                "Below 8°C",
-                "Below -15°C"
-              ]
-            }
+            "type": "string",
+            "description": "Storage conditions information",
+            "maxLength": 500
           },
           "codes": {
             "type": "object",

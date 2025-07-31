@@ -1,0 +1,64 @@
+{
+  "catalogId": "52542f28-a12c-4aac-b31a-ca0bbb97dabc",
+  "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 68 34097 01",
+  "treatmentDescriptions": "- Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function ( ejection fraction < 35 %, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides.- Hypertension. - Coronary heart disease (angina pectoris).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BISOPROLOL FUMARATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB07",
+      "name": "BISOPROLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROLOL 40MG 50TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1785",
+        "yarpa": "7944",
+        "pharmasoft": "16539"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.4628,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.964036,
+        "maxPriceWithVAT": 15.29756248
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:00:55.628413"
+  }
+}

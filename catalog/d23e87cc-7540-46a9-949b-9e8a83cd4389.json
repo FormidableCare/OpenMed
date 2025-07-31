@@ -1,0 +1,65 @@
+{
+  "catalogId": "d23e87cc-7540-46a9-949b-9e8a83cd4389",
+  "name": "EVRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 21 30818 00",
+  "treatmentDescriptions": "Female contraception. Evra is intended for women of fertile age.",
+  "termsOfIssue": "Prescription required",
+  "form": "patches",
+  "route": "transdermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NORELGESTROMIN/PATCH, ETHINYLESTRADIOL 0.6  MG/PATCH",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AA13",
+      "name": "NORELGESTROMIN AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVRA 3 PATCHES",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH LAMINATED",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4723",
+        "yarpa": "60282",
+        "pharmasoft": "5404",
+        "barcode": "7290008099035"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 34.78464507,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 47.65496375,
+        "maxPriceWithVAT": 56.23285472
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:46:55.031572"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "4300e704-0df1-4466-844f-0a8403140818",
+  "name": "CELSENTRI 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 61 31670 00",
+  "treatmentDescriptions": "Celsentri is a CCR5 co-receptor antagonist indicated for combination antiretroviral treatment of adults infected with only CCR5-tropic HIV-1.• In treatment-naïve subjects, more subjects treated with Celsentri experienced virologic failure and developed lamivudine resistance compared to efavirenz.• Tropism testing with a highly sensitive tropism assay is required for the appropriate use of Celsentri.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MARAVIROC",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AX09",
+      "name": "MARAVIROC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CELSENTRI 150MG 60TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALU/PET",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6279",
+        "yarpa": "80883",
+        "pharmasoft": "3965"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2074.599972,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2282.059969,
+        "maxPriceWithVAT": 2692.830644
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:05:14.452496"
+  }
+}

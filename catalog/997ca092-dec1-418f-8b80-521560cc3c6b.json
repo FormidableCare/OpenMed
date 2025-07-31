@@ -1,0 +1,63 @@
+{
+  "catalogId": "997ca092-dec1-418f-8b80-521560cc3c6b",
+  "name": "BIMATILOL TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 23 35256 00",
+  "treatmentDescriptions": "Reduction of intraocular pressure in patients with open- angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIMOLOL AS MALEATE/, BIMATOPROST 0.3  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED51",
+      "name": "TIMOLOL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BIMATILOL TEVA EYE DROPS bottle 3ml",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8378",
+        "yarpa": "30656"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32.3614456,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 44.33518047,
+        "maxPriceWithVAT": 52.31551296
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:36:02.838197"
+  }
+}

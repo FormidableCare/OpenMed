@@ -1,0 +1,65 @@
+{
+  "catalogId": "d2b84f2f-d04b-4c08-8ab3-224f5d96bb66",
+  "name": "EPIVIR 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "102 54 28844 22",
+  "treatmentDescriptions": "Epivir is indicated as part of antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infected adults and children.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LAMIVUDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF05",
+      "name": "LAMIVUDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPIVIR 300MG 30TAB",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4776",
+        "yarpa": "12897",
+        "pharmasoft": "5411",
+        "barcode": "7290008085502"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 243.1297601,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 285.6774681,
+        "maxPriceWithVAT": 337.0993974
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:28:48.885169"
+  }
+}

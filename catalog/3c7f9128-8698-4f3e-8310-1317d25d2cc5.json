@@ -1,0 +1,65 @@
+{
+  "catalogId": "3c7f9128-8698-4f3e-8310-1317d25d2cc5",
+  "name": "BLINCYTO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 76 34580 00",
+  "treatmentDescriptions": "•\tBLINCYTO is indicated as monotherapy for the treatment of adults with CD19 positive relapsed or refractory B- precursor acute lymphoblastic leukaemia (ALL). Patients with Philadelphia chromosome positive B-precursor ALL should have failed treatment with at least 2 tyrosine kinase inhibitors (TKIs) and have no alternative treatment options.•\tBLINCYTO is indicated as monotherapy for the treatment of adults with Philadelphia chromosome negative CD19 positive B-precursor ALL in first or second complete remission with minimal residual disease (MRD) greater than or equal to 0.1%.•\tBLINCYTO is indicated as monotherapy for the treatment of pediatric patients aged 1 year or older with Philadelphia chromosome negative CD19 positive B-cell precursor ALL which is refractory or in relapse after receiving at least two prior therapies or in relapse after receiving prior allogeneic hematopoietic stem cell transplantation.•\tBLINCYTO is indicated as monotherapy for the treatment of pediatric patients aged 1 year or older with high-risk first relapsed Philadelphia chromosome negative CD19 positive B precursor ALL as part of the consolidation therapy.Limitations of use: After failure of two previous treatments and with no CNS involvement.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BLINATUMOMAB/ 1 VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC19",
+      "name": "BLINATUMOMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BLINCYTO 35 MCG/1VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7802",
+        "yarpa": "32804",
+        "pharmasoft": "2594",
+        "barcode": "8715131011208"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9375.580256,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 10313.13828,
+        "maxPriceWithVAT": 12169.50263
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:40:47.430933"
+  }
+}

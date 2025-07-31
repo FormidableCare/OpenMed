@@ -1,0 +1,65 @@
+{
+  "catalogId": "986cec1f-4d21-4e4e-8f6c-847521f587f7",
+  "name": "ALKERAN TABLETS 2 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 55 30948 00",
+  "treatmentDescriptions": "For the treatment of : Multiple myeloma and Advanced ovarian adenocarcinoma",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MELPHALAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AA03",
+      "name": "MELPHALAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALKERAN  2MG 25 TABS",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1069",
+        "yarpa": "177",
+        "pharmasoft": "1199",
+        "barcode": "7290008105453"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 71.54277942,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 96.22503832,
+        "maxPriceWithVAT": 113.5455402
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:16:30.514454"
+  }
+}

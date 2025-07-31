@@ -1,0 +1,65 @@
+{
+  "catalogId": "62fa202e-a74a-419a-b0cb-ee9743cf9f8e",
+  "name": "ORFADIN 10 MG HARD CAPSULES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 27 33457 00",
+  "treatmentDescriptions": "Treatment of patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT-1) in  combination with dietary restriction of tyrosine and phenylalanine05/06/2018 בקשה לשינוי משטר מינון Once Daily",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NITISINONE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX04",
+      "name": "NITISINONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ORFADIN 5MG 60CAPS",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CONTAINER HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6925",
+        "yarpa": "38095",
+        "pharmasoft": "15418",
+        "barcode": "7350031443066"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4100.388659,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4510.427525,
+        "maxPriceWithVAT": 5322.304479
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:15:57.251587"
+  }
+}

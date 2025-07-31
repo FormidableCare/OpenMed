@@ -1,0 +1,64 @@
+{
+  "catalogId": "dc576fbf-bc2b-41a3-bd78-d47282a36617",
+  "name": "PECFENT 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 59 33975 01",
+  "treatmentDescriptions": "PecFent is indicated for the management of breakthrough pain (BTP) in adults who are already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation of pain  that occurs on a background of otherwise controlled persistent pain.Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.",
+  "termsOfIssue": "Prescription required",
+  "form": "nasal spray, solution",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENTANYL AS CITRATE/SPRAY",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AH01",
+      "name": "FENTANYL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PECFENT 100 4 BOTTLE *8 doses",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 32.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8350",
+        "yarpa": "77041",
+        "pharmasoft": "16934"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 619.4571344,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 727.8621329,
+        "maxPriceWithVAT": 858.8772787
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:31:05.968279"
+  }
+}

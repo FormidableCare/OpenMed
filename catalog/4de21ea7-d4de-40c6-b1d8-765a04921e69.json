@@ -1,0 +1,64 @@
+{
+  "catalogId": "4de21ea7-d4de-40c6-b1d8-765a04921e69",
+  "name": "MYCOPHENOLATE TEVA ® 500 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 37 32978 00",
+  "treatmentDescriptions": "Prophylaxis of rejection in renal allograft recepients, in patients receiving allogenic cardiac transplants and in allogenic hepatic transplants.Mycophenolate Teva should be used concomitantly with ciclosporin and corticosteroids.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MYCOPHENOLATE MOFETIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA06",
+      "name": "MYCOPHENOLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYCOPHENOLATE TEVA 500 MG 50 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6545",
+        "yarpa": "16401",
+        "pharmasoft": "13639"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 231.6613,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 272.2020275,
+        "maxPriceWithVAT": 321.1983925
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:37:11.340366"
+  }
+}

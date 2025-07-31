@@ -1,0 +1,65 @@
+{
+  "catalogId": "7f332142-77eb-40d8-8fda-1c3500f4d5da",
+  "name": "ALEXAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 79 27970 00",
+  "treatmentDescriptions": "For induction and maintenance of clinical remission in patients with acute myeloid leukemia, acute non-lymphoblastic leukemias, acute lymphoblastic leukemias, blast crises of chronic myeloid leukemia, diffuse histiocytic lymphomas ( non-Hodgkin's lymphomas of high malignancy).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "intrathecal, s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CYTARABINE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC01",
+      "name": "CYTARABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALEXAN 2000MG/40ML VIAL",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7698",
+        "yarpa": "88441",
+        "pharmasoft": "9296",
+        "barcode": "7290016369595"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 106.8448586,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 133.5560732,
+        "maxPriceWithVAT": 157.5961594
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:15:45.114842"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "27811a0f-32fb-4f5e-a012-44b37f0e5921",
+  "name": "PROSTIN E2 VAGINAL GEL 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "056 32 26453 00",
+  "treatmentDescriptions": "For labour induction in term and near term pregnant women who have favorable induction features and who have a singleton pregnancy with vertex presentation",
+  "termsOfIssue": "Prescription required",
+  "form": "gel",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DINOPROSTONE 0.033 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G02AD02",
+      "name": "DINOPROSTONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROSTIN E2 VAGINAL GEL 1 MG/3 GR",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8927",
+        "yarpa": "35540",
+        "barcode": "7298074000498"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 132.291275,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 165.3640937,
+        "maxPriceWithVAT": 195.1296219
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:03:48.468071"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "eb6f9476-e91d-4199-a5cf-0a87b69dfd22",
+  "name": "RIVAROXABAN DEXCEL 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 93 36479 99",
+  "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), adults (following completion of at least 6 months therapy for DVT or PE).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIVAROXABAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AF01",
+      "name": "RIVAROXABAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIVAROXABAN DEXCEL 15 MG 28 TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9394",
+        "yarpa": "16668",
+        "pharmasoft": "18709",
+        "barcode": "7290015912952"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 175.7876,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 219.7345,
+        "maxPriceWithVAT": 259.28671
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:42:38.623616"
+  }
+}

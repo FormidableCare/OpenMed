@@ -1,0 +1,65 @@
+{
+  "catalogId": "ac2f0fc7-ca71-4744-8d41-b0fd1b646f09",
+  "name": "COLCHICINE 0.5 mg",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "016 73 24811 00",
+  "treatmentDescriptions": "Prevention and treatment of gout and FMF (familial mediterranean fever).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COLCHICINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M04AC01",
+      "name": "COLCHICINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COLCHICINE 0.5MG 30TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1852",
+        "yarpa": "538",
+        "pharmasoft": "3201",
+        "barcode": "7290008013307"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 38.773862,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 52.15084439,
+        "maxPriceWithVAT": 61.53799364
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:26:05.620404"
+  }
+}

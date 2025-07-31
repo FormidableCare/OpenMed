@@ -1,0 +1,64 @@
+{
+  "catalogId": "da119473-23f5-4e5d-92cd-647fc67e1035",
+  "name": "OPSUMIT ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 72 34061 01",
+  "treatmentDescriptions": "Opsumit ® is an endothelin receptor antagonist (ERA) indicated for the treatment of pulmonary arterial hypertension (PAH, WHO Group I) to delay disease progression. Disease progression included: death, initiation of intravenous (IV) or subcutaneous prostanoids or clinical worsening of PAH (decreased 6-minute walk distance, worsened PAH symptoms and need for additional PAH treatment). Opsumit also reduced hospitalization for PAH.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MACITENTAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C02KX04",
+      "name": "MACITENTAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OPSUMIT 10MG 30 F.C.TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7664",
+        "yarpa": "68449",
+        "pharmasoft": "15446"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7665.925229,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8432.517751,
+        "maxPriceWithVAT": 9950.370504
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:14:01.063202"
+  }
+}

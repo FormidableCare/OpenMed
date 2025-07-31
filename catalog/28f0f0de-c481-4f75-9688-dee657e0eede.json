@@ -1,0 +1,65 @@
+{
+  "catalogId": "28f0f0de-c481-4f75-9688-dee657e0eede",
+  "name": "SEEBRI BREEZHALER 50 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 18 33751 01",
+  "treatmentDescriptions": "Maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).",
+  "termsOfIssue": "Prescription required",
+  "form": "inhalation powder hard capsules",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLYCOPYRRONIUM AS BROMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A03AB02",
+      "name": "GLYCOPYRRONIUM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEEBRI BREEZHALER 50 MCG 30CAPS FOR INH",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/OPA/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7119",
+        "yarpa": "40695",
+        "pharmasoft": "9646",
+        "barcode": "7290016369014"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 86.582907,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 116.4540099,
+        "maxPriceWithVAT": 137.4157256
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:02:51.374802"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "23cdbeb1-324a-43c6-a8c7-8ee45baee69a",
+  "name": "LOCERYL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 12 30949 00",
+  "treatmentDescriptions": "Topical treatment of onycomycosis caused by dermatophytes, yeast and moulds.",
+  "termsOfIssue": "Prescription required",
+  "form": "lacquer",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMOROLFINE AS HYDROCHLORIDEW/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AE16",
+      "name": "AMOROLFINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LOCERYL LACQUE 2.5ML",
+      "manufacturer": {
+        "name": "אמי טכנולוגיות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.5,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6003",
+        "yarpa": "71194",
+        "pharmasoft": "12383"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32.7056,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 44.806672,
+        "maxPriceWithVAT": 52.87187296
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:52:45.697331"
+  }
+}

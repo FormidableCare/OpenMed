@@ -1,0 +1,65 @@
+{
+  "catalogId": "86339daf-e575-40b4-9431-a1828fc97ef4",
+  "name": "HEPAGAM B",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 62 31748 00",
+  "treatmentDescriptions": "Prevention of hepatitis B recurrence following liver transplantation :   Hepagam B  is indicated for the prevetion of hepatitis B recurrence following liver transplantation  in HBsAg-positive liver transplant patients. Hepagam B should be administered intravenously for this indication.Postexposure prophylaxis :   Hepagam B is indicated for the treatment of acute exposure to blood containing HBsAg  perinatal exposure of infants born to HBsAg-positive mothers  sexual exposure to HBsAg-positive persons and household exposure to persons with acute HBV infection in the following settings:   Acute exposure to blood containing HBsAg   Following either parenteral exposure (needlestick  bite  sharps)  direct mucous membrane contact (accidental splash)  or oral ingestion (pipetting accident)  involving HBsAg - positive materials such as blood  plasma or serum. Perinatal exposure of infants born to HBsAg-positive mothers  Infants born to mothers positive for HBsAg with or without HBeAg.   Perinatal exposure of infants born to HBsAg-positive persons   Sexual partners of HBsAg-positive persons.   Household exposure to persons with acute HBV infection Infants less than 12 months old whose mother or primary caregiver is positive for HBsAg. Other household contacts with an identifiable blood exposure to the index patient.   Hepagam B is indicated for intramuscular use only for these post-exposure prophylaxis indications.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HEPATITIS B IMMUNOGLOBULIN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BB04",
+      "name": "HEPATITIS B IMMUNOGLOBULIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEPAGAM B 312 IU/ML VIAL 5ML (1560UI~31.2ML)",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 31.2,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7449",
+        "yarpa": "78667",
+        "pharmasoft": "8376",
+        "barcode": "7290012240126"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3944.286,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4338.7146,
+        "maxPriceWithVAT": 5119.683001
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:44:51.736725"
+  }
+}

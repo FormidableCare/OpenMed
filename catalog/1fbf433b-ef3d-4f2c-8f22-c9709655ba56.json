@@ -1,0 +1,64 @@
+{
+  "catalogId": "1fbf433b-ef3d-4f2c-8f22-c9709655ba56",
+  "name": "MYOZYME",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 74 31488 00",
+  "treatmentDescriptions": "Myozyme is indicated for long-term enzyme replacement therapy (ERT) in patients with a confirmed diagnosis of pompe disease (acid alpha-glucosidase deficiency). The benefits of Myozyme in patients with late-onset Pompe disease have not been established.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALGLUCOSIDASE ALFA/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB07",
+      "name": "ALGLUCOSIDASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYOZYME 50MG/VIAL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6736",
+        "yarpa": "30994",
+        "pharmasoft": "13696"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1754.393711,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 1929.833082,
+        "maxPriceWithVAT": 2277.202936
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:38:47.193405"
+  }
+}

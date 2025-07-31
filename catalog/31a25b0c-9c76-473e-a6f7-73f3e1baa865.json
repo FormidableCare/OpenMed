@@ -1,0 +1,64 @@
+{
+  "catalogId": "31a25b0c-9c76-473e-a6f7-73f3e1baa865",
+  "name": "STRENSIQ ® 100 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 44 34545 00",
+  "treatmentDescriptions": "Strensiq is indicated for long-term enzyme replacement therapy in patients with paediatric-onset hypophosphatasia to treat the bone manifestations of the disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ASFOTASE ALFA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB13",
+      "name": "ASFOTASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STRENSIQ ® 40 MG/ML 12 vials 18mg",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 12.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8373",
+        "yarpa": "62118",
+        "pharmasoft": "9985"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 42923.74588,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 47216.12047,
+        "maxPriceWithVAT": 55715.01967
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:46:39.942325"
+  }
+}

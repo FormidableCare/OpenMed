@@ -1,0 +1,65 @@
+{
+  "catalogId": "ed4995dd-047d-4555-b791-2d59bd22a1af",
+  "name": "COUMADIN 2.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "111 45 29375 00",
+  "treatmentDescriptions": "Coumadin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, and pulmonary embolism. Coumadin is indicated for the prophylaxis and/or treatment of the thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement. Coumadin is indicated to reduce the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "WARFARIN SODIUM 2.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AA03",
+      "name": "WARFARIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COUMADIN 2.5MG 30TAB",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3709",
+        "yarpa": "17842",
+        "pharmasoft": "3596",
+        "barcode": "7-290000-808239"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:32:23.020233"
+  }
+}

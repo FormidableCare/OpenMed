@@ -1,0 +1,63 @@
+{
+  "catalogId": "0147373c-00eb-4c28-9060-3d5920f37145",
+  "name": "SOLUVIT N",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "102 29 26397 05",
+  "treatmentDescriptions": "Supplement in intravenous nutrition in order to meet the daily requirments of water soluble vitamins.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "THIAMINE (VIT B1) MONONITRATE 3.1  MG/VIAL, RIBOFLAVINE 4.9  MG/VIAL, PYRIDOXINE (VIT B6) HYDROCHLORIDE 4.9  MG/VIAL, ASCORBIC ACID AS SODIUM/VIAL, BIOTIN/VIAL, FOLIC ACID 0.4  MG/VIAL, CYANOCOBALAMIN (VIT B12)/VIAL, PANTOTHENIC ACID AS SODIUM/VIAL, NICOTINAMIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03BB01",
+      "name": "FOLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOLUVIT N 10 amp",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8693",
+        "barcode": "7-298120-013007"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 202.664242,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 238.1304844,
+        "maxPriceWithVAT": 280.993959
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:29:08.516693"
+  }
+}

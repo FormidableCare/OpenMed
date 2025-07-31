@@ -1,0 +1,65 @@
+{
+  "catalogId": "e33419f4-a4db-41c0-8e8f-86b13dbb5c7d",
+  "name": "METHADONE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "105 67 29097 00",
+  "treatmentDescriptions": "Relief of severe pain.  Detoxification and withdrawal treatment in narcotic addiction.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHADONE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AC52",
+      "name": "METHADONE, COMB. EXCL. PSYCHOLEPTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METHADONE 5% 50MG/ML 25 BOTTLE/ 200ML",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6611",
+        "yarpa": "35291",
+        "pharmasoft": "13138",
+        "barcode": "7290008014120"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:17:00.310797"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "5cf05898-5779-44cd-8155-7843351e536b",
+  "name": "PENIBRIN 1 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "032 41 22422 00",
+  "treatmentDescriptions": "Penibrin injection is recommended in serious infections when prompt, effective levels of the antibiotic must reach the site of infection. Such infections include meningitis, subacute bacterial endocarditis, peritonitis, septicemia, severe forms of chronic bronchitis, osteomyelitis, pneumonia and pyelonephritis due to susceptible organisms.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for inj/inf",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMPICILLIN AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CA01",
+      "name": "AMPICILLIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PENIBRIN 2 G 10 VIALS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9137",
+        "yarpa": "83478",
+        "barcode": "7290008096553"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 181.238895,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 226.5486188,
+        "maxPriceWithVAT": 267.3273582
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:34:11.915794"
+  }
+}

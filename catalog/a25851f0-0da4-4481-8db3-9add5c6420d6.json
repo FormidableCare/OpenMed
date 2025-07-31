@@ -1,0 +1,64 @@
+{
+  "catalogId": "a25851f0-0da4-4481-8db3-9add5c6420d6",
+  "name": "KETOSPRAY 10 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 45 33067 00",
+  "treatmentDescriptions": "Topical treatment for the symptomatic relief of soft tissue pain and inflammation due to strains, sprains, distortions, and contusions.",
+  "termsOfIssue": "Prescription required",
+  "form": "spray",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "KETOPROFEN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M02AA10",
+      "name": "KETOPROFEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KETOSPRAY 10 % 25G",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS TYPE III",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6868",
+        "yarpa": "40168",
+        "pharmasoft": "11244"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:25:34.224120"
+  }
+}

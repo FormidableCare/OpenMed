@@ -1,0 +1,63 @@
+{
+  "catalogId": "2ed8f80f-d591-40c8-9152-2bdf0bff7b4f",
+  "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 89 36923 99",
+  "treatmentDescriptions": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE is indicated for cardiac arrest and cardiopulmonary resuscitation (physical measures should be used first).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, intracardiac",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINEPHRINE AS TARTRATE 0.1  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CA24",
+      "name": "EPINEPHRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADRENALINE TEVA 1MG/ML 10 AMP",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  POLYPROPYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8851",
+        "yarpa": "48820"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 30.62,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 41.9494,
+        "maxPriceWithVAT": 49.500292
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:15:35.047559"
+  }
+}

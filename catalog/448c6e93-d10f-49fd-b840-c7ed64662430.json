@@ -1,0 +1,65 @@
+{
+  "catalogId": "448c6e93-d10f-49fd-b840-c7ed64662430",
+  "name": "PARSABIV",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 94 35289 00",
+  "treatmentDescriptions": "Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on hemodialysis therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETELCALCETIDE AS HYDROCHLORIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H05BX04",
+      "name": "ETELCALCETIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PARSABIV 2.5 MG/ 0.5ML 6VIALS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8121",
+        "yarpa": "5361",
+        "pharmasoft": "10309",
+        "barcode": "8715131020538"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 292.3699672,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 343.5347115,
+        "maxPriceWithVAT": 405.3709415
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:29:39.550524"
+  }
+}

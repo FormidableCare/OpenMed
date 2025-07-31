@@ -1,0 +1,65 @@
+{
+  "catalogId": "57beae09-2a64-48dd-8577-b2662091114b",
+  "name": "REVATIO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 61 31377 00",
+  "treatmentDescriptions": "For adults > 18 years:  Treatment of primary pulmonary hypertension (PPH)  pulmonary hypertension (PH) associated with connective tissue disease (CTD)  or PH following surgical repair at least 5 years previously of atrial septal defect (ASD)  ventricular septal defect (VSD)  patent ductus arteriosus (PDA)  or aorto-pulmonary window.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SILDENAFIL AS CITRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BE03",
+      "name": "SILDENAFIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REVATIO 20MG 90TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4988",
+        "yarpa": "70246",
+        "pharmasoft": "18367",
+        "barcode": "7290010355495"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1675.206,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1968.36705,
+        "maxPriceWithVAT": 2322.673119
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:30:31.690396"
+  }
+}

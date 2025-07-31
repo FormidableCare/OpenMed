@@ -1,0 +1,65 @@
+{
+  "catalogId": "47b9e965-5795-40c5-83fe-6ecf7a415164",
+  "name": "AKYNZEO 300mg/0.50mg",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 79 34343 00",
+  "treatmentDescriptions": "Prevention of Acute and delayed nausea and vomiting associated with initial and repeat courses of cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NETUPITANT, PALONOSETRON AS HYDROCHLORIDE 0.50  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A04AA55",
+      "name": "PALONOSETRON, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AKYNZEO 4 CAPS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8966",
+        "yarpa": "21585",
+        "pharmasoft": "10856",
+        "barcode": "7290017179254"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 880.914732,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1035.07481,
+        "maxPriceWithVAT": 1221.388222
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:18:15.303378"
+  }
+}

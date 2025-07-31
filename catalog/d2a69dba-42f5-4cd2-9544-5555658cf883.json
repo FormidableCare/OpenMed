@@ -1,0 +1,65 @@
+{
+  "catalogId": "d2a69dba-42f5-4cd2-9544-5555658cf883",
+  "name": "FAVOXIL 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "041 91 25728 00",
+  "treatmentDescriptions": "For the treatment of affective disorders characterized by persistent low mood, impaired psychomotor atctivities and psychomatic complaints including symptoms of depression. Treatment of obsessive compulsive disorders (OCD).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUVOXAMINE MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB08",
+      "name": "FLUVOXAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FAVOXIL 100MG 30TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2857",
+        "yarpa": "9006",
+        "pharmasoft": "6048",
+        "barcode": "7290002925866"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 33.7162,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 46.191194,
+        "maxPriceWithVAT": 54.50560892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:54:59.404446"
+  }
+}

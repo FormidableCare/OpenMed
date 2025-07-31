@@ -1,0 +1,65 @@
+{
+  "catalogId": "7694515e-a68b-4c56-81a2-e14350efd35d",
+  "name": "GAMUNEX ® - C",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 95 31058 00",
+  "treatmentDescriptions": "Gamunex is indicated as replacement therapy of primary immunodeficiency (PI) states in which severe impaiment of antibody forming capacity has been shown, such as congential agammaglobulinemia, common variable immunodeficiency, X-limked immunodeficiency with hyper IgM, Wiskott- Aldrich syndrom, and severed combined immunodeficiencies. Gamunex is also indicated in Idiopathic Thrombocytopenia Purpura (ITP) to raise platelet counts to prevent bleeding or to allow a patient with ITP to undergo surgery.Treatment of Chronic Inflammatory Demyelinating Polyneuropathy (CIDP).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IMMUNOGLOBULINS, NORMAL HUMAN 0.1 G/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J06BA02",
+      "name": "IMMUNOGLOBULINS, NORMAL HUMAN, FOR INTRAVASCULAR ADM."
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GAMUNEX  0.1G/ML 1GR 10ML SOLUTION FOR INJECTION",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6420",
+        "yarpa": "35515",
+        "pharmasoft": "7924",
+        "barcode": "7298074020687"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 235.268004,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 276.4399047,
+        "maxPriceWithVAT": 326.1990731
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:26:39.143335"
+  }
+}

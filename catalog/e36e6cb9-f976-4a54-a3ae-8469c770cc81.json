@@ -1,0 +1,64 @@
+{
+  "catalogId": "e36e6cb9-f976-4a54-a3ae-8469c770cc81",
+  "name": "BETAREN 100 S.R.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 73 24619 00",
+  "treatmentDescriptions": "Rheumatoid arthritis, osteoarthritis, low back pain and other acute musculoskeletal disorders such as periarthritis, tendinitis, tenosynovitis, bursitis, sprains, strains and dislocation, ankylosing spondylitis and acute gout.Control of pain and inflammation in orthopedic, dental, and other minor surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets slow release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DICLOFENAC SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AB05",
+      "name": "DICLOFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BETAREN 100MG 20 S.R.TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3857",
+        "yarpa": "25870",
+        "pharmasoft": "2265"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.5787,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.232819,
+        "maxPriceWithVAT": 20.33472642
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:33:59.927469"
+  }
+}

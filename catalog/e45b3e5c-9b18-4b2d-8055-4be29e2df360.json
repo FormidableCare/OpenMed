@@ -1,0 +1,64 @@
+{
+  "catalogId": "e45b3e5c-9b18-4b2d-8055-4be29e2df360",
+  "name": "EVIPLERA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 30 33766 01",
+  "treatmentDescriptions": "EVIPLERA, a combination of two nucleoside analog HIV 1 reverse transcriptase inhibitors (emtricitabine and tenofovir disoproxil fumarate) and one non-nucleoside reverse transcriptase inhibitor (rilpivirine), is indicated for use as a complete regimen for the treatment of HIV-1 infection in adult patients with no antiretroviral treatment history and with HIV-1 RNA less than or equal to 100,000 copies/mL at the start of therapy, and in certain virologically-suppressed (HIV-1 RNA <50 copies/mL) adult patients on a stable antiretroviral regimen at start of therapy in order to replace their current antiretroviral treatment regimen (see below).The following points should be considered when initiating therapy with EVIPLERA in adult patients with no antiretroviral treatment history: • More rilpivirine-treated subjects with HIV-1 RNA greater than 100,000 copies/mL at the start of therapy experienced virologic failure (HIV-1 RNA &#8805;50 copies/mL) compared to rilpivirine-treated subjects with HIV-1 RNA less than or equal to 100,000 copies/mL [See Clinical Studies (14)]. • Regardless of HIV-1 RNA level at the start of therapy, more rilpivirine-treated subjects with CD4+ cell count less than 200 cells/mm3 experienced virologic failure compared to rilpivirine-treated subjects with CD4+ cell count greater than or equal to 200 cells/mm3 [See Clinical Studies (14)]. •  The observed virologic failure rate in rilpivirine-treated subjects conferred a higher rate of overall treatment resistance and cross-resistance to the NNRTI class compared to efavirenz [See Microbiology (12.4)]• More subjects treated with rilpivirine developed tenofovir and lamivudine/emtricitabine  associated resistance compared to efavirenz [See Microbiology (12.4)].",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TENOFOVIR DISOPROXIL AS FUMARATE, RILPIVIRINE AS HYDROCHLORIDE, EMTRICITABINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AG05",
+      "name": "RILPIVIRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVIPLERA 30 F.C.TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7167",
+        "yarpa": "77155",
+        "pharmasoft": "5567"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1914.806759,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2106.287434,
+        "maxPriceWithVAT": 2485.419062
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:46:12.052444"
+  }
+}

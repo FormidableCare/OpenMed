@@ -1,0 +1,64 @@
+{
+  "catalogId": "8adc526d-bafc-4262-a039-4b7267b71c16",
+  "name": "ONCOTICE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "103 18 28561 00",
+  "treatmentDescriptions": "OncoTICE is used as a treatment of flat  urothelial cell carcinoma in situ (CIS) of the bladder and as an adjuvant therapy after transurethral resection (TUR) of a primary or relapsing superficial papillary urothelial cell carcinoma of the bladder stage Ta (grade 2 or 3) or T1 (grade 1 2 or 3).   OncoTICE is only recommended for stage Ta grade 1 papillary tumors  when there is judged to be a high risk of tumor recurrence.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for instillation",
+  "route": "intra-vesically",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BCG STRAIN 200 - 800 MIU",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AX03",
+      "name": "BCG VACCINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ONCOTICE  500 MU 1 VIAL",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "12",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8564",
+        "yarpa": "10567",
+        "barcode": "7290006537195"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 383.638978,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 450.7757992,
+        "maxPriceWithVAT": 531.9154194
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:11:45.895604"
+  }
+}

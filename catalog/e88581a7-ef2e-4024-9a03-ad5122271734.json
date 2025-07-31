@@ -1,0 +1,63 @@
+{
+  "catalogId": "e88581a7-ef2e-4024-9a03-ad5122271734",
+  "name": "DASATINIB TEVA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 90 36435 00",
+  "treatmentDescriptions": "Treatment of adult patients with : * Newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase. * Chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate. * Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DASATINIB AS MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE06",
+      "name": "DASATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DASATINIB TEVA 20 MG 60TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9175",
+        "yarpa": "37216"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3381.524631,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3719.677094,
+        "maxPriceWithVAT": 4389.218971
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:43:09.998672"
+  }
+}

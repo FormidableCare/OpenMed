@@ -1,0 +1,64 @@
+{
+  "catalogId": "e00cfda7-d629-45a5-b26b-a607b906aeaf",
+  "name": "SIGNIFOR LAR 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 50 36981 99",
+  "treatmentDescriptions": "Treatment of adult patients with Cushing’s disease for whom surgery is not an option or for whom surgery has failed.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PASIREOTIDE AS PAMOATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01CB05",
+      "name": "PASIREOTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SIGNIFOR LAR 60 MG 1VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7793",
+        "yarpa": "41061",
+        "pharmasoft": "14593"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10458.24866,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11504.07353,
+        "maxPriceWithVAT": 13574.80616
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:12:03.045963"
+  }
+}

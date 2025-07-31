@@ -1,0 +1,65 @@
+{
+  "catalogId": "b92a59dd-1cce-4c10-8451-9c30b09c95d2",
+  "name": "POLYCUTAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "048 52 23172 00",
+  "treatmentDescriptions": "Treatment of dermatitis involving also a bacterial and/or fungal infection.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOTRIMAZOLE, NEOMYCIN SULFATE 0.645 %, DEXAMETHASONE ACETATE 0.044 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC20",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "POLYCUTAN CREAM 15GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2401",
+        "yarpa": "6792",
+        "pharmasoft": "16175",
+        "barcode": "7290000857206"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:47:07.636588"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "b866e82e-9c40-41a5-a516-a2f147122155",
+  "name": "KALETRA  200 MG/50 MG TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 96 31542 00",
+  "treatmentDescriptions": "Kaletra is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RITONAVIR, LOPINAVIR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AE06",
+      "name": "LOPINAVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KALETRA 200MG/50MG 120 F.C.TAB",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6648",
+        "yarpa": "70141",
+        "pharmasoft": "11205",
+        "barcode": "8054083003238"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1095.3864,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1287.07902,
+        "maxPriceWithVAT": 1518.753176
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:20:56.997198"
+  }
+}

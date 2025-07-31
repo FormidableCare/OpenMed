@@ -1,0 +1,65 @@
+{
+  "catalogId": "9c35f8a1-c354-44e4-b2c7-1f4592e822ff",
+  "name": "PERGOVERIS ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 07 33159 00",
+  "treatmentDescriptions": "Pergoveris is indicated for the stimulation of follicular development in adult women with sever LH and FSH deficiency.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FOLLITROPIN ALFA, LUTROPIN ALFA",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03GA05",
+      "name": "FOLLITROPIN ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PERGOVERIS 150 IU/75IU VIAL (POWDER+SOLVENT)",
+      "manufacturer": {
+        "name": "מרק סרונו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6749",
+        "yarpa": "32060",
+        "pharmasoft": "16839",
+        "barcode": "7290000845470"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 286.4317634,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 336.5573219,
+        "maxPriceWithVAT": 397.1376222
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:37:00.486485"
+  }
+}

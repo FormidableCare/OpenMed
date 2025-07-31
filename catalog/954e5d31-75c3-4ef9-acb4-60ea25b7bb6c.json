@@ -1,0 +1,65 @@
+{
+  "catalogId": "954e5d31-75c3-4ef9-acb4-60ea25b7bb6c",
+  "name": "OVESTIN CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "065 60 21266 01",
+  "treatmentDescriptions": "For the treatment of vulvo-vaginal complaints related to estrogen deficiency.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESTRIOL 0.1 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA04",
+      "name": "ESTRIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OVESTIN VAG CRM 15G",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "465",
+        "yarpa": "1332",
+        "pharmasoft": "15084",
+        "barcode": "7290006537058"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.8281695,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.68459222,
+        "maxPriceWithVAT": 25.58781768
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:19:38.327220"
+  }
+}

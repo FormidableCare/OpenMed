@@ -1,0 +1,65 @@
+{
+  "catalogId": "0b6a451f-ff3e-4910-be2f-64f53ab73b78",
+  "name": "PROPOFOL-LIPURO 1%",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "127 87 30672 00",
+  "treatmentDescriptions": "Propofol-Lipuro 1% is a short-acting intravenous general anaesthetic for• induction and maintenance of general anaesthesia in adults and children > 1 month• sedation of ventilated patients >16 years of age in the intensive care unit• sedation for diagnostic and surgical procedures, alone or in combination with local or regional anaesthesia in adults and children > 1 month.",
+  "termsOfIssue": "Prescription required",
+  "form": "emulsion for injection or infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROPOFOL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AX10",
+      "name": "PROPOFOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROPOFOL - LIPURO 1 % 20ml 5 AMP",
+      "manufacturer": {
+        "name": "לפידות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8289",
+        "yarpa": "78927",
+        "pharmasoft": "16799",
+        "barcode": "4030539048033"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 30.598575,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 41.92004775,
+        "maxPriceWithVAT": 49.46565635
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:02:38.303623"
+  }
+}

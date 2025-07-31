@@ -1,0 +1,64 @@
+{
+  "catalogId": "e64a7620-3eca-419a-87e5-dee17531bd01",
+  "name": "IMOVAX DT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 62 33232 00",
+  "treatmentDescriptions": "This vaccine is indicated for adults over 18 years of age in the following cases:- routine booster vaccinations against diphtheria and tetanus. The diphtheria toxoid content is reduced to one tenth of the normal dose to minimize the risks of a severe hypersensitivity reaction.- primary vaccination.- post-exposure prophylaxis following a tetanus-prone wound, if a booster diphtheria injection is required.This adsorbed diphtheria and tetanus vaccine may be administered as a booster vaccination in children over 10 years of age in whom poliomyelitis is prevented by separate administration of poliomyelitis vaccine.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIPHTHERIA TOXOID/ 0.5  ML, TETANUS TOXOID/ 0.5  ML, ALUMINIUM HYDROXIDE 0.6  MG / 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07AM51",
+      "name": "TETANUS TOXOID, COMBINATIONS WITH DIPHTHERIA TOXOID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMOVAX DT SYRINGE PREFILLED 1X0.5ML",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7531",
+        "yarpa": "60987",
+        "barcode": "7290101534525"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32.0,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 43.84,
+        "maxPriceWithVAT": 51.7311977
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:03:36.246696"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "4f96b964-d1bc-42b7-9b70-d2e32d52e6f2",
+  "name": "LENALIDOMIDE TEVA ® 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 82 35502 00",
+  "treatmentDescriptions": "Multiple Myeloma (MM): Lenalidomide Teva is indicated for the treatment of multiple myeloma.Myelodysplastic Syndromes: Lenalidomide Teva is indicated for patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.Lenalidomide Teva 7.5 mg is not indicated for treatment in MDS.Mantle Cell Lymphoma:Lenalidomide Teva is indicated for the treatment of adult patients with relapsed and/or refractory mantle cell lymphoma (MCL).Follicular lymphoma:Lenalidomide Teva in combination with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients with previously treated follicular lymphoma.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LENALIDOMIDE AS HYDROCHLORIDE HYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AX04",
+      "name": "LENALIDOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LENALIDOMIDE TEVA  5 MG 21 CAPS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8422",
+        "yarpa": "45712"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 17932.38972,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 19725.62869,
+        "maxPriceWithVAT": 23276.24185
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:39:16.337284"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "853285bc-efbf-4018-994f-d6f52a9b3570",
+  "name": "ELZONRIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 66 36969 00",
+  "treatmentDescriptions": "ELZONRIS is a CD123-directed cytotoxin for the treatment of blastic plasmacytoid dendritic cell neoplasm (BPDCN) in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAGRAXOFUSP/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX67",
+      "name": "TAGRAXOFUSP"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELZONRIS 1MG/ML I.V 1 VIAL",
+      "manufacturer": {
+        "name": "סטמליין ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9011",
+        "yarpa": "60941",
+        "barcode": "7290019908005"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 36895.5,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 40585.05,
+        "maxPriceWithVAT": 47890.35687
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:17:27.849558"
+  }
+}

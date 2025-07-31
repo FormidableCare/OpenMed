@@ -1,0 +1,65 @@
+{
+  "catalogId": "68d222c3-ddc1-4089-a969-9350fe65766e",
+  "name": "GIROFLOX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 31 30984 00",
+  "treatmentDescriptions": "* Adults :Broad spectrum antibiotic for infections caused by ciprofloxacin sensitive pathogens.* Children and adolescents:• Broncho-pulmonary infections in cystic fibrosis caused by Pseudomonas aeruginosa• Complicated urinary tract infections and pyelonephritis• Inhalation anthrax (post-exposure prophylaxis and curative treatment)Ciprofloxacin may also be used to treat severe infections in children and adolescents when there is no otheralternative .Treatment should be initiated only by physicians who are experienced in the treatment of cystic fibrosis and/or severe infections in children and adolescents",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CIPROFLOXACIN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01MA02",
+      "name": "CIPROFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CIPROFLOXACIN TEVA INFUSION 2MG/ML 10BAGX100ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1000.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE PLASTIC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7232",
+        "yarpa": "18817",
+        "pharmasoft": "9512",
+        "barcode": "7290010286041"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 321.166,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 377.37005,
+        "maxPriceWithVAT": 445.296659
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:17:36.891909"
+  }
+}

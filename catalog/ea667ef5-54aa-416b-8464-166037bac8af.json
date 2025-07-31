@@ -1,0 +1,65 @@
+{
+  "catalogId": "ea667ef5-54aa-416b-8464-166037bac8af",
+  "name": "GLUCAGEN HYPOKIT 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "102 38 28662 05",
+  "treatmentDescriptions": "Treatment of severe hypoglycaemia reactions which may occur in the management of insulin treated persons with diabetes.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLUCAGON AS HYDROCHLORIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H04AA01",
+      "name": "GLUCAGON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLUCAGEN KIT 1MG",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "642",
+        "yarpa": "9656",
+        "pharmasoft": "9656",
+        "barcode": "7290008126205"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 53.90555583,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 72.5029726,
+        "maxPriceWithVAT": 85.55350386
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:36:43.518304"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "c6a8a079-04be-401b-bf5b-5dbda3efdc82",
+  "name": "NUEDEXTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 88 33554 00",
+  "treatmentDescriptions": "For the treatment of Pseudobulbar Affect (PBA) .",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "QUINIDINE SULFATE, DEXTROMETHORPHAN HYDROBROMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BA01",
+      "name": "QUINIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NUEDEXTA 60 CAPSULES",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6919",
+        "yarpa": "35015",
+        "pharmasoft": "14530",
+        "barcode": "7290008128308"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:57:49.864138"
+  }
+}

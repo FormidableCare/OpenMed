@@ -1,0 +1,63 @@
+{
+  "catalogId": "f3441ca1-4829-4318-97da-5cf6c0de18a1",
+  "name": "SITAR 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 98 36638 99",
+  "treatmentDescriptions": "SITAR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus. Important limitations of use: SITAR should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings. SITAR has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using SITAR.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SITAGLIPTIN AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BH01",
+      "name": "SITAGLIPTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SITAR 100 MG 28 TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9383",
+        "yarpa": "14549"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 105.815,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 132.26875,
+        "maxPriceWithVAT": 156.077125
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:20:20.216300"
+  }
+}

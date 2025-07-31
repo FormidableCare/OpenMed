@@ -1,0 +1,65 @@
+{
+  "catalogId": "c0d129b6-bd2b-47da-ab88-c012e1911f6c",
+  "name": "PERICATE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "026 04 25277 00",
+  "treatmentDescriptions": "indicated for the maintenance treatment of schizophrenia and schizoaffective disorder in adult patients currently stabilized with oral haloperidol..",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HALOPERIDOL AS DECANOATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AD01",
+      "name": "HALOPERIDOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PERICATE 5AMP",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4483",
+        "yarpa": "29202",
+        "pharmasoft": "16099",
+        "barcode": "7290000812489"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 212.6068,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 249.81299,
+        "maxPriceWithVAT": 294.7793282
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:37:59.513268"
+  }
+}

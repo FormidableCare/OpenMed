@@ -1,0 +1,64 @@
+{
+  "catalogId": "327290b9-3ad6-4886-a6e9-3f45d813f213",
+  "name": "NEOBLOC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "010 52 24172 01",
+  "treatmentDescriptions": "Cardio-selective beta receptor blocker for the treatment of hypertension and angina pectoris, antiarrhithmic, prophlaxis of myocardial reinfarction and migraine.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METOPROLOL TARTRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB02",
+      "name": "METOPROLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEOBLOC 100MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2251",
+        "yarpa": "1445",
+        "pharmasoft": "14072"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.0,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 13.7,
+        "maxPriceWithVAT": 16.166
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:41:23.203100"
+  }
+}

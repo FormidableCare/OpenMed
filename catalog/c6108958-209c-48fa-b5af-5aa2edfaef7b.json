@@ -1,0 +1,65 @@
+{
+  "catalogId": "c6108958-209c-48fa-b5af-5aa2edfaef7b",
+  "name": "INFANRIX IPV HIB",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "112 53 29413 00",
+  "treatmentDescriptions": "Active immunisation in infants from the age of 2 months to 5  years against diptheria, tetanus, pertussis, poliomyelitis and Haemophilus influenza type b. Booster dose for children who have previously been immunised with DTP, Polio  and Hib antigens",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and suspension for suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIPHTHERIA TOXOID NLT/ 0.5  ML, INACTIVATED POLIO VIRUS (IPV) TYPE 3 32 DU / 0.5  ML, INACTIVATED POLIO VIRUS (IPV) TYPE 2 8 DU / 0.5  ML, INACTIVATED POLIO VIRUS (IPV) TYPE 1 40 DU / 0.5  ML, PERTUSSIS TOXOID (PT)/ 0.5  ML, FILLAMENTOUS HAEMAGGLUTININ (FHA)/ 0.5  ML, PERTACTIN/ 0.5  ML, TETANUS TOXOID NLT/ 0.5  ML, HAEMOPHILUS INFLUENZAE TYPE B POLYSACCHARIDE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07CA06",
+      "name": "DIPHTHERIA-HEMOPHILUS INFLUENZAE B-PERTUSSIS-POLIOMYELITIS-TETANUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INFANRIX POLIO HIB (IPV-HIB) INJ 0.5ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL + SYRINGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4089",
+        "yarpa": "51658",
+        "pharmasoft": "9189",
+        "barcode": "7290008102483"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 132.3007719,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 165.3759649,
+        "maxPriceWithVAT": 195.1436299
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:05:34.045229"
+  }
+}

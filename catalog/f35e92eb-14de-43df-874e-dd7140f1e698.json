@@ -1,0 +1,63 @@
+{
+  "catalogId": "f35e92eb-14de-43df-874e-dd7140f1e698",
+  "name": "LERCANAPRIL TEVA 10 /10",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 44 35533 00",
+  "treatmentDescriptions": "Treatment of essential hypertension in patients whose blood pressure cannot be adequately controlled under Lercanidipine monotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LERCANIDIPINE HYDROCHLORIDE, ENALAPRIL MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09BB02",
+      "name": "ENALAPRIL AND LERCANIDIPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LERCANAPRIL TEVA 10 MG /10 MG  30 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8680",
+        "yarpa": "56612"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.33013534,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.33228541,
+        "maxPriceWithVAT": 39.33209679
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:40:20.779622"
+  }
+}

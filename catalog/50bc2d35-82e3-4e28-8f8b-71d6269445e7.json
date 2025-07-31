@@ -1,0 +1,64 @@
+{
+  "catalogId": "50bc2d35-82e3-4e28-8f8b-71d6269445e7",
+  "name": "HEXAKAPRON  TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "016 35 24864 01",
+  "treatmentDescriptions": "Treatment  of hemorrhage occuring in some forms of surgery, including prostatectomy. Hematuria. Menorrhagia. Hereditary angioneurotic edema.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRANEXAMIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02AA02",
+      "name": "TRANEXAMIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEXAKAPRON 500MG 20T",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1562",
+        "yarpa": "975",
+        "pharmasoft": "8038"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.4341,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.624717,
+        "maxPriceWithVAT": 31.41716606
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:46:29.027521"
+  }
+}

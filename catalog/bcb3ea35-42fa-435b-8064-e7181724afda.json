@@ -1,0 +1,64 @@
+{
+  "catalogId": "bcb3ea35-42fa-435b-8064-e7181724afda",
+  "name": "PROPOFOL-LIPURO 2%",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 66 31763 00",
+  "treatmentDescriptions": "Propofol-Lipuro 2% is a short-acting intravenous general anaesthetic for● induction and maintenance of general anaesthesia in adults and children > 3 years● sedation of ventilated patients >16 years of age in the intensive care unit● sedation for diagnostic and surgical procedures, alone or in combination with local or regional anaesthesia in adults and children > 3 years.",
+  "termsOfIssue": "Prescription required",
+  "form": "emulsion for injection or infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROPOFOL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AX10",
+      "name": "PROPOFOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROPOFOL LIPURO 2 % 50ML 10 AMP",
+      "manufacturer": {
+        "name": "לפידות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8288",
+        "yarpa": "25161",
+        "barcode": "4030539096416"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 538.4799,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 632.7138825,
+        "maxPriceWithVAT": 746.6023814
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:02:50.695674"
+  }
+}

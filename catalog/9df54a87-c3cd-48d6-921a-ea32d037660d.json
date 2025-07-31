@@ -1,0 +1,65 @@
+{
+  "catalogId": "9df54a87-c3cd-48d6-921a-ea32d037660d",
+  "name": "CHLORPHENICOL SKIN OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 25 30148 00",
+  "treatmentDescriptions": "For treating superficial skin infections caused by microorganisms sensitive to chloramphenicol.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLORAMPHENICOL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D06AX02",
+      "name": "CHLORAMPHENICOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CHLORPHENICOL SKIN OINT 3% 10GR",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7309",
+        "yarpa": "68579",
+        "pharmasoft": "3845",
+        "barcode": "7290008090865"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:09:33.647733"
+  }
+}

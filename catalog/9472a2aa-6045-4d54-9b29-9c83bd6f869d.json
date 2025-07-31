@@ -1,0 +1,65 @@
+{
+  "catalogId": "9472a2aa-6045-4d54-9b29-9c83bd6f869d",
+  "name": "QVAR 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 29 30661 00",
+  "treatmentDescriptions": "Prophylaxis and treatment of bronchial asthma in adults and children 5 years of age and obove.",
+  "termsOfIssue": "Prescription required",
+  "form": "inhaler",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BECLOMETASONE DIPROPIONATE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BA01",
+      "name": "BECLOMETASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "QVAR 100 MCG/DOSE 200 DOSE AUTOHALER",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AUTOHALER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6087",
+        "yarpa": "86461",
+        "pharmasoft": "17018",
+        "barcode": "502349717614"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 61.24653,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 82.37658285,
+        "maxPriceWithVAT": 97.20436344
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:13:25.533720"
+  }
+}

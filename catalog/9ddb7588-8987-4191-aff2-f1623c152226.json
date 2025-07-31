@@ -1,0 +1,64 @@
+{
+  "catalogId": "9ddb7588-8987-4191-aff2-f1623c152226",
+  "name": "FOSAVANCE 70 MG/5600 I.U. TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "140 99 31792 01",
+  "treatmentDescriptions": "Fosavance is indicated for : - Treatment of Osteoporosis in postmenopausal women:  Fosavance increases bone mass and reduces the incidence of fractures, including those of the hip and spine (vertebral compression fractures). - Treatment to increase bone mass in men with osteoporosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COLECALCIFEROL, ALENDRONIC ACID AS ALENDRONATE SODIUM TRIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A11CC05",
+      "name": "COLECALCIFEROL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FOSAVANCE 70/5600IU 4 TAB",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/AL/PVC",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6305",
+        "yarpa": "82964",
+        "pharmasoft": "6435"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21.86515013,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 29.95525568,
+        "maxPriceWithVAT": 35.34720013
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:17:52.241572"
+  }
+}

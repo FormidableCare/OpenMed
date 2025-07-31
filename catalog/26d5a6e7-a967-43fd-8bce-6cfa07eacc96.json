@@ -1,0 +1,65 @@
+{
+  "catalogId": "26d5a6e7-a967-43fd-8bce-6cfa07eacc96",
+  "name": "OMEPRADEX - Z",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 25 30841 00",
+  "treatmentDescriptions": "Relief of reflux-like symptoms (e.g. heartburn) with frequency of two or more days a week in sufferers aged 18 and over.",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OMEPRAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC01",
+      "name": "OMEPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OMEPRADEX 20MG 14CAPLETS",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4358",
+        "yarpa": "59979",
+        "pharmasoft": "15307",
+        "barcode": "7290010578511"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.0,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 24.66,
+        "maxPriceWithVAT": 29.0988
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:07:42.247788"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "f0b06ff2-d056-43f9-b304-fd3f74a975cd",
+  "name": "CHLORAMPHENICOL VUAB 1 G.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 56 34926 00",
+  "treatmentDescriptions": "Typhus and parathyphus, salmonellosis with septic development, meningitis, epiglottis, pertussis and parapertussis, serious infections with aerobe and anaerobe flora (pulmonary, abdominal, gynecologic) and other infections caused by bacteria susceptible to chloramphenicol.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CHLORAMPHENICOL AS SODIUM SUCCINATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA01",
+      "name": "CHLORAMPHENICOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CHLORAMPHENICOL VUAB 1 G 1 VIAL",
+      "manufacturer": {
+        "name": "מרגלית",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 20 ML GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8994",
+        "yarpa": "87370",
+        "barcode": "8594159933460"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 426.4696799,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 501.1018739,
+        "maxPriceWithVAT": 591.3002112
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:09:23.069329"
+  }
+}

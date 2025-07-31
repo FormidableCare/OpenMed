@@ -1,0 +1,64 @@
+{
+  "catalogId": "2f741ed5-e776-4e31-a03f-dd487e6ef8ea",
+  "name": "ARSENIC TRIOXIDE S.K.1 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 36 36741 99",
+  "treatmentDescriptions": "Arsenic Trioxide S.K. is indicated for induction of remission, and consolidation in adult patients with: •Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, ≤ 10x1000µl incombination with all-trans-retinoic acid (ATRA) •Relapsed/refractory acute promyelocytic leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the Pro-Myelocytic Leukaemia/Retinoic-Acid-Receptor-alpha (PML/RAR-alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ARSENIC TRIOXIDE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX27",
+      "name": "ARSENIC TRIOXIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARSENIC TRIOXIDE S.K.1 MG/ML 10 VIAL 10ML",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9064",
+        "yarpa": "70644",
+        "pharmasoft": "17390"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15041.26525,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 16545.39177,
+        "maxPriceWithVAT": 19523.56142
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:28:06.405504"
+  }
+}

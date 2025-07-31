@@ -1,0 +1,65 @@
+{
+  "catalogId": "fe383b57-62b4-4ab1-9ff4-bca593962b55",
+  "name": "DEPO-PROVERA 150 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "069 69 24309 00",
+  "treatmentDescriptions": "For contraception where medically indicated and oral administration is inapplicable.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEDROXYPROGESTERONE ACETATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AC06",
+      "name": "MEDROXYPROGESTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEPO-PROVERA 150MG1ML SOL FOR INJ",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3048",
+        "yarpa": "9278",
+        "pharmasoft": "4163",
+        "barcode": "7298074000511"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.3168064,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.50402477,
+        "maxPriceWithVAT": 18.29474841
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:48:06.872677"
+  }
+}

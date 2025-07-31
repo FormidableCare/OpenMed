@@ -1,0 +1,64 @@
+{
+  "catalogId": "a33b9e80-8cc2-4c96-8ff9-197798966e83",
+  "name": "IOPAMIRO 300",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "020 40 24483 11",
+  "treatmentDescriptions": "X-ray contrast medium in neuroradiology, angiography, urography, ct scanning, arthrography and fistulography",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IOPAMIDOL 612.4  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V08AB04",
+      "name": "IOPAMIDOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIRO 30MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4658",
+        "yarpa": "57698",
+        "pharmasoft": "13492"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32.1862,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 44.095094,
+        "maxPriceWithVAT": 52.03221092
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:27:39.393271"
+  }
+}

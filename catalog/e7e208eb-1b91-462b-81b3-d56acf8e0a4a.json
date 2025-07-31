@@ -1,0 +1,65 @@
+{
+  "catalogId": "e7e208eb-1b91-462b-81b3-d56acf8e0a4a",
+  "name": "DIGOXIN KERN PHARMA 0.25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 20 33918 00",
+  "treatmentDescriptions": "Cardiac failure:Digoxin KERN PHARMA is indicated for the treatment of chronic cardiac failure where the principal cause is systolic dysfunction. The greatest therapeutic benefit is achieved in patients with ventricular dilatation.Digoxin KERN PHARMA is specifically indicated where cardiac failure is accompanied by atrial fibrilation.Supraventricular arrhythmias:Digoxin KERN PHARMA is indicated for the treatment of certain supraventricular arrhythmias, particularly atrial fibrillation and flutter, where its principal beneficial effect is to reduce the ventricular rate.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIGOXIN 0.25   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01AA05",
+      "name": "DIGOXIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DIGOXIN KERN PHARMA 0.25MG 50TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7731",
+        "yarpa": "6700",
+        "pharmasoft": "4621",
+        "barcode": "7290016981100"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.6825,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.375025,
+        "maxPriceWithVAT": 20.5025295
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:55:59.401232"
+  }
+}

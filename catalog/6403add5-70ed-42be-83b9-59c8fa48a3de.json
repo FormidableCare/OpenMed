@@ -1,0 +1,64 @@
+{
+  "catalogId": "6403add5-70ed-42be-83b9-59c8fa48a3de",
+  "name": "EVISTA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "109 37 29234 05",
+  "treatmentDescriptions": "Evista is indicated for the treatment of osteoporosis in post menopausal women.   Evista is indicated for the prevention of osteoporosis in post menopausal women .  Evista is indicated for the reduction in risk of invasive breast cancer in postmenopausal women with osteoporosis.  Evista is indicated for the reduction in risk of invasive breast cancer in postmenopausal women at high risk for invasive breast cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RALOXIFENE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03XC01",
+      "name": "RALOXIFENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EVISTA 60MG 28TAB",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PCTFE/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3618",
+        "yarpa": "76523",
+        "pharmasoft": "5116"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 51.5071,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 69.2770495,
+        "maxPriceWithVAT": 81.74691841
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:46:22.371695"
+  }
+}

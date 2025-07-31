@@ -1,0 +1,64 @@
+{
+  "catalogId": "92720db6-20f2-412b-a4bf-3608fc0de54d",
+  "name": "AMIKACIN - MEDO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 08 35426 00",
+  "treatmentDescriptions": "AMIKACIN - MEDO is indicated in the short-term treatment of Gram-negative organisms, including pseudomonas and some Gram-positive organisms.Sensitive Gram-negative organisms include; Pseudomonas aeruginosa, Escherichia coli., indole-positive and indole-negative Proteus spp., Klebsiella, Enterobacter and Serratia spp., Minea-Herralae, Citrobacter freundii, Salmonella, Shigella, Acinetobacter and Providencia spp.The principal Gram-positive organism sensitive to amikacin is Staphylococcus aureus, including some methicillin-resistant strains. AMIKACIN - MEDO has some activity against other Gram-positive organisms including certain strains of Streptococcus pyogenes, Enterococci and Diplococcus pneumoniae.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMIKACIN AS SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01GB06",
+      "name": "AMIKACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AMIKACIN - MEDO 500mg/2ml 10 amp",
+      "manufacturer": {
+        "name": "מדי מרקט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8622",
+        "yarpa": "35613",
+        "barcode": "7290015841214"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 94.5241,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 118.155125,
+        "maxPriceWithVAT": 139.4230475
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:21:53.216004"
+  }
+}

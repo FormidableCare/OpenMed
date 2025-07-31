@@ -1,0 +1,64 @@
+{
+  "catalogId": "985390ef-6db9-48a8-a630-ea42fd7d35c2",
+  "name": "PHENIDIN 18 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 08 35114 00",
+  "treatmentDescriptions": "For the treatment of attention deficit hyperactivity disorder (ADHD).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHYLPHENIDATE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA04",
+      "name": "METHYLPHENIDATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENIDIN 18 MG 30 SR TAB",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8338",
+        "yarpa": "51712",
+        "pharmasoft": "10593"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 76.5984,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 103.024848,
+        "maxPriceWithVAT": 121.5693206
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:39:46.383727"
+  }
+}

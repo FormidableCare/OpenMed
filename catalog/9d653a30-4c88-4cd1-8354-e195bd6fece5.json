@@ -1,0 +1,65 @@
+{
+  "catalogId": "9d653a30-4c88-4cd1-8354-e195bd6fece5",
+  "name": "CLARINASE REPETABS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 67 28568 00",
+  "treatmentDescriptions": "Relief of symptoms of seasonal allergic rhinitis when both the antihistaminic properties and the nasal decongestant activity are desired.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LORATADINE, PSEUDOEPHEDRINE SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX13",
+      "name": "LORATADINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLARINASE REPETABS 14",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4331",
+        "yarpa": "3680",
+        "pharmasoft": "3137",
+        "barcode": "7290008121521"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 24.5986398,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 33.70013653,
+        "maxPriceWithVAT": 39.76615933
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:18:30.118303"
+  }
+}

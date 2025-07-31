@@ -1,0 +1,64 @@
+{
+  "catalogId": "6b301740-91f6-4d78-af0a-70652ed0b712",
+  "name": "RALOXIFENE TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 48 31964 03",
+  "treatmentDescriptions": "- Treatment of osteoporosis in post menopausal women.- Prevention of osteoporosis in post menopausal women.- Reduction in risk of invasive breast cancer in postmenopausal women with osteoporosis. - Reduction in risk of invasive breast cancer in postmenopausal women at high risk for invasive breast cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RALOXIFENE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03XC01",
+      "name": "RALOXIFENE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RALOXIFENE TEVA 60MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7280",
+        "yarpa": "46799",
+        "pharmasoft": "18502"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 55.1861,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 74.2253045,
+        "maxPriceWithVAT": 87.58585931
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:15:43.485126"
+  }
+}

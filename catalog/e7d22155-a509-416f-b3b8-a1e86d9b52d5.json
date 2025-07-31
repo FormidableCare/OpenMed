@@ -1,0 +1,65 @@
+{
+  "catalogId": "e7d22155-a509-416f-b3b8-a1e86d9b52d5",
+  "name": "IMPAVIDO 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 05 34311 00",
+  "treatmentDescriptions": "-Treatment of visceral Leishmaniasis caused by Leishmania donovani. -Treatment of cutaneous Leishmaniasis caused by Leishmania brasiliensis complex or Leishmania mexicana complex.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MILTEFOSINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX09",
+      "name": "MILTEFOSINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IMPAVIDO 50MG 56CAPS",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7593",
+        "yarpa": "32908",
+        "pharmasoft": "9903",
+        "barcode": "7290014573154"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10552.27698,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11607.50468,
+        "maxPriceWithVAT": 13696.85491
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:04:13.679993"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "7a22985b-f4f6-4173-bd28-3a479d3a7513",
+  "name": "RETROVIR IV FOR INFUSION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "100 74 28753 00",
+  "treatmentDescriptions": "Retrovir IV for infusion is indicated for the short term management of serious manifestations of Human immunodeficiency Virus (HIV) infection in patients with Acquired Immuno Deficiency Syndrome (AIDS) or AIDS who are unable to take Retrovir oral formulations.Retrovir chemoprophylaxis, is indicated for use in HIV-positive pregnant women (over 14 weeks of gestation) for prevention of maternal-foetal HIV transmission and for primary prophylaxis of HIV infection in newborn infants. Retrovir I.V. should only be used when oral treatment is not possible (except during labour and delivery).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZIDOVUDINE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AF01",
+      "name": "ZIDOVUDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RETROVIR 250MG 40CAPS",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 40.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3108",
+        "yarpa": "9228",
+        "pharmasoft": "18097",
+        "barcode": "7290004557805"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 319.985106,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 375.9824996,
+        "maxPriceWithVAT": 443.6593297
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:30:04.340455"
+  }
+}

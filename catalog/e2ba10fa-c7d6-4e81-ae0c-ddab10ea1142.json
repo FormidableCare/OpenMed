@@ -1,0 +1,65 @@
+{
+  "catalogId": "e2ba10fa-c7d6-4e81-ae0c-ddab10ea1142",
+  "name": "PARICALCITOL INOVAMED 5 MCG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 87 34513 00",
+  "treatmentDescriptions": "Paricalcitol is indicated in adults for the prevention and treatment of secondary hyperparathyroidism in patients with chronic renal failure who are undergoing haemodialysis.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARICALCITOL 0.005 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H05BX02",
+      "name": "PARICALCITOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PARICALCITOL INOVAMED 5 MCG/ML 5 AMP",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8329",
+        "yarpa": "4220",
+        "pharmasoft": "10299",
+        "barcode": "7290104530401"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 218.166375,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 256.3454906,
+        "maxPriceWithVAT": 302.4876789
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:28:51.164170"
+  }
+}

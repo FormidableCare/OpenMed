@@ -1,0 +1,65 @@
+{
+  "catalogId": "2b3a7896-8186-48c8-a2cd-42c8b037c7cf",
+  "name": "ARANESP 100 MCG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "124 46 30400 00",
+  "treatmentDescriptions": "Aranesp ® is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients &#8805; 1 year of age",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DARBEPOETIN ALFA/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B03XA02",
+      "name": "DARBEPOETIN ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARANESP 80MCG 4 PREFILLED SYR 0.4ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4553",
+        "yarpa": "29747",
+        "pharmasoft": "9487",
+        "barcode": "8715131005863"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1761.68625,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 1937.854875,
+        "maxPriceWithVAT": 2286.668651
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:24:19.120425"
+  }
+}

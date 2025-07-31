@@ -1,0 +1,63 @@
+{
+  "catalogId": "b3903c3d-6c46-4e9c-a1dc-88dfa8d47b0e",
+  "name": "EZETIMIBE ® TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 59 35380 00",
+  "treatmentDescriptions": "- Primary hypercholesterolemia: Ezetimibe Teva administered with an HMG-CoA reductase inhibitor (statin) or alone are indicated as adjunctive therapy to diet for use in patients with primary (heterozygous familial and non-familial) hypercholesterolemia. - Homozygous familial hypercholesterolemia (HoFH): Ezetimibe Teva administered with a statin are indicated for use in patients with HoFH. Patients may also receive adjunctive treatments (e.g. LDL apheresis).- Homozygous sitosterolemia (Phytosterolemia): Ezetimibe Teva is indicated for use in patients with homozygous familial sitosterolemia",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EZETIMIBE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AX09",
+      "name": "EZETIMIBE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EZETIMIBE TEVA 10 MG 30 TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER OPA/ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8682",
+        "yarpa": "56609"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 148.5788,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 185.7235,
+        "maxPriceWithVAT": 219.15373
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:51:43.296876"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "c1b166a9-6486-4fc2-a953-c5685f40252f",
+  "name": "MEROKEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "062 36 27922 00",
+  "treatmentDescriptions": "Bowel cleansing prior to colonoscopy and barium enema x-ray examinations.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MACROGOLS 315.0  G/CONTAINER, POTASSIUM CHLORIDE 1.1175  G/CONTAINER, SODIUM BICARBONATE 4.2840  G/CONTAINER, SODIUM CHLORIDE 8.4240  G/CONTAINER",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A06AD10",
+      "name": "MINERAL SALTS IN COMBINATION"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEROKEN POWDER FOR SOL 3 L",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2800",
+        "yarpa": "8917",
+        "pharmasoft": "13035",
+        "barcode": "7290000808758"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:13:52.080014"
+  }
+}

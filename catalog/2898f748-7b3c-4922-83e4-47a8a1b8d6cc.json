@@ -1,0 +1,64 @@
+{
+  "catalogId": "2898f748-7b3c-4922-83e4-47a8a1b8d6cc",
+  "name": "CARDILOC 2.5",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 07 30654 02",
+  "treatmentDescriptions": "Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function ( ejection fraction < 35 %, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BISOPROLOL HEMIFUMARATE 2.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB07",
+      "name": "BISOPROLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARDILOC 2.5MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6972",
+        "yarpa": "56392",
+        "pharmasoft": "3275"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.0162,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.092194,
+        "maxPriceWithVAT": 17.80878892
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:54:42.172509"
+  }
+}

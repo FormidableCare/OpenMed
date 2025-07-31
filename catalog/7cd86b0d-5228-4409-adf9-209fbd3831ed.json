@@ -1,0 +1,63 @@
+{
+  "catalogId": "7cd86b0d-5228-4409-adf9-209fbd3831ed",
+  "name": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 04 34799 00",
+  "treatmentDescriptions": "- Prevention of thromboembolic disorders.- As part of the treatment of venous and arterial thromboembolic disorders (including early treatment of  heart attacks as well as unstable angina pectoris)- For the anticoagulation in case of treatment or operation with extracorporeal circulation (e.g. heart-lung machine, hemodialysis)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection / infusion",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HEPARIN SODIUM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C05BA03",
+      "name": "HEPARIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML 5 VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8842",
+        "yarpa": "27195"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 100.1009078,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 125.1261347,
+        "maxPriceWithVAT": 147.6488324
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:45:26.524630"
+  }
+}

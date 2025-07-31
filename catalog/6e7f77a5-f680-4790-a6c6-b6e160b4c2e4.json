@@ -1,0 +1,65 @@
+{
+  "catalogId": "6e7f77a5-f680-4790-a6c6-b6e160b4c2e4",
+  "name": "POTELIGEO 4 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 20 37345 00",
+  "treatmentDescriptions": "POTELIGEO is indicated for the treatment of adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOGAMULIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FX09",
+      "name": "MOGAMULIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "POTELIGEO  20MG/5ML  1 VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9342",
+        "yarpa": "43900",
+        "pharmasoft": "23280",
+        "barcode": "7290018081402"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4951.201461,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5446.321607,
+        "maxPriceWithVAT": 6426.659211
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:47:40.488192"
+  }
+}

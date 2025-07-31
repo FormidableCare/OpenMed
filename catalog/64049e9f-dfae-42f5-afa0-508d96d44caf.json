@@ -1,0 +1,65 @@
+{
+  "catalogId": "64049e9f-dfae-42f5-afa0-508d96d44caf",
+  "name": "DICLECTIN  ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 11 34066 00",
+  "treatmentDescriptions": "Diclectin® is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets delayed release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PYRIDOXINE (VIT B6) HYDROCHLORIDE, DOXYLAMINE SUCCINATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AA09",
+      "name": "DOXYLAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DICLECTIN 100 DELAYED RELEASE TAB",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7581",
+        "yarpa": "80806",
+        "pharmasoft": "4632",
+        "barcode": "7290013280657"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 385.6263,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 453.1109025,
+        "maxPriceWithVAT": 534.6708412
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:54:54.334359"
+  }
+}

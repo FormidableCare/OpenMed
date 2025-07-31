@@ -1,0 +1,65 @@
+{
+  "catalogId": "c283904c-0f18-4b0a-a3ad-bd13486dae4a",
+  "name": "RESTASIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 03 31306 00",
+  "treatmentDescriptions": "To increase tear production in patients whose tear production is presumed to be supressed due to ocular inflammation associated with keratoconjunctivitis sicca. Increased tear production was not seen in patients currently taking topical anti-inflammatory drugs or using punctal plugs.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, emulsion",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CICLOSPORIN 0.05 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA01",
+      "name": "CYCLOSPORIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RESTASIS 0.05% EYE DRPS 30X0.4ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7088",
+        "yarpa": "4125",
+        "pharmasoft": "18467",
+        "barcode": "7290104780028"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:28:10.573790"
+  }
+}

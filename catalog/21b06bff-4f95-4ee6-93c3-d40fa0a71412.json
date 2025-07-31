@@ -1,0 +1,65 @@
+{
+  "catalogId": "21b06bff-4f95-4ee6-93c3-d40fa0a71412",
+  "name": "GLIADEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "110 34 29392 00",
+  "treatmentDescriptions": "For use as an adjunct to surgery to prolong survival in patients with recurrent glioblastoma multiforme for whom surgical resection is indicated.   Gliadel implant is indicated in newly-diagnosed high-grade malignant glioma patients as an adjunct to surgery and radiation.   Gliadel implant is indicated for use as an adjunct to surgery in patients with Recurrent histogically proved glioblastoma multiforme for whom surgical resection is indicated.",
+  "termsOfIssue": "Prescription required",
+  "form": "wafer",
+  "route": "implant",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARMUSTINE 7.7   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AD01",
+      "name": "CARMUSTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLIADEL 7.7MG 8 WAFERS IMPLANT",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH LAMINATED",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6922",
+        "yarpa": "69961",
+        "pharmasoft": "7872",
+        "barcode": "3161379010015"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 34178.8034,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 37596.68374,
+        "maxPriceWithVAT": 44364.08484
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:34:53.531834"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "43f9fd6d-3c08-4934-ab01-cf98a86693a5",
+  "name": "JEMPERLI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 79 36883 00",
+  "treatmentDescriptions": "Jemperli is indicated in combination with carboplatin and paclitaxel for the treatment of adult patients with mismatch repair deficient (dMMR)/ microsatellite instability high (MSI H) primary advanced or recurrent endometrial cancer (EC) and who are candidates for systemic therapy.Jemperli is indicated as monotherapy for the treatment of adult patients with dMMR/MSI-H recurrent or advanced EC that has progressed on or following prior treatment with a platinum containing regimen.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DOSTARLIMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC40",
+      "name": "DOSTARLIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "JEMPERLI 500MG/10ML 1 VIAL",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9019",
+        "yarpa": "71371",
+        "barcode": "7290014547681"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20512.34013,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 22563.57414,
+        "maxPriceWithVAT": 26625.01631
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:19:10.621185"
+  }
+}

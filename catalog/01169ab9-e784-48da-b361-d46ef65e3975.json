@@ -1,0 +1,65 @@
+{
+  "catalogId": "01169ab9-e784-48da-b361-d46ef65e3975",
+  "name": "PLEGRIDY 125",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 04 34292 00",
+  "treatmentDescriptions": "Plegridy is indicated in adult patients for the treatment of relapsing remitting multiple sclerosis",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PEGINTERFERON BETA 1A/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AB13",
+      "name": "PEGINTERFERON BETA-1A"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PLEGRIDY 125MCG/0.5ML 2 PRE FILLED PEN",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7632",
+        "yarpa": "4474",
+        "pharmasoft": "16978",
+        "barcode": "7290015666091"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2178.134865,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2395.948352,
+        "maxPriceWithVAT": 2827.21893
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:46:08.058639"
+  }
+}

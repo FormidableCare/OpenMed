@@ -1,0 +1,64 @@
+{
+  "catalogId": "9200f2ad-2225-41c9-bbbe-37a620d0d8f1",
+  "name": "AVAMYS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 80 31837 00",
+  "treatmentDescriptions": "AVAMYS (fluticasone furoate) Nasal Spray is indicated for the treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older.",
+  "termsOfIssue": "Prescription required",
+  "form": "spray",
+  "route": "nasal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUTICASONE FUROATE 27.5  MCG/ACTUATION",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R01AD12",
+      "name": "FLUTICASONE FUROATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AVAMYS 27.5MCG/DOSE 120DOSES",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6400",
+        "yarpa": "84222",
+        "pharmasoft": "9341"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.3394476,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 30.60504321,
+        "maxPriceWithVAT": 36.11394938
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:27:06.063702"
+  }
+}

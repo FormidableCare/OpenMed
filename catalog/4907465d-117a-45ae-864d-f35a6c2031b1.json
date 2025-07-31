@@ -1,0 +1,64 @@
+{
+  "catalogId": "4907465d-117a-45ae-864d-f35a6c2031b1",
+  "name": "OXALIPLATIN TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 23 31784 00",
+  "treatmentDescriptions": "Oxaliplatin in combination with 5- fluorouracil (5-FU) and folinic acid (FA)  is indicated for :   - Adjuvant treatment of stage III (Duke's C) colon cancer after complete resection of the primary tumour.   - Treatment of metastatic colorectal cancer.Oxaliplatin in combination with leucovorin, irinotecan and 5-fluorouracil is indicated for the first-line treatment of patients with metastatic pancreatic adenocarcinoma (based on NCCNguidelines, version 2.2014).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXALIPLATIN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XA03",
+      "name": "OXALIPLATIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXALIPLATIN TEVA 100MG/20ML  VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6466",
+        "yarpa": "64987",
+        "pharmasoft": "15363"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 714.5404,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 839.58497,
+        "maxPriceWithVAT": 990.7102646
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:20:36.922050"
+  }
+}

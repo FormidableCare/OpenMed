@@ -1,0 +1,65 @@
+{
+  "catalogId": "16810336-b936-446e-8959-3de73522a068",
+  "name": "CARBOPLATIN TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "042 05 25540 05",
+  "treatmentDescriptions": "Advanced ovarian carcinoma in initial treatment and secondary treatment.Metastatic small cell carcinoma of the lung.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBOPLATIN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XA02",
+      "name": "CARBOPLATIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARBOPLATIN 450MG/45ML VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7445",
+        "yarpa": "35206",
+        "pharmasoft": "9546",
+        "barcode": "7290008002035"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 296.7338,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 348.662215,
+        "maxPriceWithVAT": 411.4214137
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:54:10.271172"
+  }
+}

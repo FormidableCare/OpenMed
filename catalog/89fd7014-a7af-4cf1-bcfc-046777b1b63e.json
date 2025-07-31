@@ -1,0 +1,65 @@
+{
+  "catalogId": "89fd7014-a7af-4cf1-bcfc-046777b1b63e",
+  "name": "PROFEX 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 93 29804 00",
+  "treatmentDescriptions": "Prophylaxis and treatment of ventricular arrhythmias. Prophylaxis and treatment of atrial fibrillation and flutter. Prophylaxis and treatment of Paroxysmal supraventricular tachycardia (PSVT) associated with disabling symptoms.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROPAFENONE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BC03",
+      "name": "PROPAFENONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROFEX 150MG 30TAB",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4148",
+        "yarpa": "66471",
+        "pharmasoft": "16380",
+        "barcode": "7290000810485"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.7321,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.072977,
+        "maxPriceWithVAT": 18.96611286
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:59:05.695141"
+  }
+}

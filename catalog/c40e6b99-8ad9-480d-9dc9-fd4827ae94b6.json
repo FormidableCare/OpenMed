@@ -1,0 +1,65 @@
+{
+  "catalogId": "c40e6b99-8ad9-480d-9dc9-fd4827ae94b6",
+  "name": "NEUPOGEN 30 MU PRE-FILLED SYRINGE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 22 29875 00",
+  "treatmentDescriptions": "Neupogen is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes) and for the reduction in the duration of neutropenia in patients undergoing myeloablative therapy followed by bone marrow transplantation considered to be at increased risk of prolonged severe neutropenia.The safety and efficacy of Neupogen are similar in adults and children receiving cytotoxic chemotherapy.Neupogen is indicated for the mobilisation of peripheral blood progenitor cells (PBPCs).In patients, children or adults, with severe congenital, cyclic, or idiopathic neutropenia with an absolute neutrophil count (ANC) of ≤ 0.5 × 109/l, and a history of severe or recurrent infections, long term administration of Neupogen is indicated to increase neutrophil counts and to reduce the incidence and duration of infection-related events.Neupogen is indicated for the treatment of persistent neutropenia (ANC less than or equal to 1.0 × 109/l) in patients with advanced HIV infection, in order to reduce the risk of bacterial infections when other options to manage neutropenia are inappropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FILGRASTIM 30 MU / 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L03AA02",
+      "name": "FILGRASTIM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEUPOGEN 1 PREFIL.SYR. 30MU/0.5ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4134",
+        "yarpa": "3757",
+        "pharmasoft": "14607",
+        "barcode": "8715131009762"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 113.8603976,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 142.3254969,
+        "maxPriceWithVAT": 167.9440789
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:43:24.546187"
+  }
+}

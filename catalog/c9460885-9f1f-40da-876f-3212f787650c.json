@@ -1,0 +1,65 @@
+{
+  "catalogId": "c9460885-9f1f-40da-876f-3212f787650c",
+  "name": "ATROVENT ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 01 30934 00",
+  "treatmentDescriptions": "For the relief of symptoms of reversible bronchospasm associated with asthma, chronic bronchitis and emphysema.",
+  "termsOfIssue": "Prescription required",
+  "form": "inhaler",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IPRATROPIUM BROMIDE 0.02   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03BB01",
+      "name": "IPRATROPIUM BROMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ATROVENT INHALER 20MCG 200DOSES",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "INHALER ",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4715",
+        "yarpa": "59982",
+        "pharmasoft": "1906",
+        "barcode": "7920000800462"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.72145192,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.16838913,
+        "maxPriceWithVAT": 23.79869917
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:26:02.191102"
+  }
+}

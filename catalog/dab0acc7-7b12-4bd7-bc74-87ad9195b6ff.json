@@ -1,0 +1,64 @@
+{
+  "catalogId": "dab0acc7-7b12-4bd7-bc74-87ad9195b6ff",
+  "name": "SEVORANE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "106 99 28917 01",
+  "treatmentDescriptions": "Sevoflurane is indicated for induction and maintenance of general anesthesia in adult and pediatric patients for inpatient and outpatient surgery.",
+  "termsOfIssue": "Prescription required",
+  "form": "liquid for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEVOFLURANE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01AB08",
+      "name": "SEVOFLURANE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEVORANE BOTTLE 250 ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 250.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE AMBER PEN",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7995",
+        "yarpa": "77626",
+        "barcode": "8054083015781"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 482.63205,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 567.0926588,
+        "maxPriceWithVAT": 669.1693076
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:09:26.732880"
+  }
+}

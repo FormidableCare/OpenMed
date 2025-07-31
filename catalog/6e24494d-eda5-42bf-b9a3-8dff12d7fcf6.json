@@ -1,0 +1,64 @@
+{
+  "catalogId": "6e24494d-eda5-42bf-b9a3-8dff12d7fcf6",
+  "name": "OTEZLA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 91 34274 04",
+  "treatmentDescriptions": "Otezla is indicated:- For treatment of adult patients with active psoriatic arthritis (PsA).- For adult patients with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy (PSOR).- For the treatment of adult patients with oral ulcers associated with Behçet’s disease (BD).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "APREMILAST",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA32",
+      "name": "APREMILAST"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OTEZLA STARTER PACK 27 F.C.TAB (4X10MG 4X20MG 19X30MG)",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 27.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7625",
+        "yarpa": "31118",
+        "pharmasoft": "15462"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1114.137103,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1309.111096,
+        "maxPriceWithVAT": 1544.751025
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:18:33.538442"
+  }
+}

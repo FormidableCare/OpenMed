@@ -1,0 +1,65 @@
+{
+  "catalogId": "f5caed6e-96e6-44fb-8327-66a3bce273d0",
+  "name": "MELPHALAN RAZ 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 16 35540 00",
+  "treatmentDescriptions": "For the palliative treatment of multiple myeloma and for the palliation of non resectable epithelial cancer of the ovary.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection/infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MELPHALAN AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AA03",
+      "name": "MELPHALAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MELPHALAN RAZ 50 MG 1 VIAL",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8870",
+        "yarpa": "70515",
+        "pharmasoft": "17350",
+        "barcode": "7290015863469"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 280.092,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 329.1081,
+        "maxPriceWithVAT": 388.3475407
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:10:06.157774"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "45c38ccf-d305-464a-8d18-df6778f48d64",
+  "name": "MAYZENT 0.25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 54 36195 00",
+  "treatmentDescriptions": "Mayzent is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include relapsing-remitting disease, and active secondary progressive disease, in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SIPONIMOD AS FUMARIC ACID 0.25  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA42",
+      "name": "SIPONIMOD"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MAYZENT1 MG 28 F.C. TABS",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/ALU/PVC/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9553",
+        "barcode": "7290018375266"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4589.549874,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5048.504862,
+        "maxPriceWithVAT": 5957.235472
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:07:40.800662"
+  }
+}

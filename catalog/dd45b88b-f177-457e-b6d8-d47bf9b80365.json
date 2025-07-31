@@ -1,0 +1,63 @@
+{
+  "catalogId": "dd45b88b-f177-457e-b6d8-d47bf9b80365",
+  "name": "FULVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 64 36677 99",
+  "treatmentDescriptions": "Monotherapy :FulVenir is indicated for the treatment of oestrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women:not previously treated with endocrine therapy, or with disease relapse on or after adjuvant endocrine therapy; or disease progression on endocrine therapy. Combination Therapy with Palbociclib: FulVenir is indicated for the treatment of HR-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with palbociclib in women with disease progression after endocrine therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FULVESTRANT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BA03",
+      "name": "FULVESTRANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FULVENIR  250 MG/5 ML 2 PFS",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9087",
+        "yarpa": "81403"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 702.0991288,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 824.9664764,
+        "maxPriceWithVAT": 973.4604421
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:21:39.936155"
+  }
+}

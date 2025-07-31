@@ -1,0 +1,65 @@
+{
+  "catalogId": "b6c73d42-f307-40e4-978f-5b319edf3b53",
+  "name": "MOXYPEN ® FORTE 500 MG CAPSULES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 22 30823 00",
+  "treatmentDescriptions": "Infections caused by amoxycillin - susceptible organisms. Prevention of bacteremia in patients at risk of developing bacterial endocarditis.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMOXICILLIN AS TRIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CA04",
+      "name": "AMOXICILLIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MOXYPEN FTE 500MG 10CAPS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM/PAPER",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1602",
+        "yarpa": "7286",
+        "pharmasoft": "13385",
+        "barcode": "7290000801605"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.3,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.741,
+        "maxPriceWithVAT": 15.03438
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:34:07.351070"
+  }
+}

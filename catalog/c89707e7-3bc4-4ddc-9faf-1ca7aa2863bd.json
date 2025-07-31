@@ -1,0 +1,64 @@
+{
+  "catalogId": "c89707e7-3bc4-4ddc-9faf-1ca7aa2863bd",
+  "name": "GLIADEL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "110 34 29392 00",
+  "treatmentDescriptions": "For use as an adjunct to surgery to prolong survival in patients with recurrent glioblastoma multiforme for whom surgical resection is indicated.   Gliadel implant is indicated in newly-diagnosed high-grade malignant glioma patients as an adjunct to surgery and radiation.   Gliadel implant is indicated for use as an adjunct to surgery in patients with Recurrent histogically proved glioblastoma multiforme for whom surgical resection is indicated.",
+  "termsOfIssue": "Prescription required",
+  "form": "wafer",
+  "route": "implant",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARMUSTINE 7.7   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AD01",
+      "name": "CARMUSTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARMUSTINE 100 MG/VIAL 1VIAL",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "POUCH LAMINATED",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8570",
+        "yarpa": "48999",
+        "barcode": "3161379010015"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4965.471572,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5462.01873,
+        "maxPriceWithVAT": 6445.181814
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:55:35.164953"
+  }
+}

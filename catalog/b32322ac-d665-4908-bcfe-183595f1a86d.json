@@ -1,0 +1,65 @@
+{
+  "catalogId": "b32322ac-d665-4908-bcfe-183595f1a86d",
+  "name": "CYSTAGON 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "152 28 34049 00",
+  "treatmentDescriptions": "CYSTAGON is indicated for the treatment of proven nephropathic cystinosis.Cysteamine reduces cystine accumulation in some cells (e.g. leukocytes, muscle and liver cells) of nephropathic cystinosis patients and, when treatment is started early, it delays the development of renal failure.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CYSTEAMINE AS BITARTRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AA04",
+      "name": "MERCAPTAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CYSTAGON 150MG 100CAPS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7659",
+        "yarpa": "35086",
+        "pharmasoft": "9539",
+        "barcode": "7290008128995"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 785.4642,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 922.920435,
+        "maxPriceWithVAT": 1089.046065
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:38:06.259982"
+  }
+}

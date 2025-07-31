@@ -1,0 +1,65 @@
+{
+  "catalogId": "fd4f02fb-ca93-4c14-ad28-036e2dd6a823",
+  "name": "ENTUMIN ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "023 40 21411 00",
+  "treatmentDescriptions": "For the treatment of severe mental and emotional disorders (Neuroleptic).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOTIAPINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AX09",
+      "name": "CLOTIAPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENTUMIN 40MG 30TAB",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "922",
+        "yarpa": "807",
+        "pharmasoft": "5080",
+        "barcode": "7298120014271"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.9497,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.111089,
+        "maxPriceWithVAT": 22.55108502
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:24:46.262665"
+  }
+}

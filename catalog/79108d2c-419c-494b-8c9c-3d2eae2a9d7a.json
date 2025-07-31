@@ -1,0 +1,65 @@
+{
+  "catalogId": "79108d2c-419c-494b-8c9c-3d2eae2a9d7a",
+  "name": "AGISTEN ALOEVERA CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "043 17 22461 00",
+  "treatmentDescriptions": "For the treatment of fungal infections of the skin and mucosa caused by dermatophytes, yeasts, molds and other fungi such as Malassezia furfur, as well as skin infections caused by Corynebacterium minutissimum.Indicated also for Candida Vulvitis and Candida balanitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLOTRIMAZOLEW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D01AC01",
+      "name": "CLOTRIMAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AGISTEN 3 VCR  2% 20GR",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2368",
+        "yarpa": "233",
+        "pharmasoft": "1158",
+        "barcode": "7290004850432"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 21.82090667,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 29.89464213,
+        "maxPriceWithVAT": 35.27567615
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:11:46.370630"
+  }
+}

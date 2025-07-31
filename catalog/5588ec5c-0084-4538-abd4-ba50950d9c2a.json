@@ -1,0 +1,65 @@
+{
+  "catalogId": "5588ec5c-0084-4538-abd4-ba50950d9c2a",
+  "name": "RESOLOR 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 82 33682 00",
+  "treatmentDescriptions": "Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRUCALOPRIDE AS SUCCINATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A03AE04",
+      "name": "PRUCALOPRIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RESOLOR 2MG 28 FC TAB",
+      "manufacturer": {
+        "name": "ביוטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7060",
+        "yarpa": "48927",
+        "pharmasoft": "18505",
+        "barcode": "7290014577107"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 246.904686,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 290.1130061,
+        "maxPriceWithVAT": 342.3333319
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:27:52.393595"
+  }
+}

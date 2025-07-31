@@ -1,0 +1,65 @@
+{
+  "catalogId": "f0448147-cc92-4f77-afe7-797b637d657f",
+  "name": "FORADIL CAPSULES FOR INHALATION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 97 28552 00",
+  "treatmentDescriptions": "Foradil is indicated in asthma ( including nocturnal asthma and exercise-induced symptoms) in those treated with inhaled corticosteroids who also require a long-acting beta agonist in accordance with current treatment guidelines.Prophylaxis and treatment of bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and emphysema.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FORMOTEROL FUMARATE DIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC13",
+      "name": "FORMOTEROL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FORADIL 12MCG 60CAPS",
+      "manufacturer": {
+        "name": "סנדוז",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3216",
+        "yarpa": "47600",
+        "pharmasoft": "6112",
+        "barcode": "7298120003664"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 44.133765,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 59.35991393,
+        "maxPriceWithVAT": 70.04469532
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:16:39.792911"
+  }
+}

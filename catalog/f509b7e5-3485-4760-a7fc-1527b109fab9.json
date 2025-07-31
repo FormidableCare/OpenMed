@@ -1,0 +1,64 @@
+{
+  "catalogId": "f509b7e5-3485-4760-a7fc-1527b109fab9",
+  "name": "ENBREL 25 MG SOLUTION FOR INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 52 31949 00",
+  "treatmentDescriptions": "* Rheumatoid arthritis:- Enbrel is indicated for the treatment of active rhematoid arthritis in adults when the response to disease-modifying antirheumatic drugs (DMARDs)  including methotrexate (unless contraindicated)  has been inadequate..   Enbrel can be used in combination with methotrexate in patients who do not respond adequately to methotrexate alone.  - Reducing signs and symptoms and inhibiting the progression of structural damage in patients with moderately to severely active rheumatoid arthritis.Enbrel, alone or in combination with methotrexate, has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function.* Psoriatic arthritisTreatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying antirheumatic drug therapy has been inadequate. Enbrel has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X ray in patients with polyarticular symmetrical subtypes of the disease.   * Plaque psoriasis Treatment of adults patients (18 years or older) with moderate to severe plaque psoriasis  who  are candidates for systemic therapy or phototherapy.* Paediatric plaque psoriasis Treatment of chronic severe plaque psoriasis in children and adolescents from the age of  6 years  who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.* Juvenile idiopathic arthritis- Treatment of polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in children and adolescents from the age of 2 years who have had an inadequate response to, or who have proved intolerant of, methotrexate. - Treatment of psoriatic arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, methotrexate.Treatment of enthesitis-related arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, conventional therapy. Enbrel has not been studied in children aged less than 2 years.* Axial spondyloarthritis- Ankylosing spondylitis(AS)Treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.- Non-radiographic axial spondyloarthritisTreatment of adults with severe non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence, who have had an inadequate response to nonsteroidal anti-inflammatory drugs (NSAIDs)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETANERCEPT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AB01",
+      "name": "ETANERCEPT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENBREL 25MG/DOSE 4 PRE-FILLED SYR",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7550",
+        "yarpa": "15838",
+        "pharmasoft": "5507"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1006.64677,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1182.809955,
+        "maxPriceWithVAT": 1395.715685
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:20:20.772344"
+  }
+}

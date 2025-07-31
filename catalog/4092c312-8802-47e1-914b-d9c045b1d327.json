@@ -1,0 +1,65 @@
+{
+  "catalogId": "4092c312-8802-47e1-914b-d9c045b1d327",
+  "name": "MERCAPTIZOL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "014 89 24453 00",
+  "treatmentDescriptions": "For the treatment of hyperthyroidism.בקשה לתוספת משטר מינון: 8/8/2023Adult - The initial daily dosage is 15 mg for mild hyperthyroidism, 30 to 40 mg for moderately severe hyperthyroidism, and 60 mg for severe hyperthyroidism, divided into 3 doses at 8-hour intervals. The maintenance dosage is 5 to 15 mg daily. To achieve a required dosage of 5 mg, an intake of 10 mg every other day is suggested.Pediatric - Initially, the daily dosage is 0.4 mg/kg of body weight divided into 3 doses and given at 8-hour intervals. The maintenance dosage is approximately 1/2 of the initial dose.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METHIMAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H03BB02",
+      "name": "THIAMAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MERCAPTIZOL 20MG 30TAB",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6903",
+        "yarpa": "19705",
+        "pharmasoft": "13687",
+        "barcode": "7290012066498"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.3107985,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.86579395,
+        "maxPriceWithVAT": 19.90163597
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:12:39.211347"
+  }
+}

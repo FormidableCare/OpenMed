@@ -1,0 +1,65 @@
+{
+  "catalogId": "6ddf7a10-c282-45e5-b217-3cf015b7777d",
+  "name": "REPLAGAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "124 32 30382 00",
+  "treatmentDescriptions": "Replagal is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of fabry disease (alfa-galactosidase A deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AGALSIDASE ALFA/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB03",
+      "name": "AGALSIDASE ALFA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REPLAGAL 1MG/ML VIAL 3.5ML",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6738",
+        "yarpa": "86580",
+        "pharmasoft": "18487",
+        "barcode": "7290008128230"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4949.634257,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5444.597683,
+        "maxPriceWithVAT": 6424.62498
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:26:36.034915"
+  }
+}

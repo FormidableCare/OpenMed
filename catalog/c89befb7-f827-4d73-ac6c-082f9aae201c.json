@@ -1,0 +1,65 @@
+{
+  "catalogId": "c89befb7-f827-4d73-ac6c-082f9aae201c",
+  "name": "LACROMYCIN EYE DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 96 24707 00",
+  "treatmentDescriptions": "For the treatment of eye infections susceptible to treatment with Gentamycin.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GENTAMICIN AS SULFATE 0.3 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AA11",
+      "name": "GENTAMICIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LACROMYCIN DROPS 5CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1807",
+        "yarpa": "1162",
+        "pharmasoft": "12008",
+        "barcode": "7290000849560"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.55,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.7135,
+        "maxPriceWithVAT": 13.82192939
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:32:21.307445"
+  }
+}

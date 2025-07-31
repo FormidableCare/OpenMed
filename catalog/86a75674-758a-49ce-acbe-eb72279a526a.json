@@ -1,0 +1,64 @@
+{
+  "catalogId": "86a75674-758a-49ce-acbe-eb72279a526a",
+  "name": "VESOMNI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 69 35421 00",
+  "treatmentDescriptions": "Treatment of moderate to severe storage symptoms (urgency, increased micturition frequency) and voiding symptoms associated with benign prostatic hyperplasia (BPH) in men who are not adequately responding to treatment with monotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets modified release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TAMSULOSIN HYDROCHLORIDE 0.4  MG, SOLIFENACIN SUCCINATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA53",
+      "name": "TAMSULOSIN AND SOLIFENACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOLIFENACIN TEVA 5MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PA/ALUMINIUM/PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7307",
+        "yarpa": "49809",
+        "pharmasoft": "9728"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 111.7776,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 139.722,
+        "maxPriceWithVAT": 164.87196
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:27:07.187701"
+  }
+}

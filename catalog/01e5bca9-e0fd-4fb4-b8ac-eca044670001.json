@@ -1,0 +1,63 @@
+{
+  "catalogId": "01e5bca9-e0fd-4fb4-b8ac-eca044670001",
+  "name": "BRINAVESS 20 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 28 33391 00",
+  "treatmentDescriptions": "Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults who are hemodynamically stable.- For non-surgery patients: atrial fibrillation ≤ 7 days duration- For post-cardiac surgery patients: atrial fibrillation ≤ 3 days duration",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VERNAKALANT HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01BG11",
+      "name": "VERNAKALANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRINAVESS 20 MG/ML 25 VIALS",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8976",
+        "barcode": "7290013280619"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1486.308035,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1746.411941,
+        "maxPriceWithVAT": 2060.765998
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:42:39.839470"
+  }
+}

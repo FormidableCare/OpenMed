@@ -1,0 +1,65 @@
+{
+  "catalogId": "ac167bd5-180f-454d-bc1a-983e324df697",
+  "name": "NAGLAZYME",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 48 31767 00",
+  "treatmentDescriptions": "Naglazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of MPSVI (N-acetylglactosamine 4 sulfatase deficiency  Maroteaux-Lamy syndrome).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GALSULFASE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AB08",
+      "name": "GALSULFASE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NAGLAZYME 1MG/ML VIAL 5ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7081",
+        "yarpa": "77106",
+        "pharmasoft": "14552",
+        "barcode": "7290008128087"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5230.485594,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5753.534154,
+        "maxPriceWithVAT": 6789.17
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:39:08.053763"
+  }
+}

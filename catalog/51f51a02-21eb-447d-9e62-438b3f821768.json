@@ -1,0 +1,65 @@
+{
+  "catalogId": "51f51a02-21eb-447d-9e62-438b3f821768",
+  "name": "EDRONAX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "113 94 29592 00",
+  "treatmentDescriptions": "Reboxetine is indicated for the acute treatment of depressive illness/major depression and for maintaining the clinical improvement  in patients initially responding to treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "REBOXETINE METHAN SULFONATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX18",
+      "name": "REBOXETINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EDRONAX 4MG 60TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4070",
+        "yarpa": "21196",
+        "pharmasoft": "5149",
+        "barcode": "7298074000863"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 83.1491336,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 111.8355847,
+        "maxPriceWithVAT": 131.9659841
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:11:12.727407"
+  }
+}

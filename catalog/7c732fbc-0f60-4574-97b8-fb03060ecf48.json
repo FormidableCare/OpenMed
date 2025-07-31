@@ -1,0 +1,65 @@
+{
+  "catalogId": "7c732fbc-0f60-4574-97b8-fb03060ecf48",
+  "name": "AVASTIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 59 31060 00",
+  "treatmentDescriptions": "- Avastin in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of patients with metastatic carcinoma of the colon or rectum.- Avastin  in addition to platinum - based chemotherapy  is indicated for first - line treatment of patients with unresectable advanced  metastatic or recurrent non- small cell lung cancer other than predominantly squamous cell histology.  - Avastin in combination with interferon alfa-2a is indicated for first line treatment of patients with advanced and /or metastatic renal cell cancer.  - Avastin in combination with paclitaxel is indicated for first-line treatment of patients with metastatic breast cancer.- Avastin as asingle agent, is indicated for the treatment of glioblastoma in patients with progressive disease following prior therapy.- Avastin, in combination with carboplatin and paclitaxel, is indicated for the front-line treatment of advanced (FIGO stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who are at high risk for recurrence (residual disease after debulking).- Avastin, in combination with carboplatin and gemcitabine, is indicated for the treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor-targeted agents.- Avastin ( Bevacizumab) in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents - Avastin ( Bevacizumab) in combination with paclitaxel and cisplatin or paclitaxel and topotecan is indicated for treatment of patients with persistent, recurrent, or metastatic carcinoma of the cervix.- Bevacizumab, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. - Bevacizumab, in combination with atezolizumab, is indicated for the treatment of patients with  unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BEVACIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FG01",
+      "name": "BEVACIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AVASTIN 100MG 25MG/ML VIAL 4ML",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4932",
+        "yarpa": "35507",
+        "pharmasoft": "9566",
+        "barcode": "7290008140737"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 680.9212731,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 800.0824959,
+        "maxPriceWithVAT": 944.0973032
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:27:16.653640"
+  }
+}

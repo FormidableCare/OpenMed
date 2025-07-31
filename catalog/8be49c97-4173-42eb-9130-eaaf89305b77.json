@@ -1,0 +1,65 @@
+{
+  "catalogId": "8be49c97-4173-42eb-9130-eaaf89305b77",
+  "name": "KAYEXALATE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 59 21158 01",
+  "treatmentDescriptions": "Treatment of hyperkalemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral suspension",
+  "route": "per os, rectal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "POLYSTYRENE SULPHONATE SODIUM 99.934 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AE01",
+      "name": "POLYSTYRENE SULFONATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KAYEXALATE 450GR POWDER FOR SUSP.",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6263",
+        "yarpa": "28989",
+        "pharmasoft": "11165",
+        "barcode": "300241075011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 189.3979145,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 236.7473932,
+        "maxPriceWithVAT": 279.3619115
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:23:48.874750"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "7924c8ef-6306-4eda-a1cc-61a5e848a974",
+  "name": "PURI-NETHOL TABLETS 50 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "033 44 22532 00",
+  "treatmentDescriptions": "For the treatment of acute Leukemia and also in cases of chronic myelogenous Leukemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MERCAPTOPURINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BB02",
+      "name": "MERCAPTOPURINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PURI-NETHOL 50MG 25TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 25.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1143",
+        "yarpa": "1907",
+        "pharmasoft": "16292",
+        "barcode": "7290008105095"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 60.97820167,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 82.01568124,
+        "maxPriceWithVAT": 96.77849956
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:07:54.770800"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "e500fc6e-ce1b-4fe9-96a5-536e63b7fb20",
+  "name": "PAXXET 20",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 10 29855 02",
+  "treatmentDescriptions": "Treatment of symptoms of depressive illness of all types including depression accompanied by anxiety. Treatment of symptoms and prevention of relapse of obsessive compulsive disorder (OCD). Treatment of symptoms and prevention of relapse of panic disorder with or without agoraphobia.Treatment of symptoms of social phobia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PAROXETINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB05",
+      "name": "PAROXETINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PAXXET 20MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3774",
+        "yarpa": "21832",
+        "pharmasoft": "16374"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.9999,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.509863,
+        "maxPriceWithVAT": 37.18163834
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:30:45.092336"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "05f4beab-7ed3-4d69-9204-a2407077233f",
+  "name": "ORSERDU 345 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 11 37712 99",
+  "treatmentDescriptions": "Orserdu is indicated for the treatment of postmenopausal women or adult men with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELACESTRANT AS DIHYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BA04",
+      "name": "ELACESTRANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ORSERDU 86 MG 30 TAB",
+      "manufacturer": {
+        "name": "סטמליין ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9482",
+        "barcode": "7290019908074"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12614.1287,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 13875.54157,
+        "maxPriceWithVAT": 16373.13833
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:17:21.934616"
+  }
+}

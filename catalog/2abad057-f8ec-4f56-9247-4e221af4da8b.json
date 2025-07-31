@@ -1,0 +1,65 @@
+{
+  "catalogId": "2abad057-f8ec-4f56-9247-4e221af4da8b",
+  "name": "PROTHIAZINE EXPECTORANT SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 30 23206 00",
+  "treatmentDescriptions": "For temporary relief of cough due to colds, allergies.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROMETHAZINE HYDROCHLORIDE/, GUAIFENESIN/, IPECACUANHA/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R05CA10",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROTHIAZINE SYR110ML",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 110.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2341",
+        "yarpa": "1822",
+        "pharmasoft": "16279",
+        "barcode": "7290008005265"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.7565,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.846405,
+        "maxPriceWithVAT": 22.2387579
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:04:59.190056"
+  }
+}

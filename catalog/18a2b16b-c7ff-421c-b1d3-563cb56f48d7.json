@@ -1,0 +1,65 @@
+{
+  "catalogId": "18a2b16b-c7ff-421c-b1d3-563cb56f48d7",
+  "name": "CONTROLOC 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 36 29745 00",
+  "treatmentDescriptions": "For the treatment of reflux oesophagitis and associated symptoms (e.g. heartburn, acid regurgitation, pain on swallowing).For long-term management and prevention of relapse in reflux oesophagitis.Prevention of gastroduodenal ulcers induced by non-selective non-steroidal anti-inflammatory drugs (NSAIDs) in patients at risk with a need for continuous NSAIDs treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANTOPRAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC02",
+      "name": "PANTOPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CONTROLOC 40MG 28TAB",
+      "manufacturer": {
+        "name": "טקדה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7660",
+        "yarpa": "67411",
+        "pharmasoft": "9801",
+        "barcode": "7298074020434"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.5538,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 37.748706,
+        "maxPriceWithVAT": 44.54347308
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:29:29.842579"
+  }
+}

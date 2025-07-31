@@ -1,0 +1,64 @@
+{
+  "catalogId": "f6cc48fb-89a5-47d4-a9c1-13a7adcc78ec",
+  "name": "INREBIC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 28 36598 99",
+  "treatmentDescriptions": "INREBIC® is indicated for the treatment of adult patients with intermediate-2 or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis (MF)",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FEDRATINIB AS DIHYDROCHLORIDE MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE57",
+      "name": "FEDRATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INREBIC 100 MG 120 CAPS",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8773",
+        "yarpa": "84739",
+        "barcode": "7290014396173"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13388.32123,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 14727.15335,
+        "maxPriceWithVAT": 17378.04018
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:06:53.399725"
+  }
+}

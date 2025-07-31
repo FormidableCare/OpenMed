@@ -1,0 +1,65 @@
+{
+  "catalogId": "0bd7d6b2-ebb3-481e-a966-de44ecd325cc",
+  "name": "QUININE SULFATE 300 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "118 10 22176 00",
+  "treatmentDescriptions": "Antimalarial.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "QUININE SULFATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P01BC01",
+      "name": "QUININE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "QUININE SULFATE 20TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SECURITAINER POLYPROPYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1970",
+        "yarpa": "7166",
+        "pharmasoft": "17008",
+        "barcode": "7290008089357"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 19.6418,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.909266,
+        "maxPriceWithVAT": 31.75293388
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:12:42.686499"
+  }
+}

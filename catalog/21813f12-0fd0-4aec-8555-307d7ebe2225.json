@@ -1,0 +1,65 @@
+{
+  "catalogId": "21813f12-0fd0-4aec-8555-307d7ebe2225",
+  "name": "REPLENINE - VF 1000",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "122 96 29998 00",
+  "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia B ( congenital factor IX deficiency).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "COAGULATION FACTOR IX (HUMAN)/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B02BD04",
+      "name": "COAGULATION FACTOR IX"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REPLENINE - VF 1000IU/1VIAL",
+      "manufacturer": {
+        "name": "קמהדע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6894",
+        "yarpa": "28171",
+        "pharmasoft": "18568",
+        "barcode": "7290011225391"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2758.556,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3034.4116,
+        "maxPriceWithVAT": 3580.605529
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:26:48.013649"
+  }
+}

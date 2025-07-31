@@ -1,0 +1,64 @@
+{
+  "catalogId": "0b2305b3-4086-4bde-91d5-dc3779543168",
+  "name": "REMODULIN 2.5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 57 30563 00",
+  "treatmentDescriptions": "Remodulin is indicated as a continuous subcutaneous infusion or  intravenous infusion for the treatment of primary pulmonary arterial hypertension and pulmonary arterial hypertension associated with connective tissue disorders.   Pulmonary hypertension associated with congenital systemic to pulmonary shunts.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TREPROSTINIL AS SODIUM 2.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC21",
+      "name": "TREPROSTINIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "REMODULIN 2.5MG/ML VIAL 1X20ML",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 20 ML GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6722",
+        "yarpa": "60208",
+        "barcode": "7290008107389"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12094.08879,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 13303.49767,
+        "maxPriceWithVAT": 15698.12655
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:24:08.569865"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "catalogId": "3ede9ff7-5430-466a-bef8-605c3b409dc4",
+  "name": "SMOFLIPID 200 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 75 31387 00",
+  "treatmentDescriptions": "Supply of energy and essential fatty acids and omega-3 fatty acids to patients, as part of a parenteral nutrition regimen, when oral or enteral nutrition is impossible, insufficient or contra-indicated",
+  "termsOfIssue": "Prescription required",
+  "form": "emulsion for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIGLYCERIDES, MEDIUM-CHAIN/L, SOYA OIL/L, REFINED OLIVE OIL/L, PURIFIED FISH OIL/L",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05BA10",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SMOFLIPID 200 MG/ML (10 bottles 100ML)",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1000.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6976"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 474.9475867,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 558.0634143,
+        "maxPriceWithVAT": 658.5147996
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:24:10.226286"
+  }
+}

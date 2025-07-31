@@ -1,0 +1,64 @@
+{
+  "catalogId": "fcf373f3-ad2b-47ad-9902-067ab42b3ca6",
+  "name": "OZEMPIC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 09 35750 00",
+  "treatmentDescriptions": "Ozempic is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise• as monotherapy when metformin is considered inappropriate due to intolerance or contraindications• in addition to other medicinal products for the treatment of diabetes.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEMAGLUTIDE 1.34  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BJ06",
+      "name": "SEMAGLUTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OZEMPIC 1 prefilled pen 1MG/0.74ML",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8391",
+        "yarpa": "35433",
+        "pharmasoft": "15499"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 287.3217289,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 337.6030314,
+        "maxPriceWithVAT": 398.3715594
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:23:33.852053"
+  }
+}

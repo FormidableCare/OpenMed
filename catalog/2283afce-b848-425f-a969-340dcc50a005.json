@@ -1,0 +1,64 @@
+{
+  "catalogId": "2283afce-b848-425f-a969-340dcc50a005",
+  "name": "PROSTIN E2 10 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 11 22245 00",
+  "treatmentDescriptions": "Therapeutic termination of pregnancy, missed abortion.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DINOPROSTONE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G02AD02",
+      "name": "DINOPROSTONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROSTIN E2 3 MG 4 VAG STRIPS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8926",
+        "yarpa": "35606",
+        "barcode": "7298074000481"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 187.7688242,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 234.7110302,
+        "maxPriceWithVAT": 276.9590033
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:03:37.375639"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "ed87ba41-a8d3-4379-9df2-5c3d41bb6f9e",
+  "name": "CIALIS 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 19 30677 21",
+  "treatmentDescriptions": "For the treatment of erectile dysfunction in adult men.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TADALAFIL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04BE08",
+      "name": "TADALAFIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CIALIS 20MG 4TAB",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PCTFE/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4631",
+        "yarpa": "57624",
+        "pharmasoft": "3742"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 160.7671,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 200.958875,
+        "maxPriceWithVAT": 237.1314725
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:10:25.340157"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "e333987d-4e77-44df-99ce-9b5fef141fa8",
+  "name": "LIXIANA15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 82 36013 00",
+  "treatmentDescriptions": "• Prevention of stroke and systemic embolism in adult patients with nonvalvular atrial fibrillation (NVAF) with  one or more risk factors, such as congestive heart failure, hypertension, age &#8805; 75 years,diabetes mellitus, prior stroke or transient ischaemic attack (TIA).• Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EDOXABAN AS TOSYLATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AF03",
+      "name": "EDOXABAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIXIANA 60 MG 30 TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8520",
+        "yarpa": "73227",
+        "pharmasoft": "12608"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 216.7699185,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 254.7046542,
+        "maxPriceWithVAT": 300.5514786
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:51:58.099039"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "fd6d0db3-c7dd-4735-baea-8205c8ff9a95",
+  "name": "SALAGEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "101 65 28557 00",
+  "treatmentDescriptions": "For the treatment of symptoms of xerostomia and salivary gland hypofunction caused by radiotherapy for cancer of the head and neck. Sjogren detected by biopsy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PILOCARPINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07AX01",
+      "name": "PILOCARPINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SALAGEN 5MG 100TAB",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3255",
+        "yarpa": "9410",
+        "pharmasoft": "19018"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 294.4091,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 345.9306925,
+        "maxPriceWithVAT": 408.1982172
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:56:21.791638"
+  }
+}

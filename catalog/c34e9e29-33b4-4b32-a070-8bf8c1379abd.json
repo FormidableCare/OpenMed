@@ -1,0 +1,65 @@
+{
+  "catalogId": "c34e9e29-33b4-4b32-a070-8bf8c1379abd",
+  "name": "GENOTROPIN 12 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "121 35 27540 22",
+  "treatmentDescriptions": "Children:   Short stature due to inadequate or failed secretion of pituitary growth hormone or Turner`s syndrome. Short stature in children with renal insufficiency.   Growth disturbance (height SDS<2.5 and parenteral adjusted height SDS < -1) in short children born SGA (SGA - small for gestational age  i.e. born small in relation to the length of the fetus development)  with a birth witght and/or length < 2 SD  who failed to show catch up growth (HV SDS < 0 during the last year) by 4 years of age or later.   Prader willi syndrome  for improvement of growth and body composition.  Adults:    For adults who have suffered from growth-hormone deficiency since childhood.   For adults who have aquired growth hormone deficiency due to a pituitary pathology causing hypopituitarism.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SOMATROPIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01AC01",
+      "name": "SOMATROPIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GENOTROPIN 12 MG 1 prefilled pen",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8386",
+        "yarpa": "30739",
+        "pharmasoft": "7429",
+        "barcode": "7317961351113"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 825.433248,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 969.8840664,
+        "maxPriceWithVAT": 1144.463147
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:30:15.424074"
+  }
+}

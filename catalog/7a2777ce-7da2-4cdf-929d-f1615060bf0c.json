@@ -1,0 +1,63 @@
+{
+  "catalogId": "7a2777ce-7da2-4cdf-929d-f1615060bf0c",
+  "name": "BEZAFIBRATE MEDOMIE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 67 37746 99",
+  "treatmentDescriptions": "Bezafibrate Medomie is indicated as an adjunct to diet and other non- pharmacological treatment (e.g. exercise, weight reduction) for the following: - Treatment of severe hypertriglyceridaemia",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets sustained release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BEZAFIBRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AB02",
+      "name": "BEZAFIBRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BEZAFIBRATE MEDOMIE 400 MG 30 SR TAB",
+      "manufacturer": {
+        "name": "מדומי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9541",
+        "yarpa": "7322"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22.7631,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 31.185447,
+        "maxPriceWithVAT": 36.79882746
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:35:14.380086"
+  }
+}

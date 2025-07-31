@@ -1,0 +1,65 @@
+{
+  "catalogId": "74582eb9-db07-4c60-a0f5-3006a992881f",
+  "name": "MEKINIST 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "154 95 34309 00",
+  "treatmentDescriptions": "Trametinib as monotherapy or in combination with dabrafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation. Trametinib monotherapy has not demonstrated clinical activity in patients who have progressed on a prior BRAF inhibitor therapy. Non-small cell lung cancer (NSCLC) :Trametinib in combination with dabrafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.Adjuvant treatment of melanoma :Trametinib in combination with dabrafenib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection.BRAF V600E Mutation-Positive Locally Advanced or Metastatic Anaplastic Thyroid CancerTAFINLAR is indicated, in combination with trametinib, for the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment optionsBRAF V600E Mutation-Positive Unresectable or Metastatic Solid TumorsMekinist is indicated, in combination with dabrafenib, for the treatment of adult and pediatric patients 6 years of age and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. Limitations of Use: Trametinib is not indicated for treatment of patients with colorectal cancer because of known intrinsic resistance to BRAF inhibitionTrametinib is indicated, in combination with dabrafenib, for the treatment of pediatric patients 6 year of age and older with low-grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRAMETINIB AS DIMETHYL SULFOXIDE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EE01",
+      "name": "TRAMETINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEKINIST 2 MG 30 F.C.TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7826",
+        "yarpa": "56398",
+        "pharmasoft": "14604",
+        "barcode": "7290014257627"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15683.24606,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 17251.57066,
+        "maxPriceWithVAT": 20356.85248
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:08:58.705406"
+  }
+}

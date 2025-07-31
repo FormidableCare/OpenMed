@@ -1,0 +1,64 @@
+{
+  "catalogId": "f0c276ad-0ace-4515-b903-039c02b94123",
+  "name": "FEMOSTON CONTI 0.5 MG/2.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 97 35630 00",
+  "treatmentDescriptions": "Hormone replacement therapy (HRT) for estrogen deficiency symptoms in postmenopausal women at least 12 months since last menses.Femoston is indicated for women with an intact uterus",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DYDROGESTERONE 2.5  MG, ESTRADIOL AS HEMIHYDRATE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03FB08",
+      "name": "DYDROGESTERONE AND ESTROGEN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FEMOSTON CONTI 1 MG/5 MG 28 TAB",
+      "manufacturer": {
+        "name": "אבוט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8660",
+        "yarpa": "69762",
+        "barcode": "8002660034946"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.58994279,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.49822162,
+        "maxPriceWithVAT": 60.76789881
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:57:12.105016"
+  }
+}

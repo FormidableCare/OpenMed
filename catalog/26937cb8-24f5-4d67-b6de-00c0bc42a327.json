@@ -1,0 +1,65 @@
+{
+  "catalogId": "26937cb8-24f5-4d67-b6de-00c0bc42a327",
+  "name": "FRAGMIN 2500 I.U /0.2 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "123 11 26544 00",
+  "treatmentDescriptions": "Prevention of clotting during haemodialysis and haemofiltration in connection with acute renal failure or chronic renal insufficiency. Treatment of acute deep venous thrombosis and/or pulmonary embolism. Unstable coronary artery disease. Thromboprophylaxis in conjunction with surgery.   Prophylaxis in patients with substantially increased risk for venous thromboembolism and that are temporarily immobilized due to acute illness such as cardiac insufficiency  respiratory insufficiency and severe infections.Cancer patients : Treatment and secondary prevention of deep-vein thrombosis and/or pulmonary embolism.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DALTEPARIN SODIUM/ 0.2  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AB04",
+      "name": "DALTEPARIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FRAGMIN 10000 IU/0.4ML",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6196",
+        "yarpa": "23366",
+        "pharmasoft": "6419",
+        "barcode": "7290013592880"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 119.10414,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 148.880175,
+        "maxPriceWithVAT": 175.6785987
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:19:40.739094"
+  }
+}

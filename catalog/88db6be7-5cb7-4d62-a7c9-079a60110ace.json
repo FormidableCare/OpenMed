@@ -1,0 +1,65 @@
+{
+  "catalogId": "88db6be7-5cb7-4d62-a7c9-079a60110ace",
+  "name": "AUGMENTIN ES 600 MG/5 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 87 33332 01",
+  "treatmentDescriptions": "Augmentin ES is indicated for the treatment of acute otitis media in children aged at least 3 months and less than 40 kg body weight, caused or thought likely to be caused by penicillin-resistant Streptococcus pneumoniae:Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for oral suspension",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AMOXICILLIN AS TRIHYDRATE/, CLAVULANIC ACID AS POTASSIUM SALT 42.9  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01CR02",
+      "name": "AMOXICILLIN AND ENZYME INHIBITOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AUGMENTIN ES 600MG-42.9MG/5ML 100ML",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6799",
+        "yarpa": "102",
+        "pharmasoft": "9458",
+        "barcode": "7290010140855"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:31:41.741217"
+  }
+}

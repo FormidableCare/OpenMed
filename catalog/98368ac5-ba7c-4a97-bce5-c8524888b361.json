@@ -1,0 +1,65 @@
+{
+  "catalogId": "98368ac5-ba7c-4a97-bce5-c8524888b361",
+  "name": "FEMINET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "128 57 30568 00",
+  "treatmentDescriptions": "Contraceptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 0.02  MG, DESOGESTREL 0.15  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA01",
+      "name": "ETHINYLESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FEMINET 4X21TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8051",
+        "yarpa": "23873",
+        "pharmasoft": "10092",
+        "barcode": "7290005680557"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 46.6792,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 62.783524,
+        "maxPriceWithVAT": 74.08455832
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:56:39.126299"
+  }
+}

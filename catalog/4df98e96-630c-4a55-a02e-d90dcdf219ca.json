@@ -1,0 +1,65 @@
+{
+  "catalogId": "4df98e96-630c-4a55-a02e-d90dcdf219ca",
+  "name": "PRALUENT 150 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 09 34568 00",
+  "treatmentDescriptions": "Primary hypercholesterolaemia and mixed dyslipidaemia Praluent is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, and in paediatric patients 8 years of age and older with heterozygous familial hypercholesterolaemia (HeFH) as an adjunct to diet:-\tin combination with a statin or statin with other lipid lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin or,-\talone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.Established atherosclerotic cardiovascular disease Praluent is indicated in adults with established atherosclerotic cardiovascular disease to reduce cardiovascular risk by lowering LDL-C levels, as an adjunct to correction of other risk factors: -\tin combination with the maximum tolerated dose of a statin with or without other lipid-lowering therapies or,-\talone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALIROCUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AX14",
+      "name": "ALIROCUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRALUENT 150 MG INJECTION 2 PREFILLED PEN",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7837",
+        "yarpa": "27284",
+        "pharmasoft": "16946",
+        "barcode": "7290012711602"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1571.154194,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1846.106178,
+        "maxPriceWithVAT": 2178.405193
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:48:54.650113"
+  }
+}

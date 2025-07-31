@@ -1,0 +1,63 @@
+{
+  "catalogId": "40bb852d-1291-4f2a-9910-9b5bc554eae1",
+  "name": "SALBUTEC RESPIRATORY SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 07 36477 99",
+  "treatmentDescriptions": "Salbutec Respiratory Solution is indicated for the treatment of severe acute asthma (status asthmaticus) and other forms of bronchospasm",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for inhalation",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALBUTAMOL AS SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC02",
+      "name": "SALBUTAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SALBUTEC RESPIRATORY SOL BOTTLE 20 ML",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9386",
+        "yarpa": "45089"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14.208867,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.46614779,
+        "maxPriceWithVAT": 22.97005337
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:57:07.915568"
+  }
+}

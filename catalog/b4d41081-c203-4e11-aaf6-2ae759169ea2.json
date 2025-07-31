@@ -1,0 +1,64 @@
+{
+  "catalogId": "b4d41081-c203-4e11-aaf6-2ae759169ea2",
+  "name": "SUBOXONE FILM 4 MG/1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 26 35833 00",
+  "treatmentDescriptions": "Suboxone sublingual film is indicated for treatment of opioid dependence in adults and adolescents over 15 years of age. Suboxone sublingual film should be used as part of a complete treatment plan that includes counseling and psychosocial support.",
+  "termsOfIssue": "Prescription required",
+  "form": "sublingual film",
+  "route": "buccal, sublingual",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPRENORPHINE AS HYDROCHLORIDE, NALOXONE AS HYDROCHLORIDE DIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02AE01",
+      "name": "BUPRENORPHINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SUBOXONE 2MG/0.5MG 28 TAB SUBLINGUAL",
+      "manufacturer": {
+        "name": "נעמי שאקו עזרה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "FOIL ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7180",
+        "yarpa": "84715",
+        "pharmasoft": "19887"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 84.0371,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 113.0298995,
+        "maxPriceWithVAT": 133.3752814
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:48:21.365435"
+  }
+}

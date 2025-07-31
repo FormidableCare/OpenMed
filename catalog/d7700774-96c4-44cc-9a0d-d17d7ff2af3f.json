@@ -1,0 +1,64 @@
+{
+  "catalogId": "d7700774-96c4-44cc-9a0d-d17d7ff2af3f",
+  "name": "PRIZMA SOLUTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 93 35206 00",
+  "treatmentDescriptions": "Adults:Major depressive episodes.Obsessive-compulsive disorder (OCD).Bulimia nervosa: Fluoxetine is indicated as a complement of psychotherapy for the reduction of binge-eating and purging activity.Children and adolescents aged 8 years and above:Moderate to severe major depressive episode, if depression is unresponsive to psychological therapy after 4-6 sessions. Antidepressant medication should be offered to a child or young person with moderate to severe depression only in combination with a concurrent psychological therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution  (oral)",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUOXETINE AS HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB03",
+      "name": "FLUOXETINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRIZMA SOLUTION 120 ML",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8663",
+        "yarpa": "60615",
+        "barcode": "7290000812656"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.06099,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 53.88203155,
+        "maxPriceWithVAT": 63.5807944
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:58:03.316943"
+  }
+}

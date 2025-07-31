@@ -1,0 +1,64 @@
+{
+  "catalogId": "6a859198-9c31-4058-9fd4-7bed7b600791",
+  "name": "OCSAAR PLUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "111 23 29411 00",
+  "treatmentDescriptions": "Ocsaar plus is indicated for the treatment of hypertension, for patients in whom combination therapy is appropriate. To reduce the risk of stroke in patients with hyperfension adn left ventricular hypertrophy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LOSARTAN POTASSIUM, HYDROCHLOROTHIAZIDE 12.50   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09DA01",
+      "name": "LOSARTAN AND DIURETICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OCSAAR PLUS 30TAB",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3828",
+        "yarpa": "33990",
+        "pharmasoft": "15020"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.3374,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.012238,
+        "maxPriceWithVAT": 24.79444084
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:00:35.186548"
+  }
+}

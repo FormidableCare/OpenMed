@@ -1,0 +1,65 @@
+{
+  "catalogId": "80eb5c86-8aa3-4539-9fa8-7b39f345079f",
+  "name": "COMBODEX IV",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 56 36312 00",
+  "treatmentDescriptions": "Combodex IV is indicated in adults for the relief of mild to moderate pain and the reduction of fever, where an intravenous route of administration is considered clinically necessary.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IBUPROFEN AS SODIUM DIHYDRATE/ML, PARACETAMOL/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE51",
+      "name": "PARACETAMOL, COMBINATIONS EXCL. PSYCHOLEPTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COMBODEX IV 100 ML 10 VIAL",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE II",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9287",
+        "yarpa": "61173",
+        "pharmasoft": "23339",
+        "barcode": "7290015912778"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 188.1907125,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 235.2383906,
+        "maxPriceWithVAT": 277.5812886
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:27:14.759453"
+  }
+}

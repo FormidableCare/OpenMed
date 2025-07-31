@@ -1,0 +1,65 @@
+{
+  "catalogId": "447a46c4-223b-492a-afab-e23e01997ddb",
+  "name": "SIMPONI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 32 33213 00",
+  "treatmentDescriptions": "Rheumatoid Arthritis:Simponi, in combination with methotrexate, is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis when the response to disease-modifying anti-rheumatic drug (DMARD) therapy including MTX has been inadequate.Juvenile idiopathic arthritis: Polyarticular juvenile idiopathic arthritis (pJIA)Simponi in combination with MTX is indicated for the treatment of polyarticular juvenile idiopathic arthritis in children with a body weight of at least 40 kg, who have responded inadequately to previous therapy with MTX.Simponi 100 mg is not recommended in children aged less than 18.Psoriatic Arthritis:Simponi, alone or in combination with methotrexate, is indicated for the treatment of adult patients with active and progressive  psoriatic arthritis when the response to previous disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.Axial spondyloarthritis:* Ankylosing SpondylitisSimponi is indicated for the treatment of adult patients with severe active ankylosing spondylitis who have responded inadequately to conventional therapy.* Non-radiographic axial spondyloarthritis (nr-Axial SpA)Simponi is indicated for the treatment of adults with severe, active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDS).Ulcerative colitis (UC):Simponi is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GOLIMUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AB06",
+      "name": "GOLIMUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SIMPONI 100MG/1ML SYR/PEN PREFILLED",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AUTO - INJECTOR PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7677",
+        "yarpa": "85391",
+        "pharmasoft": "7677",
+        "barcode": "7290014577299"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3672.010289,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4039.211318,
+        "maxPriceWithVAT": 4766.269144
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:13:37.048472"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "22ae9c2f-7155-463b-ba78-cff9b04c93b9",
+  "name": "HUMALOG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "102 83 28580 00",
+  "treatmentDescriptions": "Humalog is indicated for the treatment of adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis. Humalog is also indicated for the initial stabilization of diabetes mellitus.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c, i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INSULIN LISPRO 100 U/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AB04",
+      "name": "INSULIN LISPRO"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HUMALOG KWIKPEN 200 U/ML 5*3 ML",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7998",
+        "yarpa": "55367",
+        "pharmasoft": "8430",
+        "barcode": "7290008067676"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 221.4389908,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 260.1908142,
+        "maxPriceWithVAT": 307.0251471
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:48:20.776397"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "9d871e89-d5d1-4df9-9d40-c8ca7def5487",
+  "name": "GYNERA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 51 25622 00",
+  "treatmentDescriptions": "Hormonal contraception.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 0.03   MG, GESTODENE 0.075   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA01",
+      "name": "ETHINYLESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GYNERA 1X21TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "58",
+        "yarpa": "8191",
+        "pharmasoft": "7219",
+        "barcode": "7-298074-040128"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.9645,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 19.131365,
+        "maxPriceWithVAT": 22.5750107
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:39:27.253454"
+  }
+}

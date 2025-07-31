@@ -1,0 +1,64 @@
+{
+  "catalogId": "89aa3e57-f7fd-4e8f-9187-ef769b669cfb",
+  "name": "ENHERTU",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 74 36545 00",
+  "treatmentDescriptions": "HER2-Positive Metastatic Breast CancerENHERTU is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+ or ISH positive) breast cancer who have received a prior anti-HER2-based regimen either:• in the metastatic setting, or• in the neoadjuvant or adjuvant setting and have developed disease recurrence during or within six months of completing therapy. HER2-Low and HER2-Ultralow Metastatic Breast CancerENHERTU is indicated for the treatment of adult patients with unresectable or metastatic:•Hormone receptor (HR)-positive HER2-low (IHC 1+ or IHC 2+/ISH-) or HER2-ultralow (IHC 0 with membrane staining) breast cancer, that has progressed on one or more endocrine therapies in the metastatic setting.•HER2-low (IHC 1+ or IHC 2+/ISH-) breast cancer who have received a prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy.HER2-Mutant Unresectable or Metastatic Non-Small Cell Lung Cancer ENHERTU is indicated for the treatment of adult patients with unresectable or metastatic non-small cell lung cancer (NSCLC) whose tumors have activating HER2 (ERBB2) mutations, as detected by an approved test, and who have received a prior systemic therapy.HER2-Positive Locally Advanced or Metastatic Gastric CancerENHERTU is indicated for the treatment of adult patients with locally advanced or metastatic HER2-positive (IHC 3+ or IHC 2+/ISH positive) gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen.HER2-Positive (IHC 3+) Unresectable or Metastatic Solid TumorENHERTU is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC 3+) solid tumors who have received prior systemic treatment and have no satisfactory alternative treatment options.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRASTUZUMAB DERUXTECAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FD01",
+      "name": "TRASTUZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENHERTU 100 MG 1 VIAL",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8765",
+        "yarpa": "76828",
+        "pharmasoft": "5711"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6161.183371,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6777.301708,
+        "maxPriceWithVAT": 7997.21566
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:22:17.343658"
+  }
+}

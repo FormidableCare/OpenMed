@@ -1,0 +1,64 @@
+{
+  "catalogId": "d9f5b7cc-5279-4777-9f39-4c5c1278a459",
+  "name": "BINOSTO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "158 96 34539 00",
+  "treatmentDescriptions": "For the treatment of osteoporosis in postmenopausal women to prevent fractures, including those of the hip and spine (vertebral compression fractures).Treatment to increase bone mass in men with osteoporosis",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets effervescent",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALENDRONIC ACID AS TRIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BA04",
+      "name": "ALENDRONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BINOSTO 70MG 4 TAB EFF",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PAPER/POLYETHYLENE /ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8054",
+        "yarpa": "64781",
+        "barcode": "7290100819098"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.3277,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 54.2407565,
+        "maxPriceWithVAT": 64.00409267
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:39:03.035861"
+  }
+}

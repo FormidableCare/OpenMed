@@ -1,0 +1,65 @@
+{
+  "catalogId": "312654bd-9e68-42d4-a498-8a6e8feb5930",
+  "name": "ALFU-KAL XL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "141 23 31829 00",
+  "treatmentDescriptions": "Treatment of certain functional symptoms of benign prostatic hypertrophy  particularly if surgery has to be delayed for some reason. Adjuvant treatment to a catheter in acute urinary retention related to benign prostatic hypertrophy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALFUZOSIN HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA01",
+      "name": "ALFUZOSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALFU-KAL XL 10MG 30TAB",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6401",
+        "yarpa": "81501",
+        "pharmasoft": "9326",
+        "barcode": "7298074050028"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 48.5083,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 65.2436635,
+        "maxPriceWithVAT": 76.98752293
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:19:16.549423"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "1e1b1191-7cc4-482e-8065-d4e29917aa8d",
+  "name": "BALVERSA 3 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 77 36132 00",
+  "treatmentDescriptions": "BALVERSA is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (mUC), that has:- Susceptible FGFR3 or FGFR2 genetiic alterations, and- Progressed during or following at least one line of prior platinum-containing chemotherapy, including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERDAFITINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01EX16",
+      "name": "ERDAFITINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BALVERSA 4 MG 56 TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8491",
+        "yarpa": "432",
+        "pharmasoft": "2748",
+        "barcode": "7290014577572"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:34:13.599519"
+  }
+}

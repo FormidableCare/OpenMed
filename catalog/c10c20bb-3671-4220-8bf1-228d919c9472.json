@@ -1,0 +1,65 @@
+{
+  "catalogId": "c10c20bb-3671-4220-8bf1-228d919c9472",
+  "name": "INTRAROSA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "163 84 36058 00",
+  "treatmentDescriptions": "Intrarosa is indicated for the treatment of vulvar and vaginal atrophy in postmenopausal women having moderate to severe symptoms.",
+  "termsOfIssue": "Prescription required",
+  "form": "vaginal pessaries",
+  "route": "intravaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PRASTERONE 6.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03XX01",
+      "name": "PRASTERONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INTRAROSA 6.5 MG VAGINAL PESSARIES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8626",
+        "yarpa": "24707",
+        "pharmasoft": "10861",
+        "barcode": "7290015912655"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 77.00693485,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 103.5743274,
+        "maxPriceWithVAT": 122.2177009
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:09:44.052440"
+  }
+}

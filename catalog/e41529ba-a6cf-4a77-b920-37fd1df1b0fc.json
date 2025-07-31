@@ -1,0 +1,65 @@
+{
+  "catalogId": "e41529ba-a6cf-4a77-b920-37fd1df1b0fc",
+  "name": "ABITREN TEVA ® 75 MG/3 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 38 34860 00",
+  "treatmentDescriptions": "Treatment of: - Exacerbations of inflammatory and degenerative forms of rheumatism: rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, spondylarthritis, non-articular rheumatism.- Treatment of painful conditions due to inflammation of non rheumatic origin.- Renal colic and biliary colic - Post-traumatic and post-operative pain, inflammation and swelling",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DICLOFENAC SODIUM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M01AB05",
+      "name": "DICLOFENAC"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABITREN 50MG 10SUPP",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1346",
+        "yarpa": "7107",
+        "pharmasoft": "1009",
+        "barcode": "7290110730482"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.04,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.0148,
+        "maxPriceWithVAT": 12.997464
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:10:41.084462"
+  }
+}

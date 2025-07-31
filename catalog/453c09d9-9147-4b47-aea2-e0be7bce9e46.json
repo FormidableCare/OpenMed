@@ -1,0 +1,64 @@
+{
+  "catalogId": "453c09d9-9147-4b47-aea2-e0be7bce9e46",
+  "name": "SULIQUA 100/33",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 27 35118 00",
+  "treatmentDescriptions": "Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without sodium-glucose co-transporter-2 (SGLT-2) inhibitors",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LIXISENATIDE/ML / 1, INSULIN GLARGINE 100 UNITS /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10AE04",
+      "name": "INSULIN GLARGINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SULIQUA 100/50 SOL FOR INJ 3ML 5 PRE FILLED PEN",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8095",
+        "yarpa": "64778",
+        "pharmasoft": "10154"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 563.0516857,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 661.5857306,
+        "maxPriceWithVAT": 780.6711275
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:50:22.534508"
+  }
+}

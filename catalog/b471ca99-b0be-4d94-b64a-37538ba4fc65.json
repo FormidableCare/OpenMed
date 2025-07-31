@@ -1,0 +1,64 @@
+{
+  "catalogId": "b471ca99-b0be-4d94-b64a-37538ba4fc65",
+  "name": "ICLUSIG 15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 53 34243 02",
+  "treatmentDescriptions": "Iclusig is indicated in adult patients with:  • chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant to dasatinib or nilotinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation  • Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) who are resistant to dasatinib; who are intolerant to dasatinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PONATINIB AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE24",
+      "name": "PONATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ICLUSIG 15MG 30 COATED TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7656",
+        "yarpa": "67021",
+        "pharmasoft": "17205"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11359.30455,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 12495.23501,
+        "maxPriceWithVAT": 14744.37665
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:56:16.267283"
+  }
+}

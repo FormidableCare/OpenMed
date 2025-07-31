@@ -1,0 +1,65 @@
+{
+  "catalogId": "797492f4-74fe-4453-87af-fb5b8d879511",
+  "name": "FAMPYRA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "147 80 33543 00",
+  "treatmentDescriptions": "FAMPYRA is indicated for the improvement of walking in adult patients with multiple sclerosis with walking disability (EDSS 4-7).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FAMPRIDINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N07XX07",
+      "name": "FAMPRIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FAMPYRA 10MG 56 P.R.TAB",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER POLYAMIDE/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6918",
+        "yarpa": "20557",
+        "pharmasoft": "6472",
+        "barcode": "7290008128865"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 546.4706499,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 642.1030136,
+        "maxPriceWithVAT": 757.681556
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:53:14.806839"
+  }
+}

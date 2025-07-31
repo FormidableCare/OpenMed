@@ -1,0 +1,65 @@
+{
+  "catalogId": "769ccc5a-9896-4c72-8b41-03a7b0e9d03d",
+  "name": "GLYPRESSIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 74 31265 01",
+  "treatmentDescriptions": "Bleeding oesophageal varices.   Treatment of type I hepatorenal syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TERLIPRESSIN ACETATE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BA04",
+      "name": "TERLIPRESSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLYPRESSIN 1MG/5ML 5VIAL",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6871",
+        "yarpa": "29200",
+        "pharmasoft": "7868",
+        "barcode": "7645821048300"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 353.1639671,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 414.9676613,
+        "maxPriceWithVAT": 489.6618186
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:37:52.369690"
+  }
+}

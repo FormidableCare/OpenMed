@@ -1,0 +1,65 @@
+{
+  "catalogId": "8d05469b-893e-4e5c-a07b-0b182be42acc",
+  "name": "PHEBURANE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 57 34275 00",
+  "treatmentDescriptions": "PHEBURANE is indicated as adjunctive therapy in the chronic management of urea cycle disorders, involving deficiencies of carbamylphosphate synthetase, ornithine transcarbamylase or argininosuccinate synthetase.  It is indicated in all patients with neonatal-onset presentation (complete enzyme deficiencies, presenting within the first 28 days of life). It is also indicated in patients with late-onset disease (partial enzyme deficiencies, presenting after the first month of life) who have a history of hyperammonaemic encephalopathy.",
+  "termsOfIssue": "Prescription required",
+  "form": "granules",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SODIUM PHENYLBUTYRATE/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX03",
+      "name": "SODIUM PHENYLBUTYRATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHEBURANE BOTTLE 483MG/G BOTTLE 174G",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 174.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7627",
+        "yarpa": "77515",
+        "pharmasoft": "16945",
+        "barcode": "7290103847050"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1724.812426,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2026.6546,
+        "maxPriceWithVAT": 2391.452322
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:39:08.602274"
+  }
+}

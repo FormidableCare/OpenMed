@@ -1,0 +1,65 @@
+{
+  "catalogId": "b4d871aa-c824-4d70-8131-c37fda5868a5",
+  "name": "RIVOTRIL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 31 21476 00",
+  "treatmentDescriptions": "Anti-epileptic. Panic disorder.",
+  "termsOfIssue": "Prescription required",
+  "form": "drops",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLONAZEPAM 2.5 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AE01",
+      "name": "CLONAZEPAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIVOTRIL DROPS 10ML",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "339",
+        "yarpa": "1909",
+        "pharmasoft": "18075",
+        "barcode": "7290008140072"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.76,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.1112,
+        "maxPriceWithVAT": 19.01121515
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:45:47.111889"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "adcf6fa0-97c6-4e90-aa8d-b41c1a38ec45",
+  "name": "PIQRAY 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 18 36148 00",
+  "treatmentDescriptions": "PIQRAY is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CAmutated, advanced or metastatic breast cancer following progression on or after an endocrine-based regimen",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALPELISIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX65",
+      "name": "ALPELISIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PIQRAY 150 MG 56 TAB",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PCTFE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8525",
+        "yarpa": "28443",
+        "pharmasoft": "10905",
+        "barcode": "7290018375136"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14495.20669,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 15944.72736,
+        "maxPriceWithVAT": 18814.77745
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:44:26.526415"
+  }
+}

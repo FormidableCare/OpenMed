@@ -1,0 +1,64 @@
+{
+  "catalogId": "0208325e-e289-46bb-b1cf-bccbb2eab288",
+  "name": "CELESTONE CHRONODOSE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 43 23009 01",
+  "treatmentDescriptions": "Indicated in the management of conditions known to be responsive to corticosteroid therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m, intra-articular, intra-lesional",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETAMETHASONE ACETATE/ML, BETAMETHASONE SODIUM PHOSPHATE 3.945 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02AB01",
+      "name": "BETAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CELESTONE CHRONODOSE 1ML 1AMP",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1233",
+        "yarpa": "471",
+        "pharmasoft": "3113"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.6936965,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.76036421,
+        "maxPriceWithVAT": 22.13722878
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:04:27.828853"
+  }
+}

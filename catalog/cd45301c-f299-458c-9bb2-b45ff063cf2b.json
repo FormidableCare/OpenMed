@@ -1,0 +1,64 @@
+{
+  "catalogId": "cd45301c-f299-458c-9bb2-b45ff063cf2b",
+  "name": "CARDILOC 1.25",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "148 63 33513 01",
+  "treatmentDescriptions": "Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function (ejection fraction < 35%, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BISOPROLOL HEMIFUMARATE 1.25  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB07",
+      "name": "BISOPROLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARDILOC 10MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3842",
+        "yarpa": "24787",
+        "pharmasoft": "3686"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.3647,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.939639,
+        "maxPriceWithVAT": 19.98877402
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:54:31.789536"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "571e7318-b656-4287-82ba-7e5d14ef3d2c",
+  "name": "SITAMET - AVENIR 50 MG/1000 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 30 36666 99",
+  "treatmentDescriptions": "Sitamet-Avenir is indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes mellitus. Important limitations of use: Sitamet-Avenir should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings. Sitamet-Avenir has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Sitamet-Avenir.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METFORMIN HYDROCHLORIDE, SITAGLIPTIN AS HYDROCHLORIDE MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BD07",
+      "name": "METFORMIN AND SITAGLIPTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SITAMET - AVENIR 50 MG/850 MG 56 tab",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALU/OPA/ALU",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9131",
+        "yarpa": "8982"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 91.68210368,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 123.3124295,
+        "maxPriceWithVAT": 145.5086668
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:20:08.980601"
+  }
+}

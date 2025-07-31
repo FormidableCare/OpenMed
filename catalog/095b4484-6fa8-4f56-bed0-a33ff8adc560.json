@@ -1,0 +1,64 @@
+{
+  "catalogId": "095b4484-6fa8-4f56-bed0-a33ff8adc560",
+  "name": "RIVAROXABAN S.K. 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 37 36327 00",
+  "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), in adults (following completion of at least 6 months therapy for DVT or PE).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIVAROXABAN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AF01",
+      "name": "RIVAROXABAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIVAROXABAN S.K. 10 MG 30 TAB",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU-PVC/PE/PVDC ",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9330",
+        "yarpa": "8621",
+        "pharmasoft": "18698"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 195.152,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 229.3036,
+        "maxPriceWithVAT": 270.578248
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:43:15.913643"
+  }
+}

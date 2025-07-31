@@ -1,0 +1,65 @@
+{
+  "catalogId": "1a79a722-d011-4c48-8a02-c044bbbd6a7f",
+  "name": "DERMACOMBIN OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "015 28 24536 00",
+  "treatmentDescriptions": "For the relief of corticosteroid-responsive inflammatory or pruritic dermatoses caused, threatened or complicated by infection due to bacteria and/or candida",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIAMCINOLONE ACETONIDE/G, NEOMYCIN AS SULFATE 2.5 MG/G, GRAMICIDIN 0.25 MG/G, NYSTATIN/G",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07CB01",
+      "name": "TRIAMCINOLONE AND ANTIBIOTICS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DERMACOMBIN OINT 5G",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2062",
+        "yarpa": "635",
+        "pharmasoft": "4073",
+        "barcode": "7-290000-809120"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:49:03.299697"
+  }
+}

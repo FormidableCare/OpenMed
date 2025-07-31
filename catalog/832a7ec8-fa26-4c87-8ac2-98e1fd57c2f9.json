@@ -1,0 +1,63 @@
+{
+  "catalogId": "832a7ec8-fa26-4c87-8ac2-98e1fd57c2f9",
+  "name": "KERENDIA 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 38 37226 99",
+  "treatmentDescriptions": "Kerendia is indicated to reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, nonfatal myocardial infarction, and hospitalization for heart failure in adult patients with chronic kidney disease (CKD) associated with type 2 diabetes (T2D).",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FINERENON",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C03DA05",
+      "name": "FINERENON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KERENDIA 20 MG 28 F.C.T",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9213",
+        "yarpa": "89208"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 187.2074185,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 234.0092732,
+        "maxPriceWithVAT": 276.1309301
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:25:01.141411"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "d7f8d265-728d-4a59-bca4-f41d2703472a",
+  "name": "STIVARGA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "150 87 33823 00",
+  "treatmentDescriptions": "Stivarga is indicated as monotherapy for the treatment of adults patients:- with metastatic colorectal cancer (CRC) who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF therapy,and if   KRAS wild- type, an anti-EGFR therapy.- with locally advanced, unresectable or metastatic   gastrointestinal stromal tumors (GIST) who have been previously treated with imatinib mesylate and sunitinib malate.- hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "REGORAFENIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE21",
+      "name": "REGORAFENIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STIVARGA 40MG 3X28 F.C.TAB",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7404",
+        "yarpa": "51051",
+        "pharmasoft": "9761"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9086.08954,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9994.698494,
+        "maxPriceWithVAT": 11793.7437
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:44:25.288602"
+  }
+}

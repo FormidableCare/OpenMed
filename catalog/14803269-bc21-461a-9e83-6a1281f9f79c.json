@@ -1,0 +1,65 @@
+{
+  "catalogId": "14803269-bc21-461a-9e83-6a1281f9f79c",
+  "name": "CABLIVI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 25 36110 00",
+  "treatmentDescriptions": "CABLIVI is indicated for the treatment of adults and adolescents of 12 years of age and older weighing at least 40 kg experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for solution for injection",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CAPLACIZUMAB/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AX07",
+      "name": "CAPLACIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CABLIVI 10 MG VIAL",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8499",
+        "yarpa": "64876",
+        "pharmasoft": "17195",
+        "barcode": "3664798034622"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14466.80754,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 15913.48829,
+        "maxPriceWithVAT": 18777.91535
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:48:31.728873"
+  }
+}

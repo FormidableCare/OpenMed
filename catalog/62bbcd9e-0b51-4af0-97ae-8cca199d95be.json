@@ -1,0 +1,64 @@
+{
+  "catalogId": "62bbcd9e-0b51-4af0-97ae-8cca199d95be",
+  "name": "EZECOR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 11 34500 01",
+  "treatmentDescriptions": "Primary hypercholesterolemia: Ezecor administered with an HMG-CoA reductase inhibitor (statin) or alone are indicated as adjunctive therapy to diet for use in patients with primary (heterozygous familial and non-familial) hypercholesterolemia. Homozygous familial hypercholesterolemia (HoFH): Ezecor administered with a statin are indicated for use in patients with HoFH.Patients may also receive adjunctive treatments (e.g. LDL apheresis).Homozygous sitosterolemia (Phytosterolemia): Ezecor are indicated for use in patients with homozygous familial sitosterolemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EZETIMIBE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C10AX09",
+      "name": "EZETIMIBE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EZECOR 10MG 30TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7885",
+        "yarpa": "50193",
+        "pharmasoft": "5610"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 148.5788,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 185.7235,
+        "maxPriceWithVAT": 219.15373
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:51:21.896842"
+  }
+}

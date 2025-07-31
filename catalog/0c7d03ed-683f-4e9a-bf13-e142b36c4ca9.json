@@ -1,0 +1,65 @@
+{
+  "catalogId": "0c7d03ed-683f-4e9a-bf13-e142b36c4ca9",
+  "name": "CEFTRIAXONE-VIT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 42 34699 00",
+  "treatmentDescriptions": "Ceftriaxone VIT  is indicated for the treatment of the following infections in adults andchildren including term neonates (from birth):-Bacterial Meningitis- Community acquired pneumonia-Hospital acquired pneumonia-Acute otitis media-Intra-abdominal infections-Complicated urinary tract infections (including pyelonephritis)-Infections of bones and joints-Complicated skin and soft tissue infections-Gonorrhoea-Syphilis-Bacterial endocarditisCeftriaxone VIT may be used:-  For treatment of acute exacerbations of chronic obstructive pulmonary diseasein adults- For treatment of disseminated Lyme borreliosis (early (stage II) and late (stageIII) in adults and children including neonates from 15 days of age.- For pre-operative prophylaxis of surgical site infections-In the management of neutropenic patients with fever that is suspected to be dueto a ceftriaxone – susceptible  bacterial infection- In the treatment of patients with bacteraemia that occurs in association with, oris suspected to be associated with, any of the infections listed aboveCeftriaxone VIT should be co-administered with other antibacterial agents whenever thepossible range of causative bacteria would not fall within its spectrum.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CEFTRIAXONE AS DISODIUM HEMIHEPTAHYDRATE 1.0 G/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DD04",
+      "name": "CEFTRIAXONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEFTRIAXONE-VIT  1GR/VIAL  10 VIAL",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE III",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8248",
+        "yarpa": "17057",
+        "pharmasoft": "129282",
+        "barcode": "7290015793087"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 178.0363,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 222.545375,
+        "maxPriceWithVAT": 262.6035425
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:02:47.402202"
+  }
+}

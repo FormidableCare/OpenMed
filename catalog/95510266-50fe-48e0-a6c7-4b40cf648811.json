@@ -1,0 +1,65 @@
+{
+  "catalogId": "95510266-50fe-48e0-a6c7-4b40cf648811",
+  "name": "PANTOAVENIR IV",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "145 57 33064 00",
+  "treatmentDescriptions": "For the treatment of duodenal ulcer, gastric ulcer , moderate and severe forms of reflux oesophagitis. Zollinger Ellison Syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PANTOPRAZOLE AS SODIUM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC02",
+      "name": "PANTOPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PANTOAVENIR IV 40MG/VIAL 20VIALS",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 10 ML AMBER GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7105",
+        "yarpa": "56704",
+        "pharmasoft": "16887",
+        "barcode": "7290010286966"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 296.0,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 347.8,
+        "maxPriceWithVAT": 410.404
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:26:40.529482"
+  }
+}

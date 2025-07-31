@@ -1,0 +1,64 @@
+{
+  "catalogId": "dc64bccb-dcb9-4117-8dc9-eacc8fbfe12f",
+  "name": "MAXIBONE 70",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 98 31048 02",
+  "treatmentDescriptions": "Maxibone is indicated for the treatment of osteoporosis in postmenopausal women to prevent  fractures, including those of the hip and spine (vertebral compression fractures).Treatment to increase bone mass in men with osteoporosis.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALENDRONATE AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BA04",
+      "name": "ALENDRONIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MAXIBONE 70MG  4TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4788",
+        "yarpa": "11422",
+        "pharmasoft": "13528"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.5451,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 37.736787,
+        "maxPriceWithVAT": 44.52940866
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:06:37.247163"
+  }
+}

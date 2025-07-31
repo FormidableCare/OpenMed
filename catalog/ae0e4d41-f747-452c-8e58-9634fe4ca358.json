@@ -1,0 +1,65 @@
+{
+  "catalogId": "ae0e4d41-f747-452c-8e58-9634fe4ca358",
+  "name": "ADVAGRAF 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 07 34071 00",
+  "treatmentDescriptions": "Prophylaxis of transplant rejection in adult kidney or liver allograft recipients.Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult kidney or liver allograft recipient patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TACROLIMUS AS MONOHYDRATE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AD02",
+      "name": "TACROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ADVAGRAF 3MG 50  P.R. CAPS",
+      "manufacturer": {
+        "name": "אסטלס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7672",
+        "yarpa": "74115",
+        "pharmasoft": "9819",
+        "barcode": "8718692510692"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 577.1500275,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 678.1512823,
+        "maxPriceWithVAT": 800.2184776
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:10:07.513937"
+  }
+}

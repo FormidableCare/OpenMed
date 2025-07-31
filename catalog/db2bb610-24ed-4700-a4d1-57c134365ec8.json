@@ -1,0 +1,64 @@
+{
+  "catalogId": "db2bb610-24ed-4700-a4d1-57c134365ec8",
+  "name": "CLOPIXOL DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "047 87 25488 00",
+  "treatmentDescriptions": "Acute schizophrenia and other acute psychoses.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ZUCLOPENTHIXOL AS DIHYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AF05",
+      "name": "ZUCLOPENTHIXOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLOPIXOL DROPS 20ML",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "627",
+        "yarpa": "8220",
+        "pharmasoft": "3864"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25.36224,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 34.7462688,
+        "maxPriceWithVAT": 41.00059536
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:23:52.078990"
+  }
+}

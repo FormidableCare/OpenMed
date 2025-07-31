@@ -1,0 +1,64 @@
+{
+  "catalogId": "885d05ce-79ae-4bb1-8c03-048d3832a4cb",
+  "name": "SAPHNELO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 50 37020 00",
+  "treatmentDescriptions": "Saphnelo is indicated for the treatment of adult patients with moderate to severe systemic lupus erythematosus (SLE), who are receiving standard therapy.Limitations of UseThe efficacy of SAPHNELO has not been evaluated in patients with severe active lupus nephritis or severe active central nervous system lupus. Use of SAPHNELO is not recommended in these situations.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ANIFROLUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA51",
+      "name": "ANIFROLUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SAPHNELO 300MG/VIAL",
+      "manufacturer": {
+        "name": "אסטראזנקה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9034",
+        "yarpa": "76805",
+        "pharmasoft": "17615"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3457.774109,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3803.55152,
+        "maxPriceWithVAT": 4488.190594
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:00:29.478267"
+  }
+}

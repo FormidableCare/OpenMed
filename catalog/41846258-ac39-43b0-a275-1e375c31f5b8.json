@@ -1,0 +1,65 @@
+{
+  "catalogId": "41846258-ac39-43b0-a275-1e375c31f5b8",
+  "name": "AGGRASTAT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "116 15 29580 00",
+  "treatmentDescriptions": "Aggrastat in combination with heparin, is indicated for patients with unstable angina or non-Q-wave myocardial infarction to prevent cardiac ischemic events and is also indicated for the treatment of acute coronary syndrome, including patients who are to be managed medically and those undergoing PTCA or atherectomy. In this setting, AGGRASTAT has been shown to decrease the rate of a combined endpoint of death, new myocardial infarction or refractory ischemia/repeat cardiac procedure.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIROFIBAN AS HYDROCHLORIDE MONOHYDRATE 0.05 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC17",
+      "name": "TIROFIBAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AGGRASTAT 0.05MG/ML BAG 250ML",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 250.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BAG NON PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7349",
+        "yarpa": "8402",
+        "pharmasoft": "1265",
+        "barcode": "7290012240133"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 600.8842125,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 706.0389497,
+        "maxPriceWithVAT": 833.1259236
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:11:21.962263"
+  }
+}

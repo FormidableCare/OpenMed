@@ -1,0 +1,65 @@
+{
+  "catalogId": "bef13582-98d1-40ce-8313-3addad46183a",
+  "name": "MARCAINE 0.5 %",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "046 89 23721 01",
+  "treatmentDescriptions": "Long acting local anaesthetic.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "epidural, caudal, pudental, sacral, intercostal, paracervical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPIVACAINE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB01",
+      "name": "BUPIVACAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MARCAINE 0.5 % 5 VIALS",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 20 ML GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8366",
+        "yarpa": "5998",
+        "pharmasoft": "13530",
+        "barcode": "6091403219001"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 64.296,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 86.47812,
+        "maxPriceWithVAT": 102.0441816
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:05:28.168059"
+  }
+}

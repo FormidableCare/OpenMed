@@ -1,0 +1,64 @@
+{
+  "catalogId": "ecde0ef5-95ec-421f-bf52-58b60141e62b",
+  "name": "PROLIA 60 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 25 33253 00",
+  "treatmentDescriptions": "Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women Prolia significantly reduces the risk of vertebral, non vertebral and hip fractures. Treatment of bone loss associated with hormone ablation in men with prostate cancer at increased risk of fractures. In men with prostate cancer receiving hormone ablation, Prolia significantly reduces the risk of vertebral fractures.Treatment of bone loss associated with long-term systemic glucocorticoid therapy of a daily dosage equivalent to 7.5 mg or greater of prednisone and expected to remain on glucocorticoids for at least 3 months, in adult patients at high risk of fracture.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DENOSUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "M05BX04",
+      "name": "DENOSUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROLIA 60MG/ML PREFIL SYRINGE",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PREFILLED SYRINGE (BLISTERED) GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6726",
+        "yarpa": "3486",
+        "pharmasoft": "16845"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 617.0659763,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 725.0525222,
+        "maxPriceWithVAT": 855.5619382
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:00:33.883405"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "2a7409a3-a956-4505-8024-e39faa05af8d",
+  "name": "ISTURISA 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 12 37207 99",
+  "treatmentDescriptions": "Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adult patients for whom surgery is not an option or has not been curative",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OSILODROSTAT  AS PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H02CA02",
+      "name": "OSILODROSTAT "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ISTURISA 1 MG 60 F.C.T",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9209",
+        "yarpa": "3003",
+        "pharmasoft": "23565"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5504.439645,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 6054.88361,
+        "maxPriceWithVAT": 7144.762342
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:14:08.114075"
+  }
+}

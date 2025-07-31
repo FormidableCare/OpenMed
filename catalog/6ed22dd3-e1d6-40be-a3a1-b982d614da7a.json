@@ -1,0 +1,64 @@
+{
+  "catalogId": "6ed22dd3-e1d6-40be-a3a1-b982d614da7a",
+  "name": "COMBIGAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 56 31401 00",
+  "treatmentDescriptions": "Combigan is indicated for lowering intraocular pressure in patients with open-angle glaucoma or ocular hypertension.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIMOLOL AS MALEATE 0.5 %W/V, BRIMONIDINE TARTRATE 0.2 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01EA05",
+      "name": "BRIMONIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "COMBIGAN EYE DROPS 5 ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6069",
+        "yarpa": "86189",
+        "pharmasoft": "3916"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.701735,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.65137695,
+        "maxPriceWithVAT": 60.94862209
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:27:03.394007"
+  }
+}

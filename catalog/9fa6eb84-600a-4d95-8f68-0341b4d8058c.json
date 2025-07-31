@@ -1,0 +1,65 @@
+{
+  "catalogId": "9fa6eb84-600a-4d95-8f68-0341b4d8058c",
+  "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 47 34816 00",
+  "treatmentDescriptions": "Mild to moderate ulcerative colitis or crohn's disease.",
+  "termsOfIssue": "Prescription required",
+  "form": "granules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MESALAZINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A07EC02",
+      "name": "MESALAZINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PENTASA SLOW RELEASE GRANULES 2GX60SACHET",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET POLYESTER/ALUMINIUM/POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6869",
+        "yarpa": "89247",
+        "pharmasoft": "16785",
+        "barcode": "7640128547228"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 257.5128222,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 302.5775661,
+        "maxPriceWithVAT": 357.0415121
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:36:19.364008"
+  }
+}

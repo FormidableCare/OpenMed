@@ -1,0 +1,63 @@
+{
+  "catalogId": "2b696633-c4f9-4b61-b077-17931359d5f3",
+  "name": "CERNEVIT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "139 72 30602 12",
+  "treatmentDescriptions": "Vitamin supplementation in patients receiving parenteral nutrition. Only for adults and children over 11 years of age.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RETINOL PALMITATE/VIAL, COLECALCIFEROL/VIAL, TOCOPHEROL 10.2  MG/VIAL, ASCORBIC ACID/VIAL, RIBOFLAVINE 5.67  MG/VIAL, PYRIDOXINE (VIT B6) HYDROCHLORIDE 5.5  MG/VIAL, CYANOCOBALAMIN (VIT B12) 0.006  MG/VIAL, FOLIC ACID 0.414  MG/VIAL, DEXPANTHENOL 16.15  MG/VIAL, BIOTIN 0.069  MG/VIAL, NICOTINAMIDE/VIAL, COCARBOXYLASE TETRAHYDRATE 5.8 MG/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B05CB10",
+      "name": "COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CERNEVIT 1VIAL POWDER FOR INJ",
+      "manufacturer": {
+        "name": "סופר-פארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6982",
+        "yarpa": "28557"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 38.3464497,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 51.57597485,
+        "maxPriceWithVAT": 60.85964761
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:07:11.992768"
+  }
+}

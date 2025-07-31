@@ -1,0 +1,65 @@
+{
+  "catalogId": "ef20c71c-4491-4817-8989-3767e93bf9bb",
+  "name": "BLASTOVIN TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "146 63 33376 00",
+  "treatmentDescriptions": "Vinblastine has proved effective in the treatment of the following neoplasms, either alone or in conjunction with other oncolytic drugs:Frequently Responsive Malignancies :• Generalized Hodgkin's disease (Stages III and IV, Ann Arbor modification of Rye staging system)• Non-Hodgkin's lymphoma:   - Reticulum-cell sarcoma   - Lymphosarcoma• Mycosis fungoides.• Neuroblastoma.• Histiocytosis X.Less Frequently Responsive Malignancies :• Choriocarcinoma resistant to other chemotherapeutic agents.• Embryonal carcinoma of the testis.• Carcinoma of the breast, unresponsive to appropriate endocrine surgery and hormonal therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VINBLASTINE SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01CA01",
+      "name": "VINBLASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BLASTOVIN 1VIAL 10MG/10ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1478",
+        "yarpa": "29639",
+        "pharmasoft": "2101",
+        "barcode": "7290102065196"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 47.8,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 64.291,
+        "maxPriceWithVAT": 75.86338
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:40:36.892993"
+  }
+}

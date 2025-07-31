@@ -1,0 +1,64 @@
+{
+  "catalogId": "6f25d90f-5ece-42b9-9598-f999e1c5e460",
+  "name": "PIFELTRO 100 MG FILM - COATED TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "164 62 36060 00",
+  "treatmentDescriptions": "Pifeltro is indicated, in combination with other antiretroviral medicinal products, for the treatment of adults infected with HIV-1 without past or present evidence of viral resistance to doravirine.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DORAVIRINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G05AG06",
+      "name": "DORAVIRINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PIFELTRO 100 MG 30 TAB",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8524",
+        "yarpa": "60678",
+        "barcode": "7290017512150"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1301.119808,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1528.815774,
+        "maxPriceWithVAT": 1804.002533
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:42:52.695053"
+  }
+}

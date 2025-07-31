@@ -1,0 +1,65 @@
+{
+  "catalogId": "14fc97d0-344c-4d76-b4e6-fff2e4471279",
+  "name": "ORENCIA 125 MG SC",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 54 33788 00",
+  "treatmentDescriptions": "ORENCIA is indicated for reducing signs and symptoms, inducing major clinical response, inhibiting the progression of structural damage, and improving physical function in adult patients with moderately to severely active rheumatoid arthritis. ORENCIA may be used as monotherapy or concomitantly with disease-modifying antirheumatic drugs (DMARDs) other than tumor necrosis factor (TNF) antagonists.ORENCIA is indicated for the treatment of adult patients with active psoriatic arthritis (PsA).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABATACEPT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA24",
+      "name": "ABATACEPT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ORENCIA 250MG 1 VIAL POWDER FOR INFUSION",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6520",
+        "yarpa": "17948",
+        "pharmasoft": "15374",
+        "barcode": "7290014396074"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1099.798249,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1292.262943,
+        "maxPriceWithVAT": 1524.870205
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:15:26.519048"
+  }
+}

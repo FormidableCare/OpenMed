@@ -1,0 +1,65 @@
+{
+  "catalogId": "10cd8002-ed64-4ecb-8f22-d616c8a7d4e2",
+  "name": "ESTROFEM 1 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 54 29845 00",
+  "treatmentDescriptions": "Hormone replacement therapy (HRT) for estrogen deficiency symptoms in postmenopausal women. Prevention of osteoporosis in postmenopausal women at high risk of future fractures, who are tolerant of , or contraindicated for other medicinal products approved for the prevention of osteoporosis. Estrofem is particularly for women who have been hysterectomized and therefore do not require combined estrogen/progestagen therapy.The experience treating women older than 65 years is limited.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESTRADIOL AS HEMIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA03",
+      "name": "ESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ESTROFEM 1MG 28TAB",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DISPENSER PACK POLYPROPYLENE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3867",
+        "yarpa": "24680",
+        "pharmasoft": "5160",
+        "barcode": "7290008126410"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.574255,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.85672935,
+        "maxPriceWithVAT": 18.7109398
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:38:40.725545"
+  }
+}

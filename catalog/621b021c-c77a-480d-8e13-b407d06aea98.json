@@ -1,0 +1,64 @@
+{
+  "catalogId": "621b021c-c77a-480d-8e13-b407d06aea98",
+  "name": "BILAXTEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 06 34829 00",
+  "treatmentDescriptions": "Bilaxten is indicated for the symptomatic treatment of allergic rhino-conjunctivitis (seasonal and perennial) and urticariai in adults and adolescents (12 years of age and over).",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BILASTINE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX29",
+      "name": "BILASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BILAXTEN 20MG 30TAB",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8134",
+        "yarpa": "66789",
+        "pharmasoft": "2631"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16.078239,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 22.02718743,
+        "maxPriceWithVAT": 25.99208001
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:38:52.307123"
+  }
+}

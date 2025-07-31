@@ -1,0 +1,65 @@
+{
+  "catalogId": "e0c819a7-716e-4232-84ff-10c985e672b1",
+  "name": "NUVARING",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 14 30926 01",
+  "treatmentDescriptions": "Contraception. The safety and efficacy has been established in women aged 18 to 40 years.",
+  "termsOfIssue": "Prescription required",
+  "form": "vaginal ring",
+  "route": "vaginal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ETHINYLESTRADIOL 2.7  MG, ETONOGESTREL 11.7  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03CA01",
+      "name": "ETHINYLESTRADIOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NUVARING 1VAGINAL RING",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET ALUMINIUM LAMINATE",
+      "shelfLife": "40",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4937",
+        "yarpa": "67994",
+        "pharmasoft": "14434",
+        "barcode": "7290006537140"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 37.7588547,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 51.72963094,
+        "maxPriceWithVAT": 61.04096179
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:58:26.340919"
+  }
+}

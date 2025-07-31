@@ -1,0 +1,62 @@
+{
+  "catalogId": "178c3005-ee33-4354-81a2-dd0eaba487a0",
+  "name": "ASPAVELI",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 68 37797 99",
+  "treatmentDescriptions": "ASPAVELI is indicated as monotherapy in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have haemolytic anaemia.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for infusion",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PEGCETACOPLAN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA54",
+      "name": "PEGCETACOPLAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ASPAVELI 1080MG/20ML 8 VIALS",
+      "manufacturer": {
+        "name": "תרומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 8.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9466"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 100369.097,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 110406.0067,
+        "maxPriceWithVAT": 130279.0822
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:25:22.965224"
+  }
+}

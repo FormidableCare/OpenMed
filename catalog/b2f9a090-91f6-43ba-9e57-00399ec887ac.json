@@ -1,0 +1,65 @@
+{
+  "catalogId": "b2f9a090-91f6-43ba-9e57-00399ec887ac",
+  "name": "OXALIPLATIN MEDAC 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 25 31504 00",
+  "treatmentDescriptions": "Oxaliplatin in combination with 5-fluorouracil (5-FU) and folinic acid (FA) is indicated for: •  Adjuvant treatment of stage III (Duke‘s C) colon cancer after complete resection of primary tumor. •  Treatment of metastatic colorectal cancer. Oxaliplatin in combination with leucovorin, irinotecan and 5-fluorouracil is indicated for the first-line treatment of patients with metastatic pancreatic adenocarcinoma (based on NCCN guidelines, version 2.2014).",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXALIPLATIN/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XA03",
+      "name": "OXALIPLATIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXALIPLATIN MEDAC 50MG/VIAL",
+      "manufacturer": {
+        "name": "צמל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7435",
+        "yarpa": "86829",
+        "pharmasoft": "15356",
+        "barcode": "4037353004290"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 358.8223,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 421.6162025,
+        "maxPriceWithVAT": 497.507119
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:20:26.380479"
+  }
+}

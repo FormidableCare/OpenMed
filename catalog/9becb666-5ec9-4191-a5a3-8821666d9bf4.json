@@ -1,0 +1,64 @@
+{
+  "catalogId": "9becb666-5ec9-4191-a5a3-8821666d9bf4",
+  "name": "CIDOFOVIR RAZ 75 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 09 35697 00",
+  "treatmentDescriptions": "Cidofovir is indicated for the treatment of CMV retinitis in adults with acquired immunodeficiency syndrome (AIDS) and without renal dysfunction. It should be used only when other medicinal products are considered unsuitable.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CIDOFOVIR AS DIHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J05AB12",
+      "name": "CIDOFOVIR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CIDOFOVIR RAZ 75 MG/ML 1 VIAL",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9160",
+        "yarpa": "77247",
+        "pharmasoft": "23276"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6457.593155,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7103.35247,
+        "maxPriceWithVAT": 8381.955542
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:12:15.055682"
+  }
+}

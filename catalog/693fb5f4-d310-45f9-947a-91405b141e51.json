@@ -1,0 +1,65 @@
+{
+  "catalogId": "693fb5f4-d310-45f9-947a-91405b141e51",
+  "name": "OPTILAST",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "117 67 29826 00",
+  "treatmentDescriptions": "Symptomatic treatment and prevention of seasonal allergic conjunctivitis.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZELASTINE HYDROCHLORIDE 0.05 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01GX07",
+      "name": "AZELASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OPTILAST EYE DROPS 0.05% 6ML",
+      "manufacturer": {
+        "name": "מגאפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4556",
+        "yarpa": "51961",
+        "pharmasoft": "15133",
+        "barcode": "4019338199016"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.56609199,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.43554603,
+        "maxPriceWithVAT": 30.01394431
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:14:43.239983"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "dde77e2c-f9d5-428b-9153-96858131fdd7",
+  "name": "ABEVMY",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 88 37178 00",
+  "treatmentDescriptions": "Abevmy in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of patients with metastatic carcinoma of the colon or rectum.Abevmy in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer.Abevmy, in addition to platinum-based chemotherapy, is indicated for first-line treatment of patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology.Bevacizumab in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations.Abevmy in combination with interferon alfa-2a is indicated for first line treatment of patients with advanced and/or metastatic renal cell cancer.Abevmy, as a single agent, is indicated for the treatment of glioblastoma in patients with progressive disease following prior therapy.Abevmy, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of advanced ([FIGO] stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who are at high risk for recurrence (residual disease after debulking).Abevmy, in combination with carboplatin and gemcitabine, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents.Bevacizumab in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents .Abevmy, (bevacizumab) in combination with paclitaxel and cisplatin or, paclitaxel and topotecan, is indicated for the treatment of patients with persistent, recurrent, or metastatic carcinoma of the cervix.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BEVACIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FG01",
+      "name": "BEVACIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ABEVMY 100MG/4ML 1 VIAL",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9534",
+        "yarpa": "38716",
+        "barcode": "7290015912839"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 680.9212731,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 800.0824959,
+        "maxPriceWithVAT": 944.0973032
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:09:42.674178"
+  }
+}

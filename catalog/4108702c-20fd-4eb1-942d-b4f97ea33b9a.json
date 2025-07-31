@@ -1,0 +1,65 @@
+{
+  "catalogId": "4108702c-20fd-4eb1-942d-b4f97ea33b9a",
+  "name": "CAYSTON",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 57 34026 02",
+  "treatmentDescriptions": "Cayston is indicated for the suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged 6 years and older. Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for nebuliser solution",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZTREONAM/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01DF01",
+      "name": "AZTREONAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CAYSTON  75MG/VIAL 84 VIALS",
+      "manufacturer": {
+        "name": "גיליאד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 2 ML GLASS",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7382",
+        "yarpa": "50858",
+        "pharmasoft": "9724",
+        "barcode": "5391507141040"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8728.063432,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 9600.869775,
+        "maxPriceWithVAT": 11329.02583
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:58:01.912992"
+  }
+}

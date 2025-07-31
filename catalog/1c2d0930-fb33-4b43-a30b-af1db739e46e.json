@@ -1,0 +1,63 @@
+{
+  "catalogId": "1c2d0930-fb33-4b43-a30b-af1db739e46e",
+  "name": "ATTENT XR 30 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 94 35998 00",
+  "treatmentDescriptions": "Treatment of Attention Deficit Hyperactivity Disorder (ADHD).",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXTROAMPHETAMINE SULFATE 7.5  MG, DEXTROAMPHETAMINE SACCHARATE 7.5  MG, AMPHETAMINE SULFATE 7.5  MG, AMPHETAMINE ASPARTATE MONOHYDRATE 7.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06BA01",
+      "name": "AMFETAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ATTENT XR 20 MG 30 CAPS",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9189",
+        "yarpa": "16701"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:30:50.769095"
+  }
+}

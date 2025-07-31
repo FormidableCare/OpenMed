@@ -1,0 +1,64 @@
+{
+  "catalogId": "47cedcfa-819e-4446-9dcd-dc8cc149e1e6",
+  "name": "DORZATOL-AVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 93 34413 00",
+  "treatmentDescriptions": "For the treatment of elevated intraocular pressure (IOP) in patients with ocular hypertension, open-angle glaucoma, or other secondary open-angle glaucoma when concomitant therapy is appropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TIMOLOL AS MALEATE/ML, DORZOLAMIDE AS HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED01",
+      "name": "TIMOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DORZATOL AVENIR  5ML  EYE DROP",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8281",
+        "yarpa": "51372",
+        "barcode": "7290010287000"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 27.1277,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 37.164949,
+        "maxPriceWithVAT": 43.85463982
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:02:45.608680"
+  }
+}

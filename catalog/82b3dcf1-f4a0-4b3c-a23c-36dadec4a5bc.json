@@ -1,0 +1,65 @@
+{
+  "catalogId": "82b3dcf1-f4a0-4b3c-a23c-36dadec4a5bc",
+  "name": "MABTHERA 10 MG/ML I.V",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "112 51 29472 00",
+  "treatmentDescriptions": "MabThera is indicated for the following indications: * Non-Hodgkin’s lymphoma (NHL)MabThera is indicated for the treatment of patients with relapsed or refractory low-grade or follicular, B-cell non-hodgkin’s lymphoma.MabThera is indicated for the treatment of previously untreated patients with low-grade or follicular lymphoma in combination with chemotherapy MabThera is indicated for the treatment of patients with CD20 positive diffuse large B-cell non-Hodgkin's lymphoma in combination with CHOP chemotherapy. MabThera maintenance therapy is indicated for the treatment of follicular lymphoma patients responding to induction therapy. * Chronic lymphocytic leukaemia (CLL)MabThera in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory chronic lymphocytic leukaemia. Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including MabThera or patients refractory to previous MabThera plus chemotherapy.* Rheumatoid arthritisMabThera is indicated, in combination with methotrexate, to reduce signs and symptoms in adult patients with moderately to severely active rheumatoid arthritis who had an inadequate response or intolerance to one or more TNF antagonist therapies.* Granulomatosis with polyangiitis and Microscopic polyangiitisMabThera, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with polyangiitis (GPA) (Wegener’s Granulomatosis (WG) and Microscopic polyangiitis (MPA). *Pemphigus vulgarisMabThera is indicated for the treatment of adult patients with moderate to severe pemphigus vulgaris (PV).",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RITUXIMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XC02",
+      "name": "RITUXIMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MABTHERA 100MG/10ML 2 VIALS",
+      "manufacturer": {
+        "name": "רוש",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4944",
+        "yarpa": "9769",
+        "pharmasoft": "13543",
+        "barcode": "7290008140119"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1290.422566,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1516.246515,
+        "maxPriceWithVAT": 1789.170808
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:03:17.602086"
+  }
+}

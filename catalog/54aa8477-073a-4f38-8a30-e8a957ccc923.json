@@ -1,0 +1,63 @@
+{
+  "catalogId": "54aa8477-073a-4f38-8a30-e8a957ccc923",
+  "name": "CEQUA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "165 76 36091 00",
+  "treatmentDescriptions": "Indicated to increase tear production in patients with keratoconjunctivitis sicca (dry eye).",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CICLOSPORIN 0.09 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01XA18",
+      "name": "CICLOSPORIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CEQUA 0.09 % 60 AMP*0.25 ML",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL LDPE",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8500",
+        "yarpa": "72978"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:05:41.311705"
+  }
+}

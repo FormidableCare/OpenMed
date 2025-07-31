@@ -1,0 +1,64 @@
+{
+  "catalogId": "8c823fd1-a06f-45a4-8e49-f5a8bdccbd94",
+  "name": "PROSULF",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "126 80 29096 00",
+  "treatmentDescriptions": "To counteract the anticoagulant effect of Heparin, before surgery, after renal dialysis, after open heart surgery, if excessive bleeding occurs and when an overdose has inadvertently been given.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PROTAMINE SULFATE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AB14",
+      "name": "PROTAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PROSULF 50MG/5ML 10AMP (5ML)",
+      "manufacturer": {
+        "name": "פרופארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6958",
+        "yarpa": "55443",
+        "barcode": "5012727743103"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 367.5,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 431.8125,
+        "maxPriceWithVAT": 509.5387274
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:04:27.792490"
+  }
+}

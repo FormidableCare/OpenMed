@@ -1,0 +1,64 @@
+{
+  "catalogId": "5a5e5158-4798-4d3c-8c8e-7ebe8c2b5fa0",
+  "name": "NGENLA 24 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 08 37406 00",
+  "treatmentDescriptions": "Ngenla is indicated for the treatment of children and adolescents from 3 years of age with growth disturbance due to insufficient secretion of growth hormone.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SOMATROGON/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01AC08",
+      "name": "SOMATROGON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NGENLA 24 MG /1.2 ML SOL FOR INJ 1 PEN",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9235",
+        "yarpa": "17852",
+        "barcode": "5415062383872"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 678.8874488,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 797.6927523,
+        "maxPriceWithVAT": 941.2774059
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:45:53.068139"
+  }
+}

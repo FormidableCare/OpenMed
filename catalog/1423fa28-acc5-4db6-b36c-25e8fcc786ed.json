@@ -1,0 +1,65 @@
+{
+  "catalogId": "1423fa28-acc5-4db6-b36c-25e8fcc786ed",
+  "name": "SOLIRIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "144 09 32985 00",
+  "treatmentDescriptions": "Soliris is indicated for the treatment of patients with: -Paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history. Eculizumab has not been studied in clinical trials in patients with PNH below 11 years of age. -Atypical haemolytic uremic syndrome (aHUS). - Refractory generalized myasthenia gravis (gMG) in patients aged 6 years and above who are antiacetylcholine receptor (AChR) antibody-positive Soliris is indicated in adults for the treatment of: -Neuromyelitis optica spectrum disorder (NMOSD) in patients who are anti-aquaporin-4 (AQP4) antibodypositive with a relapsing course of the disease who have received prior therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ECULIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA25",
+      "name": "ECULIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOLIRIS 10MG/ML VIAL 1X30ML (300MG/VIAL)",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL 30 ML GLASS TYPE I",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6725",
+        "yarpa": "83859",
+        "pharmasoft": "19960",
+        "barcode": "7290012913167"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 14570.81145,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 16027.8926,
+        "maxPriceWithVAT": 18912.91242
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:27:44.100116"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "273ebf41-d4cd-4ade-93a7-2dbb8b599f86",
+  "name": "LYRICA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 01 31188 00",
+  "treatmentDescriptions": "LLyrica is indicated for the:- Treatment of peripheral and central neuropathic pain in adults. - Management of Fibromyalgia.- Treatment of Generalised Anxiety Disorder (GAD) in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PREGABALIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AX16",
+      "name": "PREGABALIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LYRICA 50MG 56 CAPSULES",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6774",
+        "yarpa": "32216",
+        "pharmasoft": "12455"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 47.6157,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 64.0431165,
+        "maxPriceWithVAT": 75.57087747
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:01:53.851999"
+  }
+}

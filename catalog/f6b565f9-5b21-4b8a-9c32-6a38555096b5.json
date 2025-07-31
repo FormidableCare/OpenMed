@@ -1,0 +1,63 @@
+{
+  "catalogId": "f6b565f9-5b21-4b8a-9c32-6a38555096b5",
+  "name": "BETACALCIP TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 63 36863 99",
+  "treatmentDescriptions": "Topical treatment of stable plaque psoriasis vulgaris amenable to topical therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CALCIPOTRIOL/, BETAMETHASONE AS DIPROPIONATE 0.5  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D05AX52",
+      "name": "CALCIPOTRIOL, COMBINATIONS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BETACALCIP TEVA OINT TUBE 60GR",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9606",
+        "yarpa": "85011"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 81.850617,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 110.0890799,
+        "maxPriceWithVAT": 129.9051085
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:32:35.243563"
+  }
+}

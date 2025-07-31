@@ -1,0 +1,64 @@
+{
+  "catalogId": "295636dc-69d1-439c-9994-624559cf7e78",
+  "name": "GLUBEN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "040 08 20814 00",
+  "treatmentDescriptions": "Control of hyperglycemia in stable, mild, nonketosis prone Glibenclamide responsive type II diabetes mellitus, which cannot be controlled by proper dietary management or when insulin therapy is inappropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "GLIBENCLAMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BB01",
+      "name": "GLIBENCLAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GLUBEN 5MG 30TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1757",
+        "yarpa": "7940",
+        "pharmasoft": "7204"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.538,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 11.69706,
+        "maxPriceWithVAT": 13.8025308
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:36:33.227388"
+  }
+}

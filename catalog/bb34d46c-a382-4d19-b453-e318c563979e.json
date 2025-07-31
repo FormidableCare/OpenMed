@@ -1,0 +1,65 @@
+{
+  "catalogId": "bb34d46c-a382-4d19-b453-e318c563979e",
+  "name": "DECAPEPTYL DEPOT 11.25 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 83 31300 00",
+  "treatmentDescriptions": "- Lowering of sexual hormones and- treatment of advanced hormone-dependent prostate cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder and solvent for suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRIPTORELIN AS EMBONATE 11.25  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02AE04",
+      "name": "TRIPTORELIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DECAPEPTYL DEPOT 11.25MG VIAL",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4991",
+        "yarpa": "70319",
+        "pharmasoft": "4497",
+        "barcode": "7046260200104"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 972.3860964,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1142.553663,
+        "maxPriceWithVAT": 1348.213263
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:44:13.816905"
+  }
+}

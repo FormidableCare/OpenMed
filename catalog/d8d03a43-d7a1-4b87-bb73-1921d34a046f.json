@@ -1,0 +1,65 @@
+{
+  "catalogId": "d8d03a43-d7a1-4b87-bb73-1921d34a046f",
+  "name": "CLONNIRIT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "044 54 22183 00",
+  "treatmentDescriptions": "Prophylaxis of migraine and recurrent vascular headache, but not acute attacks.Treatment of menopausal flushing.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CLONIDINE HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02CX02",
+      "name": "CLONIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CLONNIRIT 25MCG 30T",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1850",
+        "yarpa": "504",
+        "pharmasoft": "3183",
+        "barcode": "7290008013093"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.1499,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.015363,
+        "maxPriceWithVAT": 21.25812834
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:21:51.744008"
+  }
+}

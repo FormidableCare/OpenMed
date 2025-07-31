@@ -1,0 +1,65 @@
+{
+  "catalogId": "21cc33e8-2c51-4cc5-b339-d491eccde1db",
+  "name": "FML LIQUIFILM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "042 55 24101 00",
+  "treatmentDescriptions": "To treat eye inflammation.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, suspension",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FLUOROMETHOLONE 0.1 %W/V",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01BA07",
+      "name": "FLUOROMETHOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FML LIQUIFILM 5ML",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE POLYETHYLENE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1299",
+        "yarpa": "6320",
+        "pharmasoft": "822",
+        "barcode": "72991244"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6.5364195,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 8.954894715,
+        "maxPriceWithVAT": 10.56677529
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:15:25.659753"
+  }
+}

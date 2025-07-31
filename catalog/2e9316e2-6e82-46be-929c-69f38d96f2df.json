@@ -1,0 +1,62 @@
+{
+  "catalogId": "2e9316e2-6e82-46be-929c-69f38d96f2df",
+  "name": "AKEEGA 100/500",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "175 83 37789 99",
+  "treatmentDescriptions": "Akeega is indicated with prednisone or prednisolone for the treatment of adult patients with metastatic castration-resistant prostate cancer (mCRPC) and BRCA 1/2 mutations (germline and/or somatic) in whom chemotherapy is not clinically indicated.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ABIRATERONE ACETATE, NIRAPARIB AS TOSYLATE MONOHYDRATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX54",
+      "name": "NIRAPARIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AKEEGA 100/500 56 TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/PE/PVC/AL",
+      "shelfLife": "30",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9463"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20447.71403,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 22492.48544,
+        "maxPriceWithVAT": 26541.13163
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:17:41.751406"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "09c84b03-3681-4e9c-96df-19f371ee1a96",
+  "name": "BRINTELLIX 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 73 34155 00",
+  "treatmentDescriptions": "Brintellix is indicated for the treatment of major depressive episodes in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VORTIOXETINE AS HYDROBROMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AX26",
+      "name": "VORTIOXETINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BRINTELLIX 15MG 28F.C.TAB",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7726",
+        "yarpa": "85111",
+        "pharmasoft": "2588"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 117.540864,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 146.92608,
+        "maxPriceWithVAT": 173.3727667
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:43:00.831264"
+  }
+}

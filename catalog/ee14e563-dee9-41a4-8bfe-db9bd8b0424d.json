@@ -1,0 +1,64 @@
+{
+  "catalogId": "ee14e563-dee9-41a4-8bfe-db9bd8b0424d",
+  "name": "MYCOPHENOLIC ACID INOVAMED 180 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 70 37504 99",
+  "treatmentDescriptions": "Mycophenolic Inovamed is indicated in combination with ciclosporin and corticosteroids for the prophylaxis of acute transplant rejection in adult patients receiving allogeneic renal transplants.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets delayed release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MYCOPHENOLIC ACID",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AA06",
+      "name": "MYCOPHENOLIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYCOPHENOLIC INOVAMED 180 MG 120 TAB",
+      "manufacturer": {
+        "name": "אינובמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9368",
+        "yarpa": "5102",
+        "pharmasoft": "23639"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 305.5040952,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 358.9673118,
+        "maxPriceWithVAT": 423.581428
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:37:22.027318"
+  }
+}

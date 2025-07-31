@@ -1,0 +1,64 @@
+{
+  "catalogId": "50e27df4-d150-4624-988e-b4ceb400624d",
+  "name": "RIPALID 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 05 34990 00",
+  "treatmentDescriptions": "Ripalid is indicated in adults with type 2 diabetes mellitus whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Ripalid is also indicated in combination with metformin in adults with type 2 diabetes mellitus who are not satisfactorily controlled on metformin alone.Treatment should be initiated as an adjunct to diet and exercise to lower the blood glucose in relation to meals.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "REPAGLINIDE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BX02",
+      "name": "REPAGLINIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RIPALID 1 MG 90 TABLETS",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 90.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8074",
+        "yarpa": "63287",
+        "pharmasoft": "18572"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 20.7532,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 28.431884,
+        "maxPriceWithVAT": 33.54962312
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:36:16.090892"
+  }
+}

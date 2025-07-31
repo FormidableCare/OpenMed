@@ -1,0 +1,64 @@
+{
+  "catalogId": "39bb8811-b909-4328-a652-3d17c5f34011",
+  "name": "SIMDAX 2.5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 66 30801 00",
+  "treatmentDescriptions": "Short-term treatment of acutely decompensated severe chronic heart failure.Simdax should only be used as add-on therapy in situations where conventional therapy with e.g. diuretics, ACE-inhibitors and digitalis is not sufficient and where there is a need for inotropic support.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVOSIMENDAN 2.5  MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CX08",
+      "name": "LEVOSIMENDAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SIMDAX 2.5 MG/ML VIAL 5ML",
+      "manufacturer": {
+        "name": "ביומד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7913",
+        "yarpa": "1798",
+        "barcode": "4800221097416"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1724.164157,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2025.892885,
+        "maxPriceWithVAT": 2390.553498
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:13:24.690541"
+  }
+}

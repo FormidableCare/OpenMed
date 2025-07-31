@@ -1,0 +1,63 @@
+{
+  "catalogId": "c0b5b16f-8e65-48f1-af57-98daf5a251da",
+  "name": "BUPIVACAIN HYPERBAR SINTETICA 5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "174 92 37021 99",
+  "treatmentDescriptions": "BUPIVACAIN HYPERBAR  SINTETICA 5 MG/ML is indicated for spinal anaesthesia for surgery, e.g. urological and lower limb surgery, lasting 2-3 hours, abdominal surgery lasting 45-60 minutes.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "spinal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BUPIVACAINE HYDROCHLORIDE ( AS MONOHYDRATE)/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB01",
+      "name": "BUPIVACAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUPIVACAINE AGUETTANT 5 MG/ML 20ML 10 VIALS",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9125",
+        "yarpa": "88397"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 128.6,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 160.75,
+        "maxPriceWithVAT": 189.685
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:46:15.242627"
+  }
+}

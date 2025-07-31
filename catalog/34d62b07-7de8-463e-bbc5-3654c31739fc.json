@@ -1,0 +1,65 @@
+{
+  "catalogId": "34d62b07-7de8-463e-bbc5-3654c31739fc",
+  "name": "DEPALEPT SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "033 72 22644 00",
+  "treatmentDescriptions": "Generalized or partial epilepsy secondary generalized epilepsy and mixed forms of epilepsy.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALPROIC ACID AS SODIUM/ML  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AG01",
+      "name": "VALPROIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEPALEPT 500MG 40 E.C.TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 40.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE III",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2313",
+        "yarpa": "598",
+        "pharmasoft": "4042",
+        "barcode": "7290008005104"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 23.5681,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 32.288297,
+        "maxPriceWithVAT": 38.10019046
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:46:36.423830"
+  }
+}

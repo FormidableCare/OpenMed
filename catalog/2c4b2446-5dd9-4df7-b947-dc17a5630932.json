@@ -1,0 +1,65 @@
+{
+  "catalogId": "2c4b2446-5dd9-4df7-b947-dc17a5630932",
+  "name": "LANTON 30",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "129 25 30761 00",
+  "treatmentDescriptions": "• Treatment of duodenal and gastric ulcer• Treatment of reflux oesophagitis• Prophylaxis of reflux oesophagitis• Eradication of Helicobacter pylori (H. pylori) concurrently given with appropriate antibiotic therapy for treatment of H.pylori-associated ulcers• Treatment of NSAID-associated benign gastric and duodenal ulcers in patients requiring continued NSAID treatment• Prophylaxis of NSAID-associated gastric ulcers and duodenal ulcers in patients at risk requiring continued therapy• Symptomatic gastroesophageal reflux disease• Zollinger-Ellison syndrome.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LANSOPRAZOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A02BC03",
+      "name": "LANSOPRAZOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LANTON 30 28CAPS",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM /ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4834",
+        "yarpa": "59268",
+        "pharmasoft": "12304",
+        "barcode": "7290008013871"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 25.8204,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 35.373948,
+        "maxPriceWithVAT": 41.74125864
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:35:47.038582"
+  }
+}

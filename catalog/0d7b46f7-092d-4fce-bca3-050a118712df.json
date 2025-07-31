@@ -1,0 +1,63 @@
+{
+  "catalogId": "0d7b46f7-092d-4fce-bca3-050a118712df",
+  "name": "GARDASIL 9",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "157 58 34548 00",
+  "treatmentDescriptions": "Gardasil 9 is indicated for active immunisation of individuals at the age of 9-45 years old against the following HPV diseases:•\tPremalignant lesions and cancers affecting the cervix, vulva, vagina and anus caused by vaccine HPV types•\tGenital warts (Condyloma acuminata) caused by specific HPV types.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HPV TYPE 58 L1 PROTEIN/ 0.5  ML, HPV TYPE 52 L1 PROTEIN/ 0.5  ML, HPV TYPE 45 L1 PROTEIN/ 0.5  ML, HPV TYPE 33 L1 PROTEIN/ 0.5  ML, HPV TYPE 31 L1 PROTEIN/ 0.5  ML, HPV TYPE 18 L1 PROTEIN/ 0.5  ML, HPV TYPE 16 L1 PROTEIN/ 0.5  ML, HPV TYPE 11 L1 PROTEIN/ 0.5  ML, HPV TYPE 6 L1 PROTEIN/ 0.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07BM03",
+      "name": "PAPILLOMAVIRUS (HUMAN TYPES 6, 11, 16, 18, 31, 33, 45, 52, 58)"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GARDASIL 9 1 SYRINGE",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8254",
+        "yarpa": "25957"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 474.014695,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 556.9672666,
+        "maxPriceWithVAT": 657.2213454
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:27:49.169901"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "65b7b14a-3222-427d-ab9a-ba5775bf213c",
+  "name": "AZACITIDINE TEVA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 19 35720 00",
+  "treatmentDescriptions": "Azacitidine Teva is indicated for treatment of patients with the following French-American- British (FAB) myelodysplastic syndrome subtypes: refractory anemia (RA) or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).",
+  "termsOfIssue": "Prescription required",
+  "form": "lyophilized powder for suspension for sc injection / solution for infusion",
+  "route": "s.c, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZACITIDINE/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC07",
+      "name": "AZACITIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AZACITIDINE TEVA 100 MG\\VIAL",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8426",
+        "yarpa": "45713",
+        "barcode": "7290110731618"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1291.000758,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1516.925891,
+        "maxPriceWithVAT": 1789.972551
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:27:45.374819"
+  }
+}

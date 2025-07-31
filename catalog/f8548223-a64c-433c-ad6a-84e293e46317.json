@@ -1,0 +1,65 @@
+{
+  "catalogId": "f8548223-a64c-433c-ad6a-84e293e46317",
+  "name": "TEMODAL 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "120 30 30116 23",
+  "treatmentDescriptions": "Temodal capsules are indicated for the treatment of patients with malignant glioma such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy. Temodal capsules are also indicated as first line treatment for patients with advanced metastatic malignant melanoma. Newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TEMOZOLOMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01AX03",
+      "name": "TEMOZOLOMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MODAL 50MG 30CAP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SACHET POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1870",
+        "yarpa": "1369",
+        "pharmasoft": "13154",
+        "barcode": "7290008121972"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 13.125,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 17.98125,
+        "maxPriceWithVAT": 21.21787406
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:28:58.131113"
+  }
+}

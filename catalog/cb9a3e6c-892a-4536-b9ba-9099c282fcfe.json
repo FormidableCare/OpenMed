@@ -1,0 +1,64 @@
+{
+  "catalogId": "cb9a3e6c-892a-4536-b9ba-9099c282fcfe",
+  "name": "ROKACET",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 84 21960 00",
+  "treatmentDescriptions": "For the relief of pain and coughs and for the reduction of fever accompanied by pain.",
+  "termsOfIssue": "Prescription required",
+  "form": "caplets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PARACETAMOL, CAFFEINE, CODEINE PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N02BE01",
+      "name": "PARACETAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ROKACET PLUS 24 CAPLETS",
+      "manufacturer": {
+        "name": "תרו",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 24.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6018",
+        "yarpa": "72116",
+        "pharmasoft": "18370"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:47:58.720387"
+  }
+}

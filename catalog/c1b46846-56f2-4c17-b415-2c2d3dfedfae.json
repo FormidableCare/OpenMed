@@ -1,0 +1,65 @@
+{
+  "catalogId": "c1b46846-56f2-4c17-b415-2c2d3dfedfae",
+  "name": "CARVEDILOL TEVA ® 12.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 46 31073 11",
+  "treatmentDescriptions": "Treatment of symptomatic congestive heart failure. Carvedilol Teva  may be used as adjunct to standard therapy, but may also be used in those patients unable to tolerate an ACE inhibitor, or those who are not receiving digitalis, hydralazine or nitrate therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARVEDILOL 12.5   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AG02",
+      "name": "CARVEDILOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CARVEDILOL TEVA 12.5MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6110",
+        "yarpa": "42314",
+        "pharmasoft": "3933",
+        "barcode": "7290102066797"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.2865,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.462505,
+        "maxPriceWithVAT": 18.24575509
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:56:28.489807"
+  }
+}

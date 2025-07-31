@@ -1,0 +1,65 @@
+{
+  "catalogId": "617dc72f-5b07-4210-99e1-b18ac1f1e682",
+  "name": "MYCOBUTIN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "068 76 28228 00",
+  "treatmentDescriptions": "For the treatment of chronic tuberculosis where there is evidence of acid fast bacteria resistant to rifampicin or to two other alternative drugs. For the treatment of infections  caused by MAC or other atypical mycobacteria where there is evidence of resistant bacteria as above. For the treatment of infections caused by MAC or other atypical mycobacteria in AIDS patients in all cases not subject to the above restrictions. For prevention of MAC infections in AIDS patients whose CD4 counts lower or eqval to 200/mm3",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RIFABUTIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J04AB04",
+      "name": "RIFABUTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYCOBUTIN 150MG 30CAP",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "3115",
+        "yarpa": "9265",
+        "pharmasoft": "13012",
+        "barcode": "7298074160017"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 298.9478385,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 351.2637102,
+        "maxPriceWithVAT": 414.4911597
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:37:00.625077"
+  }
+}

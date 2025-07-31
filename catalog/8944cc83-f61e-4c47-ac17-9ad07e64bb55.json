@@ -1,0 +1,64 @@
+{
+  "catalogId": "8944cc83-f61e-4c47-ac17-9ad07e64bb55",
+  "name": "SERDOLECT 16 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "137 36 31472 00",
+  "treatmentDescriptions": "For the treatment of schizophrenia.   Due to cardiovascular safety concerns  serntidole should only be used for patients intolerant to at least one other anti-psychotic agent.   Sertindole should not be used in emergency situations for urgent relief of symptoms in acutely disturbed patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SERTINDOLE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05AE03",
+      "name": "SERTINDOLE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SERDOLECT 16MG 28TAB",
+      "manufacturer": {
+        "name": "לנדבק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6089",
+        "yarpa": "86168",
+        "pharmasoft": "19843"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 306.7447888,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 360.4251269,
+        "maxPriceWithVAT": 425.3016308
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:04:30.113303"
+  }
+}

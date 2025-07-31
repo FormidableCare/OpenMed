@@ -1,0 +1,64 @@
+{
+  "catalogId": "16836bca-e3a8-4a64-8bcb-59ad2eda2ad6",
+  "name": "BETACORTEN G OINTMENT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "050 45 23262 00",
+  "treatmentDescriptions": "For local treatment of inflammatory dermatoses and allergic skin conditions complicated by infections.",
+  "termsOfIssue": "Prescription required",
+  "form": "ointment",
+  "route": "dermal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BETAMETHASONE AS VALERATE 0.1 %W/W, GENTAMICIN AS SULFATE 0.1 %W/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC01",
+      "name": "BETAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BETACORTEN CREAM 15G",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2166",
+        "yarpa": "340",
+        "pharmasoft": "2066"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 5.5,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 7.535,
+        "maxPriceWithVAT": 8.8913
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:36:36.989393"
+  }
+}

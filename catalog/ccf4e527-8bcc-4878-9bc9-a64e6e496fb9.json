@@ -1,0 +1,65 @@
+{
+  "catalogId": "ccf4e527-8bcc-4878-9bc9-a64e6e496fb9",
+  "name": "EASYLAX TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "035 84 22447 00",
+  "treatmentDescriptions": "Laxative.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENOLPHTALEIN YELLOW",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A06AB04",
+      "name": "PHENOLPHTHALEIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EASYLAX 120MG 20TAB",
+      "manufacturer": {
+        "name": "סם און",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2007",
+        "yarpa": "762",
+        "pharmasoft": "5005",
+        "barcode": "7290008066051"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:09:54.675982"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "39f8f2c7-9b34-4657-bd7e-aba5848e7c70",
+  "name": "HISTAFED COMPOUND LINCTUS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "027 93 21823 00",
+  "treatmentDescriptions": "Antitussive syrup for the symptomatic relief of cough accompanied by nasal congestion and congestion of the upper respiratory tract.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CODEINE PHOSPHATE/, PSEUDOEPHEDRINE HYDROCHLORIDE/, TRIPROLIDINE HYDROCHLRIDE 1.25  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R06AX07",
+      "name": "TRIPROLIDINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HISTAFED COMP LINCTUS 115ML",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 115.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2191",
+        "yarpa": "978",
+        "pharmasoft": "8048",
+        "barcode": "729000843322"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:47:06.855022"
+  }
+}

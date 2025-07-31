@@ -1,0 +1,65 @@
+{
+  "catalogId": "bec8c4ad-4c7b-42d7-9ac2-992b7f8a1e3a",
+  "name": "ERLEADA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "162 84 35698 00",
+  "treatmentDescriptions": "Erleada is indicated in adult men for the treatment of• metastatic hormone‐sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy (ADT)• non-metastatic castration-resistant prostate cancer (nm-CRPC).\"",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "APALUTAMIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L02BB05",
+      "name": "APALUTAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ERLEADA 60MG  120 TAB",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8301",
+        "yarpa": "26049",
+        "pharmasoft": "2647",
+        "barcode": "7290014577480"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10162.3792,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 11178.61712,
+        "maxPriceWithVAT": 13190.76761
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:34:10.132042"
+  }
+}

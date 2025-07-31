@@ -1,0 +1,63 @@
+{
+  "catalogId": "62a01f0c-0506-4923-9139-7d2b5faf9a1a",
+  "name": "LEUCOVORIN TEVA 10 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "053 49 26932 05",
+  "treatmentDescriptions": "To diminish the toxicity and counteract the action of folic acid antagonists in cytotoxic therapy. As Leucovorin-Fluorouracil chemotherapy combination for cancer treatment.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CALCIUM FOLINATE 10.8 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "V03AF03",
+      "name": "CALCIUM FOLINATE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LEUCOVORIN TEVA 10 MG/ML 1 VIAL 50ML",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8856",
+        "yarpa": "58639"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 566.1393102,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 665.2136895,
+        "maxPriceWithVAT": 784.9521187
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:41:58.381961"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "dff11d35-ed69-4aae-aa20-416d7d065dd9",
+  "name": "STERODEX EYE DROPS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "053 35 24706 00",
+  "treatmentDescriptions": "For the treatment of conjuctivitis and cornea inflammation.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DEXAMETHASONE AS SODIUM PHOSPHATE 0.1 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01BA01",
+      "name": "DEXAMETHASONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "STERODEX DROPS 5CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "42",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1833",
+        "yarpa": "2041",
+        "pharmasoft": "19149",
+        "barcode": "7290000849652"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 8.9145,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.212865,
+        "maxPriceWithVAT": 14.4111807
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:43:12.318017"
+  }
+}

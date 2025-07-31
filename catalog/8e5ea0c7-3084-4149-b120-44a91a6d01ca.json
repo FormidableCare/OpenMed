@@ -1,0 +1,64 @@
+{
+  "catalogId": "8e5ea0c7-3084-4149-b120-44a91a6d01ca",
+  "name": "JANUVIA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "138 15 31556 00",
+  "treatmentDescriptions": "Januvia is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus.Important limitations of use:Januvia should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings.Januvia has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Januvia.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SITAGLIPTIN AS MONOHYDRATE PHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BH01",
+      "name": "SITAGLIPTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "JANUVIA 100MG 28TAB",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PE/PVDC/AL",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6108",
+        "yarpa": "86458",
+        "pharmasoft": "10042"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 105.8154258,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 132.2692823,
+        "maxPriceWithVAT": 156.0777531
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:17:21.802906"
+  }
+}

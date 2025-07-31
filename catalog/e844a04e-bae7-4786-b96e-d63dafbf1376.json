@@ -1,0 +1,65 @@
+{
+  "catalogId": "e844a04e-bae7-4786-b96e-d63dafbf1376",
+  "name": "DEPALEPT CHRONO 500 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "119 33 27953 02",
+  "treatmentDescriptions": "Epilepsy:Treatment of generalized or partial epilepsy  secondary epilepsy and mixed forms of epilepsy.   Bipolar disorders: Treatment of manic episode in bipolar disorder when lithium is contraindicated or not tolerated. The continuation of treatment after manic episode could be considered in patients who have responded to valproic acid for acute mania.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "VALPROIC ACID, VALPROIC ACID AS SODIUM",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N03AG01",
+      "name": "VALPROIC ACID"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "DEPALEPT CHRONO 500MG 30 SR TAB",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALU/PVC/ALU",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4243",
+        "yarpa": "17714",
+        "pharmasoft": "4295",
+        "barcode": "7290012711527"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 12.0944531,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 16.56940075,
+        "maxPriceWithVAT": 19.55189201
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:46:47.672803"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "catalogId": "d6d5fb87-8259-45a6-abcc-d64e7bc727e2",
+  "name": "GIOTRIF 20 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 47 33984 00",
+  "treatmentDescriptions": "GIOTRIF as monotherapy is indicated for the treatment of: • EGFR TKI-naïve adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with activating EGFR mutation(s);• locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AFATINIB AS DIMALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE13",
+      "name": "AFATINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GIOTRIF 50MG 28 F.C.TAB",
+      "manufacturer": {
+        "name": "בורינגר אינגלהיים",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7393",
+        "yarpa": "50944",
+        "pharmasoft": "7911"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 7567.710889,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 8324.481978,
+        "maxPriceWithVAT": 9822.888298
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:33:40.150065"
+  }
+}

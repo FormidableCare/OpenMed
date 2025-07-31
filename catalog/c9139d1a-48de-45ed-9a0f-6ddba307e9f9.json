@@ -1,0 +1,64 @@
+{
+  "catalogId": "c9139d1a-48de-45ed-9a0f-6ddba307e9f9",
+  "name": "BEXSERO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 59 34399 00",
+  "treatmentDescriptions": "Bexsero is indicated for active immunization of individuals from 2 months of age and older against invasive meningococcal disease caused by Neisseria meningitidis group B.",
+  "termsOfIssue": "Prescription required",
+  "form": "suspension for injection",
+  "route": "i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NEISSERIA MENINGITIDES GROUP B STRAIN NZ98/254, NEISSERIA MENINGITIDIS GROUP B FHBP FUSION PROTEIN, NEISSERIA MENINGITIDIS GROUP B NADA PROTEIN, NEISSERIA MENINGITIDIS GROUP B NHBA FUSION PROTEIN",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J07AH06",
+      "name": "MENINGOCOCCUS B, OUTER MEMBRANE VESICLE VACCINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BEXSERO 1X0.5ML SYRINGE",
+      "manufacturer": {
+        "name": "ג.ס.ק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE GLASS TYPE I",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7867",
+        "yarpa": "69300",
+        "pharmasoft": "2635"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 307.418772,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 361.2170571,
+        "maxPriceWithVAT": 426.2361084
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:34:52.941697"
+  }
+}

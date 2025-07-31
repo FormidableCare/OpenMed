@@ -1,0 +1,64 @@
+{
+  "catalogId": "4b6a9294-eb1e-4035-a5d7-d58808cae745",
+  "name": "PABAL",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 34 35090 00",
+  "treatmentDescriptions": "PABAL is indicated for the prevention of postpartum haemorrhage due to uterine atony",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v, i.m",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARBETOCIN/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "H01BB03",
+      "name": "CARBETOCIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PABAL  100 MCG/ML  5VIAL",
+      "manufacturer": {
+        "name": "פרינג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8158",
+        "yarpa": "11763",
+        "barcode": "7640128548751"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 481.6986998,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 565.9959722,
+        "maxPriceWithVAT": 667.8752175
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:24:00.051127"
+  }
+}

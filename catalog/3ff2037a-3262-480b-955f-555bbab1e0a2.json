@@ -1,0 +1,64 @@
+{
+  "catalogId": "3ff2037a-3262-480b-955f-555bbab1e0a2",
+  "name": "SERENADA 50",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 98 31205 01",
+  "treatmentDescriptions": "For the treatment of symptoms of depression in patients with or without a history of mania. Following satisfactory respose, continuation with sertaline therapy is effective in preventon relapse of the initial episode of depression or recurrence of further depressive episodes.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SERTRALINE AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06AB06",
+      "name": "SERTRALINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SERENADA 50 28TAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 28.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6043",
+        "yarpa": "74581",
+        "pharmasoft": "19810"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.6179,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.396523,
+        "maxPriceWithVAT": 25.24789714
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:05:05.461986"
+  }
+}

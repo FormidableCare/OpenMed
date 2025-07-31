@@ -1,0 +1,65 @@
+{
+  "catalogId": "f57907ea-538c-48b7-ab27-9fc67fbd5356",
+  "name": "CERAZETTE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "131 09 30977 00",
+  "treatmentDescriptions": "Contraceptive.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DESOGESTREL 0.075   MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G03AC09",
+      "name": "DESOGESTREL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CERAZETTE 0.075MG 3X28TAB",
+      "manufacturer": {
+        "name": "אורגנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 84.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4759",
+        "yarpa": "61778",
+        "pharmasoft": "3767",
+        "barcode": "7290006537133"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40.6065,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 54.6157425,
+        "maxPriceWithVAT": 64.44657615
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:06:13.057337"
+  }
+}

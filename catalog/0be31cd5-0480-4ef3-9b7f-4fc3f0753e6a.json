@@ -1,0 +1,64 @@
+{
+  "catalogId": "0be31cd5-0480-4ef3-9b7f-4fc3f0753e6a",
+  "name": "KEVZARA 150 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "160 37 35260 00",
+  "treatmentDescriptions": "Kevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SARILUMAB 131.6  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AC14",
+      "name": "SARILUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KEVZARA 200 MG SOL FOR INJ 2 SYR",
+      "manufacturer": {
+        "name": "סאנופי אוונטיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8119",
+        "yarpa": "64839",
+        "pharmasoft": "11276"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3521.757465,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3873.933212,
+        "maxPriceWithVAT": 4571.240986
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:26:06.730156"
+  }
+}

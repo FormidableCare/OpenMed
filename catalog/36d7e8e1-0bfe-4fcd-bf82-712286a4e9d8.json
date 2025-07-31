@@ -1,0 +1,65 @@
+{
+  "catalogId": "36d7e8e1-0bfe-4fcd-bf82-712286a4e9d8",
+  "name": "BUCCOLAM 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 81 33746 07",
+  "treatmentDescriptions": "Treatment of prolonged, acute, convulsive seizures in infants, toddlers, children and adolescents (from 3 months to < 18 years). Buccolam must only be used by parents/carers where the patient has been diagnosed to have epilepsy. For infants between 3-6 months of age treatment should be in a hospital setting where monitoring is possible and resuscitation equipment is available",
+  "termsOfIssue": "Prescription required",
+  "form": "oromucosal solution",
+  "route": "buccal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIDAZOLAM AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N05CD08",
+      "name": "MIDAZOLAM"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BUCCOLAM 10 MG SYRINGE PREFILLED 4X2ML",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 4.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  HDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7130",
+        "yarpa": "40571",
+        "pharmasoft": "2547",
+        "barcode": "5060147020083"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 281.2470174,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 330.4652454,
+        "maxPriceWithVAT": 389.9489723
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:44:53.786848"
+  }
+}

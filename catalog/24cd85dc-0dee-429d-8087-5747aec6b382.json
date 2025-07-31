@@ -1,0 +1,65 @@
+{
+  "catalogId": "24cd85dc-0dee-429d-8087-5747aec6b382",
+  "name": "ESMOLOL AMOMED 100 MG/10 ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "159 69 34872 00",
+  "treatmentDescriptions": "Esmolol Amomed 100 mg/10 ml  is indicated for supraventricular tachycardia (except for pre-excitation syndromes) and for the rapid control of the ventricular rate in adult patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other circumstances where short-term control of the ventricular rate with a short-acting agent is desirable.Esmolol Amomed 100 mg/10 ml is also indicated for tachycardia and hypertension occurring in the perioperative phase and non-compensatory sinus tachycardia in adult patients where, in the physician’s judgement the rapid heart rate requires specific intervention.Esmolol Amomed 100 mg/10 ml is not intended for use in chronic settings.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ESMOLOL HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C07AB09",
+      "name": "ESMOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ESMOLOL 10MG/ML (100MG/10ML) 5 VIALX10ML",
+      "manufacturer": {
+        "name": "אי.או.פי אורפן",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8135",
+        "yarpa": "65876",
+        "pharmasoft": "5625",
+        "barcode": "7290103847739"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 187.1395,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 233.924375,
+        "maxPriceWithVAT": 276.0307625
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:35:52.560648"
+  }
+}

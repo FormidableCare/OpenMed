@@ -1,0 +1,64 @@
+{
+  "catalogId": "3ab2ff86-a62a-4c13-8159-a2511e3f18cb",
+  "name": "ENALADEX 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "115 85 29810 00",
+  "treatmentDescriptions": "Treatment of essntial hypertension, renovascular hypertension congestive heart failure and to reduce mortality in patients with all degrees of heart failure. To retard the development of symptomatic heart failure in asymptomatic patients with left ventricular dysfunction.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ENALAPRIL MALEATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C09AA02",
+      "name": "ENALAPRIL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ENALAPRIL 5MG 30TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4330",
+        "yarpa": "27971",
+        "pharmasoft": "5173"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.04,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.3848,
+        "maxPriceWithVAT": 14.614064
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:19:59.479359"
+  }
+}

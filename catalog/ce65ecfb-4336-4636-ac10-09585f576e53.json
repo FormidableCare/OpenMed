@@ -1,0 +1,65 @@
+{
+  "catalogId": "ce65ecfb-4336-4636-ac10-09585f576e53",
+  "name": "KYPROLIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 21 33948 01",
+  "treatmentDescriptions": "Kyprolis is indicated: - for the treatment of adult patients with relapsed or refractory multiple myeloma who have received one to three prior lines of therapy in combination with:      •\tLenalidomide and dexamethasone; or      •\tDexamethasone; or      •\tDaratumumab (I.V or S.C) and dexamethasone.- as a single agent for the treatment of patients with multiple myeloma who have received at least two prior therapies including bortezomib and an immunomodulatory agent and have demonstrated disease progression on or within 60 days of completion of the last therapy. Approval is based on response rate. Clinical benefit, such as improvement in survival or symptoms, has not been verified.",
+  "termsOfIssue": "Prescription required",
+  "form": "powder for solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CARFILZOMIB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX45",
+      "name": "CARFILZOMIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KYPROLIS 60MG/VIAL",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7400",
+        "yarpa": "50848",
+        "pharmasoft": "11251",
+        "barcode": "7290008128391"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4193.62843,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4612.991273,
+        "maxPriceWithVAT": 5443.32946
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:31:11.117925"
+  }
+}

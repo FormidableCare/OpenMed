@@ -1,0 +1,65 @@
+{
+  "catalogId": "9db9f04b-48ef-4365-9b0a-517010d17aac",
+  "name": "ALFUZOSIN ER TEVA ® 10 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "142 46 31943 00",
+  "treatmentDescriptions": "Treatment of certain functional symptoms of benign prostatic hypertrophy  particularly if surgery has to be delayed for some reason.   Adjuvant treatment to a catheter in acute urinary retention related to benign prostatic hypertrophy.",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets extended release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ALFUZOSIN HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "G04CA01",
+      "name": "ALFUZOSIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ALFUZOSIN ER TEVA 10MG 30 XR TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6621",
+        "yarpa": "24006",
+        "pharmasoft": "9412",
+        "barcode": "7290102064731"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 48.5083,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 65.2436635,
+        "maxPriceWithVAT": 76.98752293
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T00:15:58.223154"
+  }
+}

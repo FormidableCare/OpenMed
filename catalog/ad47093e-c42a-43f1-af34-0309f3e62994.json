@@ -1,0 +1,65 @@
+{
+  "catalogId": "ad47093e-c42a-43f1-af34-0309f3e62994",
+  "name": "PRAMIN INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "051 52 24303 00",
+  "treatmentDescriptions": "Metoclopramide is an antiemetic and stimulates GI motility.   Adult population: Pramin is indicated in adults for:  - Prevention of postoperative nausea and vomiting (PONV) - Prevention of delayed nausea and vomiting caused by chemotherapy (delayed CINV) - Prevention of nausea and vomiting caused by radiation therapy -Symptomatic treatment of nausea and vomiting, including nausea and vomiting caused by migraine attack. In migraine attacks, metoclopramide can be used concomitantly with oral analgesics to improve their absorption. - Diabetic gastroparesis  - To faciliate diagnostic procedures (ie, to faciliate small bowel intubation and as an aid in radiological examinations) (injection only). Pediatric population. Pramin is indicated in children aged 1 to 18 years for:   - Second line-therapy: Treatment of established postoperative nausea and vomiting (PONV) - Second-line therapy: Prevention of delayed nausea and vomiting caused by chemotherapy (delayed CINV) - To facilitate diagnostic procedures (ie, to faciliate small bowel intubation and as an aid in radiological examinations) (injection only)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.m, i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METOCLOPRAMIDE HYDROCHLORIDE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A03FA01",
+      "name": "METOCLOPRAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PRAMIN INJECTION 10MG/2ML 50AMP",
+      "manufacturer": {
+        "name": "רפא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "AMPOULES GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6614",
+        "yarpa": "28702",
+        "pharmasoft": "16364",
+        "barcode": "7290008013536"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 78.25,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 105.24625,
+        "maxPriceWithVAT": 124.190575
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:49:36.426236"
+  }
+}

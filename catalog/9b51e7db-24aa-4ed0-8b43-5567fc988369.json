@@ -1,0 +1,65 @@
+{
+  "catalogId": "9b51e7db-24aa-4ed0-8b43-5567fc988369",
+  "name": "NERIDERM CREAM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "061 50 24636 00",
+  "treatmentDescriptions": "Corticoid responsive dermatoses in the absence of infection",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DIFLUCORTOLONE VALERATE 0.1 %W/W /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D07AC06",
+      "name": "DIFLUCORTOLONE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NERIDERM CREAM 30G",
+      "manufacturer": {
+        "name": "פאדאגיס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2768",
+        "yarpa": "8834",
+        "pharmasoft": "14014",
+        "barcode": "7290002925545"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 15.02261775,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.58098632,
+        "maxPriceWithVAT": 24.28556278
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:42:47.677088"
+  }
+}

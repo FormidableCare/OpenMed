@@ -1,0 +1,65 @@
+{
+  "catalogId": "043649fd-0e1b-494c-bdda-de9b0deceef5",
+  "name": "EMEND 125 MG CAPSULES",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "135 09 31207 13",
+  "treatmentDescriptions": "Emend in combination with other antiemetic agents  is indicated for the:   - prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy  including high-dose cisplatin.  - prevention of nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "APREPITANT",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A04AD12",
+      "name": "APREPITANT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EMEND 1X125MG+2X80MG CAPS",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "4969",
+        "yarpa": "70091",
+        "pharmasoft": "5410",
+        "barcode": "7290006813114"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 112.7141127,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 140.8926409,
+        "maxPriceWithVAT": 166.2533088
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T02:17:56.413843"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "e2494b23-202a-4a69-8fad-b56b32992d2c",
+  "name": "BEOVU 120 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "166 75 36377 00",
+  "treatmentDescriptions": "Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "intravitreal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BROLUCIZUMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01LA06",
+      "name": "BROLUCIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "BEOVU 120 MG/ML 1 VIAL",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8761",
+        "yarpa": "64495",
+        "pharmasoft": "2832",
+        "barcode": "7290018609828"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2415.156746,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2656.672421,
+        "maxPriceWithVAT": 3134.873317
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-30T23:35:46.004984"
+  }
+}

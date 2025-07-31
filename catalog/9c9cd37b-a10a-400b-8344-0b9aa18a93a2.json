@@ -1,0 +1,64 @@
+{
+  "catalogId": "9c9cd37b-a10a-400b-8344-0b9aa18a93a2",
+  "name": "KALYDECO 150 MG FILM COATED TABLETS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "153 89 34269 00",
+  "treatmentDescriptions": "Kalydeco tablets are indicated for the treatment of patients with cystic fibrosis (CF) aged 6 years and older and weighing 25 kg or more who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or in vitro assay data. Limitations of use : Kalydeco is not effective in patients with CF who are homozygous for the F508del mutation in the CFTR gene.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IVACAFTOR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R07AX02",
+      "name": "IVACAFTOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KALYDECO 50 MG GRANULES 56 SACHETS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8669",
+        "yarpa": "68480",
+        "pharmasoft": "11300"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 40509.11196,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 44560.02315,
+        "maxPriceWithVAT": 52580.82498
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:22:06.931952"
+  }
+}

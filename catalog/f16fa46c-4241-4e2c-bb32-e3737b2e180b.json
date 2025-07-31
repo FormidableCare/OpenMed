@@ -1,0 +1,65 @@
+{
+  "catalogId": "f16fa46c-4241-4e2c-bb32-e3737b2e180b",
+  "name": "METFORMIN TEVA ®",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "130 25 30822 18",
+  "treatmentDescriptions": "Treatment of type 2 diabetes mellitus, particularly in overweight patients, when dietary management and exercise alone does not result in adequate glycaemic control. •In adults, Metformin Teva  may be used as monotherapy or in combination with other oral anti-diabetic agents or with insulin.•In children from 10 years of age and adolescents, Metformin Teva may be used as monotherapy or in combination with insulin.A reduction of diabetic complications has been shown in overweight type 2 diabetic adult patients treated with metformin as first-line therapy after diet failure",
+  "termsOfIssue": "Prescription required",
+  "form": "tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "METFORMIN HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BA02",
+      "name": "METFORMIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "METFORMIN TEVA 850MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVDC/ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6209",
+        "yarpa": "12493",
+        "pharmasoft": "13536",
+        "barcode": "7291064976490"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 9.3,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.741,
+        "maxPriceWithVAT": 15.03438
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:16:44.092675"
+  }
+}

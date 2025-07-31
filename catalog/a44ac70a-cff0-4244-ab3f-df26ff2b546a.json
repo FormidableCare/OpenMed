@@ -1,0 +1,64 @@
+{
+  "catalogId": "a44ac70a-cff0-4244-ab3f-df26ff2b546a",
+  "name": "SOOLANTRA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 59 36606 99",
+  "treatmentDescriptions": "Soolantra is indicated in the topical treatment of inflammatory (papulopustular) lesions caused by rosacea in adults.",
+  "termsOfIssue": "Prescription required",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "IVERMECTINW/W",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "P02CF01",
+      "name": "IVERMECTIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SOOLANTRA CREAM 30G",
+      "manufacturer": {
+        "name": "אמי טכנולוגיות",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "TUBE PE/AL/PE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8946",
+        "yarpa": "74223",
+        "pharmasoft": "17541"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 88.2875724,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 118.7467849,
+        "maxPriceWithVAT": 140.1211999
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T08:31:49.343994"
+  }
+}

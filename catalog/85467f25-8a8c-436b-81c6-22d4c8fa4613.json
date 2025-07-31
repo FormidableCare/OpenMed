@@ -1,0 +1,64 @@
+{
+  "catalogId": "85467f25-8a8c-436b-81c6-22d4c8fa4613",
+  "name": "CODIVIS SYRUP",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "132 47 22196 00",
+  "treatmentDescriptions": "For the relief of cough.",
+  "termsOfIssue": "Prescription required",
+  "form": "syrup",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENYLTOLOXAMINE AS RESINATE 3.3  MG / 4.5  ML, CODEINE AS RESINATE/ 4.5  ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R05DA04",
+      "name": "CODEINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "CODIVIS 10 SR CAP",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE GLASS TYPE II",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "2310",
+        "yarpa": "8806",
+        "pharmasoft": "3020"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": NaN,
+        "retailMargin": NaN,
+        "maxRetailPrice": NaN,
+        "maxPriceWithVAT": NaN
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T01:25:55.062004"
+  }
+}

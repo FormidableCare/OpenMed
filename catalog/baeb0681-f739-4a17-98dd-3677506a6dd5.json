@@ -1,0 +1,65 @@
+{
+  "catalogId": "baeb0681-f739-4a17-98dd-3677506a6dd5",
+  "name": "SALBUTRIM",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "149 19 33272 00",
+  "treatmentDescriptions": "Salbutrim is a short-acting (4 to 6 hour)  bronchodilator with fast  (within 5 minutes) onset in reversible airways obstruction.  It is particularly suitable for the relief and prevention of asthma symptoms It should be used to relieve symptoms when they occur, and to prevent them in those circumstances recognized by the patient to precipitate an asthma attack (e.g. before exercise or unavoidable allergen exposure).Salbutrim is particularly valuable as relief medication in mild, moderate or severe asthma, provided that reliance on it does not delay the introduction and use of regular inhaled corticosteroid therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "inhaler",
+  "route": "inhalation",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALBUTAMOL AS SULFATE/DOSE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "R03AC02",
+      "name": "SALBUTAMOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SALBUTRIM INHALER CFC FREE 100MCG/DOSE 200ACT.",
+      "manufacturer": {
+        "name": "תרימה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 200.0,
+        "unit": "units"
+      },
+      "packagingDescription": "METERED DOSE INHALER ALUMINIUM",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7305",
+        "yarpa": "49886",
+        "pharmasoft": "9705",
+        "barcode": "7290008143127"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 11.5919,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 15.880903,
+        "maxPriceWithVAT": 18.73946554
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T07:57:25.859589"
+  }
+}

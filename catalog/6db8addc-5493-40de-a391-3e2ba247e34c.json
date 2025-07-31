@@ -1,0 +1,65 @@
+{
+  "catalogId": "6db8addc-5493-40de-a391-3e2ba247e34c",
+  "name": "MYDRAMIDE",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "108 37 20498 00",
+  "treatmentDescriptions": "Mydriatic for diagnostic use.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TROPICAMIDE 0.5 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01FA06",
+      "name": "TROPICAMIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MYDRAMIDE DROPS 10CC",
+      "manufacturer": {
+        "name": "פישר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "1814",
+        "yarpa": "1416",
+        "pharmasoft": "13208",
+        "barcode": "7290000849591"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 10.486,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 14.36582,
+        "maxPriceWithVAT": 16.9516676
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:37:42.961761"
+  }
+}

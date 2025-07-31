@@ -1,0 +1,64 @@
+{
+  "catalogId": "562aa0b9-edf9-4130-8095-ca53bec8bc3c",
+  "name": "MEKTOVI 15 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "167 73 35723 00",
+  "treatmentDescriptions": "BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic MelanomaBinimetinib is a kinase inhibitor indicated, in combination with encorafenib, for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation.BRAF V600E Mutation-Positive metastatic non-small cell lung cancer (NSCLC)Binimetinib is a kinase inhibitor indicated, in combination with encorafenib, for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) adenocarcinoma with a BRAF V600E mutation, as detected by an approved test.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BINIMETINIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE41",
+      "name": "BINIMETINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEKTOVI  15MG  180 TABS",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 180.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8865",
+        "yarpa": "25965",
+        "pharmasoft": "13852"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 17036.91527,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 18740.6068,
+        "maxPriceWithVAT": 22113.91504
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T05:09:09.075002"
+  }
+}

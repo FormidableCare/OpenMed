@@ -1,0 +1,65 @@
+{
+  "catalogId": "572f4a4c-d201-4975-b36e-0e8a9d7c02ce",
+  "name": "LUCENTIS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 75 31520 00",
+  "treatmentDescriptions": "Treatment of patients with neovascular (wet) age-related macular degeneration (AMD). Treatment of adult patients with visual impairment due to diabetic macular oedema (DME) . The treatment of visual impairement due to macular oedema secondary to retinal vein occlusion (RVO). The treatment of visual impaiment due to choroidal neovascularization (CNV) . Lucentis is indicated in preterm infants for: the treatment of retinopathy of prematurity (ROP) with zone I (stage 1+, 2+, 3 or 3+), zone II (stage 3+) or AP-ROP (aggressive posterior ROP) disease.The treatment of proliferative diabetic retinopathy (PDR)",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "intravitreal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RANIBIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01LA04",
+      "name": "RANIBIZUMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LUCENTIS 1 PFS 1.65mg/0.165ml",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "SYRINGE PREFILLED  GLASS",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6036",
+        "yarpa": "32622",
+        "pharmasoft": "12420",
+        "barcode": "7290014257351"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1551.681931,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1823.226269,
+        "maxPriceWithVAT": 2151.406901
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T04:57:57.971057"
+  }
+}

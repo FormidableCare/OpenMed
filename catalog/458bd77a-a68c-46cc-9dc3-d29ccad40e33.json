@@ -1,0 +1,64 @@
+{
+  "catalogId": "458bd77a-a68c-46cc-9dc3-d29ccad40e33",
+  "name": "ODOMZO  200 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "156 37 34574 00",
+  "treatmentDescriptions": "Odomzo 200 mg is indicated for the treatment of adult patients with locally advanced basal cell carcinoma which cannot be treated with curative surgery or radiation therapy",
+  "termsOfIssue": "Prescription required",
+  "form": "capsule, hard",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SONIDEGIB AS DIPHOSPHATE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XX48",
+      "name": "SONIDEGIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ODOMZO  200 MG 30 CAPS",
+      "manufacturer": {
+        "name": "תרו יבוא",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PCTFE (ACLAR)/PVC/ALU",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "7835",
+        "yarpa": "64576",
+        "pharmasoft": "15481"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 17779.59709,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 19557.5568,
+        "maxPriceWithVAT": 23077.916
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T06:03:31.205915"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "catalogId": "a9ed6cbf-8278-42c5-b710-a1d0d503d684",
+  "name": "GANFORT",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "143 64 31608 01",
+  "treatmentDescriptions": "Reduction of intraocular pressure in patients with open- angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "BIMATOPROST 0.3  MG/ML, TIMOLOL AS MALEATE/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01ED01",
+      "name": "TIMOLOL"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "GANFORT 3ML EYE DROPS",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 3.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "6663",
+        "yarpa": "23572",
+        "pharmasoft": "12445",
+        "barcode": "7290008127479"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 32.3614456,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 44.33518047,
+        "maxPriceWithVAT": 52.31551296
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T03:27:38.832284"
+  }
+}
