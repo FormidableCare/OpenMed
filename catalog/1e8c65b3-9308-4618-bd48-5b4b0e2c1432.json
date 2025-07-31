@@ -1,0 +1,61 @@
+{
+  "catalogId": "1e8c65b3-9308-4618-bd48-5b4b0e2c1432",
+  "name": "MIGRALEVE 24TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MIGRALEVE",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MIGRALEVE 24TAB",
+      "manufacturer": {
+        "name": "מנון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 24.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "1340",
+        "pharmasoft": "13130",
+        "moh": "4287"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 38.80922112,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 52.19840241,
+        "maxPriceWithVAT": 61.5941121,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:19:07.942617",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

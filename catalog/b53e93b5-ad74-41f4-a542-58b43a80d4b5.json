@@ -1,0 +1,61 @@
+{
+  "catalogId": "b53e93b5-ad74-41f4-a542-58b43a80d4b5",
+  "name": "LUCRIN DEPOT 11.25MG/VIAL",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LUCRIN DEPOT 11.25MG/VIAL",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LUCRIN DEPOT 11.25MG/VIAL",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "68754",
+        "pharmasoft": "12358",
+        "moh": "4101"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 965.5593735,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1134.532264,
+        "maxPriceWithVAT": 1338.748012,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:17:10.903114",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

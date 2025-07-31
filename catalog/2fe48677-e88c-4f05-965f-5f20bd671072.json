@@ -1,0 +1,61 @@
+{
+  "catalogId": "2fe48677-e88c-4f05-965f-5f20bd671072",
+  "name": "MINOCLIN 50MG 30CAP",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MINOCLIN 50MG 30CAP",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MINOCLIN 50MG 30CAP",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "9304",
+        "pharmasoft": "13030",
+        "moh": "2936"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 28.2661,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 38.724557,
+        "maxPriceWithVAT": 45.69497726,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:19:47.729704",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

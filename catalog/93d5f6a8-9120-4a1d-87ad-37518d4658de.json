@@ -1,0 +1,61 @@
+{
+  "catalogId": "93d5f6a8-9120-4a1d-87ad-37518d4658de",
+  "name": "TORID 10MG 3OTAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TORID 10MG 3OTAB",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TORID 10MG 3OTAB",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "17777",
+        "pharmasoft": "20547",
+        "moh": "4795"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 15.11,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.7007,
+        "maxPriceWithVAT": 24.426826,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:34:18.384094",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

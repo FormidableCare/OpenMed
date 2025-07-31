@@ -1,0 +1,61 @@
+{
+  "catalogId": "6ccc7478-436e-4933-91a2-93e5fe573439",
+  "name": "NATPARA 100 MCG 2CARTRIDGES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NATPARA 100 MCG 2CARTRIDGES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NATPARA 100 MCG 2CARTRIDGES",
+      "manufacturer": {
+        "name": "ניאופרם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 2.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "54980",
+        "pharmasoft": "14669",
+        "moh": "7832"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 23419.1124,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 25761.02364,
+        "maxPriceWithVAT": 30398.00655,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:20:55.313764",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

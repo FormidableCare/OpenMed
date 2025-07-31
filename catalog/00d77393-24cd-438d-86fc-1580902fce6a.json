@@ -1,0 +1,61 @@
+{
+  "catalogId": "00d77393-24cd-438d-86fc-1580902fce6a",
+  "name": "ILOMEDINE AMP 0.5 ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ILOMEDINE AMP 0.",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ILOMEDINE AMP 0.5 ML",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "8878",
+        "pharmasoft": "9059",
+        "moh": "2802"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 335.2343881,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 393.9004061,
+        "maxPriceWithVAT": 464.8024585,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:12:27.251509",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

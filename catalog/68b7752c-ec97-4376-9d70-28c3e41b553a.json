@@ -1,0 +1,61 @@
+{
+  "catalogId": "68b7752c-ec97-4376-9d70-28c3e41b553a",
+  "name": "SPRYCEL 70 MG 60 FILM COATED TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SPRYCEL 70 MG 60 FILM COATED TAB",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPRYCEL 70 MG 60 FILM COATED TAB",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 60.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "81979",
+        "pharmasoft": "19872",
+        "moh": "6379"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 5101.224433,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5611.346876,
+        "maxPriceWithVAT": 6621.389314,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:33:40.914879",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

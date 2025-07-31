@@ -1,0 +1,61 @@
+{
+  "catalogId": "d3deeb4f-e23a-4eb7-8270-ae28bc0eb610",
+  "name": "SEGLUROMET 2.5/1000 MG 56 TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEGLUROMET 2.5/1000 MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SEGLUROMET 2.5/1000 MG 56 TAB",
+      "manufacturer": {
+        "name": "מ.ס.ד. ישראל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "29323",
+        "pharmasoft": "",
+        "moh": "8309"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 134.0930052,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 167.6162565,
+        "maxPriceWithVAT": 197.7871739,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:31:54.354561",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

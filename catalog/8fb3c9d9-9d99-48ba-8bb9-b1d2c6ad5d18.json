@@ -1,0 +1,61 @@
+{
+  "catalogId": "8fb3c9d9-9d99-48ba-8bb9-b1d2c6ad5d18",
+  "name": "PATANOL 0.1% EYE DROPS 5ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "drops",
+  "route": "ophthalmic",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PATANOL 0.1% EYE DROPS",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PATANOL 0.1% EYE DROPS 5ML",
+      "manufacturer": {
+        "name": "נוברטיס פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "65020",
+        "pharmasoft": "16703",
+        "moh": "4866"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 21.54682333,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 29.51914797,
+        "maxPriceWithVAT": 34.8325946,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:27:58.308654",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

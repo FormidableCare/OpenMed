@@ -1,0 +1,61 @@
+{
+  "catalogId": "0ddc0ea3-0265-4244-80bc-a4a8be6d87b5",
+  "name": "PAN-CEFTRIAXONE 1 GR10 VIAL",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PAN-CEFTRIAXONE 1 GR",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PAN-CEFTRIAXONE 1 GR10 VIAL",
+      "manufacturer": {
+        "name": "פארמלוג'יק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "59635",
+        "pharmasoft": "16714",
+        "moh": "7966"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 178.0363,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 222.545375,
+        "maxPriceWithVAT": 262.6035425,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:27:35.694541",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

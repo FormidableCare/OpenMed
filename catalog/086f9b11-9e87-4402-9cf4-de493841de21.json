@@ -1,0 +1,61 @@
+{
+  "catalogId": "086f9b11-9e87-4402-9cf4-de493841de21",
+  "name": "MEROAVENIR  1G  10VIALS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MEROAVENIR 1G S",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MEROAVENIR  1G  10VIALS",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "51366",
+        "pharmasoft": "",
+        "moh": "8278"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 692.9988,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 814.27359,
+        "maxPriceWithVAT": 960.8428362,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:18:09.512302",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

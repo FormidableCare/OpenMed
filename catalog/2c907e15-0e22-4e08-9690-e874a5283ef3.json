@@ -1,0 +1,61 @@
+{
+  "catalogId": "2c907e15-0e22-4e08-9690-e874a5283ef3",
+  "name": "KAMRHO-D IM VIAL 2ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "KAMRHO-D IM VIAL",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KAMRHO-D IM VIAL 2ML",
+      "manufacturer": {
+        "name": "קמהדע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "19728",
+        "pharmasoft": "11120",
+        "moh": "3823"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 256.4909568,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 301.3768742,
+        "maxPriceWithVAT": 355.6246958,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:14:58.923308",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

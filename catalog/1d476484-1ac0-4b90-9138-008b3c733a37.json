@@ -1,0 +1,55 @@
+{
+  "catalogId": "1d476484-1ac0-4b90-9138-008b3c733a37",
+  "name": "PHENIMYXIN 10ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PHENIMYXIN",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PHENIMYXIN 10ML",
+      "manufacturer": {
+        "name": "ויטאמד",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "9376",
+        "pharmasoft": "16066",
+        "moh": "3232"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {}
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:28:15.540430",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

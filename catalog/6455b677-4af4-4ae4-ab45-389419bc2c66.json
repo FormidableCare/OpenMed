@@ -1,0 +1,61 @@
+{
+  "catalogId": "6455b677-4af4-4ae4-ab45-389419bc2c66",
+  "name": "INS.ACTRAPID HM 10ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INS.ACTRAPID HM",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INS.ACTRAPID HM 10ML",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "1073",
+        "pharmasoft": "9039",
+        "moh": "646"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 49.2172305,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 66.19717502,
+        "maxPriceWithVAT": 78.11266305,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:13:09.935972",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

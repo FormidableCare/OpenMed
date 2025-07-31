@@ -1,0 +1,61 @@
+{
+  "catalogId": "4ceb3d7c-5e10-4d5b-b166-ec06d2410775",
+  "name": "HAEMATE-P 500 I.U. 1 VIAL 30ml",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HAEMATE-P 500 I.U.",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HAEMATE-P 500 I.U. 1 VIAL 30ml",
+      "manufacturer": {
+        "name": "סי אס אל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "30795",
+        "pharmasoft": "8339",
+        "moh": "8317"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 1469.310787,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1726.440174,
+        "maxPriceWithVAT": 2037.199315,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:12:05.009520",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

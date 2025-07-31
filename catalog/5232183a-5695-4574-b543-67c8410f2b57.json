@@ -1,0 +1,61 @@
+{
+  "catalogId": "5232183a-5695-4574-b543-67c8410f2b57",
+  "name": "INS.MIXTARD 30HM10ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INS.MIXTARD 30HM",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INS.MIXTARD 30HM10ML",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "8208",
+        "pharmasoft": "9173",
+        "moh": "674"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 60.2667495,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 81.05877808,
+        "maxPriceWithVAT": 95.64935388,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:14:15.090343",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

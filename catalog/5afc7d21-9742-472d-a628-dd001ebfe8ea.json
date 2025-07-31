@@ -1,0 +1,61 @@
+{
+  "catalogId": "5afc7d21-9742-472d-a628-dd001ebfe8ea",
+  "name": "INS.ACTRAPID HM 5  PENFILL*3ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INS.ACTRAPID HM 5 PENFILL*",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INS.ACTRAPID HM 5  PENFILL*3ML",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 15.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "8613",
+        "pharmasoft": "9016",
+        "moh": "2862"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 81.01784345,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 108.9689994,
+        "maxPriceWithVAT": 128.5834136,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:13:37.008319",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

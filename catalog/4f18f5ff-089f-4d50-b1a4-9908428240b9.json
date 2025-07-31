@@ -1,0 +1,61 @@
+{
+  "catalogId": "4f18f5ff-089f-4d50-b1a4-9908428240b9",
+  "name": "YTRACIS VIAL 1850 MBQ",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "YTRACIS VIAL 1850 MBQ",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "YTRACIS VIAL 1850 MBQ",
+      "manufacturer": {
+        "name": "איזוטופיה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "",
+        "pharmasoft": "",
+        "moh": "6748"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 9387.977985,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 10326.77578,
+        "maxPriceWithVAT": 12185.59488,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:39:32.074699",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

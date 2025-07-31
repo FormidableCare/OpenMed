@@ -1,0 +1,61 @@
+{
+  "catalogId": "2b4925f1-6643-4bb6-93bb-70ca04630ece",
+  "name": "NEOMYCINE 500MG 20TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "NEOMYCINE 500MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "NEOMYCINE 500MG 20TAB",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "1454",
+        "pharmasoft": "14080",
+        "moh": "3416"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 33.334,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 45.66758,
+        "maxPriceWithVAT": 53.8877444,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:22:23.075263",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

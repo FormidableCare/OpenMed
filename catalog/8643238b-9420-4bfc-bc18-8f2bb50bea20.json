@@ -1,0 +1,61 @@
+{
+  "catalogId": "8643238b-9420-4bfc-bc18-8f2bb50bea20",
+  "name": "RETAVIT 0.025% GEL 20GR",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RETAVIT 0.025% GEL 20GR",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RETAVIT 0.025% GEL 20GR",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "8831",
+        "pharmasoft": "18010",
+        "moh": "3705"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 38.863904,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 52.27195088,
+        "maxPriceWithVAT": 61.6808993,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:30:00.111581",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "3d0a2388-c7ef-4ce9-8e2a-4c3d6e859f7b",
+  "name": "LUCRIN DEPOT KIT 3.75MG",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LUCRIN DEPOT KIT 3.75MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LUCRIN DEPOT KIT 3.75MG",
+      "manufacturer": {
+        "name": "אב-וי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "70088",
+        "pharmasoft": "12378",
+        "moh": "3483"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 255.5137134,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 300.2286132,
+        "maxPriceWithVAT": 354.2697478,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:17:41.301223",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

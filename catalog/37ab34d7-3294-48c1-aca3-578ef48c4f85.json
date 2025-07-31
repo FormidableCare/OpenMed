@@ -1,0 +1,61 @@
+{
+  "catalogId": "37ab34d7-3294-48c1-aca3-578ef48c4f85",
+  "name": "OMNIC OCAS 0.4 30 FILM COATED TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OMNIC OCAS 0.4 30 FILM COATED TAB",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OMNIC OCAS 0.4 30 FILM COATED TAB",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "75666",
+        "pharmasoft": "15336",
+        "moh": "6004"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 35.9941,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 49.311917,
+        "maxPriceWithVAT": 58.18806206,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:25:09.599238",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

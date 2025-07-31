@@ -1,0 +1,61 @@
+{
+  "catalogId": "73e2c1ff-ef3b-4a89-ad96-c8b440e21858",
+  "name": "TRUMENBA 60 MCG 0.5 ML 1 PFS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TRUMENBA 60 MCG 0. 1 PFS",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TRUMENBA 60 MCG 0.5 ML 1 PFS",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "35344",
+        "pharmasoft": "20975",
+        "moh": "8657"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 290.1667095,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 340.9458837,
+        "maxPriceWithVAT": 402.3161248,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:37:57.003096",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "catalogId": "cc7287fe-19d9-49c4-80c6-1dd93f4c561c",
+  "name": "OMNIC 0.4MG 30 M.R. CAPS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "capsule",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OMNIC 0.4MG 30 M.R. CAPS",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OMNIC 0.4MG 30 M.R. CAPS",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "17665",
+        "pharmasoft": "15117",
+        "moh": "3727"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 25.9509,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 35.552733,
+        "maxPriceWithVAT": 41.95222494,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:24:46.104412",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

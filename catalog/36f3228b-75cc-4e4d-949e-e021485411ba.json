@@ -1,0 +1,61 @@
+{
+  "catalogId": "36f3228b-75cc-4e4d-949e-e021485411ba",
+  "name": "RETAVIT CREAM 0.05% 20GR",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "cream",
+  "route": "topical",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "RETAVIT CREAM 0.05% 20GR",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "RETAVIT CREAM 0.05% 20GR",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 20.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "19792",
+        "pharmasoft": "18195",
+        "moh": "2343"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 15.0113,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 20.565481,
+        "maxPriceWithVAT": 24.26726758,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:30:22.017196",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

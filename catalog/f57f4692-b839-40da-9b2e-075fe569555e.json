@@ -1,0 +1,61 @@
+{
+  "catalogId": "f57f4692-b839-40da-9b2e-075fe569555e",
+  "name": "INDOVIS 25MG 30CAP",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "INDOVIS 25MG 30CAP",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "INDOVIS 25MG 30CAP",
+      "manufacturer": {
+        "name": "כ.צ.ט",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "8033",
+        "pharmasoft": "9172",
+        "moh": "2321"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 9.2324521,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 12.64845938,
+        "maxPriceWithVAT": 14.9251814,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:12:48.819810",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

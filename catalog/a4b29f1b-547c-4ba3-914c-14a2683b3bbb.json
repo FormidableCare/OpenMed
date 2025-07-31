@@ -1,0 +1,61 @@
+{
+  "catalogId": "a4b29f1b-547c-4ba3-914c-14a2683b3bbb",
+  "name": "PACLIAVENIR 6MG/ML 10VIAL (30MG/5ML)",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PACLIAVENIR 6MG/ML (30MG/)",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PACLIAVENIR 6MG/ML 10VIAL (30MG/5ML)",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "10415",
+        "pharmasoft": "16683",
+        "moh": "7275"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 1765.1605,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 1941.67655,
+        "maxPriceWithVAT": 2291.178329,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:27:04.550023",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

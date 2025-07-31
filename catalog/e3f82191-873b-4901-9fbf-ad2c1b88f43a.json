@@ -1,0 +1,61 @@
+{
+  "catalogId": "e3f82191-873b-4901-9fbf-ad2c1b88f43a",
+  "name": "EPREX/PROTECS 6000 IU/0.6ML 6SYRINGES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 6000 IU/0. 6SYRINGES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 6000 IU/0.6ML 6SYRINGES",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86983",
+        "pharmasoft": "5460",
+        "moh": "4428"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 1005.1386,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 1181.037855,
+        "maxPriceWithVAT": 1393.624669,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:09:22.215152",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

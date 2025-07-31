@@ -1,0 +1,61 @@
+{
+  "catalogId": "01f9f61c-605c-4ed2-8fed-a81d16e0dbd7",
+  "name": "HAEMATE-P 1000I.U 1VIAL/15ML",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "HAEMATE-P 1000I.U /",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "HAEMATE-P 1000I.U 1VIAL/15ML",
+      "manufacturer": {
+        "name": "סי אס אל",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "30797",
+        "pharmasoft": "8340",
+        "moh": "7003"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 3020.36283,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3322.399113,
+        "maxPriceWithVAT": 3920.430779,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:11:37.689954",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

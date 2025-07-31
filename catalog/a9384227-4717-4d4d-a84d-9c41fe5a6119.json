@@ -1,0 +1,61 @@
+{
+  "catalogId": "a9384227-4717-4d4d-a84d-9c41fe5a6119",
+  "name": "SALAZOPIRIN-EN 100TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALAZOPIRIN-EN",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SALAZOPIRIN-EN 100TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "1937",
+        "pharmasoft": "19427",
+        "moh": "1227"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 32.958825,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 45.15359025,
+        "maxPriceWithVAT": 53.28123413,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:31:07.003101",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

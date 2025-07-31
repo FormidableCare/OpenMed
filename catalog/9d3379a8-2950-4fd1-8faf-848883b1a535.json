@@ -1,0 +1,61 @@
+{
+  "catalogId": "9d3379a8-2950-4fd1-8faf-848883b1a535",
+  "name": "SPRYCEL 100MG 30 FC TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SPRYCEL 100MG 30 FC TAB",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SPRYCEL 100MG 30 FC TAB",
+      "manufacturer": {
+        "name": "ב.מ.ס",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "21587",
+        "pharmasoft": "19926",
+        "moh": "6627"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 4816.897537,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 5298.587291,
+        "maxPriceWithVAT": 6252.333003,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:32:32.639843",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

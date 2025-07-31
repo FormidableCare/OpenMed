@@ -1,0 +1,61 @@
+{
+  "catalogId": "ab376f63-b287-4a48-a508-3ef3005a9087",
+  "name": "OXERVATE 20 MCG/ML 7 VIAL",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "injection",
+  "route": "intramuscular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OXERVATE 20 MCG/ML",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXERVATE 20 MCG/ML 7 VIAL",
+      "manufacturer": {
+        "name": "מינד פארמה אירופה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 7.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "",
+        "pharmasoft": "",
+        "moh": "8523"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 411098.079,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 452207.8869,
+        "maxPriceWithVAT": 533605.2829,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:26:47.925537",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

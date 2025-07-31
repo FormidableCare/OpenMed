@@ -1,0 +1,61 @@
+{
+  "catalogId": "e0d61d49-5586-45dd-93fe-6cc46d3240ef",
+  "name": "MINOCLIN 100MG 10CAPS",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "capsule",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MINOCLIN 100MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MINOCLIN 100MG 10CAPS",
+      "manufacturer": {
+        "name": "רקח",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "16516",
+        "pharmasoft": "13674",
+        "moh": "6863"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 13.5623,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 18.580351,
+        "maxPriceWithVAT": 21.92481418,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:19:25.023941",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

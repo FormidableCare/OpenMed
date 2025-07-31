@@ -1,0 +1,61 @@
+{
+  "catalogId": "0cb386d6-b588-4f3a-b375-18ee770aea5a",
+  "name": "SALAZOPIRIN 500MG 100TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SALAZOPIRIN 500MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "SALAZOPIRIN 500MG 100TAB",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 100.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "1936",
+        "pharmasoft": "19002",
+        "moh": "1226"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 41.937885,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 56.40645533,
+        "maxPriceWithVAT": 66.55961432,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:30:49.421489",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

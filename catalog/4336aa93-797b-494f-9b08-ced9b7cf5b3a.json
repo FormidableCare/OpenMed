@@ -1,0 +1,61 @@
+{
+  "catalogId": "4336aa93-797b-494f-9b08-ced9b7cf5b3a",
+  "name": "EPREX/PROTECS 4000IU/0.4ML 6 SYRINGES",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPREX/PROTECS 4000IU/0. 6 SYRINGES",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EPREX/PROTECS 4000IU/0.4ML 6 SYRINGES",
+      "manufacturer": {
+        "name": "יאנסן סילג",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "86980",
+        "pharmasoft": "5458",
+        "moh": "4573"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 672.7647,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 790.4985225,
+        "maxPriceWithVAT": 932.7882566,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:08:37.959187",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}

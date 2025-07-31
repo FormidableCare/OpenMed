@@ -1,0 +1,61 @@
+{
+  "catalogId": "340fb1d9-3f9c-4c4e-9861-4e409f0ee783",
+  "name": "KLARIDEX 250MG 14TAB",
+  "status": "active",
+  "category": "prescription",
+  "registrationValidity": "not-registered",
+  "registrationNumber": "",
+  "treatmentDescriptions": "",
+  "termsOfIssue": "Prescription required. Dispense according to physician instructions.",
+  "form": "tablet",
+  "route": "oral",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "KLARIDEX 250MG",
+  "codes": {},
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "KLARIDEX 250MG 14TAB",
+      "manufacturer": {
+        "name": "דקסל פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 14.0,
+        "unit": "units"
+      },
+      "packagingDescription": "",
+      "shelfLife": "",
+      "storageConditions": "",
+      "codes": {
+        "yarpa": "22667",
+        "pharmasoft": "11102",
+        "moh": "3758"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "maxWholesalePrice": 19.2054,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 26.311398,
+        "maxPriceWithVAT": 31.04744964,
+        "currency": "ILS"
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-07-31T19:15:10.188557",
+    "tags": [
+      "failed_il_drug_match"
+    ]
+  }
+}
