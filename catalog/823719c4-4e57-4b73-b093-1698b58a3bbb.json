@@ -1,10 +1,10 @@
 {
   "catalogId": "823719c4-4e57-4b73-b093-1698b58a3bbb",
-  "name": "LEVETRIM 1000",
+  "name": "LEVETRIM 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "143 77 31941 00",
+  "registrationNumber": "143 76 31936 00",
   "treatmentDescriptions": "- Levetrim is indicated as adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults and children from 4 years of age with epilepsy. - Levetrim is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy. - Levetrim is indicated as monotherapy in the treatment of partial onset seizures with or without secondary generalization in patient from 16 years of age with newly diagnosed epilepsy. - Levetrim is indicated in the treatment of primary gneralized tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.836913",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEVETRIM 1000",
-        "registration": "143 77 31941 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETRIM 250",
-        "registration": "143 75 31935 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETRIM 500",
-        "registration": "143 76 31936 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:18.304202",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVETRIM 1000MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:18.304229",
+      "confidence": 95,
+      "reasoning": "The option 3, LEVETRIM 500, closely matches the medication LEVETRIM 1000 in terms of brand name similarity and strength compatibility. The only difference is in the strength, which can be attributed to a different formulation or dosage form.",
+      "selectedOption": 3,
+      "selectedRegistration": "143 76 31936 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

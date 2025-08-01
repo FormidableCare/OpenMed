@@ -1,10 +1,10 @@
 {
   "catalogId": "ac56dde8-c589-40f4-9885-013305587136",
-  "name": "UNDECYL POWDER",
+  "name": "UNDECYL OINTMENT",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "029 47 25330 00",
+  "registrationNumber": "137 46 21090 00",
   "treatmentDescriptions": "Prophylaxis and treatment of mycotic skin infections particulary athlete's  foot.",
   "termsOfIssue": "",
   "form": "powder",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.237808",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UNDECYL POWDER",
-        "registration": "029 47 25330 00",
-        "form": ""
-      },
-      {
-        "name": "UNDECYL OINTMENT",
-        "registration": "137 46 21090 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:01.394060",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UNDECYL POWDER 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:01.394065",
+      "confidence": 95,
+      "reasoning": "The option 2, UNDECYL OINTMENT, closely matches the medication UNDECYL POWDER in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "137 46 21090 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

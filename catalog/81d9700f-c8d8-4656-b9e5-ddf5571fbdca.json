@@ -1,10 +1,10 @@
 {
   "catalogId": "81d9700f-c8d8-4656-b9e5-ddf5571fbdca",
-  "name": "MONOLONG 40 MG",
+  "name": "MONOCORD 40",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "052 97 26218 00",
+  "registrationNumber": "049 99 26415 00",
   "treatmentDescriptions": "Prevention and treatment of angina pectoris.",
   "termsOfIssue": "",
   "form": "capsules slow release",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.873921",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MONOLONG 40 MG",
-        "registration": "052 97 26218 00",
-        "form": ""
-      },
-      {
-        "name": "MONOCORD 20",
-        "registration": "052 51 23128 00",
-        "form": ""
-      },
-      {
-        "name": "MONOCORD 40",
-        "registration": "049 99 26415 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:50.618462",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ISOSORBIDE DINITRATE SUBLINGUAL 5MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:50.618479",
+      "confidence": 95,
+      "reasoning": "The option \"MONOCORD 40\" closely matches the medication \"MONOLONG 40 MG\" in terms of brand name similarity, strength compatibility, and formulation. The registration numbers are different, but the key details align well.",
+      "selectedOption": 3,
+      "selectedRegistration": "049 99 26415 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

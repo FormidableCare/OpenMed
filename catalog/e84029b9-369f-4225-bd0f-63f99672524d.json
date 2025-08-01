@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.808102",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PECFENT 100",
-        "registration": "152 59 33975 01",
-        "form": ""
-      },
-      {
-        "name": "PECFENT 400",
-        "registration": "152 60 33978 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:27.217928",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PECFENT 400 4 BOTTLES*8 doses",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:27.217934",
+      "confidence": 95,
+      "reasoning": "The medication name, PECFENT 100, matches exactly with the provided medication. The registration number also matches, indicating the same product.",
+      "selectedOption": 1,
+      "selectedRegistration": "152 59 33975 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

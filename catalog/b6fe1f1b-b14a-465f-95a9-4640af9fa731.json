@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.938512",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MERCAPTIZOL",
-        "registration": "014 89 24453 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:35.840069",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "METHIMAZOLE 5MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:35.840082",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match.",
+      "selectedOption": 1,
+      "selectedRegistration": "014 89 24453 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

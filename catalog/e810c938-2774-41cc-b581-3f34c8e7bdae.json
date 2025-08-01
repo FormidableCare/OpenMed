@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.906806",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "XAMIOL",
-        "registration": "144 25 32996 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:15.851263",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "XAMIOL GEL 60GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:15.851268",
+      "confidence": 95,
+      "reasoning": "The brand name XAMIOL matches, the registration number is the same, and the formulation as a gel also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 25 32996 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

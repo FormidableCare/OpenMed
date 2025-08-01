@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.869265",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP STRAWBERRY FLAVOUR",
-        "registration": "140 18 31762 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP TUTTI-FRUTTI FLAVOUR",
-        "registration": "140 17 31761 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:41.593452",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOLI 150MG 12SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:41.593517",
+      "confidence": 95,
+      "reasoning": "The brand name, strength, and formulation of option 1 closely match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 18 31762 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

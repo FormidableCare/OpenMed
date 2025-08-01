@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.937946",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HISTAZINE",
-        "registration": "109 59 29304 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAZINE",
-        "registration": "104 99 28579 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:34.309674",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HISTAZINE 10MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:34.309692",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with high confidence.",
+      "selectedOption": 1,
+      "selectedRegistration": "109 59 29304 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

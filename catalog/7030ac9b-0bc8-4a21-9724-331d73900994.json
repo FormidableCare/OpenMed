@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 81 33335 00",
+  "registrationNumber": "147 81 33335 01",
   "treatmentDescriptions": "Parenteral nutrition for adults and children aged 2 years and above when oral or enteral nutrition is impossible, insufficient or contraindicated.",
   "termsOfIssue": "Prescription required",
   "form": "emulsion for infusion",
@@ -49,32 +49,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.327156",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 00",
-        "form": ""
-      },
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 03",
-        "form": ""
-      },
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:52.542221",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SMOFKABIVEN 1477ML/BAG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:52.542233",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and formulation match closely with only a slight variation in the registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "147 81 33335 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

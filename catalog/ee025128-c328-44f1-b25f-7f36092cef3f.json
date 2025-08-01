@@ -1,10 +1,10 @@
 {
   "catalogId": "ee025128-c328-44f1-b25f-7f36092cef3f",
-  "name": "KOATE DVI 1000",
+  "name": "KOATE DVI 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "117 90 29931 00",
+  "registrationNumber": "117 89 29930 00",
   "treatmentDescriptions": "For the treatment of classical hemophilia (hemophilia A)  in which there is a demonstrated deficiency of activity of the plasma clotting factor, factor VIII . Koate-DVI provides a means of temporarily replacing the missing clotting factor in order to control or prevent bleeding episodes, or in order to perform emergency and elective surgery on individuals with hemophilia.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.880711",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KOATE DVI 1000",
-        "registration": "117 90 29931 00",
-        "form": ""
-      },
-      {
-        "name": "KOATE DVI 250",
-        "registration": "117 88 29924 00",
-        "form": ""
-      },
-      {
-        "name": "KOATE DVI 500",
-        "registration": "117 89 29930 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:46.376844",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KOATE DVI 500IU/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:46.376853",
+      "confidence": 95,
+      "reasoning": "The option 3, KOATE DVI 500, closely matches the medication KOATE DVI 1000 in terms of brand name similarity, strength compatibility (500.0iu), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "117 89 29930 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

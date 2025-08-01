@@ -1,10 +1,10 @@
 {
   "catalogId": "c9428890-ebdf-4ea5-aff3-5c860574d308",
-  "name": "BACLOSAL 10",
+  "name": "BACLOSAL 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "046 07 23779 02",
+  "registrationNumber": "045 34 23780 04",
   "treatmentDescriptions": "Muscle spasticity of various origins.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.267599",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BACLOSAL 10",
-        "registration": "046 07 23779 02",
-        "form": ""
-      },
-      {
-        "name": "BACLOSAL 25",
-        "registration": "045 34 23780 04",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:34.377537",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BACLOSAL 25MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:34.377553",
+      "confidence": 95,
+      "reasoning": "The option 2, BACLOSAL 25, closely matches the medication BACLOSAL 10 in terms of brand name similarity, strength compatibility (25.0mg), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "045 34 23780 04",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

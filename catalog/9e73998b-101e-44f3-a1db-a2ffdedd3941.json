@@ -1,10 +1,10 @@
 {
   "catalogId": "9e73998b-101e-44f3-a1db-a2ffdedd3941",
-  "name": "PRAVALIP 10",
+  "name": "PRAVALIP 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 80 31134 01",
+  "registrationNumber": "132 79 31135 01",
   "treatmentDescriptions": "Pravastatin is indicated as a component of multiple risk factor intervention in those individuals at increased risk for atherosclerotic vascular disease due to hypercholesterolemia . Pravastatin should be used in addition to a diet  and other nonpharmacological measures alone has been inadequate.    Primary prevention of coronary events: In hypercholesterolemic patients wihthout clinically evident coronary heart disease  pravastatin is indicated to:   1) Reduce the risk of myocardial infarcton.   2) Reduce the risk for revascularization.   3) Reduce the risk of deaths due to cardiovascular causes with no increase in death non-cardiovascular causes.   Secondary prevention of cardiovascular events:    a) Atherosclerosis: In hypercholesterolemic patients with clinically evident coronary artery disease  including prior MI  pravastatin  is indicated to:      1)Slow the progression of coronary atherosclerosis.      2) Reduce the risk of acute coronary events.     b) Myocardial infarction: in patients with previous myocardial infarction  and normal cholesterol levels. Pravastatin is indicated to:      1) Reduce the risk of recurrent myocardial infarction.       2)Reduce the risk of undergoing myocardial revascularization procedures.       3) Reduce the risk of stroke or transient ischemic attack (TIA).     c) Hypercholesterolemia and mixed dyslipidemia: Pravastatin is indicated as an adjunct to diet to reduce elevated Total-C  LDL-C and TG levels in patients with primary hypercholesterolemia and mixed dyslipidemia (Frederickson Type IIa and IIb).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.730963",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRAVALIP 10",
-        "registration": "132 80 31134 01",
-        "form": ""
-      },
-      {
-        "name": "PRAVALIP 20",
-        "registration": "132 79 31135 01",
-        "form": ""
-      },
-      {
-        "name": "PRAVALIP 40",
-        "registration": "132 78 31136 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:42.622621",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRAVASTATIN-TEVA 20MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:42.622635",
+      "confidence": 95,
+      "reasoning": "The option 2, PRAVALIP 20, closely matches the medication PRAVALIP 10 in terms of brand name similarity, strength compatibility (20.0mg), and formulation. The only difference is in the strength, which seems to be a typographical error.",
+      "selectedOption": 2,
+      "selectedRegistration": "132 79 31135 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

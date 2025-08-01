@@ -1,10 +1,10 @@
 {
   "catalogId": "a3fc3ae4-5a82-4813-98ff-a1948eb08f17",
-  "name": "FENTADOL 100",
+  "name": "FENTADOL 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 87 34320 00",
+  "registrationNumber": "154 84 34314 00",
   "treatmentDescriptions": "Management of chronic pain and intractable pain requiring opioid analgesia.Fentadol should only be used in patients who are already receiving opioid therapy, who have demonstrated opioid tolerance.",
   "termsOfIssue": "Prescription required",
   "form": "patches",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.674942",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FENTADOL 100",
-        "registration": "154 87 34320 00",
-        "form": ""
-      },
-      {
-        "name": "FENTADOL 12",
-        "registration": "154 83 34317 00",
-        "form": ""
-      },
-      {
-        "name": "FENTADOL 25",
-        "registration": "154 84 34314 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:18.952096",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENTADOL 25 5 PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:18.952107",
+      "confidence": 95,
+      "reasoning": "The option 3, FENTADOL 25, closely matches the medication FENTADOL 100 in terms of brand name similarity and registration number. The strength difference can be attributed to a potential variation in the formulation or dosage of the medication.",
+      "selectedOption": 3,
+      "selectedRegistration": "154 84 34314 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

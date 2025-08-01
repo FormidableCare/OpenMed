@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.087062",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRONCHO D",
-        "registration": "058 88 27178 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE SYRUP",
-        "registration": "121 24 30198 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE FORTE",
-        "registration": "066 84 27528 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:06.732828",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DIPHENHYDRAMINE HCL 50MG/ML 25 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:06.732835",
+      "confidence": 95,
+      "reasoning": "The medication name \"BRONCHO D\" matches, and the registration number is identical. The strength and formulation details are not provided in the task, but based on the name and registration number, option 1 is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "058 88 27178 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

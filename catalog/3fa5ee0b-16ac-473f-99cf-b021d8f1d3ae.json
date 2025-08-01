@@ -1,10 +1,10 @@
 {
   "catalogId": "3fa5ee0b-16ac-473f-99cf-b021d8f1d3ae",
-  "name": "VAXIGRIP",
+  "name": "VAXIGRIP TETRA",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "179 71 38363 00",
+  "registrationNumber": "160 19 35153 00",
   "treatmentDescriptions": "Prevention of influenza disease caused by the two influenza A virus subtypes and the influenza B virus type contained in the vaccine for:- active immunisation of adults, including pregnant women, and children from 6 months of age and older, - passive protection of infant(s) from birth to less than 6 months of age following vaccination of pregnant women The use of Vaxigrip should be based on official recommendations on vaccination against influenza",
   "termsOfIssue": "Prescription required",
   "form": "suspension for injection",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.462944",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VAXIGRIP",
-        "registration": "179 71 38363 00",
-        "form": ""
-      },
-      {
-        "name": "VAXIGRIP TETRA",
-        "registration": "160 19 35153 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:44.843060",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VAXIGRIP VIAL 0.5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:44.843072",
+      "confidence": 95,
+      "reasoning": "The option 2, VAXIGRIP TETRA, closely matches the medication VAXIGRIP in terms of brand name similarity and formulation. The strength and registration numbers are different, but the overall similarity is high.",
+      "selectedOption": 2,
+      "selectedRegistration": "160 19 35153 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

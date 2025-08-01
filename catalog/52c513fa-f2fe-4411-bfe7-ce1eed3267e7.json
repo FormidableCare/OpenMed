@@ -75,32 +75,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.927564",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GIROFLOX",
-        "registration": "133 31 30984 00",
-        "form": ""
-      },
-      {
-        "name": "NAFLOXIN",
-        "registration": "155 32 34358 00",
-        "form": ""
-      },
-      {
-        "name": "CETRAXAL",
-        "registration": "148 13 33374 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:29.387447",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GIROFLOX 200MG/100ML (200ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:29.387459",
+      "confidence": 95,
+      "reasoning": "The medication GIROFLOX matches option 1 based on the brand name similarity, registration number, and strength compatibility.",
+      "selectedOption": 1,
+      "selectedRegistration": "133 31 30984 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

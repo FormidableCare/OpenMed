@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.009875",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TOBREX OPHTHALMIC OINTMENT",
-        "registration": "047 16 22795 00",
-        "form": ""
-      },
-      {
-        "name": "EYETOBRIN",
-        "registration": "179 19 37677 99",
-        "form": ""
-      },
-      {
-        "name": "BRAMITOB",
-        "registration": "144 24 32986 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:48.970170",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TOBREX OINT 3.5GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:48.970182",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TOBREX OPHTHALMIC OINTMENT in terms of brand name similarity, strength (3.5g), and formulation (ophthalmic ointment). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "047 16 22795 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

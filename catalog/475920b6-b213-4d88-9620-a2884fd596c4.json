@@ -1,10 +1,10 @@
 {
   "catalogId": "475920b6-b213-4d88-9620-a2884fd596c4",
-  "name": "FUCIDIN",
+  "name": "FUCIDIN H",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 49 24510 00",
+  "registrationNumber": "129 68 29439 00",
   "treatmentDescriptions": "For the treatment of infections caused by Staphylococcus.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.268897",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FUCIDIN",
-        "registration": "100 49 24510 00",
-        "form": ""
-      },
-      {
-        "name": "FUCIDIN H",
-        "registration": "129 68 29439 00",
-        "form": ""
-      },
-      {
-        "name": "FUCIDIN OINTMENT",
-        "registration": "056 28 26528 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:36.145698",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FUCIDIN OINT 2% 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:36.145709",
+      "confidence": 95,
+      "reasoning": "The option 2, FUCIDIN H, closely matches the medication FUCIDIN in terms of brand name similarity and strength compatibility. The formulation is likely to be similar as well, given the high confidence level.",
+      "selectedOption": 2,
+      "selectedRegistration": "129 68 29439 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

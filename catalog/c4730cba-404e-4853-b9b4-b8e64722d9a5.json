@@ -66,32 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.002106",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTRIVIN",
-        "registration": "115 43 22229 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN NASAL GEL",
-        "registration": "032 82 22228 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN KIDS",
-        "registration": "108 21 23658 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:05.599541",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OTRIVIN PED DPS 0.05% 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:05.599554",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication OTRIVIN in terms of brand name, registration number, and formulation. The strength of 0.05% also aligns with the original medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 43 22229 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

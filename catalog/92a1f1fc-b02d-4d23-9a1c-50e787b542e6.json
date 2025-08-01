@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.127429",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FINASTERIDE TEVA",
-        "registration": "140 59 31427 00",
-        "form": ""
-      },
-      {
-        "name": "PROAVENIR",
-        "registration": "150 83 33638 00",
-        "form": ""
-      },
-      {
-        "name": "PROAVENIR",
-        "registration": "150 83 33638 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:41.415783",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FINASTERIDE TEVA 1MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:41.415793",
+      "confidence": 95,
+      "reasoning": "The medication name, FINASTERIDE TEVA, strength (1.0mg), and registration number (140 59 31427 00) all match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 59 31427 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

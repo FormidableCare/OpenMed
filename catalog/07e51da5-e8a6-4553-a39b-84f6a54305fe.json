@@ -1,10 +1,10 @@
 {
   "catalogId": "07e51da5-e8a6-4553-a39b-84f6a54305fe",
-  "name": "ISADERM VETERINARY",
+  "name": "ISATHAL VETERINARY",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "082 41 92173 00",
+  "registrationNumber": "082 40 92174 00",
   "treatmentDescriptions": "For the topical treatment of surface pyoderma in dogs such as acute moist dermatitis (\"hot spots\") and intertrigo (skin fold dermatitis) in dogs.",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.271069",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ISADERM VETERINARY",
-        "registration": "082 41 92173 00",
-        "form": ""
-      },
-      {
-        "name": "ISATHAL VETERINARY",
-        "registration": "082 40 92174 00",
-        "form": ""
-      },
-      {
-        "name": "STAPHIDERM - B",
-        "registration": "177 40 37155 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:39.960403",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FUSID 40MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:39.960408",
+      "confidence": 95,
+      "reasoning": "Brand name similarity (ISADERM vs ISATHAL), strength compatibility (40.0mg), both are veterinary medications.",
+      "selectedOption": 2,
+      "selectedRegistration": "082 40 92174 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

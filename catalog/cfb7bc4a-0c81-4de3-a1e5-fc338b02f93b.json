@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.091118",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIPROSPAN INJECTION",
-        "registration": "047 07 24139 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:18.040296",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DIPROSPAN 1AMPX1ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:18.040308",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided details for DIPROSPAN INJECTION.",
+      "selectedOption": 1,
+      "selectedRegistration": "047 07 24139 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

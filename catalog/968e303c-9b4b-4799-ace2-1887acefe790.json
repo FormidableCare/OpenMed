@@ -68,22 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.868153",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VENORUTON CAPSULES 300 MG",
-        "registration": "115 96 22946 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:39.833943",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VENORUTON GEL 2% 40G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:39.833950",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 96 22946 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

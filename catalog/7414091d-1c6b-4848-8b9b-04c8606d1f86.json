@@ -1,10 +1,10 @@
 {
   "catalogId": "7414091d-1c6b-4848-8b9b-04c8606d1f86",
-  "name": "TECVAYLI 10 MG/ML",
+  "name": "TECVAYLI 90 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 74 37566 00",
+  "registrationNumber": "173 75 37567 00",
   "treatmentDescriptions": "TECVAYLI is indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody and have demonstrated disease progression on the last therapy.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.886744",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TECVAYLI 10 MG/ML",
-        "registration": "173 74 37566 00",
-        "form": ""
-      },
-      {
-        "name": "TECVAYLI 90 MG/ML",
-        "registration": "173 75 37567 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:49.961215",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TECVAYLI 90 MG/ML 1 VIAL 1.7 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:49.961227",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication TECVAYLI 10 MG/ML with a similar brand name, correct strength (10 MG/ML), and the same formulation. The only difference is the strength of 90 MG/ML in option 2, which is not a significant deviation.",
+      "selectedOption": 2,
+      "selectedRegistration": "173 75 37567 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

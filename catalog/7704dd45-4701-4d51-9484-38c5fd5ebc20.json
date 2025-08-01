@@ -1,10 +1,10 @@
 {
   "catalogId": "7704dd45-4701-4d51-9484-38c5fd5ebc20",
-  "name": "STATOR 10",
+  "name": "STATOR 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "143 13 31932 02",
+  "registrationNumber": "143 15 31934 02",
   "treatmentDescriptions": "Primary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as  an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise  weight reduction ) is inadequate.  Homozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.163300",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STATOR 10",
-        "registration": "143 13 31932 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 20",
-        "registration": "143 14 31933 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 40",
-        "registration": "143 15 31934 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:23.719651",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STATOR 40MG 28FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:23.719663",
+      "confidence": 95,
+      "reasoning": "The medication \"STATOR 10\" with a strength of 40.0mg matches the option \"STATOR 40\" with a similar brand name, correct strength, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "143 15 31934 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

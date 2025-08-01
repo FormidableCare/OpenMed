@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.064116",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUNLENCA FILM-COATED TABLETS",
-        "registration": "173 21 37470 99",
-        "form": ""
-      },
-      {
-        "name": "SUNLENCA SOLUTION FOR INECTION",
-        "registration": "173 22 37473 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:58.506778",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SUNLENCA 463.5 MG 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:58.506783",
+      "confidence": 95,
+      "reasoning": "The medication name, SUNLENCA FILM-COATED TABLETS, strength (463.5mg), and formulation (tablet) all match with Option 1. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "173 21 37470 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

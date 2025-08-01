@@ -66,27 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.758857",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CORSODYL DENTAL GEL",
-        "registration": "114 62 29571 21",
-        "form": ""
-      },
-      {
-        "name": "CORSODYL MOUTHWASH",
-        "registration": "029 96 21599 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:30.225276",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CORSODYL MINT 0.2% SOL 300ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:30.225299",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication CORSODYL DENTAL GEL in terms of brand name, registration number, strength (0.2%), and formulation (gel).",
+      "selectedOption": 1,
+      "selectedRegistration": "114 62 29571 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

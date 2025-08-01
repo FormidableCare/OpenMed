@@ -1,10 +1,10 @@
 {
   "catalogId": "a33b9e80-8cc2-4c96-8ff9-197798966e83",
-  "name": "IOPAMIRO 300",
+  "name": "MIRO 30",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "020 40 24483 11",
+  "registrationNumber": "128 62 30738 02",
   "treatmentDescriptions": "X-ray contrast medium in neuroradiology, angiography, urography, ct scanning, arthrography and fistulography",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.513044",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IOPAMIRO 300",
-        "registration": "020 40 24483 11",
-        "form": ""
-      },
-      {
-        "name": "IOPAMIRO 370",
-        "registration": "020 41 24526 11",
-        "form": ""
-      },
-      {
-        "name": "MIRO 30",
-        "registration": "128 62 30738 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:08.036242",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MIRO 30MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:08.036257",
+      "confidence": 95,
+      "reasoning": "The medication IOPAMIRO 300 with a strength of 30.0mg closely matches the option \"MIRO 30\" with a similar strength of 30mg. The brand name similarity and strength compatibility indicate a high likelihood of a match.",
+      "selectedOption": 3,
+      "selectedRegistration": "128 62 30738 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

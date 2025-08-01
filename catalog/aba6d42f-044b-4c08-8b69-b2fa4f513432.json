@@ -1,10 +1,10 @@
 {
   "catalogId": "aba6d42f-044b-4c08-8b69-b2fa4f513432",
-  "name": "HISTAFED",
+  "name": "HISTAFED SYRUP",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "027 94 21825 00",
+  "registrationNumber": "107 14 21824 00",
   "treatmentDescriptions": "For the symptomatic relief of congestion such as rhinitis and associated allergic conditions.",
   "termsOfIssue": "",
   "form": "film coated tablets",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.805974",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HISTAFED",
-        "registration": "027 94 21825 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAFED EXPECTORANT SYRUP",
-        "registration": "050 31 26252 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAFED SYRUP",
-        "registration": "107 14 21824 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:25.619118",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HISTAFED 20 DRAG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:25.619123",
+      "confidence": 95,
+      "reasoning": "The option 3, \"HISTAFED SYRUP,\" closely matches the medication \"HISTAFED\" in terms of brand name similarity and formulation (both are syrups). The registration numbers are also similar, differing only in the last two digits.",
+      "selectedOption": 3,
+      "selectedRegistration": "107 14 21824 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

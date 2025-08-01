@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.106250",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TREVICTA",
-        "registration": "157 43 34606 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:32.982969",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TREVICTA 175MG/0.875ML SYR PREFILLED",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:32.982980",
+      "confidence": 95,
+      "reasoning": "The medication name, TREVICTA, registration number, and formulation all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 43 34606 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.664756",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HISTAZINE",
-        "registration": "109 59 29304 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAZINE",
-        "registration": "104 99 28579 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:11.437842",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HISTAZINE SYRUP 115ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:11.437848",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "109 59 29304 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -69,27 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.859101",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LOPRESOR DIVITABS 200 MG",
-        "registration": "045 04 22324 00",
-        "form": ""
-      },
-      {
-        "name": "NEOBLOC",
-        "registration": "010 52 24172 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:15.483270",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "METOPROLOL 5MG/5ML 10VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:15.483283",
+      "confidence": 95,
+      "reasoning": "The medication \"LOPRESOR DIVITABS 200 MG\" matches with Option 1 based on the brand name similarity, strength compatibility, and formulation. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "045 04 22324 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

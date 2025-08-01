@@ -1,10 +1,10 @@
 {
   "catalogId": "1793abdc-8681-4e0e-8207-06432ace866b",
-  "name": "REMOTIV 250",
+  "name": "REMOTIV 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "130 71 30720 00",
+  "registrationNumber": "141 28 31607 01",
   "treatmentDescriptions": "Symptoms of mild to moderate depression including: dejected mood, mood lability, inner restlessness, anxiety, states of tension and the difficulty in falling asleep and sleeping through the night which is associated with these conditions. Treatment is recommended for up to 24 weeks.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.836401",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REMOTIV 250",
-        "registration": "130 71 30720 00",
-        "form": ""
-      },
-      {
-        "name": "REMOTIV 500",
-        "registration": "141 28 31607 01",
-        "form": ""
-      },
-      {
-        "name": "REMOTIV 500",
-        "registration": "141 28 31607 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:16.586560",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REMOTIV 500MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:16.586571",
+      "confidence": 95,
+      "reasoning": "The option 2, REMOTIV 500, matches the medication REMOTIV 250 in terms of brand name similarity, strength compatibility (500.0mg), and formulation. The registration numbers are different, but this could be due to variations in different markets or formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "141 28 31607 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

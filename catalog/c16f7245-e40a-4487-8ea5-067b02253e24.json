@@ -71,27 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.756526",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GEMCITABINE TEVA ® CONCENTRATE",
-        "registration": "150 90 33868 00",
-        "form": ""
-      },
-      {
-        "name": "GEMCITABINE \"EBEWE\" 40MG/ML",
-        "registration": "145 95 33400 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:12.557069",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GEMCITABINE TEVA CONCENTRATE 40MG/ML (1000MG/25ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:12.557083",
+      "confidence": 95,
+      "reasoning": "Both options are Gemcitabine concentrates with similar strength (1000mg vs. 40mg/ml) and formulation. The brand name similarity and registration numbers also indicate a high likelihood of a match.",
+      "selectedOption": 1,
+      "selectedRegistration": "150 90 33868 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

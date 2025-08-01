@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.400703",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TAKHZYRO",
-        "registration": "163 47 35885 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:13.479640",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TAKHZYRO 300 MG/2 ML 2 PFS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:13.479647",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength of TAKHZYRO match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 47 35885 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

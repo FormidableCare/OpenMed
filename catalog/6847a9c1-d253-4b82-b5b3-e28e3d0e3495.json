@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.051439",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VINORELBINE- TRIMA 10 MG/ML",
-        "registration": "152 41 33971 00",
-        "form": ""
-      },
-      {
-        "name": "VINORELBIN \"EBEWE\" 10 MG/ML",
-        "registration": "136 44 31351 00",
-        "form": ""
-      },
-      {
-        "name": "VINORELBINE S.K. 20 MG",
-        "registration": "168 46 36145 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:42.499512",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VINORELBIN EBEWE 10 MG/ML 1 vial",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03571428571428572,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:42.499522",
+      "confidence": 95,
+      "reasoning": "The medication VINORELBIN \"EBEWE\" 10 MG/ML matches with option 2 VINORELBIN \"EBEWE\" 10 MG/ML as they have the same brand name, strength, formulation, and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "136 44 31351 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

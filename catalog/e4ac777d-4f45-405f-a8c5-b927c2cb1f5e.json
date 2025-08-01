@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.066684",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GAMUNEX ® - C",
-        "registration": "132 95 31058 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:03.629287",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GAMUNEX C 0.1G/ML 5GR 50ML SOLUTION FOR INJECTION",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:03.629292",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match with the provided medication details. The only missing information is the strength, which is common in matching tasks.",
+      "selectedOption": 1,
+      "selectedRegistration": "132 95 31058 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

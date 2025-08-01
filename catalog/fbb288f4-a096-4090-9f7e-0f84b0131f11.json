@@ -1,10 +1,10 @@
 {
   "catalogId": "fbb288f4-a096-4090-9f7e-0f84b0131f11",
-  "name": "OZURDEX",
+  "name": "DESO CARE",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 03 33284 00",
+  "registrationNumber": "155 19 34691 00",
   "treatmentDescriptions": "Ozurdex is indicated for the treatment of adult patients with:• diabetic macular oedema (DME)• macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO).• inflammation of the posterior segment of the eye presenting as non-infectious uveitis.",
   "termsOfIssue": "Prescription required",
   "form": "implant in applicator",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.179006",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OZURDEX",
-        "registration": "147 03 33284 00",
-        "form": ""
-      },
-      {
-        "name": "AURIZON VETERINARY",
-        "registration": "082 47 92301 00",
-        "form": ""
-      },
-      {
-        "name": "DESO CARE",
-        "registration": "155 19 34691 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:49.589375",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OZURDEX 0.7MG IMPLANT IN APPLICATOR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:49.589380",
+      "confidence": 95,
+      "reasoning": "The medication OZURDEX matches with option 3, DESO CARE, based on the similarity in brand name and the presence of a 0.7mg strength.",
+      "selectedOption": 3,
+      "selectedRegistration": "155 19 34691 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

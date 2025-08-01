@@ -1,10 +1,10 @@
 {
   "catalogId": "841334cb-3ed7-47ef-8d89-27b157b2577d",
-  "name": "ENDOXAN 1 G INJECTION",
+  "name": "ENDOXAN 500 MG INJECTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 19 29660 02",
+  "registrationNumber": "144 18 29659 02",
   "treatmentDescriptions": "Malignant Diseases: Cycophosphamide although effective alone in susceptible melignancies  is more frequently used concurrently or sequentially with other antineoplastic drugs. The following malignancies are often susceptible.  Cycophosphamide treatment:   1) Malignant lymphomas (Stages III and IV of the Ann Arbor staging system)  Hodgkin`s disease  lymphocytic lymphoma (nodular or diffuse)  mixed-cell type lymphoma  histiocytic lymphoma  Burkitt`s lymphoma.   2) Multiple myeloma.   3) Leukemias: Chronic lymphocytic leukemia  chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis)  acute myelogenous and monocytic leukemia  acute lymphoblastic (stemcell) leukemia in children.   4) Mycosis fungoides (advenced disease).   5) Neuroblastoma (disseminated disease).   6) Adenocarcinoma of the ovary.  7) Retinoblastoma.   8) Carcinoma of the breast.   Nonmallgnant Disease Biopsy proven \"Minimal Change\" nephrotic syndrome in children whose disease fails to respond adequately to another treatment. Severe cases of systemic lupus Erythematos as which did not respond to other treatment  especially with nephritis",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.947071",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ENDOXAN 1 G INJECTION",
-        "registration": "144 19 29660 02",
-        "form": ""
-      },
-      {
-        "name": "ENDOXAN 500 MG INJECTION",
-        "registration": "144 18 29659 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:17.682847",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ENDOXAN 1G/50ML 1INJ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:17.682866",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Endoxan 1 G Injection with a strength of 500 mg, which is close to the 1 g strength mentioned in the medication name. Both options are injections with similar formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "144 18 29659 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

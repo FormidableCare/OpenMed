@@ -55,22 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.759278",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FERROCAL TABLETS",
-        "registration": "137 54 25091 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:31.853302",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FERROCAL 500MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:31.853318",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match with the given option.",
+      "selectedOption": 1,
+      "selectedRegistration": "137 54 25091 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "18a2b16b-c7ff-421c-b1d3-563cb56f48d7",
-  "name": "CONTROLOC 20 MG",
+  "name": "CONTROLOC 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "116 36 29745 00",
+  "registrationNumber": "104 40 28684 00",
   "treatmentDescriptions": "For the treatment of reflux oesophagitis and associated symptoms (e.g. heartburn, acid regurgitation, pain on swallowing).For long-term management and prevention of relapse in reflux oesophagitis.Prevention of gastroduodenal ulcers induced by non-selective non-steroidal anti-inflammatory drugs (NSAIDs) in patients at risk with a need for continuous NSAIDs treatment.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.846385",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CONTROLOC 20 MG",
-        "registration": "116 36 29745 00",
-        "form": ""
-      },
-      {
-        "name": "CONTROLOC 40",
-        "registration": "104 40 28684 00",
-        "form": ""
-      },
-      {
-        "name": "CONTROLOC I.V.",
-        "registration": "129 41 30772 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:06.632686",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CONTROLOC 40MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:06.632718",
+      "confidence": 95,
+      "reasoning": "The option 2, CONTROLOC 40, closely matches the medication CONTROLOC 20 MG in terms of brand name similarity and strength compatibility.",
+      "selectedOption": 2,
+      "selectedRegistration": "104 40 28684 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

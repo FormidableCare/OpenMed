@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.686999",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CEFOVIT 250",
-        "registration": "026 84 25145 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE 500",
-        "registration": "026 85 25146 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE SUSPENSION",
-        "registration": "026 83 25148 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:38.642447",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CEFOVIT 125 SUSP 60ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:38.642462",
+      "confidence": 95,
+      "reasoning": "The medication CEFOVIT 250 matches with option 1 as they have the same brand name, strength (250), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "026 84 25145 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

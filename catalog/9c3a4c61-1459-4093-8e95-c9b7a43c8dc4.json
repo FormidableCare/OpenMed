@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.772998",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PARAMOL",
-        "registration": "127 96 30764 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL DAY CARE",
-        "registration": "127 91 30769 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL NIGHT CARE",
-        "registration": "127 90 30770 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:46.156792",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARAMOL KAT 20 CHEWABLE TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:46.156804",
+      "confidence": 95,
+      "reasoning": "The brand name \"PARAMOL\" matches exactly, the registration number is the same, and the formulation as a tablet is also consistent.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 96 30764 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

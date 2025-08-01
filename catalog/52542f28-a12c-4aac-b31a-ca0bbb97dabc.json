@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 68 34097 01",
+  "registrationNumber": "152 68 34097 00",
   "treatmentDescriptions": "- Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function ( ejection fraction < 35 %, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides.- Hypertension. - Coronary heart disease (angina pectoris).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.115399",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
-        "registration": "152 68 34097 01",
-        "form": ""
-      },
-      {
-        "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
-        "registration": "152 68 34097 00",
-        "form": ""
-      },
-      {
-        "name": "BISOPROLOL FUMARATE INOVAMED 2.5 MG",
-        "registration": "152 66 34099 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:27.963887",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROLOL 40MG 50TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:27.963899",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication BISOPROLOL FUMARATE INOVAMED 10 MG with the same strength, formulation, and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "152 68 34097 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

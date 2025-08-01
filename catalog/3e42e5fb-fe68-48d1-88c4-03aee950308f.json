@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.013536",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MAXITROL OPHTHALMIC SUSPENSION",
-        "registration": "116 23 22787 00",
-        "form": ""
-      },
-      {
-        "name": "MAXITROL OPHTHALMIC OINTMENT",
-        "registration": "128 53 28210 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:56.460277",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MAXITROL OINT 3.5GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:56.460287",
+      "confidence": 95,
+      "reasoning": "The medication name, Maxitrol Ophthalmic Suspension, matches exactly. The registration numbers are the same. The strength of 3.5g also matches. The formulation of suspension matches the option provided.",
+      "selectedOption": 1,
+      "selectedRegistration": "116 23 22787 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

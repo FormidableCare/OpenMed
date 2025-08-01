@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.635958",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARIOL",
-        "registration": "168 51 36732 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:21.354748",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARIOL GEL 30 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:21.354760",
+      "confidence": 95,
+      "reasoning": "The brand name \"TARIOL\" and registration number match, and the formulation \"gel\" is the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "168 51 36732 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

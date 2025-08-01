@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.318459",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABROLET SUPPOSITORIES",
-        "registration": "027 21 24032 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:43.666356",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ABROLET 150MG 12SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:43.666369",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "027 21 24032 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

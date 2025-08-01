@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.632970",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 01",
-        "form": ""
-      },
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 00",
-        "form": ""
-      },
-      {
-        "name": "YAZ PLUS",
-        "registration": "152 82 33905 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:18.104768",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YAZ PLUS 1X28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:18.104791",
+      "confidence": 95,
+      "reasoning": "The brand name \"YAZ\" matches exactly, and the registration number is the same. The strength and formulation information is missing in both the medication and the option, so it is not a factor in this case.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 04 32023 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

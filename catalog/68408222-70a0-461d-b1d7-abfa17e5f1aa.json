@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.936080",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IMFINZI",
-        "registration": "159 97 35280 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:31.151425",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IMFINZI 500 MG/10 ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:31.151431",
+      "confidence": 95,
+      "reasoning": "The brand name \"IMFINZI\" matches, and the registration number is the same. The strength and formulation details are also compatible.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 97 35280 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

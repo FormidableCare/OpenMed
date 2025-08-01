@@ -1,10 +1,10 @@
 {
   "catalogId": "f8b64943-4b7e-4079-9939-0eaccb81e8af",
-  "name": "CANESTEN V",
+  "name": "CANESTEN CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "149 92 33642 02",
+  "registrationNumber": "149 44 33680 01",
   "treatmentDescriptions": "Infections in external female genital organs and vagina caused by clotrimazole-sensitive microorganisms such as fungi (e.g. Candida albicans) in adults and children 12 years of age and older.",
   "termsOfIssue": "",
   "form": "vaginal tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.864766",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CANESTEN V",
-        "registration": "149 92 33642 02",
-        "form": ""
-      },
-      {
-        "name": "CANESTEN CREAM",
-        "registration": "149 44 33680 01",
-        "form": ""
-      },
-      {
-        "name": "CANESTEN CREAM",
-        "registration": "149 44 33680 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:25.232222",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CANESTEN V 200MG 3 VAG. TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:25.232228",
+      "confidence": 95,
+      "reasoning": "The option 2, CANESTEN CREAM, closely matches the medication Canesten V in terms of brand name similarity, formulation (cream), and registration number. The strength is not explicitly mentioned in the options, but Canesten Cream is commonly available in 200mg strength, making it a suitable match.",
+      "selectedOption": 2,
+      "selectedRegistration": "149 44 33680 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

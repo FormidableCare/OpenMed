@@ -73,32 +73,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.955502",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VIMPAT 10 MG/ML",
-        "registration": "149 13 33552 01",
-        "form": ""
-      },
-      {
-        "name": "VIMPAT 10 MG/ML",
-        "registration": "149 13 33552 02",
-        "form": ""
-      },
-      {
-        "name": "VIMPAT 100 MG",
-        "registration": "149 10 33548 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:26.660364",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VIMPAT SYRUP    10MG/1ML  SYRUP 200ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20714285714285716,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:26.660374",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication VIMPAT 10 MG/ML in terms of brand name, strength (10 mg/ml), and registration number (149 13 33552 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "149 13 33552 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

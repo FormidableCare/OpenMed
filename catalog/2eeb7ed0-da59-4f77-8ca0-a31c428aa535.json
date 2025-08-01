@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.932695",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SILVEROL CREAM",
-        "registration": "020 56 20515 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:53.518460",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SILVER NITRATE 75% BOTTLE 100 APPLICATORS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:53.518475",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication SILVEROL CREAM in terms of brand name, registration number, and formulation (cream). The strength of 75.0% is also compatible.",
+      "selectedOption": 1,
+      "selectedRegistration": "020 56 20515 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

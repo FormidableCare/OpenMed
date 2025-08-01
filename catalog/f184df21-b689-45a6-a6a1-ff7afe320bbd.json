@@ -1,10 +1,10 @@
 {
   "catalogId": "f184df21-b689-45a6-a6a1-ff7afe320bbd",
-  "name": "ASACOL 1600",
+  "name": "ASACOL 400",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 09 36782 99",
+  "registrationNumber": "065 99 25654 00",
   "treatmentDescriptions": "ASACOL 1600 is indicated for:Ulcerative colitis-For the treatment of mild to moderate acute disease-For the maintenance of remission",
   "termsOfIssue": "Prescription required",
   "form": "modified release tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.173435",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ASACOL 1600",
-        "registration": "174 09 36782 99",
-        "form": ""
-      },
-      {
-        "name": "ASACOL 400",
-        "registration": "065 99 25654 00",
-        "form": ""
-      },
-      {
-        "name": "ASACOL 800",
-        "registration": "133 39 31029 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:40.298279",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ASACOL 400MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:40.298292",
+      "confidence": 95,
+      "reasoning": "The option 2, ASACOL 400, matches the medication ASACOL 1600 in terms of brand name similarity, strength compatibility (400.0mg), and both being in tablet form.",
+      "selectedOption": 2,
+      "selectedRegistration": "065 99 25654 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

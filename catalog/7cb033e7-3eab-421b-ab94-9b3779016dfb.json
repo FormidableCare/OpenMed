@@ -1,10 +1,10 @@
 {
   "catalogId": "7cb033e7-3eab-421b-ab94-9b3779016dfb",
-  "name": "RISPERDAL 1 MG",
+  "name": "RISPERDAL 1 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 78 28260 01",
+  "registrationNumber": "114 74 29633 00",
   "treatmentDescriptions": "Risperdal is indicated for the management of schizophrenia and manifestation of psychotic disorders. The antipsychotic efficacy of Risperdal was established in short-term (6 to 8-weeks) controlled trials of schizophrenic inpatients.  Risperdal is also effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.Risperdal is indicated for the short-term treatment (up to 6 weeks) of persistent aggression in patients with moderate to severe Alzheimer’s dementia unresponsive to non-pharmacological approaches and when there is a risk of harm to self or others. Conduct and other disruptive disorders: Treatment of behavioral disorders expressed by impulse control disorders or self-alienated-aggressive or treatment-requiring behavioral disorders with reduced or substandard intelligence. Treatment should not be given to children under the age of 5 years.Risperdal is indicated for the treatment of mania in bipolar disorder. These episodes are characterized by symptoms such as   elevated, expansive or irritable mood, inflated self-esteem, decreased need for sleep, pressured speech, racing thoughts, distractibility, or poor judgment, including disruptive or aggressive behaviors",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -63,11 +63,10 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.814613",
+    "lastUpdated": "2025-08-01T19:06:40.002021",
     "tags": [
       "smart_validation_failed",
-      "best_score_0.01",
-      "needs_manual_review"
+      "best_score_0.01"
     ],
     "validationFailure": {
       "failedAt": "2025-08-01T15:03:22.885529",
@@ -93,28 +92,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "RISPERDAL 1 MG",
-        "registration": "144 78 28260 01",
-        "form": ""
-      },
-      {
-        "name": "RISPERDAL 1 MG/ML",
-        "registration": "114 74 29633 00",
-        "form": ""
-      },
-      {
-        "name": "RISPERDAL 2 MG",
-        "registration": "144 79 28261 01",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "RISPERDAL 1MG/ML SOL 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:40.002026",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication RISPERDAL 1 MG in terms of strength (1 mg/ml), formulation (liquid), and registration number (similar format).",
+      "selectedOption": 2,
+      "selectedRegistration": "114 74 29633 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.611524",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NGENLA 24 MG",
-        "registration": "175 08 37406 00",
-        "form": ""
-      },
-      {
-        "name": "NGENLA 60 MG",
-        "registration": "175 09 37407 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:21.148422",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NGENLA 60 MG/ 1.2 ML SOL FOR INJ 1 PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.015,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:21.148433",
+      "confidence": 95,
+      "reasoning": "The medication NGENLA 24 MG matches with Option 1 as they have the same brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "175 08 37406 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

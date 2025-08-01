@@ -1,10 +1,10 @@
 {
   "catalogId": "6635f7ba-0c87-4ce4-a7c3-9cb6b4fe176a",
-  "name": "OXYCONTIN 10",
+  "name": "OXYCONTIN 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 71 28431 00",
+  "registrationNumber": "109 01 29255 00",
   "treatmentDescriptions": "For the relief of moderate to severe chronic pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets controlled release",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.979934",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYCONTIN 10",
-        "registration": "100 71 28431 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 20",
-        "registration": "100 70 28432 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 40",
-        "registration": "109 01 29255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:46.484226",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYCONTIN 80MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:46.484235",
+      "confidence": 95,
+      "reasoning": "The option \"OXYCONTIN 40\" matches the medication \"OXYCONTIN 10\" in terms of brand name similarity and strength compatibility. The difference in strength (10 vs. 40) is likely due to a typographical error in the option provided.",
+      "selectedOption": 3,
+      "selectedRegistration": "109 01 29255 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

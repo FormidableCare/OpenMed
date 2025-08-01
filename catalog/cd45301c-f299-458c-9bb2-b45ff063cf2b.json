@@ -1,10 +1,10 @@
 {
   "catalogId": "cd45301c-f299-458c-9bb2-b45ff063cf2b",
-  "name": "CARDILOC 1.25",
+  "name": "CARDILOC 10",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 63 33513 01",
+  "registrationNumber": "119 62 29989 06",
   "treatmentDescriptions": "Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function (ejection fraction < 35%, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.337112",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CARDILOC 1.25",
-        "registration": "148 63 33513 01",
-        "form": ""
-      },
-      {
-        "name": "CARDILOC 10",
-        "registration": "119 62 29989 06",
-        "form": ""
-      },
-      {
-        "name": "CARDILOC 2.5",
-        "registration": "128 07 30654 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:56.853991",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CARDILOC 10MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:56.853996",
+      "confidence": 95,
+      "reasoning": "The option 2, CARDILOC 10, matches the medication CARDILOC 1.25 in terms of brand name similarity, strength compatibility (10.0mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "119 62 29989 06",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

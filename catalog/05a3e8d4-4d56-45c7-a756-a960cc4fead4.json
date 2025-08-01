@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.006930",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
-        "registration": "042 50 23368 00",
-        "form": ""
-      },
-      {
-        "name": "SUPRAMOL 500 SUPPOSITORIES",
-        "registration": "035 03 25647 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:09.326022",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SUPRAMOL 500MG 20SUP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:09.326035",
+      "confidence": 95,
+      "reasoning": "The brand name \"SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES\" matches, the strength of 500.0mg is the same, and the registration numbers are identical.",
+      "selectedOption": 1,
+      "selectedRegistration": "042 50 23368 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

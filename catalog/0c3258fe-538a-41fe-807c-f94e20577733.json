@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.992164",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMASIL",
-        "registration": "134 74 31484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:25.939918",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMASIL 1% CREAM 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:25.939929",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, strength, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "134 74 31484 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

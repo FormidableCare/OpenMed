@@ -1,10 +1,10 @@
 {
   "catalogId": "d037244c-3727-4bff-b07f-ca57744dcf8c",
-  "name": "GASTRO 10",
+  "name": "GASTRO 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "107 36 28578 01",
+  "registrationNumber": "043 39 25171 03",
   "treatmentDescriptions": "For the treatment and prevention of heartburn and hyperacidity in the upper gastrointestinal tract.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.686510",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GASTRO 10",
-        "registration": "107 36 28578 01",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 20",
-        "registration": "043 40 26198 02",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 40",
-        "registration": "043 39 25171 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:37.028414",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FAMOTIDINE-T 40MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:37.028425",
+      "confidence": 95,
+      "reasoning": "The medication GASTRO 10 with a strength of 40.0mg matches with GASTRO 40 in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "043 39 25171 03",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

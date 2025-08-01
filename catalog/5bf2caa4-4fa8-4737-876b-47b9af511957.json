@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.111185",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRUXIMA",
-        "registration": "161 74 35585 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:34.658999",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRUXIMA100MG/10ML 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:34.659005",
+      "confidence": 95,
+      "reasoning": "The brand name \"TRUXIMA\" and registration number match, indicating a high likelihood of being the same medication. The strength and formulation details also align, further supporting the match.",
+      "selectedOption": 1,
+      "selectedRegistration": "161 74 35585 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

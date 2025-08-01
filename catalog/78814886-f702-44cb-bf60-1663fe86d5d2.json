@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.058803",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ONCOTICE",
-        "registration": "103 18 28561 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:47.592177",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BCG VACCINE SSI 0.75MG 10VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:47.592191",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "103 18 28561 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

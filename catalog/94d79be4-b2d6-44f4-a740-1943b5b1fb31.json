@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.266733",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RISPOND 1",
-        "registration": "134 58 31403 01",
-        "form": ""
-      },
-      {
-        "name": "RISPOND 2",
-        "registration": "134 59 31404 01",
-        "form": ""
-      },
-      {
-        "name": "RISPOND 3",
-        "registration": "134 60 31405 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:32.141132",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RISPOND 1MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:32.141142",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication RISPOND 1 in terms of brand name, registration number, and strength (1.0mg).",
+      "selectedOption": 1,
+      "selectedRegistration": "134 58 31403 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

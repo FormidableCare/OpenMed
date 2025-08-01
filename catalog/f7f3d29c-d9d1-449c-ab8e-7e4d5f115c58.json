@@ -69,27 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.199909",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "METOJECT 50 MG/ML S.C",
-        "registration": "145 34 33074 04",
-        "form": ""
-      },
-      {
-        "name": "METOJECT PEN 50 MG/ML",
-        "registration": "157 61 34519 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:13.179740",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "METOJECT 50MG/ML SYRINGE PREFILLED 15MG/0.3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.009090909090909092,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:13.179795",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (50 mg/ml), and registration number (145 34 33074 04) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "145 34 33074 04",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

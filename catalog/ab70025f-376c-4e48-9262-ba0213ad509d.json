@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.871672",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GONAL-F",
-        "registration": "131 55 31061 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:31.997888",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GONAL-F 600IU/ML PREFILLED PEN 0.75ML (450 IU)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:31.997903",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details for GONAL-F.",
+      "selectedOption": 1,
+      "selectedRegistration": "131 55 31061 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

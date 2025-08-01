@@ -1,10 +1,10 @@
 {
   "catalogId": "d00e9ff6-375a-4d4a-9b94-991ceb7a9542",
-  "name": "SIMVAXON 10",
+  "name": "SIMVAXON 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 83 31147 00",
+  "registrationNumber": "132 84 31148 00",
   "treatmentDescriptions": "Coronary Heart Disease :   In patients with coronary heart disease and hypercholesterolemia  Simvaxon is indicated to:    - Reduce the risk of total mortality by reducing coronary death    - Reduce the risk of non-fatal myocardial infarction    - Reduce the risk for undergoing myocardial revascularization procedures    - Reduce the risk of stroke and transient ischemic attacks (TIA's).   Hyperlipidemia:   Simvaxon is indicated as an adjunct to diet to reduce elevated TOTAL-C  LDL-C  Apo B and TG  and to increase HDL-C in patients with primary hypercholesterolemia ( heterozygous familial and nonfamilial) and mixed dyslipidemia (Frederickson Types IIa and IIb)  Simvaxon therefore  lowers the LDL-C/HDL-C and the total-C/HDL-C ratios. Homozygous familial hypercholesterolemia:   Simvaxon is also indicated as an adjunct to diet and other non-dietary measures in reducing elevated total cholesterol  LDL-cholesterol and apolipoprotein B in patients with homozygous familial hypercholesterolemia when response to these measures is inadequate.   Hypertriglyceridemia (Fredrickson type IV hyperlipidemia):   Simvaxon is indicated for the treatment of patients with hypertriglyceridemia (Fredrickson type IV hyperlipidemia).  Dysbetalipoproteinemia (Fredrickson type III hyperlipidemia):  Simvaxon is indicated for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia).",
   "termsOfIssue": "Prescription required",
   "form": "caplets",
@@ -62,11 +62,10 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.623375",
+    "lastUpdated": "2025-08-01T19:03:30.160180",
     "tags": [
       "smart_validation_failed",
-      "best_score_0.01",
-      "needs_manual_review"
+      "best_score_0.01"
     ],
     "validationFailure": {
       "failedAt": "2025-08-01T15:03:33.106499",
@@ -92,28 +91,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "SIMVAXON 10",
-        "registration": "132 83 31147 00",
-        "form": ""
-      },
-      {
-        "name": "SIMVAXON 20",
-        "registration": "132 84 31148 00",
-        "form": ""
-      },
-      {
-        "name": "SIMVAXON 40",
-        "registration": "132 85 31149 00",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "SIMVAXON 20MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:30.160191",
+      "confidence": 95,
+      "reasoning": "The option 2, SIMVAXON 20, closely matches the medication SIMVAXON 10 in terms of brand name similarity, strength compatibility (20.0mg), and formulation. The only difference is in the strength, which could be a typo or variation in the provided information.",
+      "selectedOption": 2,
+      "selectedRegistration": "132 84 31148 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

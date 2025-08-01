@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.702778",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CARBAGLU",
-        "registration": "147 76 33555 05",
-        "form": ""
-      },
-      {
-        "name": "CARBAGLU",
-        "registration": "147 76 33555 04",
-        "form": ""
-      },
-      {
-        "name": "CARBAGLU",
-        "registration": "147 76 33555 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:35.107756",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CARBAGLU 200MG 5 DISP.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:35.107772",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Carbaglu with the same registration number, strength (200.0mg), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "147 76 33555 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

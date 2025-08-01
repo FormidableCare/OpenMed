@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.195855",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPTI GENTA",
-        "registration": "069 76 28591 00",
-        "form": ""
-      },
-      {
-        "name": "EASOTIC VETERINARY",
-        "registration": "159 84 34886 00",
-        "form": ""
-      },
-      {
-        "name": "AFLUMYCIN",
-        "registration": "125 91 24928 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:07.842963",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OPTI-GENTA 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:07.842973",
+      "confidence": 95,
+      "reasoning": "The medication OPTI GENTA matches Option 1 in terms of brand name similarity, strength compatibility (5.0ml), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "069 76 28591 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

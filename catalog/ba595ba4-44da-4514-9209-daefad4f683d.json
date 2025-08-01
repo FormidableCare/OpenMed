@@ -67,27 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.783774",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NOVORAPID",
-        "registration": "118 94 29983 02",
-        "form": ""
-      },
-      {
-        "name": "NOVORAPID",
-        "registration": "118 94 29983 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:54.377897",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NOVORAPID VIAL 10MLX100IU/ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:54.377902",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "118 94 29983 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

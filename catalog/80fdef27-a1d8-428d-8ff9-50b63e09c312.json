@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.676164",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLUMAZENIL KABI 0.1 MG/ML",
-        "registration": "177 37 37182 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:20.883580",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUMAZENIL MYLAN 0.1 MG/ML 5 VIAL 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:20.883590",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "177 37 37182 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

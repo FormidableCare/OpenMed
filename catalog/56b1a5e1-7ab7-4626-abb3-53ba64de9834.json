@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.696700",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PADCEV 20 MG",
-        "registration": "167 37 36604 00",
-        "form": ""
-      },
-      {
-        "name": "PADCEV 30 MG",
-        "registration": "167 38 36605 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:58.439446",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FORTUM 1G INJ 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:58.439458",
+      "confidence": 95,
+      "reasoning": "The medication PADCEV 20 MG matches with Option 1 as it has the same brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 37 36604 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

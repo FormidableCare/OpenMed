@@ -1,10 +1,10 @@
 {
   "catalogId": "8cc10801-cb31-447b-b17d-7f714c197f50",
-  "name": "MICROPIRIN 100",
+  "name": "MICROPIRIN 75",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "103 93 28861 01",
+  "registrationNumber": "067 43 27307 00",
   "treatmentDescriptions": "The primary prevention of coronary heart disease in patients at increased risk and the secondary prevention of thrombotic cerebrovascular or cardiovascular disease.",
   "termsOfIssue": "",
   "form": "tablets enteric coated",
@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.288527",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MICROPIRIN 100",
-        "registration": "103 93 28861 01",
-        "form": ""
-      },
-      {
-        "name": "MICROPIRIN 75",
-        "registration": "067 43 27307 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:04.786420",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MICROPIRIN 75MG 30CAP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:04.786431",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Micropirin 100 in terms of strength (75mg) and formulation. The only difference is the strength mentioned in the name, which could be a minor discrepancy.",
+      "selectedOption": 2,
+      "selectedRegistration": "067 43 27307 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

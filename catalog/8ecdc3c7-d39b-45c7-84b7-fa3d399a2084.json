@@ -1,10 +1,10 @@
 {
   "catalogId": "8ecdc3c7-d39b-45c7-84b7-fa3d399a2084",
-  "name": "IBUFEN 400",
+  "name": "IBUFEN 600",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "039 70 26008 00",
+  "registrationNumber": "040 23 26009 00",
   "treatmentDescriptions": "For the relief of mild to moderate pain such as headache, toothache, primary dysmenorrhea, backache, muscular pain. Anti - inflammatory and relieves pain in reumatoid arthritis and osteo arthritis.For the treatment of pain associated with migraine.",
   "termsOfIssue": "Prescription required",
   "form": "caplets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.162840",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IBUFEN 400",
-        "registration": "039 70 26008 00",
-        "form": ""
-      },
-      {
-        "name": "IBUFEN 600",
-        "registration": "040 23 26009 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:21.628796",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IBUFEN 600MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:21.628807",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication IBUFEN 400 with a strength of 600.0mg, which is a compatible strength. The registration number is different, but this could be due to a regional variation or a different batch.",
+      "selectedOption": 2,
+      "selectedRegistration": "040 23 26009 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

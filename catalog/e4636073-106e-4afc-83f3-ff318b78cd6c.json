@@ -1,10 +1,10 @@
 {
   "catalogId": "e4636073-106e-4afc-83f3-ff318b78cd6c",
-  "name": "ANASTROZOLE TEVA ®",
+  "name": "ARIMIDEX",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 32 31760 01",
+  "registrationNumber": "105 16 28931 00",
   "treatmentDescriptions": "Treatment of advanced breast cancer in post menopausal women. Efficay has not been demonstrated in estrogen receptor negative patients unless they had a previous positive clinical response to tamoxifen.  Adjuvant treatment of postmenopausal women with hormone receptor positive early invasive breast cancer. Adjuvant treatment of early breast cancer in hormone receptor positive postmenopausal women who have received 2 to 3 years of adjuvant tamoxifen.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.893111",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ANASTROZOLE TEVA ®",
-        "registration": "141 32 31760 01",
-        "form": ""
-      },
-      {
-        "name": "ANASTROZOLE TEVA ®",
-        "registration": "141 32 31760 00",
-        "form": ""
-      },
-      {
-        "name": "ARIMIDEX",
-        "registration": "105 16 28931 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:58.983071",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ANASTROZOLE 1MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:58.983086",
+      "confidence": 95,
+      "reasoning": "The medication ANASTROZOLE TEVA ® matches with ARIMIDEX in terms of brand name similarity, strength compatibility (1.0mg), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "105 16 28931 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

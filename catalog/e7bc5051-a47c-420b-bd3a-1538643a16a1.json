@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.218232",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALGARON ORANGE",
-        "registration": "163 63 36018 00",
-        "form": ""
-      },
-      {
-        "name": "KALGARON MINT",
-        "registration": "163 62 35352 00",
-        "form": ""
-      },
-      {
-        "name": "KALGARON STRAWBERY",
-        "registration": "163 61 35351 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:36.994013",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALGARON STRAWBERY 24 LOZENGES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:36.994018",
+      "confidence": 95,
+      "reasoning": "The brand name \"KALGARON ORANGE\" matches, and the registration number is the same. The strength and formulation are likely to be similar as well.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 63 36018 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "26d26901-0b69-4036-bd7e-6617e8ef75da",
-  "name": "GEMCITABINE TEVA ® CONCENTRATE",
+  "name": "GEMCITABINE \"EBEWE\" 40MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 90 33868 00",
+  "registrationNumber": "145 95 33400 00",
   "treatmentDescriptions": "GEMCITABINE TEVA®  CONCENTRATE is indicated for the palliative treatment of patients with locally advanced or metastatic non-small cell lung cancer and locally advanced or metastatic adenocarcinoma of the pancreas and for patients with 5-FU refractory pancreatic cancer.GEMCITABINE TEVA®  CONCENTRATE is indicated for the treatment of patients with bladder cancer at the invasive stage.Breast cancer:GEMCITABINE TEVA®  CONCENTRATE in combination with paclitaxel,is indicated for the treatment of patients with unresectable, locally recurrent or metastatic breast cancer who have relapsed following adjuvant /neoadjuvant chemotherapy. Prior chemotherapy should have included an anthracycline unless clinically contraindicated.Ovarian cancer:GEMCITABINE TEVA®  CONCENTRATE in combination with carboplatin, is indicated for the treatment of patients with recurrent epithelial ovarian carcinoma who have relapsed at least 6 months after platinum-based therapy.",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -71,27 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.301975",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GEMCITABINE TEVA ® CONCENTRATE",
-        "registration": "150 90 33868 00",
-        "form": ""
-      },
-      {
-        "name": "GEMCITABINE \"EBEWE\" 40MG/ML",
-        "registration": "145 95 33400 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:25.234751",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GEMCITABINE TEVA CONCENTRATE 40MG/ML (2000MG/50ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:25.234755",
+      "confidence": 95,
+      "reasoning": "The option 2, GEMCITABINE \"EBEWE\" 40MG/ML, closely matches the medication Gemcitabine Teva Concentrate in terms of strength compatibility (2000mg vs 40mg/ml), formulation (concentrate), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "145 95 33400 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

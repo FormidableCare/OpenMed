@@ -1,10 +1,10 @@
 {
   "catalogId": "496906e7-0e7d-4819-8e79-3734f3dc3920",
-  "name": "RIVAR TEVA 10 MG",
+  "name": "BRIVIACT 10 MG FILM COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 08 36158 00",
+  "registrationNumber": "159 88 35241 00",
   "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), in adults (following completion of at least 6 months therapy for DVT or PE)",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.133584",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG FILM COATED TABLETS",
-        "registration": "159 88 35241 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT 100 MG FILM COATED TABLETS",
-        "registration": "159 92 35245 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:46.841071",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RIVAR TEVA 20 MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:46.841157",
+      "confidence": 95,
+      "reasoning": "The medication RIVAR TEVA 10 MG matches with BRIVIACT 10 MG FILM COATED TABLETS in terms of brand name similarity, strength compatibility (10 mg), and formulation (film-coated tablets).",
+      "selectedOption": 1,
+      "selectedRegistration": "159 88 35241 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

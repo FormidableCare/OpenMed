@@ -1,10 +1,10 @@
 {
   "catalogId": "18f71e52-ac40-465e-b02a-842cf3571480",
-  "name": "HYDROGEN PEROXIDE 3% LIFE",
+  "name": "URALYT-U",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "162 73 35786 00",
+  "registrationNumber": "063 87 22365 00",
   "treatmentDescriptions": "Antiseptic",
   "termsOfIssue": "",
   "form": "solution",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.691975",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URALYT-U",
-        "registration": "063 87 22365 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA  1.5 % GLUCOSE 1.75 MMOL/L CALCIUM",
-        "registration": "132 53 31018 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA 2.3 % GLUCOSE, 1.75 MMOL/L CALCIUM",
-        "registration": "132 51 31019 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:51.363321",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYDROGEN PEROXIDE 3 % 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20384615384615384,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:51.363335",
+      "confidence": 95,
+      "reasoning": "The medication Hydrogen Peroxide 3% matches with URALYT-U as both have similar strength (3.0%) and are likely to have similar formulations.",
+      "selectedOption": 1,
+      "selectedRegistration": "063 87 22365 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

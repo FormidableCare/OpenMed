@@ -1,10 +1,10 @@
 {
   "catalogId": "8b9db444-e9eb-449a-8bd4-b192796d059d",
-  "name": "SPIRIVA ®",
+  "name": "SPIRIVA RESPIMAT",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 47 31120 00",
+  "registrationNumber": "154 11 34255 00",
   "treatmentDescriptions": "Tiotropium is a bronchodilator for the maintenance treatment of chronic obstructive pulmonary disease (COPD).",
   "termsOfIssue": "Prescription required",
   "form": "inhalation powder hard capsules",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.390900",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPIRIVA ®",
-        "registration": "133 47 31120 00",
-        "form": ""
-      },
-      {
-        "name": "SPIRIVA RESPIMAT",
-        "registration": "154 11 34255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:02.896751",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SPIRIVA RESPIMAT 2.5MCG 60 ACTUATIONS (30 DOSES)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:02.896761",
+      "confidence": 95,
+      "reasoning": "The option 2, SPIRIVA RESPIMAT, closely matches the medication SPIRIVA in terms of brand name similarity and strength compatibility. The formulation difference is due to the specific delivery device (RESPIMAT) used for administering the medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "154 11 34255 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

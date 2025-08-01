@@ -1,10 +1,10 @@
 {
   "catalogId": "8185cb73-0e7d-4d6f-84ed-87578f6af486",
-  "name": "LERCAPRESS 10",
+  "name": "LERCAPRESS 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 51 31848 01",
+  "registrationNumber": "143 67 32975 01",
   "treatmentDescriptions": "Mild to moderate essential hypertension.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.988887",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LERCAPRESS 10",
-        "registration": "141 51 31848 01",
-        "form": ""
-      },
-      {
-        "name": "LERCAPRESS 20",
-        "registration": "143 67 32975 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:20.430168",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LERCAPRESS 20 MG 30 FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:20.430184",
+      "confidence": 95,
+      "reasoning": "The option 2, LERCAPRESS 20, closely matches the medication LERCAPRESS 10 in terms of brand name similarity, strength compatibility (20.0mg), and formulation. The registration numbers are different, but this is likely due to a variation in the strength of the medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "143 67 32975 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

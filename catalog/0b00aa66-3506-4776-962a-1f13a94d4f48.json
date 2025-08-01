@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.362473",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADAKVEO 10 MG/ML",
-        "registration": "168 71 36562 00",
-        "form": ""
-      },
-      {
-        "name": "ULTOMIRIS 10 MG/ML",
-        "registration": "163 14 36063 00",
-        "form": ""
-      },
-      {
-        "name": "ULTOMIRIS 100MG/ML",
-        "registration": "173 29 37321 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:57.348841",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADAKVEO 10 MG/ML 10ml 1 vial",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:57.348856",
+      "confidence": 95,
+      "reasoning": "The medication ADAKVEO 10 MG/ML matches with Option 1 as it has the same brand name, strength, and formulation. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "168 71 36562 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

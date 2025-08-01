@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.630051",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NIPRUSS ®",
-        "registration": "164 33 35970 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:33.616660",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NIPRUSS 60MG 5AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:33.616672",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication NIPRUSS ®.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 33 35970 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

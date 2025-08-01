@@ -1,10 +1,10 @@
 {
   "catalogId": "75ca1b62-e3f8-4db3-8ffa-2e2715d25881",
-  "name": "DEXIMUNE 100",
+  "name": "DEXIMUNE 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "124 48 30358 11",
+  "registrationNumber": "126 73 30601 11",
   "treatmentDescriptions": "Prophylaxis of organ rejection in kidney  liver heart allogenic transplants in conjunction with corticosteroids. May also be used in the treatment of chronic rejection in patients previously treated with other immuno-suppressive agents.  Bone marrow transplantation.   Endogenous uveitis.   Severe psoriasis above age 16 that did not respond to other treatment.   Atopic dermatitis in adults only up to 8 weeks  for severe cases in which conventional therapy is ineffective or inappropriate.   Rheumatoid arthritis: Severe cases in which standard treatments are ineffective or inappropriate. Nephrotic syndrom type MCD (minimal change disease) in cases where conventional therapy has failed.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.064735",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXIMUNE 100",
-        "registration": "124 48 30358 11",
-        "form": ""
-      },
-      {
-        "name": "DEXIMUNE 25",
-        "registration": "124 49 30359 11",
-        "form": ""
-      },
-      {
-        "name": "DEXIMUNE 50",
-        "registration": "126 73 30601 11",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:00.241860",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEXIMUNE 50MG 50 CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:00.241865",
+      "confidence": 95,
+      "reasoning": "The option \"DEXIMUNE 50\" closely matches the medication \"DEXIMUNE 100\" in terms of brand name similarity, strength compatibility (50mg vs. 100mg), and both being capsules.",
+      "selectedOption": 3,
+      "selectedRegistration": "126 73 30601 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

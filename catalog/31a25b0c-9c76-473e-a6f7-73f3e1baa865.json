@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.921540",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STRENSIQ ® 100 MG/ML",
-        "registration": "155 44 34545 00",
-        "form": ""
-      },
-      {
-        "name": "STRENSIQ ® 40 MG/ML",
-        "registration": "155 43 34542 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:43.133555",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STRENSIQ ® 40 MG/ML 12 vials 18mg",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:43.133562",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Strensiq 100 MG/ML in terms of brand name, strength (100 MG/ML vs. 18.0mg), and formulation. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 44 34545 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

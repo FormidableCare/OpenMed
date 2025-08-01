@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.657413",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CUROSURF",
-        "registration": "068 79 28250 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:01.390282",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CUROSURF 80MG/ML 1VIAL(1.5ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:01.390288",
+      "confidence": 95,
+      "reasoning": "The brand name CUROSURF, registration number, and formulation match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "068 79 28250 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.050019",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EFEXOR XR 150",
-        "registration": "111 18 29395 00",
-        "form": ""
-      },
-      {
-        "name": "EFEXOR XR 150",
-        "registration": "111 18 29395 01",
-        "form": ""
-      },
-      {
-        "name": "EFEXOR XR 75",
-        "registration": "111 17 29394 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:37.974502",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EFEXOR  XR 150MG 28 SR CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:37.974514",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication EFEXOR XR 150 in terms of brand name, strength (150.0mg), and formulation (sr). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "111 18 29395 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

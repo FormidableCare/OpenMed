@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.701922",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:33.380878",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SODIUM THIOSULFATE 25%  (250MG/ML) 12.5G/50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20384615384615384,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:33.380896",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication RINGER LACTATED SOLUTION/VIOSER in terms of brand name similarity, strength compatibility (25.0%), and formulation (solution). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

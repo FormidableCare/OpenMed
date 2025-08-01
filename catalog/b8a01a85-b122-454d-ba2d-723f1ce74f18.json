@@ -54,22 +54,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.915675",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LUNSUMIO",
-        "registration": "172 15 37418 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:20.363402",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LUNSUMIO 1MG/ML 1 VIAL 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:20.363416",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "172 15 37418 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

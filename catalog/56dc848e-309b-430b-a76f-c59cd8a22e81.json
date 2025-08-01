@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.663849",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUCALA POWDER FOR SOLUTION FOR INJECTION",
-        "registration": "157 57 34861 00",
-        "form": ""
-      },
-      {
-        "name": "NUCALA SOLUTION FOR INJECTION",
-        "registration": "168 06 36652 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:09.615904",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NUCALA 100mg/ml vial",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:09.615919",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 57 34861 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

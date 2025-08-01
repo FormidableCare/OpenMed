@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.042565",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "L-THYROXINE SERB",
-        "registration": "165 27 35356 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:29.184481",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVOTHYROXINE 500MCG 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:29.184495",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 27 35356 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

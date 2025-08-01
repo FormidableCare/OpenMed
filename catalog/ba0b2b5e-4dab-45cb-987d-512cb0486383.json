@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.038797",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CLARISCAN",
-        "registration": "163 65 35367 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:20.486497",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CLARISCAN 279.3MG/ML100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:20.486503",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 65 35367 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

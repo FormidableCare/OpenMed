@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.811831",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXAMOL",
-        "registration": "039 64 25921 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOL PLUS",
-        "registration": "042 81 25950 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOLSINUS DAY CARE",
-        "registration": "053 64 26488 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:32.193402",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEXAMOL COLD NIGHT 20 CAPLIOTS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:32.193415",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DEXAMOL in terms of brand name, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "039 64 25921 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

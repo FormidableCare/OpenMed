@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.876591",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RECTOZORIN OINTMENT",
-        "registration": "135 34 20466 00",
-        "form": ""
-      },
-      {
-        "name": "RECTOZORIN SUPPOSITORIES",
-        "registration": "030 68 20618 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:40.716920",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RECTOZORIN OINT 50GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:40.716934",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication RECTOZORIN OINTMENT in terms of brand name similarity, strength (50.0g), and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 34 20466 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

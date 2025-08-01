@@ -49,27 +49,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.264857",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BITNI TABLETS",
-        "registration": "140 65 31601 00",
-        "form": ""
-      },
-      {
-        "name": "BITNI SUSPENSION",
-        "registration": "140 75 31557 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:52.361329",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BITNI X 20 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:52.361343",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"BITNI TABLETS\" in terms of brand name, registration number, and formulation (tablet). The strength information is missing in the provided options, but based on the brand name and formulation match, option 1 is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 65 31601 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

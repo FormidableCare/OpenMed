@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.693951",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VELTASSA 16.8 G",
-        "registration": "161 53 35492 00",
-        "form": ""
-      },
-      {
-        "name": "VELTASSA 8.4 G",
-        "registration": "161 52 35491 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:29.572551",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PATIR CREAM 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:29.572557",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication VELTASSA 16.8 G in terms of brand name similarity, strength compatibility (16.8 G vs. 15.0g), and formulation (cream). The registration numbers are also very close, differing only in the last two digits.",
+      "selectedOption": 1,
+      "selectedRegistration": "161 53 35492 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

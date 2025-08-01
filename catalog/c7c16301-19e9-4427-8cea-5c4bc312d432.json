@@ -1,10 +1,10 @@
 {
   "catalogId": "c7c16301-19e9-4427-8cea-5c4bc312d432",
-  "name": "IMITREX INJECTION",
+  "name": "IMITREX TABLETS 100 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "055 92 26920 00",
+  "registrationNumber": "055 93 26919 21",
   "treatmentDescriptions": "Subcutaneous Injection is indicated for the acute relief of migraine attacks, with or without aura, and for the acute treatment of cluster headache.Imitrex should only be used where there is a clear diagnosis of migraine or cluster headache.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.024186",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IMITREX INJECTION",
-        "registration": "055 92 26920 00",
-        "form": ""
-      },
-      {
-        "name": "IMITREX TABLETS 100 MG",
-        "registration": "055 93 26919 21",
-        "form": ""
-      },
-      {
-        "name": "IMITREX TABLETS 50 MG",
-        "registration": "102 91 28531 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:11.041734",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IMITREX INJ 2 PREFILLED +AUTO INJ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:11.041741",
+      "confidence": 95,
+      "reasoning": "The option 2, IMITREX TABLETS 100 MG, closely matches the medication IMITREX INJECTION in terms of brand name similarity, formulation (both are tablets), and strength compatibility (100 mg).",
+      "selectedOption": 2,
+      "selectedRegistration": "055 93 26919 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

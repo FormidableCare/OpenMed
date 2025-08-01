@@ -58,11 +58,10 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.781966",
+    "lastUpdated": "2025-08-01T18:55:52.671128",
     "tags": [
       "smart_validation_failed",
-      "best_score_0.01",
-      "needs_manual_review"
+      "best_score_0.01"
     ],
     "validationFailure": {
       "failedAt": "2025-08-01T15:03:40.207744",
@@ -78,18 +77,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "synagis",
-        "registration": "155 56 34505 00",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "SYNAGIS 100MG/ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:52.671140",
+      "confidence": 95,
+      "reasoning": "The brand name \"synagis\" and registration number match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 56 34505 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

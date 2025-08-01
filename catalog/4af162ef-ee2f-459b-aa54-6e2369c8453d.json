@@ -1,10 +1,10 @@
 {
   "catalogId": "4af162ef-ee2f-459b-aa54-6e2369c8453d",
-  "name": "XPOVIO 20 MG",
+  "name": "XPOVIO 40 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "167 04 36451 99",
+  "registrationNumber": "178 17 37897 99",
   "treatmentDescriptions": "Multiple Myeloma•\tXpovio® in combination with bortezomib and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.•\tXPOVIO in combination with dexamethasone is indicated for the treatment of adult patients with relapsed refractory multiple myeloma (RRMM) who have received at least three prior therapies and whose disease is refractory to at least one proteasome inhibitor (PI), at least one immunomodulatory agent (IMiD), and an anti- CD38 monoclonal antibody (mAb).Diffuse Large B-Cell LymphomaXPOVIO is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from follicular lymphoma, after at least 2 lines of systemic therapy.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.938654",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "XPOVIO 20 MG",
-        "registration": "167 04 36451 99",
-        "form": ""
-      },
-      {
-        "name": "XPOVIO 40 MG",
-        "registration": "178 17 37897 99",
-        "form": ""
-      },
-      {
-        "name": "XPOVIO 50 MG",
-        "registration": "178 18 37898 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:06.441383",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LINEX FOR KIDS 0.05% 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:06.441389",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication XPOVIO 20 MG in terms of brand name similarity, strength compatibility, and formulation. The only difference is the strength, which is 40 MG instead of 20 MG, but this could be a variation in available dosages.",
+      "selectedOption": 2,
+      "selectedRegistration": "178 17 37897 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

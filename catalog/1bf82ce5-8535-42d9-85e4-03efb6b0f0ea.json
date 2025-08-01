@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.940602",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 04",
-        "form": ""
-      },
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 02",
-        "form": ""
-      },
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:37.466162",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OTEZLA 30MG 56 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:37.466174",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication OTEZLA 10 MG with the same registration number and strength.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 91 34274 04",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

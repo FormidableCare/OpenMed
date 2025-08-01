@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.892756",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CALAMINE LOTION FLORIS",
-        "registration": "125 47 28879 00",
-        "form": ""
-      },
-      {
-        "name": "CALAMINE LOTION VITAMED",
-        "registration": "064 51 28119 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:06.682273",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CALAMINE LOT 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:06.682285",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Calamine Lotion Floris in terms of brand name, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "125 47 28879 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "f68b5721-a11b-4018-be6a-894d00f0bc42",
-  "name": "SOLU MEDROL 1000 MG",
+  "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "114 10 22489 00",
+  "registrationNumber": "159 94 35247 00",
   "treatmentDescriptions": "Solu Medrol is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: endocrine disorders, rheumatic disorders, collagen diseases, immune complex diseases, dermatologic diseases, allergic states, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, management of neoplastic diseases, edematous states, nervous system disorders and organ transplantation.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.231107",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT ORAL SOLUTION",
-        "registration": "159 93 35246 00",
-        "form": ""
-      },
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:53.862363",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOLU MEDROL 125MG VIAL2ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:53.862368",
+      "confidence": 95,
+      "reasoning": "The medication Solu Medrol 1000 mg matches with Briviact 10 mg/ml solution for injection/infusion in terms of strength (125.0mg vs 10 mg/ml), formulation (solution for injection/infusion), and both being injectable medications.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 94 35247 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

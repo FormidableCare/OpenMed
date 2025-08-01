@@ -59,11 +59,10 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.033946",
+    "lastUpdated": "2025-08-01T19:10:14.837246",
     "tags": [
       "smart_validation_failed",
-      "best_score_0.18",
-      "needs_manual_review"
+      "best_score_0.18"
     ],
     "validationFailure": {
       "failedAt": "2025-08-01T15:02:57.806507",
@@ -89,28 +88,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "VERAPRESS 240 SR",
-        "registration": "068 63 26427 00",
-        "form": ""
-      },
-      {
-        "name": "CORDAMIL 40 MG",
-        "registration": "169 31 36504 99",
-        "form": ""
-      },
-      {
-        "name": "CORDAMIL 80 MG",
-        "registration": "168 85 36505 99",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "VERAPRESS 240 30 SR CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:14.837252",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication VERAPRESS 240 SR in terms of brand name similarity, strength compatibility (240 mg), and formulation (SR).",
+      "selectedOption": 1,
+      "selectedRegistration": "068 63 26427 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

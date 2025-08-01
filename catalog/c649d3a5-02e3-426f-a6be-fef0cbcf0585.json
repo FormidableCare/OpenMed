@@ -1,10 +1,10 @@
 {
   "catalogId": "c649d3a5-02e3-426f-a6be-fef0cbcf0585",
-  "name": "LOSARDEX 100",
+  "name": "LOSARDEX 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "138 20 31492 00",
+  "registrationNumber": "138 19 31491 00",
   "treatmentDescriptions": "Hypertension: Losardex 100  is indicated for the treatment of hypertensionHeart failure: Losardex 100 is indicated for the treatment of heart failure, usually in addition to diuretics and/or digitalis, if use of an ACE inhibitor is not appropriate.Switching patients with heart failure who are stable on an ACE inhibitor to Losardex 100 is not recommended.Renal protection in Type-2 diabetic patients with proteinuria: Losardex 100 is indicated to delay the progression of renal disease as measured by a reduction in the combined incidence of doubling of serum creatinine, end stage renal disease (need for dialysis or renal transplantation) or death; and to reduce proteinuria.Reduction in the risk of cardiovascular morbidity and mortality in hypertensive patients with left ventricular hypertrophy. Losardex 100 is indicated to reduce the risk of cardiovascular morbidity and mortality as measured by the combined incidence of cardiovascular death, stroke, and myocardial infarction in hypertensive patients with left ventricular hypertrophy.The benefit of Losardex 100 on the primary deposite endpoint was largely driven by reduction in the risk of stroke.",
   "termsOfIssue": "Prescription required",
   "form": "caplets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.920778",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LOSARDEX 100",
-        "registration": "138 20 31492 00",
-        "form": ""
-      },
-      {
-        "name": "LOSARDEX 12.5",
-        "registration": "138 18 31490 00",
-        "form": ""
-      },
-      {
-        "name": "LOSARDEX 50",
-        "registration": "138 19 31491 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:41.446870",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LOSARDEX 50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:41.446889",
+      "confidence": 95,
+      "reasoning": "The option \"LOSARDEX 50\" closely matches the medication \"LOSARDEX 100\" in terms of brand name similarity and strength compatibility. The strength of \"LOSARDEX 50\" (50mg) is half of the strength of \"LOSARDEX 100\" (100mg), indicating a likely match.",
+      "selectedOption": 3,
+      "selectedRegistration": "138 19 31491 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

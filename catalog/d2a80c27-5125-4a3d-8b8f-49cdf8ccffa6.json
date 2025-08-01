@@ -59,32 +59,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.118305",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "THEOTRIM 100",
-        "registration": "050 47 23896 00",
-        "form": ""
-      },
-      {
-        "name": "THEOTRIM 200",
-        "registration": "050 48 23897 00",
-        "form": ""
-      },
-      {
-        "name": "THEOTRIM 300",
-        "registration": "050 49 23898 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:43.563873",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "THEOTRIM 300 30 SR TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:43.563878",
+      "confidence": 95,
+      "reasoning": "The brand name \"THEOTRIM 100\" matches exactly, the strength is the same, and the formulation \"sr\" matches as well. The registration numbers are also similar.",
+      "selectedOption": 1,
+      "selectedRegistration": "050 47 23896 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

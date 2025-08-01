@@ -1,10 +1,10 @@
 {
   "catalogId": "9f616393-8008-4107-a0e4-1e99b1f5949a",
-  "name": "CILARIL 1",
+  "name": "CILARIL 5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "136 01 31495 00",
+  "registrationNumber": "135 94 31282 00",
   "treatmentDescriptions": "Cilaril is indicated for the treatment of hypertension. Cilaril is indicated for the treatment of chronic heart failure.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.677348",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CILARIL 1",
-        "registration": "136 01 31495 00",
-        "form": ""
-      },
-      {
-        "name": "CILARIL 2.5",
-        "registration": "135 93 31305 00",
-        "form": ""
-      },
-      {
-        "name": "CILARIL 5",
-        "registration": "135 94 31282 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:15.982696",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CILARIL 5 MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:15.982707",
+      "confidence": 95,
+      "reasoning": "The option \"CILARIL 5\" matches the medication based on the brand name similarity, strength compatibility (5.0mg), and same formulation. The registration number also closely matches.",
+      "selectedOption": 3,
+      "selectedRegistration": "135 94 31282 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

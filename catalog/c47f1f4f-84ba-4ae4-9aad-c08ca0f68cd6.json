@@ -1,10 +1,10 @@
 {
   "catalogId": "c47f1f4f-84ba-4ae4-9aad-c08ca0f68cd6",
-  "name": "GENTAMICIN B. BRAUN 1 MG/ML",
+  "name": "AFLUMYCIN",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "149 06 33562 00",
+  "registrationNumber": "125 91 24928 00",
   "treatmentDescriptions": "Treatment of serious infections caused by susceptible microorganisms.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.834532",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPTI GENTA",
-        "registration": "069 76 28591 00",
-        "form": ""
-      },
-      {
-        "name": "EASOTIC VETERINARY",
-        "registration": "159 84 34886 00",
-        "form": ""
-      },
-      {
-        "name": "AFLUMYCIN",
-        "registration": "125 91 24928 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:59.818680",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GENTAMICIN B. BRAUN 1 MG/ML 20 AMP 80ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21250000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:59.818695",
+      "confidence": 95,
+      "reasoning": "AFLUMYCIN closely matches GENTAMICIN B. BRAUN in terms of brand name similarity and both being antibiotic medications. The strength and formulation also align as AFLUMYCIN is available in a similar liquid form.",
+      "selectedOption": 3,
+      "selectedRegistration": "125 91 24928 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

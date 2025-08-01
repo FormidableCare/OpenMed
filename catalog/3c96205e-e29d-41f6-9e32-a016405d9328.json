@@ -1,10 +1,10 @@
 {
   "catalogId": "3c96205e-e29d-41f6-9e32-a016405d9328",
-  "name": "ALPRALID 0.25",
+  "name": "ALPRALID 0.5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 10 28371 00",
+  "registrationNumber": "137 11 28372 00",
   "treatmentDescriptions": "Treatment of symptoms of tension and anxiety, anxiety accompanied by depression and in panic states with or without phobia.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.705772",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALPRALID 0.25",
-        "registration": "137 10 28371 00",
-        "form": ""
-      },
-      {
-        "name": "ALPRALID 0.5",
-        "registration": "137 11 28372 00",
-        "form": ""
-      },
-      {
-        "name": "ALPRALID 1",
-        "registration": "137 12 28373 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:36.972947",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ALPRALID 1MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:36.972971",
+      "confidence": 95,
+      "reasoning": "The option 2, ALPRALID 0.5, closely matches the medication ALPRALID 0.25 in terms of brand name similarity, strength compatibility, and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "137 11 28372 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

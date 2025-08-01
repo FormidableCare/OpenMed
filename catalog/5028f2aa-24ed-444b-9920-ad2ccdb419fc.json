@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.878716",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUROFEN GEL 5 %",
-        "registration": "134 23 31074 00",
-        "form": ""
-      },
-      {
-        "name": "NUROFEN TABLETS 200 MG",
-        "registration": "132 32 31025 00",
-        "form": ""
-      },
-      {
-        "name": "NUROFEN FOR CHILDREN SUPPOSITORIES 125 MG",
-        "registration": "142 89 32016 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:55.984269",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NUROFEN FOR CHILDREN ORANGE SYR 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.22000000000000003,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:55.984274",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NUROFEN GEL 5% in terms of brand name similarity, formulation (gel), and strength (100.0ml). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "134 23 31074 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

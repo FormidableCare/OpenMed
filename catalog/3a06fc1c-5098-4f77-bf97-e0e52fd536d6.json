@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.715418",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ARIPLY 10",
-        "registration": "149 03 33529 01",
-        "form": ""
-      },
-      {
-        "name": "ARIPLY 15",
-        "registration": "149 04 33574 01",
-        "form": ""
-      },
-      {
-        "name": "ARIPLY 30",
-        "registration": "149 97 33891 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:49.668015",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ARIPLY 5MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:49.668022",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ARIPLY 10 in terms of brand name, strength (5.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 03 33529 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

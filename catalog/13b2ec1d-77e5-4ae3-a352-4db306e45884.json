@@ -1,10 +1,10 @@
 {
   "catalogId": "13b2ec1d-77e5-4ae3-a352-4db306e45884",
-  "name": "PENIBRIN 1 G",
+  "name": "PENIBRIN 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "032 41 22422 00",
+  "registrationNumber": "115 63 22419 00",
   "treatmentDescriptions": "Penibrin injection is recommended in serious infections when prompt, effective levels of the antibiotic must reach the site of infection. Such infections include meningitis, subacute bacterial endocarditis, peritonitis, septicemia, severe forms of chronic bronchitis, osteomyelitis, pneumonia and pyelonephritis due to susceptible organisms.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.977602",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PENIBRIN 1 G",
-        "registration": "032 41 22422 00",
-        "form": ""
-      },
-      {
-        "name": "PENIBRIN 2 G",
-        "registration": "102 72 27337 00",
-        "form": ""
-      },
-      {
-        "name": "PENIBRIN 500 MG",
-        "registration": "115 63 22419 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:44.135492",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PENIBRIN 0.5 G  10 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:44.135502",
+      "confidence": 95,
+      "reasoning": "The option \"PENIBRIN 500 MG\" closely matches the medication \"PENIBRIN 1 G\" in terms of brand name similarity, strength compatibility (500 mg vs. 1 g), and both being in tablet form.",
+      "selectedOption": 3,
+      "selectedRegistration": "115 63 22419 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

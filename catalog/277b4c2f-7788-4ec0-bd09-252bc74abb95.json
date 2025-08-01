@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.014655",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPDIVO",
-        "registration": "153 55 34333 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:00.144119",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OPDIVO 10MG/ML VIAL 4ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:00.144133",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match with the given medication details for OPDIVO.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 55 34333 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

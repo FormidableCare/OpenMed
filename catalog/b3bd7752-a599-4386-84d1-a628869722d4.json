@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.609354",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPTALGIN TABLETS",
-        "registration": "016 87 20611 12",
-        "form": ""
-      },
-      {
-        "name": "OPTALGIN TEVA",
-        "registration": "160 24 34798 00",
-        "form": ""
-      },
-      {
-        "name": "OPTALGIN ® DROPS NEW",
-        "registration": "164 35 35644 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:13.124504",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OPTALGIN 500MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:13.124516",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"OPTALGIN TABLETS\" in terms of brand name, strength (500.0mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "016 87 20611 12",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

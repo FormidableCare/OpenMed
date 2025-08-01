@@ -1,10 +1,10 @@
 {
   "catalogId": "241ff2e9-25c3-4f22-9fff-0afe5eb80b29",
-  "name": "STATOR 10",
+  "name": "STATOR 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "143 13 31932 02",
+  "registrationNumber": "143 14 31933 02",
   "treatmentDescriptions": "Primary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as  an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise  weight reduction ) is inadequate.  Homozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.090734",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STATOR 10",
-        "registration": "143 13 31932 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 20",
-        "registration": "143 14 31933 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 40",
-        "registration": "143 15 31934 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:16.390233",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STATOR 20MG 28FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:16.390246",
+      "confidence": 95,
+      "reasoning": "The option \"STATOR 20\" closely matches the medication \"STATOR 10\" in terms of brand name similarity, strength compatibility (20.0mg), and formulation. The registration numbers are also similar.",
+      "selectedOption": 2,
+      "selectedRegistration": "143 14 31933 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

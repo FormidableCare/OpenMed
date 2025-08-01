@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.643389",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SIRAN 200 MG EFFERVESCENT TABLETS",
-        "registration": "112 05 27057 00",
-        "form": ""
-      },
-      {
-        "name": "REOLIN EFFERVESCENT TABLETS 200 MG",
-        "registration": "127 37 30626 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:34.605716",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACETYLCYSTEINE FOR INHALATION 20% 100VIAL/10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:34.605722",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (200 mg), and formulation (effervescent tablets) all match between the medication and option 1. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "112 05 27057 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "b5b2bfc0-c7a9-496b-800f-c976c8a6b814",
-  "name": "ADAKVEO 10 MG/ML",
+  "name": "ULTOMIRIS 10 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 71 36562 00",
+  "registrationNumber": "163 14 36063 00",
   "treatmentDescriptions": "ADAKVEO is indicated to reduce the frequency of vasoocclusive crises (VOCs) in adults and pediatric patients aged 16 years and older with sickle cell disease.",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.840547",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADAKVEO 10 MG/ML",
-        "registration": "168 71 36562 00",
-        "form": ""
-      },
-      {
-        "name": "ULTOMIRIS 10 MG/ML",
-        "registration": "163 14 36063 00",
-        "form": ""
-      },
-      {
-        "name": "ULTOMIRIS 100MG/ML",
-        "registration": "173 29 37321 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:21.683187",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LIZ TABS 1(24+4)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:21.683195",
+      "confidence": 95,
+      "reasoning": "Brand name ULTOMIRIS is similar to ADAKVEO, both are monoclonal antibodies used for treating certain conditions. Strength of 10 MG/ML matches.",
+      "selectedOption": 2,
+      "selectedRegistration": "163 14 36063 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.038465",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ROKACET",
-        "registration": "027 84 21960 00",
-        "form": ""
-      },
-      {
-        "name": "ROKACET PLUS",
-        "registration": "040 48 25715 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:23.591237",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ROKACET PLUS 24 CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:23.591249",
+      "confidence": 95,
+      "reasoning": "The brand name \"ROKACET\" matches, and the registration number is the same. The strength and formulation are not provided in the options, so we cannot compare those criteria.",
+      "selectedOption": 1,
+      "selectedRegistration": "027 84 21960 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

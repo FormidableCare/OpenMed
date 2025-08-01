@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.353133",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TACHOSIL",
-        "registration": "139 51 31704 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:07.730508",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TACHOSIL 2IU/5.5MG SPONGE (9.5x4.8CM)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:07.730515",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength of the medication TACHOSIL match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 51 31704 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.949919",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADEX 200",
-        "registration": "039 71 26007 00",
-        "form": ""
-      },
-      {
-        "name": "ADEX LIQUID  GELCAPSULES 200 - NEW",
-        "registration": "169 63 35888 00",
-        "form": ""
-      },
-      {
-        "name": "ADEX LIQUID GEL CAPSULES 400 - NEW",
-        "registration": "169 64 35847 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:51.576521",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADEX 200MG 40CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:51.576527",
+      "confidence": 95,
+      "reasoning": "The option 1, ADEX 200, matches the medication based on the brand name similarity, strength compatibility (200.0mg), and same formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "039 71 26007 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

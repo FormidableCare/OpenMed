@@ -65,22 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.166668",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXOPURIN 400",
-        "registration": "011 41 23858 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:31.081649",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXOPURIN 400MG 100 SR CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:31.081657",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (400mg), and formulation (sr) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "011 41 23858 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

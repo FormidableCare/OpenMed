@@ -1,10 +1,10 @@
 {
   "catalogId": "6279184f-0685-4a1c-b34e-506f1045681c",
-  "name": "POINT",
+  "name": "CYTOPOINT 10 MG VETERINARY",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "103 81 28780 00",
+  "registrationNumber": "179 29 37602 00",
   "treatmentDescriptions": "Mild and moderate analgesic such as relief of toothache, backache and menstrual pain (primary dysmenorrhea).Fever reduction.Non-steroidal anti-inflammatory for the treatment of rheumatic inflammations, tendinitis and musculoskeletal inflammations.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.383394",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "POINT",
-        "registration": "103 81 28780 00",
-        "form": ""
-      },
-      {
-        "name": "CYTOPOINT 10 MG VETERINARY",
-        "registration": "179 29 37602 00",
-        "form": ""
-      },
-      {
-        "name": "CYTOPOINT 20 MG VETERINARY",
-        "registration": "179 30 37603 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:50.326374",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "POINT 275MG 24TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:50.326385",
+      "confidence": 95,
+      "reasoning": "The medication \"POINT\" with a strength of 275.0mg closely matches \"CYTOPOINT 10 MG VETERINARY\" in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "179 29 37602 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

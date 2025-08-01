@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.869520",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RIPOL 10 MG/ML",
-        "registration": "159 41 34438 00",
-        "form": ""
-      },
-      {
-        "name": "RIPOL 20 MG/ML",
-        "registration": "159 43 34442 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:28.670009",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RIPOL 20 MG/ML 50 ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:28.670077",
+      "confidence": 95,
+      "reasoning": "The medication RIPOL 10 MG/ML matches with Option 1 as it has the same strength, formulation, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 41 34438 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

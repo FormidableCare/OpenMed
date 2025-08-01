@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.828440",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NOTENSYL TABLETS",
-        "registration": "117 85 23254 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:04.877308",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NOTENSYL 10MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:04.877316",
+      "confidence": 95,
+      "reasoning": "The brand name, strength, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "117 85 23254 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

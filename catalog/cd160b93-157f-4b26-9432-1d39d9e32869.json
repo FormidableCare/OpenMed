@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.726546",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TAKHZYRO",
-        "registration": "163 47 35885 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:36.417500",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TAKHZYRO 150MG/ML 1 PFS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:36.417511",
+      "confidence": 95,
+      "reasoning": "The brand name \"TAKHZYRO\" and registration number 163 47 35885 00 match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 47 35885 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

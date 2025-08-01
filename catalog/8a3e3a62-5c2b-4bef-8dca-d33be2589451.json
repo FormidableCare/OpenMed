@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.969942",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ESTELLE-35",
-        "registration": "131 46 30957 11",
-        "form": ""
-      },
-      {
-        "name": "ESTELLE-35",
-        "registration": "131 46 30957 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:01.648574",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ESTELLE 35 21X3TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:01.648594",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation of option 1 match the provided medication details for ESTELLE-35.",
+      "selectedOption": 1,
+      "selectedRegistration": "131 46 30957 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

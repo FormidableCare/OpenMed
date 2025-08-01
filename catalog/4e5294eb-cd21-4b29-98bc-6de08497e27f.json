@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.744040",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ENDARI",
-        "registration": "164 80 35650 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:59.522561",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ENDARI 5 G 60 PACKETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:59.522572",
+      "confidence": 95,
+      "reasoning": "The brand name \"ENDARI\" matches, the registration number matches, and the strength of 5.0g is also the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 80 35650 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

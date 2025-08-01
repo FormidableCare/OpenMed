@@ -1,10 +1,10 @@
 {
   "catalogId": "9fddb697-4158-4ea4-9a5f-03adfe2ee250",
-  "name": "ACERIL 12.5",
+  "name": "ACERIL 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "106 49 29061 00",
+  "registrationNumber": "106 50 29062 00",
   "treatmentDescriptions": "-HypertensionCongestive Heart Failure-insulin dependent diabetic nephropathy in hypertensive and non hypertensive patients in cases where the serum creatinine level < 2.5 mg/dl.-improve survival following myocardial infarction in clinically stable patients with left ventricular dysfunction manifested as an ejection fraction less or equals to 40% and to reduce the incidence of overt heart failure and subsequent hospitalization for congestive heart failure in these patients.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.992610",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACERIL 12.5",
-        "registration": "106 49 29061 00",
-        "form": ""
-      },
-      {
-        "name": "ACERIL 25",
-        "registration": "106 50 29062 00",
-        "form": ""
-      },
-      {
-        "name": "ACERIL 50",
-        "registration": "106 51 29063 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:27.642001",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACERIL 25MG 90TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:27.642012",
+      "confidence": 95,
+      "reasoning": "The option 2, ACERIL 25, matches the medication ACERIL 12.5 in terms of brand name similarity, strength compatibility (25.0mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "106 50 29062 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

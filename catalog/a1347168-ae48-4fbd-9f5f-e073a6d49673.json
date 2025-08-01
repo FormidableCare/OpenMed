@@ -1,10 +1,10 @@
 {
   "catalogId": "a1347168-ae48-4fbd-9f5f-e073a6d49673",
-  "name": "URSOLIT 100",
+  "name": "URSOLIT 300",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "019 25 20542 00",
+  "registrationNumber": "058 63 26923 00",
   "treatmentDescriptions": "Dissolution or reductin in size of radiolucent cholesterol in patient with a functioning gallbladder. Treatment of chronic liver diseases including primary billiary cirrhosis, primary sclerosing cholangitis, cystic fibrosis associated liver disease, biliary atresia, chronic hepatitis, and alcohol cirrhosis.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.299889",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URSOLIT 100",
-        "registration": "019 25 20542 00",
-        "form": ""
-      },
-      {
-        "name": "URSOLIT 300",
-        "registration": "058 63 26923 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:19.539642",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "URSOLIT 300MG 30CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:19.539648",
+      "confidence": 95,
+      "reasoning": "The option 2, URSOLIT 300, closely matches the medication URSOLIT 100 in terms of brand name similarity and strength compatibility (300.0mg). The only difference is in the strength indication, which could be a variation in the formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "058 63 26923 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

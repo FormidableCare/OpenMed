@@ -1,10 +1,10 @@
 {
   "catalogId": "4a8a0054-7dda-4547-96a8-3743d0888a36",
-  "name": "FENTANYL - KALCEKS 0.05 MG/ML",
+  "name": "ABSTRAL 100 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 89 35639 00",
+  "registrationNumber": "148 73 33262 01",
   "treatmentDescriptions": "For analgesic action of short duration during anesthtic periods (premedication induction and maintenance) and in the immediate postoperative period as need arises. As a narcotic analgesic supplement in general or regional anesthesia. For administration with neuroleptics (such as droperidol) as an anesthetic premedication for the induction of anesthesia and as an adjunct in the maintenance of general or regional anesthesia. For use as an anesthetic agent with oxygen in selected high-risk patients (open heart surgery or certain neurological or orthopedic procedures). By the epidural route for the postoperative management of pain following general surgical procedures and cesarean sections and as adjunct to general anesthesia.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.250648",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABSTRAL 100 MCG",
-        "registration": "148 73 33262 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 200 MCG",
-        "registration": "148 74 33263 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 300 MCG",
-        "registration": "148 75 33264 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:13.465841",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENTANYL - KALCEKS 0.05 MG/ML 10ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:13.465846",
+      "confidence": 95,
+      "reasoning": "The medication Fentanyl - Kalceks 0.05 mg/ml with a strength of 10.0ml matches closely with ABSTRAL 100 MCG in terms of strength compatibility and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 73 33262 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.630448",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTRIVIN",
-        "registration": "115 43 22229 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN NASAL GEL",
-        "registration": "032 82 22228 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN KIDS",
-        "registration": "108 21 23658 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:14.098117",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OTRIVIN COMPLETE NASAL SPRAY 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:14.098129",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication OTRIVIN in terms of brand name, registration number, and strength.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 43 22229 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "87e6cd11-dbfb-4b63-830d-7ffbd0a0ba6b",
-  "name": "ETOPAN XL 500",
+  "name": "ETOPAN 300",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 08 30651 00",
+  "registrationNumber": "105 71 29075 00",
   "treatmentDescriptions": "For the management of signs and symptoms of osteoarthrities and rheumatoid arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.007134",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ETOPAN XL 500",
-        "registration": "128 08 30651 00",
-        "form": ""
-      },
-      {
-        "name": "ETOPAN 200",
-        "registration": "105 70 29074 00",
-        "form": ""
-      },
-      {
-        "name": "ETOPAN 300",
-        "registration": "105 71 29075 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:43.912484",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ETOPAN 400MG 20 XL TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.16666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:43.912514",
+      "confidence": 95,
+      "reasoning": "The option \"ETOPAN 300\" closely matches the medication \"ETOPAN XL 500\" in terms of brand name similarity, strength compatibility (400mg vs. 300mg), and both having extended-release formulations indicated by \"xl\".",
+      "selectedOption": 3,
+      "selectedRegistration": "105 71 29075 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

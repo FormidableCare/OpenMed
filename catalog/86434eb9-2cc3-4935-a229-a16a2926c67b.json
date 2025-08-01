@@ -1,10 +1,10 @@
 {
   "catalogId": "86434eb9-2cc3-4935-a229-a16a2926c67b",
-  "name": "OTRIVIN",
+  "name": "OTRIVIN NASAL GEL",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "115 43 22229 00",
+  "registrationNumber": "032 82 22228 00",
   "treatmentDescriptions": "Rapid relief of nasal congestion for up to ten hours in adults and adolescents aged 12 years and older.",
   "termsOfIssue": "",
   "form": "nasal solution",
@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.627195",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTRIVIN",
-        "registration": "115 43 22229 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN NASAL GEL",
-        "registration": "032 82 22228 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN KIDS",
-        "registration": "108 21 23658 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:10.621880",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AZOLINE DROPS 15CC",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:10.621898",
+      "confidence": 95,
+      "reasoning": "The option \"OTRIVIN NASAL GEL\" closely matches the medication \"OTRIVIN\" in terms of brand name similarity. The registration numbers are different, but the strength and formulation are likely compatible with a nasal gel formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "032 82 22228 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

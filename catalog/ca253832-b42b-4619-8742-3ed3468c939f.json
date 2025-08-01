@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.526036",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AVCAMOL 250 MG",
-        "registration": "148 51 33446 01",
-        "form": ""
-      },
-      {
-        "name": "AVCAMOL 250 MG",
-        "registration": "148 51 33446 00",
-        "form": ""
-      },
-      {
-        "name": "AVCAMOL 500",
-        "registration": "148 53 33459 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:19.910712",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARACETAMOL TARO IV 10MG/ML 10VIAL 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:19.910718",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication AVCAMOL 250 MG in terms of brand name, strength (250 mg), and registration number (148 51 33446 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "148 51 33446 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

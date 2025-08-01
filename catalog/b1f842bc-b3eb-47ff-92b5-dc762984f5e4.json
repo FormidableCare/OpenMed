@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.302498",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLEET ENEMA 133",
-        "registration": "034 95 22406 11",
-        "form": ""
-      },
-      {
-        "name": "FLEET ENEMA 250",
-        "registration": "149 41 33912 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:27.075656",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLEET ENEMA 133 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.037500000000000006,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:27.075667",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (133ml), and registration number (034 95 22406 11) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "034 95 22406 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

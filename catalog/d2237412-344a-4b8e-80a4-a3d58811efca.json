@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.590758",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CIPRODEX 250",
-        "registration": "123 59 30427 00",
-        "form": ""
-      },
-      {
-        "name": "CIPRODEX 500",
-        "registration": "123 60 30428 00",
-        "form": ""
-      },
-      {
-        "name": "CIPRODEX 750",
-        "registration": "123 61 30429 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:56.777192",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CIPRODEX 250MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:56.777204",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication CIPRODEX 250 in terms of brand name, strength (250.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "123 59 30427 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

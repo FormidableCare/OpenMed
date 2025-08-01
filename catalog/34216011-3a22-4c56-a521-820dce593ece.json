@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.874384",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 4 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 97 26736 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:37.151385",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GLUCOSE 5 % INTRAVENOUS INFUSION BP  VIAFLO 500ml",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2041666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:37.151390",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication CAPD 2 PERITONEAL DIALYSIS SOLUTION in terms of name, registration number, strength (5.0%), and formulation (solution).",
+      "selectedOption": 1,
+      "selectedRegistration": "107 95 26735 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

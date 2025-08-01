@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.507795",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VFEND 200 MG POWDER FOR SOLUTION FOR INFUSION",
-        "registration": "126 71 30598 12",
-        "form": ""
-      },
-      {
-        "name": "VFEND 200 MG FILM-COATED TABLETS",
-        "registration": "126 70 30597 02",
-        "form": ""
-      },
-      {
-        "name": "VFEND 40 MG/ML POWDER FOR ORAL SUSPENSION",
-        "registration": "134 48 31157 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:02.566204",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VFEND 40MG/ML PWDR ORAL SUSP 75ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:02.566210",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication VFEND 200 MG POWDER FOR SOLUTION FOR INFUSION in terms of brand name, strength, and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "126 71 30598 12",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

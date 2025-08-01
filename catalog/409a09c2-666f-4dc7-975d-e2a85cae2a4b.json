@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.163676",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEVETIRACETAM ALTAN 100 MG/ML",
-        "registration": "162 07 35480 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETIRACETAM DEXCEL 1000",
-        "registration": "149 66 33514 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETIRACETAM DEXCEL 250",
-        "registration": "149 63 33519 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:25.819776",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVETIRACETAM DEXCEL 250MG 60 TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:25.819782",
+      "confidence": 95,
+      "reasoning": "The option \"LEVETIRACETAM DEXCEL 1000\" matches the medication based on the brand name similarity, strength compatibility (1000mg vs. 250mg), and same tablet formulation. The registration numbers also match.",
+      "selectedOption": 2,
+      "selectedRegistration": "149 66 33514 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

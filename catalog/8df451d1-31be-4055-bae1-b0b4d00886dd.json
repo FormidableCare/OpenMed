@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.944213",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIPROGENTA OINTMENT",
-        "registration": "134 12 23893 00",
-        "form": ""
-      },
-      {
-        "name": "DIPROGENTA CREAM",
-        "registration": "134 32 24138 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:38.986666",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DIPROGENTA OINT 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:38.986674",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "134 12 23893 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

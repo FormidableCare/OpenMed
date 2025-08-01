@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.971284",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VIGAMOX",
-        "registration": "133 10 31054 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:03.281480",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VIGAMOX OPHT SOL 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:03.281495",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match the provided medication details for Vigamox.",
+      "selectedOption": 1,
+      "selectedRegistration": "133 10 31054 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

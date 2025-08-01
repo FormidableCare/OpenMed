@@ -1,10 +1,10 @@
 {
   "catalogId": "510718ad-8bca-4ca0-8dfe-5efa072bc89c",
-  "name": "SITAGLIPTIN S.K. 100 MG",
+  "name": "JANUET 50 MG/1000 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 99 36508 99",
+  "registrationNumber": "139 88 31705 14",
   "treatmentDescriptions": "Sitagliptin S.K. is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus. Important limitations of use: Sitagliptin S.K. should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings. Sitagliptin S.K. has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Sitagliptin S.K..",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.509396",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 00",
-        "form": ""
-      },
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 02",
-        "form": ""
-      },
-      {
-        "name": "JANUET 50 MG/1000 MG",
-        "registration": "139 88 31705 14",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:04.353090",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SITAGLIPTIN S.K. 50 MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2111111111111111,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:04.353098",
+      "confidence": 95,
+      "reasoning": "The option \"JANUET 50 MG/1000 MG\" matches the medication \"SITAGLIPTIN S.K. 100 MG\" in terms of strength compatibility (50 mg) and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "139 88 31705 14",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

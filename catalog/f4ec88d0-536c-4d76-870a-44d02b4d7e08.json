@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.089999",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CUROSURF",
-        "registration": "068 79 28250 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:12.578439",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CUROSURF 240 MG/3 ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:12.578450",
+      "confidence": 95,
+      "reasoning": "The brand name CUROSURF, registration number, and formulation match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "068 79 28250 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

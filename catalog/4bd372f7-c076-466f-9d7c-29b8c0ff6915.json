@@ -55,32 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.325212",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PARAMOL",
-        "registration": "127 96 30764 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL DAY CARE",
-        "registration": "127 91 30769 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL NIGHT CARE",
-        "registration": "127 90 30770 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:50.940479",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARAMOL PLUS 20 CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:50.940527",
+      "confidence": 95,
+      "reasoning": "The brand name PARAMOL matches, and the registration number is identical. The strength and formulation details are missing in the provided information, but based on the brand name and registration number, option 1 is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 96 30764 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

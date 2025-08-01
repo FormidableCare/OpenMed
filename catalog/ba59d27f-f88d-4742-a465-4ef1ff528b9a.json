@@ -1,10 +1,10 @@
 {
   "catalogId": "ba59d27f-f88d-4742-a465-4ef1ff528b9a",
-  "name": "SUMATRIDEX 100",
+  "name": "SUMATRIDEX 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "131 31 30967 00",
+  "registrationNumber": "131 30 30966 00",
   "treatmentDescriptions": "Sumatridex caplets are indicated for the acute relief of migraine attacks, with or without aura. Sumatridex should only be used where there is a clear diagnosis of migraine.",
   "termsOfIssue": "Prescription required",
   "form": "caplets",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.185632",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUMATRIDEX 100",
-        "registration": "131 31 30967 00",
-        "form": ""
-      },
-      {
-        "name": "SUMATRIDEX 50",
-        "registration": "131 30 30966 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:54.944144",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SUMATRIDEX 50MG 6CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:54.944154",
+      "confidence": 95,
+      "reasoning": "The option 2, SUMATRIDEX 50, closely matches the medication SUMATRIDEX 100 in terms of brand name similarity, strength compatibility (50.0mg), and registration number (131 30 30966 00). The only difference is in the strength, which could be a minor error or variation in the provided information.",
+      "selectedOption": 2,
+      "selectedRegistration": "131 30 30966 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "5266a617-a81d-4657-8f12-97eb07961f71",
-  "name": "CIPRODEX 250",
+  "name": "CIPRODEX 750",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "123 59 30427 00",
+  "registrationNumber": "123 61 30429 00",
   "treatmentDescriptions": "CIPRODEX caplets are indicated for the treatment of the following infections:Special attention should be paid to available information on resistance to ciprofloxacin before commencing therapy. Adults • Lower respiratory tract infections due to Gram-negative bacteria - exacerbations of chronic obstructive pulmonary disease o In exacerbation of chronic obstructive pulmonary disease CIPRODEX should be used only when it is considered inappropriate to use other antibacterial agents that are commonly recommended for the treatment of these infections. - broncho-pulmonary infections in cystic fibrosis or in bronchiectasis - pneumonia • Chronic suppurative otitis media • Acute exacerbation of chronic sinusitis especially if these are caused by Gram-negative bacteria • Uncomplicated acute cystitis - In uncomplicated acute cystitis CIPRODEX should be used only when it is considered inappropriate to use other antibacterial agents that are commonly recommended for the treatment of these infections. • Acute pyelonephritis • Complicated urinary tract infections • Bacterial prostatitis • Genital tract infections - gonococcal uretritis and cervicitis due to susceptible Neisseria gonorrhoeae - epididymo-orchitis including cases due to susceptible Neisseria gonorrhoeae - pelvic inflammatory disease including cases due to susceptible Neisseria gonorrhoeae • Infections of the gastro-intestinal tract (e.g. travellers’ diarrhoea) • Intra-abdominal infections • Infections of the skin and soft tissue caused by Gram-negative bacteria • Malignant external otitis • Infections of the bones and joints • Inhalation anthrax (post-exposure prophylaxis and curative treatment) Ciprofloxacin may be used in the management of neutropenic patients with fever that is suspected to be due to a bacterial infection. Children and adolescents • Broncho-pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis • Complicated urinary tract infections and acute pyelonephritis • Inhalation anthrax (post-exposure prophylaxis and curative treatment) Ciprofloxacin may also be used to treat severe infections in children and adolescents when this is considered to be necessary. Treatment should be initiated only by physicians who are experienced in the treatment of cystic fibrosis and/or severe infections in children and adolescents.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.735298",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CIPRODEX 250",
-        "registration": "123 59 30427 00",
-        "form": ""
-      },
-      {
-        "name": "CIPRODEX 500",
-        "registration": "123 60 30428 00",
-        "form": ""
-      },
-      {
-        "name": "CIPRODEX 750",
-        "registration": "123 61 30429 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:50.440233",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CIPRODEX 750MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:50.440248",
+      "confidence": 95,
+      "reasoning": "The option 3, CIPRODEX 750, matches the medication CIPRODEX 250 in terms of brand name similarity, strength compatibility (750mg), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "123 61 30429 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

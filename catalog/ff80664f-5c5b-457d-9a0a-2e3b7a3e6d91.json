@@ -69,32 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.886721",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TOBREX OPHTHALMIC OINTMENT",
-        "registration": "047 16 22795 00",
-        "form": ""
-      },
-      {
-        "name": "EYETOBRIN",
-        "registration": "179 19 37677 99",
-        "form": ""
-      },
-      {
-        "name": "BRAMITOB",
-        "registration": "144 24 32986 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:59.386853",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TOBRAMYCIN 80MG/2ML 25AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:59.386866",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TOBREX OPHTHALMIC OINTMENT in terms of brand name similarity, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "047 16 22795 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

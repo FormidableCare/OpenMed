@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.832921",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MOVEX TABLETS",
-        "registration": "124 50 27560 00",
-        "form": ""
-      },
-      {
-        "name": "MOVEX SOLUTION",
-        "registration": "063 08 27462 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:12.268693",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MOVEX 8MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:12.268698",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"MOVEX TABLETS\" in terms of brand name, strength (8.0mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "124 50 27560 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

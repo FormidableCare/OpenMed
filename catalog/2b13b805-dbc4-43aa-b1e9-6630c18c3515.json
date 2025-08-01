@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.785216",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYTOCIN - GRINDEKS",
-        "registration": "165 47 35690 00",
-        "form": ""
-      },
-      {
-        "name": "OXYTOCIN PANPHARMA INJECTION  10 I.U./ML",
-        "registration": "124 93 30439 00",
-        "form": ""
-      },
-      {
-        "name": "PARTOVET VETERINARY",
-        "registration": "083 47 92369 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:56.032288",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYTOCIN INJECTION BP 10AMP (10IU/ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.16499999999999998,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:56.032302",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match closely with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 47 35690 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

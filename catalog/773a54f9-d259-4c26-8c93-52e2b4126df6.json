@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.255164",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GAVISCON PEPPERMINT TABLETS",
-        "registration": "141 58 31757 00",
-        "form": ""
-      },
-      {
-        "name": "GAVISCON LIQUID PEPPERMINT",
-        "registration": "141 67 31756 00",
-        "form": ""
-      },
-      {
-        "name": "GAVISCON FORTE PEPPERMINT",
-        "registration": "141 57 31835 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:21.130117",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GAVISCON LIQUID PEPPERMINT 300ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.037500000000000006,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:21.130128",
+      "confidence": 95,
+      "reasoning": "The option 2, GAVISCON LIQUID PEPPERMINT, matches the medication based on the brand name similarity, strength compatibility (300.0ml), and same formulation as GAVISCON LIQUID PEPPERMINT.",
+      "selectedOption": 2,
+      "selectedRegistration": "141 67 31756 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

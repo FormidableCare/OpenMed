@@ -67,27 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.191026",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEPO-PROVERA 150 MG/ML",
-        "registration": "069 69 24309 00",
-        "form": ""
-      },
-      {
-        "name": "DEPO-PROVERA 500",
-        "registration": "013 40 24544 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:00.644207",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEPO-PROVERA 150MG1ML SOL FOR INJ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:00.644217",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"DEPO-PROVERA 150 MG/ML\" in terms of brand name, strength (150.0mg/1.0ml), and registration number (069 69 24309 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "069 69 24309 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "5728da44-d0bd-4cfe-aa87-e9989caedd1e",
-  "name": "IODO-VIT VETERINARY OINTMENT",
+  "name": "IODO-VIT OINTMENT",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "083 26 92362 00",
+  "registrationNumber": "116 51 28128 00",
   "treatmentDescriptions": "Disinfection of wounds, scratches, minor burns and skin infections in farm animals and pets.",
   "termsOfIssue": "",
   "form": "ointment",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.706189",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IODO-VIT VETERINARY OINTMENT",
-        "registration": "083 26 92362 00",
-        "form": ""
-      },
-      {
-        "name": "IODO-VIT VETERINARY SOLUTION",
-        "registration": "083 35 92361 00",
-        "form": ""
-      },
-      {
-        "name": "IODO-VIT OINTMENT",
-        "registration": "116 51 28128 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:13.421644",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IODO-VIT OINT 250GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:13.421654",
+      "confidence": 95,
+      "reasoning": "The option 3, IODO-VIT OINTMENT, closely matches the medication IODO-VIT VETERINARY OINTMENT in terms of brand name similarity and formulation. The strength is not explicitly mentioned in the options, but since both are ointments, it is likely that the strength is the same.",
+      "selectedOption": 3,
+      "selectedRegistration": "116 51 28128 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

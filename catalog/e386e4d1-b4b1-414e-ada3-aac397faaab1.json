@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.723271",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMAX",
-        "registration": "022 58 24975 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:55.210709",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMAX 200ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:55.210840",
+      "confidence": 95,
+      "reasoning": "The brand name DERMAX, registration number, and strength (200.0ml) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "022 58 24975 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

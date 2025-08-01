@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.057151",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 00",
-        "form": ""
-      },
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 02",
-        "form": ""
-      },
-      {
-        "name": "JANUET 50 MG/1000 MG",
-        "registration": "139 88 31705 14",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:41.233426",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SITAGLIPTIN 50 MG 10 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:41.233439",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication JANUET XR 100/1000 MG TABLETS in terms of brand name similarity, strength compatibility (100/1000 MG), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "151 33 33934 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

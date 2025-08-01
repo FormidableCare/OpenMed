@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.095635",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CRESTOR ® 5 MG",
-        "registration": "139 22 31615 00",
-        "form": ""
-      },
-      {
-        "name": "OVA-GEST VETERINARY",
-        "registration": "082 76 92331 00",
-        "form": ""
-      },
-      {
-        "name": "ANDROGEL 50 MG",
-        "registration": "141 18 30760 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:23.746679",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CRESTOR 40MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:23.746685",
+      "confidence": 95,
+      "reasoning": "The medication CRESTOR ® 5 MG matches with Option 1 as they have the same brand name, strength (5 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 22 31615 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

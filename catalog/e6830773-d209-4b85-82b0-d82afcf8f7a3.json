@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.548320",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VECTOR 160",
-        "registration": "145 44 33076 01",
-        "form": ""
-      },
-      {
-        "name": "VECTOR 80",
-        "registration": "145 43 33075 01",
-        "form": ""
-      },
-      {
-        "name": "VECTOR PLUS 160/12.5",
-        "registration": "146 06 33406 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:33.352204",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VECTOR 160 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:33.352215",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"VECTOR 160\" in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "145 44 33076 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

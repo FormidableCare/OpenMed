@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.729285",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "APIDRA",
-        "registration": "132 94 31195 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:38.072756",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "APIDRA OPTISET/SOLOSTAR PREFILLED PEN 5X3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:38.072766",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match the provided medication details for Apidra.",
+      "selectedOption": 1,
+      "selectedRegistration": "132 94 31195 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

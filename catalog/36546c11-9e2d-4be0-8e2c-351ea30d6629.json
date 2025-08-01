@@ -1,10 +1,10 @@
 {
   "catalogId": "36546c11-9e2d-4be0-8e2c-351ea30d6629",
-  "name": "MELODIL 25",
+  "name": "MELODIL 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "032 57 22655 01",
+  "registrationNumber": "032 47 22654 01",
   "treatmentDescriptions": "Treatment of depressive states and anxiety states associated with depression.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.797043",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MELODIL 25",
-        "registration": "032 57 22655 01",
-        "form": ""
-      },
-      {
-        "name": "MELODIL 50",
-        "registration": "032 47 22654 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:15.255847",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MELODIL 50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:15.255881",
+      "confidence": 95,
+      "reasoning": "The option 2, MELODIL 50, closely matches the medication MELODIL 25 in terms of brand name similarity, strength compatibility (50.0mg), and formulation. The only difference is in the strength indicated in the option.",
+      "selectedOption": 2,
+      "selectedRegistration": "032 47 22654 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

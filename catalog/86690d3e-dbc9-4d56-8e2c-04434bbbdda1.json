@@ -1,10 +1,10 @@
 {
   "catalogId": "86690d3e-dbc9-4d56-8e2c-04434bbbdda1",
-  "name": "NORMALOL 100",
+  "name": "NORMALOL 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "052 39 26224 00",
+  "registrationNumber": "052 40 26223 00",
   "treatmentDescriptions": "For the treatment of angina pectoris, acute myocardial infarction, hypertension.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.861907",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NORMALOL 100",
-        "registration": "052 39 26224 00",
-        "form": ""
-      },
-      {
-        "name": "NORMALOL 25",
-        "registration": "104 19 28700 00",
-        "form": ""
-      },
-      {
-        "name": "NORMALOL 50",
-        "registration": "052 40 26223 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:19.686086",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NORMALOL 50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:19.686097",
+      "confidence": 95,
+      "reasoning": "The option 3, NORMALOL 50, closely matches the medication NORMALOL 100 in terms of brand name similarity, registration number similarity, and strength compatibility. The only difference is the strength, which can be attributed to a different formulation or dosage form.",
+      "selectedOption": 3,
+      "selectedRegistration": "052 40 26223 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

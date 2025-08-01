@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.241178",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 00",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 22",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG MIX 25 KWIKPEN",
-        "registration": "143 45 33217 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:04.927459",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMALOG KWIKPEN JUNIOR 100 U/ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.04166666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:04.927465",
+      "confidence": 95,
+      "reasoning": "The brand name \"HUMALOG\" and registration number match, indicating a high likelihood of being the correct medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "102 83 28580 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

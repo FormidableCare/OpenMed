@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.642444",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ATOMIC 100",
-        "registration": "167 84 36235 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 18",
-        "registration": "167 82 36233 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 25",
-        "registration": "160 12 35129 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:30.601718",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ATOMIC 40mg 28 tab",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:30.601724",
+      "confidence": 95,
+      "reasoning": "The medication ATOMIC 100 matches with Option 1 based on the brand name similarity, registration number, and strength compatibility.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 84 36235 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

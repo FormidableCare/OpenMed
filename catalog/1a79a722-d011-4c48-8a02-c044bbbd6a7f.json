@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.293635",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMACOMBIN OINTMENT",
-        "registration": "015 28 24536 00",
-        "form": ""
-      },
-      {
-        "name": "DERMACOMBIN CREAM",
-        "registration": "133 54 23775 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:10.361186",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMACOMBIN OINT 5G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:10.361191",
+      "confidence": 95,
+      "reasoning": "The medication DERMACOMBIN OINTMENT matches option 1 closely in terms of brand name similarity, strength compatibility (5.0g), and formulation (ointment). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "015 28 24536 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

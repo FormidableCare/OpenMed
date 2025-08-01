@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.033766",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 01",
-        "form": ""
-      },
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 02",
-        "form": ""
-      },
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:18.283315",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TAMSULOSIN INOVAMED 0.4MG 30 P.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:18.283326",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DUODART with the same registration number, strength (0.4mg), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "146 34 33278 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

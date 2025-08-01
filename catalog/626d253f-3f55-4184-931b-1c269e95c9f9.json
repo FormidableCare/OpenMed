@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.034473",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EBIXA TABLETS 10 MG",
-        "registration": "129 83 30891 00",
-        "form": ""
-      },
-      {
-        "name": "EBIXA TABLETS 20 MG",
-        "registration": "142 62 32007 00",
-        "form": ""
-      },
-      {
-        "name": "EBIXA 5 MG/PUMP ACTUATION ORAL SOLUTION",
-        "registration": "140 63 30890 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:16.615965",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EBIXA DROPS 10MG/G 50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:16.615971",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication EBIXA TABLETS 10 MG in terms of brand name, strength (10 mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "129 83 30891 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.946695",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXALIPLATIN TEVA ®",
-        "registration": "142 23 31784 00",
-        "form": ""
-      },
-      {
-        "name": "OXALIPLATIN MEDAC 100 MG",
-        "registration": "137 25 31504 00",
-        "form": ""
-      },
-      {
-        "name": "OXALIPLATIN MEDAC 50 MG",
-        "registration": "137 24 31503 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:15.430798",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXALIPLATIN MEDAC 100MG/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:15.430811",
+      "confidence": 95,
+      "reasoning": "The medication OXALIPLATIN MEDAC 100 MG matches the provided medication in terms of brand name, strength (100 mg), and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "137 25 31504 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.675335",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IMFINZI",
-        "registration": "159 97 35280 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:14.232162",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IMFINZI 120 MG/2.4 ML 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:14.232173",
+      "confidence": 95,
+      "reasoning": "The brand name \"IMFINZI\" matches, the registration number matches, and the strength of 120.0mg is also the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 97 35280 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.150187",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CERAZETTE",
-        "registration": "131 09 30977 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:07.026875",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CERAZETTE 0.075MG 3X28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:07.027193",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication CERAZETTE 0.075mg.",
+      "selectedOption": 1,
+      "selectedRegistration": "131 09 30977 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

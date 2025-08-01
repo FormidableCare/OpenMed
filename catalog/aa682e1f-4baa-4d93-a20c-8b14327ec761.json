@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.859703",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "INSTILLAGEL",
-        "registration": "160 11 35080 00",
-        "form": ""
-      },
-      {
-        "name": "STILLA SINGLES",
-        "registration": "122 50 30243 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:34.028860",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STILLA SINGLES 20*0.3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:34.028876",
+      "confidence": 95,
+      "reasoning": "The medication INSTILLAGEL matches option 1 based on the brand name similarity, strength compatibility (0.3ml), and same formulation (gel). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 11 35080 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

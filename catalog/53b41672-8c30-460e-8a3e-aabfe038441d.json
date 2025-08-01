@@ -1,10 +1,10 @@
 {
   "catalogId": "53b41672-8c30-460e-8a3e-aabfe038441d",
-  "name": "UTROGESTAN 100",
+  "name": "UTROGESTAN 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 44 26341 11",
+  "registrationNumber": "128 73 30719 00",
   "treatmentDescriptions": "Vaginal or oral addministration: Disorders related to progesterone deficit in particular menopause ( in association with estrogen therapy).Vaginal administration: Progesterone substitution for ovary deprived women in situation of total progesterone deficiency. Supplementation of the luteal phase during in vitro fertilization cycles. Supplementation of the luteal phase during spontaneous or induced cycles, in cases of hypofertility or primary or secondary ovarain failure, particulary through dysovulation. In cases of threatning abortion or prevention of repeated abortions due to proven luteal insufficiency. For all other progesterone indications, in the case of : Adverse events due to progesterone, contraindication of the oral route of administration hepatopathy.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.665063",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UTROGESTAN 100",
-        "registration": "132 44 26341 11",
-        "form": ""
-      },
-      {
-        "name": "UTROGESTAN 100",
-        "registration": "132 44 26341 12",
-        "form": ""
-      },
-      {
-        "name": "UTROGESTAN 200",
-        "registration": "128 73 30719 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:03.436077",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UTROGESTAN 200MG 15 VAG CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:03.436088",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication UTROGESTAN 100 in terms of brand name similarity, strength compatibility (200mg), and formulation. The registration number is different, but the strength and formulation are consistent.",
+      "selectedOption": 3,
+      "selectedRegistration": "128 73 30719 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

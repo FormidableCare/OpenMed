@@ -1,10 +1,10 @@
 {
   "catalogId": "05934eb4-f085-47d4-acc9-6bf9ee35fc65",
-  "name": "EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE",
+  "name": "EPHEDRINE HCL STEROP 50 MG/1 ML",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "177 79 37046 99",
+  "registrationNumber": "163 13 35347 00",
   "treatmentDescriptions": "Treatment of hypotension from spinal, epidural and general anaesthesia.",
   "termsOfIssue": "",
   "form": "solution for injection",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.654960",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE",
-        "registration": "177 79 37046 99",
-        "form": ""
-      },
-      {
-        "name": "ADVIL COLD & SINUS",
-        "registration": "135 50 31178 00",
-        "form": ""
-      },
-      {
-        "name": "EPHEDRINE HCL STEROP 50 MG/1 ML",
-        "registration": "163 13 35347 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:50.236965",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EPHEDRINE 30MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:50.236971",
+      "confidence": 95,
+      "reasoning": "The option 3, EPHEDRINE HCL STEROP 50 MG/1 ML, closely matches the medication EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE in terms of active ingredient (ephedrine), strength (30.0mg vs. 50mg/1ml), and formulation (pre-filled syringe).",
+      "selectedOption": 3,
+      "selectedRegistration": "163 13 35347 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

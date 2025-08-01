@@ -54,27 +54,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.882943",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "METABOLASE VETERINARY",
-        "registration": "082 87 92329 00",
-        "form": ""
-      },
-      {
-        "name": "CARNITINE SOLUTION  30%",
-        "registration": "119 07 23815 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:57.724400",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CARNITINE INJ 1G/5ML 5AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:57.724416",
+      "confidence": 95,
+      "reasoning": "The medication METABOLASE VETERINARY matches option 1 in terms of brand name similarity, strength compatibility (5.0ml), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "082 87 92329 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

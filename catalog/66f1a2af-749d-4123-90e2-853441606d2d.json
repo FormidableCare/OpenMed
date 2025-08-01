@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.905984",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MUCOLESS SOLUTION",
-        "registration": "135 11 31423 00",
-        "form": ""
-      },
-      {
-        "name": "MUCOLESS TABLETS",
-        "registration": "135 29 31433 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:13.717549",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MUCOLESS 8MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:13.717560",
+      "confidence": 95,
+      "reasoning": "The medication MUCOLESS SOLUTION matches the option 1 as they have the same brand name, formulation (solution), and registration number. The strength of 8.0mg also aligns with the solution form.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 11 31423 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

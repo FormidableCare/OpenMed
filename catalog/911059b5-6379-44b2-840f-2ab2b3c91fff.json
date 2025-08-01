@@ -1,10 +1,10 @@
 {
   "catalogId": "911059b5-6379-44b2-840f-2ab2b3c91fff",
-  "name": "NORMITEN 100",
+  "name": "NORMITEN 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "045 35 24916 01",
+  "registrationNumber": "104 02 28834 01",
   "treatmentDescriptions": "For the treatment of angina pectoris, acute myocardial infarction, hypertension.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.093618",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NORMITEN 100",
-        "registration": "045 35 24916 01",
-        "form": ""
-      },
-      {
-        "name": "NORMITEN 25",
-        "registration": "104 02 28834 01",
-        "form": ""
-      },
-      {
-        "name": "NORMITEN 50",
-        "registration": "051 72 24149 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:21.920081",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NORMITEN 25MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:21.920093",
+      "confidence": 95,
+      "reasoning": "The option 2, NORMITEN 25, closely matches the medication NORMITEN 100 in terms of brand name similarity, strength compatibility (25.0mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "104 02 28834 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

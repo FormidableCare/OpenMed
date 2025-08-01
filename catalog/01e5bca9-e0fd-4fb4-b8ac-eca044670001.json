@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.742998",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRINAVESS 20 MG/ML",
-        "registration": "148 28 33391 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:13.894041",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRINAVESS 20 MG/ML 25 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:13.894051",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 28 33391 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

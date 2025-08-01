@@ -1,10 +1,10 @@
 {
   "catalogId": "68875157-7f49-4032-a2b4-03ec2533a0c1",
-  "name": "SMOFKABIVEN PERIPHERAL",
+  "name": "SMOFKABIVEN",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 83 33337 00",
+  "registrationNumber": "147 81 33335 01",
   "treatmentDescriptions": "Parenteral nutrition for adults and children aged 2 years and above when oral or enteral nutrition is impossible, insufficient or contraindicated.",
   "termsOfIssue": "Prescription required",
   "form": "emulsion for infusion",
@@ -50,32 +50,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.742962",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 00",
-        "form": ""
-      },
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 03",
-        "form": ""
-      },
-      {
-        "name": "SMOFKABIVEN",
-        "registration": "147 81 33335 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:57.832349",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SMOFKABIVEN PERIPHERAL 1904ML/BAG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:57.832360",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication SMOFKABIVEN PERIPHERAL with a high confidence level based on the brand name similarity, registration number, and formulation compatibility.",
+      "selectedOption": 3,
+      "selectedRegistration": "147 81 33335 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

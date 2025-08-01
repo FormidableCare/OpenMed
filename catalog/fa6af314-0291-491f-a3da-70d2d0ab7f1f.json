@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.552806",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MICROPIRIN 100",
-        "registration": "103 93 28861 01",
-        "form": ""
-      },
-      {
-        "name": "MICROPIRIN 75",
-        "registration": "067 43 27307 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:39.164685",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MICROPIRIN 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:39.164696",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100.0mg), and registration number (103 93 28861 01) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "103 93 28861 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

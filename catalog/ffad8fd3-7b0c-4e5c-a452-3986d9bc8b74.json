@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.301395",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NAROCIN",
-        "registration": "065 82 22014 15",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:23.065019",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NAROCIN 275MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:23.065025",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "065 82 22014 15",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

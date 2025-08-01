@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.369260",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SEBOSEL",
-        "registration": "016 79 21210 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:29.643559",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SEBOSEL SHAMP 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:29.643571",
+      "confidence": 95,
+      "reasoning": "The brand name \"SEBOSEL\" and registration number match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "016 79 21210 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

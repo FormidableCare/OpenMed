@@ -1,10 +1,10 @@
 {
   "catalogId": "7c98231d-3355-44a8-9408-4e8f1ec3ad50",
-  "name": "FENTANYL PANPHARMA 0.05 MG/ML",
+  "name": "ABSTRAL 100 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 49 33974 00",
+  "registrationNumber": "148 73 33262 01",
   "treatmentDescriptions": "For analgesic action of short duration during anesthtic periods (premedication, induction and maintenance) and in the immediate postoperative period  as need arises. As a narcotic analgesic supplement in general or regional anesthesia. For administration with neuroleptics (such as droperidol) as an anesthetic premedication for the induction of anesthesia  and as an adjunct in the maintenance of general or regional anesthesia. For use as an anesthetic agent with oxygen in selected  high-risk patients (open heart surgery or certain neurological or orthopedic procedures). By the epidural route for the postoperative management of pain following general surgical procedures and cesarean sections  and as adjunct to general anesthesia.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.152899",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABSTRAL 100 MCG",
-        "registration": "148 73 33262 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 200 MCG",
-        "registration": "148 74 33263 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 300 MCG",
-        "registration": "148 75 33264 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:10.677211",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENTANYL PANPHARMA 0.05 MG/ML 10 VIAL 2ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:10.677222",
+      "confidence": 95,
+      "reasoning": "The strength of FENTANYL PANPHARMA 0.05 MG/ML (2.0ml) matches closely with ABSTRAL 100 MCG. Both medications are likely to have similar formulations and intended uses.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 73 33262 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

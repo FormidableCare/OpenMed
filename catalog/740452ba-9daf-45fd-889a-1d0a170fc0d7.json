@@ -1,10 +1,10 @@
 {
   "catalogId": "740452ba-9daf-45fd-889a-1d0a170fc0d7",
-  "name": "NOVOEIGHT 1000 IU",
+  "name": "NOVOEIGHT 500 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 52 34374 00",
+  "registrationNumber": "154 51 34373 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).NovoEight can be used for all age groups.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.889167",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NOVOEIGHT 1000 IU",
-        "registration": "154 52 34374 00",
-        "form": ""
-      },
-      {
-        "name": "NOVOEIGHT 2000 IU",
-        "registration": "154 54 34376 00",
-        "form": ""
-      },
-      {
-        "name": "NOVOEIGHT 500 IU",
-        "registration": "154 51 34373 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:53.853571",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NOVOEIGHT 250 IU/4 ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21250000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:53.853583",
+      "confidence": 95,
+      "reasoning": "The option 3, NOVOEIGHT 500 IU, closely matches the medication in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "154 51 34373 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

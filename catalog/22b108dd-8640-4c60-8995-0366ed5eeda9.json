@@ -1,10 +1,10 @@
 {
   "catalogId": "22b108dd-8640-4c60-8995-0366ed5eeda9",
-  "name": "TEGRETOL 200 MG",
+  "name": "TEGRETOL CR 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "015 41 24602 00",
+  "registrationNumber": "041 24 25416 00",
   "treatmentDescriptions": "Epilepsy, trigeminal neuralgia, diabetes insipidus, mania, prophylactic in manic depressive illness.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.776669",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TEGRETOL 200 MG",
-        "registration": "015 41 24602 00",
-        "form": ""
-      },
-      {
-        "name": "TEGRETOL CR 200 MG",
-        "registration": "041 24 25416 00",
-        "form": ""
-      },
-      {
-        "name": "TEGRETOL CR 400 MG",
-        "registration": "041 23 25417 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:22.502370",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TEGRETOL CR 200 50T",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:22.502384",
+      "confidence": 95,
+      "reasoning": "The option 2, TEGRETOL CR 200 MG, closely matches the medication TEGRETOL 200 MG in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "041 24 25416 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

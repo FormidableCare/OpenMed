@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.797235",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PADCEV 20 MG",
-        "registration": "167 37 36604 00",
-        "form": ""
-      },
-      {
-        "name": "PADCEV 30 MG",
-        "registration": "167 38 36605 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:26.970554",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FORTUM 2G 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:26.970565",
+      "confidence": 95,
+      "reasoning": "The medication PADCEV 20 MG matches Option 1 in terms of brand name, strength (20 MG), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 37 36604 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

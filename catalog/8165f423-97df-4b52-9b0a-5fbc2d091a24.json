@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.526866",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YUFLYMA",
-        "registration": "171 96 37092 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:21.551948",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YUFLYMA 40 MG/0.4ML 2 PENS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:21.551960",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "171 96 37092 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

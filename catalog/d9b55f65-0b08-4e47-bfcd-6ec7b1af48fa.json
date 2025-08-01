@@ -1,10 +1,10 @@
 {
   "catalogId": "d9b55f65-0b08-4e47-bfcd-6ec7b1af48fa",
-  "name": "TRAMADEX OD 100",
+  "name": "TRAMADEX OD 300",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 25 31580 00",
+  "registrationNumber": "139 27 31582 00",
   "treatmentDescriptions": "Treatment of moderate to severe pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.122570",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAMADEX OD 100",
-        "registration": "139 25 31580 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 200",
-        "registration": "139 26 31581 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 300",
-        "registration": "139 27 31582 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:35.409849",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAMADEX OD 300MG 10 P.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:35.409861",
+      "confidence": 95,
+      "reasoning": "The option \"TRAMADEX OD 300\" matches the medication \"TRAMADEX OD 100\" in terms of brand name similarity, strength compatibility (300.0mg), and formulation. The registration numbers are also in sequence.",
+      "selectedOption": 3,
+      "selectedRegistration": "139 27 31582 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

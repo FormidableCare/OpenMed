@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.821139",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REZOLSTA",
-        "registration": "154 69 34386 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:46.769786",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REZOLSTA 30 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:46.769798",
+      "confidence": 95,
+      "reasoning": "The brand name \"REZOLSTA\" and registration number match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "154 69 34386 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

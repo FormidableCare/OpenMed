@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.613115",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUOTRAV",
-        "registration": "144 33 31764 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:22.786311",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAVOPROST S.K. 2.5ml",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:22.786341",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 33 31764 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

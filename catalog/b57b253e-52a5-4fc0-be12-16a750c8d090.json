@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.757032",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACROSE 100",
-        "registration": "142 79 31979 00",
-        "form": ""
-      },
-      {
-        "name": "ACROSE 50",
-        "registration": "142 78 31978 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:28.469841",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACROSE 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:28.469850",
+      "confidence": 95,
+      "reasoning": "The medication ACROSE 100 matches with Option 1 as both have the same brand name, strength (100.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "142 79 31979 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

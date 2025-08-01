@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.551748",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABITREN TEVA ® 75 MG/3 ML",
-        "registration": "159 38 34860 00",
-        "form": ""
-      },
-      {
-        "name": "ABITREXATE TEVA",
-        "registration": "048 96 23819 05",
-        "form": ""
-      },
-      {
-        "name": "ABIPLATIN TEVA",
-        "registration": "031 30 25429 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:37.260686",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ABITREN 50MG 10SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:37.260698",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ABITREN TEVA ® 75 MG/3 ML in terms of brand name similarity, strength compatibility (75 mg), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 38 34860 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

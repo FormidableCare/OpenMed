@@ -1,10 +1,10 @@
 {
   "catalogId": "5bb61be5-ff2f-4261-9133-8ca2bae8a2fe",
-  "name": "TIMONIL 300 RETARD",
+  "name": "TIMONIL 600 RETARD",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "068 94 27055 00",
+  "registrationNumber": "067 24 27139 01",
   "treatmentDescriptions": "Epilepsy, trigeminal neuralgia, diabetes insipidus mania, prophylactic in manic depressive illness.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.025092",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIMONIL 300 RETARD",
-        "registration": "068 94 27055 00",
-        "form": ""
-      },
-      {
-        "name": "TIMONIL 600 RETARD",
-        "registration": "067 24 27139 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:12.733517",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TIMONIL RET 600MG 50TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:12.733530",
+      "confidence": 95,
+      "reasoning": "The option 2, TIMONIL 600 RETARD, closely matches the medication TIMONIL 300 RETARD in terms of brand name similarity, strength compatibility (600.0mg), and both being retard formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "067 24 27139 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

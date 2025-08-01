@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.918654",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PUREGON SOLUTION FOR INJECTION",
-        "registration": "130 52 30898 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:38.020208",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PUREGON SOL FOR INJ CART 1X900 IU /1.08ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.009090909090909092,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:38.020334",
+      "confidence": 95,
+      "reasoning": "The option provided matches the medication Puregon Solution for Injection in terms of brand name, strength, formulation, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "130 52 30898 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

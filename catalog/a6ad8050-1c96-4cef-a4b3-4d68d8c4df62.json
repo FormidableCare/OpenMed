@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.622030",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "COPAXONE ® 40 MG/ML",
-        "registration": "151 75 34057 00",
-        "form": ""
-      },
-      {
-        "name": "COPAXONE ® 40 MG/ML",
-        "registration": "151 75 34057 01",
-        "form": ""
-      },
-      {
-        "name": "COPAXONE 20 MG/ML",
-        "registration": "128 06 30681 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:02.870104",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "COPAXONE ® 40 MG/ML 12 PREFILLED PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:02.870113",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication COPAXONE ® 40 MG/ML in terms of brand name, strength (40 MG/ML), and registration number (151 75 34057 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "151 75 34057 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

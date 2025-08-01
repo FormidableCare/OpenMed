@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.368200",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SECTOR 100",
-        "registration": "171 72 37119 99",
-        "form": ""
-      },
-      {
-        "name": "SECTOR 200",
-        "registration": "171 73 37120 99",
-        "form": ""
-      },
-      {
-        "name": "SECTOR 50",
-        "registration": "171 71 37432 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:25.954789",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SECTOR 200 MG 56 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:25.954800",
+      "confidence": 95,
+      "reasoning": "The medication name, SECTOR 100, matches exactly. The registration number is the same. The strength of 200.0mg also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "171 72 37119 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.419279",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "POLYDINE TINCTURE",
-        "registration": "044 36 23412 00",
-        "form": ""
-      },
-      {
-        "name": "POLYDINE OINTMENT",
-        "registration": "116 74 23415 00",
-        "form": ""
-      },
-      {
-        "name": "POLYDINE VAGINAL PESSARIES",
-        "registration": "044 68 23414 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:29.447311",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "POLYDINE TINCTURE 1L",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:29.447317",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"Polydine Tincture\" in terms of brand name, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "044 36 23412 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

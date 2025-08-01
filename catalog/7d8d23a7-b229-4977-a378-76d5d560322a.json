@@ -1,10 +1,10 @@
 {
   "catalogId": "7d8d23a7-b229-4977-a378-76d5d560322a",
-  "name": "CRESTOR ® 5 MG",
+  "name": "ANDROGEL 50 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "139 22 31615 00",
+  "registrationNumber": "141 18 30760 01",
   "treatmentDescriptions": "Treatment of Adults with:•\tprimary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise weight reduction) is inadequate.•\tHomozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate",
   "termsOfIssue": "",
   "form": "film coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.052754",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CRESTOR ® 5 MG",
-        "registration": "139 22 31615 00",
-        "form": ""
-      },
-      {
-        "name": "OVA-GEST VETERINARY",
-        "registration": "082 76 92331 00",
-        "form": ""
-      },
-      {
-        "name": "ANDROGEL 50 MG",
-        "registration": "141 18 30760 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:35.377215",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CALCIUM SANDOZ 500MG 20T EFF",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:35.377222",
+      "confidence": 95,
+      "reasoning": "The option \"ANDROGEL 50 MG\" closely matches the medication \"CRESTOR ® 5 MG\" in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "141 18 30760 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

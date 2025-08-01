@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.274771",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ETOPOSIDE TEVA",
-        "registration": "106 48 28897 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:45.343435",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ETOPOSIDE VIAL 200MG/10 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:45.343446",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details for ETOPOSIDE TEVA.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 48 28897 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

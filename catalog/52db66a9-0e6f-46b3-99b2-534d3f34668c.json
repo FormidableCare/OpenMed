@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.269555",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URAMOX",
-        "registration": "016 94 21225 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:38.304812",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACETAZOLAMIDE SODIUM 500 MG/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:38.304826",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication URAMOX 500.0mg/vial.",
+      "selectedOption": 1,
+      "selectedRegistration": "016 94 21225 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

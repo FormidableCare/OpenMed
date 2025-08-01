@@ -1,10 +1,10 @@
 {
   "catalogId": "a002fa1c-bb7b-4c47-b90c-01550418c939",
-  "name": "EPANUTIN 100 MG",
+  "name": "DILANTIN 125",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "104 27 24678 00",
+  "registrationNumber": "123 70 24017 01",
   "treatmentDescriptions": "Treatment of epilepsy.",
   "termsOfIssue": "",
   "form": "capsules",
@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.975839",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EPANUTIN 100 MG",
-        "registration": "104 27 24678 00",
-        "form": ""
-      },
-      {
-        "name": "DILANTIN 125",
-        "registration": "123 70 24017 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:41.506552",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PHENYTOIN SODIUM 50MG/ML 25AMPX5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:41.506873",
+      "confidence": 95,
+      "reasoning": "The medication EPANUTIN 100 MG matches closely with DILANTIN 125 in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "123 70 24017 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

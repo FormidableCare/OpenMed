@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.364527",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ATOMIC 100",
-        "registration": "167 84 36235 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 18",
-        "registration": "167 82 36233 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 25",
-        "registration": "160 12 35129 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:15.614200",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ATOMIC 100 MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:15.614208",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ATOMIC 100 in terms of brand name, strength (100.0mg), and registration number (167 84 36235 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "167 84 36235 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

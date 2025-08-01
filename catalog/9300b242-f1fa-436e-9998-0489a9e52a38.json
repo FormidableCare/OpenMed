@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.823839",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "M.I.R. 15",
-        "registration": "033 83 25309 00",
-        "form": ""
-      },
-      {
-        "name": "M.I.R. 30",
-        "registration": "033 84 25310 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:00.942638",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "M.I.R 15MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:00.942655",
+      "confidence": 95,
+      "reasoning": "The medication M.I.R. 15 matches Option 1 in terms of brand name similarity, strength (15.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "033 83 25309 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

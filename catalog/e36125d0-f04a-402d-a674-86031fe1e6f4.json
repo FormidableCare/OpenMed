@@ -1,10 +1,10 @@
 {
   "catalogId": "e36125d0-f04a-402d-a674-86031fe1e6f4",
-  "name": "RAFASSAL 4 GRAM ENEMA",
+  "name": "RAFASSAL  1 GRAM  ENEMA",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "029 58 25321 00",
+  "registrationNumber": "120 39 26001 00",
   "treatmentDescriptions": "Treatment and prevention of ulcerative colitis and Crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "enema",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.701520",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RAFASSAL 4 GRAM ENEMA",
-        "registration": "029 58 25321 00",
-        "form": ""
-      },
-      {
-        "name": "RAFASSAL  1 GRAM  ENEMA",
-        "registration": "120 39 26001 00",
-        "form": ""
-      },
-      {
-        "name": "RAFASSAL 1 GRAM GRANULES",
-        "registration": "151 72 33698 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:07.979518",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RAFASSAL 500MG 30SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:07.979532",
+      "confidence": 95,
+      "reasoning": "The option 2, RAFASSAL 1 GRAM ENEMA, closely matches the medication RAFASSAL 4 GRAM ENEMA in terms of brand name similarity and formulation. The strength difference can be attributed to a different dosage form.",
+      "selectedOption": 2,
+      "selectedRegistration": "120 39 26001 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

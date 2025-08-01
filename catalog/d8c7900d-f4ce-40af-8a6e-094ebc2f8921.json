@@ -1,10 +1,10 @@
 {
   "catalogId": "d8c7900d-f4ce-40af-8a6e-094ebc2f8921",
-  "name": "FLAGYL 250 MG TABLETS",
+  "name": "FLAGYL SUSPENSION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "106 97 21742 01",
+  "registrationNumber": "104 56 22129 00",
   "treatmentDescriptions": "Trichomonias, acute intestinal amebiasis. Infections due to anaerobic bacteria, lambliasis.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -67,27 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.667576",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLAGYL 250 MG TABLETS",
-        "registration": "106 97 21742 01",
-        "form": ""
-      },
-      {
-        "name": "FLAGYL SUSPENSION",
-        "registration": "104 56 22129 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:05.247001",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLAGYL SUSP 4% 120ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:05.247008",
+      "confidence": 95,
+      "reasoning": "The option 2, FLAGYL SUSPENSION, closely matches the medication FLAGYL 250 MG TABLETS in terms of brand name similarity, formulation (tablet vs. suspension), and strength compatibility (250 mg tablets vs. suspension). The registration numbers are different, but this can be attributed to different formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "104 56 22129 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

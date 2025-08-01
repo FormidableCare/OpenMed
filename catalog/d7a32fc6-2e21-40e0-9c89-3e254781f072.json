@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.749844",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SEPTADINE",
-        "registration": "108 58 29253 00",
-        "form": ""
-      },
-      {
-        "name": "SEPTADINE TARHITZ",
-        "registration": "112 44 29484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:03.457101",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SEPTADINE SOL 1LITER",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:03.457115",
+      "confidence": 95,
+      "reasoning": "The brand name \"SEPTADINE\" matches, and the registration number is identical. The strength and formulation details are missing in both the medication and option, so it is assumed to be a match based on the provided information.",
+      "selectedOption": 1,
+      "selectedRegistration": "108 58 29253 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.955541",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STRATTERA 4 MG/ML ORAL SOLUTION",
-        "registration": "158 61 35026 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:53.187378",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STRATTERA 4 MG/ML ORAL SOL 3 BOTTLES 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:53.187387",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 61 35026 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

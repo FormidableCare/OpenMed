@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.709155",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AKYNZEO 300mg/0.50mg",
-        "registration": "155 79 34343 00",
-        "form": ""
-      },
-      {
-        "name": "AKYNZEO 235 MG/0.25MG",
-        "registration": "176 41 37355 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:16.960965",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AKYNZEO 1 CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:16.960976",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication AKYNZEO 300mg/0.50mg in terms of brand name, strength compatibility, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 79 34343 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

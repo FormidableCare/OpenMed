@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.864006",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUMATRIDEX 100",
-        "registration": "131 31 30967 00",
-        "form": ""
-      },
-      {
-        "name": "SUMATRIDEX 50",
-        "registration": "131 30 30966 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:21.482116",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SUMATRIDEX 100MG 6CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:21.482122",
+      "confidence": 95,
+      "reasoning": "The medication name, SUMATRIDEX 100, strength (100.0mg), and registration number (131 31 30967 00) all match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "131 31 30967 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

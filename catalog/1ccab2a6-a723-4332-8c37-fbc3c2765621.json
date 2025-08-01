@@ -1,10 +1,10 @@
 {
   "catalogId": "1ccab2a6-a723-4332-8c37-fbc3c2765621",
-  "name": "DOXORUBICIN TEVA",
+  "name": "LIPODOX LIPOSOMAL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "061 78 27503 00",
+  "registrationNumber": "162 74 35191 00",
   "treatmentDescriptions": "To produce regression in disseminated neoplastic conditions such as: - acute lymphoblastic leukemia, - acute myeloblastic leukemia, - Wilms' tumor neuroblastoma, - soft tissue and bone sarcomas, - breast carcinoma, - lymphomas of both Hodgkin's and non-Hodgkin's types, - bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types, - gastric carcinoma.",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.150641",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DOXORUBICIN TEVA",
-        "registration": "061 78 27503 00",
-        "form": ""
-      },
-      {
-        "name": "LIPODOX LIPOSOMAL",
-        "registration": "162 74 35191 00",
-        "form": ""
-      },
-      {
-        "name": "CAELYX LIPOSOMAL",
-        "registration": "110 27 28836 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:08.736250",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DOXORUBICIN TEVA 2MG/ML  1 VIAL 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:08.736260",
+      "confidence": 95,
+      "reasoning": "LIPODOX LIPOSOMAL is a close match to DOXORUBICIN TEVA in terms of brand name similarity and both being liposomal formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "162 74 35191 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

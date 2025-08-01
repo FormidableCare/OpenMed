@@ -1,10 +1,10 @@
 {
   "catalogId": "9e9259a2-901d-407b-b79a-11c15cb3a3ea",
-  "name": "DUPLEX 10/160",
+  "name": "DUPLEX 5/160",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 26 34298 01",
+  "registrationNumber": "152 73 34093 01",
   "treatmentDescriptions": "Treatment of essential hypertension. Duplex is indicated for patients whose blood pressure is not adequately controlled on monotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.918337",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUPLEX 10/160",
-        "registration": "153 26 34298 01",
-        "form": ""
-      },
-      {
-        "name": "DUPLEX 5/160",
-        "registration": "152 73 34093 01",
-        "form": ""
-      },
-      {
-        "name": "DUPLEX 5/80",
-        "registration": "153 59 34303 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:25.830938",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DUPLEX 10/160 30 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:25.830955",
+      "confidence": 95,
+      "reasoning": "The option 2, DUPLEX 5/160, closely matches the medication DUPLEX 10/160 in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "152 73 34093 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

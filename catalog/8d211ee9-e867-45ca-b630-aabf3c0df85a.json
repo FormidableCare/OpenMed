@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.861276",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ATOMIC 100",
-        "registration": "167 84 36235 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 18",
-        "registration": "167 82 36233 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 25",
-        "registration": "160 12 35129 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:36.005963",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ATOMIC 80 MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:36.005975",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ATOMIC 100 in terms of brand name similarity, registration number, and strength (80.0mg).",
+      "selectedOption": 1,
+      "selectedRegistration": "167 84 36235 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

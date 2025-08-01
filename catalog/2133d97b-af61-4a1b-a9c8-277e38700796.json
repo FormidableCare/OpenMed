@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.786270",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "QLAIR",
-        "registration": "146 16 33128 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:57.628898",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "QLAIR 1X28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:57.628910",
+      "confidence": 95,
+      "reasoning": "The brand name \"QLAIR\" and registration number 146 16 33128 00 match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "146 16 33128 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

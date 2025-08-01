@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.222898",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SINUFED TABLETS",
-        "registration": "030 06 25464 00",
-        "form": ""
-      },
-      {
-        "name": "SINUFED SYRUP",
-        "registration": "118 91 29978 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:44.371717",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SINUFED 10 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:44.371723",
+      "confidence": 95,
+      "reasoning": "The medication name, SINUFED TABLETS, matches exactly. The registration number also matches. Both options are in tablet form.",
+      "selectedOption": 1,
+      "selectedRegistration": "030 06 25464 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

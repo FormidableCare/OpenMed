@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.725226",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRONCHOLATE SYRUP",
-        "registration": "121 24 30198 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE FORTE",
-        "registration": "066 84 27528 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE PLUS",
-        "registration": "126 07 30479 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:34.845905",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRONCHOLATE FRTE NEW FORM. SYR 120ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:34.845920",
+      "confidence": 95,
+      "reasoning": "The medication name, BRONCHOLATE SYRUP, matches exactly. The registration number also matches, indicating the same product. The strength of 120.0ml is compatible, and the formulation is likely to be the same as well.",
+      "selectedOption": 1,
+      "selectedRegistration": "121 24 30198 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

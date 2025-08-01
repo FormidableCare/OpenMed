@@ -1,10 +1,10 @@
 {
   "catalogId": "a7e0cad8-e7ea-48c6-a9c9-1a2a2ef0c5fa",
-  "name": "TOPAMAX 100",
+  "name": "TOPAMAX 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "107 57 29033 00",
+  "registrationNumber": "107 58 29034 00",
   "treatmentDescriptions": "In adjunctive therapy of adults and children (from 2 years) with partial seizures and generalized tonic-clonic seizures. In adjunctive therapy of seizures with Lennox-Gastaut syndrome in adults and children. Topamax is indicated as monotherapy in patients with newly diagnosed epilepsy in children aged 7 years and above or for conversion to monotherapy in patients with epilepsy. Topamax is indicated in adults for the prevention of migraines. The use of Topamax in the acute treatment of migraine has not been studied.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.876402",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TOPAMAX 100",
-        "registration": "107 57 29033 00",
-        "form": ""
-      },
-      {
-        "name": "TOPAMAX 200",
-        "registration": "107 58 29034 00",
-        "form": ""
-      },
-      {
-        "name": "TOPAMAX 25",
-        "registration": "107 55 29031 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:54.270167",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TOPAMAX 200MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:54.270194",
+      "confidence": 95,
+      "reasoning": "The medication TOPAMAX 100 with a strength of 200.0mg matches with the option TOPAMAX 200, as they have the same brand name, similar strength, and likely represent the same medication in a different strength.",
+      "selectedOption": 2,
+      "selectedRegistration": "107 58 29034 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

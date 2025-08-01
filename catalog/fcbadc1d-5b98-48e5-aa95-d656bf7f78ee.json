@@ -1,10 +1,10 @@
 {
   "catalogId": "fcbadc1d-5b98-48e5-aa95-d656bf7f78ee",
-  "name": "EXELON PATCH 10",
+  "name": "EXELON PATCH 15",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 70 31675 01",
+  "registrationNumber": "150 97 33884 01",
   "treatmentDescriptions": "Treatment of mild to moderate dementia of the Alzheimer's type.",
   "termsOfIssue": "Prescription required",
   "form": "patches",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.894984",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EXELON PATCH 10",
-        "registration": "139 70 31675 01",
-        "form": ""
-      },
-      {
-        "name": "EXELON PATCH 15",
-        "registration": "150 97 33884 01",
-        "form": ""
-      },
-      {
-        "name": "EXELON PATCH 5",
-        "registration": "139 69 31674 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:04.404561",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EXELON PATCH 15MG 30PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:04.404571",
+      "confidence": 95,
+      "reasoning": "The option 2, EXELON PATCH 15, matches the medication with a similar brand name, correct strength of 15.0mg, and the same formulation as a patch. The registration number is different but this can be due to regional variations or updates.",
+      "selectedOption": 2,
+      "selectedRegistration": "150 97 33884 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

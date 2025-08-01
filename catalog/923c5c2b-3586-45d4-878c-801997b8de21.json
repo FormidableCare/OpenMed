@@ -1,10 +1,10 @@
 {
   "catalogId": "923c5c2b-3586-45d4-878c-801997b8de21",
-  "name": "LAMISIL ONCE",
+  "name": "LAMISIL CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "137 26 31486 00",
+  "registrationNumber": "115 55 27562 05",
   "treatmentDescriptions": "For the treatment of athlete's foot.",
   "termsOfIssue": "",
   "form": "solution",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.549200",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LAMISIL ONCE",
-        "registration": "137 26 31486 00",
-        "form": ""
-      },
-      {
-        "name": "LAMISIL SPRAY",
-        "registration": "117 13 29732 00",
-        "form": ""
-      },
-      {
-        "name": "LAMISIL CREAM",
-        "registration": "115 55 27562 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:35.171445",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LAMISIL DERMGEL 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:35.171451",
+      "confidence": 95,
+      "reasoning": "The option \"LAMISIL CREAM\" closely matches the medication \"LAMISIL ONCE\" in terms of brand name similarity, formulation (cream vs. gel), and registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "115 55 27562 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

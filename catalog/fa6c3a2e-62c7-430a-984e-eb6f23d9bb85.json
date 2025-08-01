@@ -57,22 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.981194",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUSSIDEX",
-        "registration": "057 17 21688 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:52.010600",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NUSSIDEX  20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:52.010631",
+      "confidence": 95,
+      "reasoning": "The brand name NUSSIDEX and registration number 057 17 21688 01 match between the medication and option 1. The strength and formulation information is not provided for either the medication or the option, so it cannot be compared.",
+      "selectedOption": 1,
+      "selectedRegistration": "057 17 21688 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

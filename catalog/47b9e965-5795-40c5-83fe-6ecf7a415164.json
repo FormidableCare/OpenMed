@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.799798",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AKYNZEO 300mg/0.50mg",
-        "registration": "155 79 34343 00",
-        "form": ""
-      },
-      {
-        "name": "AKYNZEO 235 MG/0.25MG",
-        "registration": "176 41 37355 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:31.001009",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AKYNZEO 4 CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:31.001016",
+      "confidence": 95,
+      "reasoning": "The brand name, strength, and registration number of option 1 match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 79 34343 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

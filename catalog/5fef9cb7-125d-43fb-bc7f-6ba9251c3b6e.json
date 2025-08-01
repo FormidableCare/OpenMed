@@ -1,10 +1,10 @@
 {
   "catalogId": "5fef9cb7-125d-43fb-bc7f-6ba9251c3b6e",
-  "name": "BRONCHO D",
+  "name": "BRONCHOLATE SYRUP",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "058 88 27178 00",
+  "registrationNumber": "121 24 30198 00",
   "treatmentDescriptions": "For the relief of coughs and congestion in the respiratory tract.",
   "termsOfIssue": "",
   "form": "syrup",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.439732",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRONCHO D",
-        "registration": "058 88 27178 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE SYRUP",
-        "registration": "121 24 30198 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE FORTE",
-        "registration": "066 84 27528 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:35.583916",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRONCHO KID SYROP 120ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:35.583922",
+      "confidence": 95,
+      "reasoning": "The medication BRONCHO D matches with option 2, BRONCHOLATE SYRUP, as they have similar brand names, both are syrups, and the strength of 120.0ml is compatible.",
+      "selectedOption": 2,
+      "selectedRegistration": "121 24 30198 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

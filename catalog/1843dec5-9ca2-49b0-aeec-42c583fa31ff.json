@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.820671",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NITRODERM TTS 5",
-        "registration": "118 55 22967 15",
-        "form": ""
-      },
-      {
-        "name": "NITRODERM TTS 5",
-        "registration": "118 55 22967 14",
-        "form": ""
-      },
-      {
-        "name": "NITRODERM TTS 5",
-        "registration": "118 55 22967 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:44.996778",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NITRODERM TTS 5 MG/24H 10PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:44.996789",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NITRODERM TTS 5 with the same registration number and strength.",
+      "selectedOption": 1,
+      "selectedRegistration": "118 55 22967 15",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

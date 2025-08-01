@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.902385",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIPYRONE KALCEKS 500 MG/ML",
-        "registration": "163 58 35578 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:12.109211",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DIPYRONE KALCEKS1000 MG/2ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.011111111111111112,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:12.109222",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (500 mg/ml), and registration number (163 58 35578 00) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 58 35578 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

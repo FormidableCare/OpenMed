@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.622603",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABSTRAL 100 MCG",
-        "registration": "148 73 33262 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 200 MCG",
-        "registration": "148 74 33263 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 300 MCG",
-        "registration": "148 75 33264 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:28.008352",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENTA 25 5 PATCH",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:28.008362",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Abstral 100 MCG in terms of brand name, strength (100.0mcg), and registration number (148 73 33262 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "148 73 33262 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

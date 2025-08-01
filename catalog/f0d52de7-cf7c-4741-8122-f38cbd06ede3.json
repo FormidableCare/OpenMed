@@ -1,10 +1,10 @@
 {
   "catalogId": "f0d52de7-cf7c-4741-8122-f38cbd06ede3",
-  "name": "LETROZOLE DEXCEL",
+  "name": "LETROZOLE TEVA ®",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 49 33275 00",
+  "registrationNumber": "142 28 31878 01",
   "treatmentDescriptions": "Letrozole - Dexcel tablets is indicated for first-line treatment in postmenopausal women with hormone receptor positive or in whome hormone receptor status cannot be determined locally advanced or metastatic breast cancer. Letrozole - Dexcel is also indicated for the treatment of advanced breast cancer in postmenopausal women with disease progression following antiestrogen therapy. Extended adjuvant treatment of early breast cancer in post menopausal women who have received prior standard adjuvant tamoxifen therapy. Adjuvant treatment of postmenopausal women with hormone receptor positive early breast cancer.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.669392",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LETROZOLE DEXCEL",
-        "registration": "145 49 33275 00",
-        "form": ""
-      },
-      {
-        "name": "LETROZOLE TEVA ®",
-        "registration": "142 28 31878 01",
-        "form": ""
-      },
-      {
-        "name": "LETROZOLE FARMOZ",
-        "registration": "142 31 31918 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:14.949582",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LETROZOLE DEXCEL 2.5MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:14.949593",
+      "confidence": 95,
+      "reasoning": "The option 2, LETROZOLE TEVA ®, has a similar brand name to LETROZOLE DEXCEL, matching strength of 2.5mg, and both are in tablet formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "142 28 31878 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

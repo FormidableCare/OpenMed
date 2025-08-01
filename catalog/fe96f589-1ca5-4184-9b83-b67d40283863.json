@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.247709",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TREMFYA 100 MG/ML S.C",
-        "registration": "160 54 35346 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:09.657642",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TREMFYA SYRRINGE PREFILLED 1ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:09.657647",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 54 35346 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.142383",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "INSTILLAGEL",
-        "registration": "160 11 35080 00",
-        "form": ""
-      },
-      {
-        "name": "STILLA SINGLES",
-        "registration": "122 50 30243 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:03.489955",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "INSTILLAGEL 10 SYR *11ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.1625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:03.489965",
+      "confidence": 95,
+      "reasoning": "The brand name \"INSTILLAGEL\" matches perfectly, the strength of 11.0ml is the same, and both options have a gel formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 11 35080 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

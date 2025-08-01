@@ -1,10 +1,10 @@
 {
   "catalogId": "3e8f006e-eef1-455e-9532-b984644ebe4e",
-  "name": "ZOVIRAX",
+  "name": "ZOVIRAX TABLETS 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "126 38 30532 00",
+  "registrationNumber": "126 41 30640 00",
   "treatmentDescriptions": "For the treatment of cold sores (herpes labialis).",
   "termsOfIssue": "Prescription required",
   "form": "cream",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.721018",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZOVIRAX",
-        "registration": "126 38 30532 00",
-        "form": ""
-      },
-      {
-        "name": "ZOVIRAX I.V.",
-        "registration": "034 33 21976 05",
-        "form": ""
-      },
-      {
-        "name": "ZOVIRAX TABLETS 200 MG",
-        "registration": "126 41 30640 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:53.307118",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZOVIRAX 800MG 35 DISPERS TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:53.307123",
+      "confidence": 95,
+      "reasoning": "The option \"ZOVIRAX TABLETS 200 MG\" closely matches the medication \"ZOVIRAX\" in terms of brand name similarity. While the strength differs (800mg vs. 200mg), the formulation as tablets matches, making this the most likely match.",
+      "selectedOption": 3,
+      "selectedRegistration": "126 41 30640 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

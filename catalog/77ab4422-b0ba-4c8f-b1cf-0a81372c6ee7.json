@@ -1,10 +1,10 @@
 {
   "catalogId": "77ab4422-b0ba-4c8f-b1cf-0a81372c6ee7",
-  "name": "TRAZODIL 100",
+  "name": "TRAZODIL 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "039 36 20141 02",
+  "registrationNumber": "029 10 20140 01",
   "treatmentDescriptions": "For the treatment of depression and anxiety.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.887988",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAZODIL 100",
-        "registration": "039 36 20141 02",
-        "form": ""
-      },
-      {
-        "name": "TRAZODIL 50",
-        "registration": "029 10 20140 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:03.054599",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAZODIL 50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:03.054614",
+      "confidence": 95,
+      "reasoning": "The option 2, TRAZODIL 50, closely matches the medication TRAZODIL 100 in terms of brand name similarity, strength compatibility (50mg vs. 100mg), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "029 10 20140 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

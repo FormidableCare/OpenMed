@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.962220",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXILANT 30 MG",
-        "registration": "155 45 34383 00",
-        "form": ""
-      },
-      {
-        "name": "DEXILANT 60 MG",
-        "registration": "155 46 34387 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:56.467205",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LANSOPRAZOLE15 MG  28TAB ORODISPERSIBLE  TEVA UK",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:56.467215",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DEXILANT 30 MG in terms of brand name, strength (30 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 45 34383 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

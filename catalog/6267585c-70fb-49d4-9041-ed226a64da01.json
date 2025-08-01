@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.282907",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RAPAMUNE 1 MG TABLETS",
-        "registration": "131 73 30909 22",
-        "form": ""
-      },
-      {
-        "name": "RAPAMUNE 1 MG TABLETS",
-        "registration": "131 73 30909 23",
-        "form": ""
-      },
-      {
-        "name": "RAPAMUNE SOLUTION",
-        "registration": "122 12 30229 23",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:59.222518",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RAPAMUNE 1MG/ML 60ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:59.222523",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication RAPAMUNE 1 MG TABLETS in terms of brand name, strength, and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "131 73 30909 22",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

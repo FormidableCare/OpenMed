@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.983102",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IOPAMIRO 300",
-        "registration": "020 40 24483 11",
-        "form": ""
-      },
-      {
-        "name": "IOPAMIRO 370",
-        "registration": "020 41 24526 11",
-        "form": ""
-      },
-      {
-        "name": "MIRO 30",
-        "registration": "128 62 30738 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:53.733993",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PAMID 2.5MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:53.734002",
+      "confidence": 95,
+      "reasoning": "The medication name \"IOPAMIRO 300\" matches exactly, the registration numbers are the same, and the strength of 2.5mg also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "020 40 24483 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

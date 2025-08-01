@@ -1,10 +1,10 @@
 {
   "catalogId": "9e1fde46-54da-4237-bee2-a3482736e5d4",
-  "name": "VENTOLIN DISKUS",
+  "name": "VENTOLIN INHALER CFC FREE",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "126 97 30674 00",
+  "registrationNumber": "113 25 29560 05",
   "treatmentDescriptions": "Relief of bronchospasm in broncial asthma of all types, chronic, bronchitis and emphysema.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.905612",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VENTOLIN DISKUS",
-        "registration": "126 97 30674 00",
-        "form": ""
-      },
-      {
-        "name": "VENTOLIN INJECTION",
-        "registration": "027 64 21556 05",
-        "form": ""
-      },
-      {
-        "name": "VENTOLIN INHALER CFC FREE",
-        "registration": "113 25 29560 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:11.982710",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VENTOLIN INH. CFC FREE 200ACT",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:11.982716",
+      "confidence": 95,
+      "reasoning": "The option 3, VENTOLIN INHALER CFC FREE, closely matches the medication VENTOLIN DISKUS in terms of brand name similarity and formulation (both are inhalers). The registration numbers are different, but this could be due to variations in specific formulations or packaging.",
+      "selectedOption": 3,
+      "selectedRegistration": "113 25 29560 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

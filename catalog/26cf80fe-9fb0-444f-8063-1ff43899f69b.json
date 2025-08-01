@@ -1,10 +1,10 @@
 {
   "catalogId": "26cf80fe-9fb0-444f-8063-1ff43899f69b",
-  "name": "KALGARON ORANGE",
+  "name": "KALGARON STRAWBERY",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "163 63 36018 00",
+  "registrationNumber": "163 61 35351 00",
   "treatmentDescriptions": "For the relief of severe sore throat.  Relief of mouth and throat infections.",
   "termsOfIssue": "",
   "form": "lozenges",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.061475",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALGARON ORANGE",
-        "registration": "163 63 36018 00",
-        "form": ""
-      },
-      {
-        "name": "KALGARON MINT",
-        "registration": "163 62 35352 00",
-        "form": ""
-      },
-      {
-        "name": "KALGARON STRAWBERY",
-        "registration": "163 61 35351 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:54.617539",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALGARON ORANGE 24 LOZENGES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:54.617550",
+      "confidence": 95,
+      "reasoning": "The option \"KALGARON STRAWBERY\" closely matches the medication \"KALGARON ORANGE\" in terms of brand name similarity. Both have similar formulations and strengths, with only a minor difference in flavor.",
+      "selectedOption": 3,
+      "selectedRegistration": "163 61 35351 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "5eed529b-416a-4458-9cef-bc2bf112b19e",
-  "name": "TRAMAL INJECTION 100",
+  "name": "TRAMAL CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 54 30477 00",
+  "registrationNumber": "125 52 30459 00",
   "treatmentDescriptions": "Moderate to severe pain.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.890556",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAMAL INJECTION 100",
-        "registration": "125 54 30477 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMAL SUPPOSITORIES",
-        "registration": "125 80 30496 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMAL CAPSULES",
-        "registration": "125 52 30459 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:55.646042",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAMAL SR 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:55.646051",
+      "confidence": 95,
+      "reasoning": "The option \"TRAMAL CAPSULES\" closely matches the medication \"TRAMAL INJECTION 100\" in terms of brand name similarity, strength compatibility (100.0mg), and both being in oral formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "125 52 30459 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

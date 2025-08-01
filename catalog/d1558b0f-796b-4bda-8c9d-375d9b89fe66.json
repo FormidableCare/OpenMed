@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.755741",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMACOMBIN OINTMENT",
-        "registration": "015 28 24536 00",
-        "form": ""
-      },
-      {
-        "name": "DERMACOMBIN CREAM",
-        "registration": "133 54 23775 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:08.455665",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NYSTATIN RM SUSP 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:08.455686",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DERMACOMBIN OINTMENT in terms of brand name similarity, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "015 28 24536 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

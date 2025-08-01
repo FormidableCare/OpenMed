@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.527422",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EBETAXEL 6 MG/ML",
-        "registration": "130 95 30965 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:23.309826",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EBETAXEL 6 MG/ML VIAL 100MG/16.7ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:23.309832",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (6 mg/ml), and registration number match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "130 95 30965 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

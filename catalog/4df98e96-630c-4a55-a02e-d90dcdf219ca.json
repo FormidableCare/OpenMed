@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.120684",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRALUENT 150 MG/ML",
-        "registration": "156 09 34568 00",
-        "form": ""
-      },
-      {
-        "name": "PRALUENT 75 MG/ML",
-        "registration": "156 08 34583 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:33.486181",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRALUENT 150 MG INJECTION 2 PREFILLED PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.018750000000000003,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:33.486187",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Praluent 150 mg/ml in terms of brand name, strength (150 mg/ml), and formulation (injection). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "156 09 34568 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

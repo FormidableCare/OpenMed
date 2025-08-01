@@ -1,10 +1,10 @@
 {
   "catalogId": "5d0e7a3d-009c-4a1e-bf6e-915e23ff6e18",
-  "name": "SPIRIVA ®",
+  "name": "SPIRIVA RESPIMAT",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 47 31120 00",
+  "registrationNumber": "154 11 34255 00",
   "treatmentDescriptions": "Tiotropium is a bronchodilator for the maintenance treatment of chronic obstructive pulmonary disease (COPD).",
   "termsOfIssue": "Prescription required",
   "form": "inhalation powder hard capsules",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.948168",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPIRIVA ®",
-        "registration": "133 47 31120 00",
-        "form": ""
-      },
-      {
-        "name": "SPIRIVA RESPIMAT",
-        "registration": "154 11 34255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:44.501060",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SPIRIVA 18MCG 30 HARD CAPS+HANDIHALER",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:44.501070",
+      "confidence": 95,
+      "reasoning": "The option 2, SPIRIVA RESPIMAT, closely matches the medication SPIRIVA in terms of brand name similarity and strength compatibility (18.0mcg). Both are inhalation medications used for the treatment of chronic obstructive pulmonary disease (COPD).",
+      "selectedOption": 2,
+      "selectedRegistration": "154 11 34255 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

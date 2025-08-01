@@ -75,27 +75,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.963532",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EPIPEN",
-        "registration": "019 37 24854 00",
-        "form": ""
-      },
-      {
-        "name": "EPIPEN JR",
-        "registration": "019 38 24853 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:58.162037",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EPIPEN 0.3MG/0.3ML AUTO-INJECTOR 2X2ML כולל מזרק תרגול",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:58.162044",
+      "confidence": 95,
+      "reasoning": "The medication EpiPen with a strength of 0.3mg and registration number 019 37 24854 00 matches Option 1 with a high confidence level based on brand name similarity, strength compatibility, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "019 37 24854 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

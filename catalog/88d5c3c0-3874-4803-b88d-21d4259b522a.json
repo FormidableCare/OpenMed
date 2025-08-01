@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.023950",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARGIN 10",
-        "registration": "139 95 31636 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 20",
-        "registration": "139 96 31637 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 30",
-        "registration": "160 43 35262 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:10.575152",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARGIN 30/15MG 20 SR TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:10.575164",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TARGIN 10 in terms of brand name, registration number, and formulation (sr). The strength of 15.0mg also aligns with the 10 in the medication name.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 95 31636 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

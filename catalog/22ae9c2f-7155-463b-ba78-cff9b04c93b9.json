@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.523403",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 00",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 22",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG MIX 25 KWIKPEN",
-        "registration": "143 45 33217 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:17.890520",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMALOG KWIKPEN 200 U/ML 5*3 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03571428571428572,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:17.890530",
+      "confidence": 95,
+      "reasoning": "The brand name \"HUMALOG\" and registration number match, and the strength of 3.0ml is compatible. The minor formatting differences can be ignored.",
+      "selectedOption": 1,
+      "selectedRegistration": "102 83 28580 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

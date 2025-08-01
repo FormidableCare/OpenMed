@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.820487",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYCONTIN 10",
-        "registration": "100 71 28431 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 20",
-        "registration": "100 70 28432 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 40",
-        "registration": "109 01 29255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:57.532776",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYCONTIN 10MG 20TAB (CONTROLLED RELEASE)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:57.532789",
+      "confidence": 95,
+      "reasoning": "The medication OXYCONTIN 10 with a strength of 10.0mg matches with Option 1, which is also OXYCONTIN 10 with the same strength and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "100 71 28431 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

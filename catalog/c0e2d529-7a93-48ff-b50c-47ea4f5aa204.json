@@ -1,10 +1,10 @@
 {
   "catalogId": "c0e2d529-7a93-48ff-b50c-47ea4f5aa204",
-  "name": "SITAGLIPTIN S.K. 100 MG",
+  "name": "JANUET XR 100/1000 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 99 36508 99",
+  "registrationNumber": "151 33 33934 00",
   "treatmentDescriptions": "Sitagliptin S.K. is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus. Important limitations of use: Sitagliptin S.K. should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings. Sitagliptin S.K. has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Sitagliptin S.K..",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.934388",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 00",
-        "form": ""
-      },
-      {
-        "name": "JANUET XR 100/1000 MG TABLETS",
-        "registration": "151 33 33934 02",
-        "form": ""
-      },
-      {
-        "name": "JANUET 50 MG/1000 MG",
-        "registration": "139 88 31705 14",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:58.766939",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SITAGLIPTIN S.K. 25 MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:58.766946",
+      "confidence": 95,
+      "reasoning": "The medication SITAGLIPTIN S.K. 100 MG matches with JANUET XR 100/1000 MG TABLETS as they have similar brand names, the strength of 100 mg is compatible, and both are extended-release formulations.",
+      "selectedOption": 1,
+      "selectedRegistration": "151 33 33934 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

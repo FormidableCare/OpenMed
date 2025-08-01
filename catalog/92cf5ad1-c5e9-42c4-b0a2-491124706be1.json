@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.651157",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMACOMBIN OINTMENT",
-        "registration": "015 28 24536 00",
-        "form": ""
-      },
-      {
-        "name": "DERMACOMBIN CREAM",
-        "registration": "133 54 23775 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:50.843977",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMACOMBIN CREAM 5G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18333333333333332,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:50.843987",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication DERMACOMBIN CREAM in terms of brand name, registration number, strength (5.0g), and formulation (cream).",
+      "selectedOption": 2,
+      "selectedRegistration": "133 54 23775 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

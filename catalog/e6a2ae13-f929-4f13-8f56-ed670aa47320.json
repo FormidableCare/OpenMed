@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.311305",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UPTRAVI ® 1000 microgram",
-        "registration": "158 11 34942 00",
-        "form": ""
-      },
-      {
-        "name": "UPTRAVI ® 1200 microgram",
-        "registration": "158 12 34943 00",
-        "form": ""
-      },
-      {
-        "name": "UPTRAVI ® 1400 microgram",
-        "registration": "158 13 34944 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:32.811493",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UPTRAVI ® 1000 MCG 60 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:32.811505",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication UPTRAVI ® 1000 microgram in terms of brand name, strength (1000 microgram), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 11 34942 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

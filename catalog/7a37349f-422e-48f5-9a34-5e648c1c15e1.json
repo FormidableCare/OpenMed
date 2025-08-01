@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.980850",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ASPIRIN 500",
-        "registration": "025 43 21130 00",
-        "form": ""
-      },
-      {
-        "name": "ASPIRIN C",
-        "registration": "057 86 24955 00",
-        "form": ""
-      },
-      {
-        "name": "ASPIRIN CARDIO",
-        "registration": "143 06 31982 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:09.758408",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ASPIRIN 0.5GR 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:09.758418",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ASPIRIN 500 in terms of brand name, strength (0.5g), and registration number (025 43 21130 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "025 43 21130 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

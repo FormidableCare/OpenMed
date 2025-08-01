@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.023292",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URALYT-U",
-        "registration": "063 87 22365 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA  1.5 % GLUCOSE 1.75 MMOL/L CALCIUM",
-        "registration": "132 53 31018 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA 2.3 % GLUCOSE, 1.75 MMOL/L CALCIUM",
-        "registration": "132 51 31019 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:08.488346",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "URALYT-U GRANUL.280G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:08.488357",
+      "confidence": 95,
+      "reasoning": "Brand name URALYT-U matches, strength 280.0g matches, and both have similar registration numbers.",
+      "selectedOption": 1,
+      "selectedRegistration": "063 87 22365 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

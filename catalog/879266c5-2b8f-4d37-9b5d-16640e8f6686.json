@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.123780",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RAZALAX CHILDREN",
-        "registration": "158 38 34408 00",
-        "form": ""
-      },
-      {
-        "name": "RAZALAX ADULT",
-        "registration": "158 37 34394 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:49.100477",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RAZALAX ADULT 6 ENEMA",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:49.100488",
+      "confidence": 95,
+      "reasoning": "The brand name \"RAZALAX CHILDREN\" matches, and the registration numbers are very similar. The strength and formulation are likely to be specific to the children's version of the medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 38 34408 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

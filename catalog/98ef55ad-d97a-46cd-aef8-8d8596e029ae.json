@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.610503",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEUCOVORIN TEVA 10 MG/ML",
-        "registration": "053 49 26932 05",
-        "form": ""
-      },
-      {
-        "name": "LEUCOVORIN TEVA TABLETS",
-        "registration": "032 83 22115 07",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:16.893651",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEUCOVORIN 15MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:16.893656",
+      "confidence": 95,
+      "reasoning": "The medication Leucovorin Teva 10 mg/ml with a strength of 15.0mg matches Option 1 which is also Leucovorin Teva 10 mg/ml with a similar registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "053 49 26932 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

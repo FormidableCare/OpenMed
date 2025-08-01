@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.281941",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AMLODY 10",
-        "registration": "175 06 36807 99",
-        "form": ""
-      },
-      {
-        "name": "AMLODY 5",
-        "registration": "175 05 36806 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:57.583690",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AMLODY 10 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:57.583703",
+      "confidence": 95,
+      "reasoning": "The brand name \"AMLODY 10\" matches exactly, and the registration numbers are identical. The strength of 10 also matches the medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "175 06 36807 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

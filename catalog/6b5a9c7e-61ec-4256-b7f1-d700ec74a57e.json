@@ -1,10 +1,10 @@
 {
   "catalogId": "6b5a9c7e-61ec-4256-b7f1-d700ec74a57e",
-  "name": "UPTRAVI ® 1000 microgram",
+  "name": "UPTRAVI ® 1200 microgram",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 11 34942 00",
+  "registrationNumber": "158 12 34943 00",
   "treatmentDescriptions": "Uptravi is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients with WHO functional class (FC) II-III, either as combination therapy in patients insufficiently controlled with an endothelin receptor antagonist (ERA) and/or a phosphodiesterase type 5 (PDE-5) inhibitor, or as monotherapy in patients who are not candidates for these therapies.Efficacy has been shown in a PAH population including idiopathic and heritable PAH, PAH associated with connective tissue disorders, and PAH associated with corrected simple congenital heart disease",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.128315",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UPTRAVI ® 1000 microgram",
-        "registration": "158 11 34942 00",
-        "form": ""
-      },
-      {
-        "name": "UPTRAVI ® 1200 microgram",
-        "registration": "158 12 34943 00",
-        "form": ""
-      },
-      {
-        "name": "UPTRAVI ® 1400 microgram",
-        "registration": "158 13 34944 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:55.047536",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UPTRAVI ® 1600 MCG 60 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:55.047542",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication with a similar brand name (UPTRAVI), strength compatibility (1200 microgram vs. 1000 microgram), and registration number format.",
+      "selectedOption": 2,
+      "selectedRegistration": "158 12 34943 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

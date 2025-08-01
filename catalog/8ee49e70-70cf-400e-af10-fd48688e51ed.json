@@ -1,10 +1,10 @@
 {
   "catalogId": "8ee49e70-70cf-400e-af10-fd48688e51ed",
-  "name": "ONGENTYS 50 MG",
+  "name": "ENTACAPONE MEDOCHEMIE",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "170 17 37081 99",
+  "registrationNumber": "160 98 35150 00",
   "treatmentDescriptions": "ONGENTYS is indicated as adjunctive therapy to preparations of levodopa/ DOPA decarboxylase inhibitors (DDCI) in adult patients with Parkinson’s disease and end-of-dose motor fluctuations who cannot be stabilised on those combinations.",
   "termsOfIssue": "",
   "form": "capsule, hard",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.905800",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ONGENTYS 50 MG",
-        "registration": "170 17 37081 99",
-        "form": ""
-      },
-      {
-        "name": "ENTACAPONE MEDOCHEMIE",
-        "registration": "160 98 35150 00",
-        "form": ""
-      },
-      {
-        "name": "APO-GO",
-        "registration": "128 26 30682 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:13.729854",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "APO METHYL DOPA 250MG 1TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:13.729935",
+      "confidence": 95,
+      "reasoning": "The medication ONGENTYS 50 MG matches with ENTACAPONE MEDOCHEMIE in terms of strength (250.0mg) and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "160 98 35150 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

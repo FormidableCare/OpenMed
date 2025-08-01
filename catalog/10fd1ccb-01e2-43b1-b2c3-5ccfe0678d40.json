@@ -68,27 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.314208",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZENALB 20",
-        "registration": "137 74 31656 00",
-        "form": ""
-      },
-      {
-        "name": "ZENALB 4.5",
-        "registration": "137 73 31655 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:36.399001",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZENALB 20% SOLUTION IV INF. 50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:36.399007",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ZENALB 20 in terms of brand name similarity, strength compatibility (20%), and formulation (solution). The registration numbers also match closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "137 74 31656 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

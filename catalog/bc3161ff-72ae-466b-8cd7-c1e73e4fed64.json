@@ -1,10 +1,10 @@
 {
   "catalogId": "bc3161ff-72ae-466b-8cd7-c1e73e4fed64",
-  "name": "RECITAL 20",
+  "name": "RECITAL 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "123 22 30309 01",
+  "registrationNumber": "123 23 30310 01",
   "treatmentDescriptions": "For the treatment of states of depression or panic disorder.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.688189",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RECITAL 20",
-        "registration": "123 22 30309 01",
-        "form": ""
-      },
-      {
-        "name": "RECITAL 40",
-        "registration": "123 23 30310 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:22.754476",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RECITAL 40MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:22.754488",
+      "confidence": 95,
+      "reasoning": "The option 2, RECITAL 40, closely matches the medication RECITAL 20 in terms of brand name similarity, strength compatibility (40.0mg), and formulation. The only difference is in the strength, which could be a variation in the product.",
+      "selectedOption": 2,
+      "selectedRegistration": "123 23 30310 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

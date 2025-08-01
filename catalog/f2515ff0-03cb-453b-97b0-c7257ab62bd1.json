@@ -56,11 +56,10 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.908723",
+    "lastUpdated": "2025-08-01T18:58:16.878831",
     "tags": [
       "smart_validation_failed",
-      "best_score_0.03",
-      "needs_manual_review"
+      "best_score_0.03"
     ],
     "validationFailure": {
       "failedAt": "2025-08-01T15:03:04.530825",
@@ -76,18 +75,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "BIAFINE",
-        "registration": "067 13 28323 01",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "BIAFINE 93GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:16.878847",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication BIAFINE.",
+      "selectedOption": 1,
+      "selectedRegistration": "067 13 28323 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

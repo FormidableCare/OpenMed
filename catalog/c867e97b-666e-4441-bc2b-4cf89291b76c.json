@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.303931",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "INSTILLAGEL",
-        "registration": "160 11 35080 00",
-        "form": ""
-      },
-      {
-        "name": "STILLA SINGLES",
-        "registration": "122 50 30243 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:28.945846",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STILLA SINGLES 10*0.3ML EYES DROPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:28.945858",
+      "confidence": 95,
+      "reasoning": "The brand name \"INSTILLAGEL\" matches perfectly, the strength and formulation also match, and the registration number is the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 11 35080 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

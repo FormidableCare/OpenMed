@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.106850",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARGIN 10",
-        "registration": "139 95 31636 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 20",
-        "registration": "139 96 31637 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 30",
-        "registration": "160 43 35262 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:22.655621",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARGIN 5/2.5 MG 20 P.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:22.655626",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TARGIN 10 in terms of brand name, strength (2.5mg), and registration number (139 95 31636 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "139 95 31636 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.276009",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OVALEAP",
-        "registration": "157 82 34716 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:46.880147",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OVALEAP 450IU/0.75 ML 1 CARTRIDGE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:46.880160",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 82 34716 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

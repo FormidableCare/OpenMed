@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.090350",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UROMITEXAN 400 MG",
-        "registration": "153 48 34007 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:14.495148",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UROMITEXAN 400MG/VIAL 15X4ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:14.495161",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (400 mg), and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 48 34007 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

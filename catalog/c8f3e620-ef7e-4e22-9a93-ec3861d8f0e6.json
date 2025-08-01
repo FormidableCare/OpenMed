@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.799158",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PEGLAX NEUTRAL",
-        "registration": "144 49 33236 00",
-        "form": ""
-      },
-      {
-        "name": "PEGLAX ORANGE",
-        "registration": "144 50 33237 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:28.855806",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PEGLAX NEUTRAL 250GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:28.855818",
+      "confidence": 95,
+      "reasoning": "The medication name, PEGLAX NEUTRAL, matches exactly. The registration numbers are also very similar, differing by only one digit. The strength of 250.0g is the same as well.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 49 33236 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.915177",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "L-THYROXINE SERB",
-        "registration": "165 27 35356 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:30.289413",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVOTHYROXINE SODIUM 125MCG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:30.289418",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (125.0mcg), and registration number (165 27 35356 00) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 27 35356 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

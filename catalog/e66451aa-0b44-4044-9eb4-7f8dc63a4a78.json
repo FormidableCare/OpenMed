@@ -1,10 +1,10 @@
 {
   "catalogId": "e66451aa-0b44-4044-9eb4-7f8dc63a4a78",
-  "name": "ATOMIC 100",
+  "name": "ATOMIC 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 84 36235 00",
+  "registrationNumber": "160 12 35129 01",
   "treatmentDescriptions": "Atomic is indicated for the treatment of Attention-Deficit/Hyperactivity Disorder (ADHD) in children of 6 years and older, in adolescents and in adults as part of a comprehensive treatment programme. Treatment must be initiated by a specialist in the treatment of ADHD, such as a paediatrician, child/adolescent psychiatrist, or psychiatrist. Diagnosis should be made according to current DSM criteria or the guidelines in ICD. In adults, the presence of symptoms of ADHD that were pre-existing in childhood should be confirmed. Third-party corroboration is desirable and Atomic should not be initiated when the verification of childhood ADHD symptoms is uncertain. Diagnosis cannot be made solely on the presence of one or more symptoms of ADHD.Based on clinical judgment, patients should have ADHD of at least moderate severity as indicated by at least moderate functional impairment in 2 or more settings (for example, social, academic, and/or occupational functioning), affecting several aspects of an individual’s life.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.989370",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ATOMIC 100",
-        "registration": "167 84 36235 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 18",
-        "registration": "167 82 36233 00",
-        "form": ""
-      },
-      {
-        "name": "ATOMIC 25",
-        "registration": "160 12 35129 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:22.384088",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ATOMIC 25mg 28 tab",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:22.384094",
+      "confidence": 95,
+      "reasoning": "The option 3, ATOMIC 25, closely matches the medication ATOMIC 100 in terms of brand name similarity and strength compatibility (25.0mg).",
+      "selectedOption": 3,
+      "selectedRegistration": "160 12 35129 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

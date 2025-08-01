@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.414239",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DAIVOBET",
-        "registration": "127 60 30600 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:25.550122",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DAIVOBET OINT 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:25.550136",
+      "confidence": 95,
+      "reasoning": "The medication name, DAIVOBET, strength (30.0g), and registration number (127 60 30600 00) all match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 60 30600 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

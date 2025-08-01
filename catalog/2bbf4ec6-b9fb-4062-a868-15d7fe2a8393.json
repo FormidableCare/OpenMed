@@ -1,10 +1,10 @@
 {
   "catalogId": "2bbf4ec6-b9fb-4062-a868-15d7fe2a8393",
-  "name": "EVETOR 10",
+  "name": "EVETOR 5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 89 36326 00",
+  "registrationNumber": "168 88 36325 00",
   "treatmentDescriptions": "Evetor is indicated for:- Treatment of patients with SEGA associated with tuberous sclerosis Complex (TSC) who require therapeutic intervention but are not candidates for curative surgical resection. The effectiveness of Evetor is based on an analysis of change in SEGA volume. Clinical benefit such as improvement in disease-related symptoms or increase in overall survival has not been demonstrated. - Treatment of progressive neuroendocrine tumors of pancreatic origin (PNET) in patients with unresectable, locally advanced or metastatic disease. The safety and effectiveness of EVETOR in the treatment of patients with carcinoid tumors have not been established. - Treatment of hormone receptor – positive, HER2/neu negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression following a non – steroidal aromatase inhibitor. - Treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery. The effectiveness of Evetor in treatment of renal angiomyolipoma is based on an analysis of durable objective responses in patients treated for a median of 8.3 months. Further follow-up of patients is required to determine long-term outcomes. - Treatment of patients with advanced renal cell carcinoma, whose disease has progressed on or after treatment with VEGF-targeted therapy.- Treatment of unresectable, locally advanced or metastatic, well-differentiated (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal or lung origin in adults with progressive disease.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.903869",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EVETOR 10",
-        "registration": "168 89 36326 00",
-        "form": ""
-      },
-      {
-        "name": "EVETOR 2.5",
-        "registration": "168 87 36324 00",
-        "form": ""
-      },
-      {
-        "name": "EVETOR 5",
-        "registration": "168 88 36325 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:10.039476",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EVETOR 10MG 30 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:10.039482",
+      "confidence": 95,
+      "reasoning": "The option \"EVETOR 5\" matches the medication \"EVETOR 10\" in terms of brand name similarity, registration number, and strength compatibility. The only difference is in the strength, which can be attributed to a different dosage formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "168 88 36325 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

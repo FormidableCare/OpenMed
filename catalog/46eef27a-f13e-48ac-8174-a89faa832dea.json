@@ -1,10 +1,10 @@
 {
   "catalogId": "46eef27a-f13e-48ac-8174-a89faa832dea",
-  "name": "TARGIN 10",
+  "name": "TARGIN 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 95 31636 00",
+  "registrationNumber": "139 96 31637 00",
   "treatmentDescriptions": "Targin is indicated for the relief of moderate to severe pain.The oxycodone component is indicated for the relief of moderate to severe pain in adults who require continuous around-the-clock opioid analgesia for several days or more. The opioid antagonist naloxone is added to counteract opioid-induced constipation by blocking the action of oxycodone at opioid receptors locally in the gut.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.177971",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARGIN 10",
-        "registration": "139 95 31636 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 20",
-        "registration": "139 96 31637 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 30",
-        "registration": "160 43 35262 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:47.944638",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARGIN 40/20 MG 20 P.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:47.944643",
+      "confidence": 95,
+      "reasoning": "The option 2, TARGIN 20, closely matches the medication TARGIN 10 in terms of brand name similarity, strength compatibility (20.0mg), and registration number format.",
+      "selectedOption": 2,
+      "selectedRegistration": "139 96 31637 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

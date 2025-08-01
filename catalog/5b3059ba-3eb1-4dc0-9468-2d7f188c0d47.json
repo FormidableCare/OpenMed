@@ -1,10 +1,10 @@
 {
   "catalogId": "5b3059ba-3eb1-4dc0-9468-2d7f188c0d47",
-  "name": "LIDOCAINE HYDROCHLORIDE S.A.L.F. 10 MG/ML",
+  "name": "INSTILLAGEL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 32 35867 00",
+  "registrationNumber": "160 11 35080 00",
   "treatmentDescriptions": "Local and regional anaesthesia.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.046658",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OCTOCAINE 100",
-        "registration": "136 86 31595 00",
-        "form": ""
-      },
-      {
-        "name": "ORACORT E",
-        "registration": "037 10 22812 00",
-        "form": ""
-      },
-      {
-        "name": "INSTILLAGEL",
-        "registration": "160 11 35080 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:34.461709",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LIDOCAINE HYDROCHLORIDE S.A.L.F. 10MG/ML 5 AMP 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004166666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:34.461714",
+      "confidence": 95,
+      "reasoning": "The medication Lidocaine Hydrochloride S.A.L.F. 10 mg/ml matches with INSTILLAGEL as they both contain Lidocaine Hydrochloride and have similar strength (10 mg/ml).",
+      "selectedOption": 3,
+      "selectedRegistration": "160 11 35080 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

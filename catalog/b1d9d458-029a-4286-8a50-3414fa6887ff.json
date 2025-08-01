@@ -1,10 +1,10 @@
 {
   "catalogId": "b1d9d458-029a-4286-8a50-3414fa6887ff",
-  "name": "GAVISCON PEPPERMINT TABLETS",
+  "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "141 58 31757 00",
+  "registrationNumber": "107 95 26735 00",
   "treatmentDescriptions": "Treatment of symptoms of gastro-oesophageal reflux such as acid regurgatation, heartburn and indigestion (related to reflux), for example, following meals or during pregnancy or in patients with symptoms related to reflux oesophagitis.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -50,32 +50,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.860693",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:17.857000",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GAVISCON PEPPERMINT 48 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:17.857012",
+      "confidence": 95,
+      "reasoning": "The CAPD 2 Peritoneal Dialysis Solution matches the Gaviscon Peppermint Tablets in terms of formulation (tablet), while the other options are not tablets.",
+      "selectedOption": 2,
+      "selectedRegistration": "107 95 26735 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

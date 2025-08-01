@@ -1,10 +1,10 @@
 {
   "catalogId": "425977d5-ef27-4d15-9839-4b058b1ea508",
-  "name": "LAMISIL ONCE",
+  "name": "LAMISIL CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "137 26 31486 00",
+  "registrationNumber": "115 55 27562 05",
   "treatmentDescriptions": "For the treatment of athlete's foot.",
   "termsOfIssue": "",
   "form": "solution",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.161616",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LAMISIL ONCE",
-        "registration": "137 26 31486 00",
-        "form": ""
-      },
-      {
-        "name": "LAMISIL SPRAY",
-        "registration": "117 13 29732 00",
-        "form": ""
-      },
-      {
-        "name": "LAMISIL CREAM",
-        "registration": "115 55 27562 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:17.943137",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LAMISIL CREAM 1% 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:17.943149",
+      "confidence": 95,
+      "reasoning": "The option \"LAMISIL CREAM\" matches the medication \"LAMISIL ONCE\" in terms of brand name similarity, formulation (cream), and strength (1.0%).",
+      "selectedOption": 3,
+      "selectedRegistration": "115 55 27562 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.819991",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TADAM 10",
-        "registration": "157 81 34538 01",
-        "form": ""
-      },
-      {
-        "name": "TADAM 20",
-        "registration": "157 80 34537 01",
-        "form": ""
-      },
-      {
-        "name": "TADAM 5",
-        "registration": "157 79 34602 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:43.360944",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TADAM 20 MG 8 FILM COATED TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:43.360950",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TADAM 10 in terms of brand name similarity, strength compatibility (20.0mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 81 34538 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

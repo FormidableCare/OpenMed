@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.251485",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIPTIPOT AFALPI",
-        "registration": "121 43 30172 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT MUCOLIT",
-        "registration": "122 54 30239 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT NOVIMOL",
-        "registration": "134 61 31137 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:17.034057",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TIPTIPOT FERRIPEL 3 DROPS 15ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:17.034072",
+      "confidence": 95,
+      "reasoning": "The medication name \"TIPTIPOT AFALPI\" matches closely with the option 1 \"TIPTIPOT AFALPI\". The registration numbers also match, indicating a high likelihood of being the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "121 43 30172 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

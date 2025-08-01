@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.306669",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ELOCOM LOTION",
-        "registration": "137 48 28715 22",
-        "form": ""
-      },
-      {
-        "name": "DIPROSALIC LOTION",
-        "registration": "134 10 24243 21",
-        "form": ""
-      },
-      {
-        "name": "ZINC LOTION VITAMED",
-        "registration": "064 83 28120 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:30.554274",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ELOCOM LOTION 20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:30.554279",
+      "confidence": 95,
+      "reasoning": "The medication ELOCOM LOTION matches option 1 based on the brand name similarity, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "137 48 28715 22",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

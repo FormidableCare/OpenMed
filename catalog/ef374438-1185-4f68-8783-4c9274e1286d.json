@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.604195",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REAGILA 1.5",
-        "registration": "163 54 35920 00",
-        "form": ""
-      },
-      {
-        "name": "REAGILA 3",
-        "registration": "163 55 35921 00",
-        "form": ""
-      },
-      {
-        "name": "REAGILA 4.5",
-        "registration": "163 56 35922 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:05.399511",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REAGILA 1.5 30CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.037500000000000006,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:05.399523",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Reagila 1.5 in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 54 35920 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

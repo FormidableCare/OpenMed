@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.112098",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DESLORATADINE - TRIMA TABLETS",
-        "registration": "149 99 33681 00",
-        "form": ""
-      },
-      {
-        "name": "DESLORATADINE - TRIMA SYRUP 0.5 MG/ML",
-        "registration": "150 37 33827 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:26.257415",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DESLORATADINE-TRIMA 5MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:26.257421",
+      "confidence": 95,
+      "reasoning": "The medication name, DESLORATADINE - TRIMA TABLETS, strength (5.0mg), and formulation (tablet) all match with the provided medication information. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 99 33681 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

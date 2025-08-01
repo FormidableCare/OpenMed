@@ -1,10 +1,10 @@
 {
   "catalogId": "b2f9a090-91f6-43ba-9e57-00399ec887ac",
-  "name": "OXALIPLATIN MEDAC 100 MG",
+  "name": "OXALIPLATIN MEDAC 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 25 31504 00",
+  "registrationNumber": "137 24 31503 00",
   "treatmentDescriptions": "Oxaliplatin in combination with 5-fluorouracil (5-FU) and folinic acid (FA) is indicated for: •  Adjuvant treatment of stage III (Duke‘s C) colon cancer after complete resection of primary tumor. •  Treatment of metastatic colorectal cancer. Oxaliplatin in combination with leucovorin, irinotecan and 5-fluorouracil is indicated for the first-line treatment of patients with metastatic pancreatic adenocarcinoma (based on NCCN guidelines, version 2.2014).",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for infusion",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.765565",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXALIPLATIN TEVA ®",
-        "registration": "142 23 31784 00",
-        "form": ""
-      },
-      {
-        "name": "OXALIPLATIN MEDAC 100 MG",
-        "registration": "137 25 31504 00",
-        "form": ""
-      },
-      {
-        "name": "OXALIPLATIN MEDAC 50 MG",
-        "registration": "137 24 31503 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:37.317028",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXALIPLATIN MEDAC 50MG/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:37.317040",
+      "confidence": 95,
+      "reasoning": "The option 3, OXALIPLATIN MEDAC 50 MG, matches the medication Oxaliplatin Medac 100 MG in terms of brand name similarity, strength compatibility (50 mg/vial), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "137 24 31503 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.243530",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STABILANOL",
-        "registration": "134 81 31179 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:06.501383",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STABILANOL 2 MG/ML IV  SOL. FOR INFUSION 50 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:06.501394",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "134 81 31179 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

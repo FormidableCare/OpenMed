@@ -1,10 +1,10 @@
 {
   "catalogId": "8d398ac1-d3ed-4608-ad78-fc54a139d2dd",
-  "name": "REAGILA 1.5",
+  "name": "REAGILA 3",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 54 35920 00",
+  "registrationNumber": "163 55 35921 00",
   "treatmentDescriptions": "-Reagila is indicated for the:•\tTreatment of schizophrenia in adult patients.•\tAcute treatment of manic or mixed episodes associated with bipolar I disorder in adult.•\tTreatment of depressive episodes associated with bipolar I disorder (bipolar depression) in adults.•\tAdjunctive therapy to antidepressants for the treatment of major depressive disorder (MDD) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.606234",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REAGILA 1.5",
-        "registration": "163 54 35920 00",
-        "form": ""
-      },
-      {
-        "name": "REAGILA 3",
-        "registration": "163 55 35921 00",
-        "form": ""
-      },
-      {
-        "name": "REAGILA 4.5",
-        "registration": "163 56 35922 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:07.111694",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REAGILA 6MG 30 CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:07.111706",
+      "confidence": 95,
+      "reasoning": "The option \"REAGILA 3\" matches the medication \"REAGILA 1.5\" in terms of brand name similarity, strength compatibility (6.0mg to 3.0mg), and likely formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "163 55 35921 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

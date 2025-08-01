@@ -1,10 +1,10 @@
 {
   "catalogId": "3c2a1a11-074d-464d-a688-dea3a697e07f",
-  "name": "OXYCONTIN 10",
+  "name": "OXYCONTIN 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 71 28431 00",
+  "registrationNumber": "100 70 28432 00",
   "treatmentDescriptions": "For the relief of moderate to severe chronic pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets controlled release",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.113835",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYCONTIN 10",
-        "registration": "100 71 28431 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 20",
-        "registration": "100 70 28432 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 40",
-        "registration": "109 01 29255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:36.518526",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYCONTIN 20MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:36.518538",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication OXYCONTIN 10 with a strength of 20.0mg, which is a close match in terms of brand name similarity and strength compatibility.",
+      "selectedOption": 2,
+      "selectedRegistration": "100 70 28432 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

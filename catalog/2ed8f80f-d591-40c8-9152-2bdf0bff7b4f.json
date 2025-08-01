@@ -1,10 +1,10 @@
 {
   "catalogId": "2ed8f80f-d591-40c8-9152-2bdf0bff7b4f",
-  "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
+  "name": "ADRENALINE S.A.L.F 1 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 89 36923 99",
+  "registrationNumber": "160 10 34515 00",
   "treatmentDescriptions": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE is indicated for cardiac arrest and cardiopulmonary resuscitation (physical measures should be used first).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.820096",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
-        "registration": "174 89 36923 99",
-        "form": ""
-      },
-      {
-        "name": "ADRENALINE S.A.L.F 1 MG/ML",
-        "registration": "160 10 34515 00",
-        "form": ""
-      },
-      {
-        "name": "ADRENALINE SINTETICA 1 MG/ML",
-        "registration": "166 60 35988 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:55.723073",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADRENALINE TEVA 1MG/ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.011111111111111112,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:55.723078",
+      "confidence": 95,
+      "reasoning": "The medication ADRENALINE AGUETTANT 0.1 MG/ML PRE-FILLED SYRINGE matches with option 2, ADRENALINE S.A.L.F 1 MG/ML, as both have similar brand names, are pre-filled syringes, and have a similar strength of adrenaline (although the concentration is different due to different units of measurement).",
+      "selectedOption": 2,
+      "selectedRegistration": "160 10 34515 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

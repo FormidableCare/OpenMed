@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.192893",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIMETINDENE INOVAMED GEL",
-        "registration": "167 86 35712 00",
-        "form": ""
-      },
-      {
-        "name": "DERMOSTAMIN GEL",
-        "registration": "162 15 35946 00",
-        "form": ""
-      },
-      {
-        "name": "VIBROCIL MICRODOSER",
-        "registration": "058 91 27319 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:02.338746",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TINDEN GEL 100 G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:02.338754",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DIMETINDENE INOVAMED GEL in terms of brand name similarity, strength (100.0g), and formulation (gel). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 86 35712 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

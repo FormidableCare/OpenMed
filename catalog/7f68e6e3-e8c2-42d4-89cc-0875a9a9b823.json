@@ -1,10 +1,10 @@
 {
   "catalogId": "7f68e6e3-e8c2-42d4-89cc-0875a9a9b823",
-  "name": "OXYTOCIN - GRINDEKS",
+  "name": "OXYTOCIN PANPHARMA INJECTION  10 I.U./ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 47 35690 00",
+  "registrationNumber": "124 93 30439 00",
   "treatmentDescriptions": "- Induction of labour for medical reasons;- Stimulation of labour in hypnotic uterine inertia;- During Caesarean section following the delivery of the child;- Prevention and treatment of postpartum uterine atony and hemorrhage.- In early stages of pregnancy as an adjunctive therapy for the management of incomplete, inevitable of missed abortion.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / infusion",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.872078",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYTOCIN - GRINDEKS",
-        "registration": "165 47 35690 00",
-        "form": ""
-      },
-      {
-        "name": "OXYTOCIN PANPHARMA INJECTION  10 I.U./ML",
-        "registration": "124 93 30439 00",
-        "form": ""
-      },
-      {
-        "name": "PARTOVET VETERINARY",
-        "registration": "083 47 92369 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:33.749864",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYTOCIN - GRINDEKS 10IU/1 ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:33.749875",
+      "confidence": 95,
+      "reasoning": "The option 2, OXYTOCIN PANPHARMA INJECTION 10 I.U./ML, closely matches the medication OXYTOCIN - GRINDEKS in terms of brand name similarity, strength compatibility (10 I.U.), and formulation as an injection.",
+      "selectedOption": 2,
+      "selectedRegistration": "124 93 30439 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

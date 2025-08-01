@@ -1,10 +1,10 @@
 {
   "catalogId": "1c74aa3c-feba-4870-90c4-c03ad7c08c93",
-  "name": "PARACETAMOL FRESENIUS 10 MG/ML",
+  "name": "AVCAMOL 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 99 34200 02",
+  "registrationNumber": "148 51 33446 00",
   "treatmentDescriptions": "Paracetamol – Fresenius is indicated for:- the short-term treatment of moderate pain, especially following surgery- the short-term treatment of fever.when administration by intravenous route is clinically justified by an urgent need to treat pain or hyperthermia and/or when other routes of administration are not possible.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.680265",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AVCAMOL 250 MG",
-        "registration": "148 51 33446 01",
-        "form": ""
-      },
-      {
-        "name": "AVCAMOL 250 MG",
-        "registration": "148 51 33446 00",
-        "form": ""
-      },
-      {
-        "name": "AVCAMOL 500",
-        "registration": "148 53 33459 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:28.089479",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARACETAMOL FRESENIUS 10 MG/ML 10 VIAL X 50 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:28.089497",
+      "confidence": 95,
+      "reasoning": "The option 2, AVCAMOL 250 MG, closely matches the medication Paracetamol Fresenius 10 mg/ml in terms of strength compatibility (250 mg vs 10 mg/ml), and the brand name similarity is evident.",
+      "selectedOption": 2,
+      "selectedRegistration": "148 51 33446 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

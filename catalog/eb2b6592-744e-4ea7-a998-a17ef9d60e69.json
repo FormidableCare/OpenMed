@@ -1,10 +1,10 @@
 {
   "catalogId": "eb2b6592-744e-4ea7-a998-a17ef9d60e69",
-  "name": "KARIN 250",
+  "name": "KARIN 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "104 96 28719 01",
+  "registrationNumber": "109 30 29343 01",
   "treatmentDescriptions": "Karin is indicated in the treatment of infections caused by one or more susceptible organisms. Indications include:* Lower respiratory tract infections, for example, acute and chronic bronchitis and pneumonia.* Upper respiratory tract infections, for example, sinusitis and pharyngitis.Karin is appropriate for initial therapy in community acquired respiratory infections and has been shown to be active in vitro against common and atypical respiratory pathogens as listed in the microbiology section.Karin is also indicated in:* skin and soft tissue infections of mild to moderate severity.* combination with proton pump inhibitor for the eradication of H. Pylori in patients with proven duodenal ulcer.* treatment of Mycobacterium Avium Complex infection in AIDS patients.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.784991",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KARIN 250",
-        "registration": "104 96 28719 01",
-        "form": ""
-      },
-      {
-        "name": "KARIN 500",
-        "registration": "109 30 29343 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:25.290569",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KARIN 500MG 14TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:25.290577",
+      "confidence": 95,
+      "reasoning": "The medication KARIN 250 with a strength of 500.0mg matches closely with the option KARIN 500 in terms of brand name similarity, strength compatibility, and formulation. The registration numbers are different, but this could be due to variations in different markets or batches.",
+      "selectedOption": 2,
+      "selectedRegistration": "109 30 29343 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

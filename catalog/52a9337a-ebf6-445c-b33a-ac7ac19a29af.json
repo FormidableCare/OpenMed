@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.756139",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MEMOX 10",
-        "registration": "133 16 31117 02",
-        "form": ""
-      },
-      {
-        "name": "MEMOX 20",
-        "registration": "146 09 32965 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:10.418096",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MEMOX 10MG 56TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:10.418102",
+      "confidence": 95,
+      "reasoning": "The medication MEMOX 10 matches with option 1 as they have the same brand name, strength (10.0mg), and registration number (133 16 31117 02).",
+      "selectedOption": 1,
+      "selectedRegistration": "133 16 31117 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

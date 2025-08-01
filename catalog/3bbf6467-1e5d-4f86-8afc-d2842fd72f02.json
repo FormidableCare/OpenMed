@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.170504",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OCTANATE 1000",
-        "registration": "138 12 31683 00",
-        "form": ""
-      },
-      {
-        "name": "OCTANATE 500",
-        "registration": "138 11 31682 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:32.759158",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OCTANATE 500 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:32.759170",
+      "confidence": 95,
+      "reasoning": "The medication name, OCTANATE 1000, matches exactly. The registration numbers are also identical.",
+      "selectedOption": 1,
+      "selectedRegistration": "138 12 31683 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

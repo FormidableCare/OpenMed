@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.371828",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CALMANERVIN S ELIXIR",
-        "registration": "035 48 25445 00",
-        "form": ""
-      },
-      {
-        "name": "CALMANERVIN TABLETS",
-        "registration": "046 30 22917 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:33.030330",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CALMANERVIN 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:33.030341",
+      "confidence": 95,
+      "reasoning": "The brand name \"CALMANERVIN S ELIXIR\" matches exactly, and the registration numbers are the same. The strength and formulation are not provided in the task, but based on the brand name match and registration number match, this option is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "035 48 25445 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

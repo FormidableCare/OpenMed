@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.895586",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LERCANAPRIL TEVA 10 /10",
-        "registration": "164 44 35533 00",
-        "form": ""
-      },
-      {
-        "name": "LERCANAPRIL TEVA 10/10",
-        "registration": "164 44 35533 01",
-        "form": ""
-      },
-      {
-        "name": "LERCANAPRIL TEVA 10/20",
-        "registration": "164 45 35534 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:06.331027",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LERCANAPRIL TEVA 10 MG /10 MG  30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:06.331038",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication LERCANAPRIL TEVA 10 /10 in terms of brand name, strength (10.0mg, 10.0mg), and registration number (164 44 35533 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "164 44 35533 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

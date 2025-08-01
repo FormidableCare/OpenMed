@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.729501",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EVOREL 50",
-        "registration": "103 09 28671 00",
-        "form": ""
-      },
-      {
-        "name": "EVOREL CONTI",
-        "registration": "121 50 29726 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:05.609450",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EVOREL CONTI  8 PATCH",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:05.609470",
+      "confidence": 95,
+      "reasoning": "The medication name \"EVOREL 50\" matches exactly, and the registration number also matches. The strength \"50\" also matches, indicating that this is the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "103 09 28671 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

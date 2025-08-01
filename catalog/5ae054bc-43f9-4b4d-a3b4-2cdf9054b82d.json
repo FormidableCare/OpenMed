@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.659937",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RAZALAX CHILDREN",
-        "registration": "158 38 34408 00",
-        "form": ""
-      },
-      {
-        "name": "RAZALAX ADULT",
-        "registration": "158 37 34394 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:03.051589",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RAZALAX CHILDREN 2.25 GR 6ENEMA",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:03.051594",
+      "confidence": 95,
+      "reasoning": "The medication name, RAZALAX CHILDREN, matches exactly. The registration numbers are very similar, and the strength of 2.25g also aligns with a children's formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 38 34408 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

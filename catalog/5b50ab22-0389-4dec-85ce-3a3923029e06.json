@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.639107",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LANTUS 100 UNITS/ML",
-        "registration": "124 36 30365 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:23.035479",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LANTUS  100UI/ML OPTISET/SOLOSTAR PRE FILLED PEN 5X3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.009090909090909092,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:23.035492",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100 units/ml), and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "124 36 30365 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

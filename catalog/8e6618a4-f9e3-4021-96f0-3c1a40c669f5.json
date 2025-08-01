@@ -1,10 +1,10 @@
 {
   "catalogId": "8e6618a4-f9e3-4021-96f0-3c1a40c669f5",
-  "name": "AZENIL 200 MG/5 ML SUSPENSION",
+  "name": "AZENIL CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "118 26 29828 00",
+  "registrationNumber": "117 66 29827 00",
   "treatmentDescriptions": "Infections caused by susceptible organisms in lower respiratory tract including bronchitis and pneumonia, skin and soft tissue infections, otitis media, upper respiratory tract infections including sinusitis and pharyngitis, tonsilitis, also in the treatment of uncomplicated genital infections due to chlamydia trachomatis.",
   "termsOfIssue": "Prescription required",
   "form": "powder for oral suspension",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.732371",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AZENIL 200 MG/5 ML SUSPENSION",
-        "registration": "118 26 29828 00",
-        "form": ""
-      },
-      {
-        "name": "AZENIL CAPSULES",
-        "registration": "117 66 29827 00",
-        "form": ""
-      },
-      {
-        "name": "FLUMAZENIL KABI 0.1 MG/ML",
-        "registration": "177 37 37182 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:44.769594",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AZENIL 250MG 6CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:44.769606",
+      "confidence": 95,
+      "reasoning": "The option 2, \"AZENIL CAPSULES,\" closely matches the medication based on the brand name similarity, strength compatibility (200 mg vs. 250 mg), and same formulation (capsule). The registration number is different, but this could be due to variations in packaging or presentation.",
+      "selectedOption": 2,
+      "selectedRegistration": "117 66 29827 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

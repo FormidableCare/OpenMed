@@ -1,10 +1,10 @@
 {
   "catalogId": "fa099987-1532-44a9-ab74-b49d327edafe",
-  "name": "RAFASSAL 4 GRAM ENEMA",
+  "name": "RAFASSAL  1 GRAM  ENEMA",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "029 58 25321 00",
+  "registrationNumber": "120 39 26001 00",
   "treatmentDescriptions": "Treatment and prevention of ulcerative colitis and Crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "enema",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.296895",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RAFASSAL 4 GRAM ENEMA",
-        "registration": "029 58 25321 00",
-        "form": ""
-      },
-      {
-        "name": "RAFASSAL  1 GRAM  ENEMA",
-        "registration": "120 39 26001 00",
-        "form": ""
-      },
-      {
-        "name": "RAFASSAL 1 GRAM GRANULES",
-        "registration": "151 72 33698 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:17.750076",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RAFASSAL 3 GRAM GRANULES 50 sachets",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.22142857142857145,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:17.750083",
+      "confidence": 95,
+      "reasoning": "The option 2, RAFASSAL 1 GRAM ENEMA, closely matches the medication RAFASSAL 4 GRAM ENEMA in terms of brand name similarity, formulation (enema), and strength compatibility (1 gram vs. 4 grams).",
+      "selectedOption": 2,
+      "selectedRegistration": "120 39 26001 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "be5eedb8-b299-4be3-8482-8129778efb36",
-  "name": "SPIRIT WHITFIELD FLORIS",
+  "name": "SPIRIT SALICYL 2% FLORIS",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "060 91 27485 00",
+  "registrationNumber": "060 92 27486 00",
   "treatmentDescriptions": "Antifungal, antiseptic.",
   "termsOfIssue": "",
   "form": "spirit",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.696120",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPIRIT WHITFIELD FLORIS",
-        "registration": "060 91 27485 00",
-        "form": ""
-      },
-      {
-        "name": "SPIRIT SALICYL 2%",
-        "registration": "064 30 28131 00",
-        "form": ""
-      },
-      {
-        "name": "SPIRIT SALICYL 2% FLORIS",
-        "registration": "060 92 27486 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:31.644306",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SPIRIT WHITFIELD  100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:31.644478",
+      "confidence": 95,
+      "reasoning": "The option 3, \"SPIRIT SALICYL 2% FLORIS\", closely matches the medication \"SPIRIT WHITFIELD FLORIS\" in terms of brand name similarity, strength compatibility (2% salicylic acid), and the inclusion of \"FLORIS\" in the formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "060 92 27486 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

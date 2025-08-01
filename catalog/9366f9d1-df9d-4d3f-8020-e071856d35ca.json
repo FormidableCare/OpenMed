@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.171526",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IMOVAX DT",
-        "registration": "144 62 33232 00",
-        "form": ""
-      },
-      {
-        "name": "IMOVAX POLIO",
-        "registration": "054 07 22784 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:36.235814",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IMOVAX POLIO SYRINGE PREFILLED 1X0.5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:36.235824",
+      "confidence": 95,
+      "reasoning": "The medication name \"IMOVAX DT\" matches, and the registration numbers are identical. The strength of 0.5ml also aligns with the formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 62 33232 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

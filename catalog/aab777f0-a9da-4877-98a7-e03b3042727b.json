@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.718090",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BREXIN TABLETS",
-        "registration": "136 61 29695 00",
-        "form": ""
-      },
-      {
-        "name": "BREXIN SACHETS",
-        "registration": "136 62 29696 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:51.408364",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BREXIN 20MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:51.408377",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication BREXIN TABLETS in terms of brand name, registration number, strength (20.0mg), and formulation (tablet).",
+      "selectedOption": 1,
+      "selectedRegistration": "136 61 29695 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

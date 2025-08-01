@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.819001",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LYUMJEV 200 UNITS/ML",
-        "registration": "169 14 36424 00",
-        "form": ""
-      },
-      {
-        "name": "LYUMJEV 100 UNITS/ML",
-        "registration": "169 13 36423 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:53.600892",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LYUMJEV PFS 100 UNITS/ML 5X3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:53.600898",
+      "confidence": 95,
+      "reasoning": "The medication matches in terms of brand name, strength (200 units/ml), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 14 36424 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

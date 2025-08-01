@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.533928",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
-        "registration": "150 50 33794 01",
-        "form": ""
-      },
-      {
-        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
-        "registration": "150 50 33794 00",
-        "form": ""
-      },
-      {
-        "name": "FYCOMPA 12 MG FILM COATED TABLETS",
-        "registration": "150 51 33795 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:27.193971",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FYCOMPA ORAL SUSPENSION BOTTLE 340 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004545454545454546,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:27.193984",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication FYCOMPA 10 MG FILM COATED TABLETS in terms of brand name, strength (10 mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "150 50 33794 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

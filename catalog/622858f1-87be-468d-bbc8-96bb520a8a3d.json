@@ -1,10 +1,10 @@
 {
   "catalogId": "622858f1-87be-468d-bbc8-96bb520a8a3d",
-  "name": "GAVISCON PEPPERMINT TABLETS",
+  "name": "RINGER LACTATED SOLUTION/VIOSER",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "141 58 31757 00",
+  "registrationNumber": "169 66 36052 00",
   "treatmentDescriptions": "Treatment of symptoms of gastro-oesophageal reflux such as acid regurgatation, heartburn and indigestion (related to reflux), for example, following meals or during pregnancy or in patients with symptoms related to reflux oesophagitis.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -55,32 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.708165",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:40.530783",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SODIUM BICARBONATE 500MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:40.530798",
+      "confidence": 95,
+      "reasoning": "Both medications are in tablet form, and the strength of Gaviscon Peppermint Tablets (500.0mg) is compatible with Ringer Lactated Solution/Vioser.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

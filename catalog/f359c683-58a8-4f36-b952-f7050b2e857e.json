@@ -1,10 +1,10 @@
 {
   "catalogId": "f359c683-58a8-4f36-b952-f7050b2e857e",
-  "name": "BYLVAY 1200 MICROGRAMS",
+  "name": "BYLVAY 400 MICROGRAMS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 44 37200 99",
+  "registrationNumber": "171 42 37198 99",
   "treatmentDescriptions": "Bylvay is indicated for the treatment of progressive familial intrahepatic cholestasis (PFIC) in patients aged 6 months or older.Bylvay is indicated for the treatment of cholestatic pruritus in patients 12 months of age and older with Alagille syndrome (ALGS).",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.789901",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BYLVAY 1200 MICROGRAMS",
-        "registration": "171 44 37200 99",
-        "form": ""
-      },
-      {
-        "name": "BYLVAY 200 MICROGRAMS",
-        "registration": "171 41 37197 99",
-        "form": ""
-      },
-      {
-        "name": "BYLVAY 400 MICROGRAMS",
-        "registration": "171 42 37198 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:01.239524",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BYLVAY 600 MCG  30 HARD CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:01.239537",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication Bylvay 1200 micrograms in terms of brand name similarity, strength compatibility (400 micrograms vs. 1200 micrograms), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "171 42 37198 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

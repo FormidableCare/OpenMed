@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.734548",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FENISTIL GEL",
-        "registration": "133 24 24020 00",
-        "form": ""
-      },
-      {
-        "name": "FENISTIL DROPS",
-        "registration": "034 23 22255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:46.439784",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENISTIL GEL 100GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18333333333333332,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:46.439796",
+      "confidence": 95,
+      "reasoning": "The medication FENISTIL GEL matches option 1 as both have the same brand name, formulation (gel), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "133 24 24020 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.043590",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALSINUS",
-        "registration": "148 21 33484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:27.888449",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALSINUS 60MG 10 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:27.888459",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 21 33484 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

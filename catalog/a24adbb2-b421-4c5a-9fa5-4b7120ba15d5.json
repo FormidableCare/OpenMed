@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.799508",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 04",
-        "form": ""
-      },
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 02",
-        "form": ""
-      },
-      {
-        "name": "OTEZLA 10 MG",
-        "registration": "153 91 34274 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:20.229046",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "APREMIL 30 MG 56 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20714285714285716,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:20.229060",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication OTEZLA 10 MG with the same registration number and strength.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 91 34274 04",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

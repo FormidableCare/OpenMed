@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.370206",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VINCRISTINE TEVA",
-        "registration": "115 51 22790 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:31.281576",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VINCRISTINE TEVA 1 MG/1ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:31.281587",
+      "confidence": 95,
+      "reasoning": "The medication name, VINCRISTINE TEVA, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 51 22790 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

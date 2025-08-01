@@ -1,10 +1,10 @@
 {
   "catalogId": "8b458d72-c051-4084-8161-34d44d10c784",
-  "name": "NUROFEN QUICK 256 MG",
+  "name": "NUROFEN TABLETS 200 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "142 71 31929 00",
+  "registrationNumber": "132 32 31025 00",
   "treatmentDescriptions": "For the symptomatic relief of mild to moderate pain, such as hedache, backache, period pain, dental pain, neuralgia, rheumatic and muscular pain, the pain of non-serious arthritis, migraine, cold and flu symptoms, sore throat and fever.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.822687",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUROFEN GEL 5 %",
-        "registration": "134 23 31074 00",
-        "form": ""
-      },
-      {
-        "name": "NUROFEN TABLETS 200 MG",
-        "registration": "132 32 31025 00",
-        "form": ""
-      },
-      {
-        "name": "NUROFEN FOR CHILDREN SUPPOSITORIES 125 MG",
-        "registration": "142 89 32016 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:48.703033",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NUROFEN QUICK 512 MG 24 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21250000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:48.703045",
+      "confidence": 95,
+      "reasoning": "The medication NUROFEN QUICK 256 MG matches closely with NUROFEN TABLETS 200 MG in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "132 32 31025 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.712234",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CALMANERVIN S ELIXIR",
-        "registration": "035 48 25445 00",
-        "form": ""
-      },
-      {
-        "name": "CALMANERVIN TABLETS",
-        "registration": "046 30 22917 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:22.015660",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CALMANERVIN ELIXIR 120 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:22.015674",
+      "confidence": 95,
+      "reasoning": "The medication name, CALMANERVIN S ELIXIR, matches exactly. The registration numbers are different, but the strength and formulation are the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "035 48 25445 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

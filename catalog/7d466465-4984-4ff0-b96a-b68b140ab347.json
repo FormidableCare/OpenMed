@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.069897",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REMODULIN 10 MG/ML",
-        "registration": "135 55 31251 00",
-        "form": ""
-      },
-      {
-        "name": "REMODULIN 2.5 MG/ML",
-        "registration": "126 57 30563 00",
-        "form": ""
-      },
-      {
-        "name": "REMODULIN 5 MG/ML",
-        "registration": "126 56 30562 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:56.115652",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REMODULIN 5MG/ML VIAL 1X20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:56.115659",
+      "confidence": 95,
+      "reasoning": "The medication REMODULIN 10 MG/ML matches with Option 1 as they have the same brand name, strength, and formulation. The registration numbers also match, indicating a high likelihood of being the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 55 31251 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

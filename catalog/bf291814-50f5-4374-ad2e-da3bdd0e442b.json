@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.710155",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CRESTOR ® 5 MG",
-        "registration": "139 22 31615 00",
-        "form": ""
-      },
-      {
-        "name": "OVA-GEST VETERINARY",
-        "registration": "082 76 92331 00",
-        "form": ""
-      },
-      {
-        "name": "ANDROGEL 50 MG",
-        "registration": "141 18 30760 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:18.624185",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CALCIUM D SANDOZ 60 TAB EFF",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:18.624195",
+      "confidence": 95,
+      "reasoning": "Brand name (CRESTOR), strength (5 MG), and registration number (139 22 31615 00) all match.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 22 31615 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

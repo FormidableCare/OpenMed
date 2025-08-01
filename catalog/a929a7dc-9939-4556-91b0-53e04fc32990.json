@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.747045",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HALDOL 2 MG/ML DROPS",
-        "registration": "029 70 25163 00",
-        "form": ""
-      },
-      {
-        "name": "HALDOL 5 MG",
-        "registration": "025 56 21624 00",
-        "form": ""
-      },
-      {
-        "name": "HALDOL AMPOULES",
-        "registration": "024 04 21146 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:01.402825",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HALOPER 10MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:01.402830",
+      "confidence": 95,
+      "reasoning": "The medication HALDOL 2 MG/ML DROPS matches the provided option 1 in terms of brand name similarity, strength compatibility (2 mg/ml), and formulation (drops). The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "029 70 25163 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

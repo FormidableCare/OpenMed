@@ -1,10 +1,10 @@
 {
   "catalogId": "9c04f9aa-47b5-4a52-a12a-53fdf789257e",
-  "name": "SECTOR 100",
+  "name": "SECTOR 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 72 37119 99",
+  "registrationNumber": "171 71 37432 99",
   "treatmentDescriptions": "Sector is indicated for the treatment of heart failure (NYHA class II-IV) in patients with systolic dysfunction. Sector has been shown to reduce the rate of cardiovascular death and heart failure hospitalisation compared to angiotensin converting enzyme (ACE) inhibitor therapy.",
   "termsOfIssue": "Prescription required",
   "form": "sodium salt complex",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.040017",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SECTOR 100",
-        "registration": "171 72 37119 99",
-        "form": ""
-      },
-      {
-        "name": "SECTOR 200",
-        "registration": "171 73 37120 99",
-        "form": ""
-      },
-      {
-        "name": "SECTOR 50",
-        "registration": "171 71 37432 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:25.597212",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SECTOR 50 MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:25.597217",
+      "confidence": 95,
+      "reasoning": "The option \"SECTOR 50\" closely matches the medication \"SECTOR 100\" in terms of brand name similarity, strength compatibility (50.0mg), and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "171 71 37432 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

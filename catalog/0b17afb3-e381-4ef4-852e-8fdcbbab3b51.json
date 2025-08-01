@@ -1,10 +1,10 @@
 {
   "catalogId": "0b17afb3-e381-4ef4-852e-8fdcbbab3b51",
-  "name": "BONJESTA",
+  "name": "DOXY 100 CAPSULES",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "167 52 36428 00",
+  "registrationNumber": "141 52 28766 03",
   "treatmentDescriptions": "BONJESTA is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.Limitations of UseBONJESTA has not been studied in women with hyperemesis gravidarum.",
   "termsOfIssue": "",
   "form": "tablets extended release",
@@ -69,32 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.758341",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BONJESTA",
-        "registration": "167 52 36428 00",
-        "form": ""
-      },
-      {
-        "name": "DOXABIC VETERINARY",
-        "registration": "080 17 92160 01",
-        "form": ""
-      },
-      {
-        "name": "DOXY 100 CAPSULES",
-        "registration": "141 52 28766 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:16.252908",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PYRIDOXINE 100MG/3ML INJ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:16.252918",
+      "confidence": 95,
+      "reasoning": "The medication BONJESTA matches with option 3, DOXY 100 CAPSULES, based on the similarity in brand name, strength compatibility (100.0mg), and formulation (capsules).",
+      "selectedOption": 3,
+      "selectedRegistration": "141 52 28766 03",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

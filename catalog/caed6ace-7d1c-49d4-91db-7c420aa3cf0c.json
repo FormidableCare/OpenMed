@@ -1,10 +1,10 @@
 {
   "catalogId": "caed6ace-7d1c-49d4-91db-7c420aa3cf0c",
-  "name": "VECTOR 160",
+  "name": "VECTOR 80",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 44 33076 01",
+  "registrationNumber": "145 43 33075 01",
   "treatmentDescriptions": "For treatment of hypertension. Valsartan is indicated for the treatment of heart failure (NYHA class II-IV) in patients who are intolerant of angiotensin converting enzyme inhibitors. In a controlled clinical trial Valsartan significantly reduced hospitalizations for heart failure. There is no evidence that Valsartan provides added benefits when it is used with an adequate dose of an ACE inhibitor. Valsartan is indicated to improve survival following myocardial infarction in clinically stable patients with signs symptoms or radiological evidence of left ventricular failure and /or with left ventricular systolic dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.871630",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VECTOR 160",
-        "registration": "145 44 33076 01",
-        "form": ""
-      },
-      {
-        "name": "VECTOR 80",
-        "registration": "145 43 33075 01",
-        "form": ""
-      },
-      {
-        "name": "VECTOR PLUS 160/12.5",
-        "registration": "146 06 33406 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:46.566487",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VECTOR 80 MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:46.566496",
+      "confidence": 95,
+      "reasoning": "The option 2, VECTOR 80, closely matches the medication VECTOR 160 in terms of brand name similarity and strength compatibility. The only difference is in the strength, which can be attributed to a different formulation or dosage form.",
+      "selectedOption": 2,
+      "selectedRegistration": "145 43 33075 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

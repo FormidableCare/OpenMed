@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.934022",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP STRAWBERRY FLAVOUR",
-        "registration": "140 18 31762 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP TUTTI-FRUTTI FLAVOUR",
-        "registration": "140 17 31761 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:08:57.022687",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOLI FRUIT SYR 100ML + SYRINGE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004166666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:08:57.022692",
+      "confidence": 95,
+      "reasoning": "The brand name, strength, formulation, and registration number all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 18 31762 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

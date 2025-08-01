@@ -69,27 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.021892",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 00",
-        "form": ""
-      },
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:06.834566",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "QUINIDINE GLUCONATE 80MG/10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:06.834576",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength of the medication in option 1 match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 88 33554 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

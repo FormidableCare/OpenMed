@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.562511",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMIRA",
-        "registration": "157 78 34788 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:44.153109",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMIRA 20 MG/0.2 ML SOL FOR INJ 2 PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:44.153115",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details for HUMIRA.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 78 34788 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

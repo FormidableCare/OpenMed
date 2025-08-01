@@ -70,32 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.850636",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IRINOTECAN HCL SEACROSS 20 MG/ML",
-        "registration": "168 44 36042 00",
-        "form": ""
-      },
-      {
-        "name": "IRINOTECAN VENUS 20 MG/ML",
-        "registration": "176 15 37137 99",
-        "form": ""
-      },
-      {
-        "name": "IRINOTECAN  TEVA",
-        "registration": "154 73 33833 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:28.690351",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IRINOTECAN ACTAVIS 20MG/ML(500mg/25ml) VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:28.690365",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication based on the brand name similarity (IRINOTECAN HCL SEACROSS 20 MG/ML), strength compatibility (500.0mg), and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "168 44 36042 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

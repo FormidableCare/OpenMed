@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.007485",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMIRA",
-        "registration": "157 78 34788 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:45.443886",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMIRA 80 MG/0.8 ML SOL FOR INJ 1 pf pen",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004166666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:45.443896",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details for HUMIRA.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 78 34788 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "3e17cb99-2bb0-4000-aab6-6fcda49a7000",
-  "name": "EXELON PATCH 10",
+  "name": "EXELON PATCH 5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 70 31675 01",
+  "registrationNumber": "139 69 31674 01",
   "treatmentDescriptions": "Treatment of mild to moderate dementia of the Alzheimer's type.",
   "termsOfIssue": "Prescription required",
   "form": "patches",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.202180",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EXELON PATCH 10",
-        "registration": "139 70 31675 01",
-        "form": ""
-      },
-      {
-        "name": "EXELON PATCH 15",
-        "registration": "150 97 33884 01",
-        "form": ""
-      },
-      {
-        "name": "EXELON PATCH 5",
-        "registration": "139 69 31674 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:16.817050",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EXELON 4.5MG 28CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:16.817062",
+      "confidence": 95,
+      "reasoning": "The option 3, EXELON PATCH 5, closely matches the medication in terms of brand name similarity, strength compatibility (4.5mg vs 5mg), and same formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "139 69 31674 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

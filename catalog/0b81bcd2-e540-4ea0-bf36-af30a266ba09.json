@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.438736",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALSINUS",
-        "registration": "148 21 33484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:31.288456",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALSINUS 60MG 20 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:31.288465",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 21 33484 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

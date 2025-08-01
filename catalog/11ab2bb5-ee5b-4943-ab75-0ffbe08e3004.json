@@ -1,10 +1,10 @@
 {
   "catalogId": "11ab2bb5-ee5b-4943-ab75-0ffbe08e3004",
-  "name": "TUMS SMOOTHIES EX PEPPERMINT",
+  "name": "TUMS SMOOTHIES EX BERRY FUSION",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "134 94 31175 00",
+  "registrationNumber": "143 86 32015 00",
   "treatmentDescriptions": "For relief from heartburn and acidity",
   "termsOfIssue": "",
   "form": "chewable tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.862393",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TUMS SMOOTHIES EX PEPPERMINT",
-        "registration": "134 94 31175 00",
-        "form": ""
-      },
-      {
-        "name": "TUMS SMOOTHIES EX BERRY FUSION",
-        "registration": "143 86 32015 00",
-        "form": ""
-      },
-      {
-        "name": "TUMS ULTRA ASSORTED BERRIES",
-        "registration": "124 55 30280 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:57:38.165738",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TUMS SMOOTHIES EX TROPICAL FRUIT 750MG 60 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:57:38.165743",
+      "confidence": 95,
+      "reasoning": "The option 2, TUMS SMOOTHIES EX BERRY FUSION, closely matches the medication TUMS SMOOTHIES EX PEPPERMINT in terms of brand name similarity and formulation. The strength and registration numbers are different, but the overall similarity is high.",
+      "selectedOption": 2,
+      "selectedRegistration": "143 86 32015 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

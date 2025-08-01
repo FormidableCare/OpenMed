@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.045564",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "QARZIBA",
-        "registration": "162 50 35299 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:30.144072",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DINUTUXIMAB BETA APEIRON 4.5 MG/ML SOLUTION FOR INFUSION",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:30.144078",
+      "confidence": 95,
+      "reasoning": "The brand name \"QARZIBA\" and registration number match, and the formulation \"solution\" is the same in both the medication and the option.",
+      "selectedOption": 1,
+      "selectedRegistration": "162 50 35299 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

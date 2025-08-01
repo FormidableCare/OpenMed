@@ -1,10 +1,10 @@
 {
   "catalogId": "7962e7de-c094-404d-8748-4173bc4dbf23",
-  "name": "BONJESTA",
+  "name": "DOXY 100 CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 52 36428 00",
+  "registrationNumber": "141 52 28766 03",
   "treatmentDescriptions": "BONJESTA is indicated for the treatment of nausea and vomiting of pregnancy in women who do not respond to conservative management.Limitations of UseBONJESTA has not been studied in women with hyperemesis gravidarum.",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.670698",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BONJESTA",
-        "registration": "167 52 36428 00",
-        "form": ""
-      },
-      {
-        "name": "DOXABIC VETERINARY",
-        "registration": "080 17 92160 01",
-        "form": ""
-      },
-      {
-        "name": "DOXY 100 CAPSULES",
-        "registration": "141 52 28766 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:16.647623",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BONJESTA 50 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:16.647633",
+      "confidence": 95,
+      "reasoning": "The medication BONJESTA matches with option 3, DOXY 100 CAPSULES, based on the similarity in brand name and the registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "141 52 28766 03",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

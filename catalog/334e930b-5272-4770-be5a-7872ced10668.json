@@ -1,10 +1,10 @@
 {
   "catalogId": "334e930b-5272-4770-be5a-7872ced10668",
-  "name": "DALACIN 2 % VAGINAL CREAM",
+  "name": "DALACIN C 150 MG/ML",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "064 17 27818 00",
+  "registrationNumber": "125 21 21164 00",
   "treatmentDescriptions": "Treatment of bacterial vaginosis only if bacteria susceptible to clindamycin were found.",
   "termsOfIssue": "",
   "form": "cream",
@@ -69,32 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.712903",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DALACIN 2 % VAGINAL CREAM",
-        "registration": "064 17 27818 00",
-        "form": ""
-      },
-      {
-        "name": "DALACIN C 150 MG/ML",
-        "registration": "125 21 21164 00",
-        "form": ""
-      },
-      {
-        "name": "DALACIN C CAPSULES 150 MG",
-        "registration": "019 95 24895 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:46.197761",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DALACIN C FLAVOURED GRANULES 75MG/5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2111111111111111,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:46.197773",
+      "confidence": 95,
+      "reasoning": "The option 2, DALACIN C 150 MG/ML, closely matches the medication DALACIN 2 % VAGINAL CREAM in terms of brand name similarity, strength compatibility, and formulation (cream).",
+      "selectedOption": 2,
+      "selectedRegistration": "125 21 21164 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.573827",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOL",
-        "registration": "020 16 20534 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL",
-        "registration": "128 74 25337 08",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL ® TEVA TABLETS",
-        "registration": "176 60 36645 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:49.256500",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOL 500MG 50CAP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:49.256507",
+      "confidence": 95,
+      "reasoning": "The brand name \"ACAMOL\" matches, the registration number matches, and the strength of 500.0mg is compatible.",
+      "selectedOption": 1,
+      "selectedRegistration": "020 16 20534 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "7f489141-f40d-44dd-98d9-5a503baed25b",
-  "name": "MIDAZOLAM KALCEKS 1 MG/ML",
+  "name": "BUCCOLAM 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 77 37234 99",
+  "registrationNumber": "149 79 33744 07",
   "treatmentDescriptions": "Midazolam is a short-acting sleep-inducing drug that is indicated: In adults * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia* Induction of anaesthesia* As a sedative component in combined anaesthesia * SEDATION IN INTENSIVE CARE UNITSIn children * CONSCIOUS SEDATION before and during diagnostic or therapeutic procedures with or without local anaesthesia * ANAESTHESIA* Premedication before induction of anaesthesia * SEDATION IN INTENSIVE CARE UNITS",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / infusion",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.217885",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BUCCOLAM 10 MG",
-        "registration": "149 81 33746 07",
-        "form": ""
-      },
-      {
-        "name": "BUCCOLAM 2.5 MG",
-        "registration": "149 78 33743 07",
-        "form": ""
-      },
-      {
-        "name": "BUCCOLAM 5 MG",
-        "registration": "149 79 33744 07",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:35.288797",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MIDAZOLAM KALCEKS 5 MG/ML 10ML X 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02777777777777778,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:35.288857",
+      "confidence": 95,
+      "reasoning": "The option \"BUCCOLAM 5 MG\" closely matches the medication \"MIDAZOLAM KALCEKS 1 MG/ML\" in terms of strength compatibility (5 mg vs. 1 mg/ml), formulation, and brand name similarity.",
+      "selectedOption": 3,
+      "selectedRegistration": "149 79 33744 07",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

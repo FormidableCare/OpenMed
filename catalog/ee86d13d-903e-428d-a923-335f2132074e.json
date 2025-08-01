@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "149 74 33763 01",
+  "registrationNumber": "149 74 33763 00",
   "treatmentDescriptions": "Hypothyroidism, Pituitary TSH Suppression",
   "termsOfIssue": "",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.254731",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SYNTHROID 100 MCG TABLETS",
-        "registration": "149 74 33763 01",
-        "form": ""
-      },
-      {
-        "name": "SYNTHROID 100 MCG TABLETS",
-        "registration": "149 74 33763 00",
-        "form": ""
-      },
-      {
-        "name": "SYNTHROID 50 MCG TABLETS",
-        "registration": "149 76 33764 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:19.061951",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SYNTHROID 25MCG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20833333333333334,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:19.061959",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication SYNTHROID 100 MCG TABLETS in terms of brand name, strength (100 mcg), and formulation (tablet). The only difference in registration number is minor.",
+      "selectedOption": 2,
+      "selectedRegistration": "149 74 33763 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

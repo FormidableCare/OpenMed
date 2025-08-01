@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.069295",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KARIN 250",
-        "registration": "104 96 28719 01",
-        "form": ""
-      },
-      {
-        "name": "KARIN 500",
-        "registration": "109 30 29343 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:07.466427",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KARIN 250MG 14TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:07.466438",
+      "confidence": 95,
+      "reasoning": "The medication KARIN 250 matches with Option 1 as both have the same brand name, strength of 250.0mg, and registration number 104 96 28719 01.",
+      "selectedOption": 1,
+      "selectedRegistration": "104 96 28719 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

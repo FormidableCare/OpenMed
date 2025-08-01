@@ -77,32 +77,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.726212",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:00.199215",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SODIUM NITRITE 3% (30MG/ML)300MG/10ML10X10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2090909090909091,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:00.199231",
+      "confidence": 95,
+      "reasoning": "The option 1, RINGER LACTATED SOLUTION/VIOSER, matches the medication based on the brand name similarity, strength compatibility, and same formulation of solution.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

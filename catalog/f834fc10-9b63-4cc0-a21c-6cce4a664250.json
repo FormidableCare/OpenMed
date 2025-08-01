@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.013980",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADVATE 1000 IU",
-        "registration": "150 79 33664 00",
-        "form": ""
-      },
-      {
-        "name": "ADVATE 1500 IU",
-        "registration": "150 80 33663 00",
-        "form": ""
-      },
-      {
-        "name": "ADVATE 2000 IU",
-        "registration": "150 81 33662 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:58.429410",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HEMO 20SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:58.429416",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ADVATE 1000 IU in terms of brand name, strength (1000 IU), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "150 79 33664 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

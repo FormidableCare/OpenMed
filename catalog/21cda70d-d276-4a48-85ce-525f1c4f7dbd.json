@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.643768",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HULIO",
-        "registration": "167 87 36610 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:49.100849",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HULIO 40MG/0.8ML 2 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:49.100857",
+      "confidence": 95,
+      "reasoning": "The brand name \"HULIO\" and registration number 167 87 36610 00 match exactly. The strength of 40.0mg also matches, indicating a high likelihood of this being the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 87 36610 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

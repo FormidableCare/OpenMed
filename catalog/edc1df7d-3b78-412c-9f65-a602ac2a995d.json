@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.698255",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MIDOLAM 1 MG/ML",
-        "registration": "108 42 29066 00",
-        "form": ""
-      },
-      {
-        "name": "MIDOLAM 5 MG/ML",
-        "registration": "108 43 29067 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:02.359113",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MIDOLAM 5MG/ML5AMPx10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:02.359122",
+      "confidence": 95,
+      "reasoning": "The medication MIDOLAM 1 MG/ML with registration number 108 42 29066 00 matches Option 1 in terms of brand name, strength, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "108 42 29066 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "5156df8f-c25f-4dc8-9e2b-9c122dcebd3c",
-  "name": "OTRIVIN",
+  "name": "OTRIVIN NASAL GEL",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "115 43 22229 00",
+  "registrationNumber": "032 82 22228 00",
   "treatmentDescriptions": "Rapid relief of nasal congestion for up to ten hours in adults and adolescents aged 12 years and older.",
   "termsOfIssue": "",
   "form": "nasal solution",
@@ -68,32 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.600561",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTRIVIN",
-        "registration": "115 43 22229 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN NASAL GEL",
-        "registration": "032 82 22228 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN KIDS",
-        "registration": "108 21 23658 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:00.226189",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OTRIVIN GEL 0.1% 10G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.16666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:00.226227",
+      "confidence": 95,
+      "reasoning": "The option 2, \"OTRIVIN NASAL GEL,\" matches the medication OTRIVIN in terms of brand name similarity, formulation (gel), and strength (0.1%).",
+      "selectedOption": 2,
+      "selectedRegistration": "032 82 22228 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

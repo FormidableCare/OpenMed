@@ -1,10 +1,10 @@
 {
   "catalogId": "58eccdf9-45a5-4d71-9eb3-3bfcdc8fca3e",
-  "name": "VOLTAREN EMULGEL 1%",
+  "name": "VOLTAREN EMULGEL FORTE 2%",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "037 66 25000 00",
+  "registrationNumber": "152 63 33919 00",
   "treatmentDescriptions": "Self medication for the following indications: Local treatment of pain, inflammation and swelling due to:  • Pain and inflammation and swelling in trauma of the tendons, ligaments, muscles and joints, e.g. due to sprains, strains and bruises and/or backache (e.g. sports injuries). • Localized forms of soft tissue rheumatism such as tendonitis (e.g.tennis elbow), bursitis.By Physicians order :• Pain caused by osteoarthrosis of the peripheral joints,  as of the knee or fingers",
   "termsOfIssue": "",
   "form": "gel",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.805087",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VOLTAREN EMULGEL 1%",
-        "registration": "037 66 25000 00",
-        "form": ""
-      },
-      {
-        "name": "VOLTAREN EMULGEL FORTE 2%",
-        "registration": "152 63 33919 00",
-        "form": ""
-      },
-      {
-        "name": "VOLTAREN ACTI-GO LIQUID GEL CAPS",
-        "registration": "150 99 33771 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:38.305954",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VOLTAREN EMULGEL 100G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:38.305966",
+      "confidence": 95,
+      "reasoning": "The option 2, VOLTAREN EMULGEL FORTE 2%, closely matches the medication VOLTAREN EMULGEL 1% in terms of brand name similarity, both being Voltaren Emulgels. The strength of option 2 (2%) is different from the medication (1%), but the formulation of gel remains the same.",
+      "selectedOption": 2,
+      "selectedRegistration": "152 63 33919 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

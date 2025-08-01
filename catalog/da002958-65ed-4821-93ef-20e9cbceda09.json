@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.367456",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MABTHERA 10 MG/ML I.V",
-        "registration": "112 51 29472 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:21.122476",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MABTHERA 500MG/50ML 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:21.122481",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (10 mg/ml), and registration number (112 51 29472 00) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "112 51 29472 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

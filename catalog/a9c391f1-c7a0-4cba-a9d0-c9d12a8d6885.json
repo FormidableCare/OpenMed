@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.973602",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KIOVIG 100 MG/ML",
-        "registration": "146 45 33157 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:37.976639",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KIOVIG 10G/100ML VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:37.976665",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100 mg/ml), and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "146 45 33157 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

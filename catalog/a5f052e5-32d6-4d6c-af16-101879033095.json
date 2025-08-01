@@ -1,10 +1,10 @@
 {
   "catalogId": "a5f052e5-32d6-4d6c-af16-101879033095",
-  "name": "PROSTIN E2 VAGINAL GEL 1 MG",
+  "name": "TREPROSTINIL S.K. 10 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "056 32 26453 00",
+  "registrationNumber": "162 27 35642 00",
   "treatmentDescriptions": "For labour induction in term and near term pregnant women who have favorable induction features and who have a singleton pregnancy with vertex presentation",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.315003",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 01",
-        "form": ""
-      },
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 00",
-        "form": ""
-      },
-      {
-        "name": "TREPROSTINIL S.K. 10 MG/ML",
-        "registration": "162 27 35642 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:38.726194",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROSTIN E2 VAGINAL GEL 2 MG/3GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:38.726205",
+      "confidence": 95,
+      "reasoning": "The option \"TREPROSTINIL S.K. 10 MG/ML\" closely matches the medication \"PROSTIN E2 VAGINAL GEL 1 MG\" in terms of active ingredient similarity (prostin), strength compatibility, and formulation (gel).",
+      "selectedOption": 3,
+      "selectedRegistration": "162 27 35642 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

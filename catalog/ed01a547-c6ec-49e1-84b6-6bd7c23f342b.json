@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.119791",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "INTRATECT 100 G/L",
-        "registration": "159 72 35202 00",
-        "form": ""
-      },
-      {
-        "name": "INTRATECT 50 G/L",
-        "registration": "145 64 33138 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:45.165992",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "INTRATECT 100 G/L 1 VIAL 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:45.166003",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 72 35202 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

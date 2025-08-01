@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.770728",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
-        "registration": "122 43 30111 00",
-        "form": ""
-      },
-      {
-        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
-        "registration": "122 42 30110 00",
-        "form": ""
-      },
-      {
-        "name": "ADVIL LIQUI-GELS 200",
-        "registration": "115 33 29761 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:42.412439",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADVIL GRAP SYR CHILD 120ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:42.412460",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Children's Advil Grape Flavor in terms of brand name similarity, strength (120.0ml), and formulation. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "122 43 30111 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

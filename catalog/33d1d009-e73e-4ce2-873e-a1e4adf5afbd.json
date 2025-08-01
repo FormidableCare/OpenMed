@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.116461",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZOSTRIX",
-        "registration": "101 20 28410 00",
-        "form": ""
-      },
-      {
-        "name": "ZOSTRIX-HP",
-        "registration": "101 21 28411 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:29.948379",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZOSTRIX H.P. 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:29.948385",
+      "confidence": 95,
+      "reasoning": "The brand name, ZOSTRIX, matches exactly. The registration numbers are the same. The strength of 30.0g also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "101 20 28410 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

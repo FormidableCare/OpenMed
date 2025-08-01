@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.823251",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "QVAR 100",
-        "registration": "139 29 30661 00",
-        "form": ""
-      },
-      {
-        "name": "QVAR 50",
-        "registration": "139 28 30660 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:06:50.557718",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "QVAR 100MCG/DODE PMD INHALER 200DOSES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:06:50.557756",
+      "confidence": 95,
+      "reasoning": "The medication QVAR 100 matches with Option 1 as it has the same brand name, strength (100.0mcg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 29 30661 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "d0fed5f9-22d1-4a64-9db4-35dd326edc2a",
-  "name": "BINOCRIT 1000 IU/ 0.5 ML",
+  "name": "BINOCRIT 2000 I.U/ 1 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 08 33360 00",
+  "registrationNumber": "147 09 33361 00",
   "treatmentDescriptions": "Binocrit® is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF):- in adults and children aged 1 to 18 years on haemodialysis and adult patients on peritoneal dialysis  .- in adults with renal insufficiency not yet undergoing dialysis for the treatment of severe anaemia of renal origin accompanied by clinical symptoms in patients. \tBinocrit® is indicated in adult patients receiving chemotherapy for solid tumours, malignant lymphoma or multiple myeloma, and at risk of transfusion as assessed by the patient's general status (e.g. cardiovascular status, pre existing anaemia at the start of chemotherapy) for the treatment of anaemia and reduction of transfusion requirements.Binocrit® is indicated in adults in a predonation programme  to increase the yield of autologous blood.Treatment should only be given to patients with moderate anaemia (haemoglobin (Hb) concentration range between 10 13 g/dl (6.2 8.1 mmol/l), no iron deficiency), if blood saving procedures are not available or insufficient when the scheduled major elective surgery requires a large volume of blood (4 or more units of blood for females or 5 or more units for males).Binocrit® is indicated for non-iron deficient adults prior to major elective orthopaedic surgery, having a high perceived risk for transfusion complications to reduce exposure to allogeneic blood transfusions.Use should be restricted to patients with moderate anaemia (e.g. Hb concentration range between 10 13 g/dl or 6.2 8.1 mmol/l) who do not have an autologous predonation programme available and with an expected blood loss (900 to 1800 ml).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.945407",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BINOCRIT 1000 IU/ 0.5 ML",
-        "registration": "147 08 33360 00",
-        "form": ""
-      },
-      {
-        "name": "BINOCRIT 10000 I.U / 1 ML",
-        "registration": "147 15 33367 00",
-        "form": ""
-      },
-      {
-        "name": "BINOCRIT 2000 I.U/ 1 ML",
-        "registration": "147 09 33361 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:11.960646",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BINOCRIT 8000 I.U/0.8 ML 6 SYRINGE PREFILLED",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2272727272727273,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:11.960668",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication BINOCRIT 1000 IU/ 0.5 ML in terms of strength (2000 I.U/ 1 ML), formulation, and registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "147 09 33361 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

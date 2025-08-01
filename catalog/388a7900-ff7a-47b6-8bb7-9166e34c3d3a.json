@@ -69,27 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.974117",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PALOXI INJECTION",
-        "registration": "134 84 31150 00",
-        "form": ""
-      },
-      {
-        "name": "PALOXI CAPSULES",
-        "registration": "162 48 35784 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:39.778898",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PALOXI INJECTION 0.25MG/VIAL 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.16666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:39.778917",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication PALOXI INJECTION in terms of brand name similarity, formulation (injection), and registration number. The strength of the medication (0.25mg/vial) also aligns with the formulation of an injection.",
+      "selectedOption": 1,
+      "selectedRegistration": "134 84 31150 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

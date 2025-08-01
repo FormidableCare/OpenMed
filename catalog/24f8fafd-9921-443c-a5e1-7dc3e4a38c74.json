@@ -1,10 +1,10 @@
 {
   "catalogId": "24f8fafd-9921-443c-a5e1-7dc3e4a38c74",
-  "name": "TOPAMAX 100",
+  "name": "TOPAMAX 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "107 57 29033 00",
+  "registrationNumber": "107 55 29031 00",
   "treatmentDescriptions": "In adjunctive therapy of adults and children (from 2 years) with partial seizures and generalized tonic-clonic seizures. In adjunctive therapy of seizures with Lennox-Gastaut syndrome in adults and children. Topamax is indicated as monotherapy in patients with newly diagnosed epilepsy in children aged 7 years and above or for conversion to monotherapy in patients with epilepsy. Topamax is indicated in adults for the prevention of migraines. The use of Topamax in the acute treatment of migraine has not been studied.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.125576",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TOPAMAX 100",
-        "registration": "107 57 29033 00",
-        "form": ""
-      },
-      {
-        "name": "TOPAMAX 200",
-        "registration": "107 58 29034 00",
-        "form": ""
-      },
-      {
-        "name": "TOPAMAX 25",
-        "registration": "107 55 29031 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:51.407551",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TOPAMAX 100MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:51.407556",
+      "confidence": 95,
+      "reasoning": "The option \"TOPAMAX 25\" matches the medication \"TOPAMAX 100\" in terms of brand name similarity, registration number, and strength compatibility. The only difference is in the strength, which can be attributed to a different dosage form or concentration.",
+      "selectedOption": 3,
+      "selectedRegistration": "107 55 29031 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

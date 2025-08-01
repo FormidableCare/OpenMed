@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.906731",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OZEMPIC",
-        "registration": "162 09 35750 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:58:15.323459",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OZEMPIC 1 prefilled pen 0.5MG/0.37ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:58:15.323470",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details for OZEMPIC.",
+      "selectedOption": 1,
+      "selectedRegistration": "162 09 35750 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

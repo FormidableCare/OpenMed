@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.554262",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PUREGON SOLUTION FOR INJECTION",
-        "registration": "130 52 30898 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:02:41.008467",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PUREGON  600UI/0.72ML CARTRIDGE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:02:41.008479",
+      "confidence": 95,
+      "reasoning": "The option provided matches the medication Puregon Solution for Injection in terms of brand name, registration number, formulation, and strength.",
+      "selectedOption": 1,
+      "selectedRegistration": "130 52 30898 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

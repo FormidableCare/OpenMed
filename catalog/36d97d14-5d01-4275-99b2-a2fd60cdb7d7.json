@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.165884",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALETRA  200 MG/50 MG TABLETS",
-        "registration": "137 96 31542 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:27.611345",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALETRA ORAL SOL 5X60ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:27.611354",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (200 mg/50 mg), and formulation (tablet) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "137 96 31542 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.071502",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZEMPLAR 1 MICROGRAM",
-        "registration": "141 12 31816 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:10:58.108466",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZEMPLAR 1MCG 28 CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:10:58.108478",
+      "confidence": 95,
+      "reasoning": "The option matches the medication ZEMPLAR 1 MICROGRAM in terms of brand name, strength (1.0mcg), and formulation (capsule). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 12 31816 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

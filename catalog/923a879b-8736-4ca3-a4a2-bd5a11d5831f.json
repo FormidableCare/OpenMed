@@ -1,10 +1,10 @@
 {
   "catalogId": "923a879b-8736-4ca3-a4a2-bd5a11d5831f",
-  "name": "BETACORTEN G OINTMENT",
+  "name": "BETACORTEN OINTMENT",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "050 45 23262 00",
+  "registrationNumber": "050 44 23261 00",
   "treatmentDescriptions": "For local treatment of inflammatory dermatoses and allergic skin conditions complicated by infections.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.028837",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETACORTEN G OINTMENT",
-        "registration": "050 45 23262 00",
-        "form": ""
-      },
-      {
-        "name": "BETACORTEN G CREAM",
-        "registration": "050 42 23259 00",
-        "form": ""
-      },
-      {
-        "name": "BETACORTEN OINTMENT",
-        "registration": "050 44 23261 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:12.709615",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETACORTEN TOPICAL SCALP  APPL SOL 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:12.709885",
+      "confidence": 95,
+      "reasoning": "The option 3, BETACORTEN OINTMENT, closely matches the medication BETACORTEN G OINTMENT in terms of brand name similarity, formulation (both are ointments), and registration numbers. The only difference is the addition of the letter \"G\" in the original medication name.",
+      "selectedOption": 3,
+      "selectedRegistration": "050 44 23261 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

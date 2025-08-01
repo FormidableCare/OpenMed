@@ -1,10 +1,10 @@
 {
   "catalogId": "9ad87cd8-f0fa-4d02-9899-f853d955393a",
-  "name": "ACAMOL",
+  "name": "ACAMOL ® TEVA TABLETS",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "020 16 20534 00",
+  "registrationNumber": "176 60 36645 99",
   "treatmentDescriptions": "Relief of pain and fever of different etiologies such as headache, toothache, colds, influenza, rheumatic pain and dysmenorrhea.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.756679",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOL",
-        "registration": "020 16 20534 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL",
-        "registration": "128 74 25337 08",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL ® TEVA TABLETS",
-        "registration": "176 60 36645 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:26.800549",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOL FOCUS 50 CAPLIOTS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:26.800564",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication ACAMOL with a high confidence level as it includes the brand name ACAMOL, similar registration number, and the formulation as tablets, which aligns with the original medication details.",
+      "selectedOption": 3,
+      "selectedRegistration": "176 60 36645 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

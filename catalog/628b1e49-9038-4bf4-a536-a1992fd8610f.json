@@ -65,22 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.076227",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUOTRAV",
-        "registration": "144 33 31764 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:10.811451",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DUOTRAV 2.5ML OPHTHALMIC SOLUTION",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:10.811469",
+      "confidence": 95,
+      "reasoning": "The brand name DUOTRAV matches, the registration number is the same, and the formulation as a solution is consistent.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 33 31764 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

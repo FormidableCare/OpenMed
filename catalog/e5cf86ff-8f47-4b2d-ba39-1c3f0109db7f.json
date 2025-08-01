@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.809680",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARGIN 10",
-        "registration": "139 95 31636 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 20",
-        "registration": "139 96 31637 00",
-        "form": ""
-      },
-      {
-        "name": "TARGIN 30",
-        "registration": "160 43 35262 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:28.859559",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARGIN 20/10 MG 20 TABLETS P. R.",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:28.859567",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TARGIN 10 in terms of brand name, strength (10.0mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 95 31636 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

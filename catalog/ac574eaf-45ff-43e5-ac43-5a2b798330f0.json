@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.692083",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DICLOVIT",
-        "registration": "111 42 29399 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:54:25.989643",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DICLOVIT 1% 50GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:54:25.989649",
+      "confidence": 95,
+      "reasoning": "The medication name, DICLOVIT, registration number, and strength all match.",
+      "selectedOption": 1,
+      "selectedRegistration": "111 42 29399 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

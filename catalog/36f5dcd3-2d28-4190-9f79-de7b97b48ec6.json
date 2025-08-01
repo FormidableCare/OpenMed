@@ -1,10 +1,10 @@
 {
   "catalogId": "36f5dcd3-2d28-4190-9f79-de7b97b48ec6",
-  "name": "VITRAKVI  100 MG",
+  "name": "VITRAKVI  20 MG/ML ORAL SOLUTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 41 36178 00",
+  "registrationNumber": "164 39 36176 00",
   "treatmentDescriptions": "Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion:• Who have a disease that is locally advanced, metastatic or where surgical resection is likely to result in severe morbidity, and• Who have no satisfactory treatment options",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.184862",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VITRAKVI  100 MG",
-        "registration": "164 41 36178 00",
-        "form": ""
-      },
-      {
-        "name": "VITRAKVI  20 MG/ML ORAL SOLUTION",
-        "registration": "164 39 36176 00",
-        "form": ""
-      },
-      {
-        "name": "VITRAKVI  25 MG",
-        "registration": "164 40 36177 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:51.275022",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VITRAKVI 20 MG/ML ORAL SOLUTION 2*50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.1875,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:51.275034",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication VITRAKVI 100 MG in terms of strength (20 mg/ml), formulation (oral solution), and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "164 39 36176 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

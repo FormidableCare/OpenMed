@@ -69,32 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.603170",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EBETAXEL 6 MG/ML",
-        "registration": "130 95 30965 00",
-        "form": ""
-      },
-      {
-        "name": "ABRAXANE",
-        "registration": "155 81 34516 00",
-        "form": ""
-      },
-      {
-        "name": "PACLITAXEL ALBUMIN TEVA",
-        "registration": "166 86 36321 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:03.748227",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PACLITAXEL TEVA 6MG/ML  100MG/16.7ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:03.748234",
+      "confidence": 95,
+      "reasoning": "The medication \"PACLITAXEL ALBUMIN TEVA\" matches the provided medication in terms of brand name, strength (100.0mg), and formulation. The registration number also matches, indicating a high level of confidence in this match.",
+      "selectedOption": 3,
+      "selectedRegistration": "166 86 36321 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

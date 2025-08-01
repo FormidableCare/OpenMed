@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.220544",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BUTRANS 10",
-        "registration": "135 71 31152 00",
-        "form": ""
-      },
-      {
-        "name": "BUTRANS 15",
-        "registration": "157 99 34931 00",
-        "form": ""
-      },
-      {
-        "name": "BUTRANS 20",
-        "registration": "135 72 31153 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:40.887837",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BUTRANS 5MG 2 PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:40.887842",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication BUTRANS 10 in terms of brand name, strength (5.0mg), and registration number (135 71 31152 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "135 71 31152 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

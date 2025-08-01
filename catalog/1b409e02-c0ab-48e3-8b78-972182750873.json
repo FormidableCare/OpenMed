@@ -69,32 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.754115",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:24.841496",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SODIUM CHLORIDE INJ. USP 3% (3GR/100ML)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2041666666666667,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:24.841503",
+      "confidence": 95,
+      "reasoning": "The option 1, RINGER LACTATED SOLUTION/VIOSER, matches the medication based on the brand name similarity, strength compatibility (3.0g in 100.0ml), and same formulation (solution). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

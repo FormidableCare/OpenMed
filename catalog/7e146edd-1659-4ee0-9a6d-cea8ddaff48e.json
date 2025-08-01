@@ -1,10 +1,10 @@
 {
   "catalogId": "7e146edd-1659-4ee0-9a6d-cea8ddaff48e",
-  "name": "ETOPAN XL 500",
+  "name": "ETOPAN 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 08 30651 00",
+  "registrationNumber": "105 70 29074 00",
   "treatmentDescriptions": "For the management of signs and symptoms of osteoarthrities and rheumatoid arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.158773",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ETOPAN XL 500",
-        "registration": "128 08 30651 00",
-        "form": ""
-      },
-      {
-        "name": "ETOPAN 200",
-        "registration": "105 70 29074 00",
-        "form": ""
-      },
-      {
-        "name": "ETOPAN 300",
-        "registration": "105 71 29075 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:14.341862",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ETOPAN 400MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:14.341874",
+      "confidence": 95,
+      "reasoning": "The closest match is ETOPAN 200 based on the brand name similarity and strength compatibility. The formulation is not an exact match, but the strength and brand name are more aligned with ETOPAN 200.",
+      "selectedOption": 2,
+      "selectedRegistration": "105 70 29074 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

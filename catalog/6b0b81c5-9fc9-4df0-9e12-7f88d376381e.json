@@ -1,10 +1,10 @@
 {
   "catalogId": "6b0b81c5-9fc9-4df0-9e12-7f88d376381e",
-  "name": "STRENSIQ ® 100 MG/ML",
+  "name": "STRENSIQ ® 40 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 44 34545 00",
+  "registrationNumber": "155 43 34542 00",
   "treatmentDescriptions": "Strensiq is indicated for long-term enzyme replacement therapy in patients with paediatric-onset hypophosphatasia to treat the bone manifestations of the disease.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.387608",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STRENSIQ ® 100 MG/ML",
-        "registration": "155 44 34545 00",
-        "form": ""
-      },
-      {
-        "name": "STRENSIQ ® 40 MG/ML",
-        "registration": "155 43 34542 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:56.092805",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STRENSIQ ® 40 MG/ML 12 vials 28mg",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:56.092821",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Strensiq 100 MG/ML with a similar brand name, strength compatibility (40 MG/ML vs. 28.0mg), and same formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "155 43 34542 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

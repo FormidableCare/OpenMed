@@ -1,10 +1,10 @@
 {
   "catalogId": "840347ae-22f6-4b77-b273-36b12e5e5da5",
-  "name": "ADEX 200",
+  "name": "ADEX LIQUID  GELCAPSULES 200 - NEW",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "039 71 26007 00",
+  "registrationNumber": "169 63 35888 00",
   "treatmentDescriptions": "For the relief of mild to moderate pain such as headache, toothache, primary dysmenorrhea, backache, muscular pain. Anti - inflammatory and relieves pain in reumatoid arthritis and osteo arthritis. For the reduction of fever.For the treatment of pain associated with migraine.",
   "termsOfIssue": "",
   "form": "caplets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.879550",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADEX 200",
-        "registration": "039 71 26007 00",
-        "form": ""
-      },
-      {
-        "name": "ADEX LIQUID  GELCAPSULES 200 - NEW",
-        "registration": "169 63 35888 00",
-        "form": ""
-      },
-      {
-        "name": "ADEX LIQUID GEL CAPSULES 400 - NEW",
-        "registration": "169 64 35847 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:07:44.507202",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADEX LIQUIGEL 200MG 30CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:07:44.507208",
+      "confidence": 95,
+      "reasoning": "The option 2, \"ADEX LIQUID GELCAPSULES 200 - NEW,\" closely matches the medication ADEX 200 in terms of brand name similarity, strength compatibility (200mg), and same formulation (gel).",
+      "selectedOption": 2,
+      "selectedRegistration": "169 63 35888 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

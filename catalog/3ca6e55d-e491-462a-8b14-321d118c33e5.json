@@ -1,10 +1,10 @@
 {
   "catalogId": "3ca6e55d-e491-462a-8b14-321d118c33e5",
-  "name": "PAXXET 20",
+  "name": "PAXXET 30",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "117 10 29855 02",
+  "registrationNumber": "143 53 29943 02",
   "treatmentDescriptions": "Treatment of symptoms of depressive illness of all types including depression accompanied by anxiety. Treatment of symptoms and prevention of relapse of obsessive compulsive disorder (OCD). Treatment of symptoms and prevention of relapse of panic disorder with or without agoraphobia.Treatment of symptoms of social phobia.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.451277",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PAXXET 20",
-        "registration": "117 10 29855 02",
-        "form": ""
-      },
-      {
-        "name": "PAXXET 30",
-        "registration": "143 53 29943 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:43.072733",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PAXXET 30MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:43.072739",
+      "confidence": 95,
+      "reasoning": "The option 2, PAXXET 30, closely matches the medication PAXXET 20 in terms of brand name similarity, strength compatibility (30.0mg), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "143 53 29943 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

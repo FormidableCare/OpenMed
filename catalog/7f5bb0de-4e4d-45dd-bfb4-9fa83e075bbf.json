@@ -57,22 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.362017",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPASMALGIN",
-        "registration": "036 36 22208 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:11.216412",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PAPAVERINE 4OMG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:11.216418",
+      "confidence": 95,
+      "reasoning": "The brand name \"SPASMALGIN\" and registration number 036 36 22208 00 match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "036 36 22208 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

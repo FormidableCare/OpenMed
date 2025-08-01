@@ -1,10 +1,10 @@
 {
   "catalogId": "642ab25f-d408-4f35-98c2-9c860da8b313",
-  "name": "FRAGMIN 2500 I.U /0.2 ML",
+  "name": "FRAGMIN 2500 I.U/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "123 11 26544 00",
+  "registrationNumber": "125 12 26545 00",
   "treatmentDescriptions": "Prevention of clotting during haemodialysis and haemofiltration in connection with acute renal failure or chronic renal insufficiency. Treatment of acute deep venous thrombosis and/or pulmonary embolism. Unstable coronary artery disease. Thromboprophylaxis in conjunction with surgery.   Prophylaxis in patients with substantially increased risk for venous thromboembolism and that are temporarily immobilized due to acute illness such as cardiac insufficiency  respiratory insufficiency and severe infections.Cancer patients : Treatment and secondary prevention of deep-vein thrombosis and/or pulmonary embolism.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.678994",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FRAGMIN 2500 I.U /0.2 ML",
-        "registration": "123 11 26544 00",
-        "form": ""
-      },
-      {
-        "name": "FRAGMIN 2500 I.U/ML",
-        "registration": "125 12 26545 00",
-        "form": ""
-      },
-      {
-        "name": "FRAGMIN 25000 IU/ML",
-        "registration": "053 52 26546 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:04:26.070732",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FRAGMIN 7500 IU/0.3ML 10 INJ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2111111111111111,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:04:26.070744",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Fragmin 2500 I.U/0.2 ML in terms of strength compatibility and formulation. The only difference is the registration number, which could be a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "125 12 26545 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "d28446fb-6279-4ed7-86d7-23aa3feaf173",
-  "name": "BUDESONIDE STERINEBS TEVA ® 0.5 MG/2 ML",
+  "name": "BUDESONIDE STERINEBS TEVA ® 1 MG/2 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "142 43 33002 00",
+  "registrationNumber": "144 11 33235 00",
   "treatmentDescriptions": "Bronchial asthma especially in cases where other therapy is insufficient or insuitable.",
   "termsOfIssue": "Prescription required",
   "form": "suspension for inhalation",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.400293",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BUDESONIDE STERINEBS TEVA ® 0.5 MG/2 ML",
-        "registration": "142 43 33002 00",
-        "form": ""
-      },
-      {
-        "name": "BUDESONIDE STERINEBS TEVA ® 1 MG/2 ML",
-        "registration": "144 11 33235 00",
-        "form": ""
-      },
-      {
-        "name": "BUDICORT TURBUHALER 100 MCG/DOSE",
-        "registration": "057 98 26940 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:17:11.816703",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BUDESON 9MG GRANULES 30 SACHETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:17:11.816708",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication with a similar brand name (BUDESONIDE STERINEBS TEVA), correct strength (1 MG/2 ML), and similar formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "144 11 33235 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

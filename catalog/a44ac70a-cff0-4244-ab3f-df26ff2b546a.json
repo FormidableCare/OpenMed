@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.232753",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SOOLANTRA",
-        "registration": "167 59 36606 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:57.782858",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOOLANTRA CREAM 30G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:57.782932",
+      "confidence": 95,
+      "reasoning": "The brand name \"SOOLANTRA\" matches, the strength is the same (30.0g), and the formulation is also a cream in both cases. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 59 36606 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

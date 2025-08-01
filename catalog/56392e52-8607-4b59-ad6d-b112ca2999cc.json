@@ -1,10 +1,10 @@
 {
   "catalogId": "56392e52-8607-4b59-ad6d-b112ca2999cc",
-  "name": "OXYCONTIN 10",
+  "name": "OXYCONTIN 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 71 28431 00",
+  "registrationNumber": "109 01 29255 00",
   "treatmentDescriptions": "For the relief of moderate to severe chronic pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets controlled release",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.642857",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OXYCONTIN 10",
-        "registration": "100 71 28431 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 20",
-        "registration": "100 70 28432 00",
-        "form": ""
-      },
-      {
-        "name": "OXYCONTIN 40",
-        "registration": "109 01 29255 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:32.795415",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OXYCONTIN 40MG 20 CR TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:32.795432",
+      "confidence": 95,
+      "reasoning": "The option \"OXYCONTIN 40\" matches the medication \"OXYCONTIN 10\" in terms of brand name similarity, strength compatibility (40.0mg), and formulation. The registration numbers are different, but this could be due to variations in different markets or batches.",
+      "selectedOption": 3,
+      "selectedRegistration": "109 01 29255 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

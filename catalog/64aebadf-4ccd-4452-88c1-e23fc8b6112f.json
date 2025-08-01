@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.058272",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REZOLSTA",
-        "registration": "154 69 34386 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:45.932248",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DARUNAVIR TEVA 600 MG 60 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:45.932259",
+      "confidence": 95,
+      "reasoning": "The brand name \"REZOLSTA\" and registration number match, and the strength of 600.0mg is also consistent. The formulation information is not provided in the options, but based on the provided details, this option is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "154 69 34386 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

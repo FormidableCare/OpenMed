@@ -1,10 +1,10 @@
 {
   "catalogId": "f4517961-e355-4d53-9393-4fb8a2681c8f",
-  "name": "GASTRO 10",
+  "name": "GASTRO 40",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "107 36 28578 01",
+  "registrationNumber": "043 39 25171 03",
   "treatmentDescriptions": "For the treatment and prevention of heartburn and hyperacidity in the upper gastrointestinal tract.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.658080",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GASTRO 10",
-        "registration": "107 36 28578 01",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 20",
-        "registration": "043 40 26198 02",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 40",
-        "registration": "043 39 25171 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:53.884761",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GASTRO 40MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:53.884774",
+      "confidence": 95,
+      "reasoning": "The medication GASTRO 10 with a strength of 40.0mg matches with GASTRO 40, as they both have similar brand names and the strength of 40mg.",
+      "selectedOption": 3,
+      "selectedRegistration": "043 39 25171 03",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.294773",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MABTHERA 10 MG/ML I.V",
-        "registration": "112 51 29472 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:12.127796",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MABTHERA 1400 MG S.C. VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:12.127803",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (1400.0mg), and registration number (112 51 29472 00) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "112 51 29472 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

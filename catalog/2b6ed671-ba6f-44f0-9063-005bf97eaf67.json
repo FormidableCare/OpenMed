@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.038017",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GYNERA ®",
-        "registration": "050 51 25622 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:21.779819",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GYNERA 3X21TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:21.779825",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation of GYNERA ® in the medication match the details provided in Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "050 51 25622 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

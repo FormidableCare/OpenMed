@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.628132",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PAXXET 20",
-        "registration": "117 10 29855 02",
-        "form": ""
-      },
-      {
-        "name": "PAXXET 30",
-        "registration": "143 53 29943 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:32.004934",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PAXXET 20MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:32.004947",
+      "confidence": 95,
+      "reasoning": "The medication PAXXET 20 matches with Option 1 as they have the same brand name, strength (20.0mg), and registration number (117 10 29855 02).",
+      "selectedOption": 1,
+      "selectedRegistration": "117 10 29855 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -68,22 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.187873",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EXONDYS 51",
-        "registration": "160 85 35258 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:12:58.722692",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EXONDYS 51\t 1VIAL  100 MG/2ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:12:58.722707",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 85 35258 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

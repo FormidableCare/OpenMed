@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.060773",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOL",
-        "registration": "020 16 20534 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL",
-        "registration": "128 74 25337 08",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL ® TEVA TABLETS",
-        "registration": "176 60 36645 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:50.908609",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOL TSINUN& SHAAPAT 35D+14N CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:50.908615",
+      "confidence": 95,
+      "reasoning": "The brand name ACAMOL matches, and the registration number 020 16 20534 00 also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "020 16 20534 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

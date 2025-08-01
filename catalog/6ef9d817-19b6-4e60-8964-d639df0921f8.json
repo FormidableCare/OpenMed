@@ -68,32 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.232365",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UTROGESTAN 100",
-        "registration": "132 44 26341 11",
-        "form": ""
-      },
-      {
-        "name": "UTROGESTAN 100",
-        "registration": "132 44 26341 12",
-        "form": ""
-      },
-      {
-        "name": "UTROGESTAN 200",
-        "registration": "128 73 30719 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:56.042687",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROGESTERONE RETARD PHARLON 500MG/2ML 3AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:56.042699",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication UTROGESTAN 100 in terms of brand name, registration number, and strength (500.0mg).",
+      "selectedOption": 1,
+      "selectedRegistration": "132 44 26341 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

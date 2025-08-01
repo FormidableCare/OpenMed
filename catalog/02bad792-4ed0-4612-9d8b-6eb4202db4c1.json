@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.362940",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTOMYCIN",
-        "registration": "015 86 24749 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:12.848644",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PHENYLEPHRINE  50MCG/ML INJECTION AGUETTANT FRANCE 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:12.848649",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and formulation match. The strength is not provided in the option, but the other details align closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "015 86 24749 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

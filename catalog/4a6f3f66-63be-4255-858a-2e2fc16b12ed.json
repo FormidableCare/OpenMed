@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.984854",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NIFEDILONG 30",
-        "registration": "137 89 31415 00",
-        "form": ""
-      },
-      {
-        "name": "NIFEDILONG 60",
-        "registration": "137 21 31416 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:16.876118",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NIFEDILONG 30MG 30 SRTAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:16.876130",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NIFEDILONG 30 in terms of brand name, strength (30.0mg), and formulation (sr). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "137 89 31415 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

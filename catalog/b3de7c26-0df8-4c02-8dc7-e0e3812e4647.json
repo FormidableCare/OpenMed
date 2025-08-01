@@ -1,10 +1,10 @@
 {
   "catalogId": "b3de7c26-0df8-4c02-8dc7-e0e3812e4647",
-  "name": "VENTOLIN DISKUS",
+  "name": "VENTOLIN INHALER CFC FREE",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "126 97 30674 00",
+  "registrationNumber": "113 25 29560 05",
   "treatmentDescriptions": "Relief of bronchospasm in broncial asthma of all types, chronic, bronchitis and emphysema.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.248549",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VENTOLIN DISKUS",
-        "registration": "126 97 30674 00",
-        "form": ""
-      },
-      {
-        "name": "VENTOLIN INJECTION",
-        "registration": "027 64 21556 05",
-        "form": ""
-      },
-      {
-        "name": "VENTOLIN INHALER CFC FREE",
-        "registration": "113 25 29560 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:11.441323",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VENTOLIN DISKUS 200MCG 60DOSE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:11.441328",
+      "confidence": 95,
+      "reasoning": "The option 3, VENTOLIN INHALER CFC FREE, closely matches the medication VENTOLIN DISKUS in terms of brand name similarity, formulation (both are inhalers), and the strength of 200.0mcg.",
+      "selectedOption": 3,
+      "selectedRegistration": "113 25 29560 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "9d71948c-c6f3-4f86-a9fc-b73ced2e2747",
-  "name": "LEVETRIM 1000",
+  "name": "LEVETRIM 250",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "143 77 31941 00",
+  "registrationNumber": "143 75 31935 00",
   "treatmentDescriptions": "- Levetrim is indicated as adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults and children from 4 years of age with epilepsy. - Levetrim is indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy. - Levetrim is indicated as monotherapy in the treatment of partial onset seizures with or without secondary generalization in patient from 16 years of age with newly diagnosed epilepsy. - Levetrim is indicated in the treatment of primary gneralized tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.285134",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEVETRIM 1000",
-        "registration": "143 77 31941 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETRIM 250",
-        "registration": "143 75 31935 00",
-        "form": ""
-      },
-      {
-        "name": "LEVETRIM 500",
-        "registration": "143 76 31936 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:00.965169",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVETRIM 250MG 60 FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:00.965179",
+      "confidence": 95,
+      "reasoning": "The option 2, LEVETRIM 250, closely matches the medication Levetrim 1000 in terms of brand name similarity and strength compatibility (250.0mg).",
+      "selectedOption": 2,
+      "selectedRegistration": "143 75 31935 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

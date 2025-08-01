@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.771857",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRINAVESS 20 MG/ML",
-        "registration": "148 28 33391 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:55:43.985067",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRINAVESS 20 MG/ML 1 VIAL 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:55:43.985081",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "148 28 33391 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

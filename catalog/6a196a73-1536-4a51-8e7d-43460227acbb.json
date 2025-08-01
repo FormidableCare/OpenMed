@@ -1,10 +1,10 @@
 {
   "catalogId": "6a196a73-1536-4a51-8e7d-43460227acbb",
-  "name": "TARIM 100",
+  "name": "TARIM 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "149 16 33583 01",
+  "registrationNumber": "149 15 33582 01",
   "treatmentDescriptions": "TARIM is indicated for the treatment of erectile dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.225011",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARIM 100",
-        "registration": "149 16 33583 01",
-        "form": ""
-      },
-      {
-        "name": "TARIM 50",
-        "registration": "149 15 33582 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:49.972355",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARIM 50MG 8 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:49.972366",
+      "confidence": 95,
+      "reasoning": "The option 2, TARIM 50, closely matches the medication TARIM 100 in terms of brand name similarity, strength compatibility (50.0mg), and registration number similarity (149 15 33582 01).",
+      "selectedOption": 2,
+      "selectedRegistration": "149 15 33582 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

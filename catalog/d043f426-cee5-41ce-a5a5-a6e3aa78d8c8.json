@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.812668",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAMADEX OD 100",
-        "registration": "139 25 31580 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 200",
-        "registration": "139 26 31581 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 300",
-        "registration": "139 27 31582 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:56:33.928483",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAMADEX 100MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:56:33.928507",
+      "confidence": 95,
+      "reasoning": "The option 1, TRAMADEX OD 100, matches the medication based on the brand name similarity, strength compatibility (100.0mg), and registration number (139 25 31580 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "139 25 31580 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

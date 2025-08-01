@@ -1,10 +1,10 @@
 {
   "catalogId": "0acec6e6-7f10-4613-bd90-b2c2346564ff",
-  "name": "VANCOAVENIR 1 G",
+  "name": "VANCOAVENIR 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 18 34020 00",
+  "registrationNumber": "153 17 34018 00",
   "treatmentDescriptions": "Vancomycin hydrochloride is indicated for the treatment of severe or serious infections due to susceptible strains of methicillin - resistant (beta-Iactam-resistant) staphylococci.It is also indicated for administration to penicillin-allergic patients as well patients who have failed to respond to or who cannot receive other drugs including cephalosporins or penicillins and for infections due to vancomycin-susceptible organisms that are resistant to other antimicrobial drugs. Vancomycin hydrochloride is indicated for first-line therapy when methicillin-resistant staphylococci are suspected but when susceptibility data become available appropriate therapy should be instituted. Vancomycin hydrochloride is effective in the treatment of staphylococcal endocarditis as well as in other infections due to staphylococci including lower respiratory tract infections septicemia skin and skin - stucture infection and bone infections. Antibiotic therapy is as an adjunct to appropriate surgical measures when staphylococcal infections are purulent and localized. For endocarditis due to Streptococcus viridans or Streptococcus bovis vancomycin hydrochloride has been shown to be effective in combination with an aminoglycoside.Vancomycin hydrochloride has been shown to be effective only in combination with an aminoglycoside for endocarditis due to enterococci (eg Enterococcus fecalis). Vancomycin hydrochloride has been shown to be effective for the treatment of diphtheroid endocareditis. In early-onset prosthetic valve endocarditis caused by Staphylococcus epidermidis or diptheroids vancomycin hydrochloride has been administered successfully in combination with either rifampin an aminoglycoside or combined with both drugs. Bacteriologic cultures of specimens should be obtained for isolation and identification of causative organisms and determination of susceptibilities to vancomycin hydrochloride. Oral Therapy Vancomycin hydrochloride injection may be given orally for the treatment of antibiotic-associated Pseudomembrannous colitis due to Staphylococcus enterocolitis and Clostridium difficile. Vancomycin hydrochloride is not effective orally when administered for other types of infection.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.102233",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VANCOAVENIR 1 G",
-        "registration": "153 18 34020 00",
-        "form": ""
-      },
-      {
-        "name": "VANCOAVENIR 500 MG",
-        "registration": "153 17 34018 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:11:31.352985",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VANCOMYCIN MYLAN 500MG/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:11:31.352996",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Vancoavenir 1 G in terms of strength (500 mg), formulation, and registration number. The only difference is the strength mentioned in the option, which is 500 mg instead of 1 G, but this is likely due to rounding or formatting differences.",
+      "selectedOption": 2,
+      "selectedRegistration": "153 17 34018 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

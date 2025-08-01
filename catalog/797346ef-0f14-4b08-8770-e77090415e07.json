@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.265812",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIGER BALM RED",
-        "registration": "127 22 30565 00",
-        "form": ""
-      },
-      {
-        "name": "TIGER BALM WHITE",
-        "registration": "127 23 30566 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:14:28.705757",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TIGER BALM WHITE OINT 19G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:14:28.705762",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"TIGER BALM RED\" in terms of brand name, registration number, and formulation. The strength of 19.0g also aligns with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 22 30565 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

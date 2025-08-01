@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.700034",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TECENTRIQ",
-        "registration": "158 66 34982 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:05:05.846978",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TECENTRIQ 840MG/14ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:05:05.846990",
+      "confidence": 95,
+      "reasoning": "The medication name, TECENTRIQ, registration number, and formulation all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 66 34982 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

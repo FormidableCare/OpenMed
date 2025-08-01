@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.082604",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SALVAKAL",
-        "registration": "151 93 33938 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:20.893797",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SALVAKAL 5MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:20.893804",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "151 93 33938 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

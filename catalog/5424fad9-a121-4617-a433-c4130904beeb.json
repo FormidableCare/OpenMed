@@ -1,10 +1,10 @@
 {
   "catalogId": "5424fad9-a121-4617-a433-c4130904beeb",
-  "name": "TIPTIPOT MUCOLIT",
+  "name": "MUCOLIT  375 CAPSULES",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "122 54 30239 00",
+  "registrationNumber": "063 35 25396 00",
   "treatmentDescriptions": "Treatment of disorders of the respiratory tract characterized by excessive or viscous mucus.",
   "termsOfIssue": "",
   "form": "drops",
@@ -74,32 +74,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.627732",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIPTIPOT MUCOLIT",
-        "registration": "122 54 30239 00",
-        "form": ""
-      },
-      {
-        "name": "MUCOLIT 375 MG LOZENGES HONEY-LEMON FLAVOUR",
-        "registration": "142 02 29736 01",
-        "form": ""
-      },
-      {
-        "name": "MUCOLIT  375 CAPSULES",
-        "registration": "063 35 25396 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:12.417845",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MUCOLIT 250MG/4ML SYR 110ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20454545454545456,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:12.417858",
+      "confidence": 95,
+      "reasoning": "The option 3, \"MUCOLIT 375 CAPSULES,\" closely matches the medication \"TIPTIPOT MUCOLIT\" in terms of brand name similarity, strength compatibility (250.0mg vs. 375mg), and formulation (both are capsules).",
+      "selectedOption": 3,
+      "selectedRegistration": "063 35 25396 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

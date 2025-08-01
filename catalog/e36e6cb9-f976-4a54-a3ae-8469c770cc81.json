@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.640159",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETAREN 100 S.R.",
-        "registration": "015 73 24619 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:28.989361",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETAREN 100MG 20 S.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:28.989370",
+      "confidence": 95,
+      "reasoning": "The brand name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "015 73 24619 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

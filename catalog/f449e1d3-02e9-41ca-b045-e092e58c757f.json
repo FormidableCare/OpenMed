@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.211936",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACAMOL",
-        "registration": "020 16 20534 00",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL",
-        "registration": "128 74 25337 08",
-        "form": ""
-      },
-      {
-        "name": "ACAMOL ® TEVA TABLETS",
-        "registration": "176 60 36645 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:13:26.302154",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACAMOL TSIN.LIQUI.GEL.10NIGHT CAPSULE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.15555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:13:26.302160",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ACAMOL in terms of brand name, registration number, and formulation (capsule, gel).",
+      "selectedOption": 1,
+      "selectedRegistration": "020 16 20534 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

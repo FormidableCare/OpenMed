@@ -1,10 +1,10 @@
 {
   "catalogId": "0b346365-6e3b-46d8-a442-2a949138ca6f",
-  "name": "LERCANAPRIL TEVA 10 /10",
+  "name": "LERCANAPRIL TEVA 10/20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 44 35533 00",
+  "registrationNumber": "164 45 35534 00",
   "treatmentDescriptions": "Treatment of essential hypertension in patients whose blood pressure cannot be adequately controlled under Lercanidipine monotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.017739",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LERCANAPRIL TEVA 10 /10",
-        "registration": "164 44 35533 00",
-        "form": ""
-      },
-      {
-        "name": "LERCANAPRIL TEVA 10/10",
-        "registration": "164 44 35533 01",
-        "form": ""
-      },
-      {
-        "name": "LERCANAPRIL TEVA 10/20",
-        "registration": "164 45 35534 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:00:03.483916",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LERCANAPRIL TEVA 10 MG /20 MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:00:03.483929",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication LERCANAPRIL TEVA 10/10 with a similar brand name, correct strength (10/20), and same formulation. The registration number is also similar.",
+      "selectedOption": 3,
+      "selectedRegistration": "164 45 35534 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

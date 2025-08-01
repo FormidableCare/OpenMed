@@ -57,22 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.945910",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CABOTRIM 0.5",
-        "registration": "135 73 31180 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:09:13.760595",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CABOTRIM 0.5MG 2TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:09:13.760606",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 73 31180 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

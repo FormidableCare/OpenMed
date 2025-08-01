@@ -1,10 +1,10 @@
 {
   "catalogId": "9a95fe3c-71e4-4a95-8d04-af028dd5f14a",
-  "name": "ZENALB 20",
+  "name": "ZENALB 4.5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 74 31656 00",
+  "registrationNumber": "137 73 31655 00",
   "treatmentDescriptions": "For restoration and maintenance of circulation blood volume where volume deficiency has been demonstrated and use of a colloid, is appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -68,27 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.995576",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZENALB 20",
-        "registration": "137 74 31656 00",
-        "form": ""
-      },
-      {
-        "name": "ZENALB 4.5",
-        "registration": "137 73 31655 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:59:31.577657",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZENALB 4.5% SOLUTION 500ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:59:31.577670",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication ZENALB 20 in terms of strength (4.5%), formulation (solution), and registration number (137 73 31655 00). The only difference is the name, where ZENALB 4.5 in option 2 closely corresponds to ZENALB 20.",
+      "selectedOption": 2,
+      "selectedRegistration": "137 73 31655 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

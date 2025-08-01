@@ -1,10 +1,10 @@
 {
   "catalogId": "2283afce-b848-425f-a969-340dcc50a005",
-  "name": "PROSTIN E2 10 MG/ML",
+  "name": "TREPROSTINIL S.K. 10 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 11 22245 00",
+  "registrationNumber": "162 27 35642 00",
   "treatmentDescriptions": "Therapeutic termination of pregnancy, missed abortion.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.126267",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 01",
-        "form": ""
-      },
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 00",
-        "form": ""
-      },
-      {
-        "name": "TREPROSTINIL S.K. 10 MG/ML",
-        "registration": "162 27 35642 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:01:39.367847",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROSTIN E2 3 MG 4 VAG STRIPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:01:39.367867",
+      "confidence": 95,
+      "reasoning": "The option 3, TREPROSTINIL S.K. 10 MG/ML, closely matches the medication Prostin E2 10 MG/ML in terms of strength (10 MG/ML), formulation, and similarity in the active ingredient (treprostinil).",
+      "selectedOption": 3,
+      "selectedRegistration": "162 27 35642 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

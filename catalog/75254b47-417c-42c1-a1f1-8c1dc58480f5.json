@@ -70,27 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:52.635838",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CRUSIA",
-        "registration": "162 88 35673 00",
-        "form": ""
-      },
-      {
-        "name": "CRUSIA FORTE",
-        "registration": "173 13 37520 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:03:41.415009",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CRUSIA 60MG/0.6ML 2 SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:03:41.415014",
+      "confidence": 95,
+      "reasoning": "The medication name, CRUSIA, registration number, and strength all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "162 88 35673 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

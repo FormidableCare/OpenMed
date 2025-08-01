@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.366659",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TERIL 200",
-        "registration": "129 63 30784 00",
-        "form": ""
-      },
-      {
-        "name": "PENTAL VETERINARY INJECTION NON-STERILE",
-        "registration": "077 29 91952 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:16:19.402757",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TERIL CR 400MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:16:19.402768",
+      "confidence": 95,
+      "reasoning": "The brand name \"TERIL 200\" matches exactly, and the registration number also matches. The strength of 400.0mg is compatible with the formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "129 63 30784 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

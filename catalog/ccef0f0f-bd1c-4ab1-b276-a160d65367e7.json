@@ -68,27 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:53.333472",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CORSODYL DENTAL GEL",
-        "registration": "114 62 29571 21",
-        "form": ""
-      },
-      {
-        "name": "CORSODYL MOUTHWASH",
-        "registration": "029 96 21599 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T19:15:55.032603",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CORSODYL DENTAL GEL 1% 50GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T19:15:55.032608",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication CORSODYL DENTAL GEL in terms of brand name similarity, formulation (gel), and registration number. The strength of 1.0% also aligns with the dental gel formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "114 62 29571 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }
