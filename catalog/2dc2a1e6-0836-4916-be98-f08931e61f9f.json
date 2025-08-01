@@ -1,0 +1,63 @@
+{
+  "catalogId": "2dc2a1e6-0836-4916-be98-f08931e61f9f",
+  "name": "AZEL-AVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 19 36043 00",
+  "treatmentDescriptions": "Symptomatic treatment and prevention of seasonal allergic conjunctivitis",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AZELASTINE HYDROCHLORIDE 0.5  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01GX07",
+      "name": "AZELASTINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "AZEL-AVENIR 0.5MG/ML 6ML",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 6.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8937",
+        "yarpa": "74570"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 18.56609199,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 25.43554603,
+        "maxPriceWithVAT": 30.01394431
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:53:16.873799"
+  }
+}

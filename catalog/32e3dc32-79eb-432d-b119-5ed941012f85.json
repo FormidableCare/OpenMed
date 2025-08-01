@@ -1,0 +1,62 @@
+{
+  "catalogId": "32e3dc32-79eb-432d-b119-5ed941012f85",
+  "name": "ARA-CELL 5 G",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "155 77 34211 00",
+  "treatmentDescriptions": "ARA-cell® 100 mg/ml is used in combination with other cytostatic agents in high-dose therapy for:• refractory non-Hodgkin’s lymphoma• refractory acute non-lymphocytic leukaemia• refractory acute lymphoblastic leukaemia• recurrent cases of acute leukaemia• types of leukaemia with special risk:       – secondary leukaemia following previous chemotherapy and/or radiation             treatment      – manifest leukaemia following transformation of pre-leukaemia• consolidation of the remission of acute non-lymphocytic leukaemia in patients under 60 years of age.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "CYTARABINE/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01BC01",
+      "name": "CYTARABINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ARA-CELL 5 G VIAL 50ML",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9623"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 240.7193604,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 282.8452485,
+        "maxPriceWithVAT": 333.7573784
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:52:33.527116"
+  }
+}

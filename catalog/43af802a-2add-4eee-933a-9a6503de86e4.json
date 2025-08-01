@@ -1,0 +1,63 @@
+{
+  "catalogId": "43af802a-2add-4eee-933a-9a6503de86e4",
+  "name": "ACROLIMUS PR 0.5 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "170 08 37001 99",
+  "treatmentDescriptions": "- Prophylaxis of transplant rejection in adult kidney or liver allograft recipients.-  Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult kidney or liver allograft recipient patients.",
+  "termsOfIssue": "Prescription required",
+  "form": "capsules prolonged release",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TACROLIMUS AS MONOHYDRATE 0.5  MG",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L04AD02",
+      "name": "TACROLIMUS"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "Acrolimus PR 3 mg 50 Caps",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 50.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9603",
+        "yarpa": "14054"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 577.1500275,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 678.1512823,
+        "maxPriceWithVAT": 800.2184776
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:51:51.234894"
+  }
+}
