@@ -1,0 +1,63 @@
+{
+  "catalogId": "77696586-7c8d-48ba-b689-c78b2ab0e7c0",
+  "name": "OCTOCAINE 100",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "136 86 31595 00",
+  "treatmentDescriptions": "Production of local anesthesia for dental procedures by nerve block or infiltration technique.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "dental nerve block, dental infiltration inj.",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "EPINEPHRINE AS BITARTRATE 0.01 MG/ML, LIDOCAINE HYDROCHLORIDE ( AS MONOHYDRATE)/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N01BB02",
+      "name": "LIDOCAINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LIDOCAINE RAZ GEL 2% 30GR",
+      "manufacturer": {
+        "name": "רז פרמהצפטי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "CARTRIDGE GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9628",
+        "yarpa": "67281"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 184.3840225,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 230.4800281,
+        "maxPriceWithVAT": 271.9664211
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:57:53.207282"
+  }
+}

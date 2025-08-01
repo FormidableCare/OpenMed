@@ -1,0 +1,63 @@
+{
+  "catalogId": "97b443a3-b2ac-4d04-bd2b-5297bbb7c0fb",
+  "name": "EBGLYSS",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 68 38066 00",
+  "treatmentDescriptions": "Ebglyss is indicated for the treatment of moderate-to-severe atopic dermatitis in adults and adolescents 12 years and older with a body weight of at least 40 kg who are candidates for systemic therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEBRIKIZUMAB/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "D11AH10",
+      "name": "LEBRIKIZUMAB "
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EBGLYSS 125MG/ML 1 PFP 2 ML",
+      "manufacturer": {
+        "name": "אלי לילי",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9611",
+        "barcode": "7290016021523"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 4352.326414,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4787.559055,
+        "maxPriceWithVAT": 5649.319434
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:54:39.570030"
+  }
+}

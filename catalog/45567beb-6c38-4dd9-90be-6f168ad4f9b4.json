@@ -1,0 +1,63 @@
+{
+  "catalogId": "45567beb-6c38-4dd9-90be-6f168ad4f9b4",
+  "name": "FINTEPLA",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "169 41 36976 99",
+  "treatmentDescriptions": "Fintepla is indicated for the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome as an add-on therapy to other anti-epileptic medicines for patients 2 years of age and older",
+  "termsOfIssue": "Prescription required",
+  "form": "oral solution",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "FENFLURAMINE AS HYDROCHLORIDE 2.2 MG/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A08AA02",
+      "name": "FENFLURAMINE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "FINTEPLA O.S. 2.2 MG/ML BOTTLE 120ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 120.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE HDPE",
+      "shelfLife": "48",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9014",
+        "yarpa": "76935"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 3864.385476,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 4250.824024,
+        "maxPriceWithVAT": 5015.972125
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:55:59.152466"
+  }
+}

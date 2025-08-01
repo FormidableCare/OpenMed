@@ -1,0 +1,62 @@
+{
+  "catalogId": "700d6bc3-e1e3-474a-9759-6d0fc01d26d8",
+  "name": "TEBOKAN",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "178 26 36360 00",
+  "treatmentDescriptions": "Vertigo of vascular and involutional origin.Adjuvant treatment in case of tinnitus of vascular and involutional origin.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "DRY EXTRACT FROM GINKGO BILOBA LEAVES (35-67:1)",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "N06DX02",
+      "name": "GINKGO BILOBA"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TEBOKAN 120MG F.C.T",
+      "manufacturer": {
+        "name": "דר סמואלוב",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/PVDC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9616"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 67.7278395,
+        "retailMargin": 34.5,
+        "maxRetailPrice": 91.09394413,
+        "maxPriceWithVAT": 107.4908493
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:04:25.150947"
+  }
+}

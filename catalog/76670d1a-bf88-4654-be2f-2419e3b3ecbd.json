@@ -1,0 +1,63 @@
+{
+  "catalogId": "76670d1a-bf88-4654-be2f-2419e3b3ecbd",
+  "name": "PALOXI INJECTION",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "134 84 31150 00",
+  "treatmentDescriptions": "Paloxi is indicated in adults and in paediatric patients 1 month of age and older for the prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, and prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PALONOSETRON AS HYDROCHLORIDE 0.25  MG/VIAL",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A04AA05",
+      "name": "PALONOSETRON"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "PALOXI INJECTION S.K. 0.25MG/VIAL",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9562",
+        "barcode": "7290008012379"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 142.5193908,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 178.1492385,
+        "maxPriceWithVAT": 210.2160921
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:01:37.497601"
+  }
+}

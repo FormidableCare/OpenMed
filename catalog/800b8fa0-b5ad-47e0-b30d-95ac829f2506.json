@@ -1,0 +1,62 @@
+{
+  "catalogId": "800b8fa0-b5ad-47e0-b30d-95ac829f2506",
+  "name": "LEVOSIMENDAN MBI 2.5 MG/ML",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 47 37386 99",
+  "treatmentDescriptions": "Short-term treatment of acutely decompensated severe chronic heart failure. Levosimendan MBI 2.5 mg/ml should only be used as add-on therapy in situations where conventional therapy with e.g. diuretics, ACE-inhibitors and digitalis is not sufficient and where there is a need for inotropic support.",
+  "termsOfIssue": "Prescription required",
+  "form": "concentrate for solution for infusion",
+  "route": "i.v",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LEVOSIMENDAN 2.5  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "C01CX08",
+      "name": "LEVOSIMENDAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "LEVOSIMENDAN MBI 2.5 MG/ML 5ML",
+      "manufacturer": {
+        "name": "אמ.בי.איי פארמה",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "18",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9625"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 1724.164157,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 2025.892885,
+        "maxPriceWithVAT": 2390.553498
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:57:41.939216"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "catalogId": "d7b8b232-6a80-4527-8f80-0ff68225a064",
+  "name": "IBRANCE TABLETS 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "173 62 36956 99",
+  "treatmentDescriptions": "IIBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with:* an aromatase inhibitor as initial endocrine-based therapy; or* fulvestrant in patients with disease progression following endocrine therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "PALBOCICLIB",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE33",
+      "name": "PALBOCICLIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "IBRANCE 75MG 21 tablets",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 21.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/OPA/AL",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9548",
+        "barcode": "5415062107560"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 6629.286141,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 7292.214755,
+        "maxPriceWithVAT": 8604.813028
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:56:42.634493"
+  }
+}

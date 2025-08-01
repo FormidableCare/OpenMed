@@ -1,0 +1,64 @@
+{
+  "catalogId": "b6cbad91-4e83-444a-a743-543ede409c53",
+  "name": "OFLO-AVENIR",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "161 38 35277 00",
+  "treatmentDescriptions": "For the treatment of external ocular infections caused by ofloxacin sensitive organisms",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "OFLOXACIN/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01AX11",
+      "name": "OFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": " ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OFLO-AVENIR 0.30% OPHTHALMIC SOL 10ML",
+      "manufacturer": {
+        "name": "ביואבניר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 10.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BOTTLE LDPE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "8664",
+        "yarpa": "25268",
+        "barcode": "7290010287178"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 16.04175973,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 21.97721083,
+        "maxPriceWithVAT": 25.93310878
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:00:38.832730"
+  }
+}

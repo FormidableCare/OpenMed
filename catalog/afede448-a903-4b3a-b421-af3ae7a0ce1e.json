@@ -1,0 +1,64 @@
+{
+  "catalogId": "afede448-a903-4b3a-b421-af3ae7a0ce1e",
+  "name": "EYLEA 2 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "151 12 33800 00",
+  "treatmentDescriptions": "Eylea is indicated for adults for the treatment of • neovascular (wet)  age-related  macular degeneration (AMD)• visual impairment due to macular oedema secondary to retinal vein occlusion (branch CRVO or central RVO)• visual impairment due to diabetic macular oedema (DME)• visual impairment due to myopic choroidal neovascularisation (myopic CNV).",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for intravitreal injection",
+  "route": "intravitreal",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "AFLIBERCEPT/ML",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "S01LA05",
+      "name": "AFLIBERCEPT"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "EYLEA 2MG 1 PFS",
+      "manufacturer": {
+        "name": "באייר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED SYRINGE  GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9081",
+        "yarpa": "34076",
+        "barcode": "7290013092533"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2603.17905,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 2863.496955,
+        "maxPriceWithVAT": 3378.926257
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:55:22.020501"
+  }
+}

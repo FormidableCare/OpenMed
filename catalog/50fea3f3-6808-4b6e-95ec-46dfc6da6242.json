@@ -1,0 +1,65 @@
+{
+  "catalogId": "50fea3f3-6808-4b6e-95ec-46dfc6da6242",
+  "name": "OXLUMO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "171 16 36940 99",
+  "treatmentDescriptions": "Oxlumo is indicated for the treatment of primary hyperoxaluria type 1 (PH1) in all age groups.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "LUMASIRAN AS SODIUM/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A16AX18",
+      "name": "LUMASIRAN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "OXLUMO 200 MG/ML VIAL 3ML",
+      "manufacturer": {
+        "name": "מדיסון",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9026",
+        "yarpa": "76936",
+        "pharmasoft": "15536",
+        "barcode": "7290018081327"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 190033.9085,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 209037.2993,
+        "maxPriceWithVAT": 246664.0022
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:00:49.483700"
+  }
+}

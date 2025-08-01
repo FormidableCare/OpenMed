@@ -1,0 +1,63 @@
+{
+  "catalogId": "31813f5c-317a-4451-8798-6201f1019038",
+  "name": "VIGAMOX",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "133 10 31054 00",
+  "treatmentDescriptions": "For the treatment of bacterial conjunctivitis caused by susceptible strains or organisms.",
+  "termsOfIssue": "Prescription required",
+  "form": "eye drops, solution",
+  "route": "ocular",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "MOXIFLOXACIN AS HYDROCHLORIDE 0.5 %",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "J01MA14",
+      "name": "MOXIFLOXACIN"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "MOXIFLOXACIN S.K. 5ML bottle",
+      "manufacturer": {
+        "name": "SK PHARM(KS KIM)",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 5.0,
+        "unit": "units"
+      },
+      "packagingDescription": "DROPER BOTTLE POLYETHYLENE",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9560",
+        "barcode": "7290016369335"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 29.73435675,
+        "retailMargin": 37.0,
+        "maxRetailPrice": 40.73606875,
+        "maxPriceWithVAT": 48.06855899
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:00:10.391689"
+  }
+}

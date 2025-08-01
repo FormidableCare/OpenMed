@@ -1,0 +1,65 @@
+{
+  "catalogId": "aaa66eb7-ddbc-4991-8e04-a808c952baf5",
+  "name": "WEGOVY 1.7 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "172 73 37488 00",
+  "treatmentDescriptions": "AdultsWegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity forweight management, including weight loss and weight maintenance, in adults with an initial BodyMass Index (BMI) of• &#8805;30 kg/m2 (obesity), or• &#8805;27 kg/m2 to <30 kg/m2 (overweight) in the presence of at least one weight-related comorbiditye.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia,obstructive sleep apnoea or cardiovascular disease.Adolescents (&#8805;12 years)Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents ages 12 years and above with• obesity* and• body weight above 60 kg.Treatment with Wegovy should be discontinued and re-evaluated if adolescent patients have not reduced their BMI by at least 5% after 12 weeks on the 2.4 mg or maximum tolerated dose.*Obesity (BMI &#8805;95th percentile) as defined on sex- and age-specific BMI growth charts.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "SEMAGLUTIDE 2.27  MG /",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "A10BJ06",
+      "name": "SEMAGLUTIDE"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "WEGOVY 1.7 MG (2.27 MG/1ML) (1.7*4) 1 pre-filled pen and 4 disposable NovoFine Plus needles",
+      "manufacturer": {
+        "name": "נובו נורדיסק",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "PRE-FILLED PEN GLASS TYPE I",
+      "shelfLife": "36",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9268",
+        "yarpa": "17163",
+        "pharmasoft": "23917",
+        "barcode": "7290015659291"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 677.2842103,
+        "retailMargin": 17.5,
+        "maxRetailPrice": 795.8089471,
+        "maxPriceWithVAT": 939.0545158
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:06:07.228149"
+  }
+}

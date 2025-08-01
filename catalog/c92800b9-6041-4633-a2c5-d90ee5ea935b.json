@@ -1,0 +1,63 @@
+{
+  "catalogId": "c92800b9-6041-4633-a2c5-d90ee5ea935b",
+  "name": "ERLOTINIB TEVA 100 MG",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "168 15 35874 00",
+  "treatmentDescriptions": "Non-Small Cell Lung Cancer (NSCLC): Erlotinib Teva is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with EGFR activating mutations. Erlotinib Teva is indicated for switch maintenance treatment in patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with EGFR activating mutations and stable disease after first-line chemotherapy. Erlotinib Teva is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen.Pancreatic cancer: Erlotinib Teva is indicated in combination with gemcitabine for the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer.",
+  "termsOfIssue": "Prescription required",
+  "form": "film coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ERLOTINIB AS HYDROCHLORIDE",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01XE03",
+      "name": "ERLOTINIB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ERLOTINIB TEVA 150 MG 30TAB",
+      "manufacturer": {
+        "name": "טבע",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 30.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "60",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9596",
+        "yarpa": "76847"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 2966.299354,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 3262.929289,
+        "maxPriceWithVAT": 3850.25639
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:55:11.175763"
+  }
+}

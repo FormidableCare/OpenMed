@@ -1,0 +1,63 @@
+{
+  "catalogId": "50c66650-4373-4861-9374-6388c3c81fff",
+  "name": "TICATA 60",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "176 95 37288 99",
+  "treatmentDescriptions": "Ticata, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with - acute coronary syndromes (ACS) or- a history of myocardial infarction (MI) and a high risk of developing an atherothrombotic event. Limitations of use: 90 mg twice daily during the first year after an ACS event followed by 60 mg twice daily for additional 2 years.",
+  "termsOfIssue": "Prescription required",
+  "form": "coated tablets",
+  "route": "per os",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "TICAGRELOR",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "B01AC24",
+      "name": "TICAGRELOR"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "TICATA 90 56 coated tablets",
+      "manufacturer": {
+        "name": "אוניפארם",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 56.0,
+        "unit": "units"
+      },
+      "packagingDescription": "BLISTER PVC/ALUMINIUM",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9556",
+        "yarpa": "63150"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 175.9030836,
+        "retailMargin": 25.0,
+        "maxRetailPrice": 219.8788545,
+        "maxPriceWithVAT": 259.4570368
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T12:04:46.291697"
+  }
+}

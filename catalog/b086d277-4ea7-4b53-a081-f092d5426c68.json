@@ -1,0 +1,63 @@
+{
+  "catalogId": "b086d277-4ea7-4b53-a081-f092d5426c68",
+  "name": "ELREXFIO",
+  "status": "",
+  "category": "prescription",
+  "registrationValidity": "valid",
+  "registrationNumber": "177 77 37990 00",
+  "treatmentDescriptions": "ELREXFIO is indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody and have demonstrated disease progression on the last therapy.",
+  "termsOfIssue": "Prescription required",
+  "form": "solution for injection",
+  "route": "s.c",
+  "site": "",
+  "method": "",
+  "administrationNotes": "",
+  "ingredients": "ELRANATAMAB/",
+  "codes": {
+    "atc5": {
+      "system": "WHO ATC Classification",
+      "code": "L01FX32",
+      "name": "ELRANATAMAB"
+    }
+  },
+  "contraindications": "",
+  "sideEffect": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרתתרופה הנרכשת ע'י משרד הבריאות ",
+  "alternativeMedications": [],
+  "packaging": [
+    {
+      "name": "ELREXFIO 76MG/1.9 ML 1 VIAL",
+      "manufacturer": {
+        "name": "פיזר",
+        "countryOfOrigin": "IL"
+      },
+      "strength": {
+        "value": 0,
+        "unit": ""
+      },
+      "quantity": {
+        "value": 1.0,
+        "unit": "units"
+      },
+      "packagingDescription": "VIAL GLASS TYPE I",
+      "shelfLife": "24",
+      "storageConditions": "",
+      "codes": {
+        "moh": "9552",
+        "barcode": "5415062123577"
+      },
+      "manufacturersAdministrationRecommendation": "",
+      "pricing": {
+        "currency": "ILS",
+        "maxWholesalePrice": 22605.87197,
+        "retailMargin": 10.0,
+        "maxRetailPrice": 24866.45917,
+        "maxPriceWithVAT": 29342.42051
+      }
+    }
+  ],
+  "metadata": {
+    "version": "1.4",
+    "lastUpdated": "2025-08-01T11:54:50.103763"
+  }
+}
