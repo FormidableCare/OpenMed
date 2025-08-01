@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 50.948382,
         "maxPriceWithVAT": 60.11909076
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.860410"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.788168"
   }
 }

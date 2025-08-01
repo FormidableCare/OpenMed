@@ -31,10 +31,20 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,12 +65,13 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 22.63614282,
         "maxPriceWithVAT": 26.71064734
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:34:08.440175",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.683359",
     "tags": [
       "needs_manual_review"
     ],

@@ -25,10 +25,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -42,12 +44,13 @@
         "moh": "20810"
       },
       "manufacturersAdministrationRecommendation": "",
-      "pricing": {}
+      "pricing": {},
+      "formulation": "sr"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.126656",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.066248",
     "tags": [
       "failed_il_drug_match"
     ]

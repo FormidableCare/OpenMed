@@ -31,10 +31,7 @@
         "name": "ליף-פריגו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 118.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 29.68,
         "maxPriceWithVAT": 35.0224
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.441509"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.896505"
   }
 }

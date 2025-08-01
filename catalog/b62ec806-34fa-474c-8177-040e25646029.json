@@ -31,10 +31,7 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 65.38,
         "maxPriceWithVAT": 77.1484
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.996899"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.059367"
   }
 }

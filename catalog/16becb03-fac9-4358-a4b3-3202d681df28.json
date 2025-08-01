@@ -31,10 +31,7 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 8.839632962,
         "maxPriceWithVAT": 10.43076643
-      }
+      },
+      "formulation": "injection"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.039418"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.135672"
   }
 }

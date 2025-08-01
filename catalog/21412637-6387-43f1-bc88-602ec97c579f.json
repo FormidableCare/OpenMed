@@ -25,10 +25,16 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "g"
+        },
+        {
+          "value": 0.1,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -48,12 +54,13 @@
         "maxRetailPrice": 21.715322,
         "maxPriceWithVAT": 25.62407996,
         "currency": "ILS"
-      }
+      },
+      "formulation": "gel"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.101558",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.857496",
     "tags": [
       "failed_il_drug_match"
     ]

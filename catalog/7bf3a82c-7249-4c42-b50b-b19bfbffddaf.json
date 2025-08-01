@@ -31,10 +31,20 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,12 +63,13 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 310.8682743,
         "maxPriceWithVAT": 366.8245473
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:46:11.827409",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.639288",
     "tags": [
       "needs_manual_review"
     ],

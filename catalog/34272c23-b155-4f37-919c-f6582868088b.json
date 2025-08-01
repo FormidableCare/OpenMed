@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 70.55882401,
         "maxPriceWithVAT": 83.25940863
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.218927"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.543972"
   }
 }

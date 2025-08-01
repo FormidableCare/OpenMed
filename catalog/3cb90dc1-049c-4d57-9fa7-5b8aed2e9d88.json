@@ -25,10 +25,7 @@
         "name": "ג'ונסון אנד ג'ונסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 12.0,
         "unit": "units"
@@ -47,11 +44,12 @@
         "retailMargin": "",
         "maxRetailPrice": 30.87,
         "maxPriceWithVAT": 36.4266
-      }
+      },
+      "formulation": "capsule"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.293594"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.728253"
   }
 }

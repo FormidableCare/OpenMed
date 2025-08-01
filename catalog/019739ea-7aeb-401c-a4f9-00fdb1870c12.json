@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 3.5,
         "unit": "units"
@@ -42,12 +44,13 @@
         "moh": "1470"
       },
       "manufacturersAdministrationRecommendation": "",
-      "pricing": {}
+      "pricing": {},
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.888929",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.248940",
     "tags": [
       "failed_il_drug_match"
     ]

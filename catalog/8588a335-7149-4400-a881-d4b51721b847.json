@@ -31,10 +31,7 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,12 +51,13 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 38036.21755,
         "maxPriceWithVAT": 44882.73472
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:39:03.376706",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.902650",
     "tags": [
       "needs_manual_review"
     ],

@@ -31,10 +31,7 @@
         "name": "סם און",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 45.42,
         "maxPriceWithVAT": 53.5956
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.911325"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.113963"
   }
 }

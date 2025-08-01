@@ -31,10 +31,12 @@
         "name": "פארמלוג'יק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 202.949,
         "maxPriceWithVAT": 239.47982
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.824258"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.890078"
   }
 }

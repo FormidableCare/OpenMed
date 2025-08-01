@@ -25,10 +25,16 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -48,12 +54,13 @@
         "maxRetailPrice": 26.64268747,
         "maxPriceWithVAT": 31.43837122,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.914910",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.261971",
     "tags": [
       "failed_il_drug_match"
     ]

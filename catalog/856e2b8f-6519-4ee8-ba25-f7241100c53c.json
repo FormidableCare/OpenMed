@@ -31,10 +31,12 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -52,11 +54,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 128.1124863,
         "maxPriceWithVAT": 151.1727272
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.690462"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.598133"
   }
 }

@@ -25,10 +25,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 180.2175075,
         "maxPriceWithVAT": 212.6566494,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.348350",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.503520",
     "tags": [
       "failed_il_drug_match"
     ]

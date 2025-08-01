@@ -31,10 +31,7 @@
         "name": "ליף-פריגו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 21.28,
         "maxPriceWithVAT": 25.1104
-      }
+      },
+      "formulation": "cream"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.946315"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.470156"
   }
 }

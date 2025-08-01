@@ -31,10 +31,7 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 50.15369295,
         "maxPriceWithVAT": 59.18135505
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.894210"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.346708"
   }
 }

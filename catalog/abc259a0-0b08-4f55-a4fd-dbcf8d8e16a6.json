@@ -31,10 +31,7 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 9.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 130.442419,
         "maxPriceWithVAT": 153.9220476
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:58:05.360886",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.001159",
     "tags": [
       "needs_manual_review"
     ],

@@ -31,10 +31,20 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -55,11 +65,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 26.983246,
         "maxPriceWithVAT": 31.84023028
-      }
+      },
+      "formulation": "injection"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.758215"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.818863"
   }
 }

@@ -31,10 +31,12 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 24.0,
         "unit": "units"
@@ -54,12 +56,13 @@
         "retailMargin": "",
         "maxRetailPrice": 32.85,
         "maxPriceWithVAT": 38.763
-      }
+      },
+      "formulation": "gel"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:27:59.783738",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.907665",
     "tags": [
       "needs_manual_review"
     ],

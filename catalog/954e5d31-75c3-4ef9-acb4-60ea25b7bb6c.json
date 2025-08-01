@@ -31,10 +31,7 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 21.68459222,
         "maxPriceWithVAT": 25.58781768
-      }
+      },
+      "formulation": "cream"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.799057"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.745593"
   }
 }

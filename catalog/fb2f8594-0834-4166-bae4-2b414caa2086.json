@@ -31,10 +31,7 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 188.9767013,
         "maxPriceWithVAT": 222.9924976
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.424611"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.811315"
   }
 }

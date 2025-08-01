@@ -31,10 +31,7 @@
         "name": "פישר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 11.6587,
         "maxPriceWithVAT": 13.75726539
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.406900"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.672300"
   }
 }

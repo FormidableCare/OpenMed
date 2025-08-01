@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 100.218909,
         "maxPriceWithVAT": 118.2583126
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.658755"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.898227"
   }
 }

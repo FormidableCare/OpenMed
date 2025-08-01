@@ -31,10 +31,7 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 13.12538147,
         "maxPriceWithVAT": 15.48794945
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.313370"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.169195"
   }
 }

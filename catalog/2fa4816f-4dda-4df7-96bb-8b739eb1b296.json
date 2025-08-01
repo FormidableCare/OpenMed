@@ -25,10 +25,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 15.946389,
         "maxPriceWithVAT": 18.81673902,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.195647",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.917871",
     "tags": [
       "failed_il_drug_match"
     ]

@@ -25,10 +25,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 3719.677094,
         "maxPriceWithVAT": 4389.218971,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.021479",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.740800",
     "tags": [
       "failed_il_drug_match"
     ]

@@ -25,10 +25,12 @@
         "name": "מינד פארמה אירופה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 452207.8869,
         "maxPriceWithVAT": 533605.2829,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.919429",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.855144",
     "tags": [
       "failed_il_drug_match"
     ]

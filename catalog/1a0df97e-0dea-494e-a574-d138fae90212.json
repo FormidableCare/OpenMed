@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -54,11 +56,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 92893.22277,
         "maxPriceWithVAT": 109613.998
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.058540"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.130323"
   }
 }

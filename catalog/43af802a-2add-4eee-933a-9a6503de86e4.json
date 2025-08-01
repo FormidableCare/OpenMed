@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 678.1512823,
         "maxPriceWithVAT": 800.2184776
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.328684"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.878253"
   }
 }

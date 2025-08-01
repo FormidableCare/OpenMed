@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 26.909266,
         "maxPriceWithVAT": 31.75293388
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.965632"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.739789"
   }
 }

@@ -31,10 +31,7 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": "",
         "maxRetailPrice": 9.32,
         "maxPriceWithVAT": 10.9976
-      }
+      },
+      "formulation": "solution"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.469823"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.583664"
   }
 }

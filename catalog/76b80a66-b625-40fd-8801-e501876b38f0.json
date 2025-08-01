@@ -31,10 +31,7 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 77.572875,
         "maxPriceWithVAT": 91.5359925
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.609090"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.694563"
   }
 }

@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 45.66758,
         "maxPriceWithVAT": 53.8877444,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.164575",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.760159",
     "tags": [
       "failed_il_drug_match"
     ]

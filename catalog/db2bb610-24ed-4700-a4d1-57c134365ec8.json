@@ -31,10 +31,7 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 34.7462688,
         "maxPriceWithVAT": 41.00059536
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.236936"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.371336"
   }
 }

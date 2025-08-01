@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -52,11 +54,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1511.650341,
         "maxPriceWithVAT": 1783.747323
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.687702"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.553120"
   }
 }

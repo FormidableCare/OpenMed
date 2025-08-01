@@ -25,10 +25,16 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -42,12 +48,13 @@
         "moh": "20854"
       },
       "manufacturersAdministrationRecommendation": "",
-      "pricing": {}
+      "pricing": {},
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.998919",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.213227",
     "tags": [
       "failed_il_drug_match"
     ]

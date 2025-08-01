@@ -31,10 +31,7 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 240.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 102.9414322,
         "maxPriceWithVAT": 121.4708846
-      }
+      },
+      "formulation": "solution"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.830533"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.413951"
   }
 }

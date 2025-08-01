@@ -31,10 +31,7 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": "",
         "maxRetailPrice": 20.97,
         "maxPriceWithVAT": 24.74
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.609374"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.781972"
   }
 }

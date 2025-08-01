@@ -25,10 +25,7 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -46,12 +43,13 @@
         "maxRetailPrice": 32.91,
         "maxPriceWithVAT": 38.8338,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.757538",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.676730",
     "tags": [
       "failed_il_drug_match"
     ]

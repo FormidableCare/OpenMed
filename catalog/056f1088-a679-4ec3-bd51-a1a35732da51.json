@@ -25,10 +25,20 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -48,12 +58,13 @@
         "maxRetailPrice": 233.156375,
         "maxPriceWithVAT": 275.1245225,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.921992",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.855666",
     "tags": [
       "failed_il_drug_match"
     ]

@@ -31,10 +31,7 @@
         "name": "מכבי קאר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 18.64,
         "maxPriceWithVAT": 21.9952
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.988689"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.208565"
   }
 }

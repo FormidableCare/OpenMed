@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 200.30675,
         "maxPriceWithVAT": 236.361965
-      }
+      },
+      "formulation": "injection, sr"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.240841"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.028342"
   }
 }

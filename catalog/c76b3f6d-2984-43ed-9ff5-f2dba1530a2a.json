@@ -31,10 +31,7 @@
         "name": "טרדיס גת",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 5888.62033,
         "maxPriceWithVAT": 6948.57168
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.108430"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.832321"
   }
 }

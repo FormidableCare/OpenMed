@@ -31,10 +31,12 @@
         "name": "אסטלס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,12 +57,13 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2235.508761,
         "maxPriceWithVAT": 2637.900221
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:48:07.346767",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.519390",
     "tags": [
       "needs_manual_review"
     ],

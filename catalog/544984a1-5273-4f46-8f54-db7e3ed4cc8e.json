@@ -25,10 +25,7 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -46,12 +43,13 @@
         "retailMargin": "",
         "maxRetailPrice": 31.19,
         "maxPriceWithVAT": 36.8042
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:54:18.676615",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.264857",
     "tags": [
       "needs_manual_review"
     ],

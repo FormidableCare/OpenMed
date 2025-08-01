@@ -31,10 +31,7 @@
         "name": "פרמה שלום",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 49.51,
         "maxPriceWithVAT": 58.4218
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.735134"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.393410"
   }
 }

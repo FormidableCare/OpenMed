@@ -31,10 +31,7 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 24.0,
         "unit": "units"
@@ -54,12 +51,13 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:42:48.070690",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.038465",
     "tags": [
       "needs_manual_review"
     ],

@@ -31,10 +31,12 @@
         "name": "דובר מדיקל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 575.0328867,
         "maxPriceWithVAT": 678.5387762
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.837591"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.679076"
   }
 }

@@ -25,10 +25,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 167.6162565,
         "maxPriceWithVAT": 197.7871739,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.195900",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.695212",
     "tags": [
       "failed_il_drug_match"
     ]

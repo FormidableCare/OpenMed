@@ -31,10 +31,7 @@
         "name": "גיליאד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,11 +52,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 4352.014909,
         "maxPriceWithVAT": 5135.377364
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.284446"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.845773"
   }
 }

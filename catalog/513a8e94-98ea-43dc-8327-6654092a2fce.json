@@ -31,10 +31,7 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 211.886375,
         "maxPriceWithVAT": 250.0259225
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:40:39.784435",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.940885",
     "tags": [
       "needs_manual_review"
     ],

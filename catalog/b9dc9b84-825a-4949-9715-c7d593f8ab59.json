@@ -25,10 +25,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -46,12 +52,13 @@
         "maxRetailPrice": 37.65,
         "maxPriceWithVAT": 44.427,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.022418",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.977094",
     "tags": [
       "failed_il_drug_match"
     ]

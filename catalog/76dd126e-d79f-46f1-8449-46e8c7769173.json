@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 27.112026,
         "maxPriceWithVAT": 31.99219068
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.609744"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.813576"
   }
 }

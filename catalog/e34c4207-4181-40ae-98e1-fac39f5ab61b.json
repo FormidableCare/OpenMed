@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.4,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 444.5344597,
         "maxPriceWithVAT": 524.5506625
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.287557"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.712108"
   }
 }

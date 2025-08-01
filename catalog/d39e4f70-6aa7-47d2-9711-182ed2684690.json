@@ -31,10 +31,12 @@
         "name": "פרופארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 125.1261347,
         "maxPriceWithVAT": 147.6488324
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.195025"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.890158"
   }
 }

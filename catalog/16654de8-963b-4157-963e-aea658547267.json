@@ -31,10 +31,7 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 500.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 846.4993398,
         "maxPriceWithVAT": 998.8691765
-      }
+      },
+      "formulation": "solution"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.035595"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.801208"
   }
 }

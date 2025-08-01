@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 64107.71849,
         "maxPriceWithVAT": 75647.10445
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.298703"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.131066"
   }
 }

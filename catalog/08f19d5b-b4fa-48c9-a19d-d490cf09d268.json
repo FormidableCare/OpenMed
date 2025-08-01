@@ -31,10 +31,7 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2428.196253,
         "maxPriceWithVAT": 2865.271451
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.944323"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.215008"
   }
 }

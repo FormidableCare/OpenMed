@@ -31,10 +31,7 @@
         "name": "סטמליין ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 40585.05,
         "maxPriceWithVAT": 47890.35687
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.688618"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.621101"
   }
 }

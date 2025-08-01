@@ -31,10 +31,7 @@
         "name": "תרומד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 8.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 28.907,
         "maxPriceWithVAT": 34.11026
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T17:26:05.621439",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.301624",
     "tags": [
       "needs_manual_review"
     ],

@@ -31,10 +31,7 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,12 +51,13 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": "cream"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:55:42.682126",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.419677",
     "tags": [
       "needs_manual_review"
     ],

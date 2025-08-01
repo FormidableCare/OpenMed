@@ -31,10 +31,7 @@
         "name": "מדיטרנד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": "",
         "maxRetailPrice": 31.03,
         "maxPriceWithVAT": 36.6154
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.343550"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.031856"
   }
 }

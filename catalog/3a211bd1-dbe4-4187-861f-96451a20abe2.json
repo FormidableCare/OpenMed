@@ -31,10 +31,7 @@
         "name": "קמהדע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 123.5238925,
         "maxPriceWithVAT": 145.7581867
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T17:51:35.518194",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.893550",
     "tags": [
       "needs_manual_review"
     ],

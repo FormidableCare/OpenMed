@@ -31,10 +31,7 @@
         "name": "לוי דנטל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.25,
         "unit": "units"
@@ -52,11 +49,12 @@
         "retailMargin": "",
         "maxRetailPrice": 36.37,
         "maxPriceWithVAT": 42.9166
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.347061"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.524646"
   }
 }

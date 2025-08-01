@@ -25,10 +25,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -46,12 +52,13 @@
         "maxRetailPrice": 136.75,
         "maxPriceWithVAT": 161.365,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.861029",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.652499",
     "tags": [
       "failed_il_drug_match"
     ]

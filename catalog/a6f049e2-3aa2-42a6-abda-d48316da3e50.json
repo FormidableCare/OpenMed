@@ -25,10 +25,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 13.07391,
         "maxPriceWithVAT": 15.4272138,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.890029",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.886763",
     "tags": [
       "failed_il_drug_match"
     ]

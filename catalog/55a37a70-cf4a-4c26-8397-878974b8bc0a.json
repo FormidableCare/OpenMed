@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 135.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": "",
         "maxRetailPrice": 37.61,
         "maxPriceWithVAT": 44.3798
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.421691"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.523121"
   }
 }

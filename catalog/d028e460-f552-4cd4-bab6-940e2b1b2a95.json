@@ -31,10 +31,7 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 63.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 57.4733295,
         "maxPriceWithVAT": 67.81852881
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T17:38:12.537565",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.714440",
     "tags": [
       "needs_manual_review"
     ],

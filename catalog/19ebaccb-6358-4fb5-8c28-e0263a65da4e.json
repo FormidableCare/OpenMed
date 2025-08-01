@@ -31,10 +31,7 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": "",
         "maxRetailPrice": 31.67,
         "maxPriceWithVAT": 37.3706
-      }
+      },
+      "formulation": "gel"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.056721"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.538973"
   }
 }

@@ -31,10 +31,7 @@
         "name": "מרגלית",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 86.47812,
         "maxPriceWithVAT": 102.0441816
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.747693"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.549806"
   }
 }

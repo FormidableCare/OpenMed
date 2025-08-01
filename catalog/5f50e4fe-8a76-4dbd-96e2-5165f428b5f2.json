@@ -31,10 +31,7 @@
         "name": "ליף-דקסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -52,12 +49,13 @@
         "retailMargin": "",
         "maxRetailPrice": 10.01,
         "maxPriceWithVAT": 11.8118
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:07:58.669881",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.917858",
     "tags": [
       "needs_manual_review"
     ],

@@ -25,10 +25,7 @@
         "name": "דפריס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -48,11 +45,12 @@
         "retailMargin": "",
         "maxRetailPrice": 37.26,
         "maxPriceWithVAT": 43.9668
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.789819"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.003357"
   }
 }

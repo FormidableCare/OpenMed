@@ -31,10 +31,7 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 49.0865931,
         "maxPriceWithVAT": 57.92217728
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:02:15.256914",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.902204",
     "tags": [
       "needs_manual_review"
     ],

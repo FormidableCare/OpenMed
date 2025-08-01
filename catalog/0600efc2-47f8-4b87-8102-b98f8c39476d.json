@@ -31,10 +31,7 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -52,11 +49,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 255.200835,
         "maxPriceWithVAT": 301.1369853
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.927779"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.668637"
   }
 }

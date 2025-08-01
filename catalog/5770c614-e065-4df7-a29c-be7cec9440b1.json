@@ -31,10 +31,7 @@
         "name": "דר סמואלוב",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,12 +50,13 @@
         "retailMargin": "",
         "maxRetailPrice": 39.49,
         "maxPriceWithVAT": 46.5982
-      }
+      },
+      "formulation": "tablet"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:40:05.138724",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.604057",
     "tags": [
       "needs_manual_review"
     ],

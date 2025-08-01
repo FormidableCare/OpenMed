@@ -31,10 +31,7 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +51,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 403.5981627,
         "maxPriceWithVAT": 476.2458108
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.492397"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.911492"
   }
 }

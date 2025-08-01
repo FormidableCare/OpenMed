@@ -25,10 +25,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 27647.31861,
         "maxPriceWithVAT": 32623.83451,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.879546",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.538239",
     "tags": [
       "failed_il_drug_match"
     ]

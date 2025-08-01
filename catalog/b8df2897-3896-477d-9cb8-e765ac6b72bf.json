@@ -31,10 +31,7 @@
         "name": "פארמהמדיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -54,12 +51,13 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 98.4564522,
         "maxPriceWithVAT": 116.1786084
-      }
+      },
+      "formulation": "injection"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:33:10.204104",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.830974",
     "tags": [
       "needs_manual_review"
     ],

@@ -31,10 +31,7 @@
         "name": "ליף-טרי אוף ליף",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": "",
         "maxRetailPrice": 25.64,
         "maxPriceWithVAT": 30.2552
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.097543"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.884471"
   }
 }

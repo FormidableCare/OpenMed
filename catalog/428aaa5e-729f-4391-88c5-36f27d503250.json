@@ -31,10 +31,7 @@
         "name": "ליברה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 33.73551931,
         "maxPriceWithVAT": 39.80791102
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T17:00:55.449432",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.658523",
     "tags": [
       "needs_manual_review"
     ],

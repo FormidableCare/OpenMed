@@ -25,10 +25,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 38.724557,
         "maxPriceWithVAT": 45.69497726,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.197082",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.472004",
     "tags": [
       "failed_il_drug_match"
     ]

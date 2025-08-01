@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 72.75857918,
         "maxPriceWithVAT": 85.85511961
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.509313"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.660164"
   }
 }

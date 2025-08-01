@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 140.8926409,
         "maxPriceWithVAT": 166.2533088
-      }
+      },
+      "formulation": "capsule"
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.911903"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.322414"
   }
 }

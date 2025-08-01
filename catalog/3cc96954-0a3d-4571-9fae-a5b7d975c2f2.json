@@ -31,10 +31,7 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 2.5,
         "unit": "units"
@@ -53,11 +50,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 34.095875,
         "maxPriceWithVAT": 40.2331325
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.293903"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.131733"
   }
 }

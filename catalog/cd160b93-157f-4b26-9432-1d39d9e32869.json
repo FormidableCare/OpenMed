@@ -31,10 +31,7 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,12 +50,13 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 54699.43821,
         "maxPriceWithVAT": 64545.33421
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T17:49:30.701615",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.726546",
     "tags": [
       "needs_manual_review"
     ],

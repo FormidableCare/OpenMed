@@ -25,10 +25,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 16.1,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 53.462136,
         "maxPriceWithVAT": 63.08532048,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.573849",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.070415",
     "tags": [
       "failed_il_drug_match"
     ]

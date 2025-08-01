@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 36.64710529,
         "maxPriceWithVAT": 43.24358232
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.020909"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.299100"
   }
 }

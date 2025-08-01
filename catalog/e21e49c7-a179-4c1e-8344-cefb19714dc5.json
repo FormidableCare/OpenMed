@@ -25,10 +25,7 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -48,11 +45,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 792.8663341,
         "maxPriceWithVAT": 935.5822326
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.279702"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.844924"
   }
 }

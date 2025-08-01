@@ -25,10 +25,16 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 5000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -48,12 +54,13 @@
         "maxRetailPrice": 985.7992675,
         "maxPriceWithVAT": 1163.243136,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.777629",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.605788",
     "tags": [
       "failed_il_drug_match"
     ]

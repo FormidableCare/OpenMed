@@ -25,10 +25,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 11.25,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -48,12 +50,13 @@
         "maxRetailPrice": 1134.532264,
         "maxPriceWithVAT": 1338.748012,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.990475",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.909796",
     "tags": [
       "failed_il_drug_match"
     ]

@@ -31,10 +31,12 @@
         "name": "טרוסטפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +55,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 69.41908823,
         "maxPriceWithVAT": 81.91452046
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.985865"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.704534"
   }
 }

@@ -31,10 +31,7 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2631.158554,
         "maxPriceWithVAT": 3104.766956
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T15:20:29.303030",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.781966",
     "tags": [
       "smart_validation_failed",
       "best_score_0.01",

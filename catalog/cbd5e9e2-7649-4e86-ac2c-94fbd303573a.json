@@ -25,10 +25,12 @@
         "name": "אבוט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -49,11 +51,12 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 16.072977,
         "maxPriceWithVAT": 18.96611286
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.130664"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.975878"
   }
 }

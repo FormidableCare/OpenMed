@@ -25,10 +25,12 @@
         "name": "גרמזה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 325.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -46,12 +48,13 @@
         "maxRetailPrice": 42.29,
         "maxPriceWithVAT": 49.9022,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.286517",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.822092",
     "tags": [
       "failed_il_drug_match"
     ]

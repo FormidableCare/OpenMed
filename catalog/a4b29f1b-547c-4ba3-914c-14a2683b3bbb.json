@@ -25,10 +25,20 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -48,12 +58,13 @@
         "maxRetailPrice": 1941.67655,
         "maxPriceWithVAT": 2291.178329,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.880569",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.155621",
     "tags": [
       "failed_il_drug_match"
     ]

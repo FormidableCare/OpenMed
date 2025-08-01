@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,11 +57,12 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 55.96222951,
         "maxPriceWithVAT": 66.03542789
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.080575"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.408300"
   }
 }

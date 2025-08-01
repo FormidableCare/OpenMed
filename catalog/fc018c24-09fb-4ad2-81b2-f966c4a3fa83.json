@@ -25,10 +25,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -48,11 +50,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2601.815486,
         "maxPriceWithVAT": 3070.142136
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.428903"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.038413"
   }
 }

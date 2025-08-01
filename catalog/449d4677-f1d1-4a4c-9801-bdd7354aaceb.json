@@ -25,10 +25,7 @@
         "name": "מנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -47,11 +44,12 @@
         "retailMargin": "",
         "maxRetailPrice": 35.81,
         "maxPriceWithVAT": 42.2558
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.335278"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.927152"
   }
 }

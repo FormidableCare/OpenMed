@@ -25,10 +25,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -48,12 +58,13 @@
         "maxRetailPrice": 40.52477879,
         "maxPriceWithVAT": 47.81923684,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.380603",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:50.682911",
     "tags": [
       "failed_il_drug_match"
     ]

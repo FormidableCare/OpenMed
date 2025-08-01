@@ -25,10 +25,20 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -42,12 +52,13 @@
         "moh": "7598"
       },
       "manufacturersAdministrationRecommendation": "",
-      "pricing": {}
+      "pricing": {},
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.887461",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:53.305341",
     "tags": [
       "failed_il_drug_match"
     ]

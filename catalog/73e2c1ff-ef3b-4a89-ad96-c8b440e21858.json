@@ -25,10 +25,16 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -48,12 +54,13 @@
         "maxRetailPrice": 340.9458837,
         "maxPriceWithVAT": 402.3161248,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.597272",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.202884",
     "tags": [
       "failed_il_drug_match"
     ]

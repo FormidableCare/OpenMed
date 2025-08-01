@@ -31,10 +31,20 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -54,11 +64,12 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 724.2227944,
         "maxPriceWithVAT": 854.5828594
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.068971"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.006283"
   }
 }

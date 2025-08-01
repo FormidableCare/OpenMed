@@ -25,10 +25,12 @@
         "name": "אומריקס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -49,11 +51,12 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 13906.13654,
         "maxPriceWithVAT": 16409.24039
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.989450"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.936513"
   }
 }

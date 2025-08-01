@@ -31,10 +31,7 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,12 +52,13 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 249.81299,
         "maxPriceWithVAT": 294.7793282
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T16:23:51.775804",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.372042",
     "tags": [
       "needs_manual_review"
     ],

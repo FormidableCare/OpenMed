@@ -31,10 +31,7 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -52,11 +49,12 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 154.9786835,
         "maxPriceWithVAT": 182.8748384
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.366105"
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:52.037496"
   }
 }

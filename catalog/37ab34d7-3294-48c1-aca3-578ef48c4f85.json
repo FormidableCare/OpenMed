@@ -25,10 +25,7 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -48,12 +45,13 @@
         "maxRetailPrice": 49.311917,
         "maxPriceWithVAT": 58.18806206,
         "currency": "ILS"
-      }
+      },
+      "formulation": ""
     }
   ],
   "metadata": {
-    "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.236713",
+    "version": "1.5",
+    "lastUpdated": "2025-08-01T18:03:51.056584",
     "tags": [
       "failed_il_drug_match"
     ]
