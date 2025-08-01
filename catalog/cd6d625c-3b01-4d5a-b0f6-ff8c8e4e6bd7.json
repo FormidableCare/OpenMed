@@ -1,10 +1,10 @@
 {
   "catalogId": "cd6d625c-3b01-4d5a-b0f6-ff8c8e4e6bd7",
-  "name": "TRELEGY ELLIPTA 184 / 55 / 22 MCG",
+  "name": "TRELEGY ELLIPTA 92 / 55 / 22 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 61 36629 99",
+  "registrationNumber": "160 84 35372 00",
   "treatmentDescriptions": "AsthmaTrelegy Ellipta 184/55/22 mcg is indicated for the maintenance treatment of asthma in patients aged 18 years and older. Trelegy Ellipta 184/55/22 mcg should be prescribed for patients who are not adequately controlled on maintenance asthma medication, such as an ICS/LABA.Important Limitations of UseTrelegy Ellipta 184/55/22 mcg is NOT indicated for the relief of acute asthma.Trelegy Ellipta 184/55/22 mcg is not indicated for patients with COPD.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation pre-dispensed",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 22.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.166170"
-  }
+    "lastUpdated": "2025-08-01T16:29:52.625597",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRELEGY ELLIPTA 92/55/22 MCG PWDR FOR INH 30DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:29:52.625604",
+      "previousRegistration": "168 61 36629 99",
+      "newRegistration": "160 84 35372 00",
+      "apiSource": "TRELEGY ELLIPTA 92 / 55 / 22 MCG"
+    }
+  },
+  "nameHebrew": "טרלג'י אליפטה 22 / 55 / 92 מק\"ג",
+  "registrationDate": "2023-09-30"
 }

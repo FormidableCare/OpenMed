@@ -31,10 +31,12 @@
         "name": "מדומי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.089140"
-  }
+    "lastUpdated": "2025-08-01T17:44:32.649397",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOLTERODINE E.R. MEDOMIE 2 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:44:32.649402",
+      "previousRegistration": "174 90 36958 99",
+      "newRegistration": "174 90 36958 99",
+      "apiSource": "TOLTERODINE E.R. MEDOMIE 2 MG"
+    }
+  },
+  "nameHebrew": "טולטרודין אי.אר. מדומי 2 מ\"ג",
+  "registrationDate": "2023-10-30"
 }

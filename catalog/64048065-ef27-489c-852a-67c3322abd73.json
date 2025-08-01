@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.503582"
+    "lastUpdated": "2025-08-01T16:55:19.038405",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LERCAPRESS 10",
+        "registration": "141 51 31848 01",
+        "form": ""
+      },
+      {
+        "name": "LERCAPRESS 20",
+        "registration": "143 67 32975 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LERCAPRESS 10MG 30 FC TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

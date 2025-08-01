@@ -1,10 +1,10 @@
 {
   "catalogId": "bb46c927-9b14-40f1-b281-63359d8e20ad",
-  "name": "COUMADIN 1 MG",
+  "name": "COUMADIN 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "111 43 29373 00",
+  "registrationNumber": "111 44 29374 00",
   "treatmentDescriptions": "Coumadin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, and pulmonary embolism. Coumadin is indicated for the prophylaxis and/or treatment of the thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement. Coumadin is indicated to reduce the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.031984"
-  }
+    "lastUpdated": "2025-08-01T17:26:49.800794",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "COUMADIN 2MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:26:49.800804",
+      "previousRegistration": "111 43 29373 00",
+      "newRegistration": "111 44 29374 00",
+      "apiSource": "COUMADIN 2 MG"
+    }
+  },
+  "nameHebrew": "קומדין 2 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

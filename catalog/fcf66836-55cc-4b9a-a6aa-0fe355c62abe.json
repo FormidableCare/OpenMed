@@ -31,10 +31,12 @@
         "name": "פרופארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4000.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.434200"
+    "lastUpdated": "2025-08-01T16:10:08.272843",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GIROFLOX",
+        "registration": "133 31 30984 00",
+        "form": ""
+      },
+      {
+        "name": "NAFLOXIN",
+        "registration": "155 32 34358 00",
+        "form": ""
+      },
+      {
+        "name": "CETRAXAL",
+        "registration": "148 13 33374 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CIPROFLOXACIN I.V G.E.S. 2 MG/ML 200 ML 20 BAGS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.023076923076923078,
+      "status": "failed_match"
+    }
   }
 }

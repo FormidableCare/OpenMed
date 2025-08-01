@@ -31,10 +31,16 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +66,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.057863"
+    "lastUpdated": "2025-08-01T17:06:54.157579",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HYQVIA",
+        "registration": "160 21 35267 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HYQVIA 1vial normal  10g/100ml + 1vial recombinant 5ml",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

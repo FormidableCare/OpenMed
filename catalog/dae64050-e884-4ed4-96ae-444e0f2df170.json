@@ -31,10 +31,16 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "g"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,11 +60,27 @@
         "retailMargin": "",
         "maxRetailPrice": 34.62,
         "maxPriceWithVAT": 40.8516
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.235764"
-  }
+    "lastUpdated": "2025-08-01T15:27:59.765497",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NUROFEN GEL 5% 50GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9875,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:27:59.765520",
+      "previousRegistration": "134 23 31074 00",
+      "newRegistration": "134 23 31074 00",
+      "apiSource": "NUROFEN GEL 5 %"
+    }
+  },
+  "nameHebrew": "נורופן ג'ל % 5",
+  "registrationDate": "2021-04-30"
 }

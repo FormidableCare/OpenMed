@@ -1,10 +1,10 @@
 {
   "catalogId": "ed9c8687-c29f-47a0-9ee7-259319c1cd76",
-  "name": "FLIXOTIDE DISKUS 100 MCG",
+  "name": "FLIXOTIDE INHALER CFC FREE 50 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "069 97 28478 00",
+  "registrationNumber": "131 50 31008 00",
   "treatmentDescriptions": "Prophylactic management of all grades of asthma.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.344891"
-  }
+    "lastUpdated": "2025-08-01T15:50:01.875253",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLIXOTIDE DISK 50MCG 60DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:50:01.875263",
+      "previousRegistration": "069 97 28478 00",
+      "newRegistration": "131 50 31008 00",
+      "apiSource": "FLIXOTIDE INHALER CFC FREE 50 MCG"
+    }
+  },
+  "nameHebrew": "פליקסוטייד משאף 50 מק\"ג ללא סי אף סי",
+  "registrationDate": "2024-08-31"
 }

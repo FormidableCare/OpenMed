@@ -1,10 +1,10 @@
 {
   "catalogId": "74582eb9-db07-4c60-a0f5-3006a992881f",
-  "name": "MEKINIST 0.5 MG",
+  "name": "MEKINIST 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 95 34309 00",
+  "registrationNumber": "154 96 34322 00",
   "treatmentDescriptions": "Trametinib as monotherapy or in combination with dabrafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation. Trametinib monotherapy has not demonstrated clinical activity in patients who have progressed on a prior BRAF inhibitor therapy. Non-small cell lung cancer (NSCLC) :Trametinib in combination with dabrafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.Adjuvant treatment of melanoma :Trametinib in combination with dabrafenib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection.BRAF V600E Mutation-Positive Locally Advanced or Metastatic Anaplastic Thyroid CancerTAFINLAR is indicated, in combination with trametinib, for the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment optionsBRAF V600E Mutation-Positive Unresectable or Metastatic Solid TumorsMekinist is indicated, in combination with dabrafenib, for the treatment of adult and pediatric patients 6 years of age and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. Limitations of Use: Trametinib is not indicated for treatment of patients with colorectal cancer because of known intrinsic resistance to BRAF inhibitionTrametinib is indicated, in combination with dabrafenib, for the treatment of pediatric patients 6 year of age and older with low-grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.600797"
-  }
+    "lastUpdated": "2025-08-01T15:44:45.323636",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MEKINIST 2 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:44:45.323649",
+      "previousRegistration": "154 95 34309 00",
+      "newRegistration": "154 96 34322 00",
+      "apiSource": "MEKINIST 2 MG"
+    }
+  },
+  "nameHebrew": "מקיניסט 2 מ\"ג",
+  "registrationDate": "2020-10-31"
 }

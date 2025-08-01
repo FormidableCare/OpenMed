@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.340352"
+    "lastUpdated": "2025-08-01T15:47:38.194537",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ORACORT E",
+        "registration": "037 10 22812 00",
+        "form": ""
+      },
+      {
+        "name": "ORACORT",
+        "registration": "016 08 24803 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ORACORT E PASTE 5G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

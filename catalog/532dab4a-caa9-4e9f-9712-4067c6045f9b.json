@@ -31,10 +31,16 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +66,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.407165"
+    "lastUpdated": "2025-08-01T15:50:46.002567",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACYCLO-V 200",
+        "registration": "118 62 28104 00",
+        "form": ""
+      },
+      {
+        "name": "ACYCLO-V 400",
+        "registration": "118 63 28105 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACYCLOVENIR 250MG 5VIAL/10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.114339"
+    "lastUpdated": "2025-08-01T16:23:04.509694",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GLIADEL",
+        "registration": "110 34 29392 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CARMUSTINE 100 MG/VIAL 1VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

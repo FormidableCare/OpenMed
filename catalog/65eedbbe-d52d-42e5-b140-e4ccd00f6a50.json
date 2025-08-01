@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 16.871276,
         "maxPriceWithVAT": 19.90810568
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.517048"
+    "lastUpdated": "2025-08-01T15:40:14.108838",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMOVATE OINTMENT",
+        "registration": "027 57 22063 00",
+        "form": ""
+      },
+      {
+        "name": "DERMOVATE CREAM",
+        "registration": "059 85 22064 00",
+        "form": ""
+      },
+      {
+        "name": "DERMOVATE SCALP APPLICATION",
+        "registration": "046 92 23798 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMOVATE CREAM 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.18333333333333332,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "cbf47b53-a4f9-49ba-bd8c-4e0c79f07f1e",
-  "name": "VYVANSE 30 MG",
+  "name": "VYVANSE 70 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 19 33994 00",
+  "registrationNumber": "153 21 34000 00",
   "treatmentDescriptions": "Vyvanse is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients ages 6 years and above.Vyvanse is indicated for the treatment of  Moderate to Severe Binge Eating Disorder (BED) for patient over 18 years.Limitation of Use:Vyvanse is not indicated or recommended for weight loss. Use of other sympathomimetic drugs for weight loss has been associated with serious cardiovascular adverse events. The safety and effectiveness of Vyvanse for the treatment of obesity have not been established",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 70.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.131560"
-  }
+    "lastUpdated": "2025-08-01T17:54:13.884249",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VYVANSE 70MG 30CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:54:13.884257",
+      "previousRegistration": "153 19 33994 00",
+      "newRegistration": "153 21 34000 00",
+      "apiSource": "VYVANSE 70 MG"
+    }
+  },
+  "nameHebrew": "ויואנס 70 מ\"ג",
+  "registrationDate": "2019-12-31"
 }

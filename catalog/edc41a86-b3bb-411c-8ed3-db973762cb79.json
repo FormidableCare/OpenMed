@@ -1,10 +1,10 @@
 {
   "catalogId": "edc41a86-b3bb-411c-8ed3-db973762cb79",
-  "name": "REPHENIDATE LA 10 MG MODIFIED-RELEASE CAPSULES",
+  "name": "REPHENIDATE 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 55 37007 99",
+  "registrationNumber": "157 18 34355 00",
   "treatmentDescriptions": "Attention deficit hyperactivity disorder (ADHD)",
   "termsOfIssue": "Prescription required",
   "form": "modified release capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.345779"
-  }
+    "lastUpdated": "2025-08-01T17:41:31.644216",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REPHENIDATE LA 10 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:41:31.644232",
+      "previousRegistration": "170 55 37007 99",
+      "newRegistration": "157 18 34355 00",
+      "apiSource": "REPHENIDATE 10 MG"
+    }
+  },
+  "nameHebrew": "רפנידאט 10 מ\"ג",
+  "registrationDate": "2021-09-30"
 }

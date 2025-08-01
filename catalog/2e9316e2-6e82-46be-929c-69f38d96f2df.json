@@ -57,6 +57,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.188910"
+    "lastUpdated": "2025-08-01T17:07:55.264253",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AKEEGA 100/500",
+        "registration": "175 83 37789 99",
+        "form": ""
+      },
+      {
+        "name": "AKEEGA 50/500",
+        "registration": "175 82 37788 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "AKEEGA 100/500 56 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

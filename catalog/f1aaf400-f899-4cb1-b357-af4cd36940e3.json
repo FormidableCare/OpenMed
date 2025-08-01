@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.367487"
-  }
+    "lastUpdated": "2025-08-01T15:55:41.440571",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ATTENT XR 30 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:41.440578",
+      "previousRegistration": "170 94 35998 00",
+      "newRegistration": "170 94 35998 00",
+      "apiSource": "ATTENT XR 30 MG"
+    }
+  },
+  "nameHebrew": "אטנט אקס. אר 30 מ\"ג",
+  "registrationDate": "2022-11-21"
 }

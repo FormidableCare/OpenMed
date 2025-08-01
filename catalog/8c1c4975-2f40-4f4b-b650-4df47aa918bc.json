@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.752198"
-  }
+    "lastUpdated": "2025-08-01T16:25:47.001410",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ORENCIA 125MG SC 125MG/ML 4 SYR PREFILLED (1ML)",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:25:47.001427",
+      "previousRegistration": "149 54 33788 00",
+      "newRegistration": "149 54 33788 00",
+      "apiSource": "ORENCIA 125 MG SC"
+    }
+  },
+  "nameHebrew": "אורנסיה 125 מ\"ג תת - עורי",
+  "registrationDate": "2018-03-31"
 }

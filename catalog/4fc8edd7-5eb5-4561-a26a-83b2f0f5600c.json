@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.386376"
+    "lastUpdated": "2025-08-01T16:07:02.328540",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MESNA-CELL 100 MG/ML",
+        "registration": "154 04 34131 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MESNA-CELL 100 MG/ML 50 ML 1VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03571428571428572,
+      "status": "failed_match"
+    }
   }
 }

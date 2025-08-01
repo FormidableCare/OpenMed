@@ -1,10 +1,10 @@
 {
   "catalogId": "8b1c7105-e527-4523-bc50-9d3bf333bbbf",
-  "name": "CASPOVIDAE 50 MG",
+  "name": "CASPOVIDAE 70 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 22 35317 00",
+  "registrationNumber": "163 23 35318 00",
   "treatmentDescriptions": "Indicated in adults and pediatric patients (3 months and older) for: - Empirical therapy for presumed fungal infections in febrile, neutropenic patients.- Treatment of candidemia and the following candida infections: intra-abdominal abscesses, peritonitis and pleural space infections. Has not been studied in endocarditis, ostemyelitis, and meningitis due to Candida.- Treatment of esophageal candidiasis.- Treatment of invasive aspergillosis in patients who are refractory to or intolerant to other therapies (i.e. amphotericin B, lipid formulations of amphotericin B, and/or itraconazole). Has not been studied as initial therapy for invasive aspergillosis.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 70.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.746490"
-  }
+    "lastUpdated": "2025-08-01T15:34:58.209321",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CASPOVIDAE 70 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:58.209338",
+      "previousRegistration": "163 22 35317 00",
+      "newRegistration": "163 23 35318 00",
+      "apiSource": "CASPOVIDAE 70 MG"
+    }
+  },
+  "nameHebrew": "קספווידה 70 מ\"ג",
+  "registrationDate": "2024-12-31"
 }

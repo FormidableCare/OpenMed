@@ -1,10 +1,10 @@
 {
   "catalogId": "e47f44b4-60d2-4bd1-a58b-1c0edba1477f",
-  "name": "FLUCONAZOLE MBI 2 MG/ ML",
+  "name": "TRICAN 200 MG CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 92 35274 00",
+  "registrationNumber": "118 50 29947 00",
   "treatmentDescriptions": "Fluconazole is indicated in the following fungal infections (see section 5.1). Fluconazole is indicated in adults for the treatment of:•\tCryptococcal meningitis (see section 4.4).•\tCoccidioidomycosis (see section 4.4).•\tInvasive candidiasis.•\tMucosal candidiasis (including oropharyngeal candidiasis, oesophageal candidiasis, candiduria and chronic mucocutaneous candidiasis).•\tChronic oral atrophic candidiasis (denture sore mouth) if dental hygiene or topical treatment are insufficient.Fluconazole is indicated in adults for the prophylaxis of:•\tRelapse of cryptococcal meningitis in patients with high risk of recurrence.•\tRelapse of oropharyngeal or oesophageal candidiasis in patients infected with HIV who are at high risk of experiencing relapse.•\tProphylaxis of candidal infections in patients with prolonged neutropenia (such as patients with haematological malignancies receiving chemotherapy or patients receiving Haematopoetic Stem Cell Transplantation (see section 5.1)).Fluconazole is indicated in term newborn infants, infants, toddlers, children and adolescents aged from 0 to 17 years old:Fluconazole is used for the treatment of mucosal candidiasis (oropharyngeal, oesophageal), invasive candidiasis, cryptococcal meningitis and the prophylaxis of candidal infections in immunocompromised patients. Fluconazole can be used as maintenance therapy to prevent relapse of cryptococcal meningitis in children with high risk of reoccurrence (see section 4.4).Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.Consideration should be given to official guidance on the appropriate use of antifungals.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5000.0,
         "unit": "units"
@@ -58,6 +68,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.294425"
-  }
+    "lastUpdated": "2025-08-01T15:33:02.372911",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLUCONAZOLE MBI 200MG/100ML 50  VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:33:02.372924",
+      "previousRegistration": "161 92 35274 00",
+      "newRegistration": "118 50 29947 00",
+      "apiSource": "TRICAN 200 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "טריקאן 200 מ\"ג קפסולות",
+  "registrationDate": "2020-04-30"
 }

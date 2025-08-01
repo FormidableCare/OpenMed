@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,11 +61,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.167022"
-  }
+    "lastUpdated": "2025-08-01T16:05:52.729665",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MENTAX CREAM 1% 10GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.175,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:05:52.729677",
+      "previousRegistration": "110 63 28947 00",
+      "newRegistration": "110 63 28947 00",
+      "apiSource": "MENTAX CREAM"
+    }
+  },
+  "nameHebrew": "מנטקס קרם",
+  "registrationDate": "2023-04-30"
 }

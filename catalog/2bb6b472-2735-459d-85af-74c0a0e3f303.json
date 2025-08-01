@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.168444"
+    "lastUpdated": "2025-08-01T17:02:15.306581",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EFEXOR XR 150",
+        "registration": "111 18 29395 00",
+        "form": ""
+      },
+      {
+        "name": "EFEXOR XR 150",
+        "registration": "111 18 29395 01",
+        "form": ""
+      },
+      {
+        "name": "EFEXOR XR 75",
+        "registration": "111 17 29394 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VENLA 75MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -54,6 +56,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.059764"
+    "lastUpdated": "2025-08-01T17:02:50.979292",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LICARBIUM",
+        "registration": "022 10 20683 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LICARBIUM 300MG 100T",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

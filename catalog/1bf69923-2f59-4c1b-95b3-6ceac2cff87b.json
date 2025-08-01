@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.069878"
-  }
+    "lastUpdated": "2025-08-01T16:43:06.901001",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KOVALTRY 1000 IU\t  \tVIAL 10 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:06.901010",
+      "previousRegistration": "158 45 34964 00",
+      "newRegistration": "158 45 34964 00",
+      "apiSource": "KOVALTRY 1000 IU"
+    }
+  },
+  "nameHebrew": "קובאלטרי IU 1000",
+  "registrationDate": "2022-04-30"
 }

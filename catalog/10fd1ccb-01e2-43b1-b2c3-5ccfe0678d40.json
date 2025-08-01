@@ -31,10 +31,16 @@
         "name": "קמהדע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 20.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,11 +60,35 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 149.07885,
         "maxPriceWithVAT": 175.9130352
-      }
+      },
+      "formulation": [
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.999476"
+    "lastUpdated": "2025-08-01T17:39:27.338566",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZENALB 20",
+        "registration": "137 74 31656 00",
+        "form": ""
+      },
+      {
+        "name": "ZENALB 4.5",
+        "registration": "137 73 31655 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZENALB 20% SOLUTION IV INF. 50ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 42.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 6267.673451,
         "maxPriceWithVAT": 7395.854344
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.953618"
-  }
+    "lastUpdated": "2025-08-01T15:30:25.183919",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KISQALI 200 MG 42 FC TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:30:25.183927",
+      "previousRegistration": "160 68 35298 00",
+      "newRegistration": "160 68 35298 00",
+      "apiSource": "KISQALI 200 MG"
+    }
+  },
+  "nameHebrew": "קיסקלי 200 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

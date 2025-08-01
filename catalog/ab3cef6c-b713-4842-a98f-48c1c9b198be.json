@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.920422"
-  }
+    "lastUpdated": "2025-08-01T16:58:35.339599",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ISOVENIR 10 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:58:35.339604",
+      "previousRegistration": "174 46 36774 99",
+      "newRegistration": "174 46 36774 99",
+      "apiSource": "ISOVENIR 10 MG"
+    }
+  },
+  "nameHebrew": "איזובניר 10 מ\"ג",
+  "registrationDate": "2023-09-21"
 }

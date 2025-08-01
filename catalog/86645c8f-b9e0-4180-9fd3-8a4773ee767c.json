@@ -1,10 +1,10 @@
 {
   "catalogId": "86645c8f-b9e0-4180-9fd3-8a4773ee767c",
-  "name": "FOSTIMON 150 IU",
+  "name": "FOSTIMON 75 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 16 30176 00",
+  "registrationNumber": "137 15 30175 00",
   "treatmentDescriptions": "A treatment with FSH followed by the administration of human chronic gonadotrophin (HCG) is indicated to induce ovulation in infertile women suffering from hypothalamus or hypophyseal disorders and in spanomenorrhoeic or amenorrhoeic women. These women belong to the WHO group II and have generally already been treated with clomiphene citrate. Most have polycystic ovarian syndrome. FSH offers good therapeutic prospects for patients whose LH:FSH ratio has to be adjusted, avoiding an exogenous supply of LH FSH may be used alone or in concomitance with human menopausal gonadotropin (HMG) in order to stimulate multiple follicular growth in patients involved in medically assisted reproduction programs (IVF-ET,GIFT).",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.720608"
-  }
+    "lastUpdated": "2025-08-01T16:40:27.646797",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FOSTIMON 75IU 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:27.646806",
+      "previousRegistration": "137 16 30176 00",
+      "newRegistration": "137 15 30175 00",
+      "apiSource": "FOSTIMON 75 IU"
+    }
+  },
+  "nameHebrew": "פוסטימון 75 IU",
+  "registrationDate": "2022-08-31"
 }

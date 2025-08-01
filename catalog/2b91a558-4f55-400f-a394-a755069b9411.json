@@ -1,10 +1,10 @@
 {
   "catalogId": "2b91a558-4f55-400f-a394-a755069b9411",
-  "name": "XYLOVIT 0.05%",
+  "name": "XYLOVIT 0.1%",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "062 58 27663 01",
+  "registrationNumber": "062 57 27664 01",
   "treatmentDescriptions": "Rapid relief of nasal congestion for up to 10 hours.",
   "termsOfIssue": "",
   "form": "drops+spray",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.1,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.166736"
-  }
+    "lastUpdated": "2025-08-01T16:20:02.705646",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XYLOVIT 0.1% DRP10ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:20:02.705653",
+      "previousRegistration": "062 58 27663 01",
+      "newRegistration": "062 57 27664 01",
+      "apiSource": "XYLOVIT 0.1%"
+    }
+  },
+  "nameHebrew": "קסילוויט % 0.1",
+  "registrationDate": "2024-01-31"
 }

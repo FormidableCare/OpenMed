@@ -1,10 +1,10 @@
 {
   "catalogId": "c35c96d4-5b71-47bf-ac98-bee1ba47892d",
-  "name": "OPTI GENTA",
+  "name": "GENTAMICIN PANPHARMA 80 MG/2 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "069 76 28591 00",
+  "registrationNumber": "163 10 35477 00",
   "treatmentDescriptions": "Infection of external eye and its adnexa caused by susceptible bacteria.",
   "termsOfIssue": "Prescription required",
   "form": "drops",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.083919"
-  }
+    "lastUpdated": "2025-08-01T17:15:02.097348",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GENTAMICIN TEVA 80 MG/2 ML 10 AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:15:02.097370",
+      "previousRegistration": "069 76 28591 00",
+      "newRegistration": "163 10 35477 00",
+      "apiSource": "GENTAMICIN PANPHARMA 80 MG/2 ML"
+    }
+  },
+  "nameHebrew": "גנטמיצין פאנפרמה 80מ\"ג/2מ\"ל",
+  "registrationDate": "2024-11-30"
 }

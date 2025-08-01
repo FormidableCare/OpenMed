@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.177462"
+    "lastUpdated": "2025-08-01T15:52:42.961806",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TRAMADEX OD 100",
+        "registration": "139 25 31580 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMADEX OD 200",
+        "registration": "139 26 31581 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMADEX OD 300",
+        "registration": "139 27 31582 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TRAMADEX 100MG 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

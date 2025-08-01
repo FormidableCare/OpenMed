@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -57,6 +67,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.183447"
-  }
+    "lastUpdated": "2025-08-01T15:30:49.922512",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PHENYTOIN 50MG/ML (100MG/2ML) 25AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:30:49.922518",
+      "previousRegistration": "104 27 24678 00",
+      "newRegistration": "104 27 24678 00",
+      "apiSource": "EPANUTIN 100 MG"
+    }
+  },
+  "nameHebrew": "אפנוטין 100 מ\"ג",
+  "registrationDate": "2022-01-31"
 }

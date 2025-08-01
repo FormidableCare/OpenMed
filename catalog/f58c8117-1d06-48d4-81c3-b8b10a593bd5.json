@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,24 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "mg"
+        },
+        {
+          "value": 6.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 8.0,
         "unit": "units"
@@ -60,6 +74,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.389996"
-  }
+    "lastUpdated": "2025-08-01T16:50:55.982612",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FANAPT 1MG*2TAB + 2MG*2TAB + 4MG*2TAB + 6MG*2TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:55.982628",
+      "previousRegistration": "148 32 33482 00",
+      "newRegistration": "148 32 33482 00",
+      "apiSource": "FANAPT TABLETS 1 MG"
+    }
+  },
+  "nameHebrew": "פנאפט טבליות 1 מג'",
+  "registrationDate": "2017-06-30"
 }

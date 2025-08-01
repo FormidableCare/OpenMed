@@ -1,10 +1,10 @@
 {
   "catalogId": "1dcaab8c-5195-461d-9f1a-01b8cc040280",
-  "name": "OZURDEX",
+  "name": "DEXAMETHASONE 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 03 33284 00",
+  "registrationNumber": "036 08 22562 00",
   "treatmentDescriptions": "Ozurdex is indicated for the treatment of adult patients with:• diabetic macular oedema (DME)• macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO).• inflammation of the posterior segment of the eye presenting as non-infectious uveitis.",
   "termsOfIssue": "Prescription required",
   "form": "implant in applicator",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.083203"
-  }
+    "lastUpdated": "2025-08-01T16:35:14.357263",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DEXAMETHASONE 2MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:35:14.357293",
+      "previousRegistration": "147 03 33284 00",
+      "newRegistration": "036 08 22562 00",
+      "apiSource": "DEXAMETHASONE 2 MG"
+    }
+  },
+  "nameHebrew": "דקסמטזון 2 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

@@ -25,10 +25,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 240.0,
+          "unit": "mg"
+        },
+        {
+          "value": 3.0,
+          "unit": "ml"
+        },
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,6 +63,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.385382"
+    "lastUpdated": "2025-08-01T17:47:25.771780",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CUROSURF",
+        "registration": "068 79 28250 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CUROSURF 240 MG/3 ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

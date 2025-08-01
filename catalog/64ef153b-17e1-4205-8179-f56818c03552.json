@@ -1,10 +1,10 @@
 {
   "catalogId": "64ef153b-17e1-4205-8179-f56818c03552",
-  "name": "ELIQUIS 2.5 MG",
+  "name": "ELIQUIS 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 31 33496 00",
+  "registrationNumber": "149 25 33844 01",
   "treatmentDescriptions": "Prevention of venous thromboembolic events (VTE) in adult patients who have undergone elective hip or knee replacement surgery.Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischaemic attack (TIA); age&#8805; 75 years; hypertension; diabetes mellitus; symptomatic heart failure (NYHA Class &#8805; II).Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.510985"
-  }
+    "lastUpdated": "2025-08-01T17:29:19.594938",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ELIQUIS 5 MG 60 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:29:19.594948",
+      "previousRegistration": "148 31 33496 00",
+      "newRegistration": "149 25 33844 01",
+      "apiSource": "ELIQUIS 5 MG"
+    }
+  },
+  "nameHebrew": "אליקוויס 5 מ\"ג",
+  "registrationDate": "2018-01-31"
 }

@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.764463"
+    "lastUpdated": "2025-08-01T17:16:37.981282",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ONGENTYS 50 MG",
+        "registration": "170 17 37081 99",
+        "form": ""
+      },
+      {
+        "name": "ENTACAPONE MEDOCHEMIE",
+        "registration": "160 98 35150 00",
+        "form": ""
+      },
+      {
+        "name": "APO-GO",
+        "registration": "128 26 30682 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "APO METHYL DOPA 250MG 1TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

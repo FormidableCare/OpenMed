@@ -1,10 +1,10 @@
 {
   "catalogId": "33f7cab9-e3d0-4d14-be83-6d9dd11fbb33",
-  "name": "RIVAROXABAN S.K. 10 MG",
+  "name": "XARELTO 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 37 36327 00",
+  "registrationNumber": "147 45 33579 00",
   "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), in adults (following completion of at least 6 months therapy for DVT or PE).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.216770"
-  }
+    "lastUpdated": "2025-08-01T16:29:24.824285",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIVAROXABAN S.K. 20 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:29:24.824305",
+      "previousRegistration": "170 37 36327 00",
+      "newRegistration": "147 45 33579 00",
+      "apiSource": "XARELTO 20 MG"
+    }
+  },
+  "nameHebrew": "קסרלטו 20 מ\"ג",
+  "registrationDate": "2017-01-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "1539ebef-49c2-4a4d-a977-b8650c97e49a",
-  "name": "AMISULPRIDE MEDO 100 MG",
+  "name": "AMISULPRIDE MEDO 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "178 82 37379 99",
+  "registrationNumber": "178 83 37380 99",
   "treatmentDescriptions": "Treatment of schizophrenia .",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.028000"
-  }
+    "lastUpdated": "2025-08-01T16:49:46.346265",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PRIDE 400 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:46.346282",
+      "previousRegistration": "178 82 37379 99",
+      "newRegistration": "178 83 37380 99",
+      "apiSource": "AMISULPRIDE MEDO 400 MG"
+    }
+  },
+  "nameHebrew": "אמיסולפריד מדו 400 מ\"ג",
+  "registrationDate": "2025-01-28"
 }

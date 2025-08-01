@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.331545"
+    "lastUpdated": "2025-08-01T17:04:38.662029",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ETOPAN XL 500",
+        "registration": "128 08 30651 00",
+        "form": ""
+      },
+      {
+        "name": "ETOPAN 200",
+        "registration": "105 70 29074 00",
+        "form": ""
+      },
+      {
+        "name": "ETOPAN 300",
+        "registration": "105 71 29075 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ETOPAN 500MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

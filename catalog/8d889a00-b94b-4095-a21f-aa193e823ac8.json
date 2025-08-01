@@ -1,10 +1,10 @@
 {
   "catalogId": "8d889a00-b94b-4095-a21f-aa193e823ac8",
-  "name": "ARCOXIA 120 MG TABLETS",
+  "name": "ARCOXIA 90 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "129 44 30788 11",
+  "registrationNumber": "129 43 30787 11",
   "treatmentDescriptions": "Arcoxia 120 mg tablets are indicated for the symptomatic relief of the pain and signs of inflammation associated with acute gouty arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 90.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.759323"
-  }
+    "lastUpdated": "2025-08-01T15:57:27.565686",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARCOXIA 90 MG 14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:27.565699",
+      "previousRegistration": "129 44 30788 11",
+      "newRegistration": "129 43 30787 11",
+      "apiSource": "ARCOXIA 90 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ארקוקסיה 90 מ\"ג טבליות",
+  "registrationDate": "2023-10-31"
 }

@@ -31,10 +31,16 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 250.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.598404"
+    "lastUpdated": "2025-08-01T17:23:48.012719",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NOVOEIGHT 1000 IU",
+        "registration": "154 52 34374 00",
+        "form": ""
+      },
+      {
+        "name": "NOVOEIGHT 2000 IU",
+        "registration": "154 54 34376 00",
+        "form": ""
+      },
+      {
+        "name": "NOVOEIGHT 500 IU",
+        "registration": "154 51 34373 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NOVOEIGHT 250 IU/4 ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21250000000000002,
+      "status": "failed_match"
+    }
   }
 }

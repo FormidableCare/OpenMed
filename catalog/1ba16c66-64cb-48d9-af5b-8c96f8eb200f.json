@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.067652"
-  }
+    "lastUpdated": "2025-08-01T16:11:22.902343",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SPECTRACEF 200 MG 20 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:11:22.902359",
+      "previousRegistration": "166 36 36015 00",
+      "newRegistration": "166 36 36015 00",
+      "apiSource": "SPECTRACEF 200 MG"
+    }
+  },
+  "nameHebrew": "ספקטרצף 200 מ\"ג",
+  "registrationDate": "2020-12-28"
 }

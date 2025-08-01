@@ -31,10 +31,20 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 12.5,
+          "unit": "mg"
+        },
+        {
+          "value": 0.25,
+          "unit": "ml"
+        },
+        {
+          "value": 0.25,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +68,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.072673"
+    "lastUpdated": "2025-08-01T15:50:28.901957",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "METOJECT 50 MG/ML S.C",
+        "registration": "145 34 33074 04",
+        "form": ""
+      },
+      {
+        "name": "METOJECT PEN 50 MG/ML",
+        "registration": "157 61 34519 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "METOJECT 50MG/ML SYRINGE PREFILLED 12.5MG/0.25ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

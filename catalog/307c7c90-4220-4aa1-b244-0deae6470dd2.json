@@ -1,10 +1,10 @@
 {
   "catalogId": "307c7c90-4220-4aa1-b244-0deae6470dd2",
-  "name": "CURATANE 10 MG",
+  "name": "CURATANE 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "136 12 30295 00",
+  "registrationNumber": "139 24 31621 00",
   "treatmentDescriptions": "For the treatment of severe cystic acne that does not respond to other treatment.",
   "termsOfIssue": "Prescription required",
   "form": "capsules soft gelatin",
@@ -25,10 +25,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,6 +55,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.199645"
-  }
+    "lastUpdated": "2025-08-01T17:03:03.483623",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CURATANE 40 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:03:03.483631",
+      "previousRegistration": "136 12 30295 00",
+      "newRegistration": "139 24 31621 00",
+      "apiSource": "CURATANE 40 MG"
+    }
+  },
+  "nameHebrew": "קיורטן 40 מ\"ג",
+  "registrationDate": "2020-11-30"
 }

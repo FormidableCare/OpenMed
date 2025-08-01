@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.231986"
-  }
+    "lastUpdated": "2025-08-01T17:46:35.689389",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUCCOLAM 10 MG SYRINGE PREFILLED 4X2ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:46:35.689398",
+      "previousRegistration": "149 81 33746 07",
+      "newRegistration": "149 81 33746 07",
+      "apiSource": "BUCCOLAM 10 MG"
+    }
+  },
+  "nameHebrew": "בוקולאם 10 מ\"ג",
+  "registrationDate": "2018-04-30"
 }

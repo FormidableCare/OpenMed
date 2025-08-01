@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.895512"
+    "lastUpdated": "2025-08-01T16:32:53.867901",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACAMOL",
+        "registration": "020 16 20534 00",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL",
+        "registration": "128 74 25337 08",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL ® TEVA TABLETS",
+        "registration": "176 60 36645 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACAMOL 500MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.085536"
+    "lastUpdated": "2025-08-01T16:12:27.668615",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TYVASO",
+        "registration": "144 71 33077 01",
+        "form": ""
+      },
+      {
+        "name": "TYVASO",
+        "registration": "144 71 33077 00",
+        "form": ""
+      },
+      {
+        "name": "TREPROSTINIL S.K. 10 MG/ML",
+        "registration": "162 27 35642 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TREPROSTINIL S.K. 10 MG/ML 20 ML 1VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.037500000000000006,
+      "status": "failed_match"
+    }
   }
 }

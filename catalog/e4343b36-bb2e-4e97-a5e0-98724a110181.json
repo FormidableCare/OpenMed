@@ -1,10 +1,10 @@
 {
   "catalogId": "e4343b36-bb2e-4e97-a5e0-98724a110181",
-  "name": "TEPADINA 100 MG",
+  "name": "TEPADINA 15 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 18 34230 03",
+  "registrationNumber": "154 17 34234 03",
   "treatmentDescriptions": "TEPADINA is indicated, in combination with other chemotherapy medicinal products:1. with or without total body irradiation (TBI), as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients;2.  when high dose chemotherapy with HPCT support is appropriate for the treatment of solid tumours in adult and paediatric patients.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.292325"
-  }
+    "lastUpdated": "2025-08-01T16:26:53.148429",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TEPADINA 15MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:26:53.148441",
+      "previousRegistration": "154 18 34230 03",
+      "newRegistration": "154 17 34234 03",
+      "apiSource": "TEPADINA 15 MG"
+    }
+  },
+  "nameHebrew": "טפדינה 15 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

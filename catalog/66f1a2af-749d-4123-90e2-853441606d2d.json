@@ -31,10 +31,12 @@
         "name": "מכבי קאר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.525621"
+    "lastUpdated": "2025-08-01T16:06:00.664873",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MUCOLESS SOLUTION",
+        "registration": "135 11 31423 00",
+        "form": ""
+      },
+      {
+        "name": "MUCOLESS TABLETS",
+        "registration": "135 29 31433 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MUCOLESS 8MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

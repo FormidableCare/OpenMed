@@ -1,10 +1,10 @@
 {
   "catalogId": "429d8021-781e-4067-906f-02526c2fe4f5",
-  "name": "JANUET XR 50/1000 MG TABLETS",
+  "name": "JANUET 50 MG/1000 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "151 32 33933 02",
+  "registrationNumber": "139 88 31705 14",
   "treatmentDescriptions": "Januet XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both sitagliptin and metformin extended-release is appropriate",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.323292"
-  }
+    "lastUpdated": "2025-08-01T15:42:04.736210",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JANUET 50/1000 MG 56TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:42:04.736218",
+      "previousRegistration": "151 32 33933 02",
+      "newRegistration": "139 88 31705 14",
+      "apiSource": "JANUET 50 MG/1000 MG"
+    }
+  },
+  "nameHebrew": "ג'נואט 50 מ\"ג / 1000 מ\"ג",
+  "registrationDate": "2023-11-30"
 }

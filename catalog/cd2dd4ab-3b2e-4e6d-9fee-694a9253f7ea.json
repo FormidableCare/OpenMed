@@ -1,10 +1,10 @@
 {
   "catalogId": "cd2dd4ab-3b2e-4e6d-9fee-694a9253f7ea",
-  "name": "CRYSVITA 10 MG",
+  "name": "CRYSVITA 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 58 35724 00",
+  "registrationNumber": "164 60 35726 00",
   "treatmentDescriptions": "CRYSVITA is indicated for the treatment of X-linked hypophosphatemia (XLH) in adult and paediatric patients 6 months of age and olderTumor-induced OsteomalaciaCRYSVITA is indicated for the treatment of FGF23 - related hypophosphatemia in tumor - induced osteomalacia (TIO) associated with phosphaturic mesenchymal tumors that cannot be curatively resected or localized in adult and pediatric patients 2 years of age and older.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.156823"
-  }
+    "lastUpdated": "2025-08-01T16:18:35.601396",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CRYSVITA 30 MG  1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:18:35.601408",
+      "previousRegistration": "164 58 35724 00",
+      "newRegistration": "164 60 35726 00",
+      "apiSource": "CRYSVITA 30 MG"
+    }
+  },
+  "nameHebrew": "קריסויטה 30 מ\"ג",
+  "registrationDate": "2025-04-30"
 }

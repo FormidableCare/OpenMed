@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 250.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.063803"
+    "lastUpdated": "2025-08-01T17:35:06.143015",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PEGLAX NEUTRAL",
+        "registration": "144 49 33236 00",
+        "form": ""
+      },
+      {
+        "name": "PEGLAX ORANGE",
+        "registration": "144 50 33237 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PEGLAX ORANGE 250 GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

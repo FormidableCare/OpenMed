@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,58 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.644832"
+    "lastUpdated": "2025-08-01T15:20:11.953088",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.01",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:03:22.885529",
+      "csvSource": "RISPERDAL 1MG/ML SOL 30ML",
+      "bestMatchScore": 0.014285714285714285,
+      "availableApiOptions": [
+        {
+          "name": "RISPERDAL 1 MG",
+          "registration": "144 78 28260 01",
+          "form": ""
+        },
+        {
+          "name": "RISPERDAL 1 MG/ML",
+          "registration": "114 74 29633 00",
+          "form": ""
+        },
+        {
+          "name": "RISPERDAL 2 MG",
+          "registration": "144 79 28261 01",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "RISPERDAL 1 MG",
+        "registration": "144 78 28260 01",
+        "form": ""
+      },
+      {
+        "name": "RISPERDAL 1 MG/ML",
+        "registration": "114 74 29633 00",
+        "form": ""
+      },
+      {
+        "name": "RISPERDAL 2 MG",
+        "registration": "144 79 28261 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RISPERDAL 1MG/ML SOL 30ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

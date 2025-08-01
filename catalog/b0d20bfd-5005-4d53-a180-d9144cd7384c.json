@@ -1,10 +1,10 @@
 {
   "catalogId": "b0d20bfd-5005-4d53-a180-d9144cd7384c",
-  "name": "REBLOZYL 25 MG",
+  "name": "REBLOZYL 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 03 36646 00",
+  "registrationNumber": "169 04 36647 00",
   "treatmentDescriptions": "Reblozyl is indicated in: •\tAdults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).•\tAdults for the treatment of anaemia associated with transfusion dependent and non-transfusion-dependent beta-thalassaemia",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.955882"
-  }
+    "lastUpdated": "2025-08-01T15:57:16.820837",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REBLOZYL 75 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:16.820849",
+      "previousRegistration": "169 03 36646 00",
+      "newRegistration": "169 04 36647 00",
+      "apiSource": "REBLOZYL 75 MG"
+    }
+  },
+  "nameHebrew": "רבלוזיל 75 מ\"ג",
+  "registrationDate": "2022-01-30"
 }

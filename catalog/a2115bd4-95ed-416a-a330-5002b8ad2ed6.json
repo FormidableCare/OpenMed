@@ -1,10 +1,10 @@
 {
   "catalogId": "a2115bd4-95ed-416a-a330-5002b8ad2ed6",
-  "name": "QULIPTA 10 MG",
+  "name": "QULIPTA 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 61 37169 99",
+  "registrationNumber": "170 62 37170 99",
   "treatmentDescriptions": "Qulipta is indicated for the preventive treatment of  migraine in adults",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.869332"
-  }
+    "lastUpdated": "2025-08-01T16:57:17.962561",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QULIPTA 30 MG  30 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:57:17.962574",
+      "previousRegistration": "170 61 37169 99",
+      "newRegistration": "170 62 37170 99",
+      "apiSource": "QULIPTA 30 MG"
+    }
+  },
+  "nameHebrew": "קיוליפטה 30 מ\"ג",
+  "registrationDate": "2022-09-28"
 }

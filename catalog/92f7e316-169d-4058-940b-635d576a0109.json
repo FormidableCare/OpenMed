@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.25,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.786298"
+    "lastUpdated": "2025-08-01T17:24:37.116657",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ALPRALID 0.25",
+        "registration": "137 10 28371 00",
+        "form": ""
+      },
+      {
+        "name": "ALPRALID 0.5",
+        "registration": "137 11 28372 00",
+        "form": ""
+      },
+      {
+        "name": "ALPRALID 1",
+        "registration": "137 12 28373 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ALPRALID 0.25MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

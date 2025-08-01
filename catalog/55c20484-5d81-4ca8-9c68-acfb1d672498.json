@@ -1,10 +1,10 @@
 {
   "catalogId": "55c20484-5d81-4ca8-9c68-acfb1d672498",
-  "name": "SUBUTEX 2 MG",
+  "name": "SUBUTEX 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 88 29872 00",
+  "registrationNumber": "133 87 29873 00",
   "treatmentDescriptions": "Substitution treatment for opioid dependence within a Framework of medical, social and psychological treatment.",
   "termsOfIssue": "Prescription required",
   "form": "tablets sublingual",
@@ -31,10 +31,12 @@
         "name": "נעמי שאקו עזרה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.421909"
-  }
+    "lastUpdated": "2025-08-01T17:50:12.929918",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUBUTEX 8MG 7 SUBLING TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:12.929923",
+      "previousRegistration": "133 88 29872 00",
+      "newRegistration": "133 87 29873 00",
+      "apiSource": "SUBUTEX 8 MG"
+    }
+  },
+  "nameHebrew": "סובוטקס 8 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

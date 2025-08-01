@@ -1,10 +1,10 @@
 {
   "catalogId": "a0926a29-4660-4212-9685-d8e93e57a032",
-  "name": "LACOSAMIDE TEVA ® 100 MG",
+  "name": "VIMPAT 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 97 35488 00",
+  "registrationNumber": "149 09 33546 00",
   "treatmentDescriptions": "Lacosamide Teva is indicated as monotherapy and adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in patients with epilepsy aged 4 years and older.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.863402"
-  }
+    "lastUpdated": "2025-08-01T16:25:30.917985",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LACOSAMIDE TEVA  50 MG 14 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:25:30.917995",
+      "previousRegistration": "163 97 35488 00",
+      "newRegistration": "149 09 33546 00",
+      "apiSource": "VIMPAT 50 MG"
+    }
+  },
+  "nameHebrew": "וימפט 50 מ\"ג",
+  "registrationDate": "2017-12-31"
 }

@@ -31,10 +31,12 @@
         "name": "דפריס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.437317"
+    "lastUpdated": "2025-08-01T15:55:48.884525",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BETNESOL TABLETS",
+        "registration": "135 65 22066 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BETNESOL 0.50MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

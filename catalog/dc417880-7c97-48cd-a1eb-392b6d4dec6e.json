@@ -31,10 +31,16 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        },
+        {
+          "value": 16.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +65,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.243023"
+    "lastUpdated": "2025-08-01T15:46:47.468084",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MVASI",
+        "registration": "164 30 35864 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MVASI 400MG 25MG/ML VIAL 16ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

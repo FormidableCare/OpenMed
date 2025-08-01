@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -58,6 +68,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.225555"
-  }
+    "lastUpdated": "2025-08-01T16:50:41.989853",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ANAFRANIL 25MG/2ML 6AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:41.989867",
+      "previousRegistration": "108 06 24600 00",
+      "newRegistration": "108 06 24600 00",
+      "apiSource": "ANAFRANIL 25 MG"
+    }
+  },
+  "nameHebrew": "אנאפרניל 25 מ\"ג",
+  "registrationDate": "2022-11-30"
 }

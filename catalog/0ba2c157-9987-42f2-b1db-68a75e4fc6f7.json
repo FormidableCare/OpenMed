@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.964487"
-  }
+    "lastUpdated": "2025-08-01T16:18:19.055405",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BOSULIF 100 MG 28 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:18:19.055424",
+      "previousRegistration": "152 88 34014 00",
+      "newRegistration": "152 88 34014 00",
+      "apiSource": "BOSULIF 100 MG"
+    }
+  },
+  "nameHebrew": "בוסוליף 100 מ\"ג",
+  "registrationDate": "2019-10-31"
 }

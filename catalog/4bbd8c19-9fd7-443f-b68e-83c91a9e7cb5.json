@@ -31,10 +31,12 @@
         "name": "קמהדע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 200.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.368256"
+    "lastUpdated": "2025-08-01T15:24:27.377417",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "INTRATECT 100 G/L",
+        "registration": "159 72 35202 00",
+        "form": ""
+      },
+      {
+        "name": "INTRATECT 50 G/L",
+        "registration": "145 64 33138 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "INTRATECT 50MG/ML 1VIAL (10G/200ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005555555555555556,
+      "status": "failed_match"
+    }
   }
 }

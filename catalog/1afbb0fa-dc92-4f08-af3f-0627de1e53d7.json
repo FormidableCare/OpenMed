@@ -1,10 +1,10 @@
 {
   "catalogId": "1afbb0fa-dc92-4f08-af3f-0627de1e53d7",
-  "name": "NEXIUM POWDER FOR SOLUTION FOR INJ/INF 40 MG",
+  "name": "NEXIUM TABLETS 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "135 56 31128 00",
+  "registrationNumber": "122 53 30238 00",
   "treatmentDescriptions": "Nexium for iniection and infusion is indicated in adult for:• Gastroesophageal reflux disease (GERD) in patients with esophagitis and/or severe symptoms of reflux as an alternative to oral therapy when oral intake is not appropriate. • Prevention of rebleeding following therapeutic endoscopy for acute bleeding gastric or duodenal ulcers.Nexium for injection and infusion is indicated in children and adolescents aged 1-18 years for:• Gastric antisecretory treatment when the oral route is not possible, such as:gastroesophageal reflux disease (GERD) in patients with erosive reflux esophagitis and/or severe symptoms of reflux.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.065151"
-  }
+    "lastUpdated": "2025-08-01T16:10:37.109382",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NEXIUM 40MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:10:37.109393",
+      "previousRegistration": "135 56 31128 00",
+      "newRegistration": "122 53 30238 00",
+      "apiSource": "NEXIUM TABLETS 40 MG"
+    }
+  },
+  "nameHebrew": "נקסיום טבליות 40 מ\"ג",
+  "registrationDate": "2021-05-31"
 }

@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 237.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 237.0,
         "unit": "units"
@@ -60,6 +62,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.008658"
+    "lastUpdated": "2025-08-01T16:23:33.184853",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DILANTIN 125",
+        "registration": "123 70 24017 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DILANTIN SUSP 237ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

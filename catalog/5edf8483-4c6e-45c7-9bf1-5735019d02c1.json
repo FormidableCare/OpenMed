@@ -1,10 +1,10 @@
 {
   "catalogId": "5edf8483-4c6e-45c7-9bf1-5735019d02c1",
-  "name": "TELFAST 120 MG",
+  "name": "TELFAST 180 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "108 90 29135 21",
+  "registrationNumber": "109 22 29136 21",
   "treatmentDescriptions": "Relief of symptoms associated with seasonal allergic rhinitis",
   "termsOfIssue": "",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרמה שלום",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 180.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.467527"
-  }
+    "lastUpdated": "2025-08-01T16:23:41.050527",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TELFAST 180MG 15TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:41.050535",
+      "previousRegistration": "108 90 29135 21",
+      "newRegistration": "109 22 29136 21",
+      "apiSource": "TELFAST 180 MG"
+    }
+  },
+  "nameHebrew": "טלפסט 180 מ\"ג",
+  "registrationDate": "2022-12-31"
 }

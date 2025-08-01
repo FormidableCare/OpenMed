@@ -1,10 +1,10 @@
 {
   "catalogId": "0de4951f-4b76-4f80-9a0a-2fc81d9e8907",
-  "name": "ACTIQ 1200 MCG",
+  "name": "ACTIQ 200 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "138 25 31575 00",
+  "registrationNumber": "138 21 31571 00",
   "treatmentDescriptions": "Actiq is indicated only for the management of breakthrough cancer pain in patients 16 and older with malignancies who are already receiving and who are tolerant to opioid therapy for their underlying persistent cancer pain.",
   "termsOfIssue": "Prescription required",
   "form": "compressed tablet on a handle",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.981144"
-  }
+    "lastUpdated": "2025-08-01T16:45:35.685581",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ACTIQ 200MCG 30 COMPRESSED TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:45:35.685591",
+      "previousRegistration": "138 25 31575 00",
+      "newRegistration": "138 21 31571 00",
+      "apiSource": "ACTIQ 200 MCG"
+    }
+  },
+  "nameHebrew": "אקטיק 200 מק\"ג",
+  "registrationDate": "2023-09-30"
 }

@@ -31,10 +31,16 @@
         "name": "מדיוונד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        },
+        {
+          "value": 20.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -52,11 +58,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 2005.136166,
         "maxPriceWithVAT": 2366.060571
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.209208"
-  }
+    "lastUpdated": "2025-08-01T16:23:26.329833",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NEXOBRID 2 G POWDER AND 20 G GEL  VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:26.329850",
+      "previousRegistration": "152 30 33685 00",
+      "newRegistration": "152 30 33685 00",
+      "apiSource": "NEXOBRID 2 G POWDER AND 20 G GEL"
+    }
+  },
+  "nameHebrew": "נקסובריד 2 גר' אבקה ו – 20 גר' ג'ל",
+  "registrationDate": "2019-06-30"
 }

@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.001257"
+    "lastUpdated": "2025-08-01T16:31:38.992223",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "UTROGESTAN 100",
+        "registration": "132 44 26341 11",
+        "form": ""
+      },
+      {
+        "name": "UTROGESTAN 100",
+        "registration": "132 44 26341 12",
+        "form": ""
+      },
+      {
+        "name": "UTROGESTAN 200",
+        "registration": "128 73 30719 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "UTROGESTAN 100MG 30 VAG CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

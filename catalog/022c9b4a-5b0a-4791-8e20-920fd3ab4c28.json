@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.894775"
-  }
+    "lastUpdated": "2025-08-01T15:53:52.648056",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IFO-CELL 2 G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8500000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:53:52.648068",
+      "previousRegistration": "155 73 34214 00",
+      "newRegistration": "155 73 34214 00",
+      "apiSource": "IFO-CELL 2 G"
+    }
+  },
+  "nameHebrew": "איפו-סל  2 גרם",
+  "registrationDate": "2021-03-31"
 }

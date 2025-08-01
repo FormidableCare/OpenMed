@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 11125.18292,
         "maxPriceWithVAT": 13127.71527
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.050829"
-  }
+    "lastUpdated": "2025-08-01T15:55:56.815451",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OCALIVA 10MG 30 FC tablets",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:56.815462",
+      "previousRegistration": "160 33 35218 00",
+      "newRegistration": "160 33 35218 00",
+      "apiSource": "OCALIVA 10 MG"
+    }
+  },
+  "nameHebrew": "אוקליבה 10 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

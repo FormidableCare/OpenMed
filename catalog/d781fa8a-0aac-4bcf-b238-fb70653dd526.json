@@ -1,10 +1,10 @@
 {
   "catalogId": "d781fa8a-0aac-4bcf-b238-fb70653dd526",
-  "name": "ELONVA 100 MCG / 0.5 ML",
+  "name": "ELONVA 150 MCG / 0.5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 30 33282 00",
+  "registrationNumber": "147 31 33283 00",
   "treatmentDescriptions": "Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist for the development of multiple follicles in women participating in an Assisted Reproductive Technology (ART) program.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.217995"
-  }
+    "lastUpdated": "2025-08-01T16:14:59.119539",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ELONVA 150MCG/0.5ML 1 SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:14:59.119552",
+      "previousRegistration": "147 30 33282 00",
+      "newRegistration": "147 31 33283 00",
+      "apiSource": "ELONVA 150 MCG / 0.5 ML"
+    }
+  },
+  "nameHebrew": "אלונבה 150 מק\"ג / 0.5 מ\"ל",
+  "registrationDate": "2016-12-31"
 }

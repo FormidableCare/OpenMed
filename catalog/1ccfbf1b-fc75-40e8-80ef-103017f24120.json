@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.077372"
-  }
+    "lastUpdated": "2025-08-01T16:39:36.702445",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "UROMITEXAN 600MG TABLETS BAXTER GERMANY",
+      "processedBy": "smart_validation",
+      "matchScore": 0.20714285714285716,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:39:36.702452",
+      "previousRegistration": "153 48 34007 00",
+      "newRegistration": "153 48 34007 00",
+      "apiSource": "UROMITEXAN 400 MG"
+    }
+  },
+  "nameHebrew": "יורומיטקסן 400 מ\"ג",
+  "registrationDate": "2020-02-29"
 }

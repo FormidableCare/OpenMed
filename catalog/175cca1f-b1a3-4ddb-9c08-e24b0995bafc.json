@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,16 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -49,11 +55,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 107.7545595,
         "maxPriceWithVAT": 127.1503802
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.041891"
-  }
+    "lastUpdated": "2025-08-01T15:29:12.775265",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EFUDIX CREAM 5% 20GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9875,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:12.775277",
+      "previousRegistration": "062 40 21478 00",
+      "newRegistration": "062 40 21478 00",
+      "apiSource": "EFUDIX CREAM 5%"
+    }
+  },
+  "nameHebrew": "אפודיקס קרם % 5",
+  "registrationDate": "2016-11-30"
 }

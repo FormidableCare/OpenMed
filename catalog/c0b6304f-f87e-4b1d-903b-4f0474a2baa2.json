@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.066045"
+    "lastUpdated": "2025-08-01T16:35:56.013021",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PRADAXA 110",
+        "registration": "142 96 32974 00",
+        "form": ""
+      },
+      {
+        "name": "PRADAXA 110",
+        "registration": "142 96 32974 01",
+        "form": ""
+      },
+      {
+        "name": "PRADAXA 110",
+        "registration": "142 96 32974 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PRADAXA 150MG 60CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "436d1dcf-ea1c-45a5-b433-fd4d6540187d",
-  "name": "CIPRALEX 10 MG",
+  "name": "CIPRALEX 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "127 01 30558 00",
+  "registrationNumber": "127 03 30560 00",
   "treatmentDescriptions": "Treatment of depression and panic disorder.   Treatment of generalized anxiety disorder (GAD)  treatment of social anxiety disorder (social phobia).   Treatment of obsessive - compulsive disorder.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.326072"
-  }
+    "lastUpdated": "2025-08-01T17:21:32.293796",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIPRALEX 20MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:21:32.293807",
+      "previousRegistration": "127 01 30558 00",
+      "newRegistration": "127 03 30560 00",
+      "apiSource": "CIPRALEX 20 MG"
+    }
+  },
+  "nameHebrew": "ציפרלקס 20 מ\"ג",
+  "registrationDate": "2022-11-30"
 }

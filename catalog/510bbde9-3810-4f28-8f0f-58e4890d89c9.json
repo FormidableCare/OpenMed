@@ -1,10 +1,10 @@
 {
   "catalogId": "510bbde9-3810-4f28-8f0f-58e4890d89c9",
-  "name": "AIMOVIG 140 MG",
+  "name": "AIMOVIG 70 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 09 36005 00",
+  "registrationNumber": "162 89 35707 00",
   "treatmentDescriptions": "Aimovig is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month when initiating treatment with Aimovig",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 70.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.394661"
-  }
+    "lastUpdated": "2025-08-01T15:51:24.773380",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AIMOVIG  70MG   1 PREFILLED PEN",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:51:24.773390",
+      "previousRegistration": "164 09 36005 00",
+      "newRegistration": "162 89 35707 00",
+      "apiSource": "AIMOVIG 70 MG"
+    }
+  },
+  "nameHebrew": "איימוביג 70 מ\"ג",
+  "registrationDate": "2024-10-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "fb44a399-59e8-418b-bbb2-4fd41e021162",
-  "name": "NEURONTIN 300 MG",
+  "name": "NEURONTIN 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 05 30497 00",
+  "registrationNumber": "125 06 30498 00",
   "treatmentDescriptions": "Epilepsy :- Gabapentin is indicated as adjunctive therapy in the treatment of partial seizures with and without secondary generalization in adults  and adolescents ( age 12 and up ) with epilepsy.- Treatment of neuropathic pain- Gabapentin is indicated for the treatment of neuropathic pain in diabetic neuropathy or postherpetic neuropathy(neuralgia) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.425170"
-  }
+    "lastUpdated": "2025-08-01T16:47:49.707579",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NEURONTIN 400MG 100CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:47:49.707590",
+      "previousRegistration": "125 05 30497 00",
+      "newRegistration": "125 06 30498 00",
+      "apiSource": "NEURONTIN 400 MG"
+    }
+  },
+  "nameHebrew": "נאורונטין 400 מ\"ג",
+  "registrationDate": "2022-03-31"
 }

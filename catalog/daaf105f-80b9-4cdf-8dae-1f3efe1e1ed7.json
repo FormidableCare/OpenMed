@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.234725"
-  }
+    "lastUpdated": "2025-08-01T17:40:53.309822",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DULOXETINE SANDOZ 30 MG 28 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8285714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:40:53.309832",
+      "previousRegistration": "167 67 35796 00",
+      "newRegistration": "167 67 35796 00",
+      "apiSource": "DULOXETINE SANDOZ ® 30 MG GRC"
+    }
+  },
+  "nameHebrew": "דולוקסטין סנדוז ® 30 מ\"ג ג'י.אר.סי",
+  "registrationDate": "2021-06-23"
 }

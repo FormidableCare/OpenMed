@@ -25,10 +25,20 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        },
+        {
+          "value": 3.0,
+          "unit": "ml"
+        },
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -47,11 +57,35 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 4464.807948,
         "maxPriceWithVAT": 5268.473145
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.411543"
+    "lastUpdated": "2025-08-01T16:18:43.627813",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VOCABRIA INJECTION",
+        "registration": "169 81 36948 99",
+        "form": ""
+      },
+      {
+        "name": "VOCABRIA TABLETS",
+        "registration": "169 80 36947 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VOCABRIA INJECTION 600MG/3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.175,
+      "status": "failed_match"
+    }
   }
 }

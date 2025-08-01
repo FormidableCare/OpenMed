@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.158480"
+    "lastUpdated": "2025-08-01T16:50:18.205797",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ENBREL 25 MG SOLUTION FOR INJECTION",
+        "registration": "142 52 31949 00",
+        "form": ""
+      },
+      {
+        "name": "ENBREL 50 MG SOLUTION FOR INJECTION",
+        "registration": "142 53 31950 00",
+        "form": ""
+      },
+      {
+        "name": "ENBREL POWDER AND SOLVENT",
+        "registration": "119 12 30000 06",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ENBREL  25MG/VIAL 4 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

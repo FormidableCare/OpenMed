@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 110.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 110.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.353349"
+    "lastUpdated": "2025-08-01T16:22:25.914788",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NOTENSYL TABLETS",
+        "registration": "117 85 23254 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NOTENSYL SYRUP 110ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

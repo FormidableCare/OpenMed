@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.295625"
+    "lastUpdated": "2025-08-01T15:35:56.470568",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CEFOVIT 250",
+        "registration": "026 84 25145 00",
+        "form": ""
+      },
+      {
+        "name": "CEFOVIT FORTE 500",
+        "registration": "026 85 25146 00",
+        "form": ""
+      },
+      {
+        "name": "CEFOVIT FORTE SUSPENSION",
+        "registration": "026 83 25148 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CEFOVIT 125 SUSP 60ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

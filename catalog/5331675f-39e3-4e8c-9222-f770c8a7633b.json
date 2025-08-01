@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 43.90538051,
         "maxPriceWithVAT": 51.8083467
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.407952"
-  }
+    "lastUpdated": "2025-08-01T17:41:18.555678",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAMIFLU 30MG 10 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:41:18.555687",
+      "previousRegistration": "138 02 31733 00",
+      "newRegistration": "138 02 31733 00",
+      "apiSource": "TAMIFLU 30 MG"
+    }
+  },
+  "nameHebrew": "טמיפלו 30 מ\"ג",
+  "registrationDate": "2020-12-31"
 }

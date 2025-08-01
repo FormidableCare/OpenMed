@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.055990"
+    "lastUpdated": "2025-08-01T15:39:19.374561",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FAVOXIL 100",
+        "registration": "041 91 25728 00",
+        "form": ""
+      },
+      {
+        "name": "FAVOXIL 50",
+        "registration": "041 92 25727 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FAVOXIL 50MG 60TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

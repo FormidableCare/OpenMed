@@ -1,10 +1,10 @@
 {
   "catalogId": "6c904672-c77a-4d02-b245-ba119c9a5cbd",
-  "name": "SKYRIZI 150 MG",
+  "name": "SKYRIZI 600 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 73 36871 00",
+  "registrationNumber": "172 10 37478 00",
   "treatmentDescriptions": "Plaque PsoriasisSkyrizi is indicated for the treatment of moderate to severe plaque psoriasis in adults who arecandidates for systemic therapy.Psoriatic ArthritisSkyrizi, alone or in combination with methotrexate (MTX), is indicated for the treatment of activepsoriatic arthritis in adults who have had an inadequate response or who have been intolerant to one or more disease-modifying antirheumatic drugs (DMARDs).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.556297"
-  }
+    "lastUpdated": "2025-08-01T17:52:01.615451",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SKYRIZI 600 MG/10 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:52:01.615459",
+      "previousRegistration": "169 73 36871 00",
+      "newRegistration": "172 10 37478 00",
+      "apiSource": "SKYRIZI 600 MG"
+    }
+  },
+  "nameHebrew": "סקייריזי 600 מ\"ג",
+  "registrationDate": "2023-02-20"
 }

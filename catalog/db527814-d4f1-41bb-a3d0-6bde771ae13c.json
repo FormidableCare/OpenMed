@@ -31,10 +31,12 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 500.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.237855"
+    "lastUpdated": "2025-08-01T16:36:30.069231",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ALCOSEPT",
+        "registration": "129 67 30806 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ALCOSEPT 500ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

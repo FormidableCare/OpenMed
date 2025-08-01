@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.913477"
+    "lastUpdated": "2025-08-01T16:00:13.864357",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ORAMORPH 20 MG/ML",
+        "registration": "153 96 34100 00",
+        "form": ""
+      },
+      {
+        "name": "APO-GO",
+        "registration": "128 26 30682 00",
+        "form": ""
+      },
+      {
+        "name": "APO GO PEN 10 MG/ML",
+        "registration": "136 82 31425 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MORPHINE MARTINDALE 10 MG/ML 10AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.04166666666666667,
+      "status": "failed_match"
+    }
   }
 }

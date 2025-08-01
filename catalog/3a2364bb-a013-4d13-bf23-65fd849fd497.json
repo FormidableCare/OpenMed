@@ -1,10 +1,10 @@
 {
   "catalogId": "3a2364bb-a013-4d13-bf23-65fd849fd497",
-  "name": "LYRICA 100 MG",
+  "name": "LYRICA 150 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 01 31188 00",
+  "registrationNumber": "133 02 31189 00",
   "treatmentDescriptions": "LLyrica is indicated for the:- Treatment of peripheral and central neuropathic pain in adults. - Management of Fibromyalgia.- Treatment of Generalised Anxiety Disorder (GAD) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.282375"
-  }
+    "lastUpdated": "2025-08-01T15:22:59.785082",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LYRICA 150MG 56CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:22:59.785090",
+      "previousRegistration": "133 01 31188 00",
+      "newRegistration": "133 02 31189 00",
+      "apiSource": "LYRICA 150 MG"
+    }
+  },
+  "nameHebrew": "ליריקה 150 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

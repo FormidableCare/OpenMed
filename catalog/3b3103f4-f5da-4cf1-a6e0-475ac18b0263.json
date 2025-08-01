@@ -31,10 +31,16 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +59,40 @@
         "retailMargin": "",
         "maxRetailPrice": 20.43,
         "maxPriceWithVAT": 24.1074
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.284326"
+    "lastUpdated": "2025-08-01T17:37:13.349525",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CANESTEN V",
+        "registration": "149 92 33642 02",
+        "form": ""
+      },
+      {
+        "name": "CANESTEN CREAM",
+        "registration": "149 44 33680 01",
+        "form": ""
+      },
+      {
+        "name": "CANESTEN CREAM",
+        "registration": "149 44 33680 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CANESTEN CREAM 1% 20GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.175,
+      "status": "failed_match"
+    }
   }
 }

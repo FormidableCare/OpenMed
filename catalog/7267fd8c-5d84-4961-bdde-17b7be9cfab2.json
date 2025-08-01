@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.591469"
-  }
+    "lastUpdated": "2025-08-01T17:14:35.468827",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RELERT 20MG 3TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:14:35.468840",
+      "previousRegistration": "124 28 30370 01",
+      "newRegistration": "124 28 30370 01",
+      "apiSource": "RELERT 20 MG"
+    }
+  },
+  "nameHebrew": "רילרט 20 מ\"ג",
+  "registrationDate": "2021-12-31"
 }

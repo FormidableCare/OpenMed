@@ -31,10 +31,20 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +70,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.331157"
+    "lastUpdated": "2025-08-01T16:50:41.980706",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ANAFRANIL 25 MG",
+        "registration": "108 06 24600 00",
+        "form": ""
+      },
+      {
+        "name": "ANAFRANIL SR 75 MG TABLETS",
+        "registration": "053 91 26407 00",
+        "form": ""
+      },
+      {
+        "name": "PRAMIN INJECTION",
+        "registration": "051 52 24303 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PRAMIN 5AMP 10MG/2ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

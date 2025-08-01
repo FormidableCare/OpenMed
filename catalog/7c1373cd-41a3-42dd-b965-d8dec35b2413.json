@@ -1,10 +1,10 @@
 {
   "catalogId": "7c1373cd-41a3-42dd-b965-d8dec35b2413",
-  "name": "ARAVA 10 MG",
+  "name": "ARAVA 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "121 78 30132 00",
+  "registrationNumber": "121 79 30133 00",
   "treatmentDescriptions": "Arava is indicated in adults for the treatment of active rheumatoid arthritis (RA) :   1. to reduce signs and symptoms    2. to inhibit structural damage as evidenced by X-ray erosions and joint space narrowing    3. to imptove physical function.   Arava is indicated for the treatment of adult patients with active psoriatic arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.641135"
-  }
+    "lastUpdated": "2025-08-01T16:16:39.962544",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARAVA 20MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:16:39.962549",
+      "previousRegistration": "121 78 30132 00",
+      "newRegistration": "121 79 30133 00",
+      "apiSource": "ARAVA 20 MG"
+    }
+  },
+  "nameHebrew": "ערבה 20 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

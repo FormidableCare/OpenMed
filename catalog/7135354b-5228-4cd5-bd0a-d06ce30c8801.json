@@ -1,10 +1,10 @@
 {
   "catalogId": "7135354b-5228-4cd5-bd0a-d06ce30c8801",
-  "name": "CONCOR 1.25 MG",
+  "name": "CONCOR 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 22 35983 00",
+  "registrationNumber": "057 79 25169 01",
   "treatmentDescriptions": "Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function (ejection fraction < 35 %, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.585166"
-  }
+    "lastUpdated": "2025-08-01T16:17:10.684562",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CONCOR 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:17:10.684572",
+      "previousRegistration": "167 22 35983 00",
+      "newRegistration": "057 79 25169 01",
+      "apiSource": "CONCOR 5 MG"
+    }
+  },
+  "nameHebrew": "קונקור 5 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

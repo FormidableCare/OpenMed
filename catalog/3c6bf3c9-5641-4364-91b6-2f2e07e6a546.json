@@ -59,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.289765"
+    "lastUpdated": "2025-08-01T16:13:13.627560",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BRENZYS 50 MG/ML",
+        "registration": "161 75 35387 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BRENZYS 50 MG/ML 4 PREFILLED SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.031264"
+    "lastUpdated": "2025-08-01T16:34:08.440175",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KONAKION MM PAEDIATRIC 2 MG/0.2 ML",
+        "registration": "105 47 28944 00",
+        "form": ""
+      },
+      {
+        "name": "KONAKION MM 10 MG/ML",
+        "registration": "062 28 21477 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KONAKION MM 10MG/ML 5 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.018750000000000003,
+      "status": "failed_match"
+    }
   }
 }

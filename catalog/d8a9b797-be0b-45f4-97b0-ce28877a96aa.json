@@ -31,10 +31,12 @@
         "name": "מדיטרנד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.223679"
+    "lastUpdated": "2025-08-01T16:57:08.460208",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VITA-MERFEN OINTMENT",
+        "registration": "118 17 27599 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VITA-MERFEN OINT 20GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

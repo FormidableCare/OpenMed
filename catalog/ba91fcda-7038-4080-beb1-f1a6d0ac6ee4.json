@@ -1,10 +1,10 @@
 {
   "catalogId": "ba91fcda-7038-4080-beb1-f1a6d0ac6ee4",
-  "name": "DASATINIB SANDOZ ® 100 MG",
+  "name": "DASATINIB TEVA 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 10 36531 99",
+  "registrationNumber": "169 88 37049 99",
   "treatmentDescriptions": "Treatment of adult patients with :  Newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase.  Chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate.  Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.027746"
-  }
+    "lastUpdated": "2025-08-01T15:47:14.707527",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DASATINIB SANDOZ  50 MG 60 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:47:14.707542",
+      "previousRegistration": "173 10 36531 99",
+      "newRegistration": "169 88 37049 99",
+      "apiSource": "DASATINIB TEVA 50 MG"
+    }
+  },
+  "nameHebrew": "דסטיניב טבע 50 מ\"ג",
+  "registrationDate": "2022-06-26"
 }

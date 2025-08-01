@@ -1,10 +1,10 @@
 {
   "catalogId": "56b32d09-52b2-474c-bd57-c6bbe1d57f37",
-  "name": "HAIRGAIN 5%",
+  "name": "NOXIDIL 5 %",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "138 28 31485 00",
+  "registrationNumber": "144 70 33300 00",
   "treatmentDescriptions": "Hair regrowth treatment for men.",
   "termsOfIssue": "",
   "form": "solution - external",
@@ -31,10 +31,16 @@
         "name": "ליף-פריגו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -53,11 +59,27 @@
         "retailMargin": "",
         "maxRetailPrice": 101.61,
         "maxPriceWithVAT": 119.8998
-      }
+      },
+      "formulation": [
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.427164"
-  }
+    "lastUpdated": "2025-08-01T16:53:51.864384",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOXIDIL 5 % SOLUTION 60 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8200000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:53:51.864393",
+      "previousRegistration": "138 28 31485 00",
+      "newRegistration": "144 70 33300 00",
+      "apiSource": "NOXIDIL 5 %"
+    }
+  },
+  "nameHebrew": "נוקסידיל % 5",
+  "registrationDate": "2023-03-31"
 }

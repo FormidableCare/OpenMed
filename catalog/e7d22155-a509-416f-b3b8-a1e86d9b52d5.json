@@ -1,10 +1,10 @@
 {
   "catalogId": "e7d22155-a509-416f-b3b8-a1e86d9b52d5",
-  "name": "IMPAVIDO 10 MG",
+  "name": "IMPAVIDO 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 05 34311 00",
+  "registrationNumber": "154 06 34313 00",
   "treatmentDescriptions": "-Treatment of visceral Leishmaniasis caused by Leishmania donovani. -Treatment of cutaneous Leishmaniasis caused by Leishmania brasiliensis complex or Leishmania mexicana complex.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.313518"
-  }
+    "lastUpdated": "2025-08-01T17:16:20.122683",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMPAVIDO 50MG 56CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:16:20.122701",
+      "previousRegistration": "154 05 34311 00",
+      "newRegistration": "154 06 34313 00",
+      "apiSource": "IMPAVIDO 50 MG"
+    }
+  },
+  "nameHebrew": "אימפבידו 50 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

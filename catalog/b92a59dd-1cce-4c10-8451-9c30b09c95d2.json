@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -55,11 +57,30 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.017660"
+    "lastUpdated": "2025-08-01T16:49:01.813433",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "POLYCUTAN",
+        "registration": "048 52 23172 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "POLYCUTAN CREAM 15GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

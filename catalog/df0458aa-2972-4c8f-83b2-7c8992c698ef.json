@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.261175"
-  }
+    "lastUpdated": "2025-08-01T16:10:59.142856",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EZATOR S.K. 10/10 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:10:59.142865",
+      "previousRegistration": "170 85 36878 99",
+      "newRegistration": "170 85 36878 99",
+      "apiSource": "EZATOR S.K. 10/10 MG"
+    }
+  },
+  "nameHebrew": "אזאטור אס.קיי. 10/10 מ\"ג",
+  "registrationDate": "2022-11-21"
 }

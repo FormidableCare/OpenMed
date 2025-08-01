@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -52,6 +54,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.391338"
+    "lastUpdated": "2025-08-01T16:46:57.102233",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FERROCAL TABLETS",
+        "registration": "137 54 25091 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FERROCAL 500MG 30 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

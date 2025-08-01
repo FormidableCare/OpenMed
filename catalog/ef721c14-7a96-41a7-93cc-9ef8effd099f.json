@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.357102"
+    "lastUpdated": "2025-08-01T17:12:51.056733",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PROCTO-GLYVENOL SUPPOSITORIES",
+        "registration": "067 40 23920 00",
+        "form": ""
+      },
+      {
+        "name": "PROCTO-GLYVENOL CREAM",
+        "registration": "044 65 23919 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PROCTO-GLYVENOL 10 SUPP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

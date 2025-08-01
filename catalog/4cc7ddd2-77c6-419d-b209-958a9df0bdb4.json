@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 33.422383,
         "maxPriceWithVAT": 39.43841194
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.372206"
+    "lastUpdated": "2025-08-01T16:48:45.455532",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FUCIDIN",
+        "registration": "100 49 24510 00",
+        "form": ""
+      },
+      {
+        "name": "FUCIDIN H",
+        "registration": "129 68 29439 00",
+        "form": ""
+      },
+      {
+        "name": "FUCIDIN OINTMENT",
+        "registration": "056 28 26528 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FUCIDIN CREAM 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.18333333333333332,
+      "status": "failed_match"
+    }
   }
 }

@@ -54,11 +54,40 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 114.8054706,
         "maxPriceWithVAT": 135.4704493
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.383652"
+    "lastUpdated": "2025-08-01T15:30:41.975490",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "YAZ",
+        "registration": "141 04 32023 01",
+        "form": ""
+      },
+      {
+        "name": "YAZ",
+        "registration": "141 04 32023 00",
+        "form": ""
+      },
+      {
+        "name": "YAZ PLUS",
+        "registration": "152 82 33905 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "YAZ 3X28TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

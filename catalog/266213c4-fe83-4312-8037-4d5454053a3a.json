@@ -1,10 +1,10 @@
 {
   "catalogId": "266213c4-fe83-4312-8037-4d5454053a3a",
-  "name": "ARESTIN",
+  "name": "MINOCYCLINE 100 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 92 31853 00",
+  "registrationNumber": "116 73 27128 00",
   "treatmentDescriptions": "Arestin is indicated as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis. Arestin may be used as part of a periodontal maintenance program which includes good oral hygiene, and scaling and root planing.",
   "termsOfIssue": "Prescription required",
   "form": "powder soluble",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.132154"
-  }
+    "lastUpdated": "2025-08-01T17:28:44.566197",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MINOCYCLIN 100MG 10CAP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:28:44.566207",
+      "previousRegistration": "144 92 31853 00",
+      "newRegistration": "116 73 27128 00",
+      "apiSource": "MINOCYCLINE 100 MG"
+    }
+  },
+  "nameHebrew": "מינוציקלין 100 מ\"ג",
+  "registrationDate": "2024-11-30"
 }

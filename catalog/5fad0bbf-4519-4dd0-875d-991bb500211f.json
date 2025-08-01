@@ -58,6 +58,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.473984"
+    "lastUpdated": "2025-08-01T16:36:30.075019",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ALCOSEPT",
+        "registration": "129 67 30806 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ALCOSEPT 1 LITER",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

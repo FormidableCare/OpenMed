@@ -52,11 +52,40 @@
         "retailMargin": "",
         "maxRetailPrice": 17.2,
         "maxPriceWithVAT": 20.296
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.839227"
+    "lastUpdated": "2025-08-01T16:07:58.667174",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PARAMOL",
+        "registration": "127 96 30764 00",
+        "form": ""
+      },
+      {
+        "name": "PARAMOL AF & SHIUL DAY CARE",
+        "registration": "127 91 30769 00",
+        "form": ""
+      },
+      {
+        "name": "PARAMOL AF & SHIUL NIGHT CARE",
+        "registration": "127 90 30770 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PARAMOL KAT 20 CHEWABLE TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

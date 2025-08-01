@@ -31,10 +31,20 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 350.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.75,
+          "unit": "ml"
+        },
+        {
+          "value": 1.75,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +69,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.402504"
+    "lastUpdated": "2025-08-01T15:54:57.642403",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TREVICTA",
+        "registration": "157 43 34606 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TREVICTA E.R SUSP FOR INJ 350MG/1.750ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005555555555555556,
+      "status": "failed_match"
+    }
   }
 }

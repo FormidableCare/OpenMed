@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.741068"
-  }
+    "lastUpdated": "2025-08-01T15:43:55.363581",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ETORICOXIB TARO 120MG 7TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:43:55.363585",
+      "previousRegistration": "160 52 34825 00",
+      "newRegistration": "160 52 34825 00",
+      "apiSource": "ETORICOXIB TARO 120 MG"
+    }
+  },
+  "nameHebrew": "אטוריקוקסיב תרו 120 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

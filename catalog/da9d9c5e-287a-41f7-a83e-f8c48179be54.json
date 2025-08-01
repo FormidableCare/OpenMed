@@ -31,10 +31,12 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.234374"
+    "lastUpdated": "2025-08-01T15:27:59.780578",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NUROFEN GEL 5 %",
+        "registration": "134 23 31074 00",
+        "form": ""
+      },
+      {
+        "name": "NUROFEN TABLETS 200 MG",
+        "registration": "132 32 31025 00",
+        "form": ""
+      },
+      {
+        "name": "NUROFEN FOR CHILDREN SUPPOSITORIES 125 MG",
+        "registration": "142 89 32016 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NUROFEN FOR CHILDREN STRABERRY SYR 100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21363636363636365,
+      "status": "failed_match"
+    }
   }
 }

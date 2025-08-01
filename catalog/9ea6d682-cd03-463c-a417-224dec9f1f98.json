@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.851664"
-  }
+    "lastUpdated": "2025-08-01T16:44:15.464101",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "YENTREVE 20MG 56CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:44:15.464118",
+      "previousRegistration": "132 68 31140 12",
+      "newRegistration": "132 68 31140 12",
+      "apiSource": "YENTREVE 20 MG"
+    }
+  },
+  "nameHebrew": "יינטריב 20 מ\"ג",
+  "registrationDate": "2020-03-31"
 }

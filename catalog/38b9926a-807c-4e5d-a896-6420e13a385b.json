@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.244227"
-  }
+    "lastUpdated": "2025-08-01T16:47:06.331660",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESOPRIM S.K 20 MG 28 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:47:06.331669",
+      "previousRegistration": "162 75 35708 00",
+      "newRegistration": "162 75 35708 00",
+      "apiSource": "ESOPRIM S.K 20 MG"
+    }
+  },
+  "nameHebrew": "אסופרים אס.קיי. 20 מ\"ג",
+  "registrationDate": "2024-09-30"
 }

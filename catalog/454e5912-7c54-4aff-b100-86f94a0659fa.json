@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.338776"
-  }
+    "lastUpdated": "2025-08-01T15:40:28.168474",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALDACTONE 25MG 20T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:40:28.168484",
+      "previousRegistration": "125 97 24826 00",
+      "newRegistration": "125 97 24826 00",
+      "apiSource": "ALDACTONE 25 MG"
+    }
+  },
+  "nameHebrew": "אלדקטון 25 מ\"ג",
+  "registrationDate": "2022-07-31"
 }

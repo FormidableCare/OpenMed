@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 801.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.694182"
+    "lastUpdated": "2025-08-01T15:40:28.176986",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ALDACTONE 25 MG",
+        "registration": "125 97 24826 00",
+        "form": ""
+      },
+      {
+        "name": "METOPIRONE 250",
+        "registration": "068 34 23659 01",
+        "form": ""
+      },
+      {
+        "name": "SORBON 10",
+        "registration": "100 07 27954 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PIRON 801 MG 90 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20714285714285716,
+      "status": "failed_match"
+    }
   }
 }

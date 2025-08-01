@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.395386"
+    "lastUpdated": "2025-08-01T16:23:51.775804",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HALDOL 2 MG/ML DROPS",
+        "registration": "029 70 25163 00",
+        "form": ""
+      },
+      {
+        "name": "HALDOL 5 MG",
+        "registration": "025 56 21624 00",
+        "form": ""
+      },
+      {
+        "name": "HALDOL AMPOULES",
+        "registration": "024 04 21146 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HALDOL DECANOATE 100MG/ML 5 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

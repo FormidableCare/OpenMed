@@ -57,6 +57,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.077995"
+    "lastUpdated": "2025-08-01T16:07:58.664297",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PARAMOL",
+        "registration": "127 96 30764 00",
+        "form": ""
+      },
+      {
+        "name": "PARAMOL AF & SHIUL DAY CARE",
+        "registration": "127 91 30769 00",
+        "form": ""
+      },
+      {
+        "name": "PARAMOL AF & SHIUL NIGHT CARE",
+        "registration": "127 90 30770 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PARAMOL AF & SHIUL NIGHT CARE 20 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03571428571428572,
+      "status": "failed_match"
+    }
   }
 }

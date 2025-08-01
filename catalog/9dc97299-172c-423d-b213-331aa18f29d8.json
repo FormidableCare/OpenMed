@@ -31,10 +31,12 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.25,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.846985"
-  }
+    "lastUpdated": "2025-08-01T16:17:10.679429",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CONCOR 1.25 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:17:10.679448",
+      "previousRegistration": "167 22 35983 00",
+      "newRegistration": "167 22 35983 00",
+      "apiSource": "CONCOR 1.25 MG"
+    }
+  },
+  "nameHebrew": "קונקור 1.25 מ\"ג",
+  "registrationDate": "2021-04-28"
 }

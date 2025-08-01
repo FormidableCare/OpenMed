@@ -1,10 +1,10 @@
 {
   "catalogId": "3a1ef84f-a338-4757-931e-7088d79c3aec",
-  "name": "DULOX TEVA 30 MG",
+  "name": "DULOX TEVA 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 98 35976 00",
+  "registrationNumber": "166 99 36004 00",
   "treatmentDescriptions": "Dulox Teva is indicated for:- The treatment of major depressive episodes. - The management of neuropathic pain associated with diabetic peripheral neuropathy. - The treatment of generalized anxiety disorder (GAD).- The management of fibromyalgia. - The management of chronic muscoskeletal pain when other therapies have failed or are contra-indicated. This has been established in studies in patients with chronic low ‎back pain (CLBP) and chronic pain due to osteoarthritis.",
   "termsOfIssue": "Prescription required",
   "form": "gastro resistant capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.281755"
-  }
+    "lastUpdated": "2025-08-01T15:48:38.467492",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DULOX TEVA 60 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:48:38.467508",
+      "previousRegistration": "166 98 35976 00",
+      "newRegistration": "166 99 36004 00",
+      "apiSource": "DULOX TEVA 60 MG"
+    }
+  },
+  "nameHebrew": "דולוקס טבע 60 מ\"ג",
+  "registrationDate": "2021-03-21"
 }

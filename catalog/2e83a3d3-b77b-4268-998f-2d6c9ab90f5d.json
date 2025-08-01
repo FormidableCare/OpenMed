@@ -1,10 +1,10 @@
 {
   "catalogId": "2e83a3d3-b77b-4268-998f-2d6c9ab90f5d",
-  "name": "TOVIAZ 4 MG",
+  "name": "TOVIAZ 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 55 31658 00",
+  "registrationNumber": "139 56 31659 00",
   "treatmentDescriptions": "Treatment of the symptoms (increased urinary frequency and/or urgency and/or urgency incontinence) that may occur in patients with overactive bladder syndrome.",
   "termsOfIssue": "Prescription required",
   "form": "tablets sustained release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.187518"
-  }
+    "lastUpdated": "2025-08-01T17:55:04.586262",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOVIAZ 8MG 28 S.R.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:55:04.586271",
+      "previousRegistration": "139 55 31658 00",
+      "newRegistration": "139 56 31659 00",
+      "apiSource": "TOVIAZ 8 MG"
+    }
+  },
+  "nameHebrew": "טוביאז 8 מ\"ג",
+  "registrationDate": "2023-09-30"
 }

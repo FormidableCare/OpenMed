@@ -1,10 +1,10 @@
 {
   "catalogId": "85e1adef-c2fb-43aa-9958-a9e05763092d",
-  "name": "DEFIROX 125 MG",
+  "name": "DEFIROX 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 88 35880 00",
+  "registrationNumber": "167 89 35881 00",
   "treatmentDescriptions": "Defirox is indicated for the treatment of chronic iron overload due to blood transfusions (transfusional haemosiderosis) in adult and pediatric patients (aged 2 years and over). Defirox is also indicated for the treatment of chronic iron overload in patients with non-transfusion-dependent thalassemia syndromes aged 10 years and older. Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] &#8805;5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l). LIC is the preferred method of iron overload determination and should be used wherever available",
   "termsOfIssue": "Prescription required",
   "form": "dispersible tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.708372"
-  }
+    "lastUpdated": "2025-08-01T15:38:53.528864",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DEFIROX 250 MG  28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:53.528871",
+      "previousRegistration": "167 88 35880 00",
+      "newRegistration": "167 89 35881 00",
+      "apiSource": "DEFIROX 250 MG"
+    }
+  },
+  "nameHebrew": "דפירוקס 250 מ\"ג",
+  "registrationDate": "2021-07-22"
 }

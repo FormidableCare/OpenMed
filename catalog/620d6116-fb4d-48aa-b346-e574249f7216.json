@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.482521"
+    "lastUpdated": "2025-08-01T17:03:26.394041",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NORMITEN 100",
+        "registration": "045 35 24916 01",
+        "form": ""
+      },
+      {
+        "name": "NORMITEN 25",
+        "registration": "104 02 28834 01",
+        "form": ""
+      },
+      {
+        "name": "NORMITEN 50",
+        "registration": "051 72 24149 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NORMITEN 50MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

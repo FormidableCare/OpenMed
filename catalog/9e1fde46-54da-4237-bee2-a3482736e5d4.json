@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.849095"
+    "lastUpdated": "2025-08-01T17:42:16.692545",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VENTOLIN DISKUS",
+        "registration": "126 97 30674 00",
+        "form": ""
+      },
+      {
+        "name": "VENTOLIN INJECTION",
+        "registration": "027 64 21556 05",
+        "form": ""
+      },
+      {
+        "name": "VENTOLIN INHALER CFC FREE",
+        "registration": "113 25 29560 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VENTOLIN INH. CFC FREE 200ACT",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

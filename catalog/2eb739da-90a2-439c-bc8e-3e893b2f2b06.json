@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.189985"
+    "lastUpdated": "2025-08-01T17:14:58.056253",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+        "registration": "122 43 30111 00",
+        "form": ""
+      },
+      {
+        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
+        "registration": "122 42 30110 00",
+        "form": ""
+      },
+      {
+        "name": "ADVIL LIQUI-GELS 200",
+        "registration": "115 33 29761 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADVIL FORTE 400MG 20CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

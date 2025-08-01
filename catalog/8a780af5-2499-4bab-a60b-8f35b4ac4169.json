@@ -1,10 +1,10 @@
 {
   "catalogId": "8a780af5-2499-4bab-a60b-8f35b4ac4169",
-  "name": "ELTROXIN TABLETS 50 MCG",
+  "name": "ELTROXIN TABLETS 100 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "055 82 20571 00",
+  "registrationNumber": "027 92 22062 00",
   "treatmentDescriptions": "Treatment of hypothyroidism. Cretinism and juvenile myxoedema.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.745288"
-  }
+    "lastUpdated": "2025-08-01T17:54:04.617696",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ELTROXIN 100MCG 100T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:54:04.617704",
+      "previousRegistration": "055 82 20571 00",
+      "newRegistration": "027 92 22062 00",
+      "apiSource": "ELTROXIN TABLETS 100 MCG"
+    }
+  },
+  "nameHebrew": "אלטרוקסין טבליות 100 מק\"ג",
+  "registrationDate": "2022-09-30"
 }

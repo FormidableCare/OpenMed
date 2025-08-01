@@ -1,10 +1,10 @@
 {
   "catalogId": "549ad7ce-5c1b-4dda-a618-d90193567743",
-  "name": "FLIXOTIDE DISKUS 100 MCG",
+  "name": "FLIXOTIDE DISKUS 250 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "069 97 28478 00",
+  "registrationNumber": "069 96 28479 00",
   "treatmentDescriptions": "Prophylactic management of all grades of asthma.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.416997"
-  }
+    "lastUpdated": "2025-08-01T15:50:01.877944",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLIXOTIDE DISK 250MCG 60DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:50:01.877952",
+      "previousRegistration": "069 97 28478 00",
+      "newRegistration": "069 96 28479 00",
+      "apiSource": "FLIXOTIDE DISKUS 250 MCG"
+    }
+  },
+  "nameHebrew": "פליקסוטייד דיסקוס 250 מק\"ג",
+  "registrationDate": "2021-01-31"
 }

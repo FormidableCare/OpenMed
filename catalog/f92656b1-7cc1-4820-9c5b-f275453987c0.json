@@ -1,10 +1,10 @@
 {
   "catalogId": "f92656b1-7cc1-4820-9c5b-f275453987c0",
-  "name": "HYCAMTIN 0.25 MG",
+  "name": "HYCAMTIN 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 37 31862 00",
+  "registrationNumber": "141 38 31863 00",
   "treatmentDescriptions": "Indicated for the treatment of patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "hard gelatin capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.411095"
-  }
+    "lastUpdated": "2025-08-01T16:22:43.307642",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HYCAMTIN 1MG 10 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:22:43.307648",
+      "previousRegistration": "141 37 31862 00",
+      "newRegistration": "141 38 31863 00",
+      "apiSource": "HYCAMTIN 1 MG"
+    }
+  },
+  "nameHebrew": "היקמטין 1 מ\"ג",
+  "registrationDate": "2024-07-31"
 }

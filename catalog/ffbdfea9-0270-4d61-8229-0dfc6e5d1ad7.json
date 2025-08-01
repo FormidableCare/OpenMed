@@ -1,10 +1,10 @@
 {
   "catalogId": "ffbdfea9-0270-4d61-8229-0dfc6e5d1ad7",
-  "name": "DASATINIB SANDOZ ® 100 MG",
+  "name": "DASATINIB S.K. 140 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 10 36531 99",
+  "registrationNumber": "174 43 36740 99",
   "treatmentDescriptions": "Treatment of adult patients with :  Newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase.  Chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib mesilate.  Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 140.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.450249"
-  }
+    "lastUpdated": "2025-08-01T15:47:14.715157",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DASATINIB SANDOZ 140 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:47:14.715164",
+      "previousRegistration": "173 10 36531 99",
+      "newRegistration": "174 43 36740 99",
+      "apiSource": "DASATINIB S.K. 140 MG"
+    }
+  },
+  "nameHebrew": "דסטיניב אס.קיי 140 מ\"ג",
+  "registrationDate": "2023-09-20"
 }

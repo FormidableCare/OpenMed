@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.154991"
+    "lastUpdated": "2025-08-01T17:39:42.812487",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "URSOFALK 500",
+        "registration": "150 68 33832 01",
+        "form": ""
+      },
+      {
+        "name": "URSOFALK 500",
+        "registration": "150 68 33832 00",
+        "form": ""
+      },
+      {
+        "name": "URSOFALK CAPSULES 250",
+        "registration": "130 82 30680 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "URSOFALK 500MG 50 F.C.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

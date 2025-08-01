@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.413323"
+    "lastUpdated": "2025-08-01T17:17:10.492837",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GENOTROPIN 12 MG",
+        "registration": "121 35 27540 22",
+        "form": ""
+      },
+      {
+        "name": "GENOTROPIN 5.3 MG",
+        "registration": "111 08 26780 22",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GENOTROPIN 36UI CARTRIDGE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

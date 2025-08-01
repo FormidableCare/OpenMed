@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 160.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.619235"
-  }
+    "lastUpdated": "2025-08-01T15:52:52.393710",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EXFORGE 10MG/160MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:52:52.393726",
+      "previousRegistration": "138 42 31568 01",
+      "newRegistration": "138 42 31568 01",
+      "apiSource": "EXFORGE 10 MG/160 MG"
+    }
+  },
+  "nameHebrew": "אקספורג' 10 מ\"ג/ 160 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

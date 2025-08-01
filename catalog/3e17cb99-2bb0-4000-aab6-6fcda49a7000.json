@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.299651"
+    "lastUpdated": "2025-08-01T15:57:37.220369",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EXELON PATCH 10",
+        "registration": "139 70 31675 01",
+        "form": ""
+      },
+      {
+        "name": "EXELON PATCH 15",
+        "registration": "150 97 33884 01",
+        "form": ""
+      },
+      {
+        "name": "EXELON PATCH 5",
+        "registration": "139 69 31674 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EXELON 4.5MG 28CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.3,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.285232"
+    "lastUpdated": "2025-08-01T15:54:50.687343",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DEPO-PROVERA 150 MG/ML",
+        "registration": "069 69 24309 00",
+        "form": ""
+      },
+      {
+        "name": "DEPO-PROVERA 500",
+        "registration": "013 40 24544 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DEPO-PROVERA 3.3MLx150MG/ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02142857142857143,
+      "status": "failed_match"
+    }
   }
 }

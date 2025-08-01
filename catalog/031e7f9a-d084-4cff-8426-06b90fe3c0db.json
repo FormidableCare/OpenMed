@@ -1,10 +1,10 @@
 {
   "catalogId": "031e7f9a-d084-4cff-8426-06b90fe3c0db",
-  "name": "SIMVASTATIN TEVA ® 40 MG",
+  "name": "SIMVASTATIN TEVA 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "129 18 30737 00",
+  "registrationNumber": "120 94 30070 00",
   "treatmentDescriptions": "Coronary Heart Disease : In patients with coronary heart disease and hypercholesterolemia  Simvastatin-teva is indicated to:     Reduce the risk of total mortality by reducing coronary death ;Reduce the risk of non-fatal myocardial infarction ;Reduce the risk for undergoing myocardial revascularization procedures.      Reduce the risk of stroke and transient ischemic attacks (TIA).   Hyperlipidemia: Simvastatin-teva is indicated as an adjunct to diet to reduce elevated TOTAL-C  LDL-C  Apo B and TG  and to increase HDL-C in patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Frederickson Types IIa and IIb) Simvastatin-teva therefore  lowers the LDL-C/HDL-C and the total-C/HDL-C ratios.   Homozygous familial hypercholesterolemia: Simvastatin-teva is also indicated as an adjunct to diet and other non-dietary measures in reducing elevated total cholesterol  LDL-cholesterol and apolipoprotein B in patients with homozygous familial hypercholesterolemia when response to these measures is inadequate.   Hypertriglyceridemia (Fredrickson type IV hyperlipidemia). Simvastatin-teva is indicated for the treatment of patients with hypertriglyceridemia ( Fredrickson type IV  hyperlipidemia).  Dysbetalipoproteinemia (Fredrickson type III hyperlipidemia): Simvastatin-teva is also indicated for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.903923"
-  }
+    "lastUpdated": "2025-08-01T16:04:08.747015",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SIMVASTATIN-TEVA 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:04:08.747029",
+      "previousRegistration": "129 18 30737 00",
+      "newRegistration": "120 94 30070 00",
+      "apiSource": "SIMVASTATIN TEVA 10 MG"
+    }
+  },
+  "nameHebrew": "סימבסטאטין טבע 10 מ\"ג",
+  "registrationDate": "2020-11-30"
 }

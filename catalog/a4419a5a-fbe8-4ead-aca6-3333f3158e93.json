@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -55,11 +61,28 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 198.489125,
         "maxPriceWithVAT": 234.2171675
-      }
+      },
+      "formulation": [
+        "injection",
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.877846"
-  }
+    "lastUpdated": "2025-08-01T15:58:54.540475",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESRACAIN INJECTION 2% 50AMP/10ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9800000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:54.540490",
+      "previousRegistration": "020 82 21028 00",
+      "newRegistration": "020 82 21028 00",
+      "apiSource": "ESRACAIN INJECTION 2 %"
+    }
+  },
+  "nameHebrew": "עזראקאין זריקות % 2",
+  "registrationDate": "2021-11-30"
 }

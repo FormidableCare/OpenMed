@@ -31,10 +31,12 @@
         "name": "אבוט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.225566"
+    "lastUpdated": "2025-08-01T16:35:22.699898",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CREON 10000",
+        "registration": "103 48 28837 00",
+        "form": ""
+      },
+      {
+        "name": "CREON 25000",
+        "registration": "119 75 29972 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CREON 10000 U(150MG) 100CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

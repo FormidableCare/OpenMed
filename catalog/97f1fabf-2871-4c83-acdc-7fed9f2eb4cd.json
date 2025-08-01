@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +68,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.816681"
+    "lastUpdated": "2025-08-01T16:50:01.937698",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NUEDEXTA",
+        "registration": "149 88 33554 00",
+        "form": ""
+      },
+      {
+        "name": "NUEDEXTA",
+        "registration": "149 88 33554 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "QUINIDINE GLUCONATE 80MG/10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

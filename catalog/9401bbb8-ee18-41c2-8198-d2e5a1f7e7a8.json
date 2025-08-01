@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.790893"
+    "lastUpdated": "2025-08-01T15:24:19.608459",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABSTRAL 100 MCG",
+        "registration": "148 73 33262 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 200 MCG",
+        "registration": "148 74 33263 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 300 MCG",
+        "registration": "148 75 33264 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FENTA 75 5 PATCH",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

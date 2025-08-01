@@ -31,10 +31,16 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.9,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 1000.0,
         "unit": "units"
@@ -58,6 +64,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.196076"
+    "lastUpdated": "2025-08-01T17:15:00.076415",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "registration": "169 66 36052 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 95 26735 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 96 26734 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SODIUM CHLORIDE 0.9% IMUNA 1000ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

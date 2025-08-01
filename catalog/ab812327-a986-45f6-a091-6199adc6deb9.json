@@ -1,10 +1,10 @@
 {
   "catalogId": "ab812327-a986-45f6-a091-6199adc6deb9",
-  "name": "XANAGIS 0.25 MG",
+  "name": "XANAGIS 0.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "063 48 26906 00",
+  "registrationNumber": "063 46 26908 00",
   "treatmentDescriptions": "Treatment of anxiety accompanied by depression. Treatment of panic states with or without accompanying phobia.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.922030"
-  }
+    "lastUpdated": "2025-08-01T16:17:34.800947",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XANAGIS 0.50MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:17:34.800961",
+      "previousRegistration": "063 48 26906 00",
+      "newRegistration": "063 46 26908 00",
+      "apiSource": "XANAGIS 0.5 MG"
+    }
+  },
+  "nameHebrew": "קסנאגיס 0.5 מ\"ג",
+  "registrationDate": "2024-04-30"
 }

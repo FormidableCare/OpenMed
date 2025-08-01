@@ -31,10 +31,20 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.223499"
+    "lastUpdated": "2025-08-01T15:41:10.863719",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CLEXANE",
+        "registration": "046 77 26037 11",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CLEXANE 120MG/0.8ML SAFETY LOCK 10 SYR PREFIL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005555555555555556,
+      "status": "failed_match"
+    }
   }
 }

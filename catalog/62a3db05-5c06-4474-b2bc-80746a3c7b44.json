@@ -1,10 +1,10 @@
 {
   "catalogId": "62a3db05-5c06-4474-b2bc-80746a3c7b44",
-  "name": "DETRUSITOL SR 2 MG",
+  "name": "DETRUSITOL SR 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 56 30466 00",
+  "registrationNumber": "125 55 30467 00",
   "treatmentDescriptions": "For the treatment of patients with an overactive bladder with symptoms of urinary frequency, urgency or urge incontinence.",
   "termsOfIssue": "Prescription required",
   "form": "capsules slow release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 84.1963275,
         "maxPriceWithVAT": 99.35166645
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.488507"
-  }
+    "lastUpdated": "2025-08-01T16:38:11.919634",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DETRUSITOL SR 4MG 28CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9666666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:11.919651",
+      "previousRegistration": "125 56 30466 00",
+      "newRegistration": "125 55 30467 00",
+      "apiSource": "DETRUSITOL SR 4 MG"
+    }
+  },
+  "nameHebrew": "דטרוסיטול 4 מ\"ג SR",
+  "registrationDate": "2022-05-31"
 }

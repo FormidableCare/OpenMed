@@ -1,10 +1,10 @@
 {
   "catalogId": "7bb10e77-e96c-4bc1-b04f-159b56c1c8bb",
-  "name": "FANAPT TABLETS 1 MG",
+  "name": "FANAPT TABLETS 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 32 33482 00",
+  "registrationNumber": "148 36 33489 00",
   "treatmentDescriptions": "FANAPT is an atypical antipsychotic agent indicated for the treatment of schizophrenia in adults.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.636616"
-  }
+    "lastUpdated": "2025-08-01T16:50:55.979007",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FANAPT 8MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:55.979018",
+      "previousRegistration": "148 32 33482 00",
+      "newRegistration": "148 36 33489 00",
+      "apiSource": "FANAPT TABLETS 8 MG"
+    }
+  },
+  "nameHebrew": "פנאפט טבליות 8 מ\"ג",
+  "registrationDate": "2017-06-30"
 }

@@ -31,10 +31,24 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +74,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.193332"
+    "lastUpdated": "2025-08-01T16:10:08.279921",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GIROFLOX",
+        "registration": "133 31 30984 00",
+        "form": ""
+      },
+      {
+        "name": "NAFLOXIN",
+        "registration": "155 32 34358 00",
+        "form": ""
+      },
+      {
+        "name": "CETRAXAL",
+        "registration": "148 13 33374 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GIROFLOX 200MG/100ML (100ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

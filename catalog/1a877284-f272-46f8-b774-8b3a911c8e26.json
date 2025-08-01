@@ -1,10 +1,10 @@
 {
   "catalogId": "1a877284-f272-46f8-b774-8b3a911c8e26",
-  "name": "SOMATULINE AUTOGEL 120 MG",
+  "name": "SOMATULINE AUTOGEL 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "127 27 30485 00",
+  "registrationNumber": "127 25 30483 00",
   "treatmentDescriptions": "Somatuline autogel is indicated for the treatment of individuals with acromegaly when the circulating levels of Growth Hormone (GH) and/or insulin like growth factor-1 (IGF-1) remain abnormal after surgery and/or radiotherapy, or in patients who otherwise require medical treatmfent .The goal of treatment in acromegaly is to reduce GH and IGF-1 levels and where possible to normalize these values. Somatuline autogel is also indicated for the treatment of symptoms associated with neuroendocrine (particularly carcinoid) tumors.Somatuline autogel is also indicated for the treatment of grade 1 and a subset of grade 2 (Ki67 index up to 10%) gastroenteropancreatic neuroendocrine tumors (GEP-NETs) of midgut, pancreatic or unknown origin where hindgut sites of origin have been excluded, in adult patients with unresectable locally advanced or metastatic disease.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2158.848928,
         "maxPriceWithVAT": 2547.441621
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.061800"
-  }
+    "lastUpdated": "2025-08-01T16:24:08.578935",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOMATULINE AUTOGEL 60MG 1 PREFIL SYR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:24:08.578952",
+      "previousRegistration": "127 27 30485 00",
+      "newRegistration": "127 25 30483 00",
+      "apiSource": "SOMATULINE AUTOGEL 60 MG"
+    }
+  },
+  "nameHebrew": "סומטולין אוטוג'ל 60 מ\"ג",
+  "registrationDate": "2017-12-31"
 }

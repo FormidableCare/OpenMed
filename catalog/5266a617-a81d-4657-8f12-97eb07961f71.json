@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 750.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.404326"
+    "lastUpdated": "2025-08-01T17:45:12.311990",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CIPRODEX 250",
+        "registration": "123 59 30427 00",
+        "form": ""
+      },
+      {
+        "name": "CIPRODEX 500",
+        "registration": "123 60 30428 00",
+        "form": ""
+      },
+      {
+        "name": "CIPRODEX 750",
+        "registration": "123 61 30429 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CIPRODEX 750MG 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "ca4bb053-f213-4b66-8533-a8fcb97bbd88",
-  "name": "DEFERASIROX TEVA ® 125 MG",
+  "name": "DEFERASIROX TEVA ® 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 12 34651 00",
+  "registrationNumber": "161 14 34653 00",
   "treatmentDescriptions": "Deferasirox Teva is indicated for the treatment of chronic iron overload due to blood transfusions (transfusional hemosiderosis) in adult and pediatric patients (aged 2 years and over). Deferasirox Teva is also indicated for the treatment of chronic iron overload in patients with non-transfusion-dependent thalassemia syndromes aged 10 years and older. Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] &#8805;5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 μg /l).LIC is the preferred method of iron overload determination and should be used wherever available.",
   "termsOfIssue": "Prescription required",
   "form": "tablets dispersible",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.122139"
-  }
+    "lastUpdated": "2025-08-01T17:34:24.204254",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DEFERASIROX TEVA  500 MG 30 DIS TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8285714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:34:24.204267",
+      "previousRegistration": "161 12 34651 00",
+      "newRegistration": "161 14 34653 00",
+      "apiSource": "DEFERASIROX TEVA ® 500 MG"
+    }
+  },
+  "nameHebrew": "דפראסירוקס טבע ® 500 מ\"ג",
+  "registrationDate": "2023-11-30"
 }

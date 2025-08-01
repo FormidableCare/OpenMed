@@ -1,10 +1,10 @@
 {
   "catalogId": "0db8150e-15fa-45ce-84c6-49ed511f77f0",
-  "name": "XADAGO 100 MG",
+  "name": "XADAGO 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 64 35607 00",
+  "registrationNumber": "164 63 35606 00",
   "treatmentDescriptions": "Xadago is indicated for the treatment of adult patients with idiopathic Parkinson’s disease (PD) as add-on therapy to a stable dose of Levodopa (L-dopa) alone or in combination with other PD medicinal products in mid-to late-stage fluctuating patients.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.979044"
-  }
+    "lastUpdated": "2025-08-01T15:48:20.456609",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XADAGO 50 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:48:20.456624",
+      "previousRegistration": "164 64 35607 00",
+      "newRegistration": "164 63 35606 00",
+      "apiSource": "XADAGO 50 MG"
+    }
+  },
+  "nameHebrew": "קסדגו 50 מ\"ג",
+  "registrationDate": "2025-04-30"
 }

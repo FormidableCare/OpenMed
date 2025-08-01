@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.451565"
+    "lastUpdated": "2025-08-01T17:53:13.722714",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TIMONIL 300 RETARD",
+        "registration": "068 94 27055 00",
+        "form": ""
+      },
+      {
+        "name": "TIMONIL 600 RETARD",
+        "registration": "067 24 27139 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TIMONIL RET 600MG 50TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

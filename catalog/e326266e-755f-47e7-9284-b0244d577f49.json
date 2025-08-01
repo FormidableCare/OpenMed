@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.286557"
-  }
+    "lastUpdated": "2025-08-01T16:24:36.669419",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BENEFIX 1000IU/VIAL I.V 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:24:36.669440",
+      "previousRegistration": "120 57 30123 01",
+      "newRegistration": "120 57 30123 01",
+      "apiSource": "BENEFIX 1000 IU/VIAL"
+    }
+  },
+  "nameHebrew": "בנפיקס 1000 יח' בינ\"ל",
+  "registrationDate": "2020-11-30"
 }

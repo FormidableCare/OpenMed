@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +65,28 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 3932.443433,
         "maxPriceWithVAT": 4640.283045
-      }
+      },
+      "formulation": [
+        "injection",
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.767973"
-  }
+    "lastUpdated": "2025-08-01T15:23:06.266611",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "COSENTYX  SOLUTION FOR INJECTION 300MG/2ML PEN",
+      "processedBy": "smart_validation",
+      "matchScore": 0.17857142857142858,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:06.266625",
+      "previousRegistration": "154 20 34342 00",
+      "newRegistration": "154 20 34342 00",
+      "apiSource": "COSENTYX  SOLUTION FOR INJECTION"
+    }
+  },
+  "nameHebrew": "קוסנטיקס תמיסה להזרקה",
+  "registrationDate": "2020-07-31"
 }

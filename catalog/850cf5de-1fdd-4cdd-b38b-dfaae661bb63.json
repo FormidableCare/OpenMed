@@ -1,10 +1,10 @@
 {
   "catalogId": "850cf5de-1fdd-4cdd-b38b-dfaae661bb63",
-  "name": "GEODON IM 20 MG",
+  "name": "GEODON 40 MG CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 75 30516 00",
+  "registrationNumber": "124 79 30182 00",
   "treatmentDescriptions": "Rapid control of agitation in patients with schizophrenia, when oral therapy is not appropriate, for a maximum of 3 consecutive days.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.686937"
-  }
+    "lastUpdated": "2025-08-01T16:13:47.932845",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GEODON 40MG 60CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:13:47.932864",
+      "previousRegistration": "125 75 30516 00",
+      "newRegistration": "124 79 30182 00",
+      "apiSource": "GEODON 40 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "גאודון 40 מ\"ג קפסולות",
+  "registrationDate": "2022-02-28"
 }

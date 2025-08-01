@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 110.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 110.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.182224"
+    "lastUpdated": "2025-08-01T17:17:28.456010",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PROTHIAZINE 25 MG",
+        "registration": "109 46 25265 00",
+        "form": ""
+      },
+      {
+        "name": "PROTHIAZINE EXPECTORANT SYRUP",
+        "registration": "117 30 23206 00",
+        "form": ""
+      },
+      {
+        "name": "PROTHIAZINE SYRUP",
+        "registration": "115 73 23131 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PROTHIAZINE EXP110ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 115.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 115.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.291944"
+    "lastUpdated": "2025-08-01T15:39:11.404147",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HISTAZINE",
+        "registration": "109 59 29304 00",
+        "form": ""
+      },
+      {
+        "name": "HISTAZINE",
+        "registration": "104 99 28579 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HISTAZINE SYRUP 115ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

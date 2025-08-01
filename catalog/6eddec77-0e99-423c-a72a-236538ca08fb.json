@@ -31,10 +31,12 @@
         "name": "גיליאד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 463.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.570221"
+    "lastUpdated": "2025-08-01T17:30:49.426251",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SUNLENCA FILM-COATED TABLETS",
+        "registration": "173 21 37470 99",
+        "form": ""
+      },
+      {
+        "name": "SUNLENCA SOLUTION FOR INECTION",
+        "registration": "173 22 37473 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SUNLENCA 463.5 MG 2 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005555555555555556,
+      "status": "failed_match"
+    }
   }
 }

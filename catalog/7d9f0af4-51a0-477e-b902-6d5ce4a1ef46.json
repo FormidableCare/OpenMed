@@ -1,10 +1,10 @@
 {
   "catalogId": "7d9f0af4-51a0-477e-b902-6d5ce4a1ef46",
-  "name": "MINIRIN TABLETS 0.1 MG",
+  "name": "MINIRIN TABLETS 0.2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 99 25705 01",
+  "registrationNumber": "141 98 25704 01",
   "treatmentDescriptions": "Central diabetes insipidus.Nocturnal Enuresis. Treatment of nocturia in adults associated with nocturnal polyuria.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.2,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.650118"
-  }
+    "lastUpdated": "2025-08-01T16:18:53.948034",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MINIRIN 0.2MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:18:53.948045",
+      "previousRegistration": "141 99 25705 01",
+      "newRegistration": "141 98 25704 01",
+      "apiSource": "MINIRIN TABLETS 0.2 MG"
+    }
+  },
+  "nameHebrew": "מינירין טבליות 0.2 מ\"ג",
+  "registrationDate": "2024-07-31"
 }

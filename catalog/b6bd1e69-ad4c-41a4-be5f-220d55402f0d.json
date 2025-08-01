@@ -1,10 +1,10 @@
 {
   "catalogId": "b6bd1e69-ad4c-41a4-be5f-220d55402f0d",
-  "name": "JORVEZA 0.5 MG",
+  "name": "JORVEZA 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 53 36975 99",
+  "registrationNumber": "163 16 36104 00",
   "treatmentDescriptions": "Treatment of eosinophilic esophagitis (EoE) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "tablets orodispersible",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.000667"
-  }
+    "lastUpdated": "2025-08-01T17:20:32.278461",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JORVEZA 1 MG 90 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:20:32.278475",
+      "previousRegistration": "172 53 36975 99",
+      "newRegistration": "163 16 36104 00",
+      "apiSource": "JORVEZA 1 MG"
+    }
+  },
+  "nameHebrew": "ג'ורבזה 1 מ\"ג",
+  "registrationDate": "2024-11-30"
 }

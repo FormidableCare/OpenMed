@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +55,40 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.122722"
+    "lastUpdated": "2025-08-01T17:38:53.670052",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ASPIRIN 500",
+        "registration": "025 43 21130 00",
+        "form": ""
+      },
+      {
+        "name": "ASPIRIN C",
+        "registration": "057 86 24955 00",
+        "form": ""
+      },
+      {
+        "name": "ASPIRIN CARDIO",
+        "registration": "143 06 31982 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ASPIRIN 500MG INJECTION",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

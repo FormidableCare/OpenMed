@@ -1,10 +1,10 @@
 {
   "catalogId": "81113536-eda2-4d40-9ef2-1114384e5913",
-  "name": "SEROQUEL XR 150 MG",
+  "name": "SEROQUEL XR 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 97 33472 00",
+  "registrationNumber": "141 90 31974 00",
   "treatmentDescriptions": "Seroquel XR is indicated for the treatment of Schizophrenia. Seroquel XR is effective in preventing relapse in stable schizophrenic patients who have been maintained on Seroquel XR.  Seroquel XR is indicated for the treatment of moderate to severe manic episodes associated with bipolar disorder.Seroquel XR is indicated for the treatment of major depressive episodes in bipolar disorder. Treatment of acute mania associated with bipolar I disorder as monotherapy or in combination with lithium or sodium valproate.Seroquel XR is indicated for preventing recurrence in bipolar disorder in patients whose manic, mixed or depressive episode has responded to quetiapine treatment, as monotherapy or in combination with lithium or sodium valproate.Seroquel XR is indicated for add-on treatment of major depressive episods in patients with Major Depressive Disorder (MDD) who have had sub-optimal response to antidepressant monotherapy (see section 5.1 Pharmacodynamic properties). Prior to initiating treatment, clinicians should consider the safety profile of Seroquel XR.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.668418"
-  }
+    "lastUpdated": "2025-08-01T15:42:21.717967",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEROQUEL XR 200MG 30 TAB EXTENDED RELEASE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:42:21.717980",
+      "previousRegistration": "146 97 33472 00",
+      "newRegistration": "141 90 31974 00",
+      "apiSource": "SEROQUEL XR 200 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל אקס.אר 200 מ\"ג",
+  "registrationDate": "2024-10-31"
 }

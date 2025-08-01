@@ -31,10 +31,20 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.681260"
+    "lastUpdated": "2025-08-01T15:27:41.007434",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DOCETAXEL HOSPIRA 10 MG/ML",
+        "registration": "148 24 33345 00",
+        "form": ""
+      },
+      {
+        "name": "DOCETAXEL VENUS PHARMA 20 MG/ML",
+        "registration": "175 12 37136 99",
+        "form": ""
+      },
+      {
+        "name": "DOCETAXEL SEACROSS 20 MG/ML CONCENTRATE FOR SOLUTION FOR INFUSION",
+        "registration": "170 41 36282 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DOCETAXEL HOSPIRA 10MG/ML VIAL 20MG/2ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "8b6076b1-e379-4b20-8dd0-b738fa12d834",
-  "name": "TADALAMED 10 MG",
+  "name": "TADALAMED 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 52 37026 99",
+  "registrationNumber": "169 55 37030 99",
   "treatmentDescriptions": "For the treatment of Erectile dysfunction in adult men.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.748012"
-  }
+    "lastUpdated": "2025-08-01T17:01:16.235800",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TADALAMED 20 MG 4 tabs",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:16.235813",
+      "previousRegistration": "169 52 37026 99",
+      "newRegistration": "169 55 37030 99",
+      "apiSource": "TADALAMED 20 MG"
+    }
+  },
+  "nameHebrew": "טאדאלאמד 20 מ\"ג",
+  "registrationDate": "2022-05-01"
 }

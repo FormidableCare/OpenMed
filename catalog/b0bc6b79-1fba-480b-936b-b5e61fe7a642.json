@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.954477"
-  }
+    "lastUpdated": "2025-08-01T15:38:44.577649",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOMAVERT 10 MG   30 PreFilledSyringe x 1 ml solvent",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:44.577654",
+      "previousRegistration": "135 41 31357 00",
+      "newRegistration": "135 41 31357 00",
+      "apiSource": "SOMAVERT 10 MG"
+    }
+  },
+  "nameHebrew": "סומאברט 10 מ\"ג",
+  "registrationDate": "2021-08-31"
 }

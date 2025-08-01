@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 3423.719956,
         "maxPriceWithVAT": 4039.989548
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.167977"
-  }
+    "lastUpdated": "2025-08-01T16:10:16.352985",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VOLIBRIS 10 MG FC 30 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:10:16.353002",
+      "previousRegistration": "140 09 31884 00",
+      "newRegistration": "140 09 31884 00",
+      "apiSource": "VOLIBRIS 10 MG"
+    }
+  },
+  "nameHebrew": "ווליבריס 10 מ\"ג",
+  "registrationDate": "2024-01-31"
 }

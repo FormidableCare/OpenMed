@@ -31,10 +31,12 @@
         "name": "ג'ונסון אנד ג'ונסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 117.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.805066"
+    "lastUpdated": "2025-08-01T15:29:30.414116",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADATAR",
+        "registration": "163 95 35656 00",
+        "form": ""
+      },
+      {
+        "name": "OTOMYCIN",
+        "registration": "015 86 24749 00",
+        "form": ""
+      },
+      {
+        "name": "AUSTEDO 12 MG",
+        "registration": "166 59 36156 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BEN GAY ULTRA STR 4OZ (117gr)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

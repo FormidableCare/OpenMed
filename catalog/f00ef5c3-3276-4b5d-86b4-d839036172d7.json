@@ -1,10 +1,10 @@
 {
   "catalogId": "f00ef5c3-3276-4b5d-86b4-d839036172d7",
-  "name": "HEPARIN SODIUM B.BRAUN 5000 IU/ML",
+  "name": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 47 36469 00",
+  "registrationNumber": "158 04 34799 00",
   "treatmentDescriptions": "-\tPrevention of thromboembolic disorders. -\tAs part of the treatment of venous and arterial thromboembolic disorders (including early treatment of heart attacks as well as unstable angina pectoris). -\tFor the anticoagulation in case of treatment or operation with extracorporeal circulation (e.g. heart-lung machine, hemodialysis).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פארמלוג'יק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 588.092833,
         "maxPriceWithVAT": 693.9495121
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.360691"
-  }
+    "lastUpdated": "2025-08-01T17:22:40.151445",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HEPARIN INJECTION BP 5000 UNITS/ML\t   5ML  25VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8076923076923077,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:22:40.151466",
+      "previousRegistration": "172 47 36469 00",
+      "newRegistration": "158 04 34799 00",
+      "apiSource": "HEPARIN SODIUM TEVA 25000 IU/ 5 ML"
+    }
+  },
+  "nameHebrew": "הפרין סודיום טבע 25000 יחב\"ל/5 מ\"ל",
+  "registrationDate": "2022-02-28"
 }

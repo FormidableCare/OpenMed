@@ -1,10 +1,10 @@
 {
   "catalogId": "4182c6a4-6d70-45e0-8219-00b2901b8b9e",
-  "name": "XARELTO 1 MG/ML GRANULES FOR ORAL SUSPENSION",
+  "name": "XARELTO 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 12 37097 99",
+  "registrationNumber": "142 57 31927 00",
   "treatmentDescriptions": "Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in term   neonates, infants and toddlers, children, and adolescents aged less than 18 years after at least 5 days of initial parenteral anticoagulation treatment.",
   "termsOfIssue": "Prescription required",
   "form": "granules for oral suspension",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 229.3036,
         "maxPriceWithVAT": 270.578248
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.318479"
-  }
+    "lastUpdated": "2025-08-01T16:36:59.746648",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XARELTO 10MG  30  TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:36:59.746659",
+      "previousRegistration": "174 12 37097 99",
+      "newRegistration": "142 57 31927 00",
+      "apiSource": "XARELTO 10 MG"
+    }
+  },
+  "nameHebrew": "קסרלטו 10 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

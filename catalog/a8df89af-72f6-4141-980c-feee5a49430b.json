@@ -1,10 +1,10 @@
 {
   "catalogId": "a8df89af-72f6-4141-980c-feee5a49430b",
-  "name": "VARDENAFIL INOVAMED 10 MG",
+  "name": "VARDENAFIL INOVAMED 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 12 36000 00",
+  "registrationNumber": "168 13 36001 00",
   "treatmentDescriptions": "Treatment of erectile dysfunction, which is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Vardenafil Inovamed to be effective, sexual stimulation is required. Not indicated for use by women",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.900543"
-  }
+    "lastUpdated": "2025-08-01T17:52:30.454907",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VARDENAFIL INOVAMED 20 MG 4 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:52:30.454914",
+      "previousRegistration": "168 12 36000 00",
+      "newRegistration": "168 13 36001 00",
+      "apiSource": "VARDENAFIL INOVAMED 20 MG"
+    }
+  },
+  "nameHebrew": "וארדנאפיל אינובמד 20  מ\"ג",
+  "registrationDate": "2021-08-19"
 }

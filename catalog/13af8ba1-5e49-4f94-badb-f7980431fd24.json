@@ -1,10 +1,10 @@
 {
   "catalogId": "13af8ba1-5e49-4f94-badb-f7980431fd24",
-  "name": "FOSRENOL ® 750 MG CHEWABLE TABLETS",
+  "name": "FOSRENOL ® 500 MG CHEWABLE TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "140 51 31998 00",
+  "registrationNumber": "140 50 31968 00",
   "treatmentDescriptions": "Fosrenol is indicated as a phosphate binding agent for use in the control of hyperphosphatemia in CRF patients on haemodyalisis or continuous ambulatory peritoneal dialysis (CAPD).Fosrenol is also indicated in adult patients with chronic kidney disease not on dialysis with serum phosphate levels > or = 1.78 mmol/L in whom a low phosphate diet alone is insufficient to control serum phosphate levels.",
   "termsOfIssue": "Prescription required",
   "form": "chewable tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 595.4715402,
         "maxPriceWithVAT": 702.6563862
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.018951"
-  }
+    "lastUpdated": "2025-08-01T15:49:16.476939",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FOSRENOL 500MG 90 CHEW TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9555555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:49:16.476952",
+      "previousRegistration": "140 51 31998 00",
+      "newRegistration": "140 50 31968 00",
+      "apiSource": "FOSRENOL ® 500 MG CHEWABLE TABLETS"
+    }
+  },
+  "nameHebrew": "פוסרנול 500 מ\"ג טבליות לעיסה",
+  "registrationDate": "2024-04-30"
 }

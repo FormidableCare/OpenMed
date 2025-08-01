@@ -1,10 +1,10 @@
 {
   "catalogId": "6ec3cc21-8466-42b8-bdb5-cfb9030919b8",
-  "name": "CHOLBAM 250 MG",
+  "name": "CHOLBAM 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 89 34270 00",
+  "registrationNumber": "155 88 34268 00",
   "treatmentDescriptions": "• Cholbam is indicated for the treatment of inborn errors in primary bile acid synthesis due to Sterol 27-hydroxylase (presenting as cerebrotendinous xanthomatosis, CTX) deficiency, • 2- (or alfa - ) methylacyl-CoA racemase (AMACR) deficiency in infants, children and adolescents aged 1 month to 18 years and adults• Cholesterol 7 alfa - hydroxylase (CYP7A1) deficiency in infants, children and adolescents aged 1 month to 18 years and adults• 3β-hydroxy-5-C27-steroid oxidoreductase deficiency (also known as 3β-hydroxy-5-C27-steroid dehydrogenase/isomerase or 3β-HSD or HSD3β7.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.569571"
-  }
+    "lastUpdated": "2025-08-01T16:55:52.992596",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CHOLBAM 50MG 90CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:55:52.992609",
+      "previousRegistration": "155 89 34270 00",
+      "newRegistration": "155 88 34268 00",
+      "apiSource": "CHOLBAM 50 MG"
+    }
+  },
+  "nameHebrew": "כולבם 50 מ\"ג",
+  "registrationDate": "2021-04-30"
 }

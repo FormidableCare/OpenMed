@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -58,6 +68,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.347188"
+    "lastUpdated": "2025-08-01T16:08:52.023382",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ERELZI 25",
+        "registration": "163 20 36011 00",
+        "form": ""
+      },
+      {
+        "name": "ERELZI 50",
+        "registration": "163 21 36037 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ERELZI 50 MG/1ML 4 PRE FILLED PEN",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

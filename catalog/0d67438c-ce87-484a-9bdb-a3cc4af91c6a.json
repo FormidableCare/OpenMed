@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.975951"
+    "lastUpdated": "2025-08-01T15:56:04.939062",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CRUSIA",
+        "registration": "162 88 35673 00",
+        "form": ""
+      },
+      {
+        "name": "CRUSIA FORTE",
+        "registration": "173 13 37520 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CRUSIA 100MG/ML 2 SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

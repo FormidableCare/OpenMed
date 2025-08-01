@@ -31,10 +31,12 @@
         "name": "נעמי שאקו עזרה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.635603"
-  }
+    "lastUpdated": "2025-08-01T17:50:12.926531",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUBUTEX 2MG 7SUBLING TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:12.926544",
+      "previousRegistration": "133 88 29872 00",
+      "newRegistration": "133 88 29872 00",
+      "apiSource": "SUBUTEX 2 MG"
+    }
+  },
+  "nameHebrew": "סובוטקס 2 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

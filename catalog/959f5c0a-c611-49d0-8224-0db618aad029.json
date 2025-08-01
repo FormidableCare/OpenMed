@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.802712"
+    "lastUpdated": "2025-08-01T15:39:57.371545",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "YASMIN",
+        "registration": "122 02 30220 00",
+        "form": ""
+      },
+      {
+        "name": "YASMIN PLUS",
+        "registration": "152 83 33906 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "YASMIN PLUS 3X28 F.C.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

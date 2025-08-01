@@ -31,10 +31,16 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.349120"
+    "lastUpdated": "2025-08-01T16:48:45.457878",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FUCIDIN",
+        "registration": "100 49 24510 00",
+        "form": ""
+      },
+      {
+        "name": "FUCIDIN H",
+        "registration": "129 68 29439 00",
+        "form": ""
+      },
+      {
+        "name": "FUCIDIN OINTMENT",
+        "registration": "056 28 26528 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FUCIDIN OINT 2% 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

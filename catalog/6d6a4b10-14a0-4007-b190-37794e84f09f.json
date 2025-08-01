@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.560473"
-  }
+    "lastUpdated": "2025-08-01T16:26:22.095619",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLIXOTIDE INH CFC FREE 125MCG 120DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:26:22.095625",
+      "previousRegistration": "129 81 30973 11",
+      "newRegistration": "129 81 30973 11",
+      "apiSource": "FLIXOTIDE INHALER CFC FREE 125 MCG"
+    }
+  },
+  "nameHebrew": "פליקסוטייד משאף 125 מק\"ג ללא סי אף סי",
+  "registrationDate": "2024-01-31"
 }

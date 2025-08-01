@@ -1,10 +1,10 @@
 {
   "catalogId": "0a6c0e0a-02b3-4c51-8670-3b9e063cb83d",
-  "name": "DIMETHYL FUMARATE MEDOMIE 120 MG",
+  "name": "DIMETHYL FUMARATE MEDOMIE 240 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 06 36832 99",
+  "registrationNumber": "170 07 36833 99",
   "treatmentDescriptions": "Indicated for the treatment of adult patients with relapsing remitting multiple sclerosis.",
   "termsOfIssue": "Prescription required",
   "form": "capsules delayed release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדומי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 240.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.953746"
-  }
+    "lastUpdated": "2025-08-01T16:34:59.944069",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DIMETHYL FUMARATE MEDOMIE 240 MG 60 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:34:59.944083",
+      "previousRegistration": "170 06 36832 99",
+      "newRegistration": "170 07 36833 99",
+      "apiSource": "DIMETHYL FUMARATE MEDOMIE 240 MG"
+    }
+  },
+  "nameHebrew": "דימתיל פומרט מדומי 240 מ\"ג",
+  "registrationDate": "2022-07-05"
 }

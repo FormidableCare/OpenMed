@@ -1,10 +1,10 @@
 {
   "catalogId": "10042cd6-ce40-4c6a-821e-70db33228ef7",
-  "name": "RIVAROXABAN DEXCEL 10 MG",
+  "name": "RIVAROXABAN S.K. 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 93 36479 99",
+  "registrationNumber": "170 37 36327 00",
   "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), adults (following completion of at least 6 months therapy for DVT or PE).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.989898"
-  }
+    "lastUpdated": "2025-08-01T17:36:45.378573",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIVAROXABAN DEXCEL 10 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:36:45.378585",
+      "previousRegistration": "172 93 36479 99",
+      "newRegistration": "170 37 36327 00",
+      "apiSource": "RIVAROXABAN S.K. 10 MG"
+    }
+  },
+  "nameHebrew": "ריברוקסבאן אס.קיי. 10 מ\"ג",
+  "registrationDate": "2022-08-17"
 }

@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.181716"
+    "lastUpdated": "2025-08-01T15:50:46.004306",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACYCLO-V 200",
+        "registration": "118 62 28104 00",
+        "form": ""
+      },
+      {
+        "name": "ACYCLO-V 400",
+        "registration": "118 63 28105 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACYCLO-V 400MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

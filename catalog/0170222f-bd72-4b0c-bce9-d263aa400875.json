@@ -31,10 +31,12 @@
         "name": "פארמהמדיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.888059"
+    "lastUpdated": "2025-08-01T15:24:19.629757",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABSTRAL 100 MCG",
+        "registration": "148 73 33262 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 200 MCG",
+        "registration": "148 74 33263 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 300 MCG",
+        "registration": "148 75 33264 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FENTANYL -PIRAMAL 0.05 MG/ML 5 amp 10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

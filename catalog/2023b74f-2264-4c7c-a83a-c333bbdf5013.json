@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.094983"
-  }
+    "lastUpdated": "2025-08-01T17:55:35.794200",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GILEX 10MG 30CAP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:55:35.794213",
+      "previousRegistration": "033 55 22651 00",
+      "newRegistration": "033 55 22651 00",
+      "apiSource": "GILEX 10 MG"
+    }
+  },
+  "nameHebrew": "גילקס 10 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

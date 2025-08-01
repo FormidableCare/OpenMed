@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.801994"
+    "lastUpdated": "2025-08-01T15:25:48.849706",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BIMATOL S.K.",
+        "registration": "176 79 37180 99",
+        "form": ""
+      },
+      {
+        "name": "BIMATOPROST S.K.",
+        "registration": "161 03 35010 00",
+        "form": ""
+      },
+      {
+        "name": "BIMATOPROST TEVA ®",
+        "registration": "161 04 35257 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BIMATOPROST TEVA BOTTLE  3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

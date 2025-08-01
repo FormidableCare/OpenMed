@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5000.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.103310"
+    "lastUpdated": "2025-08-01T15:33:02.377897",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DIFLUCAN 50 MG/5 ML",
+        "registration": "106 79 29073 00",
+        "form": ""
+      },
+      {
+        "name": "TRIFLUCAN I.V.",
+        "registration": "106 22 29072 00",
+        "form": ""
+      },
+      {
+        "name": "TRICAN 200 MG CAPSULES",
+        "registration": "118 50 29947 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FLUCONAZOLE MBI 2 MG/ ML 100 ML 50 BAG",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21500000000000002,
+      "status": "failed_match"
+    }
   }
 }

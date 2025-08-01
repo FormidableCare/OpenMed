@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -55,11 +57,35 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1818.484075,
         "maxPriceWithVAT": 2145.811113
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.426533"
+    "lastUpdated": "2025-08-01T17:16:46.095141",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PRALUENT 150 MG/ML",
+        "registration": "156 09 34568 00",
+        "form": ""
+      },
+      {
+        "name": "PRALUENT 75 MG/ML",
+        "registration": "156 08 34583 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PRALUENT 75 MG INJECTION 2 PREFILLED SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.018750000000000003,
+      "status": "failed_match"
+    }
   }
 }

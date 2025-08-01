@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.884265"
+    "lastUpdated": "2025-08-01T17:09:45.385358",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ALCOXIDINE",
+        "registration": "116 50 28130 00",
+        "form": ""
+      },
+      {
+        "name": "ALCOXIDINE TEVA",
+        "registration": "166 21 36419 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ALCOXIDINE SOL 1 L",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

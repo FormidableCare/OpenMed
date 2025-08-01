@@ -1,10 +1,10 @@
 {
   "catalogId": "47206084-7e2b-48d7-a1b4-7e9ca3b71ed2",
-  "name": "PHENOBARBITONE REKAH 100 MG",
+  "name": "PHENOBARBITONE REKAH 15 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "028 67 21938 00",
+  "registrationNumber": "028 45 21937 00",
   "treatmentDescriptions": "Sedative, hypnotic.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.347513"
-  }
+    "lastUpdated": "2025-08-01T17:17:36.437644",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PHENOBARBITONE 15MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:36.437652",
+      "previousRegistration": "028 67 21938 00",
+      "newRegistration": "028 45 21937 00",
+      "apiSource": "PHENOBARBITONE REKAH 15 MG"
+    }
+  },
+  "nameHebrew": "פנוברביטון רקח 15 מ\"ג",
+  "registrationDate": "2022-11-30"
 }

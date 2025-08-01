@@ -1,10 +1,10 @@
 {
   "catalogId": "6627b528-6a56-4dbf-8a22-40abb140f7e8",
-  "name": "SAPHRIS 10 MG",
+  "name": "SAPHRIS 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 05 33229 00",
+  "registrationNumber": "146 04 33228 00",
   "treatmentDescriptions": "Schizophrenia SAPHRIS is indicated for the treatment of schizophrenia in adults. The efficacy of SAPHRIS was established in two 6-week trials and one maintenance trial in adults Bipolar Disorder Monotherapy: SAPHRIS is indicated for the acute treatment of manic or mixed episodes associated with bipolar I disorder. Efficacy was established in two 3-week monotherapy trials in adults Adjunctive Therapy: SAPHRIS is indicated as adjunctive therapy with either lithium or valproate for the acute treatment of manic or mixed episodes associated with bipolar I disorder. Efficacy was established in one 3-week adjunctive trial in adults.",
   "termsOfIssue": "Prescription required",
   "form": "tablets sublingual",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.519800"
-  }
+    "lastUpdated": "2025-08-01T17:29:35.507678",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SAPHRIS 5MG 20 SUBLINGUAL TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:29:35.507691",
+      "previousRegistration": "146 05 33229 00",
+      "newRegistration": "146 04 33228 00",
+      "apiSource": "SAPHRIS 5 MG"
+    }
+  },
+  "nameHebrew": "סאפריס 5 מ\"ג",
+  "registrationDate": "2016-04-30"
 }

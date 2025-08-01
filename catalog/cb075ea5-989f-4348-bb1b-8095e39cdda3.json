@@ -1,10 +1,10 @@
 {
   "catalogId": "cb075ea5-989f-4348-bb1b-8095e39cdda3",
-  "name": "ORILISSA150 MG",
+  "name": "ORILISSA 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 66 35928 00",
+  "registrationNumber": "164 67 35953 00",
   "treatmentDescriptions": "Orilissa is indicated for the management of moderate to severe pain associated with endometriosis.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.125973"
-  }
+    "lastUpdated": "2025-08-01T15:37:10.053145",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ORILISSA 200 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:37:10.053164",
+      "previousRegistration": "164 66 35928 00",
+      "newRegistration": "164 67 35953 00",
+      "apiSource": "ORILISSA 200 MG"
+    }
+  },
+  "nameHebrew": "אוריליסה 200 מ\"ג",
+  "registrationDate": "2025-04-30"
 }

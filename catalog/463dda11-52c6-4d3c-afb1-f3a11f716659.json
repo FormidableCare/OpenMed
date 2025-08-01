@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.345246"
-  }
+    "lastUpdated": "2025-08-01T16:55:52.996499",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CHOLBAM 250MG 90CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:55:52.996510",
+      "previousRegistration": "155 89 34270 00",
+      "newRegistration": "155 89 34270 00",
+      "apiSource": "CHOLBAM 250 MG"
+    }
+  },
+  "nameHebrew": "כולבם 250 מ\"ג",
+  "registrationDate": "2021-04-30"
 }

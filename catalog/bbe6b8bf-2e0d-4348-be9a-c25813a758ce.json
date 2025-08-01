@@ -1,10 +1,10 @@
 {
   "catalogId": "bbe6b8bf-2e0d-4348-be9a-c25813a758ce",
-  "name": "AFINITOR 10 MG",
+  "name": "AFINITOR 2.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "142 87 32046 01",
+  "registrationNumber": "146 82 33388 00",
   "treatmentDescriptions": "- For the treatment of patients with SEGA associated with tuberous sclerosis Complex (TSC) who require therapeutic intervention but are not candidates for curative surgical resection.The effectiveness of Afinitor is based on an analysis of change in SEGA volume. Clinical benefit such as improvement in disease-related symptoms or increase in overall survival has not been demonstrated.- Treatment of progressive neuroendocrine tumors of pancreatic origin (PNET) in patients with unresectable, locally advanced or metastatic disease.The safety and effectiveness of AFINITOR® in the treatment of patients with carcinoid tumors have not been established.- For the treatment of hormone receptor – positive, HER2/neu negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression follwing a non – steroidal aromatase inhibitor.- Afinitor ® is indicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery. The effectiveness of Afinitor in treatment of renal angiomyolipoma is based on an analysis of durable objective responses in patients treated for a median of 8.3 months. Further follow-up of patients is required to determine long-term outcomes.- Afinitor ® is indicated for the treatment of patients with advanced renal cell carcinoma, whose disease has progressed on or after treatment with VEGF-targeted therapy.-  Treatment of unresectable, locally advanced  or metastatic, well-differentiated (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal or lung origin in adults with progressive disease",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2640.588235,
         "maxPriceWithVAT": 3115.894118
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.037571"
-  }
+    "lastUpdated": "2025-08-01T15:51:50.995977",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AFINITOR 2.5MG 30TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:51:50.995995",
+      "previousRegistration": "142 87 32046 01",
+      "newRegistration": "146 82 33388 00",
+      "apiSource": "AFINITOR 2.5 MG"
+    }
+  },
+  "nameHebrew": "אפיניטור 2.5 מ\"ג",
+  "registrationDate": "2016-10-31"
 }

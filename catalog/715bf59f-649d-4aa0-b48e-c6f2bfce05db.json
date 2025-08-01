@@ -1,10 +1,10 @@
 {
   "catalogId": "715bf59f-649d-4aa0-b48e-c6f2bfce05db",
-  "name": "VIA-AVENIR 100 MG",
+  "name": "BRIVIACT 50 MG FILM COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 72 33415 01",
+  "registrationNumber": "159 90 35243 00",
   "treatmentDescriptions": "Treatment of erectile dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.586319"
-  }
+    "lastUpdated": "2025-08-01T15:35:46.991345",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VIA AVENIR 50MG 4TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:35:46.991360",
+      "previousRegistration": "147 72 33415 01",
+      "newRegistration": "159 90 35243 00",
+      "apiSource": "BRIVIACT 50 MG FILM COATED TABLETS"
+    }
+  },
+  "nameHebrew": "בריביאקט 50 מ\"ג טבליות מצופות",
+  "registrationDate": "2022-12-31"
 }

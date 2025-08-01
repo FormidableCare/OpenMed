@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.223319"
+    "lastUpdated": "2025-08-01T17:26:57.595287",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VANCOAVENIR 1 G",
+        "registration": "153 18 34020 00",
+        "form": ""
+      },
+      {
+        "name": "VANCOAVENIR 500 MG",
+        "registration": "153 17 34018 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VANCOMYCIN MYLAN 1G/VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

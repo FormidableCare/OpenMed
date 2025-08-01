@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2035.295163,
         "maxPriceWithVAT": 2401.648186
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.069650"
-  }
+    "lastUpdated": "2025-08-01T16:53:15.951698",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ISENTRESS 600 MG TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.38,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:53:15.951708",
+      "previousRegistration": "140 33 31793 01",
+      "newRegistration": "140 33 31793 01",
+      "apiSource": "ISENTRESS 400 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אייסנטרס 400 מ\"ג טבליות",
+  "registrationDate": "2024-03-31"
 }

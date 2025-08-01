@@ -1,10 +1,10 @@
 {
   "catalogId": "7adcc5bc-2c50-45ec-82cf-b6601f5c2461",
-  "name": "ESOPRIM S.K 20 MG",
+  "name": "ESOPRIM S.K 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 75 35708 00",
+  "registrationNumber": "162 76 35709 00",
   "treatmentDescriptions": "Esoprim S.K. 20 mg indicated in adults for:Gastroesophageal Reflux Disease (GERD)- treatment of erosive reflux esophagitis - long-term management of patients with healed esophagitis to prevent relapse - symptomatic treatment of gastroesophageal reflux disease. In combination with appropriate antibacterial therapeutic regimens for the eradication of Helicobacter pylori and- healing of Helicobacter pylori associated duodenal ulcer and prevention of relapse of peptic ulcers in patients with Helicobacter pylori associated ulcers -Patients requiring continued NSAID therapy Healing of gastric ulcers associated with NSAID therapy. - Prevention of gastric and duodenal ulcers associated with NSAID therapy, in patients at risk. - Prolonged treatment after i.v. induced prevention of rebleeding of peptic ulcers. Esoprim S.K 20 mg is indicated in adolescents from the age of 12 years for: Gastro-esophageal Reflux Disease (GERD) - treatment of erosive reflux esophagitis -long-term management of patients with healed esophagitis to prevent relapse-symptomatic treatment of gastro-esophageal reflux diseaseIn combination with antibiotics in treatment of duodenal ulcer caused by Helicobacter pylori.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.630082"
-  }
+    "lastUpdated": "2025-08-01T16:47:06.329754",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESOPRIM S.K 40 MG 28 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:47:06.329761",
+      "previousRegistration": "162 75 35708 00",
+      "newRegistration": "162 76 35709 00",
+      "apiSource": "ESOPRIM S.K 40 MG"
+    }
+  },
+  "nameHebrew": "אסופרים אס.קיי. 40 מ\"ג",
+  "registrationDate": "2024-09-30"
 }

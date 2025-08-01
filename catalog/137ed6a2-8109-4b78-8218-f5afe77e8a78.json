@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.017120"
-  }
+    "lastUpdated": "2025-08-01T15:56:23.605791",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "INVEGA 3MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:56:23.605801",
+      "previousRegistration": "139 15 31639 01",
+      "newRegistration": "139 15 31639 01",
+      "apiSource": "INVEGA 3 MG"
+    }
+  },
+  "nameHebrew": "אינווגה 3 מ\"ג",
+  "registrationDate": "2023-07-31"
 }

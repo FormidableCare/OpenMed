@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 160.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 4.5,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.004755"
-  }
+    "lastUpdated": "2025-08-01T16:56:09.040588",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DUORESP SPIROMAX 160 MCG/4.5 MCG 120DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:56:09.040602",
+      "previousRegistration": "154 58 34443 00",
+      "newRegistration": "154 58 34443 00",
+      "apiSource": "DUORESP ® SPIROMAX ® 160 MCG/4.5 MCG"
+    }
+  },
+  "nameHebrew": "דואו-רספ ® ספירומקס ® 160 מק\"ג /4.5 מק\"ג",
+  "registrationDate": "2020-09-30"
 }

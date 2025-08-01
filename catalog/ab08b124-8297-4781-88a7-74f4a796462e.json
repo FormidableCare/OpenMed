@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 63.46966835,
         "maxPriceWithVAT": 74.89420533
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.918595"
-  }
+    "lastUpdated": "2025-08-01T17:01:42.956120",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "WELLBUTRIN XR 150MG 30 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:42.956125",
+      "previousRegistration": "140 05 31653 00",
+      "newRegistration": "140 05 31653 00",
+      "apiSource": "WELLBUTRIN XR 150 MG"
+    }
+  },
+  "nameHebrew": "וולבוטרין  150 מ\"ג XR",
+  "registrationDate": "2024-01-31"
 }

@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.368099"
+    "lastUpdated": "2025-08-01T16:24:36.674077",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BENEFIX 1000 IU/VIAL",
+        "registration": "120 57 30123 01",
+        "form": ""
+      },
+      {
+        "name": "BENEFIX 2000 IU/VIAL",
+        "registration": "142 66 31926 00",
+        "form": ""
+      },
+      {
+        "name": "BENEFIX 250 IU/VIAL",
+        "registration": "120 55 30121 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BENEFIX 500 IU/VIAL I.V 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21875,
+      "status": "failed_match"
+    }
   }
 }

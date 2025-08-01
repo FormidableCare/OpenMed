@@ -1,10 +1,10 @@
 {
   "catalogId": "dc92d3e1-acc6-436e-a4ea-8cad422a9b20",
-  "name": "SYNTHOMYCINE 3 %",
+  "name": "SYNTHOMYCINE 5%",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "025 11 20849 00",
+  "registrationNumber": "023 41 20850 00",
   "treatmentDescriptions": "Antibiotic.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.6,
+          "unit": "g"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 3.6,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.247364"
-  }
+    "lastUpdated": "2025-08-01T16:58:25.168386",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SYNTHOMYCINE 5% OINT 3.6G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8200000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:58:25.168398",
+      "previousRegistration": "025 11 20849 00",
+      "newRegistration": "023 41 20850 00",
+      "apiSource": "SYNTHOMYCINE 5%"
+    }
+  },
+  "nameHebrew": "סינטומיצין % 5",
+  "registrationDate": "2022-01-31"
 }

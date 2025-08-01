@@ -1,10 +1,10 @@
 {
   "catalogId": "612dc223-0116-4549-9b38-c8003b10f2f8",
-  "name": "CEFUAVENIR 250 MG",
+  "name": "CEFUAVENIR 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 07 36745 99",
+  "registrationNumber": "174 08 36746 99",
   "treatmentDescriptions": "CefuAvenir is indicated for the treatment of the infections listed below in adults and children from the  age of 3 :months .• Acute streptococcal tonsillitis and pharyngitis.• Acute bacterial sinusitis.• Acute otitis media.• Acute exacerbations of chronic bronchitis.• Cystitis.• Pyelonephritis.• Uncomplicated skin and soft tissue infections. •Treatment of early Lyme disease.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.480055"
-  }
+    "lastUpdated": "2025-08-01T16:22:09.002001",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CEFUAVENIR 500 MG 10 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:22:09.002016",
+      "previousRegistration": "174 07 36745 99",
+      "newRegistration": "174 08 36746 99",
+      "apiSource": "CEFUAVENIR 500 MG"
+    }
+  },
+  "nameHebrew": "צפואבניר 500 מ\"ג",
+  "registrationDate": "2023-07-27"
 }

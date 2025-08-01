@@ -1,10 +1,10 @@
 {
   "catalogId": "6e1d3047-5eb2-4640-9d51-b49c806ef8b2",
-  "name": "PROGRAF 0.5 MG",
+  "name": "PROGRAF 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "122 07 30215 00",
+  "registrationNumber": "107 69 29158 00",
   "treatmentDescriptions": "Prophylaxis of transplant rejection in liver  kidney or heart allograft recipients.   Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטלס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 615.14258,
         "maxPriceWithVAT": 725.8682444
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.564273"
-  }
+    "lastUpdated": "2025-08-01T16:48:07.343705",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROGRAF 1 MG 100 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:07.343717",
+      "previousRegistration": "122 07 30215 00",
+      "newRegistration": "107 69 29158 00",
+      "apiSource": "PROGRAF 1 MG"
+    }
+  },
+  "nameHebrew": "פרוגרף 1 מ\"ג",
+  "registrationDate": "2022-10-31"
 }

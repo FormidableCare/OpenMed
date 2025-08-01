@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.304934"
+    "lastUpdated": "2025-08-01T16:38:45.945319",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MILHARDT",
+        "registration": "165 39 35427 00",
+        "form": ""
+      },
+      {
+        "name": "PRIMACOR INJECTION",
+        "registration": "137 60 28572 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MILRINONE 1MG/ML 10AMPX10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

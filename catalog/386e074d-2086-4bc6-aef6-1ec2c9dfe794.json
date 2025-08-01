@@ -1,10 +1,10 @@
 {
   "catalogId": "386e074d-2086-4bc6-aef6-1ec2c9dfe794",
-  "name": "METADEX XR 10 MG",
+  "name": "METADEX XR 15 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 56 37337 99",
+  "registrationNumber": "172 57 37338 99",
   "treatmentDescriptions": "Metadex XR extended-release capsules are a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in children of 6 years and older, in adolescents and in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules extended release",
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.242291"
-  }
+    "lastUpdated": "2025-08-01T17:13:58.100024",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "METADEX XR 15 MG S.K. 100 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:58.100036",
+      "previousRegistration": "172 56 37337 99",
+      "newRegistration": "172 57 37338 99",
+      "apiSource": "METADEX XR 15 MG"
+    }
+  },
+  "nameHebrew": "מטדקס אקס.אר 15 מ\"ג",
+  "registrationDate": "2023-03-28"
 }

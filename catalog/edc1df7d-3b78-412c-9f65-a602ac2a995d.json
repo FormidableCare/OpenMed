@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.345567"
+    "lastUpdated": "2025-08-01T17:11:45.127983",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MIDOLAM 1 MG/ML",
+        "registration": "108 42 29066 00",
+        "form": ""
+      },
+      {
+        "name": "MIDOLAM 5 MG/ML",
+        "registration": "108 43 29067 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MIDOLAM 5MG/ML5AMPx10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

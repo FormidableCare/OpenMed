@@ -1,10 +1,10 @@
 {
   "catalogId": "abfc21c1-3b5e-4a1a-80ab-5a333efbe697",
-  "name": "ZOKINVY 50 MG",
+  "name": "ZOKINVY 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 67 36861 99",
+  "registrationNumber": "169 68 36862 99",
   "treatmentDescriptions": "ZOKINVY is indicated in patients 12 months of age and older with a body surface area (BSA) of0.39 m2 and above:To reduce the risk of mortality in Hutchinson-Gilford Progeria Syndrome (HGPS)• For the treatment of processing-deficient Progeroid Laminopathies with either:o Heterozygous LMNA mutation with progerin-like protein accumulationo Homozygous or compound heterozygous ZMPSTE24 mutationsLimitations of UseZOKINVY is not indicated for other Progeroid Syndromes or processing-proficient Progeroid Laminopathies. Based upon its mechanism of action, ZOKINVY would not be expected to be effective in these populations.",
   "termsOfIssue": "Prescription required",
   "form": "hard gelatin capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.926570"
-  }
+    "lastUpdated": "2025-08-01T17:24:26.144143",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZOKINVY 75 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:24:26.144156",
+      "previousRegistration": "169 67 36861 99",
+      "newRegistration": "169 68 36862 99",
+      "apiSource": "ZOKINVY 75 MG"
+    }
+  },
+  "nameHebrew": "זוקינבי 75 מ\"ג",
+  "registrationDate": "2022-05-23"
 }

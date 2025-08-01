@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.648024"
+    "lastUpdated": "2025-08-01T17:01:34.700991",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "REMODULIN 10 MG/ML",
+        "registration": "135 55 31251 00",
+        "form": ""
+      },
+      {
+        "name": "REMODULIN 2.5 MG/ML",
+        "registration": "126 57 30563 00",
+        "form": ""
+      },
+      {
+        "name": "REMODULIN 5 MG/ML",
+        "registration": "126 56 30562 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "REMODULIN 5MG/ML VIAL 1X20ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

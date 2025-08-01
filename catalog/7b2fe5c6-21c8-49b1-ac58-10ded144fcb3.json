@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -59,6 +69,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.631151"
+    "lastUpdated": "2025-08-01T16:11:07.061081",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HYRIMOZ",
+        "registration": "164 72 36144 00",
+        "form": ""
+      },
+      {
+        "name": "HYRIMOZ HCF",
+        "registration": "178 64 37975 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HYRIMOZ 40MG/0.8ML 2 PEN",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "7ee987e5-a2c2-4a33-9cf9-58015cfd6580",
-  "name": "AUGMENTIN SUSPENSION 400 MG/5 ML",
+  "name": "AUGMENTIN 875 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "112 75 29288 01",
+  "registrationNumber": "107 43 28610 01",
   "treatmentDescriptions": "Augmentin is indicated for the treatment of the following infections in adults and children: • Acute bacterial sinusitis (adequately diagnosed)• Acute otitis media• Acute exacerbations of chronic bronchitis (adequately diagnosed)• Community acquired pneumonia• Cystitis• Pyelonephritis• Skin and soft tissue infections in particular cellulitis, animal bites, severe dental abscess with spreading cellulitis.• Bone and joint infections, in particular osteomyelitis.• Recurrent tonsillitis",
   "termsOfIssue": "Prescription required",
   "form": "powder for oral suspension",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 875.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.656590"
-  }
+    "lastUpdated": "2025-08-01T15:26:24.467927",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AUGMENTIN B.I.D 875MG 14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:26:24.467939",
+      "previousRegistration": "112 75 29288 01",
+      "newRegistration": "107 43 28610 01",
+      "apiSource": "AUGMENTIN 875 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אוגמנטין 875 מ\"ג טבליות",
+  "registrationDate": "2022-09-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "14264f34-532d-478a-8a8d-48f41bc11f6c",
-  "name": "CAMZYOS 10 MG",
+  "name": "CAMZYOS 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 20 37421 99",
+  "registrationNumber": "174 19 37420 99",
   "treatmentDescriptions": "CAMZYOS is indicated for the treatment of adults with symptomatic New York Heart Association (NYHA) class II-III obstructive hypertrophic cardiomyopathy (HCM) to improve functional capacity and symptoms",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.021525"
-  }
+    "lastUpdated": "2025-08-01T17:01:05.935196",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CAMZYOS 5 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:05.935213",
+      "previousRegistration": "174 20 37421 99",
+      "newRegistration": "174 19 37420 99",
+      "apiSource": "CAMZYOS 5 MG"
+    }
+  },
+  "nameHebrew": "קמזיוס 5 מ\"ג",
+  "registrationDate": "2023-08-06"
 }

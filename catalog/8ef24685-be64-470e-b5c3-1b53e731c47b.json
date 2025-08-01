@@ -1,10 +1,10 @@
 {
   "catalogId": "8ef24685-be64-470e-b5c3-1b53e731c47b",
-  "name": "NICOTINELL GUM 2 MG (MINT)",
+  "name": "NICOTINELL GUM 4 MG (MINT)",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "115 78 29638 23",
+  "registrationNumber": "115 79 29639 24",
   "treatmentDescriptions": "As an aid to smoking cessation and for the relief of nicotine withdrawal symptoms.   In smokers currently unable or not ready to stop smoking abruptly  the gum may also be used as part of a program to reduce smoking prior to stopping completely.",
   "termsOfIssue": "",
   "form": "chewing gum",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 48.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.765474"
-  }
+    "lastUpdated": "2025-08-01T15:22:13.347484",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NICOTINELL GUM 4MG FRUIT 48 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:22:13.347493",
+      "previousRegistration": "115 78 29638 23",
+      "newRegistration": "115 79 29639 24",
+      "apiSource": "NICOTINELL GUM 4 MG (MINT)"
+    }
+  },
+  "nameHebrew": "ניקוטינל מסטיק 4 מ\"ג (מנטה)",
+  "registrationDate": "2014-08-31"
 }

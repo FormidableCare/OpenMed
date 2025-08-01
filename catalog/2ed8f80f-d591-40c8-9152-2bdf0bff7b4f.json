@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.190614"
+    "lastUpdated": "2025-08-01T17:32:31.408948",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
+        "registration": "174 89 36923 99",
+        "form": ""
+      },
+      {
+        "name": "ADRENALINE S.A.L.F 1 MG/ML",
+        "registration": "160 10 34515 00",
+        "form": ""
+      },
+      {
+        "name": "ADRENALINE SINTETICA 1 MG/ML",
+        "registration": "166 60 35988 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADRENALINE TEVA 1MG/ML 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.011111111111111112,
+      "status": "failed_match"
+    }
   }
 }

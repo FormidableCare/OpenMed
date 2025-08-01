@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.113400"
-  }
+    "lastUpdated": "2025-08-01T15:21:45.991799",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RISPERIDEX 1MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:21:45.991826",
+      "previousRegistration": "134 54 31353 00",
+      "newRegistration": "134 54 31353 00",
+      "apiSource": "RISPERIDEX 1 MG"
+    }
+  },
+  "nameHebrew": "ריספרידקס 1 מ\"ג",
+  "registrationDate": "2021-05-31"
 }

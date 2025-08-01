@@ -1,10 +1,10 @@
 {
   "catalogId": "c67d10d9-e193-4c81-83a2-ec29a71c4c91",
-  "name": "XCOPRI 100 MG",
+  "name": "XCOPRI 12.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 89 37493 99",
+  "registrationNumber": "172 86 37490 99",
   "treatmentDescriptions": "Xcopri is indicated for the adjunctive treatment of focal-onset seizures with or without secondary generalisation in adult patients with epilepsy who have not been adequately controlled despite a history of treatment with at least 2 anti-epileptic medicinal products.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        },
+        {
+          "value": 12.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.102416"
-  }
+    "lastUpdated": "2025-08-01T15:45:53.063072",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XCOPRI 25 MG 14TAB+ 12.5 MG 14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:53.063082",
+      "previousRegistration": "172 89 37493 99",
+      "newRegistration": "172 86 37490 99",
+      "apiSource": "XCOPRI 12.5 MG"
+    }
+  },
+  "nameHebrew": "אקסקופרי 12.5 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "7a39204e-fbbe-4b35-9a84-88071f24460c",
-  "name": "TOLTERODINE E.R. MEDOMIE 2 MG",
+  "name": "TOLTERODINE E.R. MEDOMIE 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 90 36958 99",
+  "registrationNumber": "174 91 36959 99",
   "treatmentDescriptions": "TOLTERODINE E.R. MEDOMIE is indicated for the treatment of patients with an overactive bladder with symptoms of urinary frequency, urgency or urge incontinence.",
   "termsOfIssue": "Prescription required",
   "form": "capsules extended release",
@@ -31,10 +31,12 @@
         "name": "מדומי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.626924"
-  }
+    "lastUpdated": "2025-08-01T17:44:32.651437",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOLTERODINE E.R. MEDOMIE 4 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:44:32.651445",
+      "previousRegistration": "174 90 36958 99",
+      "newRegistration": "174 91 36959 99",
+      "apiSource": "TOLTERODINE E.R. MEDOMIE 4 MG"
+    }
+  },
+  "nameHebrew": "טולטרודין אי.אר. מדומי 4 מ\"ג",
+  "registrationDate": "2023-10-30"
 }

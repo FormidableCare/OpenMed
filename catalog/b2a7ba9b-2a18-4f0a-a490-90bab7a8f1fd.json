@@ -31,10 +31,16 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -59,6 +65,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.965326"
+    "lastUpdated": "2025-08-01T15:32:44.432976",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BACTROBAN NASAL",
+        "registration": "050 85 26431 21",
+        "form": ""
+      },
+      {
+        "name": "BACTROBAN DERMAL",
+        "registration": "037 75 25332 21",
+        "form": ""
+      },
+      {
+        "name": "MUPIROCIN S.K",
+        "registration": "173 94 36613 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MUPIROCIN S.K 2% tube 3gr",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

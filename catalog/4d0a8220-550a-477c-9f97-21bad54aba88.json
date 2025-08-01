@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.373854"
-  }
+    "lastUpdated": "2025-08-01T17:23:48.008396",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOVOEIGHT 1000 IU/4ML 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:23:48.008404",
+      "previousRegistration": "154 52 34374 00",
+      "newRegistration": "154 52 34374 00",
+      "apiSource": "NOVOEIGHT 1000 IU"
+    }
+  },
+  "nameHebrew": "נובואייט 1000 יחב\"ל",
+  "registrationDate": "2020-08-31"
 }

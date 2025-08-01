@@ -31,10 +31,12 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.028484"
+    "lastUpdated": "2025-08-01T17:52:03.635182",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABSTRAL 100 MCG",
+        "registration": "148 73 33262 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 200 MCG",
+        "registration": "148 74 33263 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 300 MCG",
+        "registration": "148 75 33264 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FENTANYL - KALCEKS 0.05 MG/ML 2ML 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "34d62b07-7de8-463e-bbc5-3654c31739fc",
-  "name": "DEPALEPT SYRUP",
+  "name": "DEPALEPT CHRONO 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "033 72 22644 00",
+  "registrationNumber": "119 33 27953 02",
   "treatmentDescriptions": "Generalized or partial epilepsy secondary generalized epilepsy and mixed forms of epilepsy.",
   "termsOfIssue": "Prescription required",
   "form": "syrup",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.221570"
-  }
+    "lastUpdated": "2025-08-01T15:49:47.093675",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DEPALEPT 500MG 40 E.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:49:47.093692",
+      "previousRegistration": "033 72 22644 00",
+      "newRegistration": "119 33 27953 02",
+      "apiSource": "DEPALEPT CHRONO 500 MG"
+    }
+  },
+  "nameHebrew": "דפלפט כרונו 500 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

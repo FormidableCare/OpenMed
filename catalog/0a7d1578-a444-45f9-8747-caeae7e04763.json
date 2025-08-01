@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.954168"
+    "lastUpdated": "2025-08-01T16:21:15.597741",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "REAGILA 1.5",
+        "registration": "163 54 35920 00",
+        "form": ""
+      },
+      {
+        "name": "REAGILA 3",
+        "registration": "163 55 35921 00",
+        "form": ""
+      },
+      {
+        "name": "REAGILA 4.5",
+        "registration": "163 56 35922 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "REAGILA 3 MG 30CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

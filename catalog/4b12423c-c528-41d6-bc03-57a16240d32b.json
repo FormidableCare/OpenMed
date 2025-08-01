@@ -1,10 +1,10 @@
 {
   "catalogId": "4b12423c-c528-41d6-bc03-57a16240d32b",
-  "name": "TASIGNA 150 MG",
+  "name": "TASIGNA 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 84 33271 00",
+  "registrationNumber": "138 17 31681 00",
   "treatmentDescriptions": "Treatment of adult patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukemia in chronic phase.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.364941"
-  }
+    "lastUpdated": "2025-08-01T16:03:28.101766",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TASIGNA 200MG 120CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:03:28.101776",
+      "previousRegistration": "145 84 33271 00",
+      "newRegistration": "138 17 31681 00",
+      "apiSource": "TASIGNA 200 MG"
+    }
+  },
+  "nameHebrew": "טסיגנה 200 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

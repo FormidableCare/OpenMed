@@ -1,10 +1,10 @@
 {
   "catalogId": "eeca8a2b-41df-4456-9e75-343f58382d94",
-  "name": "LENVIMA 10 MG",
+  "name": "LENVIMA 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 37 34530 00",
+  "registrationNumber": "155 36 34514 00",
   "treatmentDescriptions": "LENVIMA is indicated for the treatment of adult patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma (DTC), refractory to radioactive iodine (RAI).LENVIMA is indicated in combination with everolimus for the treatment of adult patients with advanced clear cell renal cell carcinoma (RCC) following one prior vascular endothelial growth factor (VEGF)-targeted therapy.LENVIMA is indicated as monotherapy for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have received no prior systemic therapy.Lenvima, in combination with pembrolizumab, is indicated for the treatment of adult patients with advanced or recurrent endometrial carcinoma who have disease progression on or following prior treatment with a platinum containing therapy and who are not candidates for curative surgery or radiation.LENVIMA is indicated in combination with pembrolizumab for the first-line treatment of adult patients with advanced RCC.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.352299"
-  }
+    "lastUpdated": "2025-08-01T15:32:04.875272",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LENVIMA 4 MG 30CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:32:04.875286",
+      "previousRegistration": "155 37 34530 00",
+      "newRegistration": "155 36 34514 00",
+      "apiSource": "LENVIMA 4 MG"
+    }
+  },
+  "nameHebrew": "לנווימה 4 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

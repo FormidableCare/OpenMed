@@ -1,10 +1,10 @@
 {
   "catalogId": "1db3d8aa-9de4-447e-934d-e3ed272ddc70",
-  "name": "EMPLICITI 300 MG",
+  "name": "EMPLICITI 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 13 34688 00",
+  "registrationNumber": "157 14 34685 00",
   "treatmentDescriptions": "Empliciti is indicated in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma in adult patients who have received at least one prior therapy.Empliciti is indicated in combination with pomalidomide and dexamethasone for the treatment ofadult patients with relapsed and refractory multiple myeloma who have received at least two priortherapies, including lenalidomide and a proteasome inhibitor, and have demonstrated diseaseprogression on the last therapy.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,6 +55,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.082847"
-  }
+    "lastUpdated": "2025-08-01T17:46:53.013989",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EMPLICITI 400 MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:46:53.013997",
+      "previousRegistration": "157 13 34688 00",
+      "newRegistration": "157 14 34685 00",
+      "apiSource": "EMPLICITI 400 MG"
+    }
+  },
+  "nameHebrew": "אמפליסיטי 400 מ\"ג",
+  "registrationDate": "2021-08-31"
 }

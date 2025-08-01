@@ -31,10 +31,12 @@
         "name": "סם און",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.924133"
+    "lastUpdated": "2025-08-01T16:27:43.804754",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
+        "registration": "042 50 23368 00",
+        "form": ""
+      },
+      {
+        "name": "SUPRAMOL 500 SUPPOSITORIES",
+        "registration": "035 03 25647 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SUPRAMOL 500MG 20SUP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

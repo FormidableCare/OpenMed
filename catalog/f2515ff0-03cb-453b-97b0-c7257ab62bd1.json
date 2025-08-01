@@ -25,10 +25,12 @@
         "name": "ג'ונסון אנד ג'ונסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 93.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 93.0,
         "unit": "units"
@@ -53,6 +55,38 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.370467"
+    "lastUpdated": "2025-08-01T15:19:53.788172",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.03",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:03:04.530825",
+      "csvSource": "BIAFINE 93GR",
+      "bestMatchScore": 0.025,
+      "availableApiOptions": [
+        {
+          "name": "BIAFINE",
+          "registration": "067 13 28323 01",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "BIAFINE",
+        "registration": "067 13 28323 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BIAFINE 93GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

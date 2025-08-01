@@ -57,6 +57,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.862338"
+    "lastUpdated": "2025-08-01T17:05:06.918825",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HISTAFED",
+        "registration": "027 94 21825 00",
+        "form": ""
+      },
+      {
+        "name": "HISTAFED EXPECTORANT SYRUP",
+        "registration": "050 31 26252 00",
+        "form": ""
+      },
+      {
+        "name": "HISTAFED SYRUP",
+        "registration": "107 14 21824 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HISTAFED 30 DRAG",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

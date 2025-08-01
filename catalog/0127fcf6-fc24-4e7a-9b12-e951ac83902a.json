@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.885553"
+    "lastUpdated": "2025-08-01T16:02:15.266877",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DEPO MEDROL 40 MG/ML",
+        "registration": "024 49 21841 00",
+        "form": ""
+      },
+      {
+        "name": "DEPO MEDROL + LIDOCAINE",
+        "registration": "045 97 23829 00",
+        "form": ""
+      },
+      {
+        "name": "MEDROL 4 MG",
+        "registration": "024 65 22188 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "METHYLPREDNISOLONE MYLAN 1 G 10 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

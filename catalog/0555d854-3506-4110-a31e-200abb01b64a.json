@@ -1,10 +1,10 @@
 {
   "catalogId": "0555d854-3506-4110-a31e-200abb01b64a",
-  "name": "ZINNAT TABLETS 125 MG",
+  "name": "ZINNAT SUSPENSION 125 MG/5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "041 40 25801 00",
+  "registrationNumber": "055 83 26733 00",
   "treatmentDescriptions": "Zinnat is indicated for the treatment of the infections listed below in adults and children from the age of 3 months .• Acute streptococcal tonsillitis and pharyngitis.• Acute bacterial sinusitis.• Acute otitis media.• Acute exacerbations of chronic bronchitis.• Cystitis.• Pyelonephritis.• Uncomplicated skin and soft tissue infections. •Treatment of early Lyme disease.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,24 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +73,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.921006"
-  }
+    "lastUpdated": "2025-08-01T15:58:30.965707",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZINNAT 250MG/5ML SUSP 100ML",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:30.965722",
+      "previousRegistration": "041 40 25801 00",
+      "newRegistration": "055 83 26733 00",
+      "apiSource": "ZINNAT SUSPENSION 125 MG/5 ML"
+    }
+  },
+  "nameHebrew": "זינט תרחיף 125 מ\"ג/5 מ\"ל",
+  "registrationDate": "2022-01-31"
 }

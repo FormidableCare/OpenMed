@@ -1,10 +1,10 @@
 {
   "catalogId": "06328967-b0d9-4766-821b-1047f74b0e11",
-  "name": "TACROCEL 0.5 MG",
+  "name": "TACROCEL 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 54 33452 00",
+  "registrationNumber": "148 56 33455 00",
   "treatmentDescriptions": "Prophylaxis of transplant rejection in liver kidney or heart allograft recipients.Treatment of allograft rejection resistant to treatment with other immuonosuppressive medicinal products.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1485.546978,
         "maxPriceWithVAT": 1752.945433
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.929704"
-  }
+    "lastUpdated": "2025-08-01T16:44:38.446986",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TACROCEL 5 MG 50 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:44:38.446995",
+      "previousRegistration": "148 54 33452 00",
+      "newRegistration": "148 56 33455 00",
+      "apiSource": "TACROCEL 5 MG"
+    }
+  },
+  "nameHebrew": "טקרוסל 5 מ\"ג",
+  "registrationDate": "2017-07-31"
 }

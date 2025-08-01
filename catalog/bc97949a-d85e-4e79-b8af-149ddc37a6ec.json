@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.040733"
+    "lastUpdated": "2025-08-01T15:45:27.241669",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SANDOSTATIN ® 0.05 MG/ML",
+        "registration": "047 03 25697 00",
+        "form": ""
+      },
+      {
+        "name": "SANDOSTATIN ® 0.1 MG/ML",
+        "registration": "047 01 25698 00",
+        "form": ""
+      },
+      {
+        "name": "SANDOSTATIN 0.5 MG/1ML",
+        "registration": "107 13 27200 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SANDOSTATIN 0.05MG/ML 5 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.018750000000000003,
+      "status": "failed_match"
+    }
   }
 }

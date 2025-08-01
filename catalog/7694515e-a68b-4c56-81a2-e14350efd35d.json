@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,11 +61,31 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 276.4399047,
         "maxPriceWithVAT": 326.1990731
-      }
+      },
+      "formulation": [
+        "injection",
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.608480"
+    "lastUpdated": "2025-08-01T17:09:37.598195",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GAMUNEX ® - C",
+        "registration": "132 95 31058 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GAMUNEX  0.1G/ML 1GR 10ML SOLUTION FOR INJECTION",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005000000000000001,
+      "status": "failed_match"
+    }
   }
 }

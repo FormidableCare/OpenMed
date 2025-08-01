@@ -1,10 +1,10 @@
 {
   "catalogId": "81f4ef5b-6e19-43b1-8d62-4992f3337324",
-  "name": "PROFEX 150 MG",
+  "name": "PROFEX 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 93 29804 00",
+  "registrationNumber": "133 92 29805 00",
   "treatmentDescriptions": "Prophylaxis and treatment of ventricular arrhythmias. Prophylaxis and treatment of atrial fibrillation and flutter. Prophylaxis and treatment of Paroxysmal supraventricular tachycardia (PSVT) associated with disabling symptoms.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.672833"
-  }
+    "lastUpdated": "2025-08-01T16:13:36.483342",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROFEX 300MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:13:36.483353",
+      "previousRegistration": "133 93 29804 00",
+      "newRegistration": "133 92 29805 00",
+      "apiSource": "PROFEX 300 MG"
+    }
+  },
+  "nameHebrew": "פרופקס 300 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

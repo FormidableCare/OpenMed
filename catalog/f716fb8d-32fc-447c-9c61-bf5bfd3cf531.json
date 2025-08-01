@@ -1,10 +1,10 @@
 {
   "catalogId": "f716fb8d-32fc-447c-9c61-bf5bfd3cf531",
-  "name": "VIAGRA 100 MG",
+  "name": "VIAGRA 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "111 38 29461 00",
+  "registrationNumber": "111 37 29460 00",
   "treatmentDescriptions": "Treatment of erectile dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 8.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.400511"
-  }
+    "lastUpdated": "2025-08-01T15:27:31.837882",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VIAGRA 50MG 8TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:27:31.837891",
+      "previousRegistration": "111 38 29461 00",
+      "newRegistration": "111 37 29460 00",
+      "apiSource": "VIAGRA 50 MG"
+    }
+  },
+  "nameHebrew": "ויאגרה 50 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

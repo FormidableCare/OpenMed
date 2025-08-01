@@ -1,10 +1,10 @@
 {
   "catalogId": "a0deb8c6-3bef-4235-96e6-0d0c600fd640",
-  "name": "EPIDUO",
+  "name": "EPIDUO FORTE 0.3% /2.5 %",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 10 34289 00",
+  "registrationNumber": "170 29 36683 99",
   "treatmentDescriptions": "Cutaneous treatment of Acne vulgaris when comedones, papules and pustules are present.",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -31,10 +31,20 @@
         "name": "אמי טכנולוגיות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        },
+        {
+          "value": 0.3,
+          "unit": "%"
+        },
+        {
+          "value": 2.5,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +64,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 116.8699017,
         "maxPriceWithVAT": 137.9064778
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.865509"
-  }
+    "lastUpdated": "2025-08-01T15:30:57.842838",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EPIDUO FORTE 0.3% /2.5 % 30 GR GEL",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:30:57.842858",
+      "previousRegistration": "156 10 34289 00",
+      "newRegistration": "170 29 36683 99",
+      "apiSource": "EPIDUO FORTE 0.3% /2.5 %"
+    }
+  },
+  "nameHebrew": "אפידו פורטה 0.3%/2.5%",
+  "registrationDate": "2022-07-31"
 }

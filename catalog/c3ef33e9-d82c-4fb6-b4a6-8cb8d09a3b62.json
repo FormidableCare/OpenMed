@@ -1,10 +1,10 @@
 {
   "catalogId": "c3ef33e9-d82c-4fb6-b4a6-8cb8d09a3b62",
-  "name": "ULTIVA 5 MG",
+  "name": "REMIFENTANIL BIOAVENIR 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "108 35 29195 22",
+  "registrationNumber": "151 97 33786 00",
   "treatmentDescriptions": "Ultiva is indicated as an analgesic agent  for use during induction and/or maintenance of general anaesthesia under close supervision . Ultiva is indicated for provision of analgesia and sedation in mechanically ventilated intensive care patients 18 years of age and over.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for injection / infusion",
@@ -31,10 +31,16 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        },
+        {
+          "value": 6.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.086645"
-  }
+    "lastUpdated": "2025-08-01T16:33:35.191392",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REMIFENTANIL  5MG  5VIAL 6ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:33:35.191401",
+      "previousRegistration": "108 35 29195 22",
+      "newRegistration": "151 97 33786 00",
+      "apiSource": "REMIFENTANIL BIOAVENIR 5 MG"
+    }
+  },
+  "nameHebrew": "רמפנטניל ביואבניר 5 מ\"ג",
+  "registrationDate": "2019-03-31"
 }

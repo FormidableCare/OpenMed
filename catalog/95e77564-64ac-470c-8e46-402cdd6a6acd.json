@@ -1,10 +1,10 @@
 {
   "catalogId": "95e77564-64ac-470c-8e46-402cdd6a6acd",
-  "name": "PIQRAY 150 MG",
+  "name": "PIQRAY 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 18 36148 00",
+  "registrationNumber": "166 19 36149 00",
   "treatmentDescriptions": "PIQRAY is indicated in combination with fulvestrant for the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CAmutated, advanced or metastatic breast cancer following progression on or after an endocrine-based regimen",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.806441"
-  }
+    "lastUpdated": "2025-08-01T16:58:56.019597",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PIQRAY 200 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:58:56.019612",
+      "previousRegistration": "166 18 36148 00",
+      "newRegistration": "166 19 36149 00",
+      "apiSource": "PIQRAY 200 MG"
+    }
+  },
+  "nameHebrew": "פיקריי 200 מ\"ג",
+  "registrationDate": "2020-12-06"
 }

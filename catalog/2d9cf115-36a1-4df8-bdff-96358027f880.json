@@ -31,10 +31,16 @@
         "name": "דובר מדיקל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 20.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -57,6 +63,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.182977"
-  }
+    "lastUpdated": "2025-08-01T17:10:30.473612",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALBUNORM 20%  BOTTLE 50ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:10:30.473624",
+      "previousRegistration": "150 28 33713 00",
+      "newRegistration": "150 28 33713 00",
+      "apiSource": "ALBUNORM 20 %"
+    }
+  },
+  "nameHebrew": "אלבונורם % 20",
+  "registrationDate": "2018-06-30"
 }

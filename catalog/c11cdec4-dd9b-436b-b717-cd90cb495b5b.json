@@ -1,10 +1,10 @@
 {
   "catalogId": "c11cdec4-dd9b-436b-b717-cd90cb495b5b",
-  "name": "PADCEV 20 MG",
+  "name": "PADCEV 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 37 36604 00",
+  "registrationNumber": "167 38 36605 00",
   "treatmentDescriptions": "PADCEV, in combination with pembrolizumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial cancer (mUC). PADCEV, as a single agent , is indicated for the treatment of adult patients with locally advanced or mUC who: •\thave previously received a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor, and a platinum-containing chemotherapy in the neoadjuvant/adjuvant, locally advanced or metastatic settingor:•\tare ineligible for cisplatin-containing chemotherapy and have previously received a PD-1/PD-L1 inhibitor.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטלס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.069688"
-  }
+    "lastUpdated": "2025-08-01T17:39:18.606742",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PADCEV 30 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:39:18.606761",
+      "previousRegistration": "167 37 36604 00",
+      "newRegistration": "167 38 36605 00",
+      "apiSource": "PADCEV 30 MG"
+    }
+  },
+  "nameHebrew": "פאדסב 30 מ\"ג",
+  "registrationDate": "2021-05-27"
 }

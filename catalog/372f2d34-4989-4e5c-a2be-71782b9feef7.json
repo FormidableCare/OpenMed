@@ -25,10 +25,12 @@
         "name": "דפריס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -48,11 +50,35 @@
         "retailMargin": "",
         "maxRetailPrice": 36.58,
         "maxPriceWithVAT": 43.1644
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.234591"
+    "lastUpdated": "2025-08-01T16:01:06.849859",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RADIAN B MUSCLE RUB",
+        "registration": "137 01 22841 00",
+        "form": ""
+      },
+      {
+        "name": "RADIAN B SPRAY",
+        "registration": "137 63 24791 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RADIAN B MUSCLE CREAM 100GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2823.956785,
         "maxPriceWithVAT": 3332.268858
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.111656"
-  }
+    "lastUpdated": "2025-08-01T16:30:53.668785",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RINVOQ 15 MG 28  SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:53.668798",
+      "previousRegistration": "164 29 36194 00",
+      "newRegistration": "164 29 36194 00",
+      "apiSource": "RINVOQ 15 MG"
+    }
+  },
+  "nameHebrew": "רינבוק 15 מ\"ג",
+  "registrationDate": "2025-03-31"
 }

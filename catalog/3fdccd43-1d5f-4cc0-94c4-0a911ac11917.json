@@ -1,10 +1,10 @@
 {
   "catalogId": "3fdccd43-1d5f-4cc0-94c4-0a911ac11917",
-  "name": "FLOLAN INFUSION OF EPOPROSTENOL 1500 MCG",
+  "name": "FLOLAN INFUSION OF EPOPROSTENOL 500 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "112 41 29467 05",
+  "registrationNumber": "126 72 30642 05",
   "treatmentDescriptions": "Flolan is indicated for the treatment of pulmonary arterial hypertension (PAH) (idiopathic or heritable PAH and PAH associated with connective tissue diseases) in patients with WHO Functional Class III-IV symptoms to improve exercise capacity",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.309296"
-  }
+    "lastUpdated": "2025-08-01T15:47:22.982549",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLOLAN INFUSION OF EPOPROSTENOL 500 MCG VIAL DIL PH12",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:47:22.982567",
+      "previousRegistration": "112 41 29467 05",
+      "newRegistration": "126 72 30642 05",
+      "apiSource": "FLOLAN INFUSION OF EPOPROSTENOL 500 MCG"
+    }
+  },
+  "nameHebrew": "פלולן אפופרוסטנול 500 מק\"ג לעירוי",
+  "registrationDate": "2023-01-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "c7fa04e5-4e93-4593-bf5f-1f319359a4c9",
-  "name": "CIBINQO 100 MG",
+  "name": "CIBINQO 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 31 37239 99",
+  "registrationNumber": "171 30 37238 99",
   "treatmentDescriptions": "Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis in adults who are candidates for systemic therapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.111253"
-  }
+    "lastUpdated": "2025-08-01T15:23:34.204813",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIBINQO 50 MG 28 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:34.204825",
+      "previousRegistration": "171 31 37239 99",
+      "newRegistration": "171 30 37238 99",
+      "apiSource": "CIBINQO 50 MG"
+    }
+  },
+  "nameHebrew": "סיבינקו 50 מ\"ג",
+  "registrationDate": "2023-01-02"
 }

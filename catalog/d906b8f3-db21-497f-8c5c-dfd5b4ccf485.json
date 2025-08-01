@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.226850"
-  }
+    "lastUpdated": "2025-08-01T15:38:20.166835",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TEMODAL 100MG 5CAP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:20.166851",
+      "previousRegistration": "120 30 30116 23",
+      "newRegistration": "120 30 30116 23",
+      "apiSource": "TEMODAL 100 MG"
+    }
+  },
+  "nameHebrew": "טמודאל 100 מ\"ג",
+  "registrationDate": "2016-02-29"
 }

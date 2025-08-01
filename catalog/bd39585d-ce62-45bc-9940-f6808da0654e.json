@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.043985"
-  }
+    "lastUpdated": "2025-08-01T17:30:10.388944",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CYMBALTA 30MG 28CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:10.388954",
+      "previousRegistration": "132 70 31142 12",
+      "newRegistration": "132 70 31142 12",
+      "apiSource": "CYMBALTA 30 MG"
+    }
+  },
+  "nameHebrew": "סימבאלתה 30 מ\"ג",
+  "registrationDate": "2015-03-31"
 }

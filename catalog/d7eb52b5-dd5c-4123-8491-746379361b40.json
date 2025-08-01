@@ -53,6 +53,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.219675"
+    "lastUpdated": "2025-08-01T16:02:23.853832",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KALBETEN TABLETS",
+        "registration": "114 90 29652 00",
+        "form": ""
+      },
+      {
+        "name": "KALBETEN FORTE CAPLETS",
+        "registration": "140 95 31841 00",
+        "form": ""
+      },
+      {
+        "name": "KALBETEN FORTE SUSPENSION",
+        "registration": "131 72 30868 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KALBETEN 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "af9a5416-8de0-460e-962a-3b2084e3e3b2",
-  "name": "SUBLOCADE 100 MG",
+  "name": "SUBLOCADE 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 66 35771 00",
+  "registrationNumber": "163 67 35780 00",
   "treatmentDescriptions": "SUBLOCADE is indicated for the treatment of moderate to severe opioid use disorder in patients over 15 years of age who have been induced and clinically stabilized on a transmucosal buprenorphine-containing product. SUBLOCADE should be used as part of a complete treatment plan that includes counseling and psychosocial support.",
   "termsOfIssue": "Prescription required",
   "form": "extended release solution for injection",
@@ -31,10 +31,20 @@
         "name": "נעמי שאקו עזרה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.5,
+          "unit": "ml"
+        },
+        {
+          "value": 1.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +67,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.948276"
-  }
+    "lastUpdated": "2025-08-01T17:40:00.894262",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUBLOCADE 300 MG/1.5 ML E.R SOL FOR INJ 1 PFS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:40:00.894266",
+      "previousRegistration": "163 66 35771 00",
+      "newRegistration": "163 67 35780 00",
+      "apiSource": "SUBLOCADE 300 MG"
+    }
+  },
+  "nameHebrew": "סובלוקייד 300 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

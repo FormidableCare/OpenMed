@@ -1,10 +1,10 @@
 {
   "catalogId": "dfff7b1d-b779-4a85-a214-96a7d366bac3",
-  "name": "METHYLPHENIDATE SANDOZ ® 54 MG PRT",
+  "name": "METHYLPHENIDATE TEVA 54 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 45 36080 00",
+  "registrationNumber": "166 09 35556 00",
   "treatmentDescriptions": "Methylphenidate Sandoz® PRT is indicated for the treatment of Attention deficit hyperactivity disorder (ADHD).",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 54.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 198.0796388,
         "maxPriceWithVAT": 233.7339737
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.268488"
-  }
+    "lastUpdated": "2025-08-01T16:01:42.410136",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "METHYLPHENIDATE SANDOZ  54 MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:01:42.410144",
+      "previousRegistration": "169 45 36080 00",
+      "newRegistration": "166 09 35556 00",
+      "apiSource": "METHYLPHENIDATE TEVA 54 MG"
+    }
+  },
+  "nameHebrew": "מתילפנידאט טבע 54 מ\"ג",
+  "registrationDate": "2020-11-30"
 }

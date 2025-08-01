@@ -1,10 +1,10 @@
 {
   "catalogId": "4870f034-2f67-4cd7-919e-422cdf887bc2",
-  "name": "NOVONORM 0.5 MG",
+  "name": "NOVONORM 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "114 47 29661 12",
+  "registrationNumber": "114 49 29663 12",
   "treatmentDescriptions": "Repaglinide is indicated in adults with type 2 diabetes mellitus whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Repaglinide is also indicated in combination with metformin in adults with type 2diabetes mellitus who are not satisfactorily controlled on metformin alone.Treatment should be initiated as an adjunct to diet and exercise to lower the blood glucose in relation to meals.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.353697"
-  }
+    "lastUpdated": "2025-08-01T15:31:50.297950",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOVONORM 2MG 90TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:31:50.297958",
+      "previousRegistration": "114 47 29661 12",
+      "newRegistration": "114 49 29663 12",
+      "apiSource": "NOVONORM 2 MG"
+    }
+  },
+  "nameHebrew": "נובונורם 2 מ\"ג",
+  "registrationDate": "2019-06-30"
 }

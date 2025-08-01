@@ -1,10 +1,10 @@
 {
   "catalogId": "9eb39659-03a1-472a-9564-66aecea83f88",
-  "name": "REQUIP MODUTAB 2 MG",
+  "name": "REQUIP MODUTAB 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 62 31838 01",
+  "registrationNumber": "141 63 31840 01",
   "treatmentDescriptions": "Treatment of Parkinson’s disease under the following conditions:•         Initial treatment as monotherapy, in order to delay the introduction of levodopa•         In combination with levodopa, over the course of the disease, when the effect of levodopa wears off or becomes inconsistent and fluctuations in the therapeutic effect occur (“end of dose” or “on-off” type fluctuations).\"",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets - prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 114.1896816,
         "maxPriceWithVAT": 134.7438183
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.852044"
-  }
+    "lastUpdated": "2025-08-01T16:42:02.272168",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REQUIP MODUTAB 8MG 28 FILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:42:02.272180",
+      "previousRegistration": "141 62 31838 01",
+      "newRegistration": "141 63 31840 01",
+      "apiSource": "REQUIP MODUTAB 8 MG"
+    }
+  },
+  "nameHebrew": "רקוויפ מודוטאב 8 מ\"ג",
+  "registrationDate": "2024-08-31"
 }

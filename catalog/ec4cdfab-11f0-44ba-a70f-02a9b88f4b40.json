@@ -1,10 +1,10 @@
 {
   "catalogId": "ec4cdfab-11f0-44ba-a70f-02a9b88f4b40",
-  "name": "XELJANZ 1 MG/ML",
+  "name": "XELJANZ 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 47 37836 99",
+  "registrationNumber": "152 35 33973 01",
   "treatmentDescriptions": "XELJANZ 1 MG/ML is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (rheumatoid factor positive [RF+] or negative [RF-] polyarthritis and extended oligoarthritis), and juvenile psoriatic arthritis (PsA) in patients 2 years of age and older, who have responded inadequately to previous therapy with disease modifying antirheumatic drugs (DMARDs). XELJANZ 1 MG/ML can be given in combination with methotrexate (MTX) or as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.",
   "termsOfIssue": "Prescription required",
   "form": "oral solution",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.340545"
-  }
+    "lastUpdated": "2025-08-01T16:02:35.504115",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XELJANZ 5 MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:02:35.504129",
+      "previousRegistration": "176 47 37836 99",
+      "newRegistration": "152 35 33973 01",
+      "apiSource": "XELJANZ 5 MG"
+    }
+  },
+  "nameHebrew": "קסלג'אנז 5 מ\"ג",
+  "registrationDate": "2019-06-30"
 }

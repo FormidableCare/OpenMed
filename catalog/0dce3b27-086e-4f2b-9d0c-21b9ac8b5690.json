@@ -1,10 +1,10 @@
 {
   "catalogId": "0dce3b27-086e-4f2b-9d0c-21b9ac8b5690",
-  "name": "NUVIGIL 150 MG",
+  "name": "NUVIGIL 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 84 34389 06",
+  "registrationNumber": "155 85 34390 06",
   "treatmentDescriptions": "Nuvigil is indicated to improve wakefulness in adult patients with excessive sleepiness associated with obstructive sleep apnea (OSA), narcolepsy, or shift work disorder (SWD).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.980225"
-  }
+    "lastUpdated": "2025-08-01T16:33:03.448372",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NUVIGIL 250 MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:33:03.448378",
+      "previousRegistration": "155 84 34389 06",
+      "newRegistration": "155 85 34390 06",
+      "apiSource": "NUVIGIL 250 MG"
+    }
+  },
+  "nameHebrew": "נוביג'יל 250 מ\"ג",
+  "registrationDate": "2021-03-31"
 }

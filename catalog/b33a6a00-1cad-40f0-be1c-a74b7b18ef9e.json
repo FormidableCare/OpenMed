@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.9,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.974718"
+    "lastUpdated": "2025-08-01T16:39:20.796239",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TYVASO",
+        "registration": "144 71 33077 01",
+        "form": ""
+      },
+      {
+        "name": "TYVASO",
+        "registration": "144 71 33077 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TYVASO 1.74 / 2.9 ML 4 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

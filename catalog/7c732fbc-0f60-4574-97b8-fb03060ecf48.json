@@ -31,10 +31,16 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.643891"
+    "lastUpdated": "2025-08-01T15:53:59.551257",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AVASTIN",
+        "registration": "131 59 31060 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "AVASTIN 100MG 25MG/ML VIAL 4ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

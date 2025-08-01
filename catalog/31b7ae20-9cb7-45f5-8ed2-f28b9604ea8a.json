@@ -1,10 +1,10 @@
 {
   "catalogId": "31b7ae20-9cb7-45f5-8ed2-f28b9604ea8a",
-  "name": "SOMAVERT 10 MG",
+  "name": "SOMAVERT 15 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "135 41 31357 00",
+  "registrationNumber": "135 42 31358 00",
   "treatmentDescriptions": "Treatment of adult patient with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF-I concentrations or was not tolerated.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.206123"
-  }
+    "lastUpdated": "2025-08-01T15:38:44.568125",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOMAVERT 15 MG  30 PreFilledSyringe x 1 ml solvent",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:44.568130",
+      "previousRegistration": "135 41 31357 00",
+      "newRegistration": "135 42 31358 00",
+      "apiSource": "SOMAVERT 15 MG"
+    }
+  },
+  "nameHebrew": "סומאברט 15 מ\"ג",
+  "registrationDate": "2021-08-31"
 }

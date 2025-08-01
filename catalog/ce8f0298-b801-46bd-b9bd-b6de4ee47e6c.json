@@ -31,10 +31,12 @@
         "name": "סופר-פארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 300.0,
         "unit": "units"
@@ -57,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.171686"
+    "lastUpdated": "2025-08-01T16:46:38.127446",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SOLODENT ALCOHOL FREE MOUTHWASH",
+        "registration": "172 54 37476 99",
+        "form": ""
+      },
+      {
+        "name": "SOLODENT MOUTHWASH",
+        "registration": "163 01 36040 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SOLODENT ALCOHOL FREE MOUTHWASH  300ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.04000000000000001,
+      "status": "failed_match"
+    }
   }
 }

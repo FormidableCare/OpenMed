@@ -1,10 +1,10 @@
 {
   "catalogId": "1c43c79b-6e5c-45c3-be50-8838d4c259cf",
-  "name": "ZOFRAN TABLETS 4 MG",
+  "name": "ZOFRAN TABLETS 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "049 96 26549 22",
+  "registrationNumber": "049 95 26560 22",
   "treatmentDescriptions": "Adults:Zofran is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy and radiotherapy.  Zofran is indicated for the prevention and treatment of post-operative nausea and vomiting (PONV). Paediatric Population:Zofran is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.071266"
-  }
+    "lastUpdated": "2025-08-01T16:42:56.122510",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZOFRAN INJ. 8 MG/4ML 5 AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:42:56.122523",
+      "previousRegistration": "049 96 26549 22",
+      "newRegistration": "049 95 26560 22",
+      "apiSource": "ZOFRAN TABLETS 8 MG"
+    }
+  },
+  "nameHebrew": "זופרן טבליות 8 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

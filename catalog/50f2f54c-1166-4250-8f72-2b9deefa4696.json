@@ -1,10 +1,10 @@
 {
   "catalogId": "50f2f54c-1166-4250-8f72-2b9deefa4696",
-  "name": "ASSIVAL 5 MG",
+  "name": "ASSIVAL TEVA 10 MG/2 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "014 61 24381 03",
+  "registrationNumber": "158 53 34806 00",
   "treatmentDescriptions": "Tension, anxiety, agitation due to acute alcohol withdrawal, adjunct for the relief of skeletal muscle spasm, convulsive disorders.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +68,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.393787"
-  }
+    "lastUpdated": "2025-08-01T15:34:32.669169",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ASSIVAL TEVA 10 MG/2 ML 10 AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:32.669179",
+      "previousRegistration": "014 61 24381 03",
+      "newRegistration": "158 53 34806 00",
+      "apiSource": "ASSIVAL TEVA 10 MG/2 ML"
+    }
+  },
+  "nameHebrew": "אסיול טבע 10 מ\"ג/2 מ\"ל",
+  "registrationDate": "2022-04-30"
 }

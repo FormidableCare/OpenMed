@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.534635"
-  }
+    "lastUpdated": "2025-08-01T17:01:58.019597",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BRILINTA 60 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:58.019608",
+      "previousRegistration": "156 54 34752 00",
+      "newRegistration": "156 54 34752 00",
+      "apiSource": "BRILINTA 60 MG"
+    }
+  },
+  "nameHebrew": "ברילינטה 60 מ\"ג",
+  "registrationDate": "2021-06-30"
 }

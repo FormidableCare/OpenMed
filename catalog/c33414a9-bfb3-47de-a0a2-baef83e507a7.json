@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.082808"
+    "lastUpdated": "2025-08-01T17:15:02.107935",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OPTI GENTA",
+        "registration": "069 76 28591 00",
+        "form": ""
+      },
+      {
+        "name": "EASOTIC VETERINARY",
+        "registration": "159 84 34886 00",
+        "form": ""
+      },
+      {
+        "name": "AFLUMYCIN",
+        "registration": "125 91 24928 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OPTI-GENTA 5ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

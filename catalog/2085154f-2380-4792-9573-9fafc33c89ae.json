@@ -1,10 +1,10 @@
 {
   "catalogId": "2085154f-2380-4792-9573-9fafc33c89ae",
-  "name": "VALSARTAN -MEDO 160 MG",
+  "name": "EXFORGE 10 MG/160 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 40 35704 00",
+  "registrationNumber": "138 42 31568 01",
   "treatmentDescriptions": "For treatment of hypertension. Valsartan-Medo is indicated for the treatment of heart failure (NYHA class II-IV) in patients who are intolerant of angiotensin converting enzyme inhibitors. In a controlled clinical trial Valsartan-Medo signicantly reduced hospitalisations for heart failure. There is no evidence that Valsartan-Medo provides added benefits when it is used with an adequate dose of an ACE inhibitor. Valsartan-Medo is indicated to improve survival following myocardial infarction in clinically stable patients with signs symptoms or radiological evidence of left ventricular failure and /or with left ventricular systolic dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 160.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.096634"
-  }
+    "lastUpdated": "2025-08-01T17:44:34.673282",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VALSARTAN -MEDO 160 MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:44:34.673294",
+      "previousRegistration": "167 40 35704 00",
+      "newRegistration": "138 42 31568 01",
+      "apiSource": "EXFORGE 10 MG/160 MG"
+    }
+  },
+  "nameHebrew": "אקספורג' 10 מ\"ג/ 160 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

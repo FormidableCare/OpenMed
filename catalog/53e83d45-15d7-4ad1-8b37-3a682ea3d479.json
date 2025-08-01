@@ -1,10 +1,10 @@
 {
   "catalogId": "53e83d45-15d7-4ad1-8b37-3a682ea3d479",
-  "name": "TESTOMAX 25 MG",
+  "name": "TESTOMAX 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "136 20 31297 00",
+  "registrationNumber": "136 21 31298 00",
   "treatmentDescriptions": "Testosterone replacement therapy for males hypogonadism when testosterone deficiency has been confirmed by clinical features and biochemical tests.",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.412281"
-  }
+    "lastUpdated": "2025-08-01T16:48:53.338120",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TESTOMAX 50MG 30SACHX5G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:53.338141",
+      "previousRegistration": "136 20 31297 00",
+      "newRegistration": "136 21 31298 00",
+      "apiSource": "TESTOMAX 50 MG"
+    }
+  },
+  "nameHebrew": "טסטומקס 50 מ\"ג",
+  "registrationDate": "2022-02-28"
 }

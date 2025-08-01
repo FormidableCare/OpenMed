@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -52,11 +54,30 @@
         "retailMargin": "",
         "maxRetailPrice": 42.65,
         "maxPriceWithVAT": 50.327
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.936332"
+    "lastUpdated": "2025-08-01T17:56:07.849597",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PITRIYA-T",
+        "registration": "166 65 36323 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PITRIYA-T CREAM 15 G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

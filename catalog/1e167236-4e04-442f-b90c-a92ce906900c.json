@@ -31,10 +31,20 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.4,
+          "unit": "ml"
+        },
+        {
+          "value": 2.4,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.084262"
+    "lastUpdated": "2025-08-01T17:23:29.020500",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IMFINZI",
+        "registration": "159 97 35280 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IMFINZI 120 MG/2.4 ML 1VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

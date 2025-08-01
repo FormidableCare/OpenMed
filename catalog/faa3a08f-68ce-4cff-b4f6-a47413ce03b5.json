@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.420702"
-  }
+    "lastUpdated": "2025-08-01T15:54:42.586478",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OCSAAR 50MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:54:42.586486",
+      "previousRegistration": "122 79 28344 00",
+      "newRegistration": "122 79 28344 00",
+      "apiSource": "OCSAAR 50 MG"
+    }
+  },
+  "nameHebrew": "אוקסאאר 50 מ\"ג",
+  "registrationDate": "2021-07-31"
 }

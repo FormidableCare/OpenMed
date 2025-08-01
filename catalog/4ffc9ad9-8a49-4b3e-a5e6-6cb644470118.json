@@ -1,10 +1,10 @@
 {
   "catalogId": "4ffc9ad9-8a49-4b3e-a5e6-6cb644470118",
-  "name": "ZEBINIX 200 MG",
+  "name": "ZEBINIX 800 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 76 37082 99",
+  "registrationNumber": "170 77 37083 99",
   "treatmentDescriptions": "Zebinix is indicated as:• monotherapy in the treatment of partial-onset seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy;• adjunctive therapy in adults, adolescents and children aged above 6 years, with partial-onset seizures with or without secondary generalisation.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרומד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.386864"
-  }
+    "lastUpdated": "2025-08-01T16:47:41.170008",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZEBINIX 800 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:47:41.170040",
+      "previousRegistration": "170 76 37082 99",
+      "newRegistration": "170 77 37083 99",
+      "apiSource": "ZEBINIX 800 MG"
+    }
+  },
+  "nameHebrew": "זביניקס 800 מ\"ג",
+  "registrationDate": "2022-10-23"
 }

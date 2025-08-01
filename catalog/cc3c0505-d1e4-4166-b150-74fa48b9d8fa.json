@@ -1,10 +1,10 @@
 {
   "catalogId": "cc3c0505-d1e4-4166-b150-74fa48b9d8fa",
-  "name": "ROSUVASTATIN SANDOZ 10 MG",
+  "name": "ROSUVASTATIN INOVAMED 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 39 35574 00",
+  "registrationNumber": "173 66 36558 99",
   "treatmentDescriptions": "Primary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise weight reduction) is inadequate. Homozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.133254"
-  }
+    "lastUpdated": "2025-08-01T15:25:36.662565",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ROSUVASTATIN SANDOZ 20 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:25:36.662576",
+      "previousRegistration": "162 39 35574 00",
+      "newRegistration": "173 66 36558 99",
+      "apiSource": "ROSUVASTATIN INOVAMED 20 MG"
+    }
+  },
+  "nameHebrew": "רוזובסטטין אינובמד 20 מ\"ג",
+  "registrationDate": "2023-06-27"
 }

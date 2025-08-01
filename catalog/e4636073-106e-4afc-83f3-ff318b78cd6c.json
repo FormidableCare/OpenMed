@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.293175"
+    "lastUpdated": "2025-08-01T17:51:27.609318",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ANASTROZOLE TEVA ®",
+        "registration": "141 32 31760 01",
+        "form": ""
+      },
+      {
+        "name": "ANASTROZOLE TEVA ®",
+        "registration": "141 32 31760 00",
+        "form": ""
+      },
+      {
+        "name": "ARIMIDEX",
+        "registration": "105 16 28931 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ANASTROZOLE 1MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

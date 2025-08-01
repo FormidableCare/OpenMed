@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        },
+        {
+          "value": 35.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 35.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.902605"
-  }
+    "lastUpdated": "2025-08-01T15:26:24.476811",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AUGMENTIN 400MG SUSP 35ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:26:24.476819",
+      "previousRegistration": "112 75 29288 01",
+      "newRegistration": "112 75 29288 01",
+      "apiSource": "AUGMENTIN SUSPENSION 400 MG/5 ML"
+    }
+  },
+  "nameHebrew": "אוגמנטין  תרחיף  400 מ\"ג/5 מ\"ל",
+  "registrationDate": "2022-09-30"
 }

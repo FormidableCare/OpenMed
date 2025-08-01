@@ -1,10 +1,10 @@
 {
   "catalogId": "af9b4afd-50f0-4dbe-bc77-6e06954b29ac",
-  "name": "ATTENT XR 30 MG",
+  "name": "ATTENT 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 94 35998 00",
+  "registrationNumber": "154 15 34225 00",
   "treatmentDescriptions": "Treatment of Attention Deficit Hyperactivity Disorder (ADHD).",
   "termsOfIssue": "Prescription required",
   "form": "capsules extended release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.948607"
-  }
+    "lastUpdated": "2025-08-01T15:55:41.453131",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ATTENT 30 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:41.453143",
+      "previousRegistration": "170 94 35998 00",
+      "newRegistration": "154 15 34225 00",
+      "apiSource": "ATTENT 30 MG"
+    }
+  },
+  "nameHebrew": "אטנט 30 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

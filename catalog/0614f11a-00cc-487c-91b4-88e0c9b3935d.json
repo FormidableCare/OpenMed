@@ -1,10 +1,10 @@
 {
   "catalogId": "0614f11a-00cc-487c-91b4-88e0c9b3935d",
-  "name": "WELLBUTRIN XR 150 MG",
+  "name": "WELLBUTRIN XR 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "140 05 31653 00",
+  "registrationNumber": "140 06 31654 00",
   "treatmentDescriptions": "Wellbutrin XR is indicated for the treatment of major depressive episodes.Following satisfactory response, continuation with Wellbutrin XR therapy is effective in preventingrelapse.",
   "termsOfIssue": "Prescription required",
   "form": "modified release tablets",
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 85.46432625,
         "maxPriceWithVAT": 100.8479005
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.929260"
-  }
+    "lastUpdated": "2025-08-01T17:01:42.953602",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "WELLBUTRIN XR 300MG 30 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:42.953610",
+      "previousRegistration": "140 05 31653 00",
+      "newRegistration": "140 06 31654 00",
+      "apiSource": "WELLBUTRIN XR 300 MG"
+    }
+  },
+  "nameHebrew": "וולבוטרין  300 מ\"ג XR",
+  "registrationDate": "2024-01-31"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.481271"
-  }
+    "lastUpdated": "2025-08-01T16:37:33.376316",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SANDIMMUN NEO 100MG 50CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:37:33.376332",
+      "previousRegistration": "066 78 28140 00",
+      "newRegistration": "066 78 28140 00",
+      "apiSource": "SANDIMMUN ® NEORAL ® 100 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "סנדאימון  ® ניאורל  ® 100 מ\"ג כמוסות",
+  "registrationDate": "2025-02-28"
 }

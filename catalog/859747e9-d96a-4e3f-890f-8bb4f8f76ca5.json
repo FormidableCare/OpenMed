@@ -1,10 +1,10 @@
 {
   "catalogId": "859747e9-d96a-4e3f-890f-8bb4f8f76ca5",
-  "name": "ATTENT XR 30 MG",
+  "name": "ATTENT XR 5 MG",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "170 94 35998 00",
+  "registrationNumber": "170 89 35975 00",
   "treatmentDescriptions": "Treatment of Attention Deficit Hyperactivity Disorder (ADHD).",
   "termsOfIssue": "",
   "form": "capsules extended release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.692921"
-  }
+    "lastUpdated": "2025-08-01T15:55:41.444700",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMPHETAMINE MIXED SALTS 5MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:41.444710",
+      "previousRegistration": "170 94 35998 00",
+      "newRegistration": "170 89 35975 00",
+      "apiSource": "ATTENT XR 5 MG"
+    }
+  },
+  "nameHebrew": "אטנט אקס. אר 5 מ\"ג",
+  "registrationDate": "2022-11-21"
 }

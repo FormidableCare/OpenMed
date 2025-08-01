@@ -31,10 +31,16 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +65,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.929611"
+    "lastUpdated": "2025-08-01T17:24:08.773583",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DICLOVIT",
+        "registration": "111 42 29399 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DICLOVIT 1% 50GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

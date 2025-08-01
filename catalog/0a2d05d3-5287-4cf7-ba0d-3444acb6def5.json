@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.952706"
-  }
+    "lastUpdated": "2025-08-01T15:48:38.475490",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DULOX TEVA 30 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:48:38.475510",
+      "previousRegistration": "166 98 35976 00",
+      "newRegistration": "166 98 35976 00",
+      "apiSource": "DULOX TEVA 30 MG"
+    }
+  },
+  "nameHebrew": "דולוקס טבע 30 מ\"ג",
+  "registrationDate": "2021-03-21"
 }

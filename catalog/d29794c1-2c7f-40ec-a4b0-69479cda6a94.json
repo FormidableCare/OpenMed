@@ -31,10 +31,20 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 94.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 63.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -60,6 +70,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.191355"
+    "lastUpdated": "2025-08-01T16:13:56.950743",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PLEGRIDY 125",
+        "registration": "155 04 34292 00",
+        "form": ""
+      },
+      {
+        "name": "PLEGRIDY 63",
+        "registration": "155 02 34287 00",
+        "form": ""
+      },
+      {
+        "name": "PLEGRIDY 94",
+        "registration": "155 03 34291 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PLEGRIDY 94 MCG & 63 MCG/0.5ML 1+1 PRE FILLED PEN",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

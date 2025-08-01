@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.110085"
+    "lastUpdated": "2025-08-01T16:51:06.243551",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IMITREX INJECTION",
+        "registration": "055 92 26920 00",
+        "form": ""
+      },
+      {
+        "name": "IMITREX TABLETS 100 MG",
+        "registration": "055 93 26919 21",
+        "form": ""
+      },
+      {
+        "name": "IMITREX TABLETS 50 MG",
+        "registration": "102 91 28531 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IMITREX INJ 2 PREFILLED +AUTO INJ",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

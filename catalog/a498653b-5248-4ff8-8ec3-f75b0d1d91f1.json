@@ -1,10 +1,10 @@
 {
   "catalogId": "a498653b-5248-4ff8-8ec3-f75b0d1d91f1",
-  "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
+  "name": "PENTASA SLOW RELEASE TABLETS 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 47 34816 00",
+  "registrationNumber": "064 73 26905 00",
   "treatmentDescriptions": "Mild to moderate ulcerative colitis or crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "granules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 131.6850892,
         "maxPriceWithVAT": 155.3883983
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.879255"
-  }
+    "lastUpdated": "2025-08-01T15:53:35.261528",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PENTASA 500MG 100 SRTAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:53:35.261534",
+      "previousRegistration": "157 47 34816 00",
+      "newRegistration": "064 73 26905 00",
+      "apiSource": "PENTASA SLOW RELEASE TABLETS 500 MG"
+    }
+  },
+  "nameHebrew": "פנטסה טבליות בשחרור איטי 500 מ\"ג",
+  "registrationDate": "2024-06-30"
 }

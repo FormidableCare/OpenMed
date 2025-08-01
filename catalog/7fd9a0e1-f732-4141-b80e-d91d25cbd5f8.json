@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 8.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.661180"
+    "lastUpdated": "2025-08-01T17:16:54.011818",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TARIM 100",
+        "registration": "149 16 33583 01",
+        "form": ""
+      },
+      {
+        "name": "TARIM 50",
+        "registration": "149 15 33582 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TARIM 100MG 8 F.C.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "0994d7fa-77c8-44f7-8bf4-314888650c73",
-  "name": "MILN-AVENIR 25 MG",
+  "name": "MILN-AVENIR 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 70 36192 00",
+  "registrationNumber": "169 71 36193 00",
   "treatmentDescriptions": "Treatment of major (i.e. all characteristics) depressive episodes in adults over 18 years old",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.948517"
-  }
+    "lastUpdated": "2025-08-01T17:09:30.975422",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MILN-AVENIR 50 MG 56 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:09:30.975455",
+      "previousRegistration": "169 70 36192 00",
+      "newRegistration": "169 71 36193 00",
+      "apiSource": "MILN-AVENIR 50 MG"
+    }
+  },
+  "nameHebrew": "מילנאבניר  50 מ\"ג",
+  "registrationDate": "2022-05-24"
 }

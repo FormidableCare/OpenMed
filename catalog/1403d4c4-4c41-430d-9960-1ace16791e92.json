@@ -1,10 +1,10 @@
 {
   "catalogId": "1403d4c4-4c41-430d-9960-1ace16791e92",
-  "name": "LOZAPINE 100 MG",
+  "name": "LOZAPINE 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "116 45 29644 00",
+  "registrationNumber": "116 44 29643 00",
   "treatmentDescriptions": "Treatment of resistant schizophrenic patients who are non-responsive to, or intolerant of classic neuroleptics.Reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for re-experiencing suicidal behavior, based on history and recent clinical state.Suicidal behavior refers to actions by a patient that put him/herself at risk for death",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.021013"
-  }
+    "lastUpdated": "2025-08-01T16:27:03.390865",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LOZAPINE 25MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:27:03.390877",
+      "previousRegistration": "116 45 29644 00",
+      "newRegistration": "116 44 29643 00",
+      "apiSource": "LOZAPINE 25 MG"
+    }
+  },
+  "nameHebrew": "לוזפין 25 מ\"ג",
+  "registrationDate": "2020-04-30"
 }

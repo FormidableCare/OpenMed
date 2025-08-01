@@ -1,10 +1,10 @@
 {
   "catalogId": "5f702bf4-3d75-4bd9-96f7-23ac68941d98",
-  "name": "ENTECAVIR S.K. 0.5 MG",
+  "name": "ENTECAVIR S.K. 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 57 36439 00",
+  "registrationNumber": "165 58 36440 00",
   "treatmentDescriptions": "Entecavir S.K. is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with: - Compensated liver disease and evidence of active viral replication, and persistently elevated serum alanine aminotransferase (ALT) levels.- Decompensated liver disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.473228"
-  }
+    "lastUpdated": "2025-08-01T17:54:15.907834",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ENTECAVIR S.K. 1 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:54:15.907856",
+      "previousRegistration": "165 57 36439 00",
+      "newRegistration": "165 58 36440 00",
+      "apiSource": "ENTECAVIR S.K. 1 MG"
+    }
+  },
+  "nameHebrew": "אנטקאביר אס.קיי. 1 מ\"ג",
+  "registrationDate": "2020-10-28"
 }

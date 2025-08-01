@@ -1,10 +1,10 @@
 {
   "catalogId": "0dbb5f7a-cff3-41cf-87fe-f90bbfa98b47",
-  "name": "FUROSEMIDE S.A.L.F 250 MG/25 ML",
+  "name": "FUROVENIR 250 MG/25 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 77 35843 00",
+  "registrationNumber": "144 17 32048 00",
   "treatmentDescriptions": "Furosemide is a potent diuretic indicated for use when a prompt and effective diuresis is required.Furosemide is appropriate for use in emergencies or where oral therapy is not feasible. The indications include cardiac, pulmonary, hepatic and renal oedema",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -31,10 +31,20 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +70,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.979248"
-  }
+    "lastUpdated": "2025-08-01T17:42:05.078509",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FUROSEMIDE S.A.L.F 250 MG/25 ML 5 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:42:05.078517",
+      "previousRegistration": "166 77 35843 00",
+      "newRegistration": "144 17 32048 00",
+      "apiSource": "FUROVENIR 250 MG/25 ML"
+    }
+  },
+  "nameHebrew": "פורובניר 250 מ\"ג/25 מ\"ל",
+  "registrationDate": "2025-05-31"
 }

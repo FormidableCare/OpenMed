@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -57,6 +67,58 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.368700"
+    "lastUpdated": "2025-08-01T15:19:47.332926",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.20",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:02:57.803987",
+      "csvSource": "VERAPAMIL RATIOPHARM 5MG/2ML 5AMP",
+      "bestMatchScore": 0.2,
+      "availableApiOptions": [
+        {
+          "name": "VERAPRESS 240 SR",
+          "registration": "068 63 26427 00",
+          "form": ""
+        },
+        {
+          "name": "CORDAMIL 40 MG",
+          "registration": "169 31 36504 99",
+          "form": ""
+        },
+        {
+          "name": "CORDAMIL 80 MG",
+          "registration": "168 85 36505 99",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "VERAPRESS 240 SR",
+        "registration": "068 63 26427 00",
+        "form": ""
+      },
+      {
+        "name": "CORDAMIL 40 MG",
+        "registration": "169 31 36504 99",
+        "form": ""
+      },
+      {
+        "name": "CORDAMIL 80 MG",
+        "registration": "168 85 36505 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VERAPAMIL RATIOPHARM 5MG/2ML 5AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

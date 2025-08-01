@@ -1,10 +1,10 @@
 {
   "catalogId": "14fc6d65-42dd-4b8e-8d59-32e56293ef76",
-  "name": "DAYVIGO ® 10 MG",
+  "name": "DAYVIGO ® 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 65 37069 99",
+  "registrationNumber": "172 64 37068 99",
   "treatmentDescriptions": "DAYVIGO is indicated for the treatment of adult patients with insomnia, characterized by difficulties with sleep onset and/or sleep maintenance",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.026377"
-  }
+    "lastUpdated": "2025-08-01T15:24:01.948567",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DAYVIGO  5 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:24:01.948579",
+      "previousRegistration": "172 65 37069 99",
+      "newRegistration": "172 64 37068 99",
+      "apiSource": "DAYVIGO ® 5 MG"
+    }
+  },
+  "nameHebrew": "דייויגו 5 מ\"ג",
+  "registrationDate": "2023-04-21"
 }

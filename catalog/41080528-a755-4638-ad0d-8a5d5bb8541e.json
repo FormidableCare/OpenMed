@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.315476"
+    "lastUpdated": "2025-08-01T17:30:02.112120",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BYLVAY 1200 MICROGRAMS",
+        "registration": "171 44 37200 99",
+        "form": ""
+      },
+      {
+        "name": "BYLVAY 200 MICROGRAMS",
+        "registration": "171 41 37197 99",
+        "form": ""
+      },
+      {
+        "name": "BYLVAY 400 MICROGRAMS",
+        "registration": "171 42 37198 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BYLVAY 200 MCG 30 HARD CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

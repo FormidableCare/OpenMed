@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -60,6 +62,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.450231"
+    "lastUpdated": "2025-08-01T17:22:10.569041",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LANTUS 100 UNITS/ML",
+        "registration": "124 36 30365 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LANTUS  100UI/ML OPTISET/SOLOSTAR PRE FILLED PEN 5X3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.009090909090909092,
+      "status": "failed_match"
+    }
   }
 }

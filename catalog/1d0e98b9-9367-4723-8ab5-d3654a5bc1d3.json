@@ -60,6 +60,38 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.079355"
+    "lastUpdated": "2025-08-01T15:20:29.303030",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.01",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:03:40.207744",
+      "csvSource": "SYNAGIS 100MG/ML 1 VIAL",
+      "bestMatchScore": 0.010000000000000002,
+      "availableApiOptions": [
+        {
+          "name": "synagis",
+          "registration": "155 56 34505 00",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "synagis",
+        "registration": "155 56 34505 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SYNAGIS 100MG/ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

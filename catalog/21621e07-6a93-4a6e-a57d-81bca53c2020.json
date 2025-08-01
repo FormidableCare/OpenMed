@@ -1,10 +1,10 @@
 {
   "catalogId": "21621e07-6a93-4a6e-a57d-81bca53c2020",
-  "name": "ETORICOXIB TARO 120 MG",
+  "name": "ETORICOXIB - TRIMA 90 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 52 34825 00",
+  "registrationNumber": "160 59 35181 00",
   "treatmentDescriptions": "Indicated for the symptomatic relief of the pain and signs of inflammation associated with acute gouty arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 90.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.101969"
-  }
+    "lastUpdated": "2025-08-01T15:43:55.356024",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ETORICOXIB TARO 90MG  14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:43:55.356029",
+      "previousRegistration": "160 52 34825 00",
+      "newRegistration": "160 59 35181 00",
+      "apiSource": "ETORICOXIB - TRIMA 90 MG"
+    }
+  },
+  "nameHebrew": "אטוריקוקסיב – תרימה 90 מ\"ג",
+  "registrationDate": "2023-05-31"
 }

@@ -31,10 +31,16 @@
         "name": "דובר מדיקל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -57,6 +63,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.131813"
+    "lastUpdated": "2025-08-01T15:31:40.797636",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OCTAGAM",
+        "registration": "143 22 31778 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OCTAGAM 5% 50ML VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

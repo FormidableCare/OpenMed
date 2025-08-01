@@ -25,10 +25,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -51,6 +53,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.945358"
+    "lastUpdated": "2025-08-01T16:06:08.541209",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "METABOLASE VETERINARY",
+        "registration": "082 87 92329 00",
+        "form": ""
+      },
+      {
+        "name": "CARNITINE SOLUTION  30%",
+        "registration": "119 07 23815 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CARNITINE 1G 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.945851"
-  }
+    "lastUpdated": "2025-08-01T16:54:10.441697",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOPITRIM 100MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:54:10.441709",
+      "previousRegistration": "136 65 31516 00",
+      "newRegistration": "136 65 31516 00",
+      "apiSource": "TOPITRIM 100 MG"
+    }
+  },
+  "nameHebrew": "טופיתרים 100",
+  "registrationDate": "2022-04-30"
 }

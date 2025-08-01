@@ -1,10 +1,10 @@
 {
   "catalogId": "9ee9bb98-cd15-4bd7-88b7-62713f836208",
-  "name": "DUORESP ® SPIROMAX ® 160 MCG/4.5 MCG",
+  "name": "DUORESP ® SPIROMAX ® 320 MCG/9 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 58 34443 00",
+  "registrationNumber": "154 59 34444 00",
   "treatmentDescriptions": "AsthmaDuoResp Spiromax 160/4.5 mcg/dose is indicated in adults and adolescents (12 years and older), for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long acting β2 adrenoceptor agonist) is appropriate:Patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short acting β2 adrenoceptor agonists.OrPatients already adequately controlled on both inhaled corticosteroids and long acting β2 adrenoceptor-agonists.Chronic Obstructive Pulmonary Disease (COPD)DuoResp Spiromax  160/4.5 mcg/dose  is indicated in adults, aged 18 years and older, for the Symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV1)< 70% predicted normal (post-bronchodilator) and an exacerbation history despite regular bronchodilator therapy",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 320.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 9.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.852763"
-  }
+    "lastUpdated": "2025-08-01T16:56:09.035751",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DUORESP SPIROMAX 320 MCG/9 MCG 60DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:56:09.035762",
+      "previousRegistration": "154 58 34443 00",
+      "newRegistration": "154 59 34444 00",
+      "apiSource": "DUORESP ® SPIROMAX ® 320 MCG/9 MCG"
+    }
+  },
+  "nameHebrew": "דואו-רספ ® ספירומקס ® 320 מק\"ג /9 מק\"ג",
+  "registrationDate": "2020-09-30"
 }

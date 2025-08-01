@@ -1,10 +1,10 @@
 {
   "catalogId": "1d2cd692-3da2-4fc7-9f24-e73979d4f5d5",
-  "name": "VENCLEXTA 10 MG TABLETS",
+  "name": "VENCLEXTA 100 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 19 34868 00",
+  "registrationNumber": "158 21 34870 00",
   "treatmentDescriptions": "Chronic Lymphocytic Leukemia/Small Lymphocytic LymphomaVENCLEXTA in combination with rituximab or as monotherapy is indicated for the treatment of adult patients with chronic lymphocytic leukaemia (CLL) or small lymphocytic lymphoma (SLL), who have received at least one prior therapy.VENCLEXTA in combination with obinutuzumab is indicated for the treatment of patients with previously untreated chronic lymphocytic leukaemia (CLL) or small lymphocytic lymphoma (SLL).Acute Myeloid LeukemiaVENCLEXTA in combination with a hypomethylating agent or in combination with low dose cytarabine is indicated for newly diagnosed patients with acute myeloid leukemia (AML) who are ineligible for intensive chemotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 23213.62877,
         "maxPriceWithVAT": 27392.08073
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.080428"
-  }
+    "lastUpdated": "2025-08-01T16:09:21.241176",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VENCLEXTA 100 MG 120 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9900000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:21.241184",
+      "previousRegistration": "158 19 34868 00",
+      "newRegistration": "158 21 34870 00",
+      "apiSource": "VENCLEXTA 100 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ונקלקסטה 100 מ\"ג טבליות",
+  "registrationDate": "2022-03-31"
 }

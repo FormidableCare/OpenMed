@@ -1,10 +1,10 @@
 {
   "catalogId": "bebb437e-aab0-414a-8632-ac371dc15c16",
-  "name": "ACCOFIL 300 MCG/0.5 ML",
+  "name": "ACCOFIL 480 MCG/0.5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 35 34790 00",
+  "registrationNumber": "160 36 34791 00",
   "treatmentDescriptions": "ACCOFIL is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes) and for the reduction in the duration of neutropenia in patients undergoing myeloablative therapy followed by bone marrow transplantation considered to be at increased risk of prolonged severe neutropenia.The safety and efficacy of ACCOFIL are similar in adults and children receiving cytotoxic chemotherapy.ACCOFIL is indicated for the mobilisation of peripheral blood progenitor cells (PBPCs).In patients, children or adults with severe congenital, cyclic, or idiopathic neutropenia with an absolute neutrophil count (ANC) of less or equal to 0.5 x 109 /L, and a history of severe or recurrent infections, long term administration of ACCOFIL is indicated to increase neutrophil counts and to reduce the incidence and duration of infection-related events.ACCOFIL is indicated for the treatment of persistent neutropenia (ANC less than or equal to 1.0 x 109 /L) in patients with advanced HIV infection, in order to reduce the risk of bacterial infections when other options to manage neutropenia are inappropriate.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 480.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +63,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.053754"
-  }
+    "lastUpdated": "2025-08-01T17:43:43.965265",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ACCOFIL 480 MCG/0.5 ML 1PFS",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:43:43.965285",
+      "previousRegistration": "160 35 34790 00",
+      "newRegistration": "160 36 34791 00",
+      "apiSource": "ACCOFIL 480 MCG/0.5 ML"
+    }
+  },
+  "nameHebrew": "אקופיל 480 מק\"ג/0.5 מ\"ל",
+  "registrationDate": "2018-04-09"
 }

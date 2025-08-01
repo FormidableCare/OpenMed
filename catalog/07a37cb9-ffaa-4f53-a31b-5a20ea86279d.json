@@ -1,10 +1,10 @@
 {
   "catalogId": "07a37cb9-ffaa-4f53-a31b-5a20ea86279d",
-  "name": "DACARBAZINE MEDAC 1000 MG",
+  "name": "DACARBAZINE MEDAC 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "134 90 31172 00",
+  "registrationNumber": "134 89 31171 00",
   "treatmentDescriptions": "Decarbazine is indicated for the treatment of patients with metastatic malignant melanoma. Further indications for dacarbazine as part of a combination chemotherapy in advanced Hodgkin's disease as a second line.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.939184"
-  }
+    "lastUpdated": "2025-08-01T17:23:07.504454",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DACARBAZINE MEDAC 500MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:23:07.504477",
+      "previousRegistration": "134 90 31172 00",
+      "newRegistration": "134 89 31171 00",
+      "apiSource": "DACARBAZINE MEDAC 500 MG"
+    }
+  },
+  "nameHebrew": "דקרבזין מדאק 500 מ\"ג",
+  "registrationDate": "2021-06-30"
 }

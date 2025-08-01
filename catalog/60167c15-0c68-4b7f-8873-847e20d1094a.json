@@ -1,10 +1,10 @@
 {
   "catalogId": "60167c15-0c68-4b7f-8873-847e20d1094a",
-  "name": "FLUSALMER S.K. 50/250 MCG",
+  "name": "FLUSALMER S.K. 50/500 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 50 35043 00",
+  "registrationNumber": "164 51 35044 00",
   "treatmentDescriptions": "FLUSALMER SK is indicated in the regular treatment of asthma in children and adults, where use of a combination (bronchodilator and inhaled corticosteroid) has been found to be appropriate . FLUSALMER SK is indicated for the symptomatic treatment of patients with COPD, with a FEV1 <60% predicted normal (pre-bronchodilator) and a history of repeated exacerbations, who havesignificant symptoms despite regular bronchodilator therapy.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.477265"
-  }
+    "lastUpdated": "2025-08-01T17:08:52.804719",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLUSALMER S.K. 50/500 MCG 60 DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:08:52.804728",
+      "previousRegistration": "164 50 35043 00",
+      "newRegistration": "164 51 35044 00",
+      "apiSource": "FLUSALMER S.K. 50/500 MCG"
+    }
+  },
+  "nameHebrew": "פלוסלמר אס.קיי. 50/500 מק\"ג",
+  "registrationDate": "2025-04-30"
 }

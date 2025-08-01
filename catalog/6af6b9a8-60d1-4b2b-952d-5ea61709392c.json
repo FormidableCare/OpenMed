@@ -1,10 +1,10 @@
 {
   "catalogId": "6af6b9a8-60d1-4b2b-952d-5ea61709392c",
-  "name": "SIGNIFOR LAR 10 MG",
+  "name": "SIGNIFOR LAR 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 50 36981 99",
+  "registrationNumber": "154 91 34334 00",
   "treatmentDescriptions": "Treatment of adult patients with Cushing’s disease for whom surgery is not an option or for whom surgery has failed.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for suspension for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.547943"
-  }
+    "lastUpdated": "2025-08-01T16:35:39.416686",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SIGNIFOR LAR 20 MG 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:35:39.416705",
+      "previousRegistration": "172 50 36981 99",
+      "newRegistration": "154 91 34334 00",
+      "apiSource": "SIGNIFOR LAR 20 MG"
+    }
+  },
+  "nameHebrew": "סיגניפור לאר 20 מ\"ג",
+  "registrationDate": "2020-10-31"
 }

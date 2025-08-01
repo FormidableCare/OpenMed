@@ -1,10 +1,10 @@
 {
   "catalogId": "b8620039-9f8a-4ca4-8a37-fe20f058f0f5",
-  "name": "ESRACAIN INJECTION 2 %",
+  "name": "ESRACAIN CREAM 5 %",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "020 82 21028 00",
+  "registrationNumber": "016 30 27791 00",
   "treatmentDescriptions": "Local and regional anaesthesia.Severe symptomatic ventricular tachycardia or tachy-arrhythmia, if assessed to be life-threatening.",
   "termsOfIssue": "",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -54,11 +60,28 @@
         "retailMargin": "",
         "maxRetailPrice": 21.37,
         "maxPriceWithVAT": 25.2166
-      }
+      },
+      "formulation": [
+        "cream",
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.011878"
-  }
+    "lastUpdated": "2025-08-01T15:58:54.545462",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESRACAIN CREAM 20GR 5%",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9875,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:54.545476",
+      "previousRegistration": "020 82 21028 00",
+      "newRegistration": "016 30 27791 00",
+      "apiSource": "ESRACAIN CREAM 5 %"
+    }
+  },
+  "nameHebrew": "עזרקאין קרם % 5",
+  "registrationDate": "2021-06-30"
 }

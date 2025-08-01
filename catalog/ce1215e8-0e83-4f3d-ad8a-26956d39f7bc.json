@@ -1,10 +1,10 @@
 {
   "catalogId": "ce1215e8-0e83-4f3d-ad8a-26956d39f7bc",
-  "name": "ABSTRAL 100 MCG",
+  "name": "ABSTRAL 800 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 73 33262 01",
+  "registrationNumber": "148 78 33267 01",
   "treatmentDescriptions": "Management of breakthrough pain in adult patients using opioid therapy for chronic cancer pain. Breakthrough pain is a transient exacerbation of otherwise controlled chronic background pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets sublingual",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.168969"
-  }
+    "lastUpdated": "2025-08-01T15:24:19.618625",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ABSTRAL 800MCG 30 TAB SUBLINGUAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:24:19.618631",
+      "previousRegistration": "148 73 33262 01",
+      "newRegistration": "148 78 33267 01",
+      "apiSource": "ABSTRAL 800 MCG"
+    }
+  },
+  "nameHebrew": "אבסטרל 800 מק\"ג",
+  "registrationDate": "2017-09-30"
 }

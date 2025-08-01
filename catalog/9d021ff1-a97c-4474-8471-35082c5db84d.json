@@ -1,10 +1,10 @@
 {
   "catalogId": "9d021ff1-a97c-4474-8471-35082c5db84d",
-  "name": "GABAPENTIN INOVAMED 300 MG",
+  "name": "GABAPENTIN TEVA ® 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 48 33100 00",
+  "registrationNumber": "119 47 29937 00",
   "treatmentDescriptions": "Epilepsy :- Gabapentin is indicated as adjunctive therapy in the treatment of partial seizures with and without secondary generalization in adults and adolescents ( age 12 and up ) with epilepsy.- Treatment of neuropathic pain- Gabapentin is indicated for the treatment of neuropathic pain in diabetic neuropathy or postherpetic neuropathy(neuralgia) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.842478"
-  }
+    "lastUpdated": "2025-08-01T16:24:27.193058",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GABAPENTIN-TEVA 400MG 100CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:24:27.193065",
+      "previousRegistration": "146 48 33100 00",
+      "newRegistration": "119 47 29937 00",
+      "apiSource": "GABAPENTIN TEVA ® 400 MG"
+    }
+  },
+  "nameHebrew": "גאבאפנטין טבע ® 400 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

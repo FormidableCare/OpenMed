@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.417609"
+    "lastUpdated": "2025-08-01T16:40:05.770820",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RAFASSAL 4 GRAM ENEMA",
+        "registration": "029 58 25321 00",
+        "form": ""
+      },
+      {
+        "name": "RAFASSAL  1 GRAM  ENEMA",
+        "registration": "120 39 26001 00",
+        "form": ""
+      },
+      {
+        "name": "RAFASSAL 1 GRAM GRANULES",
+        "registration": "151 72 33698 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RAFASSAL 3 GRAM GRANULES 50 sachets",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.22142857142857145,
+      "status": "failed_match"
+    }
   }
 }

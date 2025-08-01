@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,6 +56,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.069444"
-  }
+    "lastUpdated": "2025-08-01T16:51:39.717763",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RONEXINE 100MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:51:39.717770",
+      "previousRegistration": "030 40 21109 00",
+      "newRegistration": "030 40 21109 00",
+      "apiSource": "RONEXINE 100 MG TABLETS"
+    }
+  },
+  "nameHebrew": "רונקסין 100 מ\"ג טבליות",
+  "registrationDate": "2021-11-30"
 }

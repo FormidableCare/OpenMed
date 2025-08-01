@@ -1,10 +1,10 @@
 {
   "catalogId": "2b7a958d-029e-418f-8382-f233733d13e1",
-  "name": "TICOVAC 0.5 ML",
+  "name": "TICOVAC JUNIOR 0.25 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 33 35413 00",
+  "registrationNumber": "162 32 35412 00",
   "treatmentDescriptions": "Ticovac 0.5 ml is indicated for the active (prophylactic) immunization of adolescents from 16 years of age and adults against tick-borne encephalitis (TBE).",
   "termsOfIssue": "Prescription required",
   "form": "suspension for injection",
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.25,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.166379"
-  }
+    "lastUpdated": "2025-08-01T17:46:24.452448",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TICOVAC 0.25 ML  1 PREFILLED SYRINGE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:46:24.452454",
+      "previousRegistration": "162 33 35413 00",
+      "newRegistration": "162 32 35412 00",
+      "apiSource": "TICOVAC JUNIOR 0.25 ML"
+    }
+  },
+  "nameHebrew": "טיקוואק ג'וניור 0.25 מ\"ל",
+  "registrationDate": "2024-05-31"
 }

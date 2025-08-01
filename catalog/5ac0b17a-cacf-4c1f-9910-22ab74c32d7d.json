@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.447225"
-  }
+    "lastUpdated": "2025-08-01T15:33:12.210986",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOVOSEVEN RT 1MG/VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:33:12.211000",
+      "previousRegistration": "142 63 32929 00",
+      "newRegistration": "142 63 32929 00",
+      "apiSource": "NOVOSEVEN ® RT 1 MG/VIAL"
+    }
+  },
+  "nameHebrew": "נובוסבן אר.טי  1 מ\"ג/ בקבוקון",
+  "registrationDate": "2025-01-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "c68567be-bb9d-45f3-9617-4cd3d3a474e5",
-  "name": "ZYPREXA VELOTAB 10 MG",
+  "name": "ZYPREXA VELOTAB 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "130 76 30741 00",
+  "registrationNumber": "130 75 30740 00",
   "treatmentDescriptions": "Acute and maintenance treatment of schizophrenia.   Zyprexa is indicated for the management of the manifestations of psychotic disorders.   Zyprexa is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.Prevention of recurrence in Bipolar Disorder : In patients whose manic episode has responded to olanzapine treatment  Zyprexa is indicated for the prevention of recurrence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Zyprexa with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
   "termsOfIssue": "Prescription required",
   "form": "tablets orodispersible",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.103074"
-  }
+    "lastUpdated": "2025-08-01T16:25:13.303637",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZYPREXA VELOTAB 5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:25:13.303643",
+      "previousRegistration": "130 76 30741 00",
+      "newRegistration": "130 75 30740 00",
+      "apiSource": "ZYPREXA VELOTAB 5 MG"
+    }
+  },
+  "nameHebrew": "זיפרקסה ולוטב 5 מ\"ג",
+  "registrationDate": "2024-04-30"
 }

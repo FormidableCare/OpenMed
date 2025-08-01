@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 18.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 103.024848,
         "maxPriceWithVAT": 121.5693206
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.819294"
-  }
+    "lastUpdated": "2025-08-01T17:29:04.839123",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PHENIDIN 18 MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:29:04.839139",
+      "previousRegistration": "161 08 35114 00",
+      "newRegistration": "161 08 35114 00",
+      "apiSource": "PHENIDIN 18 MG"
+    }
+  },
+  "nameHebrew": "פנידין 18 מ\"ג",
+  "registrationDate": "2023-11-30"
 }

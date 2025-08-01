@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.376224"
-  }
+    "lastUpdated": "2025-08-01T16:14:59.114673",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ELONVA 100MCG/0.5ML 1SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:14:59.114688",
+      "previousRegistration": "147 30 33282 00",
+      "newRegistration": "147 30 33282 00",
+      "apiSource": "ELONVA 100 MCG / 0.5 ML"
+    }
+  },
+  "nameHebrew": "אלונבה 100 מק\"ג / 0.5 מ\"ל",
+  "registrationDate": "2016-12-31"
 }

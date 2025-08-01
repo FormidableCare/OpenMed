@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -55,11 +57,30 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 38.293418,
         "maxPriceWithVAT": 45.18623324
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.177205"
+    "lastUpdated": "2025-08-01T17:48:22.090105",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OXOPURIN 400",
+        "registration": "011 41 23858 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OXOPURIN 400MG 50SR CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

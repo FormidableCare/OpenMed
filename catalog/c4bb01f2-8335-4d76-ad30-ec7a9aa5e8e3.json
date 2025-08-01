@@ -25,10 +25,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 450.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -52,6 +54,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.092481"
+    "lastUpdated": "2025-08-01T17:02:50.982084",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LICARBIUM",
+        "registration": "022 10 20683 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LITHIUM CARBONATE 450MG  50 ER TABS  GLENMARK USA",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

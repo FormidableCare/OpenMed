@@ -31,10 +31,20 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 90.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.629455"
+    "lastUpdated": "2025-08-01T16:26:18.053640",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "STELARA 130 MG",
+        "registration": "158 52 35072 00",
+        "form": ""
+      },
+      {
+        "name": "STELARA 45 MG VIAL",
+        "registration": "142 36 32021 00",
+        "form": ""
+      },
+      {
+        "name": "STELARA 45 MG VIAL",
+        "registration": "142 36 32021 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "STELARA 90MG/1ML PREFILLED SYRINGE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20714285714285716,
+      "status": "failed_match"
+    }
   }
 }

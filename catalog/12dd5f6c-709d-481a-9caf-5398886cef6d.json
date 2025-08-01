@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 51.510493,
         "maxPriceWithVAT": 60.78238174
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.012194"
-  }
+    "lastUpdated": "2025-08-01T15:58:37.572417",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OSMO ADALAT 60MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.2,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:37.572424",
+      "previousRegistration": "159 44 35071 00",
+      "newRegistration": "159 44 35071 00",
+      "apiSource": "TROSMOLYT 20 MG"
+    }
+  },
+  "nameHebrew": "טרוסמוליט 20 מ\"ג",
+  "registrationDate": "2022-09-30"
 }

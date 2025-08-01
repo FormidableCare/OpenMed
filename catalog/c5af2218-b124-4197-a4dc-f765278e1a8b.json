@@ -1,10 +1,10 @@
 {
   "catalogId": "c5af2218-b124-4197-a4dc-f765278e1a8b",
-  "name": "SOLIFENACIN TRIMA 10",
+  "name": "SOLIFENACIN MEDO 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 33 33869 00",
+  "registrationNumber": "178 80 37449 99",
   "treatmentDescriptions": "For symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in patients with overactive bladder syndrome",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.096656"
-  }
+    "lastUpdated": "2025-08-01T16:55:44.700371",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOLIFENACIN TRIMA 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:55:44.700395",
+      "previousRegistration": "152 33 33869 00",
+      "newRegistration": "178 80 37449 99",
+      "apiSource": "SOLIFENACIN MEDO 10 MG"
+    }
+  },
+  "nameHebrew": "סוליפנאסין מדו 10 מ\"ג",
+  "registrationDate": "2025-01-27"
 }

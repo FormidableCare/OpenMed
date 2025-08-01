@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.188896"
+    "lastUpdated": "2025-08-01T15:58:05.358814",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EVRA",
+        "registration": "130 21 30818 00",
+        "form": ""
+      },
+      {
+        "name": "GENDEVRA",
+        "registration": "157 46 34742 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EVRA 3 PATCHES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

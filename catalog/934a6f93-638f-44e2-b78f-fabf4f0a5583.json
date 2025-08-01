@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.788125"
+    "lastUpdated": "2025-08-01T17:07:27.011662",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NORMALOL 100",
+        "registration": "052 39 26224 00",
+        "form": ""
+      },
+      {
+        "name": "NORMALOL 25",
+        "registration": "104 19 28700 00",
+        "form": ""
+      },
+      {
+        "name": "NORMALOL 50",
+        "registration": "052 40 26223 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NORMALOL 25MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

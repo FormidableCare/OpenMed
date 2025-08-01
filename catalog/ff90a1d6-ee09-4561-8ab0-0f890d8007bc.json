@@ -25,10 +25,20 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 840.0,
+          "unit": "mg"
+        },
+        {
+          "value": 14.0,
+          "unit": "ml"
+        },
+        {
+          "value": 14.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,6 +63,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.448948"
+    "lastUpdated": "2025-08-01T17:01:50.106181",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TECENTRIQ",
+        "registration": "158 66 34982 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TECENTRIQ 840MG/14ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

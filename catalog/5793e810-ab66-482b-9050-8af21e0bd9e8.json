@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 12.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.433434"
-  }
+    "lastUpdated": "2025-08-01T15:26:09.572938",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIZALT RPD 10MG 12 WAFER",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:26:09.572955",
+      "previousRegistration": "112 38 29510 00",
+      "newRegistration": "112 38 29510 00",
+      "apiSource": "RIZALT  RPD 10 MG WAFERS"
+    }
+  },
+  "nameHebrew": "ריזלט אר.פי.די 10 מ\"ג טבליות מסיסות",
+  "registrationDate": "2023-09-30"
 }

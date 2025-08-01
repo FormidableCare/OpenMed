@@ -1,10 +1,10 @@
 {
   "catalogId": "2a184fbb-97aa-492b-9657-5adbe289125e",
-  "name": "EZATOR S.K. 10/10 MG",
+  "name": "EZATOR S.K. 10/20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 85 36878 99",
+  "registrationNumber": "170 86 36879 99",
   "treatmentDescriptions": "- Prevention of Cardiovascular EventsEzator S.K. is indicated to reduce the risk of cardiovascular events in patients with coronary heart disease (CHD) and a history of acute coronary syndrome (ACS), either previously treated with a statin or not.- HypercholesterolaemiaEzator S.K. is indicated as adjunctive therapy to diet for use in adults with primary (heterozygous familial and non-familial) hypercholesterolaemia or mixed hyperlipidaemia where use of a combination product is appropriate. • patients not appropriately controlled with a statin alone• patients already treated with a statin and ezetimibe- Homozygous Familial Hypercholesterolaemia (HoFH)Ezator S.K. is indicated as adjunctive therapy to diet for use in adults with HoFH. Patients may also receive adjunctive treatments (e.g., low-density lipoprotein [LDL] apheresis).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.156475"
-  }
+    "lastUpdated": "2025-08-01T16:10:59.132569",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EZATOR S.K. 10/20 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:10:59.132588",
+      "previousRegistration": "170 85 36878 99",
+      "newRegistration": "170 86 36879 99",
+      "apiSource": "EZATOR S.K. 10/20 MG"
+    }
+  },
+  "nameHebrew": "אזאטור אס.קיי. 20/10 מ\"ג",
+  "registrationDate": "2022-11-21"
 }

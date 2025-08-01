@@ -1,10 +1,10 @@
 {
   "catalogId": "1f7d73ea-863c-497e-a51d-ecd150d60cfa",
-  "name": "GLYXAMBI 10 MG/5 MG",
+  "name": "GLYXAMBI 25 MG/5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 76 34531 00",
+  "registrationNumber": "155 75 34509 00",
   "treatmentDescriptions": "GLYXAMBI tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both empagliflozin and linagliptin is appropriate.  Limitations of UseGLYXAMBI is not recommended for patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.GLYXAMBI has not been studied in patients with a history of pancreatitis.  It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using GLYXAMBI.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.089891"
-  }
+    "lastUpdated": "2025-08-01T16:49:25.945534",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GLYXAMBI 25 MG/5 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:25.945549",
+      "previousRegistration": "155 76 34531 00",
+      "newRegistration": "155 75 34509 00",
+      "apiSource": "GLYXAMBI 25 MG/5 MG"
+    }
+  },
+  "nameHebrew": "גליקסמבי 25 מ\"ג /5 מ\"ג",
+  "registrationDate": "2021-02-28"
 }

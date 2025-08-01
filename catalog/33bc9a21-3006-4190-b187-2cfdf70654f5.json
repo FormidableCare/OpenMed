@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.215110"
-  }
+    "lastUpdated": "2025-08-01T15:57:16.815866",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REBLOZYL 25 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:16.815879",
+      "previousRegistration": "169 03 36646 00",
+      "newRegistration": "169 03 36646 00",
+      "apiSource": "REBLOZYL 25 MG"
+    }
+  },
+  "nameHebrew": "רבלוזיל 25 מ\"ג",
+  "registrationDate": "2022-01-30"
 }

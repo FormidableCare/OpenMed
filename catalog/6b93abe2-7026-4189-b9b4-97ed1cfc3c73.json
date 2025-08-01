@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 36.0,
         "unit": "units"
@@ -52,6 +54,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.550714"
-  }
+    "lastUpdated": "2025-08-01T16:11:40.974571",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NICOTINELL LOZENGES 1MG 36 LOZ",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:11:40.974577",
+      "previousRegistration": "136 54 31154 01",
+      "newRegistration": "136 54 31154 01",
+      "apiSource": "NICOTINELL LOZENGES 1 MG"
+    }
+  },
+  "nameHebrew": "ניקוטינל לכסניות 1 מ\"ג",
+  "registrationDate": "2022-03-31"
 }

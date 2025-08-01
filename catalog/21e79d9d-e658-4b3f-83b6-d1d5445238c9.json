@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 140.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 7055.35547,
         "maxPriceWithVAT": 8325.319084
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.104892"
-  }
+    "lastUpdated": "2025-08-01T16:07:33.352804",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMBRUVICA 140 MG 30 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9900000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:07:33.352815",
+      "previousRegistration": "167 61 36458 99",
+      "newRegistration": "167 61 36458 99",
+      "apiSource": "IMBRUVICA 140 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אימברוביקה 140 מ\"ג טבליות",
+  "registrationDate": "2021-06-22"
 }

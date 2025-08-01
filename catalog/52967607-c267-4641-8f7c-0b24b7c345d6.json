@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 18.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.404959"
-  }
+    "lastUpdated": "2025-08-01T16:16:02.521776",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CONCERTA 18MG XR 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:16:02.521786",
+      "previousRegistration": "126 85 30589 24",
+      "newRegistration": "126 85 30589 24",
+      "apiSource": "CONCERTA 18 MG"
+    }
+  },
+  "nameHebrew": "קונסרטה 18 מ\"ג",
+  "registrationDate": "2022-11-30"
 }

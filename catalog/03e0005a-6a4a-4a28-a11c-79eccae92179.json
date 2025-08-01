@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.909376"
+    "lastUpdated": "2025-08-01T17:33:13.048545",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "M.I.R. 15",
+        "registration": "033 83 25309 00",
+        "form": ""
+      },
+      {
+        "name": "M.I.R. 30",
+        "registration": "033 84 25310 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "M.I.R 30MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

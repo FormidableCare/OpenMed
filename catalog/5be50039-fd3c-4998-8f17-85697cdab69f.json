@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 22.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.452025"
-  }
+    "lastUpdated": "2025-08-01T16:29:52.622096",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRELEGY ELLIPTA 184 / 55 / 22 MCG 30 DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:29:52.622103",
+      "previousRegistration": "168 61 36629 99",
+      "newRegistration": "168 61 36629 99",
+      "apiSource": "TRELEGY ELLIPTA 184 / 55 / 22 MCG"
+    }
+  },
+  "nameHebrew": "טרלג'י אליפטה 184/55/22 מק\"ג",
+  "registrationDate": "2021-11-15"
 }

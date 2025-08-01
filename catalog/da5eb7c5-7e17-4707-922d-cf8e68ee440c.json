@@ -1,6 +1,6 @@
 {
   "catalogId": "da5eb7c5-7e17-4707-922d-cf8e68ee440c",
-  "name": "PREDNISONE 1 MG TABLETS",
+  "name": "PREDNISONE REKAH 1 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.233328"
-  }
+    "lastUpdated": "2025-08-01T15:45:13.355752",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREDNISONE 1MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:13.355765",
+      "previousRegistration": "118 06 26041 00",
+      "newRegistration": "118 06 26041 00",
+      "apiSource": "PREDNISONE REKAH 1 MG TABLETS"
+    }
+  },
+  "nameHebrew": "פרדניזון רקח 1 מ\"ג טבליות",
+  "registrationDate": "2025-02-28"
 }

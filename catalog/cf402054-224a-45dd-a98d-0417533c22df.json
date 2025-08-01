@@ -25,10 +25,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,6 +56,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.173607"
+    "lastUpdated": "2025-08-01T15:32:33.932176",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADIZEM CD 180",
+        "registration": "102 96 27681 00",
+        "form": ""
+      },
+      {
+        "name": "ADIZEM CD 240",
+        "registration": "102 97 27682 00",
+        "form": ""
+      },
+      {
+        "name": "ADIZEM CD 120",
+        "registration": "102 95 27680 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADIZEM CD 120MG 30CAP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

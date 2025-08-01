@@ -1,10 +1,10 @@
 {
   "catalogId": "be5ff59a-cdff-44e6-9358-214e1485520b",
-  "name": "RISPERDAL 1 MG",
+  "name": "RISPERDAL 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 78 28260 01",
+  "registrationNumber": "144 81 28263 01",
   "treatmentDescriptions": "Risperdal is indicated for the management of schizophrenia and manifestation of psychotic disorders. The antipsychotic efficacy of Risperdal was established in short-term (6 to 8-weeks) controlled trials of schizophrenic inpatients.  Risperdal is also effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.Risperdal is indicated for the short-term treatment (up to 6 weeks) of persistent aggression in patients with moderate to severe Alzheimer’s dementia unresponsive to non-pharmacological approaches and when there is a risk of harm to self or others. Conduct and other disruptive disorders: Treatment of behavioral disorders expressed by impulse control disorders or self-alienated-aggressive or treatment-requiring behavioral disorders with reduced or substandard intelligence. Treatment should not be given to children under the age of 5 years.Risperdal is indicated for the treatment of mania in bipolar disorder. These episodes are characterized by symptoms such as   elevated, expansive or irritable mood, inflated self-esteem, decreased need for sleep, pressured speech, racing thoughts, distractibility, or poor judgment, including disruptive or aggressive behaviors",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -60,6 +62,30 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.050435"
-  }
+    "lastUpdated": "2025-08-01T15:20:11.956336",
+    "tags": [
+      "smart_validation_corrected",
+      "match_score_0.81"
+    ],
+    "validationDetails": {
+      "correctedAt": "2025-08-01T15:03:22.888046",
+      "previousRegistration": "144 81 28263 01",
+      "newRegistration": "144 81 28263 01",
+      "matchScore": 0.81,
+      "apiSource": "RISPERDAL 4 MG",
+      "csvSource": "RISPERDAL 4MG 20TAB"
+    },
+    "smartValidation": {
+      "extractedFrom": "RISPERDAL 4MG 20TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:20:11.956341",
+      "previousRegistration": "144 81 28263 01",
+      "newRegistration": "144 81 28263 01",
+      "apiSource": "RISPERDAL 4 MG"
+    }
+  },
+  "nameHebrew": "ריספרדל 4 מ\"ג",
+  "registrationDate": "2015-12-31"
 }

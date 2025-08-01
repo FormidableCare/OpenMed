@@ -1,10 +1,10 @@
 {
   "catalogId": "27825dc3-1b58-413f-8da9-816c3d268a37",
-  "name": "KOSELUGO 10 MG",
+  "name": "KOSELUGO 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 72 36526 99",
+  "registrationNumber": "167 75 36527 99",
   "treatmentDescriptions": "Koselugo is indicated for the treatment of pediatric patients 2 years of age and older withneurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN).",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.139205"
-  }
+    "lastUpdated": "2025-08-01T16:59:05.791143",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KOSELUGO 25 MG 60 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:59:05.791160",
+      "previousRegistration": "167 72 36526 99",
+      "newRegistration": "167 75 36527 99",
+      "apiSource": "KOSELUGO 25 MG"
+    }
+  },
+  "nameHebrew": "קוסליוגו 25 מ\"ג",
+  "registrationDate": "2021-06-29"
 }

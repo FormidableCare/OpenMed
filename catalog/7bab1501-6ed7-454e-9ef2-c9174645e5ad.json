@@ -31,10 +31,20 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.635931"
+    "lastUpdated": "2025-08-01T16:39:29.746520",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TRUXIMA",
+        "registration": "161 74 35585 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TRUXIMA 500MG/50 ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

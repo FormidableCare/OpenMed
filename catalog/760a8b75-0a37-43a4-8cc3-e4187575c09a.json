@@ -1,10 +1,10 @@
 {
   "catalogId": "760a8b75-0a37-43a4-8cc3-e4187575c09a",
-  "name": "DIOVAN ® 40 MG FILM-COATED TABLETS",
+  "name": "DIOVAN 160 MG FILM-COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 42 31281 00",
+  "registrationNumber": "127 86 30549 00",
   "treatmentDescriptions": "Diovan is indicated for the treatment of heart failure (NYHA class II-IV) in patients who are intolerant of angiotensin converting enzyme inhibitors. In a controlled clinical trial  Diovan significantly reduced hospitalisations for heart failure. There is no evidence that Diovan provides added benefits when it is used with an adequate dose of an ACE inhibitor.   Diovan is indicated to improve survival following myocardial infarction in clinically stable patients with signs symptoms or radiological evidence of left ventricular failure and /or with left ventricular systolic dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 160.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.605913"
-  }
+    "lastUpdated": "2025-08-01T16:25:11.281191",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DIOVAN 160MG 28 FC TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.805,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:25:11.281208",
+      "previousRegistration": "137 42 31281 00",
+      "newRegistration": "127 86 30549 00",
+      "apiSource": "DIOVAN 160 MG FILM-COATED TABLETS"
+    }
+  },
+  "nameHebrew": "דיובאן 160 מ\"ג טבליות מצופות",
+  "registrationDate": "2023-03-31"
 }

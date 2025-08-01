@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.145316"
+    "lastUpdated": "2025-08-01T16:51:25.228760",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DES-LORATADIM",
+        "registration": "152 01 32034 00",
+        "form": ""
+      },
+      {
+        "name": "LORATADIM",
+        "registration": "137 09 30171 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LORATADIM 10MG 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

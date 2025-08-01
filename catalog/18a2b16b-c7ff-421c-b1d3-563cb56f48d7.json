@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.051654"
+    "lastUpdated": "2025-08-01T15:26:33.967623",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CONTROLOC 20 MG",
+        "registration": "116 36 29745 00",
+        "form": ""
+      },
+      {
+        "name": "CONTROLOC 40",
+        "registration": "104 40 28684 00",
+        "form": ""
+      },
+      {
+        "name": "CONTROLOC I.V.",
+        "registration": "129 41 30772 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CONTROLOC 40MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21000000000000002,
+      "status": "failed_match"
+    }
   }
 }

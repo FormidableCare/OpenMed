@@ -1,10 +1,10 @@
 {
   "catalogId": "787accca-676d-4ebc-96e8-75009da86a2d",
-  "name": "CELSENTRI 150 MG",
+  "name": "CELSENTRI 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 61 31670 00",
+  "registrationNumber": "139 62 31671 00",
   "treatmentDescriptions": "Celsentri is a CCR5 co-receptor antagonist indicated for combination antiretroviral treatment of adults infected with only CCR5-tropic HIV-1.• In treatment-naïve subjects, more subjects treated with Celsentri experienced virologic failure and developed lamivudine resistance compared to efavirenz.• Tropism testing with a highly sensitive tropism assay is required for the appropriate use of Celsentri.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.616606"
-  }
+    "lastUpdated": "2025-08-01T17:33:21.606353",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CELSENTRI 300MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:33:21.606358",
+      "previousRegistration": "139 61 31670 00",
+      "newRegistration": "139 62 31671 00",
+      "apiSource": "CELSENTRI 300 MG"
+    }
+  },
+  "nameHebrew": "סלסנטרי 300 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

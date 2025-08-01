@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.031635"
-  }
+    "lastUpdated": "2025-08-01T15:33:35.508454",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AVCAMOL FOR BIG KIDS 250 MG STRAW/VANI 10 SACHETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8150000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:33:35.508469",
+      "previousRegistration": "148 51 33446 01",
+      "newRegistration": "148 51 33446 01",
+      "apiSource": "AVCAMOL 250 MG"
+    }
+  },
+  "nameHebrew": "אבקמול 250 מ\"ג",
+  "registrationDate": "2018-06-21"
 }

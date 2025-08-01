@@ -31,10 +31,12 @@
         "name": "אלדן",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.023480"
+    "lastUpdated": "2025-08-01T16:45:50.047906",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CLARISCAN",
+        "registration": "163 65 35367 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CLARISCAN 279.3MG/ML100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

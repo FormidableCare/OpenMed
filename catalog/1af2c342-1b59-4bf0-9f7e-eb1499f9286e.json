@@ -31,10 +31,12 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.064496"
-  }
+    "lastUpdated": "2025-08-01T16:08:54.053938",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NUROFEN FOR CHILDREN 125MG 10SUPP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:08:54.053973",
+      "previousRegistration": "142 89 32016 01",
+      "newRegistration": "142 89 32016 01",
+      "apiSource": "NUROFEN FOR CHILDREN SUPPOSITORIES 125 MG"
+    }
+  },
+  "nameHebrew": "נורופן לילדים פתילות 125 מ\"ג",
+  "registrationDate": "2025-02-28"
 }

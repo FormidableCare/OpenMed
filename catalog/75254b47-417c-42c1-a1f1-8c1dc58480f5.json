@@ -31,10 +31,20 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.6,
+          "unit": "ml"
+        },
+        {
+          "value": 0.6,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -59,6 +69,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.603079"
+    "lastUpdated": "2025-08-01T15:56:04.942438",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CRUSIA",
+        "registration": "162 88 35673 00",
+        "form": ""
+      },
+      {
+        "name": "CRUSIA FORTE",
+        "registration": "173 13 37520 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CRUSIA 60MG/0.6ML 2 SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

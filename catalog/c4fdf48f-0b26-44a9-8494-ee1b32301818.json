@@ -1,10 +1,10 @@
 {
   "catalogId": "c4fdf48f-0b26-44a9-8494-ee1b32301818",
-  "name": "GABAPENTIN INOVAMED 300 MG",
+  "name": "GABAPENTIN INOVAMED 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 48 33100 00",
+  "registrationNumber": "146 49 33246 00",
   "treatmentDescriptions": "Epilepsy :- Gabapentin is indicated as adjunctive therapy in the treatment of partial seizures with and without secondary generalization in adults and adolescents ( age 12 and up ) with epilepsy.- Treatment of neuropathic pain- Gabapentin is indicated for the treatment of neuropathic pain in diabetic neuropathy or postherpetic neuropathy(neuralgia) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.093008"
-  }
+    "lastUpdated": "2025-08-01T16:24:27.188046",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GABAPENTIN INOVAMED 400 MG 100CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:24:27.188055",
+      "previousRegistration": "146 48 33100 00",
+      "newRegistration": "146 49 33246 00",
+      "apiSource": "GABAPENTIN INOVAMED 400 MG"
+    }
+  },
+  "nameHebrew": "גאבאפנטין אינובמד 400 מ\"ג",
+  "registrationDate": "2022-02-28"
 }

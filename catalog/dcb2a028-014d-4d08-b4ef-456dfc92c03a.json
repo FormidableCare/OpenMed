@@ -1,10 +1,10 @@
 {
   "catalogId": "dcb2a028-014d-4d08-b4ef-456dfc92c03a",
-  "name": "PREGABALIN TARO 100 MG",
+  "name": "LYRICA 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 26 34762 00",
+  "registrationNumber": "132 99 31187 00",
   "treatmentDescriptions": "Pregabalin taro is indicated for the: •\tTreatment of peripheral and central neuropathic pain in adults. •\tManagement of Fibromyalgia. •\tTreatment of Generalised Anxiety Disorder (GAD) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.248182"
-  }
+    "lastUpdated": "2025-08-01T17:13:18.528275",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREGABALIN TARO 75 MG 56CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:18.528283",
+      "previousRegistration": "158 26 34762 00",
+      "newRegistration": "132 99 31187 00",
+      "apiSource": "LYRICA 75 MG"
+    }
+  },
+  "nameHebrew": "ליריקה 75 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

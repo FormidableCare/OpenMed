@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 88.2589,
         "maxPriceWithVAT": 104.145502
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.151728"
+    "lastUpdated": "2025-08-01T15:29:30.418458",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADATAR",
+        "registration": "163 95 35656 00",
+        "form": ""
+      },
+      {
+        "name": "OTOMYCIN",
+        "registration": "015 86 24749 00",
+        "form": ""
+      },
+      {
+        "name": "AUSTEDO 12 MG",
+        "registration": "166 59 36156 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADATAR GEL 30G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "b5d5ebbf-d7ad-49d7-8f24-ba78a976b383",
-  "name": "TRAZIMERA 150 MG",
+  "name": "TRAZIMERA 420 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 30 36300 00",
+  "registrationNumber": "166 31 36301 00",
   "treatmentDescriptions": "Metastatic Breast Cancer (MBC)TRAZIMERA is indicated for the treatment of patients with metastatic breast cancer who have tumors that overexpress HER2;1. As a single agent, for the treatment of those patients who have received one or more chemotherapy regimens for their metastatic disease.2. In combination with Paclitaxel or Docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.3. In combination with an aromatase inhibitor for the treatment of postmenopausal patient with hormone-receptor positive metastatic breast cancer.Early Breast Cancer (EBC)TRAZIMERA is indicated to treat patients with HER2 positive early breast cancer following surgery and chemotherapy (neoadjuvant or adjuvant) either alone or in combination with chemotherapy excluding anthracyclines.TRAZIMERA should only be used in patients whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.HER2 Metastatic Gastric Cancer (MGC)TRAZIMERA in combination with capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease.TRAZIMERA should only be used in patients with metastatic gastric cancer whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory FISH+ result, or IHC 3+, as determined by an accurate and validated assay.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 420.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.993912"
-  }
+    "lastUpdated": "2025-08-01T17:39:51.076980",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRAZIMERA 420 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:39:51.077004",
+      "previousRegistration": "166 30 36300 00",
+      "newRegistration": "166 31 36301 00",
+      "apiSource": "TRAZIMERA 420 MG"
+    }
+  },
+  "nameHebrew": "טרזימרה 420 מ\"ג",
+  "registrationDate": "2020-12-23"
 }

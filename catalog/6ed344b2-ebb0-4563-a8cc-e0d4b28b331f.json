@@ -1,10 +1,10 @@
 {
   "catalogId": "6ed344b2-ebb0-4563-a8cc-e0d4b28b331f",
-  "name": "TEGRETOL 200 MG",
+  "name": "TEGRETOL SYRUP 2%",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "015 41 24602 00",
+  "registrationNumber": "022 90 24971 00",
   "treatmentDescriptions": "Epilepsy, trigeminal neuralgia, diabetes insipidus, mania, prophylactic in manic depressive illness.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 250.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.570019"
-  }
+    "lastUpdated": "2025-08-01T16:04:45.912113",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TEGRETOL SYR2% 250ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:04:45.912124",
+      "previousRegistration": "015 41 24602 00",
+      "newRegistration": "022 90 24971 00",
+      "apiSource": "TEGRETOL SYRUP 2%"
+    }
+  },
+  "nameHebrew": "טגרטול סירופ 2%",
+  "registrationDate": "2021-12-31"
 }

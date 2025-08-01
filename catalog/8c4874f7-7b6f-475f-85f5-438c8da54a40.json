@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 10.6312,
         "maxPriceWithVAT": 12.544816
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.752696"
+    "lastUpdated": "2025-08-01T15:56:14.204822",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CICLODERM",
+        "registration": "062 23 26751 00",
+        "form": ""
+      },
+      {
+        "name": "CICLODERM C",
+        "registration": "068 06 27821 00",
+        "form": ""
+      },
+      {
+        "name": "CICLODERM SOLUTION",
+        "registration": "136 35 28781 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CICLODERM  CREAM 15GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "f43f04bf-31a9-4f0b-9665-871e3b7fcca9",
-  "name": "ISOVENIR 10 MG",
+  "name": "ISOVENIR 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "174 46 36774 99",
+  "registrationNumber": "174 48 36776 99",
   "treatmentDescriptions": "Isovenir is indicated for the treatment of severe cystic acne that does not respond to other treatment",
   "termsOfIssue": "Prescription required",
   "form": "capsule, soft",
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.381996"
-  }
+    "lastUpdated": "2025-08-01T16:58:35.333804",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ISOVENIR 40 MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:58:35.333808",
+      "previousRegistration": "174 46 36774 99",
+      "newRegistration": "174 48 36776 99",
+      "apiSource": "ISOVENIR 40 MG"
+    }
+  },
+  "nameHebrew": "איזובניר 40 מ\"ג",
+  "registrationDate": "2023-09-21"
 }

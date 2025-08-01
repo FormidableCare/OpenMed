@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -60,6 +62,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.908504"
+    "lastUpdated": "2025-08-01T16:17:41.769529",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LEVEMIR",
+        "registration": "132 40 31119 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LEVEMIR FLEXPEN CART 5X3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

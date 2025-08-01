@@ -1,10 +1,10 @@
 {
   "catalogId": "9fae41c7-7b90-430a-a283-f4cc2b5597b1",
-  "name": "SEPTAX 1 G",
+  "name": "SEPTAX 2 G",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "135 96 31243 00",
+  "registrationNumber": "135 97 31244 00",
   "treatmentDescriptions": "Septax is indicated for the treatment of the infections listed below in adults and children including neonates (from birth).• Nosocomial pneumonia• Broncho-pulmonary infections in cystic fibrosis• Bacterial meningitis• Chronic suppurative otitis media• Malignant otitis externa• Complicated urinary tract infections• Complicated skin and soft tissue infections• Complicated intra-abdominal infections• Bone and joint infections• Peritonitis associated with dialysis in patient on CAPD.Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above.Ceftazidime may be used in the management of neutropenic patients with fever that is suspected to be due to a bacterial infection.Ceftazidime may be used in the peri-operative prophylaxis of urinary tract infections for patients undergoing trans-urethral resection of the prostate (TURP).The selection of ceftazidime should take into account its antibacterial spectrum, which is mainly restricted to aerobic Gram negative bacteria.Ceftazidime should be co-administered with other antibacterial agents whenever the possible range of causive bacteria would not fall within its spectrum of activity.Consideration should be given to official guidelines on the appropriate use of antibacterial agents.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,6 +56,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.857856"
-  }
+    "lastUpdated": "2025-08-01T16:38:27.724492",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEPTAX 2G 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:27.724502",
+      "previousRegistration": "135 96 31243 00",
+      "newRegistration": "135 97 31244 00",
+      "apiSource": "SEPTAX 2 G"
+    }
+  },
+  "nameHebrew": "ספטקס 2 גר'",
+  "registrationDate": "2021-12-31"
 }

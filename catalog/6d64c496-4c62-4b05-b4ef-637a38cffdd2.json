@@ -1,10 +1,10 @@
 {
   "catalogId": "6d64c496-4c62-4b05-b4ef-637a38cffdd2",
-  "name": "AUGMENTIN SUSPENSION 400 MG/5 ML",
+  "name": "AUGMENTIN 250 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "112 75 29288 01",
+  "registrationNumber": "026 26 25047 00",
   "treatmentDescriptions": "Augmentin is indicated for the treatment of the following infections in adults and children: • Acute bacterial sinusitis (adequately diagnosed)• Acute otitis media• Acute exacerbations of chronic bronchitis (adequately diagnosed)• Community acquired pneumonia• Cystitis• Pyelonephritis• Skin and soft tissue infections in particular cellulitis, animal bites, severe dental abscess with spreading cellulitis.• Bone and joint infections, in particular osteomyelitis.• Recurrent tonsillitis",
   "termsOfIssue": "Prescription required",
   "form": "powder for oral suspension",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.559981"
-  }
+    "lastUpdated": "2025-08-01T15:26:24.472876",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AUGMENTIN 250MG 100ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:26:24.472889",
+      "previousRegistration": "112 75 29288 01",
+      "newRegistration": "026 26 25047 00",
+      "apiSource": "AUGMENTIN 250 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אוגמנטין 250 מ\"ג טבליות",
+  "registrationDate": "2022-08-31"
 }

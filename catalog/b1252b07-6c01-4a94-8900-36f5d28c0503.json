@@ -1,10 +1,10 @@
 {
   "catalogId": "b1252b07-6c01-4a94-8900-36f5d28c0503",
-  "name": "FYCOMPA 10 MG FILM COATED TABLETS",
+  "name": "FYCOMPA 4 MG FILM COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 50 33794 01",
+  "registrationNumber": "150 47 33791 00",
   "treatmentDescriptions": "Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in patients with epilepsy aged 4 years and older.Fycompa is indicated for the adjunctive treatment of primary generalised tonic clonic (PGTC) seizures in patients from 7 years of age and older with idiopathic generalized epilepsy (IGE).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.957957"
-  }
+    "lastUpdated": "2025-08-01T15:29:56.211646",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FYCOMPA 4MG 28 F.C TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8045454545454546,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:56.211657",
+      "previousRegistration": "150 50 33794 01",
+      "newRegistration": "150 47 33791 00",
+      "apiSource": "FYCOMPA 4 MG FILM COATED TABLETS"
+    }
+  },
+  "nameHebrew": "פייקומפה 4 מ\"ג טבליות מצופות",
+  "registrationDate": "2018-07-31"
 }

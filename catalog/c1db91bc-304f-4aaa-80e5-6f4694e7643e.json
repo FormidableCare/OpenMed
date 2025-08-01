@@ -1,10 +1,10 @@
 {
   "catalogId": "c1db91bc-304f-4aaa-80e5-6f4694e7643e",
-  "name": "BESREMI 250 MCG/0.5 ML",
+  "name": "BESREMI 500 MCG/0.5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 66 36574 00",
+  "registrationNumber": "166 67 36575 00",
   "treatmentDescriptions": "Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "אי.או.פי אורפן",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,11 +59,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 8613.026953,
         "maxPriceWithVAT": 10163.37135
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.074684"
-  }
+    "lastUpdated": "2025-08-01T17:45:29.727522",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BESREMI 500 MCG/0.5 mL 1 pre-filled pen",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:45:29.727531",
+      "previousRegistration": "166 66 36574 00",
+      "newRegistration": "166 67 36575 00",
+      "apiSource": "BESREMI 500 MCG/0.5 ML"
+    }
+  },
+  "nameHebrew": "בסרמי 500 מק\"ג/ 0.5 מ\"ל",
+  "registrationDate": "2021-02-09"
 }

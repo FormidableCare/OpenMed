@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 12.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.282279"
-  }
+    "lastUpdated": "2025-08-01T16:30:15.819099",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRITACE COMP 2.5MG/12.5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:15.819109",
+      "previousRegistration": "122 27 30187 00",
+      "newRegistration": "122 27 30187 00",
+      "apiSource": "TRITACE COMP 2.5 MG/12.5 MG"
+    }
+  },
+  "nameHebrew": "טריטייס  קומפ 2.5 מ\"ג / 12.5 מ\"ג",
+  "registrationDate": "2021-04-30"
 }

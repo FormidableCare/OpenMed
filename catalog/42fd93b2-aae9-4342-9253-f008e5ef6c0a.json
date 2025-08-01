@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.324123"
+    "lastUpdated": "2025-08-01T17:35:57.391251",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MONOLONG 40 MG",
+        "registration": "052 97 26218 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 20",
+        "registration": "052 51 23128 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 40",
+        "registration": "049 99 26415 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ISOSORBIDE DINITRATE SUBLINGUAL 2.5MG 100TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -52,11 +54,40 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.984567"
+    "lastUpdated": "2025-08-01T17:16:37.985272",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ONGENTYS 50 MG",
+        "registration": "170 17 37081 99",
+        "form": ""
+      },
+      {
+        "name": "ENTACAPONE MEDOCHEMIE",
+        "registration": "160 98 35150 00",
+        "form": ""
+      },
+      {
+        "name": "APO-GO",
+        "registration": "128 26 30682 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ONGENTYS 25MG CAPSULES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21000000000000002,
+      "status": "failed_match"
+    }
   }
 }

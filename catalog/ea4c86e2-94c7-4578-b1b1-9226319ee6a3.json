@@ -1,10 +1,10 @@
 {
   "catalogId": "ea4c86e2-94c7-4578-b1b1-9226319ee6a3",
-  "name": "QUETIAPINE INOVAMED SR 300 MG",
+  "name": "SEROQUEL XR 150 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 71 35461 00",
+  "registrationNumber": "146 97 33472 00",
   "treatmentDescriptions": "Quetiapine Inovamed SR is indicated for the treatment of Schizophrenia. Quetiapine Inovamed SR is effective in preventing relapse in stable schizophrenic patients who have been maintained on Quetiapine Inovamed SR. Quetiapine Inovamed SR is indicated for the treatment of moderate to severe manic episodes associated with bipolar disorder. Quetiapine Inovamed SR is indicated for the treatment of major depressive episodes in bipolar disorder. Treatment of acute mania associated with bipolar I disorder as monotherapy or in combination with lithium or sodium valproate. Quetiapine Inovamed SR is indicated for preventing recurrence in bipolar disorder in patients whose manic, mixed or depressive episode has responded to quetiapine treatment, as monotherapy or in combination with lithium or sodium valproate. Quetiapine Inovamed SR is indicated for add-on treatment of major depressive episods in patients with Major Depressive Disorder (MDD) who have had sub-optimal response to antidepressant monotherapy. Prior to initiating treatment, clinicians should consider the safety profile of Quetiapine Inovamed SR.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 64.192815,
         "maxPriceWithVAT": 75.7475217
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.330788"
-  }
+    "lastUpdated": "2025-08-01T16:54:36.263658",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QUETIAPINE INOVAMED SR 150 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:54:36.263666",
+      "previousRegistration": "165 71 35461 00",
+      "newRegistration": "146 97 33472 00",
+      "apiSource": "SEROQUEL XR 150 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל אקס.אר 150 מ\"ג",
+  "registrationDate": "2021-11-30"
 }

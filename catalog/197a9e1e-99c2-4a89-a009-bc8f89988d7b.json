@@ -31,10 +31,16 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +66,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.055120"
+    "lastUpdated": "2025-08-01T15:37:41.692101",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HUMULIN N",
+        "registration": "054 12 22715 22",
+        "form": ""
+      },
+      {
+        "name": "HUMULIN R",
+        "registration": "054 43 22714 22",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HUMULIN REGULAR 100 IU/ML 10ML sol for inj",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005000000000000001,
+      "status": "failed_match"
+    }
   }
 }

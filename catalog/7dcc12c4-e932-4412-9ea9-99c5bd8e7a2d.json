@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -52,11 +54,40 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.652476"
+    "lastUpdated": "2025-08-01T16:47:24.649854",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AMINOPLASMAL B. BRAUN 10% E",
+        "registration": "150 94 33650 00",
+        "form": ""
+      },
+      {
+        "name": "AMINOPLASMAL B.BRAUN 10%",
+        "registration": "150 93 33648 00",
+        "form": ""
+      },
+      {
+        "name": "TRIOMEL 12 G/L NITROGEN 950 Kcal/L",
+        "registration": "179 26 37617 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ARGININE 1G/5ML ORAL SOLUTION 20 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

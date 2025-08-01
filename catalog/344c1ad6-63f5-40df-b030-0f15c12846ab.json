@@ -1,10 +1,10 @@
 {
   "catalogId": "344c1ad6-63f5-40df-b030-0f15c12846ab",
-  "name": "ABIVENIR 250 MG",
+  "name": "ABIRATERONE SANDOZ ® 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 52 37297 99",
+  "registrationNumber": "176 13 37121 99",
   "treatmentDescriptions": "AbiVenir is a CYP17 inhibitor indicated:- in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer.- for the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.219952"
-  }
+    "lastUpdated": "2025-08-01T15:28:42.992024",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ABIRATERONE SANDOZ 250MG 120 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:28:42.992032",
+      "previousRegistration": "172 52 37297 99",
+      "newRegistration": "176 13 37121 99",
+      "apiSource": "ABIRATERONE SANDOZ ® 250 MG"
+    }
+  },
+  "nameHebrew": "אבירטרון סנדוז ® 250 מ\"ג",
+  "registrationDate": "2024-04-14"
 }

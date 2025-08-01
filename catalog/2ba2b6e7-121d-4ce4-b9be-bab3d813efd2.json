@@ -31,10 +31,16 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 160.0,
+          "unit": "mg"
+        },
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 160.0,
         "unit": "units"
@@ -59,6 +65,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.167357"
+    "lastUpdated": "2025-08-01T16:32:35.794079",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KADCYLA",
+        "registration": "151 63 33939 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KADCYLA 20MG/ML VIAL 20ML 160MG",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

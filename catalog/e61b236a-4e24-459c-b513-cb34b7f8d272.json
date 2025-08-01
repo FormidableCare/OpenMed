@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 3689.068162,
         "maxPriceWithVAT": 4353.100238
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.303918"
-  }
+    "lastUpdated": "2025-08-01T17:17:19.400467",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALUNBRIG 30 MG 30 FILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:19.400473",
+      "previousRegistration": "161 05 35334 00",
+      "newRegistration": "161 05 35334 00",
+      "apiSource": "ALUNBRIG 30 MG"
+    }
+  },
+  "nameHebrew": "אלונבריג 30 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

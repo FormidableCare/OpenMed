@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +65,28 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1468.066371,
         "maxPriceWithVAT": 1732.318241
-      }
+      },
+      "formulation": [
+        "injection",
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.670080"
-  }
+    "lastUpdated": "2025-08-01T15:23:06.254543",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "COSENTYX 75 MG/0.5 ML SOLUTION FOR INJECTION",
+      "processedBy": "smart_validation",
+      "matchScore": 0.17222222222222222,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:06.254561",
+      "previousRegistration": "154 20 34342 00",
+      "newRegistration": "154 20 34342 00",
+      "apiSource": "COSENTYX  SOLUTION FOR INJECTION"
+    }
+  },
+  "nameHebrew": "קוסנטיקס תמיסה להזרקה",
+  "registrationDate": "2020-07-31"
 }

@@ -31,10 +31,16 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.274488"
+    "lastUpdated": "2025-08-01T16:12:57.918012",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CLOPIXOL 10 MG TABLETS",
+        "registration": "047 86 25486 00",
+        "form": ""
+      },
+      {
+        "name": "CLOPIXOL 2 MG TABLETS",
+        "registration": "047 84 25485 00",
+        "form": ""
+      },
+      {
+        "name": "CLOPIXOL 25 MG TABLETS",
+        "registration": "047 85 25487 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CLOPIXOL ACUPHASE 100MG 2ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20714285714285716,
+      "status": "failed_match"
+    }
   }
 }

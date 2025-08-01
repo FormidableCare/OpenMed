@@ -1,10 +1,10 @@
 {
   "catalogId": "af077c04-a078-4115-80d9-bdd2def0353c",
-  "name": "RETEVMO 120 MG TABLETS",
+  "name": "RETEVMO 80 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "179 73 38201 99",
+  "registrationNumber": "171 68 37213 99",
   "treatmentDescriptions": "Metastatic RET Fusion-Positive Non-Small Cell Lung CancerRETEVMO is indicated for the treatment of adult patients with metastatic RET fusion-positive non-small cell lung cancer (NSCLC).RET-Mutant Medullary Thyroid CancerRETEVMO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET-mutant medullary thyroid cancer (MTC) who require systemic therapy.RET Fusion-Positive Thyroid CancerRETEVMO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate).Other RET Fusion-Positive Solid TumorsRETEVMO is indicated for the treatment of adult patients with locally advanced or metastatic solid tumors with a RET gene fusion that have progressed on or following prior systemic treatment or who have no satisfactory alternative treatment options.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.945498"
-  }
+    "lastUpdated": "2025-08-01T16:14:51.109516",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RETEVMO 80 MG 60 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:14:51.109526",
+      "previousRegistration": "179 73 38201 99",
+      "newRegistration": "171 68 37213 99",
+      "apiSource": "RETEVMO 80 MG"
+    }
+  },
+  "nameHebrew": "רטבמו 80 מ\"ג",
+  "registrationDate": "2023-01-30"
 }

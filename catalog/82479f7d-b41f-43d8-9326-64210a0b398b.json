@@ -31,10 +31,16 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.674044"
-  }
+    "lastUpdated": "2025-08-01T15:52:23.018307",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DALACIN VAG CR2% 40G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:52:23.018315",
+      "previousRegistration": "064 17 27818 00",
+      "newRegistration": "064 17 27818 00",
+      "apiSource": "DALACIN 2 % VAGINAL CREAM"
+    }
+  },
+  "nameHebrew": "דאלאצין % 2 קרם וגינלי",
+  "registrationDate": "2024-05-31"
 }

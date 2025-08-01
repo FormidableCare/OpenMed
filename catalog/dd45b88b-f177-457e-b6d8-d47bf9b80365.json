@@ -31,10 +31,20 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -58,6 +68,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.249961"
+    "lastUpdated": "2025-08-01T17:06:31.385182",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FULVENIR",
+        "registration": "168 64 36677 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FULVENIR  250 MG/5 ML 2 PFS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

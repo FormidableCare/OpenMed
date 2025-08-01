@@ -1,10 +1,10 @@
 {
   "catalogId": "4e765e74-9add-46e4-9899-a397cb5d206f",
-  "name": "ROSUVASTATIN INOVAMED 10 MG",
+  "name": "CRESTOR ® 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 65 36557 99",
+  "registrationNumber": "139 22 31615 00",
   "treatmentDescriptions": "Treatment of Adults with:•\tprimary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise weight reduction) is inadequate.•\tHomozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.380387"
-  }
+    "lastUpdated": "2025-08-01T15:33:14.232417",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ROSUVASTATIN INOVAMED 5 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:33:14.232433",
+      "previousRegistration": "173 65 36557 99",
+      "newRegistration": "139 22 31615 00",
+      "apiSource": "CRESTOR ® 5 MG"
+    }
+  },
+  "nameHebrew": "קרסטור ® 5 מ\"ג",
+  "registrationDate": "2023-08-31"
 }

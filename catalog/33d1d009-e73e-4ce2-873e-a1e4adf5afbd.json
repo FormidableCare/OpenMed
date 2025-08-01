@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.215492"
+    "lastUpdated": "2025-08-01T16:36:48.168260",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZOSTRIX",
+        "registration": "101 20 28410 00",
+        "form": ""
+      },
+      {
+        "name": "ZOSTRIX-HP",
+        "registration": "101 21 28411 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZOSTRIX H.P. 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

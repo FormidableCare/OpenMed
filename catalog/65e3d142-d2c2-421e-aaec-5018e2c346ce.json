@@ -1,10 +1,10 @@
 {
   "catalogId": "65e3d142-d2c2-421e-aaec-5018e2c346ce",
-  "name": "ESTROFEM 1 MG",
+  "name": "ESTROFEM 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "117 54 29845 00",
+  "registrationNumber": "060 75 27769 10",
   "treatmentDescriptions": "Hormone replacement therapy (HRT) for estrogen deficiency symptoms in postmenopausal women. Prevention of osteoporosis in postmenopausal women at high risk of future fractures, who are tolerant of , or contraindicated for other medicinal products approved for the prevention of osteoporosis. Estrofem is particularly for women who have been hysterectomized and therefore do not require combined estrogen/progestagen therapy.The experience treating women older than 65 years is limited.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.516704"
-  }
+    "lastUpdated": "2025-08-01T16:36:22.848747",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESTROFEM 2MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:36:22.848759",
+      "previousRegistration": "117 54 29845 00",
+      "newRegistration": "060 75 27769 10",
+      "apiSource": "ESTROFEM 2 MG"
+    }
+  },
+  "nameHebrew": "אסטרופם 2 מ\"ג",
+  "registrationDate": "2023-07-31"
 }

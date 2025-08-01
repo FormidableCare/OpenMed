@@ -1,10 +1,10 @@
 {
   "catalogId": "832a7ec8-fa26-4c87-8ac2-98e1fd57c2f9",
-  "name": "KERENDIA 10 MG",
+  "name": "KERENDIA 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 38 37226 99",
+  "registrationNumber": "171 39 37227 99",
   "treatmentDescriptions": "Kerendia is indicated to reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, nonfatal myocardial infarction, and hospitalization for heart failure in adult patients with chronic kidney disease (CKD) associated with type 2 diabetes (T2D).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.676884"
-  }
+    "lastUpdated": "2025-08-01T17:38:20.718406",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KERENDIA 20 MG 28 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:38:20.718424",
+      "previousRegistration": "171 38 37226 99",
+      "newRegistration": "171 39 37227 99",
+      "apiSource": "KERENDIA 20 MG"
+    }
+  },
+  "nameHebrew": "קרנדיאה 20 מ\"ג",
+  "registrationDate": "2023-01-04"
 }

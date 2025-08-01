@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.506789"
-  }
+    "lastUpdated": "2025-08-01T17:01:16.230615",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TADALAMED 10 MG 4 tabs",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:16.230630",
+      "previousRegistration": "169 52 37026 99",
+      "newRegistration": "169 52 37026 99",
+      "apiSource": "TADALAMED 10 MG"
+    }
+  },
+  "nameHebrew": "טאדאלאמד 10  מ\"ג",
+  "registrationDate": "2022-05-01"
 }

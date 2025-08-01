@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.598933"
-  }
+    "lastUpdated": "2025-08-01T17:23:31.044267",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MINIRIN MELT 120MCG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:23:31.044278",
+      "previousRegistration": "137 23 31463 00",
+      "newRegistration": "137 23 31463 00",
+      "apiSource": "MINIRIN MELT 120 MCG"
+    }
+  },
+  "nameHebrew": "מינירין מלט 120 מק\"ג",
+  "registrationDate": "2022-10-31"
 }

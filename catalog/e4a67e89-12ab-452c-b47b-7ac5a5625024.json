@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        },
+        {
+          "value": 96.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 96.0,
         "unit": "units"
@@ -57,6 +63,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.295931"
-  }
+    "lastUpdated": "2025-08-01T15:22:13.339840",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NICOTINELL GUM 2 MG (MINT) 96 GUMS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:22:13.339848",
+      "previousRegistration": "115 78 29638 23",
+      "newRegistration": "115 78 29638 23",
+      "apiSource": "NICOTINELL GUM 2 MG (MINT)"
+    }
+  },
+  "nameHebrew": "ניקוטינל מסטיק 2 מ\"ג (מנטה)",
+  "registrationDate": "2024-08-31"
 }

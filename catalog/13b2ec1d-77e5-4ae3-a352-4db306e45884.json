@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.019375"
+    "lastUpdated": "2025-08-01T15:50:55.047544",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PENIBRIN 1 G",
+        "registration": "032 41 22422 00",
+        "form": ""
+      },
+      {
+        "name": "PENIBRIN 2 G",
+        "registration": "102 72 27337 00",
+        "form": ""
+      },
+      {
+        "name": "PENIBRIN 500 MG",
+        "registration": "115 63 22419 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PENIBRIN 0.5 G  10 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2142857142857143,
+      "status": "failed_match"
+    }
   }
 }

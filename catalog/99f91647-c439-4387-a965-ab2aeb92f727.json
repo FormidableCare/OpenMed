@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,28 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 57.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 400.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 35.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 35.0,
         "unit": "units"
@@ -53,6 +71,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.825107"
-  }
+    "lastUpdated": "2025-08-01T16:50:31.410242",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MACLIVAN 400 MG+57 MG/5 ML POWDER FOR SUSP 35 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:31.410251",
+      "previousRegistration": "120 17 30001 00",
+      "newRegistration": "120 17 30001 00",
+      "apiSource": "MACLIVAN 250 MG/5 ML"
+    }
+  },
+  "nameHebrew": "מאקליבן 250 מ\"ג/5 מ\"ל",
+  "registrationDate": "2017-04-30"
 }

@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 120.440625,
         "maxPriceWithVAT": 142.1199375
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.009521"
+    "lastUpdated": "2025-08-01T15:46:22.283289",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FLUCANOL 100",
+        "registration": "128 37 30644 00",
+        "form": ""
+      },
+      {
+        "name": "FLUCANOL 150",
+        "registration": "128 38 30645 00",
+        "form": ""
+      },
+      {
+        "name": "FLUCANOL 200",
+        "registration": "128 39 30646 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FLUCANOL 200MG 7CAPSULES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

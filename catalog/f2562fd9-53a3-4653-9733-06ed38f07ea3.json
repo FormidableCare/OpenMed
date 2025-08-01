@@ -1,10 +1,10 @@
 {
   "catalogId": "f2562fd9-53a3-4653-9733-06ed38f07ea3",
-  "name": "GLIMEPIRIDE TEVA ®  2 MG",
+  "name": "GLIMEPIRIDE TEVA ®  3 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "151 16 33859 00",
+  "registrationNumber": "151 17 33870 00",
   "treatmentDescriptions": "Non-insulin-dependent diabetes mellitus (adult-onset diabetes, type II diabetes), when diet, regular physical exercise, and weight reduction alone cannot maintain therapeutically suitable blood glucose levels.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.371104"
-  }
+    "lastUpdated": "2025-08-01T15:48:11.598728",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GLIMEPIRIDE TEVA 3 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:48:11.598746",
+      "previousRegistration": "151 16 33859 00",
+      "newRegistration": "151 17 33870 00",
+      "apiSource": "GLIMEPIRIDE TEVA ®  3 MG"
+    }
+  },
+  "nameHebrew": "גלימפירייד טבע  ® 3 מ\"ג",
+  "registrationDate": "2018-11-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "7b4f8bc7-395a-4b07-9eae-353ca42cfacd",
-  "name": "CYMBALTA 30 MG",
+  "name": "CYMBALTA 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 70 31142 12",
+  "registrationNumber": "132 71 31143 12",
   "treatmentDescriptions": "Cymbalta is indicated for the treatment of major depressive episodes.- Cymbalta is indicated for the management of neuropathic pain associated with diabetic peripheral neuropathy.- Cymbalta is indicated for the treatment of generalized anxiety disorder (GAD).- Cymbalta is indicated for the management of fibromyalgia.- Cymbalta is indicated for the management of chronic muscoskeletal pain when other therapies have failed or are contra-indicated. This has been established in studies in patients with chronic low back pain (CLBP) and chronic pain due to osteoarthritis.",
   "termsOfIssue": "Prescription required",
   "form": "gastro resistant capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.633289"
-  }
+    "lastUpdated": "2025-08-01T17:30:10.391354",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CYMBALTA 60MG 28CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:10.391360",
+      "previousRegistration": "132 70 31142 12",
+      "newRegistration": "132 71 31143 12",
+      "apiSource": "CYMBALTA 60 MG"
+    }
+  },
+  "nameHebrew": "סימבאלתה 60 מ\"ג",
+  "registrationDate": "2015-05-19"
 }

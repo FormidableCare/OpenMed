@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 18.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 12.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.205847"
+    "lastUpdated": "2025-08-01T16:30:39.392381",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "STRENSIQ ® 100 MG/ML",
+        "registration": "155 44 34545 00",
+        "form": ""
+      },
+      {
+        "name": "STRENSIQ ® 40 MG/ML",
+        "registration": "155 43 34542 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "STRENSIQ ® 40 MG/ML 12 vials 18mg",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

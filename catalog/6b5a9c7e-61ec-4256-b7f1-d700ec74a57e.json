@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1600.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.549820"
+    "lastUpdated": "2025-08-01T16:57:33.072563",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "UPTRAVI ® 1000 microgram",
+        "registration": "158 11 34942 00",
+        "form": ""
+      },
+      {
+        "name": "UPTRAVI ® 1200 microgram",
+        "registration": "158 12 34943 00",
+        "form": ""
+      },
+      {
+        "name": "UPTRAVI ® 1400 microgram",
+        "registration": "158 13 34944 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "UPTRAVI ® 1600 MCG 60 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

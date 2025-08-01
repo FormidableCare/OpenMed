@@ -1,10 +1,10 @@
 {
   "catalogId": "ac318e45-8931-4a78-b3f4-f5e0fec7ff61",
-  "name": "TABRECTA 150 MG",
+  "name": "TABRECTA 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 19 36653 99",
+  "registrationNumber": "169 20 36654 99",
   "treatmentDescriptions": "TABRECTA is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping as detected by an approved test.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.928090"
-  }
+    "lastUpdated": "2025-08-01T16:49:33.783042",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TABRECTA 200 MG 120 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:33.783054",
+      "previousRegistration": "169 19 36653 99",
+      "newRegistration": "169 20 36654 99",
+      "apiSource": "TABRECTA 200 MG"
+    }
+  },
+  "nameHebrew": "טברקטה 200 מ\"ג",
+  "registrationDate": "2022-02-09"
 }

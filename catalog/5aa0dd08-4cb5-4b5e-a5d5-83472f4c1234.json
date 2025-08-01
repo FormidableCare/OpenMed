@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.446434"
-  }
+    "lastUpdated": "2025-08-01T15:45:39.369553",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAVANIC 500MG 5TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:39.369561",
+      "previousRegistration": "119 44 29963 21",
+      "newRegistration": "119 44 29963 21",
+      "apiSource": "TAVANIC TABLETS 500 MG"
+    }
+  },
+  "nameHebrew": "טאבניק טבליות 500 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.574077"
+    "lastUpdated": "2025-08-01T16:02:15.269981",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DEPO MEDROL 40 MG/ML",
+        "registration": "024 49 21841 00",
+        "form": ""
+      },
+      {
+        "name": "DEPO MEDROL + LIDOCAINE",
+        "registration": "045 97 23829 00",
+        "form": ""
+      },
+      {
+        "name": "MEDROL 4 MG",
+        "registration": "024 65 22188 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DEPO MEDROL 40MG/ML 1ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02142857142857143,
+      "status": "failed_match"
+    }
   }
 }

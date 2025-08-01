@@ -1,10 +1,10 @@
 {
   "catalogId": "1ee7e3c0-ef59-439f-a170-0e4d953659a1",
-  "name": "FENTORA ® 100 MCG",
+  "name": "FENTORA ® 200 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 90 34050 00",
+  "registrationNumber": "152 91 34051 00",
   "treatmentDescriptions": "Fentora is indicated for the treatment of breakthrough pain (BTP) in adults with cancer who are already receiving maintenance opioid therapy for chronic cancer pain. BTP is a transitory exacerbation of pain that occurs on a background of otherwise controlled persistent pain.                                      Patients receiving maintenance opioid therapy are those who are taking at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.088156"
-  }
+    "lastUpdated": "2025-08-01T16:00:41.400485",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FENTORA 200MCG 28 BUCCAL TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:00:41.400491",
+      "previousRegistration": "152 90 34050 00",
+      "newRegistration": "152 91 34051 00",
+      "apiSource": "FENTORA ® 200 MCG"
+    }
+  },
+  "nameHebrew": "פנטורה ® 200 מק\"ג",
+  "registrationDate": "2019-10-31"
 }

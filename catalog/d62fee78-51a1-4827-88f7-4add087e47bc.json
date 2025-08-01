@@ -1,10 +1,10 @@
 {
   "catalogId": "d62fee78-51a1-4827-88f7-4add087e47bc",
-  "name": "NINLARO 2.3 MG",
+  "name": "NINLARO 3 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 81 34609 00",
+  "registrationNumber": "156 82 34615 00",
   "treatmentDescriptions": "NINLARO is indicated, in combination with lenalidomide and dexamethasone, for the treatment of patients with multiple myeloma who have received at least one prior therapy.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.211407"
-  }
+    "lastUpdated": "2025-08-01T16:28:26.783872",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NINLARO 3 MG 3CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:28:26.783887",
+      "previousRegistration": "156 81 34609 00",
+      "newRegistration": "156 82 34615 00",
+      "apiSource": "NINLARO 3 MG"
+    }
+  },
+  "nameHebrew": "נינלארו 3 מ\"ג",
+  "registrationDate": "2021-07-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "9ba49116-8f41-4cad-a9d2-a5938e3bb363",
-  "name": "PREDNISONE 1 MG TABLETS",
+  "name": "PREDNISONE REKAH 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "118 06 26041 00",
+  "registrationNumber": "038 70 22458 01",
   "treatmentDescriptions": "Anti-inflammatory.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.835172"
-  }
+    "lastUpdated": "2025-08-01T15:45:13.351371",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREDNISONE 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:13.351386",
+      "previousRegistration": "118 06 26041 00",
+      "newRegistration": "038 70 22458 01",
+      "apiSource": "PREDNISONE REKAH 5 MG"
+    }
+  },
+  "nameHebrew": "פרדניזון רקח 5 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

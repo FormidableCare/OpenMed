@@ -33,7 +33,7 @@
       "properties": {
         "version": {
           "type": "string",
-          "const": "1.4",
+          "const": "1.5",
           "description": "Schema version"
         },
         "lastUpdated": {
@@ -297,19 +297,33 @@
             "additionalProperties": false
           },
           "strength": {
-            "type": "object",
-            "required": ["value", "unit"],
-            "properties": {
-              "value": {
-                "type": "number",
-                "description": "Strength value"
+            "type": "array",
+            "description": "Array of strength values for multi-component medications",
+            "items": {
+              "type": "object",
+              "required": ["value", "unit"],
+              "properties": {
+                "value": {
+                  "type": "number",
+                  "description": "Strength value"
+                },
+                "unit": {
+                  "type": "string",
+                  "description": "Strength unit (e.g., mg, ml, mg/ml)"
+                },
+                "component": {
+                  "type": "string",
+                  "description": "Component name for multi-ingredient medications",
+                  "maxLength": 200
+                }
               },
-              "unit": {
-                "type": "string",
-                "description": "Strength unit"
-              }
-            },
-            "additionalProperties": false
+              "additionalProperties": false
+            }
+          },
+          "formulation": {
+            "type": "string",
+            "description": "Detailed formulation information (e.g., extended-release, immediate-release)",
+            "maxLength": 200
           },
           "quantity": {
             "type": "object",

@@ -1,10 +1,10 @@
 {
   "catalogId": "4f96b964-d1bc-42b7-9b70-d2e32d52e6f2",
-  "name": "LENALIDOMIDE TEVA ® 10 MG",
+  "name": "LENALIDOMIDE S.K. 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 82 35502 00",
+  "registrationNumber": "164 84 36217 00",
   "treatmentDescriptions": "Multiple Myeloma (MM): Lenalidomide Teva is indicated for the treatment of multiple myeloma.Myelodysplastic Syndromes: Lenalidomide Teva is indicated for patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.Lenalidomide Teva 7.5 mg is not indicated for treatment in MDS.Mantle Cell Lymphoma:Lenalidomide Teva is indicated for the treatment of adult patients with relapsed and/or refractory mantle cell lymphoma (MCL).Follicular lymphoma:Lenalidomide Teva in combination with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients with previously treated follicular lymphoma.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.385698"
-  }
+    "lastUpdated": "2025-08-01T15:34:10.405619",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LENALIDOMIDE TEVA  5 MG 21 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:10.405629",
+      "previousRegistration": "161 82 35502 00",
+      "newRegistration": "164 84 36217 00",
+      "apiSource": "LENALIDOMIDE S.K. 5 MG"
+    }
+  },
+  "nameHebrew": "לנלידומיד אס.קיי. 5 מ\"ג",
+  "registrationDate": "2025-05-31"
 }

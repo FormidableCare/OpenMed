@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 48.395113,
         "maxPriceWithVAT": 57.10623334
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.116636"
+    "lastUpdated": "2025-08-01T17:02:15.308561",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EFEXOR XR 150",
+        "registration": "111 18 29395 00",
+        "form": ""
+      },
+      {
+        "name": "EFEXOR XR 150",
+        "registration": "111 18 29395 01",
+        "form": ""
+      },
+      {
+        "name": "EFEXOR XR 75",
+        "registration": "111 17 29394 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EFEXOR  XR 150MG 28 SR CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "1e1b1191-7cc4-482e-8065-d4e29917aa8d",
-  "name": "BALVERSA 3 MG",
+  "name": "BALVERSA 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 77 36132 00",
+  "registrationNumber": "165 78 36133 00",
   "treatmentDescriptions": "BALVERSA is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma (mUC), that has:- Susceptible FGFR3 or FGFR2 genetiic alterations, and- Progressed during or following at least one line of prior platinum-containing chemotherapy, including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.085207"
-  }
+    "lastUpdated": "2025-08-01T16:38:37.201306",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BALVERSA 4 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:37.201317",
+      "previousRegistration": "165 77 36132 00",
+      "newRegistration": "165 78 36133 00",
+      "apiSource": "BALVERSA 4 MG"
+    }
+  },
+  "nameHebrew": "בלוורסה 4 מ\"ג",
+  "registrationDate": "2020-11-10"
 }

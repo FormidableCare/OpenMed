@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.673789"
+    "lastUpdated": "2025-08-01T15:31:15.980238",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FLUTIFORM 125/5",
+        "registration": "150 63 33813 00",
+        "form": ""
+      },
+      {
+        "name": "FLUTIFORM 250/10",
+        "registration": "150 64 33814 00",
+        "form": ""
+      },
+      {
+        "name": "FLUTIFORM 50/5",
+        "registration": "150 62 33812 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FLUTIFORM 250/10 INHALER 120 DOSES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

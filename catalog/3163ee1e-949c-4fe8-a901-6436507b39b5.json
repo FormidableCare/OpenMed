@@ -60,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.203342"
+    "lastUpdated": "2025-08-01T17:29:51.648248",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "QLAIR",
+        "registration": "146 16 33128 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "QLAIR 3X28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

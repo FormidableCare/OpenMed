@@ -31,10 +31,20 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -58,6 +68,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.425572"
+    "lastUpdated": "2025-08-01T15:25:16.662933",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AMGEVITA ®",
+        "registration": "165 56 36181 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "AMGEVITA 40MG/0.8ML 2 SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

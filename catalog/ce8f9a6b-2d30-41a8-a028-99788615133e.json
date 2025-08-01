@@ -1,10 +1,10 @@
 {
   "catalogId": "ce8f9a6b-2d30-41a8-a028-99788615133e",
-  "name": "ZEPOSIA 0.23 MG",
+  "name": "ZEPOSIA 0.46 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 33 36599 99",
+  "registrationNumber": "167 34 36600 99",
   "treatmentDescriptions": "Zeposia is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (RRMS) with active disease as defined by clinical or imaging features.ZEPOSIA is indicated for the treatment of moderately to severely active ulcerative colitis (UC) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.46,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.172005"
-  }
+    "lastUpdated": "2025-08-01T15:21:55.721557",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZEPOSIA 0.46 MG 3 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:21:55.721575",
+      "previousRegistration": "167 33 36599 99",
+      "newRegistration": "167 34 36600 99",
+      "apiSource": "ZEPOSIA 0.46 MG"
+    }
+  },
+  "nameHebrew": "זפוסיה 0.46 מ\"ג",
+  "registrationDate": "2021-05-19"
 }

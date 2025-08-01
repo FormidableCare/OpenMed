@@ -1,10 +1,10 @@
 {
   "catalogId": "528f965e-e1f6-4ea6-9323-975383824792",
-  "name": "AGISTEN ALOEVERA CREAM",
+  "name": "AGISTEN V 2 % VAGINAL CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "043 17 22461 00",
+  "registrationNumber": "048 56 23822 00",
   "treatmentDescriptions": "For the treatment of fungal infections of the skin and mucosa caused by dermatophytes, yeasts, molds and other fungi such as Malassezia furfur, as well as skin infections caused by Corynebacterium minutissimum.Indicated also for Candida Vulvitis and Candida balanitis.",
   "termsOfIssue": "",
   "form": "cream",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -54,11 +60,27 @@
         "retailMargin": "",
         "maxRetailPrice": 26.45,
         "maxPriceWithVAT": 31.211
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.404754"
-  }
+    "lastUpdated": "2025-08-01T15:29:01.405443",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AGISTEN CREAM 1%+ALOE VERA 20G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.3611111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:01.405455",
+      "previousRegistration": "043 17 22461 00",
+      "newRegistration": "048 56 23822 00",
+      "apiSource": "AGISTEN V 2 % VAGINAL CREAM"
+    }
+  },
+  "nameHebrew": "אגיסטן וי % 2 קרם וגינלי",
+  "registrationDate": "2015-02-28"
 }

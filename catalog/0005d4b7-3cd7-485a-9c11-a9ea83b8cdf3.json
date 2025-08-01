@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.866128"
+    "lastUpdated": "2025-08-01T15:26:01.065825",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZAPPA 10",
+        "registration": "146 72 33251 01",
+        "form": ""
+      },
+      {
+        "name": "ZAPPA 5",
+        "registration": "146 70 33248 01",
+        "form": ""
+      },
+      {
+        "name": "ZAPPA 7.5",
+        "registration": "146 71 33250 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZAPPA 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

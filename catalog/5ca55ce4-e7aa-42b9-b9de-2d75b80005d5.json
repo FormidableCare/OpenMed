@@ -1,10 +1,10 @@
 {
   "catalogId": "5ca55ce4-e7aa-42b9-b9de-2d75b80005d5",
-  "name": "PEMETREXED TEVA ® 100 MG",
+  "name": "PEMETREXED TEVA ® 1000 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 39 34393 01",
+  "registrationNumber": "156 41 34411 01",
   "treatmentDescriptions": "Malignant pleural mesothelioma :Pemetrexed Teva in combination with cisplatin is indicated for the treatment of patients with malignant pleural mesothelioma whose disease is unresectable or who are otherwise not candidates for curatible surgery. Non-small cell lung cancer: Pemetrexed Teva in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology. Pemetrexed Teva is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy. Pemetrexed Teva is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.456735"
-  }
+    "lastUpdated": "2025-08-01T17:25:26.194583",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PEMETREXED TEVA ® 1000 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:25:26.194593",
+      "previousRegistration": "156 39 34393 01",
+      "newRegistration": "156 41 34411 01",
+      "apiSource": "PEMETREXED TEVA ® 1000 MG"
+    }
+  },
+  "nameHebrew": "פמטרקסד טבע ® 1000 מ\"ג",
+  "registrationDate": "2021-05-31"
 }

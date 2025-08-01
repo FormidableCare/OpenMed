@@ -1,10 +1,10 @@
 {
   "catalogId": "0097dc09-6d38-48ee-8a4d-83b20028de0f",
-  "name": "DESMOPRESSIN TEVA 0.1 MG",
+  "name": "DESMOPRESSIN TEVA 0.2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 40 33065 00",
+  "registrationNumber": "144 41 33068 00",
   "treatmentDescriptions": "Desmopressin teva tablets are indicated for central diabetes insipidus, nocturnal enuresis ( in patients from 5 years of age with normal ability to concentrate the urine) and for symptomatic treatment of nocturia in adults associated with nocturnal polyuria, i.e. nocturnal urine production exceeding bladder capacity. The treatment must be started befor the age of 65.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.2,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.877347"
-  }
+    "lastUpdated": "2025-08-01T16:15:34.042509",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DESMOPRESSIN TEVA 0.2MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:15:34.042529",
+      "previousRegistration": "144 40 33065 00",
+      "newRegistration": "144 41 33068 00",
+      "apiSource": "DESMOPRESSIN TEVA 0.2 MG"
+    }
+  },
+  "nameHebrew": "דסמופרסין טבע 0.2 מ\"ג",
+  "registrationDate": "2015-08-31"
 }

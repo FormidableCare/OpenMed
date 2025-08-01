@@ -1,10 +1,10 @@
 {
   "catalogId": "bc2b23f7-73d9-4e96-bff1-372bdf292add",
-  "name": "PIRFENIDONE SANDOZ ® 267 MG",
+  "name": "PIRFENIDONE SANDOZ ® 801 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "175 20 37557 99",
+  "registrationNumber": "175 21 37558 99",
   "treatmentDescriptions": "Pirfenidone Sandoz is indicated in adults for the treatment of mild to moderate idiopathic pulmonary fibrosis (IPF).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 801.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 84.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.038789"
-  }
+    "lastUpdated": "2025-08-01T17:27:15.158397",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PIRFENIDONE SANDOZ 801MG 84 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:27:15.158406",
+      "previousRegistration": "175 20 37557 99",
+      "newRegistration": "175 21 37558 99",
+      "apiSource": "PIRFENIDONE SANDOZ ® 801 MG"
+    }
+  },
+  "nameHebrew": "פירפנידון סנדוז ® 801 מ\"ג",
+  "registrationDate": "2023-12-17"
 }

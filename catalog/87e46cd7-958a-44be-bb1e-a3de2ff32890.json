@@ -1,10 +1,10 @@
 {
   "catalogId": "87e46cd7-958a-44be-bb1e-a3de2ff32890",
-  "name": "RISPERDAL 1 MG",
+  "name": "RISPERDAL CONSTA 37.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 78 28260 01",
+  "registrationNumber": "127 29 30620 11",
   "treatmentDescriptions": "Risperdal is indicated for the management of schizophrenia and manifestation of psychotic disorders. The antipsychotic efficacy of Risperdal was established in short-term (6 to 8-weeks) controlled trials of schizophrenic inpatients.  Risperdal is also effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.Risperdal is indicated for the short-term treatment (up to 6 weeks) of persistent aggression in patients with moderate to severe Alzheimer’s dementia unresponsive to non-pharmacological approaches and when there is a risk of harm to self or others. Conduct and other disruptive disorders: Treatment of behavioral disorders expressed by impulse control disorders or self-alienated-aggressive or treatment-requiring behavioral disorders with reduced or substandard intelligence. Treatment should not be given to children under the age of 5 years.Risperdal is indicated for the treatment of mania in bipolar disorder. These episodes are characterized by symptoms such as   elevated, expansive or irritable mood, inflated self-esteem, decreased need for sleep, pressured speech, racing thoughts, distractibility, or poor judgment, including disruptive or aggressive behaviors",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 37.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,38 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 311.0264345,
         "maxPriceWithVAT": 367.0111764
-      }
+      },
+      "formulation": [
+        "consta"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.731388"
-  }
+    "lastUpdated": "2025-08-01T15:20:11.949748",
+    "tags": [
+      "smart_validation_corrected",
+      "match_score_0.97"
+    ],
+    "validationDetails": {
+      "correctedAt": "2025-08-01T15:03:22.882946",
+      "previousRegistration": "127 29 30620 11",
+      "newRegistration": "127 29 30620 11",
+      "matchScore": 0.9687500000000001,
+      "apiSource": "RISPERDAL CONSTA 37.5 MG",
+      "csvSource": "RISPERDAL CONSTA/DELTOID 37.5MG VIAL"
+    },
+    "smartValidation": {
+      "extractedFrom": "RISPERDAL CONSTA/DELTOID 37.5MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9687500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:20:11.949760",
+      "previousRegistration": "127 29 30620 11",
+      "newRegistration": "127 29 30620 11",
+      "apiSource": "RISPERDAL CONSTA 37.5 MG"
+    }
+  },
+  "nameHebrew": "ריספרדל קונסטה 37.5 מ\"ג",
+  "registrationDate": "2022-12-31"
 }

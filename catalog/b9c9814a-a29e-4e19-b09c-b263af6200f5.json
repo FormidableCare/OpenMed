@@ -1,10 +1,10 @@
 {
   "catalogId": "b9c9814a-a29e-4e19-b09c-b263af6200f5",
-  "name": "RELERT 20 MG",
+  "name": "RELERT 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "124 28 30370 01",
+  "registrationNumber": "124 29 30371 01",
   "treatmentDescriptions": "Acute treatment of the headache phase of migraine attacks, with or without aura.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.021219"
-  }
+    "lastUpdated": "2025-08-01T17:14:35.479978",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RELERT 40MG 3TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:14:35.479989",
+      "previousRegistration": "124 28 30370 01",
+      "newRegistration": "124 29 30371 01",
+      "apiSource": "RELERT 40 MG"
+    }
+  },
+  "nameHebrew": "רילרט 40 מ\"ג",
+  "registrationDate": "2021-12-31"
 }

@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.959449"
+    "lastUpdated": "2025-08-01T17:34:06.515278",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADAKVEO 10 MG/ML",
+        "registration": "168 71 36562 00",
+        "form": ""
+      },
+      {
+        "name": "ULTOMIRIS 10 MG/ML",
+        "registration": "163 14 36063 00",
+        "form": ""
+      },
+      {
+        "name": "ULTOMIRIS 100MG/ML",
+        "registration": "173 29 37321 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADAKVEO 10 MG/ML 10ml 1 vial",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

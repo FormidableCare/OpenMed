@@ -1,10 +1,10 @@
 {
   "catalogId": "680ae938-10ba-430a-911d-4e505fe712a1",
-  "name": "SCEMBLIX 20 MG",
+  "name": "SCEMBLIX 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 84 37483 99",
+  "registrationNumber": "172 85 37484 99",
   "treatmentDescriptions": "SCEMBLIX is indicated for the treatment of adult patients with:• Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) in chronic phase (CP), previously treated with two or more tyrosine kinase inhibitors (TKIs).• Ph+ CML in CP with the T315I mutation",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.533065"
-  }
+    "lastUpdated": "2025-08-01T16:31:10.505573",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SCEMBLIX 40 MG 60 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:10.505584",
+      "previousRegistration": "172 84 37483 99",
+      "newRegistration": "172 85 37484 99",
+      "apiSource": "SCEMBLIX 40 MG"
+    }
+  },
+  "nameHebrew": "סמבליקס 40 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "02540e04-65f5-48b3-b3c3-9b4bc070b1df",
-  "name": "PREGABALIN DEXCEL 100 MG",
+  "name": "LYRICA 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 75 34730 00",
+  "registrationNumber": "132 99 31187 00",
   "treatmentDescriptions": "For the treatment of peripheral and central neuropathic pain in adults.Management of FibromyalgiaTreatment of Generalised Anxiety Disorder (GAD) in adults",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 104.717396,
         "maxPriceWithVAT": 123.5665273
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.896879"
-  }
+    "lastUpdated": "2025-08-01T16:26:20.081760",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREGABALIN DEXCEL 75 MG 56 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:26:20.081765",
+      "previousRegistration": "158 75 34730 00",
+      "newRegistration": "132 99 31187 00",
+      "apiSource": "LYRICA 75 MG"
+    }
+  },
+  "nameHebrew": "ליריקה 75 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

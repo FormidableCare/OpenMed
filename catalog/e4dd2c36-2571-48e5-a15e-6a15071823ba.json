@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.297178"
+    "lastUpdated": "2025-08-01T15:37:41.699709",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HUMULIN N",
+        "registration": "054 12 22715 22",
+        "form": ""
+      },
+      {
+        "name": "HUMULIN R",
+        "registration": "054 43 22714 22",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HUMULIN REGUL CART 5x3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

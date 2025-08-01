@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.638338"
-  }
+    "lastUpdated": "2025-08-01T16:43:31.512126",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BENDAMUSTINE MEDAC 100 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:31.512130",
+      "previousRegistration": "163 73 35386 00",
+      "newRegistration": "163 73 35386 00",
+      "apiSource": "BENDAMUSTINE MEDAC 100 MG"
+    }
+  },
+  "nameHebrew": "בנדמוסטין מדאק 100 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

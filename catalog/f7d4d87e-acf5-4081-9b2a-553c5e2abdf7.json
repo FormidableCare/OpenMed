@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 43.42397919,
         "maxPriceWithVAT": 51.24029545
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.403825"
-  }
+    "lastUpdated": "2025-08-01T16:35:12.342118",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIAVENIR LA 10 MG 30 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9812500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:35:12.342130",
+      "previousRegistration": "167 43 36188 00",
+      "newRegistration": "167 43 36188 00",
+      "apiSource": "RIAVENIR LA 10 MG MODIFIED RELEASE CAPSULES"
+    }
+  },
+  "nameHebrew": "ריאבניר אל. איי 10 מ\"ג כמוסות בשחרור מושהה",
+  "registrationDate": "2021-05-30"
 }

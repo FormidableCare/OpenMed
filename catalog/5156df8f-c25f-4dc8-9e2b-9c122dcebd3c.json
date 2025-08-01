@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "g"
+        },
+        {
+          "value": 0.1,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -54,11 +60,40 @@
         "retailMargin": "",
         "maxRetailPrice": 22.79,
         "maxPriceWithVAT": 26.8922
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.395833"
+    "lastUpdated": "2025-08-01T16:19:06.011399",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OTRIVIN",
+        "registration": "115 43 22229 00",
+        "form": ""
+      },
+      {
+        "name": "OTRIVIN NASAL GEL",
+        "registration": "032 82 22228 00",
+        "form": ""
+      },
+      {
+        "name": "OTRIVIN KIDS",
+        "registration": "108 21 23658 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OTRIVIN GEL 0.1% 10G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16666666666666666,
+      "status": "failed_match"
+    }
   }
 }

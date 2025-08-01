@@ -1,10 +1,10 @@
 {
   "catalogId": "e1d02212-255d-4acf-9ad5-556564ad61e3",
-  "name": "VALSARTAN -MEDO 160 MG",
+  "name": "EXFORGE 5 MG/80 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 40 35704 00",
+  "registrationNumber": "138 40 31566 01",
   "treatmentDescriptions": "For treatment of hypertension. Valsartan-Medo is indicated for the treatment of heart failure (NYHA class II-IV) in patients who are intolerant of angiotensin converting enzyme inhibitors. In a controlled clinical trial Valsartan-Medo signicantly reduced hospitalisations for heart failure. There is no evidence that Valsartan-Medo provides added benefits when it is used with an adequate dose of an ACE inhibitor. Valsartan-Medo is indicated to improve survival following myocardial infarction in clinically stable patients with signs symptoms or radiological evidence of left ventricular failure and /or with left ventricular systolic dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.278099"
-  }
+    "lastUpdated": "2025-08-01T17:44:34.668376",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VALSARTAN -MEDO 80 MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:44:34.668391",
+      "previousRegistration": "167 40 35704 00",
+      "newRegistration": "138 40 31566 01",
+      "apiSource": "EXFORGE 5 MG/80 MG"
+    }
+  },
+  "nameHebrew": "אקספורג' 5 מ\"ג/ 80 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

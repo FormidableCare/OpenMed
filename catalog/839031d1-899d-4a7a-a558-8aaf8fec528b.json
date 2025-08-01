@@ -31,10 +31,24 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.15,
+          "unit": "mg"
+        },
+        {
+          "value": 0.3,
+          "unit": "ml"
+        },
+        {
+          "value": 0.3,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -60,6 +74,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.678847"
+    "lastUpdated": "2025-08-01T15:34:50.375048",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EPIPEN",
+        "registration": "019 37 24854 00",
+        "form": ""
+      },
+      {
+        "name": "EPIPEN JR",
+        "registration": "019 38 24853 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EPIPEN JR. 0.15MG/0.3ML AUTO-INJECTOR 2X2ML כולל מזרק תרגול",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.009090909090909092,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "b52d17ca-a543-477f-aff4-13f9e660884d",
-  "name": "RIAVENIR LA 10 MG MODIFIED RELEASE CAPSULES",
+  "name": "RIAVENIR LA 20 MG MODIFIED RELEASE CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 43 36188 00",
+  "registrationNumber": "167 44 36189 00",
   "treatmentDescriptions": "Attention Deficit Hyperactivity Disorder (ADHD).",
   "termsOfIssue": "Prescription required",
   "form": "modified release capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 66.04147123,
         "maxPriceWithVAT": 77.92893605
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.989846"
-  }
+    "lastUpdated": "2025-08-01T16:35:12.333249",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIAVENIR LA 20 MG 30 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9812500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:35:12.333275",
+      "previousRegistration": "167 43 36188 00",
+      "newRegistration": "167 44 36189 00",
+      "apiSource": "RIAVENIR LA 20 MG MODIFIED RELEASE CAPSULES"
+    }
+  },
+  "nameHebrew": "ריאבניר אל.איי 20 מ\"ג כמוסות בשחרור מושהה",
+  "registrationDate": "2021-05-30"
 }

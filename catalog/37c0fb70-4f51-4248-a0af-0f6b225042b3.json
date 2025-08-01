@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -53,11 +55,35 @@
         "retailMargin": "",
         "maxRetailPrice": 38.78,
         "maxPriceWithVAT": 45.7604
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.237641"
+    "lastUpdated": "2025-08-01T17:23:38.748846",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VELTASSA 16.8 G",
+        "registration": "161 53 35492 00",
+        "form": ""
+      },
+      {
+        "name": "VELTASSA 8.4 G",
+        "registration": "161 52 35491 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PATIR CREAM 15GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

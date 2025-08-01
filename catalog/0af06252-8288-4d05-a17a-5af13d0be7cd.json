@@ -31,10 +31,12 @@
         "name": "ליף-דקסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.958256"
+    "lastUpdated": "2025-08-01T15:45:03.486411",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+        "registration": "122 43 30111 00",
+        "form": ""
+      },
+      {
+        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
+        "registration": "122 42 30110 00",
+        "form": ""
+      },
+      {
+        "name": "ADVIL LIQUI-GELS 200",
+        "registration": "115 33 29761 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IBUPRO 200MG 30 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

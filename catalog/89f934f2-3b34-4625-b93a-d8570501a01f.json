@@ -1,10 +1,10 @@
 {
   "catalogId": "89f934f2-3b34-4625-b93a-d8570501a01f",
-  "name": "ASSIVAL 5 MG",
+  "name": "ASSIVAL 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "014 61 24381 03",
+  "registrationNumber": "014 90 24264 01",
   "treatmentDescriptions": "Tension, anxiety, agitation due to acute alcohol withdrawal, adjunct for the relief of skeletal muscle spasm, convulsive disorders.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.742657"
-  }
+    "lastUpdated": "2025-08-01T15:34:32.660251",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ASSIVAL 2MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:32.660265",
+      "previousRegistration": "014 61 24381 03",
+      "newRegistration": "014 90 24264 01",
+      "apiSource": "ASSIVAL 2 MG"
+    }
+  },
+  "nameHebrew": "אסיול 2 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

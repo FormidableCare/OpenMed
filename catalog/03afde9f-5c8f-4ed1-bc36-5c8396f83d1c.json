@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.908290"
+    "lastUpdated": "2025-08-01T15:40:14.113745",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMOVATE OINTMENT",
+        "registration": "027 57 22063 00",
+        "form": ""
+      },
+      {
+        "name": "DERMOVATE CREAM",
+        "registration": "059 85 22064 00",
+        "form": ""
+      },
+      {
+        "name": "DERMOVATE SCALP APPLICATION",
+        "registration": "046 92 23798 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMOVATE SCALP APPL SOL 25ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

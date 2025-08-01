@@ -1,10 +1,10 @@
 {
   "catalogId": "065d1be8-0e4b-423d-b6e3-50335d7c2e1d",
-  "name": "AMBRISENTAN S.K. 10 MG",
+  "name": "AMBRISENTAN TEVA 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 63 36826 99",
+  "registrationNumber": "167 42 35879 00",
   "treatmentDescriptions": "AMBRISENTAN S.K. is indicated for treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, including use in combination treatment with tadalafil.Efficacy has been  shown in idiopathic PAH (IPAH) and in PAH associated with connective tissue disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.930088"
-  }
+    "lastUpdated": "2025-08-01T15:36:55.632236",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMBRISENTAN TEVA 10 MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:36:55.632252",
+      "previousRegistration": "176 63 36826 99",
+      "newRegistration": "167 42 35879 00",
+      "apiSource": "AMBRISENTAN TEVA 10 MG"
+    }
+  },
+  "nameHebrew": "אמבריסנטן טבע 10 מ\"ג",
+  "registrationDate": "2021-05-27"
 }

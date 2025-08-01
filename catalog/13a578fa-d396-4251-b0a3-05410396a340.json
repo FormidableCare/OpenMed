@@ -1,10 +1,10 @@
 {
   "catalogId": "13a578fa-d396-4251-b0a3-05410396a340",
-  "name": "HALDOL 2 MG/ML DROPS",
+  "name": "HALDOL 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "029 70 25163 00",
+  "registrationNumber": "025 56 21624 00",
   "treatmentDescriptions": "HALDOL is indicatedin adult patients aged 18 years and above for:•\tTreatment of schizophrenia and schizoaffective disorder.•\tAcute treatment of delirium when non-pharmacological treatments have failed.•\tTreatment of moderate to severe manic episodes associated with bipolar I disorder when other treatments cannot be used.•\tTreatment of acute psychomotor agitation associated with psychotic disorder or manic episodes of bipolar I disorder.•\tTreatment of persistent aggression and psychotic symptoms in patients with moderate to severe Alzheimer’s dementia and vascular dementia when non-pharmacological treatments have failed and when there is a risk of harm to self or others.•\tTreatment of tic disorders, including Tourette’s syndrome, in patients with severe impairment after educational, psychological and other pharmacological treatments have failed.•\tTreatment of mild to moderate chorea in Huntington’s disease, when other medicinal products are ineffective or not tolerated.In paediatric patients for:•\tSchizophrenia in adolescents aged 13 to 17 years when other pharmacological treatments have failed or are not tolerated.•\tPersistent, severe aggression in children and adolescents aged 6 to 17 years with autism or pervasive developmental disorders, when other treatments have failed or are not tolerated.  •\tTic disorders, including Tourette’s syndrome, in children and adolescents aged 10 to 17 years with severe impairment after educational, psychological and other pharmacological treatments have failed.",
   "termsOfIssue": "Prescription required",
   "form": "solution  (oral)",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.018188"
-  }
+    "lastUpdated": "2025-08-01T16:23:51.778647",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HALDOL 5MG 25TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:51.778655",
+      "previousRegistration": "029 70 25163 00",
+      "newRegistration": "025 56 21624 00",
+      "apiSource": "HALDOL 5 MG"
+    }
+  },
+  "nameHebrew": "הלדול 5 מ\"ג",
+  "registrationDate": "2022-04-30"
 }

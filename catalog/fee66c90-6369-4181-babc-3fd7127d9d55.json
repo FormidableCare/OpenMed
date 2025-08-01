@@ -1,10 +1,10 @@
 {
   "catalogId": "fee66c90-6369-4181-babc-3fd7127d9d55",
-  "name": "TRIKAFTA 100MG/50MG/75MG&150MG",
+  "name": "TRIKAFTA 50 MG/25 MG/37.5 MG &75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 03 36448 99",
+  "registrationNumber": "175 81 37131 99",
   "treatmentDescriptions": "Trikafta is indicated for the treatment of cystic fibrosis (CF) in patients aged 12 years and older who have at least one F508del mutation in the CFTR gene or a mutation in the CFTR gene that is responsive based on in vitro data.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 37.5,
+          "unit": "mg"
+        },
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 84.0,
         "unit": "units"
@@ -57,6 +63,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.445760"
-  }
+    "lastUpdated": "2025-08-01T17:13:02.194607",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRIKAFTA 50 MG/25 MG/37.5 MG &75 MG 84 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:02.194620",
+      "previousRegistration": "167 03 36448 99",
+      "newRegistration": "175 81 37131 99",
+      "apiSource": "TRIKAFTA 50 MG/25 MG/37.5 MG &75 MG"
+    }
+  },
+  "nameHebrew": "טריקפטה 50מ\"ג/25מ\"ג/37.5מ\"ג ו-75מ\"ג",
+  "registrationDate": "2024-02-21"
 }

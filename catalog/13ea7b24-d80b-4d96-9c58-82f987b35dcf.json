@@ -1,10 +1,10 @@
 {
   "catalogId": "13ea7b24-d80b-4d96-9c58-82f987b35dcf",
-  "name": "SERETIDE DISKUS 50/100 MCG",
+  "name": "SERETIDE DISKUS 50/500 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "114 13 29551 01",
+  "registrationNumber": "114 14 29552 01",
   "treatmentDescriptions": "Seretide is indicated in the regular treatment of asthma in children and adults, where use of a combination (bronchodilator and inhaled corticosteroid) has been found to be appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "powder for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.020692"
-  }
+    "lastUpdated": "2025-08-01T16:00:59.099846",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SERETIDE DISKUS 50/500MCG 60DISK",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:00:59.099854",
+      "previousRegistration": "114 13 29551 01",
+      "newRegistration": "114 14 29552 01",
+      "apiSource": "SERETIDE DISKUS 50/500 MCG"
+    }
+  },
+  "nameHebrew": "סרטייד דיסקוס 50/500 מק\"ג",
+  "registrationDate": "2024-05-31"
 }

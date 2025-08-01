@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 12.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -52,11 +54,40 @@
         "retailMargin": "",
         "maxRetailPrice": 27.03,
         "maxPriceWithVAT": 31.8954
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.098627"
+    "lastUpdated": "2025-08-01T16:46:30.237406",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VOLTAREN EMULGEL 1%",
+        "registration": "037 66 25000 00",
+        "form": ""
+      },
+      {
+        "name": "VOLTAREN EMULGEL FORTE 2%",
+        "registration": "152 63 33919 00",
+        "form": ""
+      },
+      {
+        "name": "VOLTAREN ACTI-GO LIQUID GEL CAPS",
+        "registration": "150 99 33771 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VOLTAREN ACTI-GO 12.5MG 20 LIQUID GEL  CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.18333333333333332,
+      "status": "failed_match"
+    }
   }
 }

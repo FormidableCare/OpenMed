@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.726320"
-  }
+    "lastUpdated": "2025-08-01T15:42:04.733475",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JANUET XR 50/1000 MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:42:04.733481",
+      "previousRegistration": "151 32 33933 02",
+      "newRegistration": "151 32 33933 02",
+      "apiSource": "JANUET XR 50/1000 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ג'נואט 50/1000 מ\"ג XR טבליות",
+  "registrationDate": "2019-01-31"
 }

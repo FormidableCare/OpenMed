@@ -1,10 +1,10 @@
 {
   "catalogId": "a9996f3b-08e9-4ff1-9727-b5ecba7886c2",
-  "name": "REFIXIA 1000 IU",
+  "name": "REFIXIA 500 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 35 37303 00",
+  "registrationNumber": "172 34 37302 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in pretreated patients with haemophilia B (congenital factor IX deficiency).",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.904068"
-  }
+    "lastUpdated": "2025-08-01T16:39:10.597534",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REFIXIA 500 IU 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:39:10.597542",
+      "previousRegistration": "172 35 37303 00",
+      "newRegistration": "172 34 37302 00",
+      "apiSource": "REFIXIA 500 IU"
+    }
+  },
+  "nameHebrew": "רפיקסיה 500 יחב\"ל",
+  "registrationDate": "2023-03-15"
 }

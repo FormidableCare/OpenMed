@@ -1,10 +1,10 @@
 {
   "catalogId": "0c7d03ed-683f-4e9a-bf13-e142b36c4ca9",
-  "name": "CEFTRIAXONE-VIT",
+  "name": "CEFTRIAXONE - TRIMA 1G",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "159 42 34699 00",
+  "registrationNumber": "169 65 36258 00",
   "treatmentDescriptions": "Ceftriaxone VIT  is indicated for the treatment of the following infections in adults andchildren including term neonates (from birth):-Bacterial Meningitis- Community acquired pneumonia-Hospital acquired pneumonia-Acute otitis media-Intra-abdominal infections-Complicated urinary tract infections (including pyelonephritis)-Infections of bones and joints-Complicated skin and soft tissue infections-Gonorrhoea-Syphilis-Bacterial endocarditisCeftriaxone VIT may be used:-  For treatment of acute exacerbations of chronic obstructive pulmonary diseasein adults- For treatment of disseminated Lyme borreliosis (early (stage II) and late (stageIII) in adults and children including neonates from 15 days of age.- For pre-operative prophylaxis of surgical site infections-In the management of neutropenic patients with fever that is suspected to be dueto a ceftriaxone – susceptible  bacterial infection- In the treatment of patients with bacteraemia that occurs in association with, oris suspected to be associated with, any of the infections listed aboveCeftriaxone VIT should be co-administered with other antibacterial agents whenever thepossible range of causative bacteria would not fall within its spectrum.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.970700"
-  }
+    "lastUpdated": "2025-08-01T17:18:19.084155",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CEFTRIAXONE-VIT  1GR/VIAL  10 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:18:19.084161",
+      "previousRegistration": "159 42 34699 00",
+      "newRegistration": "169 65 36258 00",
+      "apiSource": "CEFTRIAXONE - TRIMA 1G"
+    }
+  },
+  "nameHebrew": "צפטריאקסון - תרימה 1 גרם",
+  "registrationDate": "2022-05-23"
 }

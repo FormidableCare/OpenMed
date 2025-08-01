@@ -1,10 +1,10 @@
 {
   "catalogId": "67faf448-433a-4f6e-a40d-e7ea4e4e7522",
-  "name": "ICLUSIG 15 MG",
+  "name": "ICLUSIG 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 53 34243 02",
+  "registrationNumber": "159 07 35088 01",
   "treatmentDescriptions": "Iclusig is indicated in adult patients with:  • chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant to dasatinib or nilotinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation  • Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) who are resistant to dasatinib; who are intolerant to dasatinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.531773"
-  }
+    "lastUpdated": "2025-08-01T15:58:19.447878",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ICLUSIG 30 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:19.447895",
+      "previousRegistration": "153 53 34243 02",
+      "newRegistration": "159 07 35088 01",
+      "apiSource": "ICLUSIG 30 MG"
+    }
+  },
+  "nameHebrew": "איקלוסיג 30 מ\"ג",
+  "registrationDate": "2020-02-29"
 }

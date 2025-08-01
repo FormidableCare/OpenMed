@@ -31,10 +31,16 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.8,
+          "unit": "ml"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.938409"
+    "lastUpdated": "2025-08-01T17:07:01.178319",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TEVAGRASTIM",
+        "registration": "143 29 31990 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TEVAGRASTIM  0.6MG/ML SYR PREFIL 0.8ML (48MU/0.8ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

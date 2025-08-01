@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 112.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.122504"
-  }
+    "lastUpdated": "2025-08-01T16:03:28.105953",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TASIGNA 150MG 112CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:03:28.105964",
+      "previousRegistration": "145 84 33271 00",
+      "newRegistration": "145 84 33271 00",
+      "apiSource": "TASIGNA 150 MG"
+    }
+  },
+  "nameHebrew": "טסיגנה 150 מ\"ג",
+  "registrationDate": "2016-03-31"
 }

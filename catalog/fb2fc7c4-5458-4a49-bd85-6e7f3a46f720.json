@@ -1,10 +1,10 @@
 {
   "catalogId": "fb2fc7c4-5458-4a49-bd85-6e7f3a46f720",
-  "name": "ALUNBRIG 30 MG",
+  "name": "ALUNBRIG 90 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 05 35334 00",
+  "registrationNumber": "161 06 35335 00",
   "treatmentDescriptions": "ALUNBRIG is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC)",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 90.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 10899.85884,
         "maxPriceWithVAT": 12861.83286
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.424843"
-  }
+    "lastUpdated": "2025-08-01T17:17:19.396956",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALUNBRIG 90 MG 30 FILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:19.396963",
+      "previousRegistration": "161 05 35334 00",
+      "newRegistration": "161 06 35335 00",
+      "apiSource": "ALUNBRIG 90 MG"
+    }
+  },
+  "nameHebrew": "אלונבריג 90 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

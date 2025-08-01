@@ -1,10 +1,10 @@
 {
   "catalogId": "7a22985b-f4f6-4173-bd28-3a479d3a7513",
-  "name": "RETROVIR IV FOR INFUSION",
+  "name": "RETROVIR CAPSULES 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 74 28753 00",
+  "registrationNumber": "024 28 25361 07",
   "treatmentDescriptions": "Retrovir IV for infusion is indicated for the short term management of serious manifestations of Human immunodeficiency Virus (HIV) infection in patients with Acquired Immuno Deficiency Syndrome (AIDS) or AIDS who are unable to take Retrovir oral formulations.Retrovir chemoprophylaxis, is indicated for use in HIV-positive pregnant women (over 14 weeks of gestation) for prevention of maternal-foetal HIV transmission and for primary prophylaxis of HIV infection in newborn infants. Retrovir I.V. should only be used when oral treatment is not possible (except during labour and delivery).",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.626052"
-  }
+    "lastUpdated": "2025-08-01T17:11:57.614247",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RETROVIR 250MG 40CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:11:57.614259",
+      "previousRegistration": "100 74 28753 00",
+      "newRegistration": "024 28 25361 07",
+      "apiSource": "RETROVIR CAPSULES 250 MG"
+    }
+  },
+  "nameHebrew": "רטרוביר קפסולות 250 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

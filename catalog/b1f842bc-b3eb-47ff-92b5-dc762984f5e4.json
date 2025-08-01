@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 133.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 133.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.963962"
+    "lastUpdated": "2025-08-01T17:21:00.769627",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FLEET ENEMA 133",
+        "registration": "034 95 22406 11",
+        "form": ""
+      },
+      {
+        "name": "FLEET ENEMA 250",
+        "registration": "149 41 33912 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FLEET ENEMA 133 ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.037500000000000006,
+      "status": "failed_match"
+    }
   }
 }

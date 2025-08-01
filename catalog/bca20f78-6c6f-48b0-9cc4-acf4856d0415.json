@@ -1,10 +1,10 @@
 {
   "catalogId": "bca20f78-6c6f-48b0-9cc4-acf4856d0415",
-  "name": "SANDIMMUN ® NEORAL ® 100 MG CAPSULES",
+  "name": "SANDIMMUN ® NEORAL ® 25 MG CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "066 78 28140 00",
+  "registrationNumber": "066 67 28138 00",
   "treatmentDescriptions": "Prophylaxis of organ rejection in kidney  liver heart allogenic transplants in conjunction with corticosteroids. May also be used in the treatment of chronic rejection in patients previously treated with other immuno-suppressive agents.  Bone marrow transplantation.   Endogenous uveitis.   Severe psoriasis above age 16 that did not respond to other treatment. Atopic dermatitis in adults only up to 8 weeks  for severe cases in which conventional therapy is ineffective or inappropriate.   Rheumatoid arthritis: Severe cases in which standard treatments are ineffective or inappropriate.  Nephrotic syndrom type MCD (minimal change disease) in cases where conventional therapy has failed.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.041073"
-  }
+    "lastUpdated": "2025-08-01T16:37:33.385532",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SANDIMMUN NEO 25MG 50CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:37:33.385543",
+      "previousRegistration": "066 78 28140 00",
+      "newRegistration": "066 67 28138 00",
+      "apiSource": "SANDIMMUN ® NEORAL ® 25 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "סנדאימון  ® ניאורל  ® 25 מ\"ג כמוסות",
+  "registrationDate": "2025-02-28"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.974403"
-  }
+    "lastUpdated": "2025-08-01T17:56:00.943390",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RAPAMUNE 1MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:56:00.943406",
+      "previousRegistration": "131 73 30909 22",
+      "newRegistration": "131 73 30909 22",
+      "apiSource": "RAPAMUNE 1 MG TABLETS"
+    }
+  },
+  "nameHebrew": "רפמיון 1 מ\"ג טבליות",
+  "registrationDate": "2024-10-31"
 }

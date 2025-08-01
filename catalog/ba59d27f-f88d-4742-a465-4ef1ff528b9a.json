@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.026578"
+    "lastUpdated": "2025-08-01T17:51:06.415768",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SUMATRIDEX 100",
+        "registration": "131 31 30967 00",
+        "form": ""
+      },
+      {
+        "name": "SUMATRIDEX 50",
+        "registration": "131 30 30966 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SUMATRIDEX 50MG 6CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.478632"
-  }
+    "lastUpdated": "2025-08-01T16:54:51.529321",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BRINTELLIX 10MG 28 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:54:51.529345",
+      "previousRegistration": "153 73 34155 00",
+      "newRegistration": "153 73 34155 00",
+      "apiSource": "BRINTELLIX 10 MG"
+    }
+  },
+  "nameHebrew": "ברינטליקס 10 מ\"ג",
+  "registrationDate": "2020-03-31"
 }

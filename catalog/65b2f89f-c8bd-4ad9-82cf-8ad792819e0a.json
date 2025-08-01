@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.514522"
+    "lastUpdated": "2025-08-01T17:36:26.814208",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TOBREX OPHTHALMIC OINTMENT",
+        "registration": "047 16 22795 00",
+        "form": ""
+      },
+      {
+        "name": "EYETOBRIN",
+        "registration": "179 19 37677 99",
+        "form": ""
+      },
+      {
+        "name": "BRAMITOB",
+        "registration": "144 24 32986 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TOBREX 2X EYE DROPS 5ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

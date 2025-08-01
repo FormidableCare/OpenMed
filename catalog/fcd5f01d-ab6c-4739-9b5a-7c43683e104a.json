@@ -31,10 +31,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +69,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.433589"
+    "lastUpdated": "2025-08-01T16:26:36.935256",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IRINOTECAN HCL SEACROSS 20 MG/ML",
+        "registration": "168 44 36042 00",
+        "form": ""
+      },
+      {
+        "name": "IRINOTECAN VENUS 20 MG/ML",
+        "registration": "176 15 37137 99",
+        "form": ""
+      },
+      {
+        "name": "IRINOTECAN  TEVA",
+        "registration": "154 73 33833 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IRINOTECAN ACTAVIS 20MG/ML(100MG/5ML) VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

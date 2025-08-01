@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 9.839035038,
         "maxPriceWithVAT": 11.61006083
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.343004"
-  }
+    "lastUpdated": "2025-08-01T17:44:22.016239",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LOPRESOR 200MG 14SR DIVITAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:44:22.016255",
+      "previousRegistration": "045 04 22324 00",
+      "newRegistration": "045 04 22324 00",
+      "apiSource": "LOPRESOR DIVITABS 200 MG"
+    }
+  },
+  "nameHebrew": "לופרסור דיויטבס 200 מ\"ג",
+  "registrationDate": "2015-02-28"
 }

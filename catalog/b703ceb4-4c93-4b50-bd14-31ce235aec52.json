@@ -1,10 +1,10 @@
 {
   "catalogId": "b703ceb4-4c93-4b50-bd14-31ce235aec52",
-  "name": "BUVIDAL 128 MG",
+  "name": "BUVIDAL 8 MG",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "168 78 36086 00",
+  "registrationNumber": "168 72 36069 00",
   "treatmentDescriptions": "Treatment of opioid dependence within a framework of medical, social and psychological treatment.Treatment is intended for use in adults and adolescents aged 16 years or over.",
   "termsOfIssue": "",
   "form": "prolonged release solution for injection",
@@ -31,10 +31,16 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.16,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -52,11 +58,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.002941"
-  }
+    "lastUpdated": "2025-08-01T16:22:57.907321",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUVIDAL 8 MG /0.16 ML 1 SRINGE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:22:57.907330",
+      "previousRegistration": "168 78 36086 00",
+      "newRegistration": "168 72 36069 00",
+      "apiSource": "BUVIDAL 8 MG"
+    }
+  },
+  "nameHebrew": "בובידל 8 מ\"ג",
+  "registrationDate": "2021-12-21"
 }

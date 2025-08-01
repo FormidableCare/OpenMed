@@ -31,10 +31,16 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,11 +60,35 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1244.971821,
         "maxPriceWithVAT": 1469.066683
-      }
+      },
+      "formulation": [
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.178402"
+    "lastUpdated": "2025-08-01T17:19:26.792668",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACTEMRA 162 MG S.C.",
+        "registration": "153 15 34111 00",
+        "form": ""
+      },
+      {
+        "name": "ACTEMRA 20 MG/ML I.V.",
+        "registration": "142 21 31931 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACTEMRA 20MG/ML 1X10ML(200MG) CONC. FOR SOLUTION FOR INF.",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20384615384615384,
+      "status": "failed_match"
+    }
   }
 }

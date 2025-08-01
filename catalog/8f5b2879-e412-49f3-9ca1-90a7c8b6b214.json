@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.766620"
-  }
+    "lastUpdated": "2025-08-01T16:08:17.444059",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EUTHYROX 100MCG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:08:17.444064",
+      "previousRegistration": "147 51 33605 00",
+      "newRegistration": "147 51 33605 00",
+      "apiSource": "EUTHYROX 100 MCG"
+    }
+  },
+  "nameHebrew": "יוטירוקס 100 מק\"ג",
+  "registrationDate": "2017-01-31"
 }

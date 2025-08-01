@@ -1,10 +1,10 @@
 {
   "catalogId": "ee5e0b57-665b-4621-958a-64265577d4a0",
-  "name": "VERQUVO 10 MG",
+  "name": "VERQUVO 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 18 36994 99",
+  "registrationNumber": "169 17 36993 99",
   "treatmentDescriptions": "Verquvo is indicated to reduce the risk of cardiovascular death and heart failure (HF) hospitalization following a hospitalization for heart failure or need for outpatient IV diuretics, in adults with symptomatic chronic HF and ejection fraction less than 45%.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.348950"
-  }
+    "lastUpdated": "2025-08-01T17:06:24.876305",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VERQUVO 5 MG 14 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:06:24.876312",
+      "previousRegistration": "169 18 36994 99",
+      "newRegistration": "169 17 36993 99",
+      "apiSource": "VERQUVO 5 MG"
+    }
+  },
+  "nameHebrew": "וורקובו 5 מ\"ג",
+  "registrationDate": "2022-02-09"
 }

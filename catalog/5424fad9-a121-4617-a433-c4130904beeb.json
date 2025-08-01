@@ -31,10 +31,24 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 110.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 110.0,
         "unit": "units"
@@ -59,6 +73,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.413352"
+    "lastUpdated": "2025-08-01T16:02:01.014513",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TIPTIPOT MUCOLIT",
+        "registration": "122 54 30239 00",
+        "form": ""
+      },
+      {
+        "name": "MUCOLIT 375 MG LOZENGES HONEY-LEMON FLAVOUR",
+        "registration": "142 02 29736 01",
+        "form": ""
+      },
+      {
+        "name": "MUCOLIT  375 CAPSULES",
+        "registration": "063 35 25396 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MUCOLIT 250MG/4ML SYR 110ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20454545454545456,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "fdd886e4-5c80-484d-a91d-a2c8f8b924c4",
-  "name": "NEXOBRID 2 G POWDER AND 20 G GEL",
+  "name": "NEXOBRID 5 G POWDER AND 50 G GEL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 30 33685 00",
+  "registrationNumber": "152 31 33686 00",
   "treatmentDescriptions": ".NexoBrid is indicated for removal of eschar in all age groups with deep partial- and full-thickness thermal burns",
   "termsOfIssue": "Prescription required",
   "form": "powder and gel",
@@ -31,10 +31,16 @@
         "name": "מדיוונד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "g"
+        },
+        {
+          "value": 50.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -52,11 +58,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 4611.679232,
         "maxPriceWithVAT": 5441.781251
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.440153"
-  }
+    "lastUpdated": "2025-08-01T16:23:26.334936",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NEXOBRID 5 G POWDER AND 50 G GEL  VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:26.334945",
+      "previousRegistration": "152 30 33685 00",
+      "newRegistration": "152 31 33686 00",
+      "apiSource": "NEXOBRID 5 G POWDER AND 50 G GEL"
+    }
+  },
+  "nameHebrew": "נקסובריד 5 גר' אבקה ו – 50 גר' ג'ל",
+  "registrationDate": "2019-06-30"
 }

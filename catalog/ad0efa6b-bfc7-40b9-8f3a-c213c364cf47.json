@@ -1,10 +1,10 @@
 {
   "catalogId": "ad0efa6b-bfc7-40b9-8f3a-c213c364cf47",
-  "name": "LORVIQUA 100 MG",
+  "name": "LORVIQUA 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 04 35887 00",
+  "registrationNumber": "164 03 35884 00",
   "treatmentDescriptions": "Lorviqua is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) positive.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.934954"
-  }
+    "lastUpdated": "2025-08-01T16:27:17.972595",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LORVIQUA 25 MG 90 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:27:17.972602",
+      "previousRegistration": "164 04 35887 00",
+      "newRegistration": "164 03 35884 00",
+      "apiSource": "LORVIQUA 25 MG"
+    }
+  },
+  "nameHebrew": "לורביקואה 25 מ\"ג",
+  "registrationDate": "2025-02-28"
 }

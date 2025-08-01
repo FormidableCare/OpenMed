@@ -1,10 +1,10 @@
 {
   "catalogId": "439245be-070a-44d1-8427-d1d2795790e8",
-  "name": "MACLIVAN 250 MG/5 ML",
+  "name": "MACLIVAN 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "120 17 30001 00",
+  "registrationNumber": "120 18 30002 00",
   "treatmentDescriptions": "Maclivan is indicated for the treatment of the following infections in adults and children :• Acute bacterial sinusitis (adequately diagnosed)• Acute otitis media• Acute exacerbations of chronic bronchitis (adequately diagnosed)• Community acquired pneumonia• Cystitis• Pyelonephritis• Skin and soft tissue infections in particular cellulitis, animal bites, severe dental abscess with spreading cellulitis.• Bone and joint infections, in particular osteomyelitis.",
   "termsOfIssue": "Prescription required",
   "form": "powder for oral suspension",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,16 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -48,11 +54,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 28.104591,
         "maxPriceWithVAT": 33.16341738
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.327409"
-  }
+    "lastUpdated": "2025-08-01T16:50:31.408026",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MACLIVAN 500 MG+125MG 20 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:31.408051",
+      "previousRegistration": "120 17 30001 00",
+      "newRegistration": "120 18 30002 00",
+      "apiSource": "MACLIVAN 500 MG"
+    }
+  },
+  "nameHebrew": "מאקליבן 500 מ\"ג",
+  "registrationDate": "2017-04-30"
 }

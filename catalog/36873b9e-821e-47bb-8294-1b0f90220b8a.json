@@ -58,6 +58,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.231423"
+    "lastUpdated": "2025-08-01T15:48:46.209109",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EXCEDRIN",
+        "registration": "141 82 31782 01",
+        "form": ""
+      },
+      {
+        "name": "EXCEDRIN",
+        "registration": "141 82 31782 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EXCEDRIN 32 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

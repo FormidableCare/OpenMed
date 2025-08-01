@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מרגלית",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.768555"
-  }
+    "lastUpdated": "2025-08-01T15:57:50.000537",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VANCOMYCIN LYOMARK 1000 MG 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:50.000549",
+      "previousRegistration": "156 97 34033 00",
+      "newRegistration": "156 97 34033 00",
+      "apiSource": "VANCOMYCIN LYOMARK 1000 MG"
+    }
+  },
+  "nameHebrew": "ונקומיצין ליאומרק 1000 מ\"ג",
+  "registrationDate": "2021-07-31"
 }

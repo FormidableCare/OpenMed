@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.144856"
+    "lastUpdated": "2025-08-01T15:40:39.776384",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FENTADOL 100",
+        "registration": "154 87 34320 00",
+        "form": ""
+      },
+      {
+        "name": "FENTADOL 12",
+        "registration": "154 83 34317 00",
+        "form": ""
+      },
+      {
+        "name": "FENTADOL 25",
+        "registration": "154 84 34314 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FENTADOL 75 5 PATCHES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

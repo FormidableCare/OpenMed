@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,16 @@
         "name": "אמי טכנולוגיות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.5,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -53,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.193622"
-  }
+    "lastUpdated": "2025-08-01T15:31:04.344809",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BENZAC AC 2.5% 60GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.22000000000000003,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:31:04.344833",
+      "previousRegistration": "103 30 27997 00",
+      "newRegistration": "103 30 27997 00",
+      "apiSource": "BENZAC 5 %"
+    }
+  },
+  "nameHebrew": "בנזק % 5",
+  "registrationDate": "2021-11-30"
 }

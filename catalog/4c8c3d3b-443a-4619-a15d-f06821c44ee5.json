@@ -58,6 +58,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.371704"
+    "lastUpdated": "2025-08-01T16:35:22.690076",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CREON 10000",
+        "registration": "103 48 28837 00",
+        "form": ""
+      },
+      {
+        "name": "CREON 25000",
+        "registration": "119 75 29972 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CREON 25000U 50 CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

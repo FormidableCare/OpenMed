@@ -1,10 +1,10 @@
 {
   "catalogId": "26f46606-b10e-46b1-a4ce-d2f45a38ca41",
-  "name": "LAMODEX 100 MG DISPERSIBLE/CHEWABLE TABLETS",
+  "name": "LAMODEX 50 MG DISPERSIBLE/CHEWABLE TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "129 88 30814 00",
+  "registrationNumber": "129 87 30813 00",
   "treatmentDescriptions": "Epilepsy • Adults and adolescents aged 13 years and above:   - Adjunctive or monotherapy treatment of partial seizures and generalised seizures, including tonic-clonic seizures.   - Seizures associated with Lennox-Gastaut syndrome. Lamodex is given as adjunctive therapy but may be the initial antiepileptic drug (AED) to start with in Lennox-Gastaut syndrome. • Children and adolescents aged 2 to 12 years:   - Adjunctive treatment of partial seizures and generalised seizures, including tonic-clonic seizures and the seizures associated with Lennox-Gastaut syndrome.   - Monotherapy of typical absence seizures.Bipolar disorder • Adults aged 18 years and above   - Prevention of depressive episodes in patients with bipolar I disorder who experience predominantly depressive episodes.Lamodex is not indicated for the acute treatment of manic or depressive episodes.",
   "termsOfIssue": "Prescription required",
   "form": "dispersible/chewable tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.135320"
-  }
+    "lastUpdated": "2025-08-01T15:36:38.174429",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LAMODEX 50MG 30DISP/CHEW TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.805,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:36:38.174443",
+      "previousRegistration": "129 88 30814 00",
+      "newRegistration": "129 87 30813 00",
+      "apiSource": "LAMODEX 50 MG DISPERSIBLE/CHEWABLE TABLETS"
+    }
+  },
+  "nameHebrew": "למודקס 50 מ\"ג טבליות מסיסות/לעיסות",
+  "registrationDate": "2023-12-31"
 }

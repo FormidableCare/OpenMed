@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.301865"
-  }
+    "lastUpdated": "2025-08-01T16:27:17.974552",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LORVIQUA 100 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:27:17.974557",
+      "previousRegistration": "164 04 35887 00",
+      "newRegistration": "164 04 35887 00",
+      "apiSource": "LORVIQUA 100 MG"
+    }
+  },
+  "nameHebrew": "לורביקואה 100 מ\"ג",
+  "registrationDate": "2025-02-28"
 }

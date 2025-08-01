@@ -1,10 +1,10 @@
 {
   "catalogId": "85f8b372-1326-4dfc-a982-3311ac4ce7bb",
-  "name": "MENOPUR MULTIDOSE 1200 IU",
+  "name": "MENOPUR MULTIDOSE 600 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 67 33343 00",
+  "registrationNumber": "147 66 33326 00",
   "treatmentDescriptions": "Sterility in females with hypo or normogonadotropic ovarian insufficiency: stimulation of follicle growth. Sterility in males with hypo or normogonadotropic hypogonadism: In combination with HCG to spermatogenesis",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.712194"
-  }
+    "lastUpdated": "2025-08-01T17:25:08.450942",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MENOPUR MULTIDOSE 600 IU 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:25:08.450963",
+      "previousRegistration": "147 67 33343 00",
+      "newRegistration": "147 66 33326 00",
+      "apiSource": "MENOPUR MULTIDOSE 600 IU"
+    }
+  },
+  "nameHebrew": "מנופור מולטידוז 600 IU",
+  "registrationDate": "2017-02-28"
 }

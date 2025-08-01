@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.580956"
+    "lastUpdated": "2025-08-01T16:36:59.756340",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "XARELTO 1 MG/ML GRANULES FOR ORAL SUSPENSION",
+        "registration": "174 12 37097 99",
+        "form": ""
+      },
+      {
+        "name": "XARELTO 10 MG",
+        "registration": "142 57 31927 00",
+        "form": ""
+      },
+      {
+        "name": "XARELTO 15 MG",
+        "registration": "147 44 33576 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "XARELTO 1 MG/ML GRA FOR ORAL SUSP 100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02727272727272727,
+      "status": "failed_match"
+    }
   }
 }

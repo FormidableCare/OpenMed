@@ -1,10 +1,10 @@
 {
   "catalogId": "0607824a-efb7-4fa7-984f-5adc2b07f201",
-  "name": "TEPKINLY 4 MG / 0.8 ML",
+  "name": "TEPKINLY 48MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 07 37755 00",
+  "registrationNumber": "176 08 37756 00",
   "treatmentDescriptions": "TEPKINLY is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL), not otherwise specified, including DLBCL arising from indolent lymphoma, and high-grade B cell lymphoma after two or more lines of systemic therapy.Tepkinly as monotherapy is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 48.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,6 +55,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.928270"
-  }
+    "lastUpdated": "2025-08-01T16:08:07.266199",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TEPKINLY 48MG  1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:08:07.266212",
+      "previousRegistration": "176 07 37755 00",
+      "newRegistration": "176 08 37756 00",
+      "apiSource": "TEPKINLY 48MG"
+    }
+  },
+  "nameHebrew": "טפקינלי 48 מ\"ג",
+  "registrationDate": "2024-03-31"
 }

@@ -31,10 +31,24 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -58,6 +72,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.956405"
-  }
+    "lastUpdated": "2025-08-01T16:04:15.297503",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROMETHAZINE 25MG/1ML 5VIAL(2ML)",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:04:15.297515",
+      "previousRegistration": "167 08 35764 00",
+      "newRegistration": "167 08 35764 00",
+      "apiSource": "PHENERGAN 50 MG/2 ML"
+    }
+  },
+  "nameHebrew": "פנרגן 50 מ\"ג/2 מ\"ל",
+  "registrationDate": "2021-04-06"
 }

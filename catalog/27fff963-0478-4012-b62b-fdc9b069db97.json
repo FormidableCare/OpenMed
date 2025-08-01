@@ -1,10 +1,10 @@
 {
   "catalogId": "27fff963-0478-4012-b62b-fdc9b069db97",
-  "name": "ALPHA D3 0.25 MCG",
+  "name": "ALPHA D3 1.0 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 64 30474 00",
+  "registrationNumber": "125 65 30475 00",
   "treatmentDescriptions": "-  Renal bone disease (renal osteodystrophy). -  Hypoparathyroidism. -  Hyperparathyroidism (with bone disease) - primary and tertiary. -  Rickets and osteomalacia.  -  Osteoporosis.",
   "termsOfIssue": "Prescription required",
   "form": "capsules soft gelatin",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרומד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.143445"
-  }
+    "lastUpdated": "2025-08-01T15:21:00.767397",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALPHA D3 1MCG 30CAP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:21:00.767414",
+      "previousRegistration": "125 64 30474 00",
+      "newRegistration": "125 65 30475 00",
+      "apiSource": "ALPHA D3 1.0 MCG"
+    }
+  },
+  "nameHebrew": "אלפא די 3 1.0 מק\"ג",
+  "registrationDate": "2022-05-31"
 }

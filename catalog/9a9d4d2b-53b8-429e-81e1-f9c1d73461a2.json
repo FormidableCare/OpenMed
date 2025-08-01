@@ -1,10 +1,10 @@
 {
   "catalogId": "9a9d4d2b-53b8-429e-81e1-f9c1d73461a2",
-  "name": "ALDACTONE 25 MG",
+  "name": "SPIRONOLACTONE TEVA 100 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "125 97 24826 00",
+  "registrationNumber": "030 32 21061 01",
   "treatmentDescriptions": "Congestive heart failure, cirrhotic ascites.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.828922"
-  }
+    "lastUpdated": "2025-08-01T15:40:28.180310",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SPIRONOLACTONE TEVA (ALDOSPIRONE) 100MG 20TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:40:28.180321",
+      "previousRegistration": "125 97 24826 00",
+      "newRegistration": "030 32 21061 01",
+      "apiSource": "SPIRONOLACTONE TEVA 100 MG"
+    }
+  },
+  "nameHebrew": "ספירונולקטון טבע 100 מ\"ג",
+  "registrationDate": "2021-11-30"
 }

@@ -31,10 +31,12 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.443968"
+    "lastUpdated": "2025-08-01T17:50:49.851018",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RIPOL 10 MG/ML",
+        "registration": "159 41 34438 00",
+        "form": ""
+      },
+      {
+        "name": "RIPOL 20 MG/ML",
+        "registration": "159 43 34442 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RIPOL 10 MG/ML 5 VIALS 20 ml",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

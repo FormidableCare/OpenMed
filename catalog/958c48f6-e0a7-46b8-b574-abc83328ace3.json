@@ -31,10 +31,24 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 125.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 125.0,
         "unit": "units"
@@ -57,6 +71,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.801584"
+    "lastUpdated": "2025-08-01T15:30:49.929247",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EPANUTIN 100 MG",
+        "registration": "104 27 24678 00",
+        "form": ""
+      },
+      {
+        "name": "DILANTIN 125",
+        "registration": "123 70 24017 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EPANUTIN SYR 30MG/5ML 125ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20714285714285716,
+      "status": "failed_match"
+    }
   }
 }

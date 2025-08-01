@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.413988"
-  }
+    "lastUpdated": "2025-08-01T17:40:27.463216",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MONTAIR 4 MG 30 CHEWTAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:40:27.463225",
+      "previousRegistration": "145 58 31866 00",
+      "newRegistration": "145 58 31866 00",
+      "apiSource": "MONTAIR 4 MG"
+    }
+  },
+  "nameHebrew": "מונטאייר 4 מ\"ג",
+  "registrationDate": "2016-02-29"
 }

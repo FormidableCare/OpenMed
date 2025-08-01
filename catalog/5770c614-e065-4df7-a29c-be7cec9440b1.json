@@ -58,6 +58,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.432033"
+    "lastUpdated": "2025-08-01T15:40:05.138724",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BRONCHICLEAR   ® TABLETS",
+        "registration": "159 49 34894 00",
+        "form": ""
+      },
+      {
+        "name": "BRONCHICLEAR ORAL LIQUID",
+        "registration": "167 69 35940 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BRONCHICLEAR 20 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "0c06d09b-8676-451a-8c53-e03bde683d27",
-  "name": "NAVELBINE 20 MG",
+  "name": "NAVELBINE 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "130 90 30910 00",
+  "registrationNumber": "130 91 30911 00",
   "treatmentDescriptions": "For the treatment of non small cell lung cancer. For the treatment of advanced breast cancer.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 273.1786654,
         "maxPriceWithVAT": 322.3508109
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.968166"
-  }
+    "lastUpdated": "2025-08-01T16:09:40.546884",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NAVELBINE 30MG 1CAPSULE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:40.546903",
+      "previousRegistration": "130 90 30910 00",
+      "newRegistration": "130 91 30911 00",
+      "apiSource": "NAVELBINE 30 MG"
+    }
+  },
+  "nameHebrew": "נבלבין 30 מ\"ג",
+  "registrationDate": "2024-05-31"
 }

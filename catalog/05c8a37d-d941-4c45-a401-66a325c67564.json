@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דור שירותים פרמצבטיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.925209"
-  }
+    "lastUpdated": "2025-08-01T16:14:38.008972",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIBOMUSTIN 100MG 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:14:38.008987",
+      "previousRegistration": "152 40 33966 00",
+      "newRegistration": "152 40 33966 00",
+      "apiSource": "RIBOMUSTIN 100 MG"
+    }
+  },
+  "nameHebrew": "ריבומוסטין 100מ\"ג",
+  "registrationDate": "2019-06-30"
 }

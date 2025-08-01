@@ -1,10 +1,10 @@
 {
   "catalogId": "78c8cd54-680f-4d1b-b02d-e044b562a1f9",
-  "name": "INTELENCE 100 MG",
+  "name": "INTELENCE 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 29 31789 00",
+  "registrationNumber": "149 61 33666 00",
   "treatmentDescriptions": "Intelence is indicated in combination with other antiretroviral medicinal products  for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in antiretroviral treatment-experienced adult patients  including those with non-nucleoside reverse transcriptase inhibitor (NNRTI) resistance.  Treatment history and when available  resistance testing  should guide the use of Intelence. In patients who have experienced virological failure on an NNRTI- and nucleoside or nucleotide reverse transcriptase inhibitor (N[t]RTI) - containing regimen  Intelence is not recommended for use in combination with N(t)RTIs only.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.619043"
-  }
+    "lastUpdated": "2025-08-01T16:11:14.878473",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "INTELENCE 200MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:11:14.878484",
+      "previousRegistration": "141 29 31789 00",
+      "newRegistration": "149 61 33666 00",
+      "apiSource": "INTELENCE 200 MG"
+    }
+  },
+  "nameHebrew": "אינטלנס 200 מ\"ג",
+  "registrationDate": "2018-03-31"
 }

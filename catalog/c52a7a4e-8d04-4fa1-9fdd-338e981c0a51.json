@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.093461"
+    "lastUpdated": "2025-08-01T17:51:35.520946",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FOSTER 100/6",
+        "registration": "150 73 33783 00",
+        "form": ""
+      },
+      {
+        "name": "FOSTER 200/6",
+        "registration": "164 70 35682 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FOSTER 200/6 120  ACTUATIONS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

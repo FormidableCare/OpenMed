@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.174427"
-  }
+    "lastUpdated": "2025-08-01T15:31:50.295418",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOVONORM 0.5MG 90TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:31:50.295436",
+      "previousRegistration": "114 47 29661 12",
+      "newRegistration": "114 47 29661 12",
+      "apiSource": "NOVONORM 0.5 MG"
+    }
+  },
+  "nameHebrew": "נובונורם  0.5 מ\"ג",
+  "registrationDate": "2019-06-30"
 }

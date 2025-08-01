@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.060499"
+    "lastUpdated": "2025-08-01T16:44:46.425576",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMACOMBIN OINTMENT",
+        "registration": "015 28 24536 00",
+        "form": ""
+      },
+      {
+        "name": "DERMACOMBIN CREAM",
+        "registration": "133 54 23775 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMACOMBIN OINT 5G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "6d4c8693-ec24-45d3-ab9b-27374ae14b81",
-  "name": "ESOMEPRAZOLE INOVAMED 20 MG",
+  "name": "ESOMEPRAZOLE INOVAMED 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 48 35207 00",
+  "registrationNumber": "161 49 35208 00",
   "treatmentDescriptions": "Esomeprazole Inovamed tablets are indicated  in adults for:Gastroesophageal Reflux Disease (GERD)-  treatment of erosive reflux esophagitis-  long-term management of patients with healed esophagitis to prevent relapse-  symptomatic treatment of gastroesophageal reflux disease (GERD)In combination with an appropriate antibacterial therapeutic regimen for the eradication of Helicobacter pylori and:- healing of Helicobacter pylori associated duodenal ulcer and- prevention of relapse of peptic ulcers in patients with Helicobacter pylori associated ulcers.Patients requiring NSAID therapy- healing of gastric ulcers associated with NSAID therapy. - prevention of gastric and duodenal ulcers associated with NSAID therapy in    patients at risk.Prolonged treatment after i.v. induced prevention of rebleeding of peptic ulcers.Esomeprazole Inovamed 20 mg tablets are indicated in adolescents from the age of 12 years forGastroesophageal Reflux Disease (GERD)- treatment of erosive reflux esophagitis- long-term management of patients with healed esophagitis to prevent relapse- symptomatic treatment of gastroesophgeal reflux disease (GERD)In combination with antibiotics in treatment of duodenal ulcer caused by Helicobactor  pylori",
   "termsOfIssue": "Prescription required",
   "form": "gastro resistant tablets",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.559198"
-  }
+    "lastUpdated": "2025-08-01T16:36:14.590218",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESOMEPRAZOLE INOVAMED 40 MG 30 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:36:14.590236",
+      "previousRegistration": "161 48 35207 00",
+      "newRegistration": "161 49 35208 00",
+      "apiSource": "ESOMEPRAZOLE INOVAMED 40 MG"
+    }
+  },
+  "nameHebrew": "אסומפראזול אינובמד 40 מ\"ג",
+  "registrationDate": "2023-12-31"
 }

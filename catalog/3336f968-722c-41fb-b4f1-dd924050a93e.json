@@ -1,10 +1,10 @@
 {
   "catalogId": "3336f968-722c-41fb-b4f1-dd924050a93e",
-  "name": "HYTRIN 10 MG TABLETS",
+  "name": "HYTRIN 5 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "103 61 28683 00",
+  "registrationNumber": "103 60 28682 00",
   "treatmentDescriptions": "For symptomatic treatment of urinary obstruction caused by benign prostatic hypertrophy (BPH). For mild to moderate hypertension.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ביוטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.213166"
-  }
+    "lastUpdated": "2025-08-01T17:48:15.553132",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HYTRIN BPH 5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:48:15.553146",
+      "previousRegistration": "103 61 28683 00",
+      "newRegistration": "103 60 28682 00",
+      "apiSource": "HYTRIN 5 MG TABLETS"
+    }
+  },
+  "nameHebrew": "היטרין טבליות 5 מ\"ג",
+  "registrationDate": "2021-12-31"
 }

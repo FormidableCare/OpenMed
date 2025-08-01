@@ -1,10 +1,10 @@
 {
   "catalogId": "eef48193-ef7f-465e-920e-67e4a3bfbea1",
-  "name": "LONSURF 15 MG/6.14 MG",
+  "name": "LONSURF 20 MG/8.19MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 89 35314 00",
+  "registrationNumber": "163 90 35315 00",
   "treatmentDescriptions": "Colorectal cancerLonsurf is indicated as monotherapy for the treatment of adult patients with metastatic colorectal cancer (CRC) who have been previously treated with, or are not considered candidates for, available therapies including fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapies, anti-VEGF agents, and anti-EGFR agents.LONSURF in combination with bevacizumab, is indicated for the treatment of adult patients with metastatic colorectal cancer previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF biological therapy, and if RAS wild-type, an anti-EGFR therapyGastric cancerLonsurf is indicated as monotherapy for the treatment of adult patients with metastatic gastric cancer including adenocarcinoma of the gastroesophageal junction, who have been previously treated with at least two prior systemic treatment regimens for advanced disease",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.19,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.353017"
-  }
+    "lastUpdated": "2025-08-01T17:30:20.716513",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LONSURF 20 MG/8.19MG 20 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8416666666666667,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:20.716525",
+      "previousRegistration": "163 89 35314 00",
+      "newRegistration": "163 90 35315 00",
+      "apiSource": "LONSURF 20 MG/8.19MG"
+    }
+  },
+  "nameHebrew": "לונסורף 20 מ\"ג/8.19מ\"ג",
+  "registrationDate": "2025-02-28"
 }

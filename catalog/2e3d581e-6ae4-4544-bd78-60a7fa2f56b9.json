@@ -31,10 +31,16 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.45,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 1000.0,
         "unit": "units"
@@ -58,6 +64,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.186866"
+    "lastUpdated": "2025-08-01T15:35:15.764238",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "registration": "169 66 36052 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 95 26735 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 96 26734 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SODIUM CHLORIDE MONICO 0.45 %  BAG 1000 ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20384615384615384,
+      "status": "failed_match"
+    }
   }
 }

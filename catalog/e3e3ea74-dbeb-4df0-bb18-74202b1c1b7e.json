@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 84.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.291041"
-  }
+    "lastUpdated": "2025-08-01T17:13:02.189271",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRIKAFTA 100MG/50MG/75MG/150MG",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8500000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:02.189306",
+      "previousRegistration": "167 03 36448 99",
+      "newRegistration": "167 03 36448 99",
+      "apiSource": "TRIKAFTA 100MG/50MG/75MG&150MG"
+    }
+  },
+  "nameHebrew": "טריקפטה 100מ\"ג/50מ\"ג/75מ\"ג ו - 150מ\"ג",
+  "registrationDate": "2021-04-04"
 }

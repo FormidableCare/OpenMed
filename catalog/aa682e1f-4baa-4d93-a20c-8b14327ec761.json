@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.3,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.913132"
+    "lastUpdated": "2025-08-01T16:02:43.486332",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "INSTILLAGEL",
+        "registration": "160 11 35080 00",
+        "form": ""
+      },
+      {
+        "name": "STILLA SINGLES",
+        "registration": "122 50 30243 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "STILLA SINGLES 20*0.3ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

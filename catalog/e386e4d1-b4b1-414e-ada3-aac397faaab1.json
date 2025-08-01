@@ -25,10 +25,12 @@
         "name": "פישר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 200.0,
         "unit": "units"
@@ -53,6 +55,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.289482"
+    "lastUpdated": "2025-08-01T17:15:43.040939",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMAX",
+        "registration": "022 58 24975 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMAX 200ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

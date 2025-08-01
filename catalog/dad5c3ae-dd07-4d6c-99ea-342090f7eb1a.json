@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.235395"
-  }
+    "lastUpdated": "2025-08-01T17:28:15.212265",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PEMETREXED TARO 100 MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:28:15.212271",
+      "previousRegistration": "163 33 35358 00",
+      "newRegistration": "163 33 35358 00",
+      "apiSource": "PEMETREXED TARO 100 MG"
+    }
+  },
+  "nameHebrew": "פמטרקסד תרו 100 מ\"ג",
+  "registrationDate": "2024-12-31"
 }

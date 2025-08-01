@@ -1,10 +1,10 @@
 {
   "catalogId": "9c9cd37b-a10a-400b-8344-0b9aa18a93a2",
-  "name": "KALYDECO 150 MG FILM COATED TABLETS",
+  "name": "KALYDECO 50 MG GRANULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 89 34269 00",
+  "registrationNumber": "159 08 35051 00",
   "treatmentDescriptions": "Kalydeco tablets are indicated for the treatment of patients with cystic fibrosis (CF) aged 6 years and older and weighing 25 kg or more who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or in vitro assay data. Limitations of use : Kalydeco is not effective in patients with CF who are homozygous for the F508del mutation in the CFTR gene.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.840936"
-  }
+    "lastUpdated": "2025-08-01T16:32:29.241765",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KALYDECO 50 MG GRANULES 56 SACHETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:32:29.241778",
+      "previousRegistration": "153 89 34269 00",
+      "newRegistration": "159 08 35051 00",
+      "apiSource": "KALYDECO 50 MG GRANULES"
+    }
+  },
+  "nameHebrew": "קליידקו 50 מ\"ג גרנולות",
+  "registrationDate": "2022-07-31"
 }

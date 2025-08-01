@@ -1,10 +1,10 @@
 {
   "catalogId": "81091b9b-b24b-4e18-9b24-43b1f2a1848c",
-  "name": "RIVAR TEVA 10 MG",
+  "name": "XARELTO 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "168 08 36158 00",
+  "registrationNumber": "142 57 31927 00",
   "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), in adults (following completion of at least 6 months therapy for DVT or PE)",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.667749"
-  }
+    "lastUpdated": "2025-08-01T17:33:04.601679",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIVAR TEVA 10 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:33:04.601693",
+      "previousRegistration": "168 08 36158 00",
+      "newRegistration": "142 57 31927 00",
+      "apiSource": "XARELTO 10 MG"
+    }
+  },
+  "nameHebrew": "קסרלטו 10 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

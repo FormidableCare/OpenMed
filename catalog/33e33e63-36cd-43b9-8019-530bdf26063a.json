@@ -1,10 +1,10 @@
 {
   "catalogId": "33e33e63-36cd-43b9-8019-530bdf26063a",
-  "name": "BINOCRIT 1000 IU/ 0.5 ML",
+  "name": "BINOCRIT 3000 I.U / 0.3 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 08 33360 00",
+  "registrationNumber": "147 17 33370 00",
   "treatmentDescriptions": "Binocrit® is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF):- in adults and children aged 1 to 18 years on haemodialysis and adult patients on peritoneal dialysis  .- in adults with renal insufficiency not yet undergoing dialysis for the treatment of severe anaemia of renal origin accompanied by clinical symptoms in patients. \tBinocrit® is indicated in adult patients receiving chemotherapy for solid tumours, malignant lymphoma or multiple myeloma, and at risk of transfusion as assessed by the patient's general status (e.g. cardiovascular status, pre existing anaemia at the start of chemotherapy) for the treatment of anaemia and reduction of transfusion requirements.Binocrit® is indicated in adults in a predonation programme  to increase the yield of autologous blood.Treatment should only be given to patients with moderate anaemia (haemoglobin (Hb) concentration range between 10 13 g/dl (6.2 8.1 mmol/l), no iron deficiency), if blood saving procedures are not available or insufficient when the scheduled major elective surgery requires a large volume of blood (4 or more units of blood for females or 5 or more units for males).Binocrit® is indicated for non-iron deficient adults prior to major elective orthopaedic surgery, having a high perceived risk for transfusion complications to reduce exposure to allogeneic blood transfusions.Use should be restricted to patients with moderate anaemia (e.g. Hb concentration range between 10 13 g/dl or 6.2 8.1 mmol/l) who do not have an autologous predonation programme available and with an expected blood loss (900 to 1800 ml).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.3,
+          "unit": "ml"
+        },
+        {
+          "value": 3000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.216040"
-  }
+    "lastUpdated": "2025-08-01T15:23:53.889345",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BINOCRIT 3000 IU/0.3ML 6 SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:53.889354",
+      "previousRegistration": "147 08 33360 00",
+      "newRegistration": "147 17 33370 00",
+      "apiSource": "BINOCRIT 3000 I.U / 0.3 ML"
+    }
+  },
+  "nameHebrew": "בינוקריט 3000 יחב\"ל / 0.3 מ\"ל",
+  "registrationDate": "2016-12-31"
 }

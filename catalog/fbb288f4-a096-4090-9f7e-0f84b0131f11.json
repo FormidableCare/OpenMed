@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.7,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.427337"
+    "lastUpdated": "2025-08-01T16:35:14.362269",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OZURDEX",
+        "registration": "147 03 33284 00",
+        "form": ""
+      },
+      {
+        "name": "AURIZON VETERINARY",
+        "registration": "082 47 92301 00",
+        "form": ""
+      },
+      {
+        "name": "DESO CARE",
+        "registration": "155 19 34691 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OZURDEX 0.7MG IMPLANT IN APPLICATOR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20555555555555557,
+      "status": "failed_match"
+    }
   }
 }

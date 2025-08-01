@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 36.79212745,
         "maxPriceWithVAT": 43.41470846
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.619729"
-  }
+    "lastUpdated": "2025-08-01T16:42:02.276038",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REQUIP MODUTAB 2MG 28 FILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:42:02.276052",
+      "previousRegistration": "141 62 31838 01",
+      "newRegistration": "141 62 31838 01",
+      "apiSource": "REQUIP MODUTAB 2 MG"
+    }
+  },
+  "nameHebrew": "רקוויפ מודוטאב 2 מ\"ג",
+  "registrationDate": "2024-08-31"
 }

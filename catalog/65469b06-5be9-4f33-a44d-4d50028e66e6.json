@@ -1,10 +1,10 @@
 {
   "catalogId": "65469b06-5be9-4f33-a44d-4d50028e66e6",
-  "name": "ZYPREXA 10 MG",
+  "name": "ZYPREXA 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "104 86 28859 21",
+  "registrationNumber": "104 84 28857 21",
   "treatmentDescriptions": "Acute and maintenance treatment of schizophrenia.   Zyprexa is indicated for the management of the manifestations of psychotic disorders.   Zyprexa is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder. Prevention of recurrence in Bipolar Disorder : In patients whose manic episode has responded to olanzapine treatment  Zyprexa is indicated for the prevention of recurrence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Zyprexa with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.512871"
-  }
+    "lastUpdated": "2025-08-01T16:09:32.878027",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZYPREXA 5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:32.878041",
+      "previousRegistration": "104 86 28859 21",
+      "newRegistration": "104 84 28857 21",
+      "apiSource": "ZYPREXA 5 MG"
+    }
+  },
+  "nameHebrew": "זיפרקסה 5 מ\"ג",
+  "registrationDate": "2022-03-31"
 }

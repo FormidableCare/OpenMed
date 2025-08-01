@@ -1,10 +1,10 @@
 {
   "catalogId": "84da68b2-69c3-4dca-9b3f-30d89c552736",
-  "name": "LYNPARZA 100 MG",
+  "name": "LYNPARZA 150 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 63 35469 00",
+  "registrationNumber": "161 64 35470 00",
   "treatmentDescriptions": "Ovarian cancer:Lynparza is indicated as monotherapy for the: •           maintenance treatment of adult patients with advanced (FIGO stages III and IV) BRCA1/2- mutated (germline and/or somatic) high-grade epithelial ovarian, fallopian tube or primary peritoneal cancer who are in response (complete or partial) following completion of first-line platinum-based chemotherapy. •           Maintenance treatment of adult patients with platinum-sensitive relapsed high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete response or partial response) to platinum-based chemotherapy.First-line Maintenance Treatment of Advanced Ovarian Cancer in Combination with BevacizumabLynparza is indicated in combination with bevacizumab for the maintenance treatment of adult patients with advanced epithelial ovarian, fallopian tube or primary peritoneal cancer who are in complete or partial response to first-line platinum-based chemotherapy and whose cancer is associated with homologous recombination deficiency (HRD) positive status defined by either:• a deleterious or suspected deleterious BRCA mutation, and/or• genomic instability Breast cancer:Germline BRCA-mutated HER2-negative Metastatic Breast CancerLynparza is indicated in patients with deleterious or suspected deleterious gBRCAm, HER2-negative metastatic breast cancer who have been treated with chemotherapy in the neoadjuvant, adjuvant or metastatic setting. Patients with hormone receptor (HR)- positive breast cancer should have been treated with a prior endocrine therapy or be considered inappropriate for endocrine therapy.Adjuvant Treatment of Germline BRCA-mutated HER2-negative High Risk Early Breast Cancer Lynparza is indicated for the adjuvant treatment of adult patients with deleterious or suspected deleterious gBRCAm human epidermal growth factor receptor 2 (HER2)-negative high risk early breast cancer who have been treated with neoadjuvant or adjuvant chemotherapy. Adenocarcinoma of the pancreas:First-line Maintenance Treatment of Germline BRCA-mutated Metastatic Pancreatic AdenocarcinomaLynparza is indicated for the maintenance treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic pancreatic adenocarcinoma whose disease has not progressed on at least 16 weeks of a first-line platinum-based chemotherapy regimen.Prostate cancer:•\tgermline or somatic BRCA1/2 or ATM- mutated metastatic castration-resistant prostate cancer Lynparza is indicated for the treatment of adult patients with deleterious or suspected deleterious germline or somatic BRCA1/2 or ATM- mutated metastatic castration-resistant prostate cancer (mCRPC) who have progressed following prior treatment with enzalutamide or abiraterone.•\tLynparza is indicated in combination with abiraterone and prednisone or prednisolone for the treatment of adult patients with deleterious or suspected deleterious HRR-mutated (HRRm) metastatic castration-resistant prostate cancer (mCRPC). Select patients for therapy based on an approved companion diagnostic for Lynparza",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.684632"
-  }
+    "lastUpdated": "2025-08-01T16:45:43.528395",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LYNPARZA 150 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:45:43.528403",
+      "previousRegistration": "161 63 35469 00",
+      "newRegistration": "161 64 35470 00",
+      "apiSource": "LYNPARZA 150 MG"
+    }
+  },
+  "nameHebrew": "לינפארזה 150 מ\"ג",
+  "registrationDate": "2023-12-31"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.985003"
-  }
+    "lastUpdated": "2025-08-01T15:58:19.438422",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ICLUSIG 15MG 30 COATED TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:19.438438",
+      "previousRegistration": "153 53 34243 02",
+      "newRegistration": "153 53 34243 02",
+      "apiSource": "ICLUSIG 15 MG"
+    }
+  },
+  "nameHebrew": "איקלוסיג 15 מ\"ג",
+  "registrationDate": "2020-02-29"
 }

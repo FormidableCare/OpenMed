@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -54,11 +60,40 @@
         "retailMargin": "",
         "maxRetailPrice": 33.81,
         "maxPriceWithVAT": 39.8958
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.665828"
+    "lastUpdated": "2025-08-01T15:41:47.260414",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZOVIRAX",
+        "registration": "126 38 30532 00",
+        "form": ""
+      },
+      {
+        "name": "ZOVIRAX I.V.",
+        "registration": "034 33 21976 05",
+        "form": ""
+      },
+      {
+        "name": "ZOVIRAX TABLETS 200 MG",
+        "registration": "126 41 30640 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZOVIRAX CREAM 5% 2G PUMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

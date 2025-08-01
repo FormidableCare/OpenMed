@@ -25,10 +25,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -51,6 +53,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.013913"
+    "lastUpdated": "2025-08-01T16:38:52.455011",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LUNSUMIO",
+        "registration": "172 15 37418 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LUNSUMIO 1MG/ML 1 VIAL 30ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.757118"
+    "lastUpdated": "2025-08-01T15:22:37.362079",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ATOMIC 100",
+        "registration": "167 84 36235 00",
+        "form": ""
+      },
+      {
+        "name": "ATOMIC 18",
+        "registration": "167 82 36233 00",
+        "form": ""
+      },
+      {
+        "name": "ATOMIC 25",
+        "registration": "160 12 35129 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ATOMIC 80 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

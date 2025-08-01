@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.866506"
+    "lastUpdated": "2025-08-01T16:00:29.534928",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CARBAGLU",
+        "registration": "147 76 33555 05",
+        "form": ""
+      },
+      {
+        "name": "CARBAGLU",
+        "registration": "147 76 33555 04",
+        "form": ""
+      },
+      {
+        "name": "CARBAGLU",
+        "registration": "147 76 33555 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CARBAGLU 200MG 60 DISP.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

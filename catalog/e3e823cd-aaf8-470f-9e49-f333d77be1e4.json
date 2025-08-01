@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": "",
         "maxRetailPrice": 29.4,
         "maxPriceWithVAT": 34.692
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.291247"
+    "lastUpdated": "2025-08-01T15:29:01.130571",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AGISTEN ALOEVERA CREAM",
+        "registration": "043 17 22461 00",
+        "form": ""
+      },
+      {
+        "name": "AGISTEN BABY",
+        "registration": "125 94 26744 00",
+        "form": ""
+      },
+      {
+        "name": "AGISTEN V 2 % VAGINAL CREAM",
+        "registration": "048 56 23822 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "AGISTEN CREAM 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20555555555555557,
+      "status": "failed_match"
+    }
   }
 }

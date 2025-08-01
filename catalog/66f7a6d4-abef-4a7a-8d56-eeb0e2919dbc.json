@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.525945"
-  }
+    "lastUpdated": "2025-08-01T15:32:04.871383",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LENVIMA 10 MG 30CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:32:04.871403",
+      "previousRegistration": "155 37 34530 00",
+      "newRegistration": "155 37 34530 00",
+      "apiSource": "LENVIMA 10 MG"
+    }
+  },
+  "nameHebrew": "לנווימה 10 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

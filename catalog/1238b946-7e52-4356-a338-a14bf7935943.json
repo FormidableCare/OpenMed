@@ -1,10 +1,10 @@
 {
   "catalogId": "1238b946-7e52-4356-a338-a14bf7935943",
-  "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
+  "name": "PENTASA SLOW RELEASE GRANULES 1 GR.",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 47 34816 00",
+  "registrationNumber": "114 57 29591 00",
   "treatmentDescriptions": "Mild to moderate ulcerative colitis or crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "granules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.006969"
-  }
+    "lastUpdated": "2025-08-01T15:53:35.269774",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PENTASA SLOW RELEASE GRANULES 1GX100 SACHETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:53:35.269784",
+      "previousRegistration": "157 47 34816 00",
+      "newRegistration": "114 57 29591 00",
+      "apiSource": "PENTASA SLOW RELEASE GRANULES 1 GR."
+    }
+  },
+  "nameHebrew": "פנטסה גרנולות בשחרור איטי 1 גרם",
+  "registrationDate": "2024-05-31"
 }

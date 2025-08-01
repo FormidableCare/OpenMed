@@ -25,10 +25,12 @@
         "name": "מכבי קאר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -47,11 +49,27 @@
         "retailMargin": "",
         "maxRetailPrice": 29.66,
         "maxPriceWithVAT": 34.9988
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.317581"
-  }
+    "lastUpdated": "2025-08-01T16:23:11.302804",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PHYSICARE GEL 100 GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.175,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:11.302811",
+      "previousRegistration": "136 05 31442 00",
+      "newRegistration": "136 05 31442 00",
+      "apiSource": "PHYSICARE GEL"
+    }
+  },
+  "nameHebrew": "פיזיקאר ג'ל",
+  "registrationDate": "2022-01-31"
 }

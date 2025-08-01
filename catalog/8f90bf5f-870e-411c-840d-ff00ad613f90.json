@@ -1,10 +1,10 @@
 {
   "catalogId": "8f90bf5f-870e-411c-840d-ff00ad613f90",
-  "name": "EUTHYROX 100 MCG",
+  "name": "EUTHYROX 50 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 51 33605 00",
+  "registrationNumber": "147 50 33604 00",
   "treatmentDescriptions": "Euthyrox 25 - 200 microgram :- Treatment of benign euthyroid goitre.- Prophylaxis of relapse after surgery for euthyroid goitre, depending on the post - operative hormone status.- Substitution therapy in hypothyroidism.- Suppression therapy in thyroid cancer.Euthyrox 25 - 100 microgram :- Concomitant supplementation during anti-thyroid drug treatment of hyperthyroidism.Euthyrox 100/150/200 microgram :- Diagnostic use for thyroid suppression testing.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.767738"
-  }
+    "lastUpdated": "2025-08-01T16:08:17.442130",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EUTHYROX 50MCG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:08:17.442136",
+      "previousRegistration": "147 51 33605 00",
+      "newRegistration": "147 50 33604 00",
+      "apiSource": "EUTHYROX 50 MCG"
+    }
+  },
+  "nameHebrew": "יוטירוקס 50 מק\"ג",
+  "registrationDate": "2017-01-31"
 }

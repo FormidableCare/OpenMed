@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.742887"
-  }
+    "lastUpdated": "2025-08-01T16:13:36.478628",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROFEX 150MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:13:36.478641",
+      "previousRegistration": "133 93 29804 00",
+      "newRegistration": "133 93 29804 00",
+      "apiSource": "PROFEX 150 MG"
+    }
+  },
+  "nameHebrew": "פרופקס 150 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "721454db-32f5-43b4-93e0-a2670e8409bf",
-  "name": "LISSIN 20 MG",
+  "name": "LISSIN 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 71 37820 99",
+  "registrationNumber": "176 88 37821 99",
   "treatmentDescriptions": "Lissin is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in patients ages 6 years and above.Lissin is indicated for the treatment of Moderate to Severe Binge Eating Disorder (BED) for patients over 18 years.Limitation of Use:Lissin is not indicated or recommended for weight loss. Use of other sympathomimetic drugs for weight loss has been associated with serious cardiovascular adverse events. The safety and effectiveness of Lissin for the treatment of obesity have not been established.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.589091"
-  }
+    "lastUpdated": "2025-08-01T17:32:03.051658",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LISSIN 40 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:32:03.051674",
+      "previousRegistration": "176 71 37820 99",
+      "newRegistration": "176 88 37821 99",
+      "apiSource": "LISSIN 40 MG"
+    }
+  },
+  "nameHebrew": "ליסין 40 מ\"ג",
+  "registrationDate": "2024-06-27"
 }

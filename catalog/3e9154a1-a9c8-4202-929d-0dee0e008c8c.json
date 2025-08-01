@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.301832"
+    "lastUpdated": "2025-08-01T15:30:41.971436",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "YAZ",
+        "registration": "141 04 32023 01",
+        "form": ""
+      },
+      {
+        "name": "YAZ",
+        "registration": "141 04 32023 00",
+        "form": ""
+      },
+      {
+        "name": "YAZ PLUS",
+        "registration": "152 82 33905 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "YAZ PLUS 1X28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

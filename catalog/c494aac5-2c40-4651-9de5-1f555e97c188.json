@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.090698"
-  }
+    "lastUpdated": "2025-08-01T15:29:56.196105",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FYCOMPA 10MG 28 F.C TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8045454545454546,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:56.196129",
+      "previousRegistration": "150 50 33794 01",
+      "newRegistration": "150 50 33794 01",
+      "apiSource": "FYCOMPA 10 MG FILM COATED TABLETS"
+    }
+  },
+  "nameHebrew": "פייקומפה 10 מ\"ג טבליות מצופות",
+  "registrationDate": "2018-07-31"
 }

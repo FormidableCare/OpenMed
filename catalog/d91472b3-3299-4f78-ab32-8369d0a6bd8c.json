@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 67.057665,
         "maxPriceWithVAT": 79.12804118
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.227072"
+    "lastUpdated": "2025-08-01T16:39:12.618267",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CLOPIXOL 10 MG TABLETS",
+        "registration": "047 86 25486 00",
+        "form": ""
+      },
+      {
+        "name": "CLOPIXOL 2 MG TABLETS",
+        "registration": "047 84 25485 00",
+        "form": ""
+      },
+      {
+        "name": "CLOPIXOL 25 MG TABLETS",
+        "registration": "047 85 25487 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CLOPIXOL DEPOT INJECTION 500MG 1AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20625000000000002,
+      "status": "failed_match"
+    }
   }
 }

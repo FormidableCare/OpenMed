@@ -1,10 +1,10 @@
 {
   "catalogId": "da06f391-bd14-4c72-8745-5ce448d4f033",
-  "name": "SEVELAMER TARO 2.4 G",
+  "name": "SEVELAMER TARO 800 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 79 35536 00",
+  "registrationNumber": "157 83 34686 00",
   "treatmentDescriptions": "For the control of hyperphosphataemia in adult patients receiving haemodialysis or peritoneal dialysis. Also indicated for the control of hyperphosphataemia in adult patients with chronic kidney disease not on dialysis with serum phosphorus &#8805; 1.78 mmol/l. Should be used within the context of a multiple therapeutic approach, which could include calcium supplement, 1,25-dihydroxy Vitamin D3 or one of its analogues to control the development of renal bone disease.",
   "termsOfIssue": "Prescription required",
   "form": "powder for oral suspension",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 180.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.232152"
-  }
+    "lastUpdated": "2025-08-01T17:05:17.139405",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEVELAMER TARO 800 MG 180TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:05:17.139416",
+      "previousRegistration": "164 79 35536 00",
+      "newRegistration": "157 83 34686 00",
+      "apiSource": "SEVELAMER TARO 800 MG"
+    }
+  },
+  "nameHebrew": "סבלמר תרו 800 מ\"ג",
+  "registrationDate": "2021-12-31"
 }

@@ -31,10 +31,12 @@
         "name": "ליף-דקסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +55,40 @@
         "retailMargin": "",
         "maxRetailPrice": 24.15,
         "maxPriceWithVAT": 28.497
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.332398"
+    "lastUpdated": "2025-08-01T15:45:03.468472",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+        "registration": "122 43 30111 00",
+        "form": ""
+      },
+      {
+        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
+        "registration": "122 42 30110 00",
+        "form": ""
+      },
+      {
+        "name": "ADVIL LIQUI-GELS 200",
+        "registration": "115 33 29761 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IBUPRO LIQUIGEL 200MG 20CA",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.15,
+      "status": "failed_match"
+    }
   }
 }

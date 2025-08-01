@@ -60,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.897865"
+    "lastUpdated": "2025-08-01T16:42:11.370004",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KALURIL",
+        "registration": "117 57 23150 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KALURIL 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

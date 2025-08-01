@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.929127"
+    "lastUpdated": "2025-08-01T16:58:17.374026",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "UNDECYL POWDER",
+        "registration": "029 47 25330 00",
+        "form": ""
+      },
+      {
+        "name": "UNDECYL OINTMENT",
+        "registration": "137 46 21090 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "UNDECYL POWDER 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

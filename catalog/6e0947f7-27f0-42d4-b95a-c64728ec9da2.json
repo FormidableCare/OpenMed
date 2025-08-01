@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.563828"
-  }
+    "lastUpdated": "2025-08-01T16:49:16.830864",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMURAN 25MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:16.830877",
+      "previousRegistration": "034 79 25384 00",
+      "newRegistration": "034 79 25384 00",
+      "apiSource": "IMURAN TABLETS 25 MG"
+    }
+  },
+  "nameHebrew": "אימוראן טבליות 25 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

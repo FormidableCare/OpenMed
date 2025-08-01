@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.743491"
-  }
+    "lastUpdated": "2025-08-01T17:50:39.298674",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "V-MANTINE 10 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:39.298684",
+      "previousRegistration": "162 05 34810 00",
+      "newRegistration": "162 05 34810 00",
+      "apiSource": "V-MANTINE 10 MG"
+    }
+  },
+  "nameHebrew": "וי-מנטין 10 מ\"ג",
+  "registrationDate": "2024-03-31"
 }

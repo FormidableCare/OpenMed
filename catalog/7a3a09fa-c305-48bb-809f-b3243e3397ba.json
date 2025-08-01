@@ -1,10 +1,10 @@
 {
   "catalogId": "7a3a09fa-c305-48bb-809f-b3243e3397ba",
-  "name": "MYCAMINE 100 MG",
+  "name": "MYCAMINE 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 91 34429 00",
+  "registrationNumber": "155 90 34422 00",
   "treatmentDescriptions": "Adults, adolescents &#8805; 16 years of age and elderly:- Treatment of invasive candidiasis.- Treatment of oesophageal candidiasis in patients for whom intravenous therapy is appropriate.- Prophylaxis of Candida infection in patients undergoing allogeneic haematopoietic stem cell transplantation.Children (including neonates) and adolescents < 16 years of age:- Treatment of invasive candidiasis.- Prophylaxis of Candida infection in patients undergoing allogeneic haematopoietic stem cell transplantation.The decision to use Mycamine should take into account a potential risk for the development of liver tumours. Mycamine should therefore only be used if other antifungals are not appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטלס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.627128"
-  }
+    "lastUpdated": "2025-08-01T15:49:35.425202",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MYCAMINE 50 MG VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:49:35.425210",
+      "previousRegistration": "155 91 34429 00",
+      "newRegistration": "155 90 34422 00",
+      "apiSource": "MYCAMINE 50 MG"
+    }
+  },
+  "nameHebrew": "מיקמין 50 מ\"ג",
+  "registrationDate": "2021-04-30"
 }

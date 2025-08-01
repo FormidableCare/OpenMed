@@ -1,10 +1,10 @@
 {
   "catalogId": "08a60b88-abdf-4da2-be7a-9360c04a4231",
-  "name": "CELCOX 100 MG",
+  "name": "CELCOX 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "134 40 30074 00",
+  "registrationNumber": "120 44 30096 00",
   "treatmentDescriptions": "Symptomatic treatment of inflammation and pain in osteoarthritis (OA) and rheumatoid arthritis (RA).",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.942006"
-  }
+    "lastUpdated": "2025-08-01T17:17:53.881319",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CELCOX 200MG 10CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:53.881340",
+      "previousRegistration": "134 40 30074 00",
+      "newRegistration": "120 44 30096 00",
+      "apiSource": "CELCOX 200 MG"
+    }
+  },
+  "nameHebrew": "סלקוקס 200 מ\"ג",
+  "registrationDate": "2020-10-31"
 }

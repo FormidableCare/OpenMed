@@ -1,10 +1,10 @@
 {
   "catalogId": "d05ea8b4-fd3b-4c3c-a58c-0c6c0102516a",
-  "name": "TEMODAL 100 MG",
+  "name": "TEMODAL 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "120 30 30116 23",
+  "registrationNumber": "120 28 30114 22",
   "treatmentDescriptions": "Temodal capsules are indicated for the treatment of patients with malignant glioma such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy. Temodal capsules are also indicated as first line treatment for patients with advanced metastatic malignant melanoma. Newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.177974"
-  }
+    "lastUpdated": "2025-08-01T15:38:20.174865",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TEMODAL 5MG 5CAP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:20.174873",
+      "previousRegistration": "120 30 30116 23",
+      "newRegistration": "120 28 30114 22",
+      "apiSource": "TEMODAL 5 MG"
+    }
+  },
+  "nameHebrew": "טמודאל 5 מ\"ג",
+  "registrationDate": "2016-02-29"
 }

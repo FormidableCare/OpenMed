@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.298938"
+    "lastUpdated": "2025-08-01T17:14:25.836212",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BOTOX 100",
+        "registration": "057 68 27328 00",
+        "form": ""
+      },
+      {
+        "name": "BOTOX 200",
+        "registration": "149 45 33538 00",
+        "form": ""
+      },
+      {
+        "name": "BOTOX 50",
+        "registration": "145 33 32005 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BOTOX 50 UNITS 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

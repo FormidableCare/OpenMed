@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.380164"
-  }
+    "lastUpdated": "2025-08-01T15:47:14.702897",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DASATINIB SANDOZ  100 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:47:14.702912",
+      "previousRegistration": "173 10 36531 99",
+      "newRegistration": "173 10 36531 99",
+      "apiSource": "DASATINIB SANDOZ ® 100 MG"
+    }
+  },
+  "nameHebrew": "דסטיניב סנדוז® 100 מ\"ג",
+  "registrationDate": "2023-05-10"
 }

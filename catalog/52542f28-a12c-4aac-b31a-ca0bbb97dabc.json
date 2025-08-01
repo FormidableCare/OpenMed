@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.403479"
+    "lastUpdated": "2025-08-01T16:09:11.814499",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
+        "registration": "152 68 34097 01",
+        "form": ""
+      },
+      {
+        "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
+        "registration": "152 68 34097 00",
+        "form": ""
+      },
+      {
+        "name": "BISOPROLOL FUMARATE INOVAMED 2.5 MG",
+        "registration": "152 66 34099 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PROLOL 40MG 50TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

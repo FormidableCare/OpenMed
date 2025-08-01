@@ -31,10 +31,16 @@
         "name": "תרומד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.5,
+          "unit": "ml"
+        },
+        {
+          "value": 900.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +65,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.630531"
+    "lastUpdated": "2025-08-01T15:47:29.683153",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OVALEAP",
+        "registration": "157 82 34716 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OVALEAP 900IU/1.5 ML 1 CARTRIDGE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

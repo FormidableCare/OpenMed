@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.915031"
+    "lastUpdated": "2025-08-01T17:19:49.989322",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MELODIL 25",
+        "registration": "032 57 22655 01",
+        "form": ""
+      },
+      {
+        "name": "MELODIL 50",
+        "registration": "032 47 22654 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MELODIL 25MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

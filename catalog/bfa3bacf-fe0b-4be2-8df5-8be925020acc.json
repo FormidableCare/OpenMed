@@ -1,10 +1,10 @@
 {
   "catalogId": "bfa3bacf-fe0b-4be2-8df5-8be925020acc",
-  "name": "CINACALCET TRIMA 30 MG",
+  "name": "CINACALCET TRIMA 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 44 34241 00",
+  "registrationNumber": "154 45 34240 00",
   "treatmentDescriptions": "Treatment of secondary hyperparathyroidism (HPT) in patients with end-stage renal disease (ESRD) on maintenance dialysis therapy. Cinacalcet -Trima  may be used as part of a therapeutic regimen including phosphate binders and/or Vitamin D sterols, as appropriate. Reduction of hypercalcaemia in patients with:• parathyroid carcinoma.• primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.060523"
-  }
+    "lastUpdated": "2025-08-01T15:59:29.456913",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CINACALCET TRIMA 60 MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:59:29.456936",
+      "previousRegistration": "154 44 34241 00",
+      "newRegistration": "154 45 34240 00",
+      "apiSource": "CINACALCET TRIMA 60 MG"
+    }
+  },
+  "nameHebrew": "סינאקלצט תרימה 60 מ\"ג",
+  "registrationDate": "2020-08-31"
 }

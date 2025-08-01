@@ -1,10 +1,10 @@
 {
   "catalogId": "d4751ca3-12a7-4275-a8c0-b24896774539",
-  "name": "ISTURISA 1 MG",
+  "name": "ISTURISA 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 12 37207 99",
+  "registrationNumber": "171 13 37208 99",
   "treatmentDescriptions": "Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adult patients for whom surgery is not an option or has not been curative",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.198368"
-  }
+    "lastUpdated": "2025-08-01T17:30:29.715139",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ISTURISA 5 MG 60 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:29.715153",
+      "previousRegistration": "171 12 37207 99",
+      "newRegistration": "171 13 37208 99",
+      "apiSource": "ISTURISA 5 MG"
+    }
+  },
+  "nameHebrew": "איסטוריסה 5 מ\"ג",
+  "registrationDate": "2022-12-22"
 }

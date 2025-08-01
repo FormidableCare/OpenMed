@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.870516"
-  }
+    "lastUpdated": "2025-08-01T16:59:05.795774",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KOSELUGO 10 MG 60 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:59:05.795789",
+      "previousRegistration": "167 72 36526 99",
+      "newRegistration": "167 72 36526 99",
+      "apiSource": "KOSELUGO 10 MG"
+    }
+  },
+  "nameHebrew": "קוסליוגו 10 מ\"ג",
+  "registrationDate": "2021-06-29"
 }

@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.416513"
+    "lastUpdated": "2025-08-01T17:48:48.343830",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AKYNZEO 300mg/0.50mg",
+        "registration": "155 79 34343 00",
+        "form": ""
+      },
+      {
+        "name": "AKYNZEO 235 MG/0.25MG",
+        "registration": "176 41 37355 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SETRON 1MG 10TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

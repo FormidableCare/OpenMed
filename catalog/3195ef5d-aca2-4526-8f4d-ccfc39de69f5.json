@@ -1,10 +1,10 @@
 {
   "catalogId": "3195ef5d-aca2-4526-8f4d-ccfc39de69f5",
-  "name": "SPECTRACEF 200 MG",
+  "name": "SPECTRACEF 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 36 36015 00",
+  "registrationNumber": "166 37 36016 00",
   "treatmentDescriptions": "SPECTRACEF is indicated in adults and adolescents (12 years of age or older) for the treatment of the following infections caused by susceptible microorganisms:• Acute pharyngo-tonsillitis• Acute maxillary sinusitis• Acute exacerbations of chronic bronchitis• Community-acquired pneumonia, mild to moderate• Uncomplicated skin and skin structure infections, such as cellulitis, infected wounds, abscesses, folliculitis, impetigo and boils.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.204731"
-  }
+    "lastUpdated": "2025-08-01T16:11:22.907202",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SPECTRACEF 400 MG 10 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:11:22.907217",
+      "previousRegistration": "166 36 36015 00",
+      "newRegistration": "166 37 36016 00",
+      "apiSource": "SPECTRACEF 400 MG"
+    }
+  },
+  "nameHebrew": "ספקטרצף 400 מ\"ג",
+  "registrationDate": "2020-12-28"
 }

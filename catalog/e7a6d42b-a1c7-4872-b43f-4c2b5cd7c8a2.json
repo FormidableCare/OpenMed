@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.312479"
-  }
+    "lastUpdated": "2025-08-01T16:05:22.264959",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAMBOCOR 100MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:05:22.264974",
+      "previousRegistration": "123 99 23293 00",
+      "newRegistration": "123 99 23293 00",
+      "apiSource": "TAMBOCOR 100 MG TABLETS"
+    }
+  },
+  "nameHebrew": "טמבוקור 100 מ\"ג טבליות",
+  "registrationDate": "2021-11-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "b37542d3-e523-4c7d-a53b-fa4e320869fb",
-  "name": "CERTICAN ® 0.25 MG TABLETS",
+  "name": "CERTICAN ® 0.5 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 60 31066 00",
+  "registrationNumber": "132 58 31064 00",
   "treatmentDescriptions": "Kidney and heart transplantationCertican ® is indicated for the prophylaxis of organ rejection in adult patients at low to moderate immunological risk receiving an allogeneic renal or cardiac transplant. In kidney and heart transplantation, Certican should be used in combination with ciclosporin for microemulsion and corticosteroids.Liver transplantationCertican is indicated for the prophylaxis of organ rejection in adult patients receiving a hepatic transplant. In liver transplantation, Certican should be used in combination with tacrolimus and corticosteroids.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.976347"
-  }
+    "lastUpdated": "2025-08-01T15:46:56.762069",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CERTICAN 0.50MG 60 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:46:56.762171",
+      "previousRegistration": "132 60 31066 00",
+      "newRegistration": "132 58 31064 00",
+      "apiSource": "CERTICAN ® 0.5 MG TABLETS"
+    }
+  },
+  "nameHebrew": "סרטיקן  ® 0.5 מ\"ג טבליות",
+  "registrationDate": "2025-02-28"
 }

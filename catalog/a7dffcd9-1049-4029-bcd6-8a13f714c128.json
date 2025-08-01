@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.894849"
+    "lastUpdated": "2025-08-01T16:58:01.034093",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NIPRUSS ®",
+        "registration": "164 33 35970 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NIPRUSS 60MG 5AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

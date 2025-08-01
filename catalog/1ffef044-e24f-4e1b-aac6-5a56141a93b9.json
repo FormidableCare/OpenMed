@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.093706"
+    "lastUpdated": "2025-08-01T16:42:23.558445",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BETACORTEN G OINTMENT",
+        "registration": "050 45 23262 00",
+        "form": ""
+      },
+      {
+        "name": "BETACORTEN G CREAM",
+        "registration": "050 42 23259 00",
+        "form": ""
+      },
+      {
+        "name": "BETACORTEN OINTMENT",
+        "registration": "050 44 23261 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BETACORTEN G CR 15GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

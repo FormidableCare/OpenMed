@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.122724"
+    "lastUpdated": "2025-08-01T17:36:07.970062",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TOPAMAX 100",
+        "registration": "107 57 29033 00",
+        "form": ""
+      },
+      {
+        "name": "TOPAMAX 200",
+        "registration": "107 58 29034 00",
+        "form": ""
+      },
+      {
+        "name": "TOPAMAX 25",
+        "registration": "107 55 29031 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TOPAMAX 100MG 60TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,20 @@
         "name": "מדי מרקט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +68,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.181326"
+    "lastUpdated": "2025-08-01T17:15:18.852774",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DIPYRONE KALCEKS 500 MG/ML",
+        "registration": "163 58 35578 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DIPYRONE KALCEKS1000 MG/2ML 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.011111111111111112,
+      "status": "failed_match"
+    }
   }
 }

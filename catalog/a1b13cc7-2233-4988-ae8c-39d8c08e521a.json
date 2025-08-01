@@ -1,10 +1,10 @@
 {
   "catalogId": "a1b13cc7-2233-4988-ae8c-39d8c08e521a",
-  "name": "V-MANTINE 10 MG",
+  "name": "V-MANTINE 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 05 34810 00",
+  "registrationNumber": "162 06 34808 00",
   "treatmentDescriptions": "Treatment of patients with moderate to severe Alzheimer's disease.",
   "termsOfIssue": "Prescription required",
   "form": "tablets orodispersible",
@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.867697"
-  }
+    "lastUpdated": "2025-08-01T17:50:39.294399",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "V-MANTINE 20 MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:39.294410",
+      "previousRegistration": "162 05 34810 00",
+      "newRegistration": "162 06 34808 00",
+      "apiSource": "V-MANTINE 20 MG"
+    }
+  },
+  "nameHebrew": "וי-מנטין 20 מ\"ג",
+  "registrationDate": "2024-03-31"
 }

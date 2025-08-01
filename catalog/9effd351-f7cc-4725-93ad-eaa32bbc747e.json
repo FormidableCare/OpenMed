@@ -1,10 +1,10 @@
 {
   "catalogId": "9effd351-f7cc-4725-93ad-eaa32bbc747e",
-  "name": "TUKYSA 150 MG",
+  "name": "TUKYSA 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 33 36951 99",
+  "registrationNumber": "170 32 36950 99",
   "treatmentDescriptions": "TUKYSA is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2-positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 88.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.852976"
-  }
+    "lastUpdated": "2025-08-01T15:46:30.241011",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TUKYSA 50 MG 88 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:46:30.241019",
+      "previousRegistration": "170 33 36951 99",
+      "newRegistration": "170 32 36950 99",
+      "apiSource": "TUKYSA 50 MG"
+    }
+  },
+  "nameHebrew": "טוקייסה 50 מ\"ג",
+  "registrationDate": "2022-08-04"
 }

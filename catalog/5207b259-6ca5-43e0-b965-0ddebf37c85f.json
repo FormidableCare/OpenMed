@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טקדה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.3,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 3.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.401557"
-  }
+    "lastUpdated": "2025-08-01T16:28:26.779346",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NINLARO 2.3 MG 3CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:28:26.779363",
+      "previousRegistration": "156 81 34609 00",
+      "newRegistration": "156 81 34609 00",
+      "apiSource": "NINLARO 2.3 MG"
+    }
+  },
+  "nameHebrew": "נינלארו 2.3 מ\"ג",
+  "registrationDate": "2021-07-31"
 }

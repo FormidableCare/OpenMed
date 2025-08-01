@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.355173"
+    "lastUpdated": "2025-08-01T16:21:15.602998",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "REAGILA 1.5",
+        "registration": "163 54 35920 00",
+        "form": ""
+      },
+      {
+        "name": "REAGILA 3",
+        "registration": "163 55 35921 00",
+        "form": ""
+      },
+      {
+        "name": "REAGILA 4.5",
+        "registration": "163 56 35922 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "REAGILA 1.5 30CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.037500000000000006,
+      "status": "failed_match"
+    }
   }
 }

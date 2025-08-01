@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.279101"
+    "lastUpdated": "2025-08-01T16:33:21.214511",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ARIPLY 10",
+        "registration": "149 03 33529 01",
+        "form": ""
+      },
+      {
+        "name": "ARIPLY 15",
+        "registration": "149 04 33574 01",
+        "form": ""
+      },
+      {
+        "name": "ARIPLY 30",
+        "registration": "149 97 33891 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ARIPLY 5MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

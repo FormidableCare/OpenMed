@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 18.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.457898"
+    "lastUpdated": "2025-08-01T17:37:30.661186",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SPIRIVA ®",
+        "registration": "133 47 31120 00",
+        "form": ""
+      },
+      {
+        "name": "SPIRIVA RESPIMAT",
+        "registration": "154 11 34255 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SPIRIVA 18MCG 30 HARD CAPS+HANDIHALER",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

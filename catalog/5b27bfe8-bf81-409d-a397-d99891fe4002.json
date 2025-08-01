@@ -57,6 +57,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.449629"
+    "lastUpdated": "2025-08-01T17:22:57.959222",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE",
+        "registration": "177 79 37046 99",
+        "form": ""
+      },
+      {
+        "name": "ADVIL COLD & SINUS",
+        "registration": "135 50 31178 00",
+        "form": ""
+      },
+      {
+        "name": "EPHEDRINE HCL STEROP 50 MG/1 ML",
+        "registration": "163 13 35347 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.05,
+      "status": "failed_match"
+    }
   }
 }

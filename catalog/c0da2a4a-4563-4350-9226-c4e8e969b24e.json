@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,35 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 51.510493,
         "maxPriceWithVAT": 60.78238174
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.067260"
+    "lastUpdated": "2025-08-01T17:18:02.419520",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NIFEDILONG 30",
+        "registration": "137 89 31415 00",
+        "form": ""
+      },
+      {
+        "name": "NIFEDILONG 60",
+        "registration": "137 21 31416 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NIFEDILONG 60MG 30SRTAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "68e48bd7-9dcc-4382-abc2-0e8c583ce849",
-  "name": "SIFROL ER 1.5 MG",
+  "name": "SIFROL TABLETS 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 97 33090 00",
+  "registrationNumber": "126 16 30501 00",
   "treatmentDescriptions": "Treatment of signs and symptoms of idiopathic Parkinson's disease, as monotherapy or in combination with levodopa.",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.537400"
-  }
+    "lastUpdated": "2025-08-01T17:42:44.213518",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SIFROL 1.0 MG 100 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:42:44.213528",
+      "previousRegistration": "144 97 33090 00",
+      "newRegistration": "126 16 30501 00",
+      "apiSource": "SIFROL TABLETS 1 MG"
+    }
+  },
+  "nameHebrew": "סיפרול 1 מ\"ג",
+  "registrationDate": "2022-07-31"
 }

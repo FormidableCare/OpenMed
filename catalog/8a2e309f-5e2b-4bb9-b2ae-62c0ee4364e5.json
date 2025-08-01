@@ -31,10 +31,12 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.743807"
+    "lastUpdated": "2025-08-01T15:49:04.522628",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ROPIAVENIR 2 MG/ML",
+        "registration": "179 58 38443 99",
+        "form": ""
+      },
+      {
+        "name": "ROPIVACAINE B.BRAUN 10 MG/ML",
+        "registration": "156 93 34315 00",
+        "form": ""
+      },
+      {
+        "name": "ROPIVACAINE B.BRAUN 2 MG/ML",
+        "registration": "156 92 34308 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ROPIVACAINE B.BRAUN 2 MG/ML 20 AMP 10ml",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

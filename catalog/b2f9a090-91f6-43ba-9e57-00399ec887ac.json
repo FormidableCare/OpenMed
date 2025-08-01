@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.968456"
+    "lastUpdated": "2025-08-01T17:28:24.705529",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OXALIPLATIN TEVA ®",
+        "registration": "142 23 31784 00",
+        "form": ""
+      },
+      {
+        "name": "OXALIPLATIN MEDAC 100 MG",
+        "registration": "137 25 31504 00",
+        "form": ""
+      },
+      {
+        "name": "OXALIPLATIN MEDAC 50 MG",
+        "registration": "137 24 31503 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OXALIPLATIN MEDAC 50MG/VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

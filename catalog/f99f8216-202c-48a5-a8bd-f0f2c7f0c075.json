@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "g"
+        },
+        {
+          "value": 3.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.414636"
-  }
+    "lastUpdated": "2025-08-01T16:58:25.165018",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SYNTHOMYCINE 3% OINT 10G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:58:25.165025",
+      "previousRegistration": "025 11 20849 00",
+      "newRegistration": "025 11 20849 00",
+      "apiSource": "SYNTHOMYCINE 3 %"
+    }
+  },
+  "nameHebrew": "סינטומיצין % 3",
+  "registrationDate": "2021-12-31"
 }

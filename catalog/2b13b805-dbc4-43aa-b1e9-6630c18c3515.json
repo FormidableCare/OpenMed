@@ -31,10 +31,12 @@
         "name": "פארמלוג'יק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 78.30052,
         "maxPriceWithVAT": 92.3946136
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.162878"
+    "lastUpdated": "2025-08-01T17:29:44.821364",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OXYTOCIN - GRINDEKS",
+        "registration": "165 47 35690 00",
+        "form": ""
+      },
+      {
+        "name": "OXYTOCIN PANPHARMA INJECTION  10 I.U./ML",
+        "registration": "124 93 30439 00",
+        "form": ""
+      },
+      {
+        "name": "PARTOVET VETERINARY",
+        "registration": "083 47 92369 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OXYTOCIN INJECTION BP 10AMP (10IU/ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16499999999999998,
+      "status": "failed_match"
+    }
   }
 }

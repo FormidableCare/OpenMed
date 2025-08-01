@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.359032"
+    "lastUpdated": "2025-08-01T17:32:31.413843",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADRENALINE AGUETTANT  0.1 MG/ML PRE-FILLED SYRINGE",
+        "registration": "174 89 36923 99",
+        "form": ""
+      },
+      {
+        "name": "ADRENALINE S.A.L.F 1 MG/ML",
+        "registration": "160 10 34515 00",
+        "form": ""
+      },
+      {
+        "name": "ADRENALINE SINTETICA 1 MG/ML",
+        "registration": "166 60 35988 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADRENALINE AGUETTANT  0.1 MG/ML 10ML 10 PFS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20833333333333334,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.368351"
-  }
+    "lastUpdated": "2025-08-01T16:49:46.342204",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PRIDE 100 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:46.342218",
+      "previousRegistration": "178 82 37379 99",
+      "newRegistration": "178 82 37379 99",
+      "apiSource": "AMISULPRIDE MEDO 100 MG"
+    }
+  },
+  "nameHebrew": "אמיסולפריד מדו 100 מ\"ג",
+  "registrationDate": "2025-01-28"
 }

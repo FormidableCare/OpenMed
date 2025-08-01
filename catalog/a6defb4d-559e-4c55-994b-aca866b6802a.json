@@ -1,10 +1,10 @@
 {
   "catalogId": "a6defb4d-559e-4c55-994b-aca866b6802a",
-  "name": "AUSTEDO 12 MG",
+  "name": "AUSTEDO 9 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 59 36156 00",
+  "registrationNumber": "166 58 36155 00",
   "treatmentDescriptions": "AUSTEDO is indicated in adults for the treatment of: • Chorea associated with Huntington’s disease  • Tardive dyskinesia",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 9.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -47,11 +49,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.889827"
-  }
+    "lastUpdated": "2025-08-01T17:41:02.720554",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AUSTEDO 9 MG 60 SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:41:02.720563",
+      "previousRegistration": "166 59 36156 00",
+      "newRegistration": "166 58 36155 00",
+      "apiSource": "AUSTEDO 9 MG"
+    }
+  },
+  "nameHebrew": "אוסטדו 9 מ\"ג",
+  "registrationDate": "2021-01-24"
 }

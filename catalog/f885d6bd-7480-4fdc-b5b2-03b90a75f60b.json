@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.408290"
+    "lastUpdated": "2025-08-01T16:32:53.890521",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACAMOL",
+        "registration": "020 16 20534 00",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL",
+        "registration": "128 74 25337 08",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL ® TEVA TABLETS",
+        "registration": "176 60 36645 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACAMOL FOCUS 30CAPLIOTS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -54,11 +54,41 @@
         "retailMargin": "",
         "maxRetailPrice": 9.89,
         "maxPriceWithVAT": 11.6702
-      }
+      },
+      "formulation": [
+        "capsule",
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.382533"
+    "lastUpdated": "2025-08-01T16:32:53.895144",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACAMOL",
+        "registration": "020 16 20534 00",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL",
+        "registration": "128 74 25337 08",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL ® TEVA TABLETS",
+        "registration": "176 60 36645 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACAMOL TSIN.LIQUI.GEL.10NIGHT CAPSULE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.15555555555555556,
+      "status": "failed_match"
+    }
   }
 }

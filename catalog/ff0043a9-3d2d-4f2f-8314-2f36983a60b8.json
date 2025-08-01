@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.446259"
+    "lastUpdated": "2025-08-01T17:26:57.607762",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VANCOAVENIR 1 G",
+        "registration": "153 18 34020 00",
+        "form": ""
+      },
+      {
+        "name": "VANCOAVENIR 500 MG",
+        "registration": "153 17 34018 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VANCOAVENIR 0.5G 10 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20714285714285716,
+      "status": "failed_match"
+    }
   }
 }

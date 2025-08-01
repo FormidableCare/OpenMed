@@ -1,10 +1,10 @@
 {
   "catalogId": "b61ca37a-dbd9-4eb6-a880-9f2cf301c44d",
-  "name": "TAGRISSO 40 MG",
+  "name": "TAGRISSO 80 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 86 34627 00",
+  "registrationNumber": "155 87 34654 00",
   "treatmentDescriptions": "Adjuvant Treatment of EGFR Mutation-Positive Non-Small Cell Lung Cancer (NSCLC)•\tTAGRISSO is indicated as adjuvant therapy after tumor resection in adult patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations.First-line Treatment of EGFR Mutation-Positive Locally Advanced or Metastatic NSCLC•\tTAGRISSO in combination with pemetrexed and platinum-based chemotherapy is indicated for the first line treatment of adult patients with locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations. Locally Advanced, Unresectable (Stage III) EGFR Mutation-Positive NSCLC •\tTAGRISSO is indicated for the treatment of adult patients with locally advanced, unresectable (stage III) NSCLC whose disease has not progressed during or following concurrent or sequential platinum-based chemoradiation therapy and whose tumors have EGFR exon 19 deletions or exon 21 L858R mutationsTAGRISSO as monotherapy is indicated for:•\tThe first-line treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with activating epidermal growth factor receptor (EGFR) mutations.•\tThe treatment of adult patients with locally advanced or metastatic EGFR T790M mutation-positive NSCLC.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.996276"
-  }
+    "lastUpdated": "2025-08-01T17:27:47.282186",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAGRISSO 80MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:27:47.282195",
+      "previousRegistration": "155 86 34627 00",
+      "newRegistration": "155 87 34654 00",
+      "apiSource": "TAGRISSO 80 MG"
+    }
+  },
+  "nameHebrew": "טאגריסו 80 מ\"ג",
+  "registrationDate": "2021-04-30"
 }

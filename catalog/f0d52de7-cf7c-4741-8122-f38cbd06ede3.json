@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.364346"
+    "lastUpdated": "2025-08-01T17:34:58.382711",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LETROZOLE DEXCEL",
+        "registration": "145 49 33275 00",
+        "form": ""
+      },
+      {
+        "name": "LETROZOLE TEVA ®",
+        "registration": "142 28 31878 01",
+        "form": ""
+      },
+      {
+        "name": "LETROZOLE FARMOZ",
+        "registration": "142 31 31918 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LETROZOLE DEXCEL 2.5MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

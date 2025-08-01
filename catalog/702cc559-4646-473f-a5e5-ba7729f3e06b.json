@@ -1,10 +1,10 @@
 {
   "catalogId": "702cc559-4646-473f-a5e5-ba7729f3e06b",
-  "name": "VESOMNI",
+  "name": "SOLIFENACIN MEDO 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 69 35421 00",
+  "registrationNumber": "178 80 37449 99",
   "treatmentDescriptions": "Treatment of moderate to severe storage symptoms (urgency, increased micturition frequency) and voiding symptoms associated with benign prostatic hyperplasia (BPH) in men who are not adequately responding to treatment with monotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "tablets modified release",
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.575424"
-  }
+    "lastUpdated": "2025-08-01T16:40:39.199138",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOLIFENACIN TEVA 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:39.199147",
+      "previousRegistration": "162 69 35421 00",
+      "newRegistration": "178 80 37449 99",
+      "apiSource": "SOLIFENACIN MEDO 10 MG"
+    }
+  },
+  "nameHebrew": "סוליפנאסין מדו 10 מ\"ג",
+  "registrationDate": "2025-01-27"
 }

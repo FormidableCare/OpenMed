@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרמה שלום",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.559545"
-  }
+    "lastUpdated": "2025-08-01T16:23:41.054053",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TELFAST 120MG 15TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:23:41.054057",
+      "previousRegistration": "108 90 29135 21",
+      "newRegistration": "108 90 29135 21",
+      "apiSource": "TELFAST 120 MG"
+    }
+  },
+  "nameHebrew": "טלפסט 120 מ\"ג",
+  "registrationDate": "2022-12-31"
 }

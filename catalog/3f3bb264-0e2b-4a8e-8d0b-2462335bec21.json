@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.306411"
+    "lastUpdated": "2025-08-01T15:27:59.783738",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NUROFEN GEL 5 %",
+        "registration": "134 23 31074 00",
+        "form": ""
+      },
+      {
+        "name": "NUROFEN TABLETS 200 MG",
+        "registration": "132 32 31025 00",
+        "form": ""
+      },
+      {
+        "name": "NUROFEN FOR CHILDREN SUPPOSITORIES 125 MG",
+        "registration": "142 89 32016 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NUROFEN COLD&FLU 24 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "93105422-d549-4adb-a378-63cf28a84953",
-  "name": "VFEND 200 MG POWDER FOR SOLUTION FOR INFUSION",
+  "name": "VFEND 200 MG FILM-COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "126 71 30598 12",
+  "registrationNumber": "126 70 30597 02",
   "treatmentDescriptions": "Treatment of :- invasive aspergillosis  fluconazole-resistant serious invasive Candida infections (including C. krusei) , - serious fungal infections caused by scedosporium spp. and fusarium spp.Vfend should be administered primarily to immunocompromised patients with progressive  possibly life-threatening infections.   - Treatment of candidemia in non neutropenic patients.- Prophylaxis of invasive fungal infections in high risk allogeneic hematopoietic stem cell transplant (HSCT) recipients.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.786736"
-  }
+    "lastUpdated": "2025-08-01T15:44:20.930547",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VFEND 200MG 14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:44:20.930555",
+      "previousRegistration": "126 71 30598 12",
+      "newRegistration": "126 70 30597 02",
+      "apiSource": "VFEND 200 MG FILM-COATED TABLETS"
+    }
+  },
+  "nameHebrew": "ויפנד 200 מ\"ג טבליות מצופות",
+  "registrationDate": "2022-10-31"
 }

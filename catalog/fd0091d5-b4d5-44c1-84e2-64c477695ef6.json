@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.434415"
+    "lastUpdated": "2025-08-01T16:50:41.984704",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ANAFRANIL 25 MG",
+        "registration": "108 06 24600 00",
+        "form": ""
+      },
+      {
+        "name": "ANAFRANIL SR 75 MG TABLETS",
+        "registration": "053 91 26407 00",
+        "form": ""
+      },
+      {
+        "name": "PRAMIN INJECTION",
+        "registration": "051 52 24303 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PRAMIN 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

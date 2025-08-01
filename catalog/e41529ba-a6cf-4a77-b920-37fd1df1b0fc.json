@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.292130"
+    "lastUpdated": "2025-08-01T15:28:17.498691",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABITREN TEVA ® 75 MG/3 ML",
+        "registration": "159 38 34860 00",
+        "form": ""
+      },
+      {
+        "name": "ABITREXATE TEVA",
+        "registration": "048 96 23819 05",
+        "form": ""
+      },
+      {
+        "name": "ABIPLATIN TEVA",
+        "registration": "031 30 25429 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ABITREN 50MG 10SUPP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20625000000000002,
+      "status": "failed_match"
+    }
   }
 }

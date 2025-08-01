@@ -1,10 +1,10 @@
 {
   "catalogId": "890b4217-5d3e-4427-89aa-234cb57b0233",
-  "name": "XELJANZ 1 MG/ML",
+  "name": "XELJANZ 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 47 37836 99",
+  "registrationNumber": "170 18 35747 00",
   "treatmentDescriptions": "XELJANZ 1 MG/ML is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (rheumatoid factor positive [RF+] or negative [RF-] polyarthritis and extended oligoarthritis), and juvenile psoriatic arthritis (PsA) in patients 2 years of age and older, who have responded inadequately to previous therapy with disease modifying antirheumatic drugs (DMARDs). XELJANZ 1 MG/ML can be given in combination with methotrexate (MTX) or as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.",
   "termsOfIssue": "Prescription required",
   "form": "oral solution",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.738180"
-  }
+    "lastUpdated": "2025-08-01T16:02:35.507894",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XELJANZ 10 MG 60 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:02:35.507905",
+      "previousRegistration": "176 47 37836 99",
+      "newRegistration": "170 18 35747 00",
+      "apiSource": "XELJANZ 10 MG"
+    }
+  },
+  "nameHebrew": "קסלג'אנז 10 מ\"ג",
+  "registrationDate": "2022-07-18"
 }

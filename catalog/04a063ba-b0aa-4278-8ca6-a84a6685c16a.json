@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 0.5,
         "unit": "units"
@@ -57,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.915535"
+    "lastUpdated": "2025-08-01T15:41:17.521850",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HYPERHEP B S/D",
+        "registration": "127 10 27800 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HYPERHEP B S/D 0.5ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

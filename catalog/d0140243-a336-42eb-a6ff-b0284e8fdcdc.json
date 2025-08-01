@@ -31,10 +31,12 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 250.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.176124"
+    "lastUpdated": "2025-08-01T15:33:24.117154",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IODIFLOR OINTMENT",
+        "registration": "141 02 31802 00",
+        "form": ""
+      },
+      {
+        "name": "IODIFLOR SOAP CLEANSER",
+        "registration": "061 39 27623 00",
+        "form": ""
+      },
+      {
+        "name": "IODIFLOR SOLUTION",
+        "registration": "061 40 27622 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IODIFLOR OINTMENT 250MG",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

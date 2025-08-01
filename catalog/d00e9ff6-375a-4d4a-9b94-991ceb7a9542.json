@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,58 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.175810"
+    "lastUpdated": "2025-08-01T15:20:22.322976",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.01",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:03:33.106499",
+      "csvSource": "SIMVAXON 20MG 30TAB",
+      "bestMatchScore": 0.0125,
+      "availableApiOptions": [
+        {
+          "name": "SIMVAXON 10",
+          "registration": "132 83 31147 00",
+          "form": ""
+        },
+        {
+          "name": "SIMVAXON 20",
+          "registration": "132 84 31148 00",
+          "form": ""
+        },
+        {
+          "name": "SIMVAXON 40",
+          "registration": "132 85 31149 00",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "SIMVAXON 10",
+        "registration": "132 83 31147 00",
+        "form": ""
+      },
+      {
+        "name": "SIMVAXON 20",
+        "registration": "132 84 31148 00",
+        "form": ""
+      },
+      {
+        "name": "SIMVAXON 40",
+        "registration": "132 85 31149 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SIMVAXON 20MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

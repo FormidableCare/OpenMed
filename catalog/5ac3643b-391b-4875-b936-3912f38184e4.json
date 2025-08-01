@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.447436"
+    "lastUpdated": "2025-08-01T17:28:52.555643",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KUVAN",
+        "registration": "144 23 33052 01",
+        "form": ""
+      },
+      {
+        "name": "KUVAN",
+        "registration": "144 23 33052 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KUVAN 100MG 120TAB SOLUBLE",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

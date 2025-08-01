@@ -1,10 +1,10 @@
 {
   "catalogId": "9bd5f02e-e28b-412c-8c38-45386707305b",
-  "name": "ARANESP 100 MCG",
+  "name": "ARANESP 20 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "124 46 30400 00",
+  "registrationNumber": "124 40 30394 00",
   "treatmentDescriptions": "Aranesp ® is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients &#8805; 1 year of age",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.836461"
-  }
+    "lastUpdated": "2025-08-01T15:42:57.074790",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARANESP 20MCG 4 PREFILLED SYR 0.5ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:42:57.074803",
+      "previousRegistration": "124 46 30400 00",
+      "newRegistration": "124 40 30394 00",
+      "apiSource": "ARANESP 20 MCG"
+    }
+  },
+  "nameHebrew": "אראנספ 20 מק\"ג",
+  "registrationDate": "2021-12-31"
 }

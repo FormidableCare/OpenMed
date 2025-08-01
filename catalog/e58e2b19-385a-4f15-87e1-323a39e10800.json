@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,11 +55,40 @@
         "retailMargin": "",
         "maxRetailPrice": 42.65,
         "maxPriceWithVAT": 50.327
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.300706"
+    "lastUpdated": "2025-08-01T16:16:20.269244",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADEX 200",
+        "registration": "039 71 26007 00",
+        "form": ""
+      },
+      {
+        "name": "ADEX LIQUID  GELCAPSULES 200 - NEW",
+        "registration": "169 63 35888 00",
+        "form": ""
+      },
+      {
+        "name": "ADEX LIQUID GEL CAPSULES 400 - NEW",
+        "registration": "169 64 35847 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADEX LIQUIGEL 400MG 20CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

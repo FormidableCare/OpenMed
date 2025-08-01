@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 250.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.429965"
+    "lastUpdated": "2025-08-01T15:46:40.548422",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IODO-VIT VETERINARY OINTMENT",
+        "registration": "083 26 92362 00",
+        "form": ""
+      },
+      {
+        "name": "IODO-VIT VETERINARY SOLUTION",
+        "registration": "083 35 92361 00",
+        "form": ""
+      },
+      {
+        "name": "IODO-VIT OINTMENT",
+        "registration": "116 51 28128 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IODO-VIT OINT 250GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

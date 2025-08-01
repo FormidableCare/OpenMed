@@ -1,10 +1,10 @@
 {
   "catalogId": "17d781df-c17c-4249-a0b5-619496f461b7",
-  "name": "ENTEAVENIR 0.5 MG",
+  "name": "ENTEAVENIR 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 96 36713 99",
+  "registrationNumber": "166 97 36714 99",
   "treatmentDescriptions": "Enteavenir is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with: -  Compensated liver disease and evidence of active viral replication, and persistently elevated serum alanine aminotransferase (ALT) levels. -  Decompensated liver disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.046681"
-  }
+    "lastUpdated": "2025-08-01T17:34:48.044459",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ENTEAVENIR 1 MG 10 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:34:48.044466",
+      "previousRegistration": "166 96 36713 99",
+      "newRegistration": "166 97 36714 99",
+      "apiSource": "ENTEAVENIR 1 MG"
+    }
+  },
+  "nameHebrew": "אנטאבניר 1 מ\"ג",
+  "registrationDate": "2021-03-21"
 }

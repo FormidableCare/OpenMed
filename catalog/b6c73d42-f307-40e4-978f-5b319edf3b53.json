@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.001339"
-  }
+    "lastUpdated": "2025-08-01T17:12:42.549565",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MOXYPEN FTE 500MG 10CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:12:42.549580",
+      "previousRegistration": "130 22 30823 00",
+      "newRegistration": "130 22 30823 00",
+      "apiSource": "MOXYPEN ® FORTE 500 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "מוקסיפן  ® פורטה 500 מ\"ג כמוסות",
+  "registrationDate": "2024-01-31"
 }

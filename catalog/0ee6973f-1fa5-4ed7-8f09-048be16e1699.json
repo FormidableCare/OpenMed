@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.983391"
-  }
+    "lastUpdated": "2025-08-01T16:38:37.203174",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BALVERSA 3 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:37.203178",
+      "previousRegistration": "165 77 36132 00",
+      "newRegistration": "165 77 36132 00",
+      "apiSource": "BALVERSA 3 MG"
+    }
+  },
+  "nameHebrew": "בלוורסה 3 מ\"ג",
+  "registrationDate": "2020-11-10"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "61ff34cd-4482-4d4c-90c7-7b41946a63c2",
-  "name": "IMURAN TABLETS 25 MG",
+  "name": "IMURAN TABLETS 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "034 79 25384 00",
+  "registrationNumber": "042 65 22964 00",
   "treatmentDescriptions": "Immunosuppressive agent used in transplantation surgery for suppression of graft rejection. For special cases of rheumatoid arthritis- not responsive to other agents- and only by rheumatology experts in hospitals or rheumatic clinics.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.481720"
-  }
+    "lastUpdated": "2025-08-01T16:49:16.826058",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMURAN 50MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:49:16.826072",
+      "previousRegistration": "034 79 25384 00",
+      "newRegistration": "042 65 22964 00",
+      "apiSource": "IMURAN TABLETS 50 MG"
+    }
+  },
+  "nameHebrew": "אימוראן טבליות 50 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

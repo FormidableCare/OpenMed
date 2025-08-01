@@ -1,10 +1,10 @@
 {
   "catalogId": "6e316340-11f2-4cb2-93d3-b8f1606ae7f3",
-  "name": "JANUVIA 100 MG",
+  "name": "JANUVIA 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "138 15 31556 00",
+  "registrationNumber": "138 13 31554 00",
   "treatmentDescriptions": "Januvia is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus.Important limitations of use:Januvia should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings.Januvia has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using Januvia.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.566051"
-  }
+    "lastUpdated": "2025-08-01T16:02:52.743127",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JANUVIA 25MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:02:52.743142",
+      "previousRegistration": "138 15 31556 00",
+      "newRegistration": "138 13 31554 00",
+      "apiSource": "JANUVIA 25 MG"
+    }
+  },
+  "nameHebrew": "ג'נוביה 25 מ\"ג",
+  "registrationDate": "2023-03-31"
 }

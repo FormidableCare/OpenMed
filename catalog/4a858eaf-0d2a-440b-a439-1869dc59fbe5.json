@@ -1,10 +1,10 @@
 {
   "catalogId": "4a858eaf-0d2a-440b-a439-1869dc59fbe5",
-  "name": "RAFASSAL 4 GRAM ENEMA",
+  "name": "RAFASSAL 1 GRAM GRANULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "029 58 25321 00",
+  "registrationNumber": "151 72 33698 01",
   "treatmentDescriptions": "Treatment and prevention of ulcerative colitis and Crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "enema",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        },
+        {
+          "value": 50.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.363276"
-  }
+    "lastUpdated": "2025-08-01T16:40:05.757352",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RAFASSAL 1 G 50 GRANULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:05.757370",
+      "previousRegistration": "029 58 25321 00",
+      "newRegistration": "151 72 33698 01",
+      "apiSource": "RAFASSAL 1 GRAM GRANULES"
+    }
+  },
+  "nameHebrew": "רפאסאל 1 גרם גרגירים",
+  "registrationDate": "2019-03-31"
 }

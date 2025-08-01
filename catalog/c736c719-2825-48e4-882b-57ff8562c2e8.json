@@ -1,10 +1,10 @@
 {
   "catalogId": "c736c719-2825-48e4-882b-57ff8562c2e8",
-  "name": "AUVELITY ®",
+  "name": "BUPROPION HYDROCHLORIDE 300 MG XR TALETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "177 80 37881 99",
+  "registrationNumber": "171 58 37134 99",
   "treatmentDescriptions": "AUVELITY is indicated for the treatment of major depressive disorder (MDD) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "tablets extended release",
@@ -31,10 +31,12 @@
         "name": "אופק פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.106849"
-  }
+    "lastUpdated": "2025-08-01T16:38:04.068860",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUPROPION HCL 300 MG XR 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8222222222222223,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:04.068871",
+      "previousRegistration": "177 80 37881 99",
+      "newRegistration": "171 58 37134 99",
+      "apiSource": "BUPROPION HYDROCHLORIDE 300 MG XR TALETS"
+    }
+  },
+  "nameHebrew": "בופרופיון 300 מ\"ג טבליות בשחרור מתמשך",
+  "registrationDate": "2023-01-26"
 }

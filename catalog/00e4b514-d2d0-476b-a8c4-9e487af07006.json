@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.881889"
-  }
+    "lastUpdated": "2025-08-01T16:33:42.998669",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REMSIMA 100 MG 1VIAL 20ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:33:42.998677",
+      "previousRegistration": "154 60 34158 00",
+      "newRegistration": "154 60 34158 00",
+      "apiSource": "REMSIMA 100 MG I.V."
+    }
+  },
+  "nameHebrew": "רמסימה 100 מ\"ג תוך-ורידי",
+  "registrationDate": "2020-09-30"
 }

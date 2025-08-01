@@ -1,10 +1,10 @@
 {
   "catalogId": "f848fd30-3d5f-475f-a20f-168ddce8dcbd",
-  "name": "QUETIAPINE SANDOZ ® 150 MG PRT",
+  "name": "SEROQUEL XR 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 02 35776 00",
+  "registrationNumber": "141 89 31973 00",
   "treatmentDescriptions": "Quetiapine Sandoz PRT is indicated for the treatment of Schizophrenia. Quetiapine Sandoz PRT is effective in preventing relapse in stable schizophrenic patients who have been maintained on Quetiapine Sandoz PRT. Quetiapine Sandoz PRT  is indicated for the treatment of moderate to severe manic episodes associated with bipolar disorder.Treatment of acute mania associated with bipolar I disorder as monotherapy or in combination with lithium or sodium valproate. Quetiapine Sandoz PRT is indicated for the treatment of major depressive episodes in bipolar disorder. Quetiapine Sandoz PRT is indicated for preventing recurrence in bipolar disorder in patients whose manic, mixed or depressive episode has responded to quetiapine treatment as monotherapy or in combination with lithium or sodium valproate. Quetiapine Sandoz PRT is indicated for add-on treatment of major depressive episods in patients with Major Depressive Disorder (MDD) who have had sub-optimal response to antidepressant monotherapy . Prior to initiating treatment, clinicians should consider the safety profile of Quetiapine Sandoz PRT.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.407214"
-  }
+    "lastUpdated": "2025-08-01T17:24:28.177715",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QUETIAPINE SANDOZ  50 MG  30 PRT",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:24:28.177724",
+      "previousRegistration": "166 02 35776 00",
+      "newRegistration": "141 89 31973 00",
+      "apiSource": "SEROQUEL XR 50 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל אקס.אר 50 מ\"ג",
+  "registrationDate": "2024-10-31"
 }

@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.518790"
+    "lastUpdated": "2025-08-01T15:44:10.285582",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MOVEX TABLETS",
+        "registration": "124 50 27560 00",
+        "form": ""
+      },
+      {
+        "name": "MOVEX SOLUTION",
+        "registration": "063 08 27462 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MOVEX 8MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

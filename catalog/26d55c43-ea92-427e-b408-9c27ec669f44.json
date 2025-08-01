@@ -1,10 +1,10 @@
 {
   "catalogId": "26d55c43-ea92-427e-b408-9c27ec669f44",
-  "name": "ROSUVASTATIN SANDOZ 10 MG",
+  "name": "CRESTOR ® 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 39 35574 00",
+  "registrationNumber": "129 76 30800 00",
   "treatmentDescriptions": "Primary hypercholesterolaemia (type IIa including heterozygous familial hypercholesterolaemia) or mixed dyslipidaemia (type IIb) as an adjunct to diet when response to diet and other non-pharmacological treatments (e.g. exercise weight reduction) is inadequate. Homozygous familial hypercholesterolaemia as adjunct to diet and other lipid lowering treatments (e.g. LDL apheresis) or if such treatments are not appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.134784"
-  }
+    "lastUpdated": "2025-08-01T15:25:36.657549",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ROSUVASTATIN SANDOZ 40 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:25:36.657561",
+      "previousRegistration": "162 39 35574 00",
+      "newRegistration": "129 76 30800 00",
+      "apiSource": "CRESTOR ® 40 MG"
+    }
+  },
+  "nameHebrew": "קרסטור  ® 40 מ\"ג",
+  "registrationDate": "2023-08-31"
 }

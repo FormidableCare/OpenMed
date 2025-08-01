@@ -1,10 +1,10 @@
 {
   "catalogId": "a424974f-7207-4b99-b6df-e9fb5619a07a",
-  "name": "VOLIBRIS 10 MG",
+  "name": "VOLIBRIS 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "140 09 31884 00",
+  "registrationNumber": "140 08 31883 00",
   "treatmentDescriptions": "Volibris is indicated for treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, including use in combination treatment with tadalafil.Efficacy has been shown in idiopathic PAH (IPAH) and in PAH associated with connective tissue disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 3368.387,
         "maxPriceWithVAT": 3974.69666
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.877638"
-  }
+    "lastUpdated": "2025-08-01T16:10:16.358298",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VOLIBRIS 5 MG FC 30 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:10:16.358315",
+      "previousRegistration": "140 09 31884 00",
+      "newRegistration": "140 08 31883 00",
+      "apiSource": "VOLIBRIS 5 MG"
+    }
+  },
+  "nameHebrew": "ווליבריס 5 מ\"ג",
+  "registrationDate": "2024-01-31"
 }

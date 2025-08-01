@@ -1,10 +1,10 @@
 {
   "catalogId": "fd60dcab-74d6-434d-adcf-ca375d59db10",
-  "name": "TALZENNA 0.25 MG",
+  "name": "TALZENNA 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 07 36019 00",
+  "registrationNumber": "164 08 36033 00",
   "treatmentDescriptions": "TALZENNA is indicated for the treatment of adult patients with deleterious or suspected deleterious germline breast cancer susceptibility gene (BRCA) mutated (gBRCAm) human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.435941"
-  }
+    "lastUpdated": "2025-08-01T16:51:54.416736",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TALZENNA 1 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:51:54.416751",
+      "previousRegistration": "164 07 36019 00",
+      "newRegistration": "164 08 36033 00",
+      "apiSource": "TALZENNA 1 MG"
+    }
+  },
+  "nameHebrew": "טלזנה 1 מ\"ג",
+  "registrationDate": "2025-02-28"
 }

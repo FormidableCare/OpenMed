@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.823407"
+    "lastUpdated": "2025-08-01T16:05:13.136147",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OLATUTON 10 MG",
+        "registration": "169 38 36088 00",
+        "form": ""
+      },
+      {
+        "name": "OLATUTON 20 MG",
+        "registration": "169 39 36089 00",
+        "form": ""
+      },
+      {
+        "name": "OLATUTON 30 MG",
+        "registration": "169 40 36090 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OCTREOTIDE BENDALIS 0.5 MG/ML 5 AMPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.04285714285714286,
+      "status": "failed_match"
+    }
   }
 }

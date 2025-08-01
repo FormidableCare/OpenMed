@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 503.6097,
         "maxPriceWithVAT": 594.259446
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.132313"
+    "lastUpdated": "2025-08-01T16:13:07.080022",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DEXIMUNE 100",
+        "registration": "124 48 30358 11",
+        "form": ""
+      },
+      {
+        "name": "DEXIMUNE 25",
+        "registration": "124 49 30359 11",
+        "form": ""
+      },
+      {
+        "name": "DEXIMUNE 50",
+        "registration": "126 73 30601 11",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DEXIMUNE 100MG 50 CAPSULES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

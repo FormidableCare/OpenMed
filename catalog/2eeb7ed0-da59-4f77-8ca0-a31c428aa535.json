@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.191603"
+    "lastUpdated": "2025-08-01T16:28:33.399114",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SILVEROL CREAM",
+        "registration": "020 56 20515 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SILVER NITRATE 75% BOTTLE 100 APPLICATORS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.369944"
+    "lastUpdated": "2025-08-01T16:50:01.934537",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NUEDEXTA",
+        "registration": "149 88 33554 00",
+        "form": ""
+      },
+      {
+        "name": "NUEDEXTA",
+        "registration": "149 88 33554 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "QUINIDINE SULFATE 200MG 30 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

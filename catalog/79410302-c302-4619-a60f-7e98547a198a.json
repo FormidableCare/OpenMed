@@ -1,10 +1,10 @@
 {
   "catalogId": "79410302-c302-4619-a60f-7e98547a198a",
-  "name": "AGISTEN ALOEVERA CREAM",
+  "name": "AGISTEN V 0.5 G. VAGINAL TABLET",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "043 17 22461 00",
+  "registrationNumber": "031 74 25210 00",
   "treatmentDescriptions": "For the treatment of fungal infections of the skin and mucosa caused by dermatophytes, yeasts, molds and other fungi such as Malassezia furfur, as well as skin infections caused by Corynebacterium minutissimum.Indicated also for Candida Vulvitis and Candida balanitis.",
   "termsOfIssue": "",
   "form": "cream",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.620938"
-  }
+    "lastUpdated": "2025-08-01T15:29:01.140381",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AGISTEN 1 VAGINAL TAB  0.5GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8150000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:01.140390",
+      "previousRegistration": "043 17 22461 00",
+      "newRegistration": "031 74 25210 00",
+      "apiSource": "AGISTEN V 0.5 G. VAGINAL TABLET"
+    }
+  },
+  "nameHebrew": "אגיסטן וי 0.5 גרם טבליה ואגינלית",
+  "registrationDate": "2023-03-31"
 }

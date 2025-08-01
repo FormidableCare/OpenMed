@@ -1,10 +1,10 @@
 {
   "catalogId": "587907e5-e225-4053-b951-82732706c85d",
-  "name": "BOSENTAN TEVA ® 125 MG",
+  "name": "BOSENTAN TEVA ® 62.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 02 34906 00",
+  "registrationNumber": "162 01 34905 00",
   "treatmentDescriptions": "Treatment of pulmonary arterial hypertension (PAH) in patients of WHO functional class II-IV.Reduction in the number of new digital ulcers in patients with systemic sclerosis with active digital ulcer disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 62.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.436708"
-  }
+    "lastUpdated": "2025-08-01T17:48:40.531003",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BOSENTAN TEVA ® 62.5 MG 60 tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:48:40.531015",
+      "previousRegistration": "162 02 34906 00",
+      "newRegistration": "162 01 34905 00",
+      "apiSource": "BOSENTAN TEVA ® 62.5 MG"
+    }
+  },
+  "nameHebrew": "בוסנטן טבע ® 62.5 מ\"ג",
+  "registrationDate": "2024-03-31"
 }

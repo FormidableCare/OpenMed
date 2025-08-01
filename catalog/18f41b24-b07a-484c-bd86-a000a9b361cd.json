@@ -1,10 +1,10 @@
 {
   "catalogId": "18f41b24-b07a-484c-bd86-a000a9b361cd",
-  "name": "CLOPIXOL 10 MG TABLETS",
+  "name": "CLOPIXOL 25 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "047 86 25486 00",
+  "registrationNumber": "047 85 25487 00",
   "treatmentDescriptions": "Acute schizophrenia .Other acute psychoses.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.053078"
-  }
+    "lastUpdated": "2025-08-01T16:39:12.609951",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CLOPIXOL 25MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:39:12.609970",
+      "previousRegistration": "047 86 25486 00",
+      "newRegistration": "047 85 25487 00",
+      "apiSource": "CLOPIXOL 25 MG TABLETS"
+    }
+  },
+  "nameHebrew": "קלופיקסול 25 מ\"ג טבליות",
+  "registrationDate": "2020-04-30"
 }

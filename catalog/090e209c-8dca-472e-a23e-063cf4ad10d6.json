@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "אומריקס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 200.0,
         "unit": "units"
@@ -54,11 +60,28 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2680.955398,
         "maxPriceWithVAT": 3163.527229
-      }
+      },
+      "formulation": [
+        "injection",
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.945045"
-  }
+    "lastUpdated": "2025-08-01T15:31:22.477053",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OMR-IGG-AM 5% SOLUTION FOR INJECTION 200ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:31:22.477066",
+      "previousRegistration": "127 54 30698 00",
+      "newRegistration": "127 54 30698 00",
+      "apiSource": "OMR-IGG-AM 5 %"
+    }
+  },
+  "nameHebrew": "אומר-יג-אם % 5",
+  "registrationDate": "2023-06-30"
 }

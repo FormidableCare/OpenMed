@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "g"
+        },
+        {
+          "value": 60.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.841906"
-  }
+    "lastUpdated": "2025-08-01T16:40:05.753379",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RAFASSAL ENEMA  7X 4GRX60ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:05.753386",
+      "previousRegistration": "029 58 25321 00",
+      "newRegistration": "029 58 25321 00",
+      "apiSource": "RAFASSAL 4 GRAM ENEMA"
+    }
+  },
+  "nameHebrew": "ראפאסאל 4 חוקן  גרם",
+  "registrationDate": "2022-11-30"
 }

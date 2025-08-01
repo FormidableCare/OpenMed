@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.933679"
+    "lastUpdated": "2025-08-01T17:35:35.020604",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP STRAWBERRY FLAVOUR",
+        "registration": "140 18 31762 00",
+        "form": ""
+      },
+      {
+        "name": "ACAMOLI ® FORTE 50 MG/ML SYRUP TUTTI-FRUTTI FLAVOUR",
+        "registration": "140 17 31761 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACAMOLI SYR FOR BIG KIDS STRAB 100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0035714285714285713,
+      "status": "failed_match"
+    }
   }
 }

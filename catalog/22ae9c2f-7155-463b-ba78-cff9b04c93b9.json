@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.109150"
+    "lastUpdated": "2025-08-01T15:56:57.705751",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HUMALOG",
+        "registration": "102 83 28580 00",
+        "form": ""
+      },
+      {
+        "name": "HUMALOG",
+        "registration": "102 83 28580 22",
+        "form": ""
+      },
+      {
+        "name": "HUMALOG MIX 25 KWIKPEN",
+        "registration": "143 45 33217 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HUMALOG KWIKPEN 200 U/ML 5*3 ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03571428571428572,
+      "status": "failed_match"
+    }
   }
 }

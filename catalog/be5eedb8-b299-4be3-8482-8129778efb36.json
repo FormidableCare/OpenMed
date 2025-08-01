@@ -31,10 +31,12 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.049962"
+    "lastUpdated": "2025-08-01T17:24:17.848050",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SPIRIT WHITFIELD FLORIS",
+        "registration": "060 91 27485 00",
+        "form": ""
+      },
+      {
+        "name": "SPIRIT SALICYL 2%",
+        "registration": "064 30 28131 00",
+        "form": ""
+      },
+      {
+        "name": "SPIRIT SALICYL 2% FLORIS",
+        "registration": "060 92 27486 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SPIRIT WHITFIELD  100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

@@ -25,10 +25,12 @@
         "name": "סם און",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,6 +55,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.423507"
+    "lastUpdated": "2025-08-01T15:59:47.157056",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KALBETEN TABLETS",
+        "registration": "114 90 29652 00",
+        "form": ""
+      },
+      {
+        "name": "KALBETEN FORTE CAPLETS",
+        "registration": "140 95 31841 00",
+        "form": ""
+      },
+      {
+        "name": "KALBETEN FORTE SUSPENSION",
+        "registration": "131 72 30868 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KALBETEN SUSP 100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

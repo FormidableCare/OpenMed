@@ -1,10 +1,10 @@
 {
   "catalogId": "d141a6cf-8ed3-43fc-ad7d-9b50938b77fe",
-  "name": "ADEMPAS 0.5 MG",
+  "name": "ADEMPAS 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 76 34132 01",
+  "registrationNumber": "153 77 34137 01",
   "treatmentDescriptions": "Chronic thromboembolic pulmonary hypertension (CTEPH) Adempas is indicated for the treatment of adult patients with WHO Functional Class (FC) II to III with\t• inoperable CTEPH, • persistent or recurrent CTEPH after surgical treatment, to improve exercise capacity. Pulmonary arterial hypertension (PAH)Adempas, as monotherapy or in combination with endothelin receptor antagonists, is indicated for the treatment of adult patients with pulmonary arterial hypertension (PAH) with WHO Functional Class (FC) II to III to improve exercise capacity.Efficacy has been shown in a PAH population including aetiologies of idiopathic or heritable PAH or PAH associated with connective tissue disease.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 42.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.184699"
-  }
+    "lastUpdated": "2025-08-01T16:03:45.733852",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ADEMPAS 1MG 42TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:03:45.733858",
+      "previousRegistration": "153 76 34132 01",
+      "newRegistration": "153 77 34137 01",
+      "apiSource": "ADEMPAS 1 MG"
+    }
+  },
+  "nameHebrew": "אדמפאס 1 מ\"ג",
+  "registrationDate": "2020-03-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "6b3a9b37-de97-4d26-9dac-dd8b56f0e16c",
-  "name": "SEROQUEL 100 MG",
+  "name": "SEROQUEL 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "109 40 29314 00",
+  "registrationNumber": "135 33 31257 00",
   "treatmentDescriptions": "Indicated for the treatment of schizophrenia.   Treatment of manic episodes associated with bipolar disorder. Treatment of major depressive episodes in bipolar disorders.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.549438"
-  }
+    "lastUpdated": "2025-08-01T16:26:24.114627",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEROQUEL 300MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:26:24.114631",
+      "previousRegistration": "109 40 29314 00",
+      "newRegistration": "135 33 31257 00",
+      "apiSource": "SEROQUEL 300 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל 300 מ\"ג",
+  "registrationDate": "2021-09-30"
 }

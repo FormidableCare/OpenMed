@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 35.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.301495"
+    "lastUpdated": "2025-08-01T15:41:47.263137",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZOVIRAX",
+        "registration": "126 38 30532 00",
+        "form": ""
+      },
+      {
+        "name": "ZOVIRAX I.V.",
+        "registration": "034 33 21976 05",
+        "form": ""
+      },
+      {
+        "name": "ZOVIRAX TABLETS 200 MG",
+        "registration": "126 41 30640 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZOVIRAX 800MG 35 DISPERS TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20625000000000002,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.354291"
-  }
+    "lastUpdated": "2025-08-01T15:58:30.976448",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZINNAT 125MG 10TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:30.976453",
+      "previousRegistration": "041 40 25801 00",
+      "newRegistration": "041 40 25801 00",
+      "apiSource": "ZINNAT TABLETS 125 MG"
+    }
+  },
+  "nameHebrew": "זינט טבליות 125 מ\"ג",
+  "registrationDate": "2024-06-30"
 }

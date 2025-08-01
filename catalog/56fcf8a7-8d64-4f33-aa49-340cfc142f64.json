@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.429016"
+    "lastUpdated": "2025-08-01T16:08:33.451832",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LITORVA 10",
+        "registration": "145 31 33305 01",
+        "form": ""
+      },
+      {
+        "name": "LITORVA 10",
+        "registration": "145 31 33305 00",
+        "form": ""
+      },
+      {
+        "name": "LITORVA 20",
+        "registration": "145 32 33307 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LITORVA 20MG 30 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

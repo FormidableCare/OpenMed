@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.890487"
+    "lastUpdated": "2025-08-01T17:10:40.256451",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KALGARON ORANGE",
+        "registration": "163 63 36018 00",
+        "form": ""
+      },
+      {
+        "name": "KALGARON MINT",
+        "registration": "163 62 35352 00",
+        "form": ""
+      },
+      {
+        "name": "KALGARON STRAWBERY",
+        "registration": "163 61 35351 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KALGARON  MINT 24 LOZENGES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

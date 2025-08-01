@@ -1,10 +1,10 @@
 {
   "catalogId": "df3d70f1-fc72-4f97-9993-a83324d022db",
-  "name": "ONDANSETRON INOVAMED 4 MG",
+  "name": "ONDANSETRON INOVAMED 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 95 34231 00",
+  "registrationNumber": "152 96 34210 00",
   "treatmentDescriptions": "Adults : Ondansetron Inovamed is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy and radiotherapy. For prevention and treatment of post operative nausea and vomiting (PONV).Pediatric population : Ondansetron Inovamed is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.262737"
-  }
+    "lastUpdated": "2025-08-01T17:55:28.045393",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ONDANSETRON INOVAMED 8 MG 10 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:55:28.045398",
+      "previousRegistration": "152 95 34231 00",
+      "newRegistration": "152 96 34210 00",
+      "apiSource": "ONDANSETRON INOVAMED 8 MG"
+    }
+  },
+  "nameHebrew": "אונדנסטרון אינובמד 8 מ\"ג",
+  "registrationDate": "2019-10-31"
 }

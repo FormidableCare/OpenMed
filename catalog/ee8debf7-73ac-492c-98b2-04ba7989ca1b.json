@@ -1,10 +1,10 @@
 {
   "catalogId": "ee8debf7-73ac-492c-98b2-04ba7989ca1b",
-  "name": "VANCOMYCIN LYOMARK 1000 MG",
+  "name": "VANCOMYCIN LYOMARK 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 97 34033 00",
+  "registrationNumber": "156 96 34029 00",
   "treatmentDescriptions": "Vancomycin hydrochloride is indicated for the treatment of severe or serious infections due to susceptible strains of methicillin - resistant (beta-Iactam-resistant) staphylococci. It is also indicated for administration to penicillin-allergic patients  as well patients who have failed to respond to  or who cannot receive other drugs  including cephalosporins or penicillins and for infections due to vancomycin-susceptible organisms that are resistant to other antimicrobial drugs.Vancomycin hydrochloride is indicated for first-line therapy when methicillin-resistant staphylococci are suspected  but when susceptibility data become available  appropriate therapy should be instituted.  Vancomycin hydrochloride is effective in the treatment of staphylococcal endocarditis as well as in other infections due to staphylococci  including lower respiratory tract infections  septicemia  skin and skin - structure infection and bone infections. Antibiotic therapy is as an adjunct to appropriate surgical measures when staphylococcal infections are purulent and localized.  For endocarditis due to Streptococcus viridans or Streptococcus bovis  vancomycin hydrochloride has been shown to be effective in combination with an aminoglycoside. Vancomycin hydrochloride has been shown to be effective only in combination with an aminoglycoside for endocarditis due to enterococci (eg  Enterococcus fecalis).   Vancomycin hydrochloride has been shown to be effective for the treatment of diphtheroid endocareditis. In early-onset prosthetic valve endocarditis caused by Staphylococcus epidermidis or diptheroids  vancomycin hydrochloride has been administered successfully in combination with either rifampin  an aminoglycoside or combined with both drugs.  Bacteriologic cultures of specimens should be obtained for isolation and identification of causative organisms and determination of susceptibilities to vancomycin hydrochloride.  Oral Therapy:Vancomycin hydrochloride injection may be given orally for the treatment of antibiotic-associated Pseudomembrannous colitis due to Staphylococcus enterocolitis and Clostridium difficile. Vancomycin hydrochloride is not effective orally when administered for other types of infection.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for iv infusion/ oral solution",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מרגלית",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.349996"
-  }
+    "lastUpdated": "2025-08-01T15:57:49.995103",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VANCOMYCIN LYOMARK 500 MG 10 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:49.995119",
+      "previousRegistration": "156 97 34033 00",
+      "newRegistration": "156 96 34029 00",
+      "apiSource": "VANCOMYCIN LYOMARK 500 MG"
+    }
+  },
+  "nameHebrew": "ונקומיצין ליאומרק 500 מ\"ג",
+  "registrationDate": "2021-07-31"
 }

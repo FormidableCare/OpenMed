@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.409803"
+    "lastUpdated": "2025-08-01T16:37:50.635106",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DISEPTYL",
+        "registration": "115 02 22578 00",
+        "form": ""
+      },
+      {
+        "name": "DISEPTYL FORTE CAPLETS",
+        "registration": "117 86 29746 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DISEPTYL FORTE 10CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

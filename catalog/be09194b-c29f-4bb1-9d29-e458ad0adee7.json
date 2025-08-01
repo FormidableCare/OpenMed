@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.048004"
-  }
+    "lastUpdated": "2025-08-01T16:57:49.900173",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "STIMOFIL 300 MCG/0.5 ML 1 SYR PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:57:49.900185",
+      "previousRegistration": "164 19 36445 00",
+      "newRegistration": "164 19 36445 00",
+      "apiSource": "STIMOFIL 300 MCG/0.5 ML"
+    }
+  },
+  "nameHebrew": "סטימופיל 300 מק\"ג/0.5 מ\"ל",
+  "registrationDate": "2025-03-31"
 }

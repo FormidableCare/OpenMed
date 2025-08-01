@@ -1,10 +1,10 @@
 {
   "catalogId": "5522223f-4281-4984-896a-26007d752e1a",
-  "name": "FEXOFENADINE - TRIMA 120 MG",
+  "name": "FEXOFENADINE - TRIMA 180 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "162 12 35365 00",
+  "registrationNumber": "162 13 35366 00",
   "treatmentDescriptions": "Relief of symptoms associated with seasonal allergic rhinitis.",
   "termsOfIssue": "",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 180.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.418666"
-  }
+    "lastUpdated": "2025-08-01T16:31:28.898696",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FEXOFENADINE - TRIMA 180 MG 15 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:28.898704",
+      "previousRegistration": "162 12 35365 00",
+      "newRegistration": "162 13 35366 00",
+      "apiSource": "FEXOFENADINE - TRIMA 180 MG"
+    }
+  },
+  "nameHebrew": "פקסופנאדין-תרימה 180 מ\"ג",
+  "registrationDate": "2024-03-31"
 }

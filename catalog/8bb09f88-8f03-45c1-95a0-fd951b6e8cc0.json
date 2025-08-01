@@ -31,10 +31,24 @@
         "name": "ליברה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -55,11 +69,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 11.06275,
         "maxPriceWithVAT": 13.054045
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.750134"
+    "lastUpdated": "2025-08-01T16:53:09.320669",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TRAMAL INJECTION 100",
+        "registration": "125 54 30477 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMAL SUPPOSITORIES",
+        "registration": "125 80 30496 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMAL CAPSULES",
+        "registration": "125 52 30459 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TRAMAL INJECTION 100MG/2ML 5AMP(2ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16666666666666666,
+      "status": "failed_match"
+    }
   }
 }

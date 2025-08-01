@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.407791"
+    "lastUpdated": "2025-08-01T15:38:20.171289",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TEMODAL 100 MG",
+        "registration": "120 30 30116 23",
+        "form": ""
+      },
+      {
+        "name": "TEMODAL 20 MG",
+        "registration": "120 29 30115 22",
+        "form": ""
+      },
+      {
+        "name": "TEMODAL 250 MG",
+        "registration": "120 31 30119 22",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MODAL 50MG 30CAP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

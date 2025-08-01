@@ -1,10 +1,10 @@
 {
   "catalogId": "2c820137-c646-4937-8aac-1abc71dcb09c",
-  "name": "IMITREX INJECTION",
+  "name": "IMITREX TABLETS 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "055 92 26920 00",
+  "registrationNumber": "102 91 28531 21",
   "treatmentDescriptions": "Subcutaneous Injection is indicated for the acute relief of migraine attacks, with or without aura, and for the acute treatment of cluster headache.Imitrex should only be used where there is a clear diagnosis of migraine or cluster headache.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.171822"
-  }
+    "lastUpdated": "2025-08-01T16:51:06.240724",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMITREX 50MG 6TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:51:06.240733",
+      "previousRegistration": "055 92 26920 00",
+      "newRegistration": "102 91 28531 21",
+      "apiSource": "IMITREX TABLETS 50 MG"
+    }
+  },
+  "nameHebrew": "אימיטרקס טבליות 50 מ\"ג",
+  "registrationDate": "2021-10-31"
 }

@@ -31,10 +31,16 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.25,
+          "unit": "mg/vial"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +61,35 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 178.1492385,
         "maxPriceWithVAT": 210.2160921
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.243096"
+    "lastUpdated": "2025-08-01T17:24:45.516012",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PALOXI INJECTION",
+        "registration": "134 84 31150 00",
+        "form": ""
+      },
+      {
+        "name": "PALOXI CAPSULES",
+        "registration": "162 48 35784 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PALOXI INJECTION 0.25MG/VIAL 5ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16666666666666666,
+      "status": "failed_match"
+    }
   }
 }

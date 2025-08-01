@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 64.52431078,
         "maxPriceWithVAT": 76.13868334
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.302394"
+    "lastUpdated": "2025-08-01T17:31:43.528565",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TARGIN 10",
+        "registration": "139 95 31636 00",
+        "form": ""
+      },
+      {
+        "name": "TARGIN 20",
+        "registration": "139 96 31637 00",
+        "form": ""
+      },
+      {
+        "name": "TARGIN 30",
+        "registration": "160 43 35262 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TARGIN 20/10 MG 20 TABLETS P. R.",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

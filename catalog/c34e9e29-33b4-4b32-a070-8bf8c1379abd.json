@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 12.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.083481"
-  }
+    "lastUpdated": "2025-08-01T17:17:10.487686",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "GENOTROPIN 12 MG 1 prefilled pen",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:10.487699",
+      "previousRegistration": "121 35 27540 22",
+      "newRegistration": "121 35 27540 22",
+      "apiSource": "GENOTROPIN 12 MG"
+    }
+  },
+  "nameHebrew": "גנוטרופין 12 מ\"ג",
+  "registrationDate": "2021-02-28"
 }

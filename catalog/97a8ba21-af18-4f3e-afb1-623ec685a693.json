@@ -31,10 +31,20 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.814945"
+    "lastUpdated": "2025-08-01T16:05:45.972734",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ODNATRON",
+        "registration": "150 38 33805 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ODNATRON  8MG/4ML 5 amp",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

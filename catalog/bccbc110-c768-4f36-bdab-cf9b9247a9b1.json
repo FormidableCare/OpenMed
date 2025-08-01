@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.042567"
+    "lastUpdated": "2025-08-01T16:58:44.980016",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CANDOR 16",
+        "registration": "150 71 33815 01",
+        "form": ""
+      },
+      {
+        "name": "CANDOR 8",
+        "registration": "150 86 33817 01",
+        "form": ""
+      },
+      {
+        "name": "CANDOR PLUS",
+        "registration": "152 75 34056 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CANDOR 8MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

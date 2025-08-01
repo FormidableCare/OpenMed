@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.084291"
+    "lastUpdated": "2025-08-01T16:28:08.479759",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CRESTOR ® 5 MG",
+        "registration": "139 22 31615 00",
+        "form": ""
+      },
+      {
+        "name": "OVA-GEST VETERINARY",
+        "registration": "082 76 92331 00",
+        "form": ""
+      },
+      {
+        "name": "ANDROGEL 50 MG",
+        "registration": "141 18 30760 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CRESTOR 10MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21000000000000002,
+      "status": "failed_match"
+    }
   }
 }

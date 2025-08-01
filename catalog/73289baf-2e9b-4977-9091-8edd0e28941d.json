@@ -1,10 +1,10 @@
 {
   "catalogId": "73289baf-2e9b-4977-9091-8edd0e28941d",
-  "name": "EUCREAS 50/1000 MG",
+  "name": "EUCREAS 50/850 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 90 33627 01",
+  "registrationNumber": "143 88 32042 01",
   "treatmentDescriptions": "Eucreas is indicated in the treatment of type 2 diabetes mellitus:- Eucreas is indicated in the treatment of adult patients who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone or who are already treated with the combination of vildagliptin and metformin as separate tablets.- Eucreas is indicated in combination with a sulphonylurea (i.e. triple combination therapy) as an adjunct to diet and exercise in adult patients inadequately controlled with metformin and a sulphonylurea.- Eucreas is indicated in triple combination therapy with insulin as an adjunct to diet and exercise to improve glycaemic control in adult patients when insulin at a stable dose and metformin alone do not provide adequate glycaemic control.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 850.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.594553"
-  }
+    "lastUpdated": "2025-08-01T15:22:23.407170",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EUCREAS 50/850MG 60 FC TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:22:23.407175",
+      "previousRegistration": "147 90 33627 01",
+      "newRegistration": "143 88 32042 01",
+      "apiSource": "EUCREAS 50/850 MG"
+    }
+  },
+  "nameHebrew": "יוקריאס 50/850 מ\"ג",
+  "registrationDate": "2017-03-31"
 }

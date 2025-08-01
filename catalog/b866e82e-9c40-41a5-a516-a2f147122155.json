@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.012235"
-  }
+    "lastUpdated": "2025-08-01T17:54:22.714547",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KALETRA 200MG/50MG 120 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8045454545454546,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:54:22.714559",
+      "previousRegistration": "137 96 31542 00",
+      "newRegistration": "137 96 31542 00",
+      "apiSource": "KALETRA  200 MG/50 MG TABLETS"
+    }
+  },
+  "nameHebrew": "קלטרה 200 מ\"ג/50 מ\"ג טבליות",
+  "registrationDate": "2023-02-28"
 }

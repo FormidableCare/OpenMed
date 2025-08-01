@@ -1,10 +1,10 @@
 {
   "catalogId": "3fe7c798-9834-45ec-b9eb-e9a13e994871",
-  "name": "TAMIFLU 30 MG",
+  "name": "TAMIFLU 45 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "138 02 31733 00",
+  "registrationNumber": "138 03 31734 00",
   "treatmentDescriptions": "Treatment of influenza : Treatment of uncomplicated acute illness due to influenza infection in adults and children 1 year of age or older who have been symptomatic for no more than 2 days.  Prophylaxis of influenza : Post exposure prevention in adults and children 1 year of age or older patients following contact with a clinically diagnosed influenza case when influenza virus is circulating in the community.   The appropriate use of Tamiflu for prevention of influenza should be determined on a case by case basis by the circumstances and the population requiring protection. In exceptional situations (e.g. in case of a mismatch between the circulating and vaccine virus strains  and a pandemic situation) seasonal prevention could be considered in adults and children 1 year of age or older.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 45.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 81.49973207,
         "maxPriceWithVAT": 96.16967957
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.310311"
-  }
+    "lastUpdated": "2025-08-01T17:41:18.547005",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAMIFLU 45MG 10 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:41:18.547020",
+      "previousRegistration": "138 02 31733 00",
+      "newRegistration": "138 03 31734 00",
+      "apiSource": "TAMIFLU 45 MG"
+    }
+  },
+  "nameHebrew": "טמיפלו 45 מ\"ג",
+  "registrationDate": "2020-12-31"
 }

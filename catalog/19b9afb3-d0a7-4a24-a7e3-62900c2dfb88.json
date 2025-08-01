@@ -31,10 +31,16 @@
         "name": "פארמלוג'יק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +66,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.056394"
+    "lastUpdated": "2025-08-01T17:33:48.907722",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABSTRAL 100 MCG",
+        "registration": "148 73 33262 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 200 MCG",
+        "registration": "148 74 33263 01",
+        "form": ""
+      },
+      {
+        "name": "ABSTRAL 300 MCG",
+        "registration": "148 75 33264 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FENTANYL PANPHARMA 0.05 MG/ML(500mcg/10ML) 10VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

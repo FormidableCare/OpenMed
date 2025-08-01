@@ -1,10 +1,10 @@
 {
   "catalogId": "f084cb76-d1e5-4db9-afd1-0245c0dae5a1",
-  "name": "XYNTHA 1000 IU",
+  "name": "XYNTHA 2000 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 80 31593 00",
+  "registrationNumber": "137 81 31594 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency)",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 4918.083134,
         "maxPriceWithVAT": 5803.33784
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.362491"
-  }
+    "lastUpdated": "2025-08-01T16:19:16.097284",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XYNTHA 2000 IU LYOPHILIZED POWDER FOR INJECTION",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:19:16.097305",
+      "previousRegistration": "137 80 31593 00",
+      "newRegistration": "137 81 31594 00",
+      "apiSource": "XYNTHA 2000 IU"
+    }
+  },
+  "nameHebrew": "קסינתה 2000 יחב\"ל",
+  "registrationDate": "2022-12-31"
 }

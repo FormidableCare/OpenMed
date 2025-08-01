@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,24 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.75,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +74,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.333841"
-  }
+    "lastUpdated": "2025-08-01T16:32:08.918069",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XEPLION 100MG/1ML 1 SYRINGE 0.75ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8055555555555556,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:32:08.918073",
+      "previousRegistration": "169 09 37280 99",
+      "newRegistration": "169 09 37280 99",
+      "apiSource": "XEPLION 100 MG"
+    }
+  },
+  "nameHebrew": "קספליון 100 מ\"ג",
+  "registrationDate": "2022-02-02"
 }

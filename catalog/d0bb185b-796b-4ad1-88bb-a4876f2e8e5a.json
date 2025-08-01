@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.180994"
-  }
+    "lastUpdated": "2025-08-01T16:40:27.644132",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FOSTIMON 150 IU 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:27.644141",
+      "previousRegistration": "137 16 30176 00",
+      "newRegistration": "137 16 30176 00",
+      "apiSource": "FOSTIMON 150 IU"
+    }
+  },
+  "nameHebrew": "פוסטימון 150 IU",
+  "registrationDate": "2022-08-31"
 }

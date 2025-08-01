@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.923587"
+    "lastUpdated": "2025-08-01T17:22:57.954074",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EPHEDRINE AGUETTANT 3 MG/ML PRE-FILLED SYRINGE",
+        "registration": "177 79 37046 99",
+        "form": ""
+      },
+      {
+        "name": "ADVIL COLD & SINUS",
+        "registration": "135 50 31178 00",
+        "form": ""
+      },
+      {
+        "name": "EPHEDRINE HCL STEROP 50 MG/1 ML",
+        "registration": "163 13 35347 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EPHEDRINE 30MG 28TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20555555555555557,
+      "status": "failed_match"
+    }
   }
 }

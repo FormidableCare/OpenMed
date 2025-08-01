@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.6,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.058119"
+    "lastUpdated": "2025-08-01T16:42:32.101415",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZOLADEX",
+        "registration": "140 16 25142 00",
+        "form": ""
+      },
+      {
+        "name": "ZOLADEX LA",
+        "registration": "105 61 28735 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZOLADEX 3.6MG 1PREFILLED SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

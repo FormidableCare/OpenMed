@@ -31,10 +31,20 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        },
+        {
+          "value": 0.2,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +70,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.960035"
-  }
+    "lastUpdated": "2025-08-01T16:34:08.435222",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KONAKION PED 2MG/0.2ML 5VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:34:08.435235",
+      "previousRegistration": "105 47 28944 00",
+      "newRegistration": "105 47 28944 00",
+      "apiSource": "KONAKION MM PAEDIATRIC 2 MG/0.2 ML"
+    }
+  },
+  "nameHebrew": "קונקיון אם. אם. לילדים 2 מ\"ג/0.2 מ\"ל",
+  "registrationDate": "2022-04-30"
 }

@@ -31,10 +31,16 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.5,
+          "unit": "g"
+        },
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.319899"
-  }
+    "lastUpdated": "2025-08-01T17:22:03.844566",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMPISULVENIR  1.5G  10VIAL  20ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:22:03.844579",
+      "previousRegistration": "152 55 33564 00",
+      "newRegistration": "152 55 33564 00",
+      "apiSource": "AMPISULVENIR 1.5 G"
+    }
+  },
+  "nameHebrew": "אמפיסולבניר 1.5 גר'",
+  "registrationDate": "2019-07-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "e470397c-5a9a-49a9-a5cc-121e2d54cdeb",
-  "name": "FENTAMED 100 MCG",
+  "name": "FENTAMED 800 MCG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 43 36706 99",
+  "registrationNumber": "173 48 36711 99",
   "treatmentDescriptions": "Fentamed is indicated for management of breakthrough pain in adult patients using opioid therapy for chronic cancer pain. Breakthrough pain is a transient exacerbation of otherwise controlled chronic background pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets sublingual",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.293823"
-  }
+    "lastUpdated": "2025-08-01T15:38:33.164425",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FENTAMED 800 MCG 30 TAB SUBLINGUAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:33.164428",
+      "previousRegistration": "173 43 36706 99",
+      "newRegistration": "173 48 36711 99",
+      "apiSource": "FENTAMED 800 MCG"
+    }
+  },
+  "nameHebrew": "פנטאמד  800 מק\"ג",
+  "registrationDate": "2023-06-14"
 }

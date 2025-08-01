@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.600508"
-  }
+    "lastUpdated": "2025-08-01T16:43:49.388319",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ENALADEX 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:49.388332",
+      "previousRegistration": "115 85 29810 00",
+      "newRegistration": "115 85 29810 00",
+      "apiSource": "ENALADEX 10 MG"
+    }
+  },
+  "nameHebrew": "אנלדקס 10 מ\"ג",
+  "registrationDate": "2014-11-11"
 }

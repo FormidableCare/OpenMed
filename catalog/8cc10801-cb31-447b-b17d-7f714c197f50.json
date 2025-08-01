@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -57,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.755611"
+    "lastUpdated": "2025-08-01T17:44:51.698966",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MICROPIRIN 100",
+        "registration": "103 93 28861 01",
+        "form": ""
+      },
+      {
+        "name": "MICROPIRIN 75",
+        "registration": "067 43 27307 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MICROPIRIN 75MG 30CAP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

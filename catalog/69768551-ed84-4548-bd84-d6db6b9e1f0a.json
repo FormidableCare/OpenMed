@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 188.1275221,
         "maxPriceWithVAT": 221.9904662
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.540289"
-  }
+    "lastUpdated": "2025-08-01T16:09:40.550236",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NAVELBINE 20MG 1CAPSULE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:40.550244",
+      "previousRegistration": "130 90 30910 00",
+      "newRegistration": "130 90 30910 00",
+      "apiSource": "NAVELBINE 20 MG"
+    }
+  },
+  "nameHebrew": "נבלבין 20 מ\"ג",
+  "registrationDate": "2024-05-31"
 }

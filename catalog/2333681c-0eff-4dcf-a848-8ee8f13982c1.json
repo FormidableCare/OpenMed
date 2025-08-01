@@ -25,10 +25,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -47,11 +49,35 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 2230.87001,
         "maxPriceWithVAT": 2632.426494
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.112776"
+    "lastUpdated": "2025-08-01T16:18:43.633032",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VOCABRIA INJECTION",
+        "registration": "169 81 36948 99",
+        "form": ""
+      },
+      {
+        "name": "VOCABRIA TABLETS",
+        "registration": "169 80 36947 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VOCABRIA 30 MG 30 TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.175,
+      "status": "failed_match"
+    }
   }
 }

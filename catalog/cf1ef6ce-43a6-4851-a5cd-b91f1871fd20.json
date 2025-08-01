@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 14.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.172510"
-  }
+    "lastUpdated": "2025-08-01T17:43:20.847015",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RYBELSUS14 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:43:20.847027",
+      "previousRegistration": "166 74 36541 00",
+      "newRegistration": "166 74 36541 00",
+      "apiSource": "RYBELSUS 14 MG"
+    }
+  },
+  "nameHebrew": "ריבלסוס 14 מ\"ג",
+  "registrationDate": "2021-02-17"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 34.524,
         "maxPriceWithVAT": 40.73831819
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.285594"
-  }
+    "lastUpdated": "2025-08-01T16:56:15.821610",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZIDOVAL VAG. GEL 7.5MG/G 40G + APPLICATORS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.16818181818181818,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:56:15.821626",
+      "previousRegistration": "118 72 29887 01",
+      "newRegistration": "118 72 29887 01",
+      "apiSource": "ZIDOVAL 7.5 MG/G VAGINAL GEL"
+    }
+  },
+  "nameHebrew": "זידובל 7.5 מ\"ג/ג' ג'ל וגינלי",
+  "registrationDate": "2020-05-30"
 }

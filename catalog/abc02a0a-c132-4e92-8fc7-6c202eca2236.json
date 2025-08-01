@@ -1,10 +1,10 @@
 {
   "catalogId": "abc02a0a-c132-4e92-8fc7-6c202eca2236",
-  "name": "FOMICYT 2 G.",
+  "name": "FOMICYT 4 G.",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 51 37318 99",
+  "registrationNumber": "173 52 37319 99",
   "treatmentDescriptions": "Fomicyt is indicated in all age groups for the treatment of the following infections when it is considered inappropriate to use antibacterial agents that are commonly recommended for their initial treatment:• complicated urinary tract infections• infective endocarditis• bone and joint infections• hospital-acquired pneumonia, including ventilator-associated pneumonia• complicated skin and soft tissue infection• bacterial meningitis• complicated intra-abdominal infections• bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed aboveConsideration should be given to official guidance on the appropriate use of antibacterial agents.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for infusion",
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.924676"
-  }
+    "lastUpdated": "2025-08-01T15:53:20.070826",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FOMICYT 4 G 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:53:20.070840",
+      "previousRegistration": "173 51 37318 99",
+      "newRegistration": "173 52 37319 99",
+      "apiSource": "FOMICYT 4 G."
+    }
+  },
+  "nameHebrew": "פומיציט 4 גר'",
+  "registrationDate": "2023-06-14"
 }

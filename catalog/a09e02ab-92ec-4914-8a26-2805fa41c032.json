@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.864079"
-  }
+    "lastUpdated": "2025-08-01T15:57:27.569461",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARCOXIA 120MG 7TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:57:27.569471",
+      "previousRegistration": "129 44 30788 11",
+      "newRegistration": "129 44 30788 11",
+      "apiSource": "ARCOXIA 120 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ארקוקסיה 120 מ\"ג טבליות",
+  "registrationDate": "2023-10-31"
 }

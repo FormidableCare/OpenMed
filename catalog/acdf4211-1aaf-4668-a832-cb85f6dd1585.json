@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +61,27 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 216.674125,
         "maxPriceWithVAT": 255.6754675
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.933295"
-  }
+    "lastUpdated": "2025-08-01T16:05:30.888618",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ANDROGEL 50MG 30 SACH 5G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9571428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:05:30.888624",
+      "previousRegistration": "141 18 30760 01",
+      "newRegistration": "141 18 30760 01",
+      "apiSource": "ANDROGEL 50 MG"
+    }
+  },
+  "nameHebrew": "אנדרוג'ל 50 מ\"ג",
+  "registrationDate": "2023-08-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "54260ed2-3dfd-409b-a0d5-a7871d5242e3",
-  "name": "DEPALEPT SYRUP",
+  "name": "DEPALEPT 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "033 72 22644 00",
+  "registrationNumber": "048 30 23229 00",
   "treatmentDescriptions": "Generalized or partial epilepsy secondary generalized epilepsy and mixed forms of epilepsy.",
   "termsOfIssue": "Prescription required",
   "form": "syrup",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.413893"
-  }
+    "lastUpdated": "2025-08-01T15:49:47.098063",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DEPALEPT 200MG 40TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:49:47.098075",
+      "previousRegistration": "033 72 22644 00",
+      "newRegistration": "048 30 23229 00",
+      "apiSource": "DEPALEPT 200 MG"
+    }
+  },
+  "nameHebrew": "דפלפט 200 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.238683"
+    "lastUpdated": "2025-08-01T16:44:29.401531",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BETAREN 100 S.R.",
+        "registration": "015 73 24619 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BETAREN 100MG 10 S.R.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02142857142857143,
+      "status": "failed_match"
+    }
   }
 }

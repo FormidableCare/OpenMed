@@ -31,10 +31,16 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.1,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +64,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.136147"
+    "lastUpdated": "2025-08-01T16:06:47.933743",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "XPOVIO 20 MG",
+        "registration": "167 04 36451 99",
+        "form": ""
+      },
+      {
+        "name": "XPOVIO 40 MG",
+        "registration": "178 17 37897 99",
+        "form": ""
+      },
+      {
+        "name": "XPOVIO 50 MG",
+        "registration": "178 18 37898 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LINEX NASAL SPRAY 0.1% 10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

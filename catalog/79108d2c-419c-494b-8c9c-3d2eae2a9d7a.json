@@ -1,10 +1,10 @@
 {
   "catalogId": "79108d2c-419c-494b-8c9c-3d2eae2a9d7a",
-  "name": "AGISTEN ALOEVERA CREAM",
+  "name": "AGISTEN V 2 % VAGINAL CREAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "043 17 22461 00",
+  "registrationNumber": "048 56 23822 00",
   "treatmentDescriptions": "For the treatment of fungal infections of the skin and mucosa caused by dermatophytes, yeasts, molds and other fungi such as Malassezia furfur, as well as skin infections caused by Corynebacterium minutissimum.Indicated also for Candida Vulvitis and Candida balanitis.",
   "termsOfIssue": "Prescription required",
   "form": "cream",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.619426"
-  }
+    "lastUpdated": "2025-08-01T15:29:01.137432",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AGISTEN 3 VCR  2% 20GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:29:01.137441",
+      "previousRegistration": "043 17 22461 00",
+      "newRegistration": "048 56 23822 00",
+      "apiSource": "AGISTEN V 2 % VAGINAL CREAM"
+    }
+  },
+  "nameHebrew": "אגיסטן וי % 2 קרם וגינלי",
+  "registrationDate": "2015-02-28"
 }

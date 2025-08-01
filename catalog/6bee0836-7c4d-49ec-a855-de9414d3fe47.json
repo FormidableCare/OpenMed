@@ -1,10 +1,10 @@
 {
   "catalogId": "6bee0836-7c4d-49ec-a855-de9414d3fe47",
-  "name": "ABIVENIR 250 MG",
+  "name": "ABIRATERONE TEVA ® 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 52 37297 99",
+  "registrationNumber": "158 83 34649 01",
   "treatmentDescriptions": "AbiVenir is a CYP17 inhibitor indicated:- in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer.- for the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.552781"
-  }
+    "lastUpdated": "2025-08-01T15:28:42.986615",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ABIRATERONE TEVA 250MG 120TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:28:42.986634",
+      "previousRegistration": "172 52 37297 99",
+      "newRegistration": "158 83 34649 01",
+      "apiSource": "ABIRATERONE TEVA ® 250 MG"
+    }
+  },
+  "nameHebrew": "אבירטרון טבע® 250 מ\"ג",
+  "registrationDate": "2022-05-31"
 }

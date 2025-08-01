@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.432889"
+    "lastUpdated": "2025-08-01T15:57:37.217416",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EXELON PATCH 10",
+        "registration": "139 70 31675 01",
+        "form": ""
+      },
+      {
+        "name": "EXELON PATCH 15",
+        "registration": "150 97 33884 01",
+        "form": ""
+      },
+      {
+        "name": "EXELON PATCH 5",
+        "registration": "139 69 31674 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EXELON PATCH 15MG 30PATCHES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

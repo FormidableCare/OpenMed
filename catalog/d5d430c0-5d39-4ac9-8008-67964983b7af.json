@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.208393"
-  }
+    "lastUpdated": "2025-08-01T15:55:41.457900",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMPHETAMINE MIXED SALTS 30MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:41.457909",
+      "previousRegistration": "170 94 35998 00",
+      "newRegistration": "170 94 35998 00",
+      "apiSource": "ATTENT XR 30 MG"
+    }
+  },
+  "nameHebrew": "אטנט אקס. אר 30 מ\"ג",
+  "registrationDate": "2022-11-21"
 }

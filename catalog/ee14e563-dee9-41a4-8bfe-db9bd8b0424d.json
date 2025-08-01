@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 180.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.347463"
-  }
+    "lastUpdated": "2025-08-01T15:24:40.408723",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MYCOPHENOLIC INOVAMED 180 MG 120 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8285714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:24:40.408729",
+      "previousRegistration": "173 70 37504 99",
+      "newRegistration": "173 70 37504 99",
+      "apiSource": "MYCOPHENOLIC ACID INOVAMED 180 MG"
+    }
+  },
+  "nameHebrew": "מיקופנוליק אסיד אינובמד 180 מ\"ג",
+  "registrationDate": "2023-06-27"
 }

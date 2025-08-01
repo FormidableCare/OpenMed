@@ -1,10 +1,10 @@
 {
   "catalogId": "1a8e0321-629c-42ed-87da-a048b2e1d918",
-  "name": "TRITTICO 100 MG",
+  "name": "TRITTICO 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "173 31 36296 00",
+  "registrationNumber": "173 30 36297 00",
   "treatmentDescriptions": "For the treatment of depression with or without anxiety.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.062156"
-  }
+    "lastUpdated": "2025-08-01T17:36:53.467252",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRITTICO 50 MG 30 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:36:53.467264",
+      "previousRegistration": "173 31 36296 00",
+      "newRegistration": "173 30 36297 00",
+      "apiSource": "TRITTICO 50 MG"
+    }
+  },
+  "nameHebrew": "טריטיקו 50 מ\"ג",
+  "registrationDate": "2023-05-30"
 }

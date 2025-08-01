@@ -1,10 +1,10 @@
 {
   "catalogId": "3311a0ea-2bd2-4619-af7d-cba535e828dd",
-  "name": "UBRELVY 100 MG",
+  "name": "UBRELVY 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 78 37038 99",
+  "registrationNumber": "169 77 37037 99",
   "treatmentDescriptions": "Ubrelvy is a calcitonin gene-related peptide receptor antagonist indicated for the acute treatment of migraine with or without aura in adults.Limitations of UseUbrelvy is not indicated for the preventive treatment of migraine.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -53,6 +55,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.212734"
-  }
+    "lastUpdated": "2025-08-01T17:04:24.432454",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "UBRELVY 50 MG 10 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:04:24.432458",
+      "previousRegistration": "169 78 37038 99",
+      "newRegistration": "169 77 37037 99",
+      "apiSource": "UBRELVY 50 MG"
+    }
+  },
+  "nameHebrew": "אוברלוי 50 מ\"ג",
+  "registrationDate": "2022-06-03"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "54dd1103-083c-49a2-b466-9738c7858a1c",
-  "name": "IMNOVID 1 MG",
+  "name": "IMNOVID 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 02 33954 00",
+  "registrationNumber": "152 03 33955 00",
   "treatmentDescriptions": "Imnovid in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have demonstrated disease progression on the last therapy.Imnovid in combination with bortezomib and dexamethasone is indicated in the treatment of adult patients with multiple myeloma who have received at least one prior treatment regimen including lenalidomide",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 21515.06801,
         "maxPriceWithVAT": 25387.77912
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.418454"
-  }
+    "lastUpdated": "2025-08-01T16:48:34.660409",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMNOVID 2MG 3X7 CAPSULES (POMALYST)",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:34.660421",
+      "previousRegistration": "152 02 33954 00",
+      "newRegistration": "152 03 33955 00",
+      "apiSource": "IMNOVID 2 MG"
+    }
+  },
+  "nameHebrew": "אימנוביד 2 מ\"ג",
+  "registrationDate": "2019-05-31"
 }

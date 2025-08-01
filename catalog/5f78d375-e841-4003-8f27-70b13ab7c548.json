@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.473455"
-  }
+    "lastUpdated": "2025-08-01T17:17:53.884590",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CELCOX 100MG 20CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:17:53.884600",
+      "previousRegistration": "134 40 30074 00",
+      "newRegistration": "134 40 30074 00",
+      "apiSource": "CELCOX 100 MG"
+    }
+  },
+  "nameHebrew": "סלקוקס 100 מ\"ג",
+  "registrationDate": "2020-10-31"
 }

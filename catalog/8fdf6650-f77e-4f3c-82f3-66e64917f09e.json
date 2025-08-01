@@ -1,10 +1,10 @@
 {
   "catalogId": "8fdf6650-f77e-4f3c-82f3-66e64917f09e",
-  "name": "QUILLIVANT XR 600 MG",
+  "name": "QUILLIVANT XR 900 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "175 92 37654 99",
+  "registrationNumber": "175 94 37656 99",
   "treatmentDescriptions": "QUILLIVANT XR is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).",
   "termsOfIssue": "Prescription required",
   "form": "powder for extended release oral suspension",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 900.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.768773"
-  }
+    "lastUpdated": "2025-08-01T17:43:10.903323",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QUILLIVANT XR 900 MG 1 BOTTLE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:43:10.903334",
+      "previousRegistration": "175 92 37654 99",
+      "newRegistration": "175 94 37656 99",
+      "apiSource": "QUILLIVANT XR 900 MG"
+    }
+  },
+  "nameHebrew": "קוויליואנט אקס.אר 900 מ\"ג",
+  "registrationDate": "2024-02-29"
 }

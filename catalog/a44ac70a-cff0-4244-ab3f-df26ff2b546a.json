@@ -31,10 +31,12 @@
         "name": "אמי טכנולוגיות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,30 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 118.7467849,
         "maxPriceWithVAT": 140.1211999
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.878523"
+    "lastUpdated": "2025-08-01T16:27:50.336314",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SOOLANTRA",
+        "registration": "167 59 36606 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SOOLANTRA CREAM 30G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "37cfd40e-5b9f-4307-9c1e-6a0ef64f766d",
-  "name": "OCTANINE F 1000 IU",
+  "name": "OCTANINE F 500 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 35 33831 00",
+  "registrationNumber": "150 34 33820 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -31,10 +31,12 @@
         "name": "דובר מדיקל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.237836"
-  }
+    "lastUpdated": "2025-08-01T17:00:12.847885",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OCTANINE F 500 IU VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:00:12.847899",
+      "previousRegistration": "150 35 33831 00",
+      "newRegistration": "150 34 33820 00",
+      "apiSource": "OCTANINE F 500 IU"
+    }
+  },
+  "nameHebrew": "אוקטאניין F 500 יח' בינ\"ל",
+  "registrationDate": "2018-06-30"
 }

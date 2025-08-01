@@ -1,10 +1,10 @@
 {
   "catalogId": "9f586d8a-6518-4cc4-bc65-833fcdb83dce",
-  "name": "STREFEN HONEY AND LEMON",
+  "name": "STREFEN SPRAY 8.75 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "147 77 31684 00",
+  "registrationNumber": "175 36 36263 00",
   "treatmentDescriptions": "For the short term relief of symptoms of sore throat such as throat pain and soreness in adults and children over the age of 12 years",
   "termsOfIssue": "",
   "form": "lozenges",
@@ -31,10 +31,12 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.75,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 24.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.854311"
-  }
+    "lastUpdated": "2025-08-01T15:51:34.283290",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "STREFEN ORANGE SF 8.75MG 24 LOZENGES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:51:34.283303",
+      "previousRegistration": "147 77 31684 00",
+      "newRegistration": "175 36 36263 00",
+      "apiSource": "STREFEN SPRAY 8.75 MG"
+    }
+  },
+  "nameHebrew": "סטרפן ספריי 8.75 מ\"ג",
+  "registrationDate": "2023-12-26"
 }

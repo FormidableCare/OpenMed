@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 16.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.738986"
-  }
+    "lastUpdated": "2025-08-01T15:43:05.458266",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SERDOLECT 16MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:43:05.458286",
+      "previousRegistration": "137 36 31472 00",
+      "newRegistration": "137 36 31472 00",
+      "apiSource": "SERDOLECT 16 MG"
+    }
+  },
+  "nameHebrew": "סרדולקט 16 מ\"ג",
+  "registrationDate": "2022-09-30"
 }

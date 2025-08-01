@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.040141"
+    "lastUpdated": "2025-08-01T16:45:13.313192",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MOXYVIT 250 CAPSULES",
+        "registration": "023 75 25058 02",
+        "form": ""
+      },
+      {
+        "name": "MOXYVIT FORTE 250 SUSPENSION",
+        "registration": "045 22 26064 00",
+        "form": ""
+      },
+      {
+        "name": "MOXYVIT FORTE 500 CAPSULES",
+        "registration": "057 06 25009 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MOXYVIT SUSP 60ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.991740"
+    "lastUpdated": "2025-08-01T16:00:49.328585",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACROSE 100",
+        "registration": "142 79 31979 00",
+        "form": ""
+      },
+      {
+        "name": "ACROSE 50",
+        "registration": "142 78 31978 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACROSE 100MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

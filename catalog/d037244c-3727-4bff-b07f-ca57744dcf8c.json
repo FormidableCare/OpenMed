@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.176918"
+    "lastUpdated": "2025-08-01T15:39:49.619421",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GASTRO 10",
+        "registration": "107 36 28578 01",
+        "form": ""
+      },
+      {
+        "name": "GASTRO 20",
+        "registration": "043 40 26198 02",
+        "form": ""
+      },
+      {
+        "name": "GASTRO 40",
+        "registration": "043 39 25171 03",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FAMOTIDINE-T 40MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

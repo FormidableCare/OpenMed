@@ -57,6 +57,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.951120"
+    "lastUpdated": "2025-08-01T17:52:11.894148",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VAXIGRIP",
+        "registration": "179 71 38363 00",
+        "form": ""
+      },
+      {
+        "name": "VAXIGRIP TETRA",
+        "registration": "160 19 35153 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VAXIGRIP TETRA 10PFS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

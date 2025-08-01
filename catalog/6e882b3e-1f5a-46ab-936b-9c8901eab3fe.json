@@ -31,10 +31,16 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "ml"
+        },
+        {
+          "value": 20.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +64,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.567570"
+    "lastUpdated": "2025-08-01T17:22:28.705974",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SIRAN 200 MG EFFERVESCENT TABLETS",
+        "registration": "112 05 27057 00",
+        "form": ""
+      },
+      {
+        "name": "REOLIN EFFERVESCENT TABLETS 200 MG",
+        "registration": "127 37 30626 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACETYLCYSTEINE FOR INHALATION 20% 10VIALX20ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "e750f406-9810-48ce-8287-c9f31dd75302",
-  "name": "TRITACE COMP 2.5 MG/12.5 MG",
+  "name": "TRITACE 2.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "122 27 30187 00",
+  "registrationNumber": "124 60 30413 00",
   "treatmentDescriptions": "Essential hypertension.Tritace comp is indicated in patients whose blood pressure cannot be adequately lowered with ramipril alone or hydrochlorothiazide alone.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.309722"
-  }
+    "lastUpdated": "2025-08-01T16:30:15.822679",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRITACE 2.5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:15.822688",
+      "previousRegistration": "122 27 30187 00",
+      "newRegistration": "124 60 30413 00",
+      "apiSource": "TRITACE 2.5 MG"
+    }
+  },
+  "nameHebrew": "טריטייס 2.5 מ\"ג",
+  "registrationDate": "2022-01-31"
 }

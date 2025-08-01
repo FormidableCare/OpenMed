@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.996596"
-  }
+    "lastUpdated": "2025-08-01T16:35:39.430568",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SIGNIFOR LAR 10 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:35:39.430581",
+      "previousRegistration": "172 50 36981 99",
+      "newRegistration": "172 50 36981 99",
+      "apiSource": "SIGNIFOR LAR 10 MG"
+    }
+  },
+  "nameHebrew": "סיגניפור לאר 10 מ\"ג",
+  "registrationDate": "2023-03-21"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.424296"
-  }
+    "lastUpdated": "2025-08-01T17:23:15.264484",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLAGYL 250MG 20TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:23:15.264504",
+      "previousRegistration": "106 97 21742 01",
+      "newRegistration": "106 97 21742 01",
+      "apiSource": "FLAGYL 250 MG TABLETS"
+    }
+  },
+  "nameHebrew": "פלאג'יל 250 מ\"ג טבליות",
+  "registrationDate": "2022-08-31"
 }

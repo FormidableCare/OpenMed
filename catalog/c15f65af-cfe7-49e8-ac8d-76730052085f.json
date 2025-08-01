@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.070686"
-  }
+    "lastUpdated": "2025-08-01T17:02:43.603913",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EBIXA 10MG 56TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:02:43.603923",
+      "previousRegistration": "129 83 30891 00",
+      "newRegistration": "129 83 30891 00",
+      "apiSource": "EBIXA TABLETS 10 MG"
+    }
+  },
+  "nameHebrew": "אביקסה 10 מ\"ג טבליות",
+  "registrationDate": "2023-12-31"
 }

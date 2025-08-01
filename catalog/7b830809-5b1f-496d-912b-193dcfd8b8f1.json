@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.634025"
+    "lastUpdated": "2025-08-01T15:56:35.562533",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RISPOND 1",
+        "registration": "134 58 31403 01",
+        "form": ""
+      },
+      {
+        "name": "RISPOND 2",
+        "registration": "134 59 31404 01",
+        "form": ""
+      },
+      {
+        "name": "RISPOND 3",
+        "registration": "134 60 31405 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RISPOND 4 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

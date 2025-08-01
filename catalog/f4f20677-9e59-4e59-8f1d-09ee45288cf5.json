@@ -1,10 +1,10 @@
 {
   "catalogId": "f4f20677-9e59-4e59-8f1d-09ee45288cf5",
-  "name": "OLANZAPINE ODT TEVA ® 10 MG",
+  "name": "OLANZAPINE TEVA ® 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 16 34591 00",
+  "registrationNumber": "145 70 33096 01",
   "treatmentDescriptions": "Acute and maintenance treatment of schizophrenia. Olanza ODT Teva is indicated for the management  of the manifestations of psychotic disorders.Olanza ODT Teva is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder. Prevention of recurrence in Bipolar Disorder : In patients whose manic episode has responded to olanzapine treatment Olanza ODT Teva is indicated for the prevention of recurrence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Olanza ODT Teva with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
   "termsOfIssue": "Prescription required",
   "form": "tablets orodispersible",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.385609"
-  }
+    "lastUpdated": "2025-08-01T15:39:37.159705",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OLANZAPINE TEVA 5MG 28 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8111111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:39:37.159728",
+      "previousRegistration": "157 16 34591 00",
+      "newRegistration": "145 70 33096 01",
+      "apiSource": "OLANZAPINE TEVA ® 5 MG"
+    }
+  },
+  "nameHebrew": "אולנזפין טבע ® 5 מ\"ג",
+  "registrationDate": "2016-03-31"
 }

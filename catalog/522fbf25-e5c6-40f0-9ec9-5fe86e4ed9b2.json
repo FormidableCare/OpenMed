@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +69,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.401945"
+    "lastUpdated": "2025-08-01T16:19:54.613128",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EBETAXEL 6 MG/ML",
+        "registration": "130 95 30965 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EBETAXEL 6 MG/ML VIAL 300MG/50ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

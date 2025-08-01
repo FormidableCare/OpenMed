@@ -54,11 +54,66 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 27.778805,
         "maxPriceWithVAT": 32.7789899
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.282793"
+    "lastUpdated": "2025-08-01T15:19:47.335914",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.18",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:02:57.806507",
+      "csvSource": "VERAPRESS 240 30 SR CAPLETS",
+      "bestMatchScore": 0.18,
+      "availableApiOptions": [
+        {
+          "name": "VERAPRESS 240 SR",
+          "registration": "068 63 26427 00",
+          "form": ""
+        },
+        {
+          "name": "CORDAMIL 40 MG",
+          "registration": "169 31 36504 99",
+          "form": ""
+        },
+        {
+          "name": "CORDAMIL 80 MG",
+          "registration": "168 85 36505 99",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "VERAPRESS 240 SR",
+        "registration": "068 63 26427 00",
+        "form": ""
+      },
+      {
+        "name": "CORDAMIL 40 MG",
+        "registration": "169 31 36504 99",
+        "form": ""
+      },
+      {
+        "name": "CORDAMIL 80 MG",
+        "registration": "168 85 36505 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VERAPRESS 240 30 SR CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.18,
+      "status": "failed_match"
+    }
   }
 }

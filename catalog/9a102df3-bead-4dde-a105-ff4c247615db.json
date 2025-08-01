@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mcg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.825822"
-  }
+    "lastUpdated": "2025-08-01T15:42:57.068143",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARANESP 100MCG PREFILLED PEN 1X0.5ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:42:57.068153",
+      "previousRegistration": "124 46 30400 00",
+      "newRegistration": "124 46 30400 00",
+      "apiSource": "ARANESP 100 MCG"
+    }
+  },
+  "nameHebrew": "אראנספ 100 מק\"ג",
+  "registrationDate": "2021-12-31"
 }

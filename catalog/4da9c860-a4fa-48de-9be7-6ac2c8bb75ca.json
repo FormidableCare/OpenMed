@@ -31,10 +31,12 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.44,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.377471"
+    "lastUpdated": "2025-08-01T15:59:55.297064",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PERGOVERIS ®",
+        "registration": "145 07 33159 00",
+        "form": ""
+      },
+      {
+        "name": "PERGOVERIS PRE-FILLED PEN",
+        "registration": "160 56 35355 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PERGOVERIS PRE-FILLED PEN 1.44ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

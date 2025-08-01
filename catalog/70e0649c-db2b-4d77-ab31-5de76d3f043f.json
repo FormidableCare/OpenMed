@@ -25,10 +25,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -53,6 +55,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.579956"
+    "lastUpdated": "2025-08-01T16:36:39.658154",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LAMISIL ONCE",
+        "registration": "137 26 31486 00",
+        "form": ""
+      },
+      {
+        "name": "LAMISIL SPRAY",
+        "registration": "117 13 29732 00",
+        "form": ""
+      },
+      {
+        "name": "LAMISIL CREAM",
+        "registration": "115 55 27562 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LAMISIL ONCE SOL 10MG/G 4 GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

@@ -52,6 +52,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.287341"
+    "lastUpdated": "2025-08-01T16:39:47.233204",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RENNIE ICE",
+        "registration": "147 91 33516 00",
+        "form": ""
+      },
+      {
+        "name": "RENNIE PEPPERMINT",
+        "registration": "134 20 28413 00",
+        "form": ""
+      },
+      {
+        "name": "RENNIE SPEARMINT",
+        "registration": "166 61 35854 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RENNIE PEPPERMINT 48TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

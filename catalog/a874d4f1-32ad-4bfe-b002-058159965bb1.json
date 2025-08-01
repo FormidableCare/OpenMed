@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 70.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 1000.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.897386"
-  }
+    "lastUpdated": "2025-08-01T16:56:51.497795",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALCOHOL 70 % VITAMED 1 L",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:56:51.497805",
+      "previousRegistration": "128 31 30731 00",
+      "newRegistration": "128 31 30731 00",
+      "apiSource": "ALCOHOL 70 % VITAMED"
+    }
+  },
+  "nameHebrew": "אלכוהול  % 70 ויטאמד",
+  "registrationDate": "2023-05-31"
 }

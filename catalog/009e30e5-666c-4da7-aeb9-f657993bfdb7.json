@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        },
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.878418"
+    "lastUpdated": "2025-08-01T16:34:42.011225",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RIXATHON",
+        "registration": "162 10 35741 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RIXATHON 500MG/50ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

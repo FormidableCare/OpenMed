@@ -1,10 +1,10 @@
 {
   "catalogId": "50006625-ffcd-4967-99a4-4c5554df2d1e",
-  "name": "AMPISULVENIR 1.5 G",
+  "name": "AMPISULVENIR 3 G",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 55 33564 00",
+  "registrationNumber": "152 56 33565 00",
   "treatmentDescriptions": "Antibiotic for the treatment of bacterial infections caused by susceptible beta-lactamase producing strains of microorganisms, in the following conditions: 1. Skin and Skin Structure Infections ;2. Intra- Abdominal Infections ;3. Gynecological Infections .",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -31,10 +31,16 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "g"
+        },
+        {
+          "value": 20.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.387120"
-  }
+    "lastUpdated": "2025-08-01T17:22:03.849169",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMPISULVENIR 3G 10VIAL 20ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:22:03.849185",
+      "previousRegistration": "152 55 33564 00",
+      "newRegistration": "152 56 33565 00",
+      "apiSource": "AMPISULVENIR 3 G"
+    }
+  },
+  "nameHebrew": "אמפיסולבניר 3 גר'",
+  "registrationDate": "2019-07-31"
 }

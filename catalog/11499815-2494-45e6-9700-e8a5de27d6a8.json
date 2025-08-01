@@ -31,10 +31,16 @@
         "name": "ליף-פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.2,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 300.0,
         "unit": "units"
@@ -57,6 +63,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.001696"
+    "lastUpdated": "2025-08-01T16:46:38.131854",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SOLODENT ALCOHOL FREE MOUTHWASH",
+        "registration": "172 54 37476 99",
+        "form": ""
+      },
+      {
+        "name": "SOLODENT MOUTHWASH",
+        "registration": "163 01 36040 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SOLODENT MOUTHWASH 0.2%  300ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

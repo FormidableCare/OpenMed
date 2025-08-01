@@ -31,10 +31,12 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.075853"
+    "lastUpdated": "2025-08-01T15:53:52.651189",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IFO-CELL 2 G",
+        "registration": "155 73 34214 00",
+        "form": ""
+      },
+      {
+        "name": "IFO-CELL 5 G",
+        "registration": "155 74 34216 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IFO-CELL 5 G/25ml",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.04000000000000001,
+      "status": "failed_match"
+    }
   }
 }

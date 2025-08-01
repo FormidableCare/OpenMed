@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -57,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.958223"
+    "lastUpdated": "2025-08-01T16:14:14.964220",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ODOMZO  200 MG",
+        "registration": "156 37 34574 00",
+        "form": ""
+      },
+      {
+        "name": "ISTURISA 1 MG",
+        "registration": "171 12 37207 99",
+        "form": ""
+      },
+      {
+        "name": "ISTURISA 10 MG",
+        "registration": "171 14 37209 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PHOSPHATE EFFERVESCENT SANDOZ 2G 100 tab",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,12 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.090220"
+    "lastUpdated": "2025-08-01T16:06:37.505293",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OPTI GENTA",
+        "registration": "069 76 28591 00",
+        "form": ""
+      },
+      {
+        "name": "EASOTIC VETERINARY",
+        "registration": "159 84 34886 00",
+        "form": ""
+      },
+      {
+        "name": "AFLUMYCIN",
+        "registration": "125 91 24928 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GENTAMICIN B. BRAUN 1 MG/ML 20 AMP 80ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21250000000000002,
+      "status": "failed_match"
+    }
   }
 }

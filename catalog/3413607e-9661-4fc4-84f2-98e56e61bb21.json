@@ -1,10 +1,10 @@
 {
   "catalogId": "3413607e-9661-4fc4-84f2-98e56e61bb21",
-  "name": "LUSTRAL TABLETS 100 MG",
+  "name": "LUSTRAL TABLETS 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "120 52 27481 00",
+  "registrationNumber": "120 51 27480 00",
   "treatmentDescriptions": "For the treatment of symptoms of depression in patients with or without a history of mania. Following satisfactory response, continuation with sertraline therapy is effective in prevention relapse of the initial episode of depression or recurrence of further depressive episodes.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.217448"
-  }
+    "lastUpdated": "2025-08-01T16:53:26.472337",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LUSTRAL 50MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:53:26.472344",
+      "previousRegistration": "120 52 27481 00",
+      "newRegistration": "120 51 27480 00",
+      "apiSource": "LUSTRAL TABLETS 50 MG"
+    }
+  },
+  "nameHebrew": "לוסטרל טבליות 50 מ\"ג",
+  "registrationDate": "2020-11-30"
 }

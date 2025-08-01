@@ -1,10 +1,10 @@
 {
   "catalogId": "b1f1366d-4cad-49b7-816b-737c688ffac7",
-  "name": "ADVOCIN INJECTABLE SOLUTION 2.5 % VETERINARY",
+  "name": "OFLOXACIN TEVA 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "083 84 92073 00",
+  "registrationNumber": "121 98 30147 00",
   "treatmentDescriptions": "For the treatment of cattle (calves, beef cattle and non-lactating dairy cattle) with respiratory infections caused by Pasteurella haemolytica and Pasteurella multocida, enteric infections caused by e.coli and salmonela spp.Only after sensitivity to danofloxacin has been confirmed by laboratory tests and after no alternative treatment was found effective (proved resistence to other treatments).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -53,6 +55,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.963370"
-  }
+    "lastUpdated": "2025-08-01T16:20:48.817104",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OFLOXACIN-TEVA 200MG 20TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:20:48.817119",
+      "previousRegistration": "083 84 92073 00",
+      "newRegistration": "121 98 30147 00",
+      "apiSource": "OFLOXACIN TEVA 200 MG"
+    }
+  },
+  "nameHebrew": "אופלוקסצין טבע 200 מ\"ג",
+  "registrationDate": "2021-02-28"
 }

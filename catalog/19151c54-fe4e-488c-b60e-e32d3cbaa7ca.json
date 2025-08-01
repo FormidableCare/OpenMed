@@ -1,10 +1,10 @@
 {
   "catalogId": "19151c54-fe4e-488c-b60e-e32d3cbaa7ca",
-  "name": "QUETIAPINE TEVA ® 100 MG",
+  "name": "SEROQUEL 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 04 33719 00",
+  "registrationNumber": "109 41 29315 00",
   "treatmentDescriptions": "Ttreatment  of schizophrenia. Treatment of manic episodes associated with bipolar disorder.Treatment of major depressive episodes in bipolar disorders.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.054112"
-  }
+    "lastUpdated": "2025-08-01T16:41:36.179952",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QUETIAPINE TEVA 200MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:41:36.179993",
+      "previousRegistration": "150 04 33719 00",
+      "newRegistration": "109 41 29315 00",
+      "apiSource": "SEROQUEL 200 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל 200 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

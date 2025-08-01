@@ -31,10 +31,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.998000"
+    "lastUpdated": "2025-08-01T15:26:52.585640",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DIFLUCAN 50 MG/5 ML",
+        "registration": "106 79 29073 00",
+        "form": ""
+      },
+      {
+        "name": "TRIFLUCAN I.V.",
+        "registration": "106 22 29072 00",
+        "form": ""
+      },
+      {
+        "name": "TRICAN 200 MG CAPSULES",
+        "registration": "118 50 29947 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FLUCONAZOL 2MG/ML 1VIAL/100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20555555555555557,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "95fbf518-aea1-4d94-84a0-9bfafe703315",
-  "name": "BICALUTAMIDE TEVA ® 150 MG",
+  "name": "BICALUTAMIDE TEVA ® 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "140 83 31741 00",
+  "registrationNumber": "140 82 31740 00",
   "treatmentDescriptions": "In patients with locally advanced prostate cancer (T3-T4  any N  M0  T1-T2  N+  M0)  Bicalutamide is indicated as immediate therapy either alone or as adjuvant to treatment by radical prostatectomy or radiotherapy. The management of patients with locally advanced  non-metastatic prostate cancer for whom surgical castration or other medical intervention is not considered appropriate or acceptable.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.806650"
-  }
+    "lastUpdated": "2025-08-01T16:40:59.583101",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BICALUTAMIDE TEVA 50MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:59.583116",
+      "previousRegistration": "140 83 31741 00",
+      "newRegistration": "140 82 31740 00",
+      "apiSource": "BICALUTAMIDE TEVA ® 50 MG"
+    }
+  },
+  "nameHebrew": "ביקאלוטמיד טבע  ® 50 מ\"ג",
+  "registrationDate": "2024-05-31"
 }

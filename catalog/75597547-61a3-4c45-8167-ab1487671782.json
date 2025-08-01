@@ -31,10 +31,20 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +69,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.604250"
+    "lastUpdated": "2025-08-01T16:56:15.826254",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZIDOVAL 7.5 MG/G VAGINAL GEL",
+        "registration": "118 72 29887 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "METRONIDAZOLE 500MG/100ML 20 BOTTLES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

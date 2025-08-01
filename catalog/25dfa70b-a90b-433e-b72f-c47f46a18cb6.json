@@ -31,10 +31,20 @@
         "name": "אמ.בי.איי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +69,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.127695"
+    "lastUpdated": "2025-08-01T16:07:02.332633",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MESNA-CELL 100 MG/ML",
+        "registration": "154 04 34131 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MESNA-CELL 400MG/4ML 10AMPOULES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

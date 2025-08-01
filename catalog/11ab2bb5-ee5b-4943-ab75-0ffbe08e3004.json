@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 750.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.003025"
+    "lastUpdated": "2025-08-01T16:28:17.619396",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TUMS SMOOTHIES EX PEPPERMINT",
+        "registration": "134 94 31175 00",
+        "form": ""
+      },
+      {
+        "name": "TUMS SMOOTHIES EX BERRY FUSION",
+        "registration": "143 86 32015 00",
+        "form": ""
+      },
+      {
+        "name": "TUMS ULTRA ASSORTED BERRIES",
+        "registration": "124 55 30280 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TUMS SMOOTHIES EX TROPICAL FRUIT 750MG 60 TABS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

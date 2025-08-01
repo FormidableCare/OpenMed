@@ -1,10 +1,10 @@
 {
   "catalogId": "06aaa080-fdca-4eb3-b730-84002ed71f22",
-  "name": "TOPITRIM 100 MG",
+  "name": "TOPITRIM 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "136 65 31516 00",
+  "registrationNumber": "136 63 31514 00",
   "treatmentDescriptions": "In adjunctive therapy of adults and children (from 2 years) with partial seizures and generalized tonic-clonic seizures. In adjunctive therapy of seizures with Lennox-Gastaut syndrome in adults and children. Topitim is indicated as monotherapy in patients with newly diagnosed epilepsy in children aged 7 years and above or for conversion to monotherapy in patients with epilepsy. Topitrim is indicated in adults for the prevention of migraines. The use of Topitrim in the acute treatment of migraine has not been studied.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.932719"
-  }
+    "lastUpdated": "2025-08-01T16:54:10.428223",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOPITRIM 25MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:54:10.428236",
+      "previousRegistration": "136 65 31516 00",
+      "newRegistration": "136 63 31514 00",
+      "apiSource": "TOPITRIM 25 MG"
+    }
+  },
+  "nameHebrew": "טופיתרים 25",
+  "registrationDate": "2022-04-30"
 }

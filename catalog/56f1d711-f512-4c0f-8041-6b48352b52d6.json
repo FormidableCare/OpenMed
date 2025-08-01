@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.14,
+          "unit": "ml"
+        },
+        {
+          "value": 1.14,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -60,6 +70,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.428226"
-  }
+    "lastUpdated": "2025-08-01T16:28:48.935691",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DUPIXENT 200 MG/1.14ML 2 PFS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:28:48.935703",
+      "previousRegistration": "164 42 36128 00",
+      "newRegistration": "164 42 36128 00",
+      "apiSource": "DUPIXENT 200 MG"
+    }
+  },
+  "nameHebrew": "דופיקסנט 200 מ\"ג",
+  "registrationDate": "2025-03-31"
 }

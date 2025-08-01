@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.551868"
-  }
+    "lastUpdated": "2025-08-01T15:31:56.973524",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HYDROXYUREA 500MG 20CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:31:56.973546",
+      "previousRegistration": "168 84 35373 00",
+      "newRegistration": "168 84 35373 00",
+      "apiSource": "HYDROXYUREA MEDAC 500 MG"
+    }
+  },
+  "nameHebrew": "הידרוקסיאוריאה מדאק 500 מ\"ג",
+  "registrationDate": "2021-12-22"
 }

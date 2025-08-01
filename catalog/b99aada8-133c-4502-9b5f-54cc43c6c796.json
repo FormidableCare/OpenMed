@@ -31,10 +31,16 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.1,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.019366"
-  }
+    "lastUpdated": "2025-08-01T16:04:15.292895",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROMETHAZINE 0.1% 100ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.2,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:04:15.292908",
+      "previousRegistration": "167 08 35764 00",
+      "newRegistration": "167 08 35764 00",
+      "apiSource": "PHENERGAN 50 MG/2 ML"
+    }
+  },
+  "nameHebrew": "פנרגן 50 מ\"ג/2 מ\"ל",
+  "registrationDate": "2021-04-06"
 }

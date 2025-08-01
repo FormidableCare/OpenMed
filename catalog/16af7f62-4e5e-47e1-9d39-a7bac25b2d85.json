@@ -1,10 +1,10 @@
 {
   "catalogId": "16af7f62-4e5e-47e1-9d39-a7bac25b2d85",
-  "name": "SUNITINIB TARO 12.5 MG",
+  "name": "SUNITINIB TEVA  ® 12.5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 94 36017 00",
+  "registrationNumber": "163 78 35252 00",
   "treatmentDescriptions": "Sunitinib taro is indicated for:• Treatment of gastrointestinal stromal tumor after disease progression on or intolerance to imatinib mesylate. • Treatment of advanced renal cell carcinoma.• Treatment of unresectable or metastatic, well differentiated pancreatic neuroendocrine tumours (pNET) with disease progression.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 12.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.038555"
-  }
+    "lastUpdated": "2025-08-01T17:39:53.118524",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUNITINIB TARO 12.5 MG 28 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:39:53.118535",
+      "previousRegistration": "167 94 36017 00",
+      "newRegistration": "163 78 35252 00",
+      "apiSource": "SUNITINIB TEVA  ® 12.5 MG"
+    }
+  },
+  "nameHebrew": "סוניטיניב טבע® 12.5 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

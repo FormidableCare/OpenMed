@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "g"
+        },
+        {
+          "value": 10.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.600276"
-  }
+    "lastUpdated": "2025-08-01T17:55:42.635503",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XYLOCAINE PUMP SPRAY 10 % 50GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:55:42.635518",
+      "previousRegistration": "116 41 25500 00",
+      "newRegistration": "116 41 25500 00",
+      "apiSource": "XYLOCAINE PUMP SPRAY 10 %"
+    }
+  },
+  "nameHebrew": "קסילוקאין משאבת ספריי % 10",
+  "registrationDate": "2024-10-31"
 }

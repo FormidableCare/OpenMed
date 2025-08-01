@@ -1,10 +1,10 @@
 {
   "catalogId": "addac415-3847-47cf-bee6-5f5b0c264d50",
-  "name": "SERDOLECT 16 MG",
+  "name": "SERDOLECT 4 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 36 31472 00",
+  "registrationNumber": "137 34 31470 00",
   "treatmentDescriptions": "For the treatment of schizophrenia.   Due to cardiovascular safety concerns  serntidole should only be used for patients intolerant to at least one other anti-psychotic agent.   Sertindole should not be used in emergency situations for urgent relief of symptoms in acutely disturbed patients.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.939999"
-  }
+    "lastUpdated": "2025-08-01T15:43:05.463034",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SERDOLECT 4MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:43:05.463052",
+      "previousRegistration": "137 36 31472 00",
+      "newRegistration": "137 34 31470 00",
+      "apiSource": "SERDOLECT 4 MG"
+    }
+  },
+  "nameHebrew": "סרדולקט 4 מ\"ג",
+  "registrationDate": "2022-09-30"
 }

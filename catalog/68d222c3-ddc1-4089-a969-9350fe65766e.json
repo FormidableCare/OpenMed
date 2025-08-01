@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1000.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.536953"
+    "lastUpdated": "2025-08-01T16:10:08.267917",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GIROFLOX",
+        "registration": "133 31 30984 00",
+        "form": ""
+      },
+      {
+        "name": "NAFLOXIN",
+        "registration": "155 32 34358 00",
+        "form": ""
+      },
+      {
+        "name": "CETRAXAL",
+        "registration": "148 13 33374 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CIPROFLOXACIN TEVA INFUSION 2MG/ML 10BAGX100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.011111111111111112,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.276596"
-  }
+    "lastUpdated": "2025-08-01T16:30:01.681652",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ORFADIN 10MG 60CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:01.681661",
+      "previousRegistration": "147 27 33457 00",
+      "newRegistration": "147 27 33457 00",
+      "apiSource": "ORFADIN 10 MG HARD CAPSULES"
+    }
+  },
+  "nameHebrew": "אורפדין 10 מ\"ג קפסולות קשות",
+  "registrationDate": "2016-12-31"
 }

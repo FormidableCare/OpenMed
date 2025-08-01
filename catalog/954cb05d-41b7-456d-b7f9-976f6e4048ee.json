@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.798482"
+    "lastUpdated": "2025-08-01T16:19:33.329485",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "STRATTERA 4 MG/ML ORAL SOLUTION",
+        "registration": "158 61 35026 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "STRATTERA 10MG 28CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

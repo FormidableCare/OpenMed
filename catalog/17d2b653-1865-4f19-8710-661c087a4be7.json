@@ -1,10 +1,10 @@
 {
   "catalogId": "17d2b653-1865-4f19-8710-661c087a4be7",
-  "name": "STELARA 130 MG",
+  "name": "STELARA 45 MG VIAL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 52 35072 00",
+  "registrationNumber": "142 36 32021 00",
   "treatmentDescriptions": "Crohn’s Disease :STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.Ulcerative colitis :STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic or have medical contraindications to such therapies",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 45.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.045860"
-  }
+    "lastUpdated": "2025-08-01T16:26:18.056359",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "STELARA 45MG VIAL 1X0.5ML SOL. FOR INJ.",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:26:18.056366",
+      "previousRegistration": "158 52 35072 00",
+      "newRegistration": "142 36 32021 00",
+      "apiSource": "STELARA 45 MG VIAL"
+    }
+  },
+  "nameHebrew": "סטלרה 45 מ\"ג ויאל",
+  "registrationDate": "2024-12-31"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "ml"
+        },
+        {
+          "value": 10.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 5000.0,
         "unit": "units"
@@ -58,6 +64,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.573176"
-  }
+    "lastUpdated": "2025-08-01T16:47:24.654387",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMINOPLASMAL B. BRAUN 10% E 500ml 10 BOTTLE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:47:24.654403",
+      "previousRegistration": "150 94 33650 00",
+      "newRegistration": "150 94 33650 00",
+      "apiSource": "AMINOPLASMAL B. BRAUN 10% E"
+    }
+  },
+  "nameHebrew": "אמינופלסמל ב. בראון  % 10 E",
+  "registrationDate": "2018-10-31"
 }

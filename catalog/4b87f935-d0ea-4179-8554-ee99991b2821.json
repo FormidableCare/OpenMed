@@ -25,10 +25,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -48,11 +54,40 @@
         "retailMargin": "",
         "maxRetailPrice": 43.29,
         "maxPriceWithVAT": 51.0822
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.367564"
+    "lastUpdated": "2025-08-01T16:36:39.663535",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LAMISIL ONCE",
+        "registration": "137 26 31486 00",
+        "form": ""
+      },
+      {
+        "name": "LAMISIL SPRAY",
+        "registration": "117 13 29732 00",
+        "form": ""
+      },
+      {
+        "name": "LAMISIL CREAM",
+        "registration": "115 55 27562 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LAMISIL CREAM 1% 15GR(GSL)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16999999999999998,
+      "status": "failed_match"
+    }
   }
 }

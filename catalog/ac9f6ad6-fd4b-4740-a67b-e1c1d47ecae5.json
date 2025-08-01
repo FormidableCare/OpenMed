@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.931890"
-  }
+    "lastUpdated": "2025-08-01T15:34:32.664764",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ASSIVAL 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:32.664774",
+      "previousRegistration": "014 61 24381 03",
+      "newRegistration": "014 61 24381 03",
+      "apiSource": "ASSIVAL 5 MG"
+    }
+  },
+  "nameHebrew": "אסיוול 5 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

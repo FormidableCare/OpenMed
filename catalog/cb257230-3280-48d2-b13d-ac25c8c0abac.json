@@ -25,10 +25,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 48.0,
         "unit": "units"
@@ -52,6 +54,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.126990"
+    "lastUpdated": "2025-08-01T16:11:40.968938",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NICOTINELL LOZENGES 1 MG",
+        "registration": "136 54 31154 01",
+        "form": ""
+      },
+      {
+        "name": "NICOTINELL LOZENGES 2 MG",
+        "registration": "139 97 31643 01",
+        "form": ""
+      },
+      {
+        "name": "NICOTINELL 14mg / 24h patch",
+        "registration": "057 22 26983 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NICOTINELL GUM MINT 2GR 48 tab",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.018750000000000003,
+      "status": "failed_match"
+    }
   }
 }

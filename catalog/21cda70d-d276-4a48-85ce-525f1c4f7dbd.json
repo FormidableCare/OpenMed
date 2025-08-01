@@ -31,10 +31,20 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        },
+        {
+          "value": 0.8,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -59,6 +69,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.104277"
+    "lastUpdated": "2025-08-01T16:52:58.157357",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HULIO",
+        "registration": "167 87 36610 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HULIO 40MG/0.8ML 2 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.906383"
-  }
+    "lastUpdated": "2025-08-01T16:11:14.874274",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "INTELENCE 100MG 120 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:11:14.874296",
+      "previousRegistration": "141 29 31789 00",
+      "newRegistration": "141 29 31789 00",
+      "apiSource": "INTELENCE 100 MG"
+    }
+  },
+  "nameHebrew": "אינטלנס 100 מ\"ג",
+  "registrationDate": "2024-07-31"
 }

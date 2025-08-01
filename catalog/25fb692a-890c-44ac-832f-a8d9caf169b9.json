@@ -1,10 +1,10 @@
 {
   "catalogId": "25fb692a-890c-44ac-832f-a8d9caf169b9",
-  "name": "CORDAMIL 40 MG",
+  "name": "CORDAMIL 80 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 31 36504 99",
+  "registrationNumber": "168 85 36505 99",
   "treatmentDescriptions": "Cordamil is indicated for treatment of coronary heart disease, including:- chronic stable angina pectoris (effort angina), - unstable angina pectoris: - aggravated angina, resting angina, vasospastic angina (Prinzmetal angina)   - post heart-attack angina in patients without heart failure, when adrenergic beta-blockers are contraindicated. Prevention of ventricular fast heart rate disorders not controlled by tonic-cardiac glycosides or beta-blockers (for example supraventricular paroxysmal tachycardia, atrial fibrillation/ flutter with rapid ventricular response, except for Wolff-Parkinson-White syndrome.) Moderate to mild essential hypertension",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "טרוסטפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.128525"
-  }
+    "lastUpdated": "2025-08-01T17:00:48.567450",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CORDAMIL 80 MG 60 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:00:48.567465",
+      "previousRegistration": "169 31 36504 99",
+      "newRegistration": "168 85 36505 99",
+      "apiSource": "CORDAMIL 80 MG"
+    }
+  },
+  "nameHebrew": "קורדמיל 80 מ\"ג",
+  "registrationDate": "2021-12-30"
 }

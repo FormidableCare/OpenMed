@@ -31,10 +31,16 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg/vial"
+        },
+        {
+          "value": 4.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -60,6 +66,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.734198"
+    "lastUpdated": "2025-08-01T16:39:36.706180",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "UROMITEXAN 400 MG",
+        "registration": "153 48 34007 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "UROMITEXAN 400MG/VIAL 15X4ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

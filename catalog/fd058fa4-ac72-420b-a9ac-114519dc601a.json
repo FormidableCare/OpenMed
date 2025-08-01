@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 33.721317,
         "maxPriceWithVAT": 39.79115406
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.434680"
+    "lastUpdated": "2025-08-01T16:04:24.912049",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MONOCORD 20",
+        "registration": "052 51 23128 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 40",
+        "registration": "049 99 26415 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 50 S.R",
+        "registration": "050 88 26416 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MONOCORD 50MG SR 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

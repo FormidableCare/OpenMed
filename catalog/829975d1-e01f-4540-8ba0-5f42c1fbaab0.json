@@ -31,10 +31,12 @@
         "name": "ליברה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.674942"
+    "lastUpdated": "2025-08-01T16:53:09.328861",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TRAMAL INJECTION 100",
+        "registration": "125 54 30477 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMAL SUPPOSITORIES",
+        "registration": "125 80 30496 00",
+        "form": ""
+      },
+      {
+        "name": "TRAMAL CAPSULES",
+        "registration": "125 52 30459 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TRAMAL 50MG 30 CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

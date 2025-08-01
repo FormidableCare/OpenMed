@@ -1,10 +1,10 @@
 {
   "catalogId": "be79cb28-afe5-4400-af80-1eab0c55bc26",
-  "name": "ALBUNORM 20 %",
+  "name": "ALBUNORM 5 %",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 28 33713 00",
+  "registrationNumber": "150 27 33710 00",
   "treatmentDescriptions": "Restoration and maintenance of circulating blood volume where volume deficiency has been demonstrated, and use of a colloid is appropriate.The choice of albumin rather than artificial colloid will depend on the clinical situation of the individual patient, based on the official recommendations",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -31,10 +31,16 @@
         "name": "דובר מדיקל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 250.0,
         "unit": "units"
@@ -58,6 +64,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.051478"
-  }
+    "lastUpdated": "2025-08-01T17:10:30.468931",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALBUNORM 5% VIAL 250ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:10:30.468944",
+      "previousRegistration": "150 28 33713 00",
+      "newRegistration": "150 27 33710 00",
+      "apiSource": "ALBUNORM 5 %"
+    }
+  },
+  "nameHebrew": "אלבונורם % 5",
+  "registrationDate": "2018-06-30"
 }

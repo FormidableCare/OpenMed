@@ -31,10 +31,12 @@
         "name": "אבוט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.831606"
-  }
+    "lastUpdated": "2025-08-01T16:22:00.778097",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FEMOSTON CONTI 0.5 MG/2.5 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:22:00.778109",
+      "previousRegistration": "164 97 35630 00",
+      "newRegistration": "164 97 35630 00",
+      "apiSource": "FEMOSTON CONTI 0.5 MG/2.5 MG"
+    }
+  },
+  "nameHebrew": "פמוסטון קונטי 0.5 מ\"ג/ 2.5 מ\"ג",
+  "registrationDate": "2025-05-31"
 }

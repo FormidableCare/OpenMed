@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.349717"
+    "lastUpdated": "2025-08-01T16:22:19.350314",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SYNTHROID 100 MCG TABLETS",
+        "registration": "149 74 33763 01",
+        "form": ""
+      },
+      {
+        "name": "SYNTHROID 100 MCG TABLETS",
+        "registration": "149 74 33763 00",
+        "form": ""
+      },
+      {
+        "name": "SYNTHROID 50 MCG TABLETS",
+        "registration": "149 76 33764 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SYNTHROID 25MCG 100TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20833333333333334,
+      "status": "failed_match"
+    }
   }
 }

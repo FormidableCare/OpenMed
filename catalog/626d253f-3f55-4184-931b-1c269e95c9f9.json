@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.485897"
+    "lastUpdated": "2025-08-01T17:02:43.608309",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EBIXA TABLETS 10 MG",
+        "registration": "129 83 30891 00",
+        "form": ""
+      },
+      {
+        "name": "EBIXA TABLETS 20 MG",
+        "registration": "142 62 32007 00",
+        "form": ""
+      },
+      {
+        "name": "EBIXA 5 MG/PUMP ACTUATION ORAL SOLUTION",
+        "registration": "140 63 30890 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EBIXA DROPS 10MG/G 50ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

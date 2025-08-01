@@ -31,10 +31,12 @@
         "name": "סטמליין ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 345.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.006901"
-  }
+    "lastUpdated": "2025-08-01T16:12:01.943536",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ORSERDU 345 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:12:01.943551",
+      "previousRegistration": "176 11 37712 99",
+      "newRegistration": "176 11 37712 99",
+      "apiSource": "ORSERDU 345 MG"
+    }
+  },
+  "nameHebrew": "אורסרדו 345 מ\"ג",
+  "registrationDate": "2024-04-14"
 }

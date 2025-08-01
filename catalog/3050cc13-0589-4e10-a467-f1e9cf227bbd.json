@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.199023"
+    "lastUpdated": "2025-08-01T15:45:03.482317",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+        "registration": "122 43 30111 00",
+        "form": ""
+      },
+      {
+        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
+        "registration": "122 42 30110 00",
+        "form": ""
+      },
+      {
+        "name": "ADVIL LIQUI-GELS 200",
+        "registration": "115 33 29761 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADVIL GRAP SYR CHILD 120ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "11424ea4-906d-4559-b728-3ae26b0fe305",
-  "name": "ZINNAT TABLETS 125 MG",
+  "name": "ZINNAT TABLETS 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "041 40 25801 00",
+  "registrationNumber": "041 42 25802 00",
   "treatmentDescriptions": "Zinnat is indicated for the treatment of the infections listed below in adults and children from the age of 3 months .• Acute streptococcal tonsillitis and pharyngitis.• Acute bacterial sinusitis.• Acute otitis media.• Acute exacerbations of chronic bronchitis.• Cystitis.• Pyelonephritis.• Uncomplicated skin and soft tissue infections. •Treatment of early Lyme disease.Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.000762"
-  }
+    "lastUpdated": "2025-08-01T15:58:30.970697",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZINNAT 250MG 10TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:58:30.970711",
+      "previousRegistration": "041 40 25801 00",
+      "newRegistration": "041 42 25802 00",
+      "apiSource": "ZINNAT TABLETS 250 MG"
+    }
+  },
+  "nameHebrew": "זינט טבליות 250 מ\"ג",
+  "registrationDate": "2024-06-30"
 }

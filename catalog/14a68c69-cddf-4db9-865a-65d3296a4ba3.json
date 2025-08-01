@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 325.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.024770"
+    "lastUpdated": "2025-08-01T15:44:29.334168",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PERCOCET 10",
+        "registration": "139 21 31414 00",
+        "form": ""
+      },
+      {
+        "name": "PERCOCET 5",
+        "registration": "023 99 21468 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PERCOCET 5MG/325MG 20TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

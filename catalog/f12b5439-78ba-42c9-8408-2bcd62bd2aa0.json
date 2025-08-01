@@ -1,10 +1,10 @@
 {
   "catalogId": "f12b5439-78ba-42c9-8408-2bcd62bd2aa0",
-  "name": "NUROFEN FORTE LIQUID CAPSULES 400 MG",
+  "name": "NUROFEN TABLETS 200 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "148 44 31886 00",
+  "registrationNumber": "132 32 31025 00",
   "treatmentDescriptions": "Relief of mild to moderate pain such as headache, toothache, menstrual pain, backache, muscular pain, anti-inflammatory for rheumatic disease, reduction of fever.",
   "termsOfIssue": "",
   "form": "capsules liquid filled",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקיט בנקיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.365485"
-  }
+    "lastUpdated": "2025-08-01T17:27:30.456568",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NUROFEN LIQUID 200MG 10 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:27:30.456580",
+      "previousRegistration": "148 44 31886 00",
+      "newRegistration": "132 32 31025 00",
+      "apiSource": "NUROFEN TABLETS 200 MG"
+    }
+  },
+  "nameHebrew": "נורופן טבליות 200 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.773646"
+    "lastUpdated": "2025-08-01T15:39:03.383623",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HEMLIBRA 150 MG/ML",
+        "registration": "161 19 35415 00",
+        "form": ""
+      },
+      {
+        "name": "HEMLIBRA 30 MG/ML",
+        "registration": "161 18 35414 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HEMLIBRA 30 MG/ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

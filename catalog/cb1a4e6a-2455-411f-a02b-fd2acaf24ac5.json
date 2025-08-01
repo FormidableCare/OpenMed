@@ -59,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.126541"
+    "lastUpdated": "2025-08-01T15:27:22.132940",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LEMOCIN CHERRY",
+        "registration": "117 79 29907 00",
+        "form": ""
+      },
+      {
+        "name": "LEMOCIN LEMON",
+        "registration": "117 80 29908 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LEMOCIN CHERRY 24LOZ",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -31,10 +31,20 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.4,
+          "unit": "ml"
+        },
+        {
+          "value": 0.4,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -58,6 +68,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.632877"
+    "lastUpdated": "2025-08-01T17:13:16.497446",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HUMIRA",
+        "registration": "157 78 34788 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HUMIRA 40MG/0.4ML 2 PFS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

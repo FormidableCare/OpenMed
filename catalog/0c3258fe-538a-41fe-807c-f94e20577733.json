@@ -31,10 +31,16 @@
         "name": "ליף-רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        },
+        {
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +59,30 @@
         "retailMargin": "",
         "maxRetailPrice": 46.07,
         "maxPriceWithVAT": 54.3626
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.969808"
+    "lastUpdated": "2025-08-01T17:39:10.189646",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMASIL",
+        "registration": "134 74 31484 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMASIL 1% CREAM 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

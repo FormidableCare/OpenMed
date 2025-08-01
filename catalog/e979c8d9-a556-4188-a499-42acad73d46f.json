@@ -1,10 +1,10 @@
 {
   "catalogId": "e979c8d9-a556-4188-a499-42acad73d46f",
-  "name": "PIOGLITAZONE INOVAMED 15",
+  "name": "PIOGLITAZONE TEVA 45 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 54 35972 00",
+  "registrationNumber": "165 42 36345 00",
   "treatmentDescriptions": "Pioglitazone is indicated as second or third line treatment of type 2 diabetes mellitus as described below: as monotherapy - in adult patients (particularly overweight patients) inadequately controlled by diet and exercise for whom metformin is inappropriate because of contraindications or intolerance as dual oral therapy in combination with- metformin, in adult patients (particularly overweight patients) with insufficient glycaemic control despite maximal tolerated dose of monotherapy with metformin- a sulphonylurea, only in adult patients who show intolerance to metformin or for whom metformin is contraindicated, with insufficient glycaemic control despite maximal tolerated dose of monotherapy with a sulphonylurea. as triple oral therapy in combination with - metformin and a sulphonylurea, in adult patients (particularly overweight patients) with insufficient glycaemic control despite dual oral therapy.- Pioglitazone is also indicated for combination with insulin in type 2 diabetes mellitus adult patients with insufficient glycaemic control on insulin for whom metformin is inappropriate because of contraindications or intolerance.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 45.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.326447"
-  }
+    "lastUpdated": "2025-08-01T17:48:00.475246",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PIOGLITAZONE INOVAMED 45MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:48:00.475252",
+      "previousRegistration": "167 54 35972 00",
+      "newRegistration": "165 42 36345 00",
+      "apiSource": "PIOGLITAZONE TEVA 45 MG"
+    }
+  },
+  "nameHebrew": "פיוגליטזון טבע 45 מ\"ג",
+  "registrationDate": "2020-09-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "1fad7166-cd7f-4f23-ac7f-a2bbc294e83a",
-  "name": "NOVOSEVEN ® RT 1 MG/VIAL",
+  "name": "NOVOSEVEN ® RT 2 MG/VIAL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "142 63 32929 00",
+  "registrationNumber": "142 64 32930 00",
   "treatmentDescriptions": "NovoSeven ® RT is indicated for the treatment of bleeding episodes and for the prevention of bleeding in those undergoing surgery or invasive procedures in the following patient groups: •in patients with congenital haemophilia with inhibitors to coagulation factors VIII or IX > 5 Bethesda Units (BU) •in patients with congenital haemophilia who are expected to have a high anamnestic response to factor VIII or factor IX administration •in patients with acquired haemophilia •in patients with congenital FVII deficiency •in patients with Glanzmann’s thrombasthenia with past or present refractoriness to platelet transfusions, or where platelets are not readily available.Severe postpartum haemorrhageNovoSeven RT is indicated for the treatment of severe postpartum haemorrhage when uterotonics are insufficient to achieve haemostasis",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.090820"
-  }
+    "lastUpdated": "2025-08-01T15:33:12.213341",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOVOSEVEN RT 2MG/VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:33:12.213346",
+      "previousRegistration": "142 63 32929 00",
+      "newRegistration": "142 64 32930 00",
+      "apiSource": "NOVOSEVEN ® RT 2 MG/VIAL"
+    }
+  },
+  "nameHebrew": "נובוסבן אר.טי  2 מ\"ג/ בקבוקון",
+  "registrationDate": "2025-01-31"
 }

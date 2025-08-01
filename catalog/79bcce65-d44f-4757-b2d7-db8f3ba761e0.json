@@ -1,10 +1,10 @@
 {
   "catalogId": "79bcce65-d44f-4757-b2d7-db8f3ba761e0",
-  "name": "BOSULIF 100 MG",
+  "name": "BOSULIF 400 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 88 34014 00",
+  "registrationNumber": "164 34 36062 00",
   "treatmentDescriptions": "Bosulif is indicated for the treatment of adult patients with:• newly diagnosed chronic phase (CP) Philadelphia chromosome-positive chronic myelogenous leukaemia (Ph+ CML).• chronic phase (CP), accelerated phase (AP), and blast phase (BP) Philadelphia chromosome positive chronic myelogenous leukaemia (Ph+ CML) previously treated with one or more tyrosine kinase inhibitor(s) [TKI(s)] and for whom imatinib, nilotinib and dasatinib are not considered appropriate treatment options.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.623331"
-  }
+    "lastUpdated": "2025-08-01T16:18:19.060902",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BOSULIF 400 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:18:19.060922",
+      "previousRegistration": "152 88 34014 00",
+      "newRegistration": "164 34 36062 00",
+      "apiSource": "BOSULIF 400 MG"
+    }
+  },
+  "nameHebrew": "בוסוליף 400 מ\"ג",
+  "registrationDate": "2025-03-31"
 }

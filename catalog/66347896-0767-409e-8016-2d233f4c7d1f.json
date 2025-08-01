@@ -1,10 +1,10 @@
 {
   "catalogId": "66347896-0767-409e-8016-2d233f4c7d1f",
-  "name": "VOLTAREN EMULGEL 1%",
+  "name": "VOLTAREN EMULGEL FORTE 2%",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "037 66 25000 00",
+  "registrationNumber": "152 63 33919 00",
   "treatmentDescriptions": "Self medication for the following indications: Local treatment of pain, inflammation and swelling due to:  • Pain and inflammation and swelling in trauma of the tendons, ligaments, muscles and joints, e.g. due to sprains, strains and bruises and/or backache (e.g. sports injuries). • Localized forms of soft tissue rheumatism such as tendonitis (e.g.tennis elbow), bursitis.By Physicians order :• Pain caused by osteoarthrosis of the peripheral joints,  as of the knee or fingers",
   "termsOfIssue": "",
   "form": "gel",
@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "g"
+        },
+        {
+          "value": 2.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 150.0,
         "unit": "units"
@@ -52,11 +58,27 @@
         "retailMargin": "",
         "maxRetailPrice": 112.82,
         "maxPriceWithVAT": 133.1276
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.521118"
-  }
+    "lastUpdated": "2025-08-01T16:46:30.227755",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VOLTAREN EMULGEL FORTE 2% 150GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9900000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:46:30.227768",
+      "previousRegistration": "037 66 25000 00",
+      "newRegistration": "152 63 33919 00",
+      "apiSource": "VOLTAREN EMULGEL FORTE 2%"
+    }
+  },
+  "nameHebrew": "וולטרן אמולג'ל פורטה % 2",
+  "registrationDate": "2019-08-31"
 }

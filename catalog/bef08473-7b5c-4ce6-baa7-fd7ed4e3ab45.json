@@ -1,10 +1,10 @@
 {
   "catalogId": "bef08473-7b5c-4ce6-baa7-fd7ed4e3ab45",
-  "name": "REFIXIA 1000 IU",
+  "name": "REFIXIA 2000 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 35 37303 00",
+  "registrationNumber": "172 36 37304 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in pretreated patients with haemophilia B (congenital factor IX deficiency).",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נובו נורדיסק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.056544"
-  }
+    "lastUpdated": "2025-08-01T16:39:10.592618",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REFIXIA 2000 IU 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:39:10.592624",
+      "previousRegistration": "172 35 37303 00",
+      "newRegistration": "172 36 37304 00",
+      "apiSource": "REFIXIA 2000 IU"
+    }
+  },
+  "nameHebrew": "רפיקסיה 2000 יחב\"ל",
+  "registrationDate": "2023-03-15"
 }

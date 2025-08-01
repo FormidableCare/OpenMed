@@ -1,10 +1,10 @@
 {
   "catalogId": "fe6ec396-44b1-4f69-a24e-f310622ecda0",
-  "name": "CABOMETYX 20 MG",
+  "name": "CABOMETYX 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 99 35263 00",
+  "registrationNumber": "161 01 35264 00",
   "treatmentDescriptions": "Renal Cell Carcinoma (RCC)Cabometyx is indicated as monotherapy for advanced renal cell carcinoma- as first-line treatment of adult patients with intermediate or poor risk, per IMDC criteria.- in adults following prior vascular endothelial growth factor (VEGF)-targeted therapy.Cabometyx, in combination with nivolumab, is indicated for the first-line treatment of advanced renal cell carcinoma in adults.Hepatocellular Carcinoma (HCC)Cabometyx is indicated as monotherapy for the treatment of hepatocellular carcinoma (HCC), in adults with Child-Pugh Class A hepatic impairment who have previously been treated with sorafenib.Differentiated thyroid carcinoma (DTC)Cabometyx is indicated as monotherapy for the treatment of adult patients with locally advanced or metastatic differentiated thyroid carcinoma (DTC), refractory or not eligible to radioactive iodine (RAI) who have progressed during or after prior systemic therapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 18554.63215,
         "maxPriceWithVAT": 21894.46497
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.443564"
-  }
+    "lastUpdated": "2025-08-01T16:07:43.007234",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CABOMETYX 40 MG 30 FC TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:07:43.007245",
+      "previousRegistration": "160 99 35263 00",
+      "newRegistration": "161 01 35264 00",
+      "apiSource": "CABOMETYX 40 MG"
+    }
+  },
+  "nameHebrew": "קבומטיקס 40 מ\"ג",
+  "registrationDate": "2023-10-31"
 }

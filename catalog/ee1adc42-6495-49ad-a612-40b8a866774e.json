@@ -31,10 +31,20 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        {
+          "value": 8.0,
+          "unit": "ml"
+        },
+        {
+          "value": 8.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.347896"
+    "lastUpdated": "2025-08-01T16:07:20.142359",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
+        "registration": "159 94 35247 00",
+        "form": ""
+      },
+      {
+        "name": "BRIVIACT ORAL SOLUTION",
+        "registration": "159 93 35246 00",
+        "form": ""
+      },
+      {
+        "name": "RINGER LACTATED SOLUTION/VIOSER",
+        "registration": "169 66 36052 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SOLU MEDROL 500 MG/8ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0038461538461538464,
+      "status": "failed_match"
+    }
   }
 }

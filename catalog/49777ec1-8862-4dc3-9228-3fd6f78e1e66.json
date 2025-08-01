@@ -1,10 +1,10 @@
 {
   "catalogId": "49777ec1-8862-4dc3-9228-3fd6f78e1e66",
-  "name": "ISTURISA 1 MG",
+  "name": "ISTURISA 10 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "171 12 37207 99",
+  "registrationNumber": "171 14 37209 99",
   "treatmentDescriptions": "Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adult patients for whom surgery is not an option or has not been curative",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.358498"
-  }
+    "lastUpdated": "2025-08-01T17:30:29.723832",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ISTURISA 10 MG 60 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:29.723846",
+      "previousRegistration": "171 12 37207 99",
+      "newRegistration": "171 14 37209 99",
+      "apiSource": "ISTURISA 10 MG"
+    }
+  },
+  "nameHebrew": "איסטוריסה 10 מ\"ג",
+  "registrationDate": "2022-12-22"
 }

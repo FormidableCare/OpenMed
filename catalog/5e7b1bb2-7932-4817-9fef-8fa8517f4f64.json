@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        },
+        {
+          "value": 0.03,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.465589"
-  }
+    "lastUpdated": "2025-08-01T15:20:37.708194",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PROTOPIC 0.03% OINT 30GR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:20:37.708215",
+      "previousRegistration": "127 71 30667 00",
+      "newRegistration": "127 71 30667 00",
+      "apiSource": "PROTOPIC 0.03 %"
+    }
+  },
+  "nameHebrew": "פרוטופיק % 0.03",
+  "registrationDate": "2023-02-28"
 }

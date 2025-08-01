@@ -1,10 +1,10 @@
 {
   "catalogId": "97fe468f-9029-4e5d-b38d-7f8d4f10cf8f",
-  "name": "XCOPRI 100 MG",
+  "name": "XCOPRI 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 89 37493 99",
+  "registrationNumber": "172 91 37495 99",
   "treatmentDescriptions": "Xcopri is indicated for the adjunctive treatment of focal-onset seizures with or without secondary generalisation in adult patients with epilepsy who have not been adequately controlled despite a history of treatment with at least 2 anti-epileptic medicinal products.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.817305"
-  }
+    "lastUpdated": "2025-08-01T15:45:53.045720",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XCOPRI 200 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:53.045729",
+      "previousRegistration": "172 89 37493 99",
+      "newRegistration": "172 91 37495 99",
+      "apiSource": "XCOPRI 200 MG"
+    }
+  },
+  "nameHebrew": "אקסקופרי 200 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

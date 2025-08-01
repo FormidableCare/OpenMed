@@ -1,10 +1,10 @@
 {
   "catalogId": "6255c30f-449d-4f5c-a458-a3fb3ce817b5",
-  "name": "ESBRIET 267 MG TABLETS",
+  "name": "ESBRIET 801 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 66 35826 00",
+  "registrationNumber": "160 86 35231 00",
   "treatmentDescriptions": "Esbriet is indicated in adults for the treatment of mild to moderate idiopathic pulmonary fibrosis (IPF).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 801.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.485032"
-  }
+    "lastUpdated": "2025-08-01T16:39:00.902689",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ESBRIET 801 MG 90  COATED TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:39:00.902695",
+      "previousRegistration": "162 66 35826 00",
+      "newRegistration": "160 86 35231 00",
+      "apiSource": "ESBRIET 801 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אסברייט 801 מ\"ג טבליות",
+  "registrationDate": "2023-10-31"
 }

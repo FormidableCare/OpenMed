@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.985051"
-  }
+    "lastUpdated": "2025-08-01T16:45:43.531964",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LYNPARZA 100 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:45:43.531969",
+      "previousRegistration": "161 63 35469 00",
+      "newRegistration": "161 63 35469 00",
+      "apiSource": "LYNPARZA 100 MG"
+    }
+  },
+  "nameHebrew": "לינפארזה 100 מ\"ג",
+  "registrationDate": "2023-12-31"
 }

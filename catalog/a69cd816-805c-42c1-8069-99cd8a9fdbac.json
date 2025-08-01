@@ -1,10 +1,10 @@
 {
   "catalogId": "a69cd816-805c-42c1-8069-99cd8a9fdbac",
-  "name": "BENDAMUSTINE MEDAC 100 MG",
+  "name": "BENDAMUSTINE MEDAC 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 73 35386 00",
+  "registrationNumber": "163 72 35385 01",
   "treatmentDescriptions": "First-line treatment of chronic lymphocytic leukaemia (Binet stage B or C) in patients for whom fludarabine combination chemotherapy is not appropriate.Indolent non-Hodgkin’s lymphomas as monotherapy in patients, who have progressed during or within 6 months following treatment with rituximab or a rituximab containing regimen. Follicular non-Hodgkin’s lymphoma as first line treatment in combination with rituximab.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -31,10 +31,12 @@
         "name": "צמל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.888588"
-  }
+    "lastUpdated": "2025-08-01T16:43:31.515100",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BENDAMUSTINE MEDAC 25 MG 1 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:31.515108",
+      "previousRegistration": "163 73 35386 00",
+      "newRegistration": "163 72 35385 01",
+      "apiSource": "BENDAMUSTINE MEDAC 25 MG"
+    }
+  },
+  "nameHebrew": "בנדמוסטין מדאק 25 מ\"ג",
+  "registrationDate": "2020-02-19"
 }

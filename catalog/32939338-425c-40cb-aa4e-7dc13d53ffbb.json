@@ -31,10 +31,12 @@
         "name": "אומריקס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.210950"
+    "lastUpdated": "2025-08-01T17:11:21.161499",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EVICEL HUMAN SURGICAL SEALANT",
+        "registration": "118 61 29895 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EVICEL HUMAN SURGICAL SEALANT 2X1ML (ללא אפליקטור)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

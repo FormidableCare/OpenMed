@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.681926"
+    "lastUpdated": "2025-08-01T17:43:59.786020",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ENDOXAN 1 G INJECTION",
+        "registration": "144 19 29660 02",
+        "form": ""
+      },
+      {
+        "name": "ENDOXAN 500 MG INJECTION",
+        "registration": "144 18 29659 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ENDOXAN 1G/50ML 1INJ",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "664989bf-b477-439c-9722-45ca7c04f02b",
-  "name": "YENTREVE 20 MG",
+  "name": "YENTREVE 40 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 68 31140 12",
+  "registrationNumber": "132 69 31141 12",
   "treatmentDescriptions": "Yentreve is indicated for women for the treatment of moderate to severe Stress Urinary Incontinence (SUI).",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.522045"
-  }
+    "lastUpdated": "2025-08-01T16:44:15.466744",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "YENTREVE 40MG 56CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:44:15.466750",
+      "previousRegistration": "132 68 31140 12",
+      "newRegistration": "132 69 31141 12",
+      "apiSource": "YENTREVE 40 MG"
+    }
+  },
+  "nameHebrew": "יינטריב 40 מ\"ג",
+  "registrationDate": "2020-03-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "cba2b9fd-ba84-4a07-9e29-e9f02293ded4",
-  "name": "BUVIDAL 128 MG",
+  "name": "BUVIDAL 32 MG",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "168 78 36086 00",
+  "registrationNumber": "168 75 36083 00",
   "treatmentDescriptions": "Treatment of opioid dependence within a framework of medical, social and psychological treatment.Treatment is intended for use in adults and adolescents aged 16 years or over.",
   "termsOfIssue": "",
   "form": "prolonged release solution for injection",
@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 32.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.64,
+          "unit": "ml"
+        },
+        {
+          "value": 0.64,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +67,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.129230"
-  }
+    "lastUpdated": "2025-08-01T16:22:57.903655",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUVIDAL 32 MG/0.64 ML 1 syringe",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:22:57.903672",
+      "previousRegistration": "168 78 36086 00",
+      "newRegistration": "168 75 36083 00",
+      "apiSource": "BUVIDAL 32 MG"
+    }
+  },
+  "nameHebrew": "בובידל 32 מ\"ג",
+  "registrationDate": "2021-12-21"
 }

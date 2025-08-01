@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 162.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.565249"
-  }
+    "lastUpdated": "2025-08-01T17:19:26.796765",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ACTEMRA 162 MG S.C. 4 SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 0.83125,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:19:26.796773",
+      "previousRegistration": "153 15 34111 00",
+      "newRegistration": "153 15 34111 00",
+      "apiSource": "ACTEMRA 162 MG S.C."
+    }
+  },
+  "nameHebrew": "אקטמרה 162 מ\"ג S.C.",
+  "registrationDate": "2019-11-30"
 }

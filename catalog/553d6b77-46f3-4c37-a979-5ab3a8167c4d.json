@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "רז פרמהצפטי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.418875"
-  }
+    "lastUpdated": "2025-08-01T17:38:49.626555",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DOPAMINE HYDROCHLORIDE S.A.L.F. 200 MG/5 ML 5 AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 0.23076923076923078,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:38:49.626570",
+      "previousRegistration": "164 32 35059 00",
+      "newRegistration": "164 32 35059 00",
+      "apiSource": "DOPAMINE HYDROCHLORIDE S.A.L.F. 40 MG/1 ML"
+    }
+  },
+  "nameHebrew": "דופמין הידרוכלוריד ס.א.ל.פ 40 מ\"ג/1 מ\"ל",
+  "registrationDate": "2025-03-31"
 }

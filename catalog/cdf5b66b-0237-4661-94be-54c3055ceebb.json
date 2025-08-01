@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.168445"
-  }
+    "lastUpdated": "2025-08-01T15:23:34.208880",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIBINQO 100 MG  28 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:34.208892",
+      "previousRegistration": "171 31 37239 99",
+      "newRegistration": "171 31 37239 99",
+      "apiSource": "CIBINQO 100 MG"
+    }
+  },
+  "nameHebrew": "סיבינקו 100 מ\"ג",
+  "registrationDate": "2023-01-02"
 }

@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.789554"
-  }
+    "lastUpdated": "2025-08-01T17:38:20.713364",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KERENDIA 10 MG 28 F.C.T",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:38:20.713385",
+      "previousRegistration": "171 38 37226 99",
+      "newRegistration": "171 38 37226 99",
+      "apiSource": "KERENDIA 10 MG"
+    }
+  },
+  "nameHebrew": "קרנדיאה 10 מ\"ג",
+  "registrationDate": "2023-01-04"
 }

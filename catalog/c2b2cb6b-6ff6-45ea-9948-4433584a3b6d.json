@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +55,35 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.080003"
+    "lastUpdated": "2025-08-01T17:44:22.010746",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "LOPRESOR DIVITABS 200 MG",
+        "registration": "045 04 22324 00",
+        "form": ""
+      },
+      {
+        "name": "NEOBLOC",
+        "registration": "010 52 24172 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "METOPROLOL TARTRATE 25MG CITRON USA TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

@@ -25,10 +25,16 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.3,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -53,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.088443"
+    "lastUpdated": "2025-08-01T16:20:48.811934",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ADVOCIN INJECTABLE SOLUTION 2.5 % VETERINARY",
+        "registration": "083 84 92073 00",
+        "form": ""
+      },
+      {
+        "name": "OFLO-AVENIR",
+        "registration": "161 38 35277 00",
+        "form": ""
+      },
+      {
+        "name": "OFLODEX",
+        "registration": "121 99 30179 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OFLOX DROPS 0.3% 5ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

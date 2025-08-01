@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.063108"
-  }
+    "lastUpdated": "2025-08-01T17:13:58.080031",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "METADEX XR 10 MG S.K. 100 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:58.080046",
+      "previousRegistration": "172 56 37337 99",
+      "newRegistration": "172 56 37337 99",
+      "apiSource": "METADEX XR 10 MG"
+    }
+  },
+  "nameHebrew": "מטדקס אקס.אר 10 מ\"ג",
+  "registrationDate": "2023-03-28"
 }

@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 193.277625,
         "maxPriceWithVAT": 228.0675975
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.064809"
+    "lastUpdated": "2025-08-01T16:52:03.529177",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TADAM 10",
+        "registration": "157 81 34538 01",
+        "form": ""
+      },
+      {
+        "name": "TADAM 20",
+        "registration": "157 80 34537 01",
+        "form": ""
+      },
+      {
+        "name": "TADAM 5",
+        "registration": "157 79 34602 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TADAM 20 MG 4 \tFILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "2736e7f6-83e1-4214-bbf7-0866bbdc2a7c",
-  "name": "ALKINDI 0.5 MG",
+  "name": "ALKINDI 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 46 35964 00",
+  "registrationNumber": "164 49 35967 00",
   "treatmentDescriptions": "Alkindi is indicated for replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to < 18 years old)",
   "termsOfIssue": "Prescription required",
   "form": "granules in capsules for opening",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדומי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1645.816807,
         "maxPriceWithVAT": 1942.063746
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.136645"
-  }
+    "lastUpdated": "2025-08-01T17:00:40.776621",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALKINDI 5 MG 50 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:00:40.776626",
+      "previousRegistration": "164 46 35964 00",
+      "newRegistration": "164 49 35967 00",
+      "apiSource": "ALKINDI 5 MG"
+    }
+  },
+  "nameHebrew": "אלקינדי 5 מ\"ג",
+  "registrationDate": "2025-04-30"
 }

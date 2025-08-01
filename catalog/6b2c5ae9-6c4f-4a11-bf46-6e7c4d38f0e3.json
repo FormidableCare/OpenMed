@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.548795"
+    "lastUpdated": "2025-08-01T16:32:53.870886",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ACAMOL",
+        "registration": "020 16 20534 00",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL",
+        "registration": "128 74 25337 08",
+        "form": ""
+      },
+      {
+        "name": "ACAMOL ® TEVA TABLETS",
+        "registration": "176 60 36645 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACAMOL TSINUN & SHAPA'AT NIGHT 14 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03571428571428572,
+      "status": "failed_match"
+    }
   }
 }

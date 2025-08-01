@@ -1,10 +1,10 @@
 {
   "catalogId": "fb2aecd9-1cf4-446d-af28-c33c6030d1d4",
-  "name": "EVEROLIMUS TEVA ® 10 MG",
+  "name": "EVEROLIMUS TEVA 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 31 35379 00",
+  "registrationNumber": "163 29 35377 00",
   "treatmentDescriptions": "• For the treatment of patients with SEGA associated with tuberous sclerosis Complex (TSC) who require therapeutic intervention but are not candidates for curative surgical resection. The effectiveness of Everolimus is based on an analysis of change in SEGA volume. Clinical benefit such as improvement in disease-related symptoms or increase in overall survival has not been demonstrated. • Treatment of progressive neuroendocrine tumors of pancreatic origin (PNET) in patients with unresectable, locally advanced or metastatic disease. The safety and effectiveness of Everolimus in the treatment of patients with carcinoid tumors have not been established.• For the treatment of hormone receptor – positive, HER2/neu negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression follwing a non – steroidal aromatase inhibitor.• Everolimus Teva is indicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery. The effectiveness of Everolimus in treatment of renal angiomyolipoma is based on an analysis of durable objective responses in patients treated for a median of 8.3 months. Further follow-up of patients is required to determine long-term outcomes.• Everolimus Teva is indicated for the treatment of patients with advanced renal cell carcinoma, whose disease has progressed on or after treatment with VEGF-targeted therapy.•Treatment of unresectable, locally advanced or metastatic, well-differentiated (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal or lung origin in adults with progressive disease",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.423760"
-  }
+    "lastUpdated": "2025-08-01T17:50:30.975158",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EVEROLIMUS TEVA 5 MG  30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8400000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:30.975166",
+      "previousRegistration": "163 31 35379 00",
+      "newRegistration": "163 29 35377 00",
+      "apiSource": "EVEROLIMUS TEVA 5 MG"
+    }
+  },
+  "nameHebrew": "אברולימוס טבע 5 מ\"ג",
+  "registrationDate": "2024-12-31"
 }

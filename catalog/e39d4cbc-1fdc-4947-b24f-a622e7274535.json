@@ -46,11 +46,40 @@
         "retailMargin": "",
         "maxRetailPrice": 51.2,
         "maxPriceWithVAT": 60.416
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.290223"
+    "lastUpdated": "2025-08-01T16:10:26.559995",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SINUCLEAR EXTRACT TABLETS",
+        "registration": "177 48 36980 00",
+        "form": ""
+      },
+      {
+        "name": "SINUCLEAR TABLETS",
+        "registration": "158 57 34682 00",
+        "form": ""
+      },
+      {
+        "name": "SINUCLEAR SYRUP",
+        "registration": "171 01 34683 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SINUCLEAR EXTRACT  20 TABLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.1875,
+      "status": "failed_match"
+    }
   }
 }

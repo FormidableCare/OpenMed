@@ -31,10 +31,20 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 80.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 25.0,
         "unit": "units"
@@ -58,6 +68,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.448597"
+    "lastUpdated": "2025-08-01T17:36:26.805648",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TOBREX OPHTHALMIC OINTMENT",
+        "registration": "047 16 22795 00",
+        "form": ""
+      },
+      {
+        "name": "EYETOBRIN",
+        "registration": "179 19 37677 99",
+        "form": ""
+      },
+      {
+        "name": "BRAMITOB",
+        "registration": "144 24 32986 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TOBRAMYCIN 80MG/2ML 25AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "19f405c7-0f3f-4709-b112-864715d5fbf9",
-  "name": "SYMDEKO 100 MG/150 MG & 150 MG",
+  "name": "SYMDEKO 50 MG/75 MG & 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 71 35683 00",
+  "registrationNumber": "167 05 36310 00",
   "treatmentDescriptions": "SYMDEKO is a combination of tezacaftor and ivacaftor, indicated for the treatment of patients with cystic fibrosis (CF) aged 12 years and older who are homozygous for the F508del mutation or who have at least one mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene that is responsive to tezacaftor/ivacaftor based on in vitro data and/or clinical evidence.If the patient’s genotype is unknown, a health authority cleared CF mutation test should be used to detect the presence of a CFTR mutation followed by verification with bi-directional sequencing when recommended by the mutation test instructions for use.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.057598"
-  }
+    "lastUpdated": "2025-08-01T17:25:45.260536",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SYMDEKO 50MG/75MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:25:45.260556",
+      "previousRegistration": "162 71 35683 00",
+      "newRegistration": "167 05 36310 00",
+      "apiSource": "SYMDEKO 50 MG/75 MG & 75 MG"
+    }
+  },
+  "nameHebrew": "סימדקו 50 מ\"ג/75 מ\"ג ו-75 מ\"ג",
+  "registrationDate": "2021-04-04"
 }

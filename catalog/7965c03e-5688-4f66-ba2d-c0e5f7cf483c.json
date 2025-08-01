@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "mg"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        },
+        {
+          "value": 25.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.621674"
+    "lastUpdated": "2025-08-01T16:14:30.120905",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GEMCITABINE TEVA ® CONCENTRATE",
+        "registration": "150 90 33868 00",
+        "form": ""
+      },
+      {
+        "name": "GEMCITABINE \"EBEWE\" 40MG/ML",
+        "registration": "145 95 33400 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GEMCITABINE  EBEWE  1000MG/25ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

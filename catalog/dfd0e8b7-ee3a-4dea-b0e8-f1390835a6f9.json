@@ -1,10 +1,10 @@
 {
   "catalogId": "dfd0e8b7-ee3a-4dea-b0e8-f1390835a6f9",
-  "name": "ABILIFY  MAINTENA 300 MG",
+  "name": "ARIPIPRAZOLE MEDO 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 68 34089 00",
+  "registrationNumber": "179 17 37688 99",
   "treatmentDescriptions": "Abilify Maintena is indicated for maintenance treatment of schizophrenia in adult patients stabilised with oral aripiprazole.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for prolonged-release suspension for injection",
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.265828"
-  }
+    "lastUpdated": "2025-08-01T16:27:35.751753",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ARIPIPRAZOLE SANDOZ 30 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:27:35.751764",
+      "previousRegistration": "153 68 34089 00",
+      "newRegistration": "179 17 37688 99",
+      "apiSource": "ARIPIPRAZOLE MEDO 30 MG"
+    }
+  },
+  "nameHebrew": "אריפיפרזול מדו 30 מ\"ג",
+  "registrationDate": "2025-05-13"
 }

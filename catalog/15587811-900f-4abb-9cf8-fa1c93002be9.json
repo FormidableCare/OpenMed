@@ -31,10 +31,20 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,38 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.028285"
+    "lastUpdated": "2025-08-01T15:20:29.299393",
+    "tags": [
+      "smart_validation_failed",
+      "best_score_0.01",
+      "needs_manual_review"
+    ],
+    "validationFailure": {
+      "failedAt": "2025-08-01T15:03:40.205455",
+      "csvSource": "SYNAGIS 50MG/0.5ML 1 VIAL",
+      "bestMatchScore": 0.008333333333333333,
+      "availableApiOptions": [
+        {
+          "name": "synagis",
+          "registration": "155 56 34505 00",
+          "form": ""
+        }
+      ],
+      "reason": "insufficient_match_score",
+      "recommendedAction": "manual_review_required"
+    },
+    "availableApiOptions": [
+      {
+        "name": "synagis",
+        "registration": "155 56 34505 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SYNAGIS 50MG/0.5ML 1 VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "5a0c6b44-e5ab-40ca-bc17-6cade387f050",
-  "name": "COUMADIN 1 MG",
+  "name": "COUMADIN 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "111 43 29373 00",
+  "registrationNumber": "111 48 29378 00",
   "treatmentDescriptions": "Coumadin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, and pulmonary embolism. Coumadin is indicated for the prophylaxis and/or treatment of the thromboembolic complications associated with atrial fibrillation and/or cardiac valve replacement. Coumadin is indicated to reduce the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.443341"
-  }
+    "lastUpdated": "2025-08-01T17:26:49.796875",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "COUMADIN 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:26:49.796888",
+      "previousRegistration": "111 43 29373 00",
+      "newRegistration": "111 48 29378 00",
+      "apiSource": "COUMADIN 5 MG"
+    }
+  },
+  "nameHebrew": "קומדין 5 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

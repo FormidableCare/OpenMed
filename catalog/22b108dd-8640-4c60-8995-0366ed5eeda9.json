@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.109563"
+    "lastUpdated": "2025-08-01T16:04:45.916201",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TEGRETOL 200 MG",
+        "registration": "015 41 24602 00",
+        "form": ""
+      },
+      {
+        "name": "TEGRETOL CR 200 MG",
+        "registration": "041 24 25416 00",
+        "form": ""
+      },
+      {
+        "name": "TEGRETOL CR 400 MG",
+        "registration": "041 23 25417 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TEGRETOL CR 200 50T",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.975326"
+    "lastUpdated": "2025-08-01T17:12:06.763869",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DUPLEX 10/160",
+        "registration": "153 26 34298 01",
+        "form": ""
+      },
+      {
+        "name": "DUPLEX 5/160",
+        "registration": "152 73 34093 01",
+        "form": ""
+      },
+      {
+        "name": "DUPLEX 5/80",
+        "registration": "153 59 34303 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DUPLEX 5/80 30 TABS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

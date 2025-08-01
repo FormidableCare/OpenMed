@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 24.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 1533.519971,
         "maxPriceWithVAT": 1809.553485
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.078225"
-  }
+    "lastUpdated": "2025-08-01T16:59:52.790022",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NOXAFIL 100 MG GASTRO-RESISTANT 24 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9928571428571429,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:59:52.790037",
+      "previousRegistration": "156 42 34550 00",
+      "newRegistration": "156 42 34550 00",
+      "apiSource": "NOXAFIL 100 MG GASTRO-RESISTANT TABLETS"
+    }
+  },
+  "nameHebrew": "נוקספיל 100 מ\"ג טבליות עמידות בקיבה",
+  "registrationDate": "2021-05-31"
 }

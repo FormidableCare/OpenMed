@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.409244"
+    "lastUpdated": "2025-08-01T15:28:17.495313",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ABITREN TEVA ® 75 MG/3 ML",
+        "registration": "159 38 34860 00",
+        "form": ""
+      },
+      {
+        "name": "ABITREXATE TEVA",
+        "registration": "048 96 23819 05",
+        "form": ""
+      },
+      {
+        "name": "ABIPLATIN TEVA",
+        "registration": "031 30 25429 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TEVA - COLD CAPLETS 20 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

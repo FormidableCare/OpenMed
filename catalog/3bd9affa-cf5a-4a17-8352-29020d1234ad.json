@@ -1,10 +1,10 @@
 {
   "catalogId": "3bd9affa-cf5a-4a17-8352-29020d1234ad",
-  "name": "DESCOVY 200 MG/10 MG",
+  "name": "DESCOVY 200 MG/25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 05 34949 00",
+  "registrationNumber": "158 06 34950 00",
   "treatmentDescriptions": "Descovy is indicated in combination with other antiretroviral agents for the treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus type 1 (HIV 1).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "גיליאד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.287065"
-  }
+    "lastUpdated": "2025-08-01T16:31:01.911545",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DESCOVY 200MG/25MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:01.911552",
+      "previousRegistration": "158 05 34949 00",
+      "newRegistration": "158 06 34950 00",
+      "apiSource": "DESCOVY 200 MG/25 MG"
+    }
+  },
+  "nameHebrew": "דסקובי  25 מ\"ג/מ\"ג 200",
+  "registrationDate": "2022-02-28"
 }

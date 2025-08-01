@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.011872"
-  }
+    "lastUpdated": "2025-08-01T15:24:58.049361",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VERZENIO  100MG 14 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:24:58.049368",
+      "previousRegistration": "161 44 35391 00",
+      "newRegistration": "161 44 35391 00",
+      "apiSource": "VERZENIO 100 MG"
+    }
+  },
+  "nameHebrew": "ורזניו 100 מ\"ג",
+  "registrationDate": "2023-11-30"
 }

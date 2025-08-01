@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.357506"
-  }
+    "lastUpdated": "2025-08-01T15:34:10.399294",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LENALIDOMIDE TEVA  10 MG 21 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:10.399305",
+      "previousRegistration": "161 82 35502 00",
+      "newRegistration": "161 82 35502 00",
+      "apiSource": "LENALIDOMIDE TEVA ® 10 MG"
+    }
+  },
+  "nameHebrew": "לנלידומיד טבע ® 10 מ\"ג",
+  "registrationDate": "2024-01-31"
 }

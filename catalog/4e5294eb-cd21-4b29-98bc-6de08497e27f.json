@@ -31,10 +31,12 @@
         "name": "מגאפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.379655"
+    "lastUpdated": "2025-08-01T17:08:09.041699",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ENDARI",
+        "registration": "164 80 35650 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ENDARI 5 G 60 PACKETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

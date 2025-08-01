@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -53,11 +55,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 285.2889004,
         "maxPriceWithVAT": 336.6408875
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.364741"
-  }
+    "lastUpdated": "2025-08-01T16:09:21.232283",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VENCLEXTA 10 MG 14 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9900000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:21.232301",
+      "previousRegistration": "158 19 34868 00",
+      "newRegistration": "158 19 34868 00",
+      "apiSource": "VENCLEXTA 10 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ונקלקסטה 10 מ\"ג טבליות",
+  "registrationDate": "2022-03-31"
 }

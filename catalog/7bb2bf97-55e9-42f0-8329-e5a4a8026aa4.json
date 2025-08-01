@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 240.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 240.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.637317"
+    "lastUpdated": "2025-08-01T15:30:02.805825",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZOELY",
+        "registration": "150 67 33784 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MEGESTROL 40MG/ML 240ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

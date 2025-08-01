@@ -1,10 +1,10 @@
 {
   "catalogId": "2b46a214-5a8d-45a6-88dd-3904d0c1cccf",
-  "name": "BUDESONIDE STERINEBS TEVA ® 0.5 MG/2 ML",
+  "name": "BUDESON 3 MG CAPSULES",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "142 43 33002 00",
+  "registrationNumber": "104 52 28653 00",
   "treatmentDescriptions": "Bronchial asthma especially in cases where other therapy is insufficient or insuitable.",
   "termsOfIssue": "Prescription required",
   "form": "suspension for inhalation",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.163846"
-  }
+    "lastUpdated": "2025-08-01T15:46:11.837879",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUDESON 3MG 100CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:46:11.837886",
+      "previousRegistration": "142 43 33002 00",
+      "newRegistration": "104 52 28653 00",
+      "apiSource": "BUDESON 3 MG CAPSULES"
+    }
+  },
+  "nameHebrew": "בודסון 3 מ\"ג כמוסות",
+  "registrationDate": "2022-02-28"
 }

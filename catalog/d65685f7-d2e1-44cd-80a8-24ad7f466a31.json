@@ -31,10 +31,12 @@
         "name": "יאנסן סילג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.212045"
+    "lastUpdated": "2025-08-01T16:23:51.787224",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HALDOL 2 MG/ML DROPS",
+        "registration": "029 70 25163 00",
+        "form": ""
+      },
+      {
+        "name": "HALDOL 5 MG",
+        "registration": "025 56 21624 00",
+        "form": ""
+      },
+      {
+        "name": "HALDOL AMPOULES",
+        "registration": "024 04 21146 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HALDOL DROPS 30ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

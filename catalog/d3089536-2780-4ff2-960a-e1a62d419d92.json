@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 5000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.192462"
-  }
+    "lastUpdated": "2025-08-01T15:23:53.881745",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BINOCRIT 5000 IU/0.5ML 6 SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8136363636363637,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:23:53.881758",
+      "previousRegistration": "147 08 33360 00",
+      "newRegistration": "147 08 33360 00",
+      "apiSource": "BINOCRIT 1000 IU/ 0.5 ML"
+    }
+  },
+  "nameHebrew": "בינוקריט 1000 יחב\"ל/ 0.5 מ\"ל",
+  "registrationDate": "2016-12-31"
 }

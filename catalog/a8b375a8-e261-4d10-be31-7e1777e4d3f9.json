@@ -31,10 +31,12 @@
         "name": "ג'ונסון אנד ג'ונסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 40.0,
         "unit": "units"
@@ -54,11 +56,35 @@
         "retailMargin": "",
         "maxRetailPrice": 18.05,
         "maxPriceWithVAT": 21.299
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.899441"
+    "lastUpdated": "2025-08-01T15:20:45.905022",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DAKTARIN ORAL GEL",
+        "registration": "038 08 20857 00",
+        "form": ""
+      },
+      {
+        "name": "DAKTARIN CREAM",
+        "registration": "048 83 24118 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DAKTARIN ORAL GEL40G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.175,
+      "status": "failed_match"
+    }
   }
 }

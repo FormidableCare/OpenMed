@@ -31,10 +31,20 @@
         "name": "מרק סרונו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.75,
+          "unit": "ml"
+        },
+        {
+          "value": 600.0,
+          "unit": "iu"
+        },
+        {
+          "value": 450.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.921209"
+    "lastUpdated": "2025-08-01T16:49:08.329334",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GONAL-F",
+        "registration": "131 55 31061 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GONAL-F 600IU/ML PREFILLED PEN 0.75ML (450 IU)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

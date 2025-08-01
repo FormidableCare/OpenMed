@@ -59,6 +59,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.072065"
+    "lastUpdated": "2025-08-01T15:32:24.916775",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "POLYDINE TINCTURE",
+        "registration": "044 36 23412 00",
+        "form": ""
+      },
+      {
+        "name": "POLYDINE OINTMENT",
+        "registration": "116 74 23415 00",
+        "form": ""
+      },
+      {
+        "name": "POLYDINE VAGINAL PESSARIES",
+        "registration": "044 68 23414 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "POLYDINE SOL 1000CC",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

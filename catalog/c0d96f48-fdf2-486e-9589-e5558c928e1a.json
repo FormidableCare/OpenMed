@@ -1,10 +1,10 @@
 {
   "catalogId": "c0d96f48-fdf2-486e-9589-e5558c928e1a",
-  "name": "VOXZOGO 0.4 MG",
+  "name": "VOXZOGO 0.56 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "175 72 37698 00",
+  "registrationNumber": "175 73 37699 00",
   "treatmentDescriptions": "Voxzogo is indicated for the treatment of achondroplasia in paediatric patients whose epiphyses are not closed. The diagnosis of achondroplasia should be confirmed by appropriate genetic testing.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.56,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.066987"
-  }
+    "lastUpdated": "2025-08-01T17:10:13.707774",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VOXZOGO 0.56 MG 10 VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:10:13.707784",
+      "previousRegistration": "175 72 37698 00",
+      "newRegistration": "175 73 37699 00",
+      "apiSource": "VOXZOGO 0.56 MG"
+    }
+  },
+  "nameHebrew": "ווקסוגו 0.56 מ\"ג",
+  "registrationDate": "2024-02-18"
 }

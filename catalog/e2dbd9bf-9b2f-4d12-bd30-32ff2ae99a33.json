@@ -1,10 +1,10 @@
 {
   "catalogId": "e2dbd9bf-9b2f-4d12-bd30-32ff2ae99a33",
-  "name": "ADVAGRAF 0.5 MG",
+  "name": "ADVAGRAF 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "153 07 34071 00",
+  "registrationNumber": "153 08 34073 00",
   "treatmentDescriptions": "Prophylaxis of transplant rejection in adult kidney or liver allograft recipients.Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult kidney or liver allograft recipient patients.",
   "termsOfIssue": "Prescription required",
   "form": "capsules prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטלס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.284097"
-  }
+    "lastUpdated": "2025-08-01T17:21:22.186792",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ADVAGRAF 1MG 50  P.R. CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:21:22.186801",
+      "previousRegistration": "153 07 34071 00",
+      "newRegistration": "153 08 34073 00",
+      "apiSource": "ADVAGRAF 1 MG"
+    }
+  },
+  "nameHebrew": "אדבגרף 1 מ\"ג",
+  "registrationDate": "2019-11-30"
 }

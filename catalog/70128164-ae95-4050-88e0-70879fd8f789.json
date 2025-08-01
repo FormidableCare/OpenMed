@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.575062"
+    "lastUpdated": "2025-08-01T17:17:02.134240",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MEGAXIN IV",
+        "registration": "126 36 30540 00",
+        "form": ""
+      },
+      {
+        "name": "MEGAXIN TABLETS",
+        "registration": "117 77 29884 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MEGAXIN 400MG 5TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

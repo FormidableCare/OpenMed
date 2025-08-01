@@ -59,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.016294"
+    "lastUpdated": "2025-08-01T16:33:10.204104",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "NEOSTIGMINE -  HAMELN 2.5 MG/ML INJECTION",
+        "registration": "151 23 33874 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "NEOSTIGMINE -  HAMELN 2.5 MG/ML 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

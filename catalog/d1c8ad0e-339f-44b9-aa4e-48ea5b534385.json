@@ -31,10 +31,12 @@
         "name": "אמי טכנולוגיות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -52,11 +54,30 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 59.37339244,
         "maxPriceWithVAT": 70.06059996
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.187564"
+    "lastUpdated": "2025-08-01T16:27:50.333041",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SOOLANTRA",
+        "registration": "167 59 36606 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SOOLANTRA 10 MG/G CREAM 15 GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

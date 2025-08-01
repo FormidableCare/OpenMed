@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.429520"
+    "lastUpdated": "2025-08-01T16:19:16.102040",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "XYNTHA 1000 IU",
+        "registration": "137 80 31593 00",
+        "form": ""
+      },
+      {
+        "name": "XYNTHA 2000 IU",
+        "registration": "137 81 31594 00",
+        "form": ""
+      },
+      {
+        "name": "XYNTHA  500 IU",
+        "registration": "137 79 31592 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "XYNTHA 250 IU 1VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.22000000000000003,
+      "status": "failed_match"
+    }
   }
 }

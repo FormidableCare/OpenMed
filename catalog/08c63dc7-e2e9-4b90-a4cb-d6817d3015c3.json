@@ -1,10 +1,10 @@
 {
   "catalogId": "08c63dc7-e2e9-4b90-a4cb-d6817d3015c3",
-  "name": "OCALIVA 10 MG",
+  "name": "OCALIVA  5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 33 35218 00",
+  "registrationNumber": "160 32 35217 00",
   "treatmentDescriptions": "OCALIVA is indicated for the treatment of primary biliary cholangitis (also known as primary biliary cirrhosis) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA or as monotherapy in adults unable to tolerate UDCA.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.943094"
-  }
+    "lastUpdated": "2025-08-01T15:55:56.813221",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "OCALIVA 5 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:55:56.813227",
+      "previousRegistration": "160 33 35218 00",
+      "newRegistration": "160 32 35217 00",
+      "apiSource": "OCALIVA  5 MG"
+    }
+  },
+  "nameHebrew": "אוקליבה 5 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

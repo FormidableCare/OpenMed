@@ -1,10 +1,10 @@
 {
   "catalogId": "dbbef2d4-3fd7-4723-8d1a-f2ec74c9e619",
-  "name": "SUNOSI 150 MG",
+  "name": "SUNOSI 75 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 81 37285 99",
+  "registrationNumber": "172 80 37284 99",
   "treatmentDescriptions": "Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy).Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients with obstructive sleep apnoea (OSA) whose EDS has not been satisfactorily treated by primary OSA therapy, such as continuous positive airway pressure (CPAP).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 75.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 951.7207466,
         "maxPriceWithVAT": 1123.030431
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.240275"
-  }
+    "lastUpdated": "2025-08-01T16:20:23.646445",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUNOSI 75 MG 28 FILM COATED TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:20:23.646450",
+      "previousRegistration": "172 81 37285 99",
+      "newRegistration": "172 80 37284 99",
+      "apiSource": "SUNOSI 75 MG"
+    }
+  },
+  "nameHebrew": "סנוסי 75 מ\"ג",
+  "registrationDate": "2023-04-25"
 }

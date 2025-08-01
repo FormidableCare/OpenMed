@@ -25,10 +25,12 @@
         "name": "לפידות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 3.5,
         "unit": "units"
@@ -53,6 +55,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.916233"
+    "lastUpdated": "2025-08-01T15:49:26.933235",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DURATEARS",
+        "registration": "109 33 24050 00",
+        "form": ""
+      },
+      {
+        "name": "V-TEARS",
+        "registration": "100 93 28588 02",
+        "form": ""
+      },
+      {
+        "name": "TEARS NATURAL II",
+        "registration": "122 83 30193 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DURATEARS OINT 3.5GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

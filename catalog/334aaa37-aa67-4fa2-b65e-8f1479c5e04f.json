@@ -1,10 +1,10 @@
 {
   "catalogId": "334aaa37-aa67-4fa2-b65e-8f1479c5e04f",
-  "name": "ETORICOXIB DEXCEL 120 MG",
+  "name": "ETORICOXIB DEXCEL 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 18 34751 00",
+  "registrationNumber": "160 16 34749 00",
   "treatmentDescriptions": "For the symptomatic relief of the pain and signs of inflammation associated with acute gouty arthritis.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.213385"
-  }
+    "lastUpdated": "2025-08-01T16:50:22.242083",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ETORICOXIB DEXCEL 60 MG 14 tabs",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:22.242093",
+      "previousRegistration": "160 18 34751 00",
+      "newRegistration": "160 16 34749 00",
+      "apiSource": "ETORICOXIB DEXCEL 60 MG"
+    }
+  },
+  "nameHebrew": "אטוריקוקסיב דקסל 60 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

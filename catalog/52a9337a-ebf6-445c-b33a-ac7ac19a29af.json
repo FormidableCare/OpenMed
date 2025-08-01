@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.405164"
+    "lastUpdated": "2025-08-01T16:56:00.808373",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MEMOX 10",
+        "registration": "133 16 31117 02",
+        "form": ""
+      },
+      {
+        "name": "MEMOX 20",
+        "registration": "146 09 32965 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MEMOX 10MG 56TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "c17b691c-b03a-4a44-bda6-1bc6884b821d",
-  "name": "AGISERC 16",
+  "name": "BETAHISTINE TEVA ® 16 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "056 87 27365 00",
+  "registrationNumber": "150 24 33758 00",
   "treatmentDescriptions": "Meniere's syndrom. Symptomatic treatment of peripheral vertigo.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 16.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.071590"
-  }
+    "lastUpdated": "2025-08-01T15:34:19.562670",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AGISERC 16MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:34:19.562677",
+      "previousRegistration": "056 87 27365 00",
+      "newRegistration": "150 24 33758 00",
+      "apiSource": "BETAHISTINE TEVA ® 16 MG"
+    }
+  },
+  "nameHebrew": "בטאהיסטין טבע ® 16 מ\"ג",
+  "registrationDate": "2018-06-30"
 }

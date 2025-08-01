@@ -59,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.227681"
+    "lastUpdated": "2025-08-01T15:21:07.404171",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "L-THYROXINE SERB",
+        "registration": "165 27 35356 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "L-THYROXINE SERB 6 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

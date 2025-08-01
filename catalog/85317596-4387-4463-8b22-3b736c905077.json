@@ -1,10 +1,10 @@
 {
   "catalogId": "85317596-4387-4463-8b22-3b736c905077",
-  "name": "PREVYMIS 240 MG FILM-COATED TABLETS",
+  "name": "PREVYMIS 480 MG FILM-COATED TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 13 35974 00",
+  "registrationNumber": "166 14 35993 00",
   "treatmentDescriptions": "PREVYMIS is indicated for prophylaxis of cytomegalovirus (CMV) reactivation and disease in adult CMV-seropositive recipients [R+] of an allogeneic haematopoietic stem cell transplant (HSCT).Consideration should be given to official guidance on the appropriate use of antiviral agents.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 480.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.688407"
-  }
+    "lastUpdated": "2025-08-01T17:48:56.145849",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREVYMIS 480 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:48:56.145905",
+      "previousRegistration": "166 13 35974 00",
+      "newRegistration": "166 14 35993 00",
+      "apiSource": "PREVYMIS 480 MG FILM-COATED TABLETS"
+    }
+  },
+  "nameHebrew": "פרווימיס 480 מ\"ג טבליות מצופות",
+  "registrationDate": "2020-12-03"
 }

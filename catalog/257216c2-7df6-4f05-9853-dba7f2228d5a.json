@@ -31,10 +31,12 @@
         "name": "ליברה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.125098"
+    "lastUpdated": "2025-08-01T15:25:09.995520",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SPASMEX 15",
+        "registration": "132 49 30583 00",
+        "form": ""
+      },
+      {
+        "name": "SPASMEX 30",
+        "registration": "142 14 31805 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SPASMEX 15MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

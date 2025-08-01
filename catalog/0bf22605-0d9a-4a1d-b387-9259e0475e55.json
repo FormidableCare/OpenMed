@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.966856"
+    "lastUpdated": "2025-08-01T15:41:35.468322",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 95 26735 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 96 26734 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 4 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 97 26736 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MAGNESIUM SULFATE 50 %  INOVAMED 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20500000000000002,
+      "status": "failed_match"
+    }
   }
 }

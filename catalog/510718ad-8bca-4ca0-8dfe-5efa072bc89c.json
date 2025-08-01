@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.394380"
+    "lastUpdated": "2025-08-01T17:44:01.800448",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "JANUET XR 100/1000 MG TABLETS",
+        "registration": "151 33 33934 00",
+        "form": ""
+      },
+      {
+        "name": "JANUET XR 100/1000 MG TABLETS",
+        "registration": "151 33 33934 02",
+        "form": ""
+      },
+      {
+        "name": "JANUET 50 MG/1000 MG",
+        "registration": "139 88 31705 14",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SITAGLIPTIN S.K. 50 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2111111111111111,
+      "status": "failed_match"
+    }
   }
 }

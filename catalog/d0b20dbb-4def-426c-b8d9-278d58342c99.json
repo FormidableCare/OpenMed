@@ -1,10 +1,10 @@
 {
   "catalogId": "d0b20dbb-4def-426c-b8d9-278d58342c99",
-  "name": "TAMBOCOR 100 MG TABLETS",
+  "name": "TAMBOCOR 50 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "123 99 23293 00",
+  "registrationNumber": "111 73 29433 00",
   "treatmentDescriptions": "Serious sustained life threatening ventricular arrhytmias that have not responsed to other drugs. Paroxymal atrial flutter.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרתתרופה אשפוזית לפי החלטת משרד הבריאות ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.180282"
-  }
+    "lastUpdated": "2025-08-01T16:05:22.260896",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TAMBOCOR 50MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:05:22.260906",
+      "previousRegistration": "123 99 23293 00",
+      "newRegistration": "111 73 29433 00",
+      "apiSource": "TAMBOCOR 50 MG TABLETS"
+    }
+  },
+  "nameHebrew": "טמבוקור 50 מ\"ג טבליות",
+  "registrationDate": "2023-06-30"
 }

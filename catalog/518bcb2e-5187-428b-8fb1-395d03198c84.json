@@ -25,10 +25,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -51,6 +53,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.396967"
+    "lastUpdated": "2025-08-01T16:06:08.546288",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "METABOLASE VETERINARY",
+        "registration": "082 87 92329 00",
+        "form": ""
+      },
+      {
+        "name": "CARNITINE SOLUTION  30%",
+        "registration": "119 07 23815 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CARNITINE INJ 1G/5ML 5AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.007142857142857143,
+      "status": "failed_match"
+    }
   }
 }

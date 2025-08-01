@@ -1,10 +1,10 @@
 {
   "catalogId": "2fca5172-fcdf-43c9-96dd-f44d2317f508",
-  "name": "TRANDATE INJECTION",
+  "name": "TRANDATE TABLETS 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "041 03 23598 21",
+  "registrationNumber": "020 84 27786 00",
   "treatmentDescriptions": "Treatment of hypertension when rapid control of blood pressure is essential.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.196463"
-  }
+    "lastUpdated": "2025-08-01T16:25:58.318549",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRANDATE 200MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:25:58.318562",
+      "previousRegistration": "041 03 23598 21",
+      "newRegistration": "020 84 27786 00",
+      "apiSource": "TRANDATE TABLETS 200 MG"
+    }
+  },
+  "nameHebrew": "טרנדייט טבליות 200 מ\"ג",
+  "registrationDate": "2021-11-30"
 }

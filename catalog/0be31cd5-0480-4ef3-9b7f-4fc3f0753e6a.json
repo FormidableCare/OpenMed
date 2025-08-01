@@ -1,10 +1,10 @@
 {
   "catalogId": "0be31cd5-0480-4ef3-9b7f-4fc3f0753e6a",
-  "name": "KEVZARA 150 MG",
+  "name": "KEVZARA 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 37 35260 00",
+  "registrationNumber": "160 38 35261 00",
   "treatmentDescriptions": "Kevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.966479"
-  }
+    "lastUpdated": "2025-08-01T17:52:20.067571",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KEVZARA 200 MG SOL FOR INJ 2 SYR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:52:20.067579",
+      "previousRegistration": "160 37 35260 00",
+      "newRegistration": "160 38 35261 00",
+      "apiSource": "KEVZARA 200 MG"
+    }
+  },
+  "nameHebrew": "קבזרה 200 מ\"ג",
+  "registrationDate": "2023-03-31"
 }

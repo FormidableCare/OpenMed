@@ -31,10 +31,12 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.344401"
+    "lastUpdated": "2025-08-01T16:25:49.022627",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CEFOVIT 250",
+        "registration": "026 84 25145 00",
+        "form": ""
+      },
+      {
+        "name": "CEFOVIT FORTE 500",
+        "registration": "026 85 25146 00",
+        "form": ""
+      },
+      {
+        "name": "CEFOVIT FORTE SUSPENSION",
+        "registration": "026 83 25148 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CEFOVIT FORTE 500MG 10CAPS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

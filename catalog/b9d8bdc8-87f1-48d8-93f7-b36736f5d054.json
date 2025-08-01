@@ -1,10 +1,10 @@
 {
   "catalogId": "b9d8bdc8-87f1-48d8-93f7-b36736f5d054",
-  "name": "MOUNJARO 10 MG KWIKPEN",
+  "name": "MOUNJARO 10 MG/0.5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "177 53 38072 99",
+  "registrationNumber": "172 31 37428 00",
   "treatmentDescriptions": "T2DMMounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise•\tas monotherapy when metformin is considered inappropriate due to intolerance or contraindications•\tin addition to other medicinal products for the treatment of diabetes.Weight managementMounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of•\t&#8805; 30 kg/m2 (obesity) or•\t&#8805; 27 kg/m2 to < 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).For trial results with respect to obstructive sleep apnoea (OSA) in adults with obesity, see section 5.1.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -31,10 +31,20 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -57,6 +67,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.022118"
-  }
+    "lastUpdated": "2025-08-01T16:15:16.918071",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MOUNJARO 5 MG/0.5 ML SOL FOR INJ 4 PF PEN",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:15:16.918088",
+      "previousRegistration": "177 53 38072 99",
+      "newRegistration": "172 31 37428 00",
+      "apiSource": "MOUNJARO 10 MG/0.5 ML"
+    }
+  },
+  "nameHebrew": "מאונג'רו 10 מ\"ג/0.5 מ\"ל",
+  "registrationDate": "2023-03-14"
 }

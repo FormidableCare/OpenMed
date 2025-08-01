@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,30 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 58.79394263,
         "maxPriceWithVAT": 69.37684922
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.135636"
+    "lastUpdated": "2025-08-01T17:21:55.700615",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TARIOL",
+        "registration": "168 51 36732 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TARIOL GEL 30 GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

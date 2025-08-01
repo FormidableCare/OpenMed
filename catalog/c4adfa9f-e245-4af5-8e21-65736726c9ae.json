@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.091545"
+    "lastUpdated": "2025-08-01T16:39:22.817247",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ZAPPA 10",
+        "registration": "146 72 33251 01",
+        "form": ""
+      },
+      {
+        "name": "ZAPPA 5",
+        "registration": "146 70 33248 01",
+        "form": ""
+      },
+      {
+        "name": "ZAPPA 7.5",
+        "registration": "146 71 33250 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ZAPPA ODT 5MG 30 O.D.TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

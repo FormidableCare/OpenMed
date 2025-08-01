@@ -1,10 +1,10 @@
 {
   "catalogId": "d4cfc8c7-6773-424f-a4c2-7648f9fd0501",
-  "name": "JARDIANCE DUO 12.5 MG/850 MG",
+  "name": "JARDIANCE DUO 5 MG/850 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 29 34534 01",
+  "registrationNumber": "155 26 34512 01",
   "treatmentDescriptions": "Jardiance duo is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control• in patients inadequately controlled on their maximally tolerated dose of metformin alone.• in patients inadequately controlled with metformin in combination with other glucose-lowering medicinal products, including insulin.• in patients already being treated with the combination of empagliflozin and metformin as separate tablets.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 850.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.200215"
-  }
+    "lastUpdated": "2025-08-01T17:10:59.435349",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JARDIANCE DUO 5 MG/850 MG 60 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8277777777777778,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:10:59.435362",
+      "previousRegistration": "155 29 34534 01",
+      "newRegistration": "155 26 34512 01",
+      "apiSource": "JARDIANCE DUO 5 MG/850 MG"
+    }
+  },
+  "nameHebrew": "ג'ארדיאנס דואו 5 מ\"ג / 850 מ\"ג",
+  "registrationDate": "2020-12-31"
 }

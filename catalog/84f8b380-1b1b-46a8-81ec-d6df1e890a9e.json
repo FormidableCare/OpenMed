@@ -31,10 +31,16 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 4.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +64,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.686340"
+    "lastUpdated": "2025-08-01T16:45:58.266004",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "SEPTADINE",
+        "registration": "108 58 29253 00",
+        "form": ""
+      },
+      {
+        "name": "SEPTADINE TARHITZ",
+        "registration": "112 44 29484 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "SEPTADINE TARHITZ 4% 100ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

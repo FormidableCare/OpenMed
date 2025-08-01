@@ -31,10 +31,12 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -52,11 +54,40 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 8856.499674,
         "maxPriceWithVAT": 10450.66915
-      }
+      },
+      "formulation": [
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.232898"
+    "lastUpdated": "2025-08-01T16:19:25.822954",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VITRAKVI  100 MG",
+        "registration": "164 41 36178 00",
+        "form": ""
+      },
+      {
+        "name": "VITRAKVI  20 MG/ML ORAL SOLUTION",
+        "registration": "164 39 36176 00",
+        "form": ""
+      },
+      {
+        "name": "VITRAKVI  25 MG",
+        "registration": "164 40 36177 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VITRAKVI 20 MG/ML ORAL SOLUTION 2*50ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.1875,
+      "status": "failed_match"
+    }
   }
 }

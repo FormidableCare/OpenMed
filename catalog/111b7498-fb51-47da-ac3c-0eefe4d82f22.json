@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.999870"
+    "lastUpdated": "2025-08-01T15:37:41.695855",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HUMULIN N",
+        "registration": "054 12 22715 22",
+        "form": ""
+      },
+      {
+        "name": "HUMULIN R",
+        "registration": "054 43 22714 22",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HUMULIN NPH 10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

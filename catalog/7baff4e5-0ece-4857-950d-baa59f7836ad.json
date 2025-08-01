@@ -1,10 +1,10 @@
 {
   "catalogId": "7baff4e5-0ece-4857-950d-baa59f7836ad",
-  "name": "EPINEPHRINE INJECTION MYLAN JR 0.15 MG",
+  "name": "EPINEPHRINE INJECTION TEVA 0.15 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 58 35820 00",
+  "registrationNumber": "174 49 37538 99",
   "treatmentDescriptions": "Epinephrine is indicated in the emergency treatment of severe allergic reactions (Type I) including anaphylaxis to stinging insects (e.g., order Hymenoptera which includes bees,wasps,hornets,yellow jackets and fire ants) and biting insects (e.g., triatoma, mosquitoes), allergen immunotherapy, foods, drugs,diagnostic testing substances (e.g., radiocontrast media) and other allergens, as well as idiopathic anaphylaxis or exercise induced anaphylaxis.Epinephrine is intended for immediate administration in patients who are determined to be at increased risk for anaphylaxis, including individuals with a history of anaphylactic reactions.Epinephrine is intended for immediate administration as emergency supportive therapy only, and is not a substitute for immediate medical care",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.15,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 17.5,
         "maxRetailPrice": 457.055025,
         "maxPriceWithVAT": 539.3249055
-      }
+      },
+      "formulation": [
+        "injection"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.636332"
-  }
+    "lastUpdated": "2025-08-01T17:09:12.502620",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EPINEPHRINE INJECTION MYLAN JR 0.15 MG",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9812500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:09:12.502632",
+      "previousRegistration": "161 58 35820 00",
+      "newRegistration": "174 49 37538 99",
+      "apiSource": "EPINEPHRINE INJECTION TEVA 0.15 MG"
+    }
+  },
+  "nameHebrew": "אפינפרין זריקה טבע 0.15 מ\"ג",
+  "registrationDate": "2023-09-21"
 }

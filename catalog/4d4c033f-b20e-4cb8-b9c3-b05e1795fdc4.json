@@ -1,10 +1,10 @@
 {
   "catalogId": "4d4c033f-b20e-4cb8-b9c3-b05e1795fdc4",
-  "name": "PREGABALIN TEVA ® 100 MG",
+  "name": "LYRICA 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 26 34479 00",
+  "registrationNumber": "133 04 31191 00",
   "treatmentDescriptions": "PREGABALIN TEVA ® is indicated for the: - Treatment of peripheral and central neuropathic pain in adults. - Management of Fibromyalgia. - Treatment of Generalised Anxiety Disorder (GAD) in adults.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.375863"
-  }
+    "lastUpdated": "2025-08-01T16:45:22.501739",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREGABALIN TEVA  300 MG 56 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:45:22.501756",
+      "previousRegistration": "157 26 34479 00",
+      "newRegistration": "133 04 31191 00",
+      "apiSource": "LYRICA 300 MG"
+    }
+  },
+  "nameHebrew": "ליריקה 300 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

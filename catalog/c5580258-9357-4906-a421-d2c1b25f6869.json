@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 300.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.095668"
+    "lastUpdated": "2025-08-01T15:57:08.697284",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KEPPRA 1000 MG",
+        "registration": "132 66 31183 00",
+        "form": ""
+      },
+      {
+        "name": "KEPPRA 250 MG",
+        "registration": "132 64 31181 00",
+        "form": ""
+      },
+      {
+        "name": "KEPPRA 500 MG",
+        "registration": "132 65 31182 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KEPPRA 100MG/ML 300ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

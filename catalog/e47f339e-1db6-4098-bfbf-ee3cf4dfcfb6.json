@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "גיליאד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.294090"
-  }
+    "lastUpdated": "2025-08-01T16:31:01.914169",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DESCOVY 200 MG/10 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:01.914184",
+      "previousRegistration": "158 05 34949 00",
+      "newRegistration": "158 05 34949 00",
+      "apiSource": "DESCOVY 200 MG/10 MG"
+    }
+  },
+  "nameHebrew": "דסקובי  10 מ\"ג/מ\"ג 200",
+  "registrationDate": "2022-02-28"
 }

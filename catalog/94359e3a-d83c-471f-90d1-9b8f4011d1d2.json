@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.792454"
+    "lastUpdated": "2025-08-01T16:21:04.571083",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BETNOVATE OINTMENT",
+        "registration": "017 04 24760 00",
+        "form": ""
+      },
+      {
+        "name": "BETNOVATE SCALP APPLICATION",
+        "registration": "013 58 24426 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BETNOVATE TOPICAL SCALP APPL SOL 30ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.640013"
+    "lastUpdated": "2025-08-01T15:46:11.827409",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BUDESONIDE STERINEBS TEVA ® 0.5 MG/2 ML",
+        "registration": "142 43 33002 00",
+        "form": ""
+      },
+      {
+        "name": "BUDESONIDE STERINEBS TEVA ® 1 MG/2 ML",
+        "registration": "144 11 33235 00",
+        "form": ""
+      },
+      {
+        "name": "BUDICORT TURBUHALER 100 MCG/DOSE",
+        "registration": "057 98 26940 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BUDESON RECTAL FOAM 1 CANISTER",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.00625,
+      "status": "failed_match"
+    }
   }
 }

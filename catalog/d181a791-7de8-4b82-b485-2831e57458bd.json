@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.186257"
+    "lastUpdated": "2025-08-01T15:22:23.404406",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EUCREAS 50/1000 MG",
+        "registration": "147 90 33627 01",
+        "form": ""
+      },
+      {
+        "name": "EUCREAS 50/500 MG",
+        "registration": "147 89 33623 01",
+        "form": ""
+      },
+      {
+        "name": "EUCREAS 50/850 MG",
+        "registration": "143 88 32042 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EUCREAS 500/50MG 30 FC TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21250000000000002,
+      "status": "failed_match"
+    }
   }
 }

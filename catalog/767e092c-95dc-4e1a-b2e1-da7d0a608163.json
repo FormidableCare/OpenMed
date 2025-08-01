@@ -58,6 +58,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.607463"
+    "lastUpdated": "2025-08-01T16:42:48.068074",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ROKACET",
+        "registration": "027 84 21960 00",
+        "form": ""
+      },
+      {
+        "name": "ROKACET PLUS",
+        "registration": "040 48 25715 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ROKACET 20 CAPLIOT",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

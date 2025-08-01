@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,35 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 31.185447,
         "maxPriceWithVAT": 36.79882746
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.943566"
+    "lastUpdated": "2025-08-01T16:31:47.899819",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BEZAFIBRATE MEDOMIE",
+        "registration": "176 67 37746 99",
+        "form": ""
+      },
+      {
+        "name": "NORLIP",
+        "registration": "046 05 23778 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BEZAFIBRATE 400MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

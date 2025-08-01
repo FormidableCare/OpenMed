@@ -1,10 +1,10 @@
 {
   "catalogId": "e17e13f0-e3f9-4158-aefb-d59a4e6183d0",
-  "name": "JAKAVI 10 MG",
+  "name": "JAKAVI 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 58 34859 00",
+  "registrationNumber": "149 85 33747 00",
   "treatmentDescriptions": "* Myelofibrosis (MF) Jakavi is indicated for the treatment of disease-related splenomegaly or symptoms in adult patients with primary myelofibrosis (also known as chronic idiopathic myelofibrosis), post polycythaemia vera myelofibrosis or post essential thrombocythaemia myelofibrosis. * Polycythaemia vera (PV) Jakavi is indicated for the treatment of adult patients with polycythaemia vera who are resistant to or intolerant of hydroxyurea.*Graft versus host disease (GvHD)Jakavi is indicated for the treatment of patients aged 12 years and older with acute graft versus host disease or chronic graft versus host disease who have inadequate response to corticosteroids or other systemic therapies",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.276268"
-  }
+    "lastUpdated": "2025-08-01T16:40:49.728703",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JAKAVI 5MG 56TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:40:49.728720",
+      "previousRegistration": "158 58 34859 00",
+      "newRegistration": "149 85 33747 00",
+      "apiSource": "JAKAVI 5 MG"
+    }
+  },
+  "nameHebrew": "ג'קאבי 5 מ\"ג",
+  "registrationDate": "2018-04-30"
 }

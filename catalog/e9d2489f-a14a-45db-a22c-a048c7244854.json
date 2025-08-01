@@ -1,10 +1,10 @@
 {
   "catalogId": "e9d2489f-a14a-45db-a22c-a048c7244854",
-  "name": "ENBREL 25 MG SOLUTION FOR INJECTION",
+  "name": "ENBREL 50 MG SOLUTION FOR INJECTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "142 52 31949 00",
+  "registrationNumber": "142 53 31950 00",
   "treatmentDescriptions": "* Rheumatoid arthritis:- Enbrel is indicated for the treatment of active rhematoid arthritis in adults when the response to disease-modifying antirheumatic drugs (DMARDs)  including methotrexate (unless contraindicated)  has been inadequate..   Enbrel can be used in combination with methotrexate in patients who do not respond adequately to methotrexate alone.  - Reducing signs and symptoms and inhibiting the progression of structural damage in patients with moderately to severely active rheumatoid arthritis.Enbrel, alone or in combination with methotrexate, has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function.* Psoriatic arthritisTreatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying antirheumatic drug therapy has been inadequate. Enbrel has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X ray in patients with polyarticular symmetrical subtypes of the disease.   * Plaque psoriasis Treatment of adults patients (18 years or older) with moderate to severe plaque psoriasis  who  are candidates for systemic therapy or phototherapy.* Paediatric plaque psoriasis Treatment of chronic severe plaque psoriasis in children and adolescents from the age of  6 years  who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.* Juvenile idiopathic arthritis- Treatment of polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in children and adolescents from the age of 2 years who have had an inadequate response to, or who have proved intolerant of, methotrexate. - Treatment of psoriatic arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, methotrexate.Treatment of enthesitis-related arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, conventional therapy. Enbrel has not been studied in children aged less than 2 years.* Axial spondyloarthritis- Ankylosing spondylitis(AS)Treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.- Non-radiographic axial spondyloarthritisTreatment of adults with severe non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence, who have had an inadequate response to nonsteroidal anti-inflammatory drugs (NSAIDs)",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.328442"
-  }
+    "lastUpdated": "2025-08-01T16:50:18.203160",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ENBREL 50MG 4 PREFIL.SYR",
+      "processedBy": "smart_validation",
+      "matchScore": 0.805,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:50:18.203189",
+      "previousRegistration": "142 52 31949 00",
+      "newRegistration": "142 53 31950 00",
+      "apiSource": "ENBREL 50 MG SOLUTION FOR INJECTION"
+    }
+  },
+  "nameHebrew": "אנברל 50 מ\"ג תמיסה להזרקה",
+  "registrationDate": "2015-01-31"
 }

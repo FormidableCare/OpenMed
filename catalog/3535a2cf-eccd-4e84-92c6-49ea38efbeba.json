@@ -31,10 +31,12 @@
         "name": "סם און",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.223874"
+    "lastUpdated": "2025-08-01T17:41:38.333850",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "KALSINUS",
+        "registration": "148 21 33484 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "KALSINUS 60MG 10 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

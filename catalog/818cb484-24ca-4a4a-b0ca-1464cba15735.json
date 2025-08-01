@@ -1,10 +1,10 @@
 {
   "catalogId": "818cb484-24ca-4a4a-b0ca-1464cba15735",
-  "name": "MONTAIR 4 MG",
+  "name": "MONTAIR 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 58 31866 00",
+  "registrationNumber": "145 59 31867 00",
   "treatmentDescriptions": "Montair is indicated in adult and pediatric patients 2 years of age and older for the prophylaxis and chronic treatment of asthma, including prevention of daytime and nighttime symptoms, the treatment of aspirin-sensitive asthmatic patients, and the prevention of exercise-induced bronchoconstriction.Montair is effective alone or in combination with other agents used in the maintenance treatment of chronic asthma.Montair and inhaled corticosteroids may be used concomitantly with additive effects to control asthma or to reduce the inhaled corticosteroid dose while maintaining clinical stability.Montair is indicated for the relief of symptoms of seasonal allergic rhinitis in adults and pediatric patients 2 years of age and older.",
   "termsOfIssue": "Prescription required",
   "form": "chewable tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.670984"
-  }
+    "lastUpdated": "2025-08-01T17:40:27.465662",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MONTAIR 5 MG 30 CHEWTAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:40:27.465666",
+      "previousRegistration": "145 58 31866 00",
+      "newRegistration": "145 59 31867 00",
+      "apiSource": "MONTAIR 5 MG"
+    }
+  },
+  "nameHebrew": "מונטאייר 5 מ\"ג",
+  "registrationDate": "2016-02-29"
 }

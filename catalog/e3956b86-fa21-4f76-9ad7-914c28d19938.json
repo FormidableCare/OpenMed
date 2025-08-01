@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "פאדאגיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.289810"
-  }
+    "lastUpdated": "2025-08-01T16:48:53.331847",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TESTOMAX 25MG 30SACHX2.5G",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:53.331867",
+      "previousRegistration": "136 20 31297 00",
+      "newRegistration": "136 20 31297 00",
+      "apiSource": "TESTOMAX 25 MG"
+    }
+  },
+  "nameHebrew": "טסטומקס 25 מ\"ג",
+  "registrationDate": "2022-02-28"
 }

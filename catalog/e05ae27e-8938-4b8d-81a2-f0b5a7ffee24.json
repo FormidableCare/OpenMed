@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרו יבוא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.4,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.270869"
-  }
+    "lastUpdated": "2025-08-01T17:05:17.144659",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEVELAMER TARO 2.4 G 60 SACHETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:05:17.144673",
+      "previousRegistration": "164 79 35536 00",
+      "newRegistration": "164 79 35536 00",
+      "apiSource": "SEVELAMER TARO 2.4 G"
+    }
+  },
+  "nameHebrew": "סבלמר תרו 2.4 ג'",
+  "registrationDate": "2025-05-31"
 }

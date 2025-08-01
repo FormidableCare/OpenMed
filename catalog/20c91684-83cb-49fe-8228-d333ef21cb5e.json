@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 15.092194,
         "maxPriceWithVAT": 17.80878892
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.098027"
+    "lastUpdated": "2025-08-01T16:10:48.530299",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "GENTATRIM OINTMENT",
+        "registration": "047 61 23635 01",
+        "form": ""
+      },
+      {
+        "name": "GENTATRIM OINTMENT",
+        "registration": "047 61 23635 00",
+        "form": ""
+      },
+      {
+        "name": "GENTATRIM CREAM",
+        "registration": "045 98 23634 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "GENTATRIM  DERMAL CREAM 15GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.175,
+      "status": "failed_match"
+    }
   }
 }

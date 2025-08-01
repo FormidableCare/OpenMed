@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.415591"
-  }
+    "lastUpdated": "2025-08-01T15:51:40.826395",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BETHANECHOL 10MG 100TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.2,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:51:40.826404",
+      "previousRegistration": "167 20 35286 00",
+      "newRegistration": "167 20 35286 00",
+      "apiSource": "MYOCHOLINE-GLENWOOD 25 MG"
+    }
+  },
+  "nameHebrew": "מיוכולין גלנווד 25 מ\"ג",
+  "registrationDate": "2021-04-26"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "1189730b-9b0c-4273-b5b2-e1a4804956b3",
-  "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
+  "name": "PENTASA SLOW RELEASE TABLETS 1 GRAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 47 34816 00",
+  "registrationNumber": "147 06 33401 01",
   "treatmentDescriptions": "Mild to moderate ulcerative colitis or crohn's disease.",
   "termsOfIssue": "Prescription required",
   "form": "granules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פרינג",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -55,11 +57,28 @@
         "retailMargin": 25.0,
         "maxRetailPrice": 150.53949,
         "maxPriceWithVAT": 177.6365903
-      }
+      },
+      "formulation": [
+        "tablet",
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.002389"
-  }
+    "lastUpdated": "2025-08-01T15:53:35.263909",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PENTASA  1GR 60 SR TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9611111111111111,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:53:35.263918",
+      "previousRegistration": "157 47 34816 00",
+      "newRegistration": "147 06 33401 01",
+      "apiSource": "PENTASA SLOW RELEASE TABLETS 1 GRAM"
+    }
+  },
+  "nameHebrew": "פנטסה טבליות בשחרור איטי 1 גרם",
+  "registrationDate": "2016-12-31"
 }

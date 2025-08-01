@@ -1,10 +1,10 @@
 {
   "catalogId": "e11cd57b-1286-43b3-aabf-ff7d079343f3",
-  "name": "CIALIS 10 MG",
+  "name": "CIALIS 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 19 30677 21",
+  "registrationNumber": "139 20 31766 00",
   "treatmentDescriptions": "For the treatment of erectile dysfunction in adult men.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.274881"
-  }
+    "lastUpdated": "2025-08-01T16:31:58.497410",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIALIS 5MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:58.497418",
+      "previousRegistration": "128 19 30677 21",
+      "newRegistration": "139 20 31766 00",
+      "apiSource": "CIALIS 5 MG"
+    }
+  },
+  "nameHebrew": "סיאליס 5 מ\"ג",
+  "registrationDate": "2023-05-31"
 }

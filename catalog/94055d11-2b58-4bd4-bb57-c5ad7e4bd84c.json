@@ -1,10 +1,10 @@
 {
   "catalogId": "94055d11-2b58-4bd4-bb57-c5ad7e4bd84c",
-  "name": "CIALIS 10 MG",
+  "name": "CIALIS 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 19 30677 21",
+  "registrationNumber": "128 20 30678 21",
   "treatmentDescriptions": "For the treatment of erectile dysfunction in adult men.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 8.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.791092"
-  }
+    "lastUpdated": "2025-08-01T16:31:58.499754",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIALIS 20MG 8TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:31:58.499762",
+      "previousRegistration": "128 19 30677 21",
+      "newRegistration": "128 20 30678 21",
+      "apiSource": "CIALIS 20 MG"
+    }
+  },
+  "nameHebrew": "סיאליס 20 מ\"ג",
+  "registrationDate": "2023-05-31"
 }

@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 120.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 120.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.434932"
+    "lastUpdated": "2025-08-01T16:12:41.872528",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FUSID TABLETS",
+        "registration": "020 20 20472 12",
+        "form": ""
+      },
+      {
+        "name": "FUROVENIR 250 MG/25 ML",
+        "registration": "144 17 32048 00",
+        "form": ""
+      },
+      {
+        "name": "FUROSEMIDE - FRESENIUS 20 MG/ 2 ML",
+        "registration": "158 15 34680 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FUROSEMIDE ORAL SOL 10MG/ML 120ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.21000000000000002,
+      "status": "failed_match"
+    }
   }
 }

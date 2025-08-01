@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.890241"
+    "lastUpdated": "2025-08-01T16:52:51.373410",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DESLORATADINE - TRIMA TABLETS",
+        "registration": "149 99 33681 00",
+        "form": ""
+      },
+      {
+        "name": "DESLORATADINE - TRIMA SYRUP 0.5 MG/ML",
+        "registration": "150 37 33827 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DESLORATADINE-TRIMA 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.020000000000000004,
+      "status": "failed_match"
+    }
   }
 }

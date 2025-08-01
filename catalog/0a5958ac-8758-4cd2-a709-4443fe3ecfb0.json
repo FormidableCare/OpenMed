@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 11.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -57,6 +59,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.953539"
+    "lastUpdated": "2025-08-01T16:19:40.650978",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IDEFIRIX 11 MG",
+        "registration": "169 35 37017 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IDEFIRIX 11 MG/VIAL 2 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

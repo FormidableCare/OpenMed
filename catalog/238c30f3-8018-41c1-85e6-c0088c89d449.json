@@ -1,10 +1,10 @@
 {
   "catalogId": "238c30f3-8018-41c1-85e6-c0088c89d449",
-  "name": "PREGABALIN INOVAMED 150 MG",
+  "name": "LYRICA 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 17 34774 00",
+  "registrationNumber": "133 04 31191 00",
   "treatmentDescriptions": "Pregabalin Inovamed is indicated for the:* treatment of peripheral and central neuropathic pain in adults. * Management of Fibromyalgia.* Treatment of Generalised Anxiety Disorder (GAD) in adults",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.115738"
-  }
+    "lastUpdated": "2025-08-01T15:52:10.893545",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREGABALIN INOVAMED 300 MG 56 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:52:10.893556",
+      "previousRegistration": "156 17 34774 00",
+      "newRegistration": "133 04 31191 00",
+      "apiSource": "LYRICA 300 MG"
+    }
+  },
+  "nameHebrew": "ליריקה 300 מ\"ג",
+  "registrationDate": "2020-06-30"
 }

@@ -25,10 +25,12 @@
         "name": "רפא",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 19.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 19.0,
         "unit": "units"
@@ -53,6 +55,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.622007"
+    "lastUpdated": "2025-08-01T16:22:33.930124",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TIGER BALM RED",
+        "registration": "127 22 30565 00",
+        "form": ""
+      },
+      {
+        "name": "TIGER BALM WHITE",
+        "registration": "127 23 30566 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TIGER BALM WHITE OINT 19G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03,
+      "status": "failed_match"
+    }
   }
 }

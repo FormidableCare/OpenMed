@@ -1,10 +1,10 @@
 {
   "catalogId": "c0851593-9a0a-42d0-9160-d41038df8cc1",
-  "name": "BISOPROLOL FUMARATE INOVAMED 10 MG",
+  "name": "BISOPROLOL FUMARATE INOVAMED 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 68 34097 01",
+  "registrationNumber": "152 67 34098 01",
   "treatmentDescriptions": "- Treatment of stable chronic, moderate to severe heart failure with impaired systolic ventricular function ( ejection fraction < 35 %, determined by echocardiography) in addition to ACE inhibitors and diuretics, and optionally cardiac glycosides.- Hypertension. - Coronary heart disease (angina pectoris).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "אינובמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.064562"
-  }
+    "lastUpdated": "2025-08-01T16:09:11.808345",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BISOPROLOL INOVAMED 5 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8222222222222223,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:09:11.808354",
+      "previousRegistration": "152 68 34097 01",
+      "newRegistration": "152 67 34098 01",
+      "apiSource": "BISOPROLOL FUMARATE INOVAMED 5 MG"
+    }
+  },
+  "nameHebrew": "ביסופרולול פומראט אינובמד 5 מ\"ג",
+  "registrationDate": "2019-08-31"
 }

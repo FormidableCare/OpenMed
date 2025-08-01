@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 600.0,
+          "unit": "mg"
+        },
+        {
+          "value": 600.0,
+          "unit": "mg"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +68,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.430945"
-  }
+    "lastUpdated": "2025-08-01T16:53:59.915204",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PHESGO 600 MG / 600 MG (VIAL 10 ML)",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:53:59.915210",
+      "previousRegistration": "168 67 36651 00",
+      "newRegistration": "168 67 36651 00",
+      "apiSource": "PHESGO 1200 MG / 600 MG"
+    }
+  },
+  "nameHebrew": "פסגו 1200 מ\"ג / 600 מ\"ג",
+  "registrationDate": "2021-12-14"
 }

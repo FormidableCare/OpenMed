@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -60,6 +62,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.131114"
+    "lastUpdated": "2025-08-01T15:23:06.262468",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "COSENTYX  SOLUTION FOR INJECTION",
+        "registration": "154 20 34342 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "COSENTYX 150MG SOL FOR INJ 2 PREFILLED SYRINGES",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

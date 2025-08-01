@@ -1,10 +1,10 @@
 {
   "catalogId": "fabe7a37-1d28-41c3-9481-ede087fa8685",
-  "name": "RIVASTIGMINE DEXCEL 1.5 MG",
+  "name": "RIVASTIGMINE DEXCEL 3 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "152 77 33949 00",
+  "registrationNumber": "152 78 33950 00",
   "treatmentDescriptions": "Treatment of patients with mild to moderately severe dementia of the Alzheimer type, also termed probable alzheimer's disease or alzheimer's disease.Symptomatic treatment of mild to moderately severe alzheimer's dementia.Symptomatic treatment of mild to moderately severe dementiaassociated with Parkinson's disease.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 91.4722395,
         "maxPriceWithVAT": 107.9372426
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.421750"
-  }
+    "lastUpdated": "2025-08-01T16:21:51.720552",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIVASTIGMINE DEXCEL 3 MG 28 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:21:51.720567",
+      "previousRegistration": "152 77 33949 00",
+      "newRegistration": "152 78 33950 00",
+      "apiSource": "RIVASTIGMINE DEXCEL 3 MG"
+    }
+  },
+  "nameHebrew": "ריבסטיגמין דקסל 3 מ\"ג",
+  "registrationDate": "2019-09-30"
 }

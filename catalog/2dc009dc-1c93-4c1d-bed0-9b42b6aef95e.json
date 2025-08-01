@@ -1,10 +1,10 @@
 {
   "catalogId": "2dc009dc-1c93-4c1d-bed0-9b42b6aef95e",
-  "name": "BRILINTA 60 MG",
+  "name": "BRILINTA 90 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 54 34752 00",
+  "registrationNumber": "146 66 33358 00",
   "treatmentDescriptions": "Brilinta, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with - acute coronary syndromes (ACS) or- a history of myocardial infarction (MI) and a high risk of developing an atherothrombotic event (see sections 4.2 and 5.1).Limitations of use:  90 mg twice daily during the first year after an ACS event followed by 60 mg twice daily for additional 2 years.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסטראזנקה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 90.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.183643"
-  }
+    "lastUpdated": "2025-08-01T17:01:58.021997",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BRILINTA 90MG 56TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:01:58.022002",
+      "previousRegistration": "156 54 34752 00",
+      "newRegistration": "146 66 33358 00",
+      "apiSource": "BRILINTA 90 MG"
+    }
+  },
+  "nameHebrew": "ברילינטה 90 מ\"ג",
+  "registrationDate": "2016-09-30"
 }

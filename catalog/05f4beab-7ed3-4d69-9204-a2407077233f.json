@@ -1,10 +1,10 @@
 {
   "catalogId": "05f4beab-7ed3-4d69-9204-a2407077233f",
-  "name": "ORSERDU 345 MG",
+  "name": "ORSERDU 86 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 11 37712 99",
+  "registrationNumber": "176 10 37711 99",
   "treatmentDescriptions": "Orserdu is indicated for the treatment of postmenopausal women or adult men with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "סטמליין ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 86.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.926741"
-  }
+    "lastUpdated": "2025-08-01T16:12:01.948589",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ORSERDU 86 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:12:01.948599",
+      "previousRegistration": "176 11 37712 99",
+      "newRegistration": "176 10 37711 99",
+      "apiSource": "ORSERDU 86 MG"
+    }
+  },
+  "nameHebrew": "אורסרדו 86 מ\"ג",
+  "registrationDate": "2024-04-14"
 }

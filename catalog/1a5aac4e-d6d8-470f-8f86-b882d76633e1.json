@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.060162"
-  }
+    "lastUpdated": "2025-08-01T16:46:19.751014",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EXJADE 125MG 28 DISPERS TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:46:19.751027",
+      "previousRegistration": "133 99 31337 00",
+      "newRegistration": "133 99 31337 00",
+      "apiSource": "EXJADE 125 MG"
+    }
+  },
+  "nameHebrew": "אקסג'ייד 125 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

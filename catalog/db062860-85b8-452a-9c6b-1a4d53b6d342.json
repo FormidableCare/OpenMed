@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 102.1352539,
         "maxPriceWithVAT": 120.5195942
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.236120"
-  }
+    "lastUpdated": "2025-08-01T15:40:54.645179",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BRIVIACT 10 MG 14 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9785714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:40:54.645187",
+      "previousRegistration": "159 88 35241 00",
+      "newRegistration": "159 88 35241 00",
+      "apiSource": "BRIVIACT 10 MG FILM COATED TABLETS"
+    }
+  },
+  "nameHebrew": "בריביאקט 10 מ\"ג טבליות מצופות",
+  "registrationDate": "2022-12-31"
 }

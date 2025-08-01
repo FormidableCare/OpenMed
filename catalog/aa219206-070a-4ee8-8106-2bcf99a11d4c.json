@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "מדיצ'י",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 200.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.907497"
-  }
+    "lastUpdated": "2025-08-01T15:54:23.873259",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLEBOGAMMA 5% 200ML VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8200000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:54:23.873279",
+      "previousRegistration": "121 04 29877 00",
+      "newRegistration": "121 04 29877 00",
+      "apiSource": "FLEBOGAMMA 5 % DIF"
+    }
+  },
+  "nameHebrew": "פלבוגאמה % 5 דיפ",
+  "registrationDate": "2020-12-31"
 }

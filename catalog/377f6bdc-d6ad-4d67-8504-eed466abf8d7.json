@@ -60,6 +60,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.235691"
+    "lastUpdated": "2025-08-01T16:13:20.236547",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FEMINET",
+        "registration": "128 57 30568 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FEMINET 3X21TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

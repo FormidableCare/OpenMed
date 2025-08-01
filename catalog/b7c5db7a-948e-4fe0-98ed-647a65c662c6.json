@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.006381"
-  }
+    "lastUpdated": "2025-08-01T16:20:23.643486",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUNOSI 150 MG tab",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:20:23.643503",
+      "previousRegistration": "172 81 37285 99",
+      "newRegistration": "172 81 37285 99",
+      "apiSource": "SUNOSI 150 MG"
+    }
+  },
+  "nameHebrew": "סנוסי 150 מ\"ג",
+  "registrationDate": "2023-04-25"
 }

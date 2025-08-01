@@ -1,10 +1,10 @@
 {
   "catalogId": "ec40f1a6-8552-4926-a838-c5357c9c0f4f",
-  "name": "SUNITINIB TARO 12.5 MG",
+  "name": "SUNITINIB S.K 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 94 36017 00",
+  "registrationNumber": "174 37 36750 99",
   "treatmentDescriptions": "Sunitinib taro is indicated for:• Treatment of gastrointestinal stromal tumor after disease progression on or intolerance to imatinib mesylate. • Treatment of advanced renal cell carcinoma.• Treatment of unresectable or metastatic, well differentiated pancreatic neuroendocrine tumours (pNET) with disease progression.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.340314"
-  }
+    "lastUpdated": "2025-08-01T17:39:53.107062",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUNITINIB TARO 50 MG 28 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8187500000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:39:53.107088",
+      "previousRegistration": "167 94 36017 00",
+      "newRegistration": "174 37 36750 99",
+      "apiSource": "SUNITINIB S.K 50 MG"
+    }
+  },
+  "nameHebrew": "סוניטיניב אס.קיי. 50 מ\"ג",
+  "registrationDate": "2023-09-11"
 }

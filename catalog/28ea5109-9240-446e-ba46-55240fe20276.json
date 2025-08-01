@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.148576"
-  }
+    "lastUpdated": "2025-08-01T17:37:58.565865",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CIPRAMIL 20MG 28TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:37:58.565878",
+      "previousRegistration": "102 51 28198 00",
+      "newRegistration": "102 51 28198 00",
+      "apiSource": "CIPRAMIL 20 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ציפראמיל 20 מ\"ג טבליות",
+  "registrationDate": "2021-10-31"
 }

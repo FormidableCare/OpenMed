@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 6.25,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.987429"
-  }
+    "lastUpdated": "2025-08-01T16:07:10.367097",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AMBIEN CR 6.25MG 14TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:07:10.367115",
+      "previousRegistration": "142 05 31833 00",
+      "newRegistration": "142 05 31833 00",
+      "apiSource": "AMBIEN CR 6.25 MG"
+    }
+  },
+  "nameHebrew": "אמביאן סי.אר  6.25 מ\"ג",
+  "registrationDate": "2024-11-30"
 }

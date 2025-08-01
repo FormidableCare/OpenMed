@@ -31,10 +31,12 @@
         "name": "טרדיס גת",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 800.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.019689"
+    "lastUpdated": "2025-08-01T17:06:40.821787",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ASACOL 1600",
+        "registration": "174 09 36782 99",
+        "form": ""
+      },
+      {
+        "name": "ASACOL 400",
+        "registration": "065 99 25654 00",
+        "form": ""
+      },
+      {
+        "name": "ASACOL 800",
+        "registration": "133 39 31029 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ASACOL 800MG 60TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

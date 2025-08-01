@@ -31,10 +31,12 @@
         "name": "פרופארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 11.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -53,11 +55,35 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 114.325,
         "maxPriceWithVAT": 134.9035
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.413539"
+    "lastUpdated": "2025-08-01T16:02:43.489105",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "INSTILLAGEL",
+        "registration": "160 11 35080 00",
+        "form": ""
+      },
+      {
+        "name": "STILLA SINGLES",
+        "registration": "122 50 30243 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "INSTILLAGEL 10 SYR *11ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.1625,
+      "status": "failed_match"
+    }
   }
 }

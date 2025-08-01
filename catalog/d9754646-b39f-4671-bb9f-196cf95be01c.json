@@ -31,10 +31,12 @@
         "name": "תרו",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -55,11 +57,35 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.229556"
+    "lastUpdated": "2025-08-01T17:39:02.639605",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DERMACOMBIN OINTMENT",
+        "registration": "015 28 24536 00",
+        "form": ""
+      },
+      {
+        "name": "DERMACOMBIN CREAM",
+        "registration": "133 54 23775 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "DERMACOMBIN CREAM 15G",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.18333333333333332,
+      "status": "failed_match"
+    }
   }
 }

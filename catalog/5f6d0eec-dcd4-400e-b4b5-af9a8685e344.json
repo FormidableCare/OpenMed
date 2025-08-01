@@ -1,10 +1,10 @@
 {
   "catalogId": "5f6d0eec-dcd4-400e-b4b5-af9a8685e344",
-  "name": "CHLORAMPHENICOL VUAB 1 G.",
+  "name": "CHLORAMPHENICOL FISIOPHARMA 1G",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "159 56 34926 00",
+  "registrationNumber": "165 65 35172 00",
   "treatmentDescriptions": "Typhus and parathyphus, salmonellosis with septic development, meningitis, epiglottis, pertussis and parapertussis, serious infections with aerobe and anaerobe flora (pulmonary, abdominal, gynecologic) and other infections caused by bacteria susceptible to chloramphenicol.",
   "termsOfIssue": "",
   "form": "powder for concentrate for solution for injection",
@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 400.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.472584"
-  }
+    "lastUpdated": "2025-08-01T16:52:27.911053",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CHLORAMPHENICOL 1G 400 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8200000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:52:27.911063",
+      "previousRegistration": "159 56 34926 00",
+      "newRegistration": "165 65 35172 00",
+      "apiSource": "CHLORAMPHENICOL FISIOPHARMA 1G"
+    }
+  },
+  "nameHebrew": "כלורמפניקול פיזיופארמה 1 גרם",
+  "registrationDate": "2020-11-01"
 }

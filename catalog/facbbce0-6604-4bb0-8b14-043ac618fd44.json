@@ -1,10 +1,10 @@
 {
   "catalogId": "facbbce0-6604-4bb0-8b14-043ac618fd44",
-  "name": "EASOTIC VETERINARY",
+  "name": "ALKINDI 5 MG",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "159 84 34886 00",
+  "registrationNumber": "164 49 35967 00",
   "treatmentDescriptions": "In dogs: treatment of acute otitis externa, and acute exacerbation of recurrent otitis externa associated with bacteria susceptible to gentamicin and fungi susceptible to miconazole in particular Malassezia pachydermatis.",
   "termsOfIssue": "",
   "form": "ear drops suspension",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": " ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -51,6 +53,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.422379"
-  }
+    "lastUpdated": "2025-08-01T16:37:17.640568",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "HYDROCORTISONE 5MG 50TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:37:17.640579",
+      "previousRegistration": "159 84 34886 00",
+      "newRegistration": "164 49 35967 00",
+      "apiSource": "ALKINDI 5 MG"
+    }
+  },
+  "nameHebrew": "אלקינדי 5 מ\"ג",
+  "registrationDate": "2025-04-30"
 }

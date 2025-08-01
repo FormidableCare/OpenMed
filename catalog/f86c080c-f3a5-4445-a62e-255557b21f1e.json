@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.408044"
-  }
+    "lastUpdated": "2025-08-01T15:44:45.320084",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MEKINIST 0.5 MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:44:45.320090",
+      "previousRegistration": "154 95 34309 00",
+      "newRegistration": "154 95 34309 00",
+      "apiSource": "MEKINIST 0.5 MG"
+    }
+  },
+  "nameHebrew": "מקיניסט 0.5 מ\"ג",
+  "registrationDate": "2020-10-31"
 }

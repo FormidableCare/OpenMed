@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.621439"
+    "lastUpdated": "2025-08-01T17:37:48.386735",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BONJESTA",
+        "registration": "167 52 36428 00",
+        "form": ""
+      },
+      {
+        "name": "DOXABIC VETERINARY",
+        "registration": "080 17 92160 01",
+        "form": ""
+      },
+      {
+        "name": "DOXY 100 CAPSULES",
+        "registration": "141 52 28766 03",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BONJESTA 50 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

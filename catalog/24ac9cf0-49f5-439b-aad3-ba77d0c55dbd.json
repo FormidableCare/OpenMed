@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 11.8779,
         "maxPriceWithVAT": 14.015922
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.121018"
-  }
+    "lastUpdated": "2025-08-01T15:59:08.502767",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "STILNOX 10 MG 14 TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.9900000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:59:08.502786",
+      "previousRegistration": "104 51 27587 00",
+      "newRegistration": "104 51 27587 00",
+      "apiSource": "STILNOX 10 MG TABLETS"
+    }
+  },
+  "nameHebrew": "סטילנוקס 10 מ\"ג טבליות",
+  "registrationDate": "2017-06-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "9f033eb6-785c-4f18-a604-b62029588be8",
-  "name": "REXULTI ® 0.5 MG",
+  "name": "REXULTI ® 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 39 35733 00",
+  "registrationNumber": "163 40 35734 00",
   "treatmentDescriptions": "Rexulti is indicated for:• Adjunctive therapy to antidepressants for the treatment of major depressive disorder (MDD) in adults• Treatment of schizophrenia in adults and pediatric patients ages 13 years and older• Treatment of agitation associated with dementia due to Alzheimer’s diseaseLimitations of Use:Rexulti is not indicated as an as needed (“prn”) treatment for agitation associated with dementia due to Alzheimer’s disease",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "לנדבק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.853189"
-  }
+    "lastUpdated": "2025-08-01T16:43:18.833530",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REXULTI ® 1 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:18.833536",
+      "previousRegistration": "163 39 35733 00",
+      "newRegistration": "163 40 35734 00",
+      "apiSource": "REXULTI ® 1 MG"
+    }
+  },
+  "nameHebrew": "ריקסלטי 1 מ\"ג",
+  "registrationDate": "2024-12-31"
 }

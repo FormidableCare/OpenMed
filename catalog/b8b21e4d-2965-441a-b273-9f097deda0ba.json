@@ -31,10 +31,16 @@
         "name": "פלוריש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "ml"
+        },
+        {
+          "value": 0.2,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 300.0,
         "unit": "units"
@@ -57,6 +63,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.015166"
+    "lastUpdated": "2025-08-01T17:55:51.550105",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "HEXIDYL DENTAL GEL",
+        "registration": "175 39 36041 00",
+        "form": ""
+      },
+      {
+        "name": "HEXIDYL ALCOHOL FREE MOUTHWASH",
+        "registration": "161 78 35103 00",
+        "form": ""
+      },
+      {
+        "name": "HEXIDYL MOUTHWASH",
+        "registration": "161 77 35102 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "HEXIDYL ALCOHOL FREE MOUTHWASH 0.2% 300ml",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

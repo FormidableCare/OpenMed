@@ -1,10 +1,10 @@
 {
   "catalogId": "b821676a-22ff-4e98-9eb6-5b8be1c71204",
-  "name": "ROZLYTREK 100 MG",
+  "name": "ROZLYTREK 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 36 36185 00",
+  "registrationNumber": "164 37 36186 00",
   "treatmentDescriptions": "NTRK Gene Fusion-Positive Solid TumorsROZLYTREK is indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that:• have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion without a known acquired resistance mutation,• are metastatic or where surgical resection is likely to result in severe morbidity,and• have either progressed following treatment or have no satisfactory alternative therapy.ROS1-Positive Non-Small Cell Lung CancerROZLYTREK is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are ROS1-positive.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רוש",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 90.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.010107"
-  }
+    "lastUpdated": "2025-08-01T17:21:40.731596",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ROZLYTREK 200 MG 90 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:21:40.731606",
+      "previousRegistration": "164 36 36185 00",
+      "newRegistration": "164 37 36186 00",
+      "apiSource": "ROZLYTREK 200 MG"
+    }
+  },
+  "nameHebrew": "רוזליטרק 200 מ\"ג",
+  "registrationDate": "2020-04-22"
 }

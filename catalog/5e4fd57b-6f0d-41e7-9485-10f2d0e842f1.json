@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 20112.13721,
         "maxPriceWithVAT": 23732.32085
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.464994"
-  }
+    "lastUpdated": "2025-08-01T16:48:34.668514",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMNOVID 1MG 3X7 CAPSULES (POMALYST)",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:34.668525",
+      "previousRegistration": "152 02 33954 00",
+      "newRegistration": "152 02 33954 00",
+      "apiSource": "IMNOVID 1 MG"
+    }
+  },
+  "nameHebrew": "אימנוביד 1 מ\"ג",
+  "registrationDate": "2019-05-31"
 }

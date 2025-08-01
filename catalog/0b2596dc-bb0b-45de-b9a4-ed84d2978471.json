@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.2,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.960678"
-  }
+    "lastUpdated": "2025-08-01T17:13:45.093597",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FRAGMIN 2500UI/0.2ML 10INJ",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:45.093607",
+      "previousRegistration": "123 11 26544 00",
+      "newRegistration": "123 11 26544 00",
+      "apiSource": "FRAGMIN 2500 I.U /0.2 ML"
+    }
+  },
+  "nameHebrew": "פרגמין 2500 יב\"ל/0.2 מ\"ל",
+  "registrationDate": "2021-08-31"
 }

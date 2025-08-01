@@ -1,10 +1,10 @@
 {
   "catalogId": "eba9da26-4230-40aa-9c53-ccbb9432a30e",
-  "name": "SOMAVERT 10 MG",
+  "name": "SOMAVERT 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "135 41 31357 00",
+  "registrationNumber": "158 92 34994 00",
   "treatmentDescriptions": "Treatment of adult patient with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF-I concentrations or was not tolerated.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.337953"
-  }
+    "lastUpdated": "2025-08-01T15:38:44.575336",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SOMAVERT 25 MG 30 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:38:44.575341",
+      "previousRegistration": "135 41 31357 00",
+      "newRegistration": "158 92 34994 00",
+      "apiSource": "SOMAVERT 25 MG"
+    }
+  },
+  "nameHebrew": "סומאברט 25 מ\"ג",
+  "registrationDate": "2021-08-31"
 }

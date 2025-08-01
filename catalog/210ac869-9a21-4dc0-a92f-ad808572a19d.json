@@ -1,10 +1,10 @@
 {
   "catalogId": "210ac869-9a21-4dc0-a92f-ad808572a19d",
-  "name": "ONUREG 200 MG",
+  "name": "ONUREG 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 93 36929 99",
+  "registrationNumber": "169 94 36930 99",
   "treatmentDescriptions": "ONUREG is indicated for continued treatment of adult patients with acute myeloid leukemia who achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following intensive induction chemotherapy and are not able to complete intensive curative therapy",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.099480"
-  }
+    "lastUpdated": "2025-08-01T16:48:16.043743",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ONUREG 300 MG 7 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:48:16.043748",
+      "previousRegistration": "169 93 36929 99",
+      "newRegistration": "169 94 36930 99",
+      "apiSource": "ONUREG 300 MG"
+    }
+  },
+  "nameHebrew": "אונורג 300 מ\"ג",
+  "registrationDate": "2022-06-27"
 }

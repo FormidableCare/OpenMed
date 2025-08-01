@@ -1,10 +1,10 @@
 {
   "catalogId": "500801c1-3f06-4dc7-8440-5efabf723adf",
-  "name": "SUNITINIB TEVA  ® 12.5 MG",
+  "name": "SUNITINIB S.K 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 78 35252 00",
+  "registrationNumber": "174 37 36750 99",
   "treatmentDescriptions": "Sunitinib Teva is indicated for the treatment of gastrointestinal stromal tumor after disease progression on or intolerance to Imatinib Mesylate. Sunitinib Teva is indicated for the treatment of advanced renal cell carcinoma. Treatment of unresectable or metastatic,  well differentiated pancreatic neuroendocrine tumours (pNET) with disease progression.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.387438"
-  }
+    "lastUpdated": "2025-08-01T15:21:25.276426",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUNITINIB TEVA 50 MG 30CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8214285714285715,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:21:25.276444",
+      "previousRegistration": "163 78 35252 00",
+      "newRegistration": "174 37 36750 99",
+      "apiSource": "SUNITINIB S.K 50 MG"
+    }
+  },
+  "nameHebrew": "סוניטיניב אס.קיי. 50 מ\"ג",
+  "registrationDate": "2023-09-11"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "318e0cf7-e8ff-415f-b301-a6dd29b250b2",
-  "name": "ATOSIBAN ALTAN",
+  "name": "ATOSIBAN EVER PHARMA 37.5 MG/5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 49 35198 00",
+  "registrationNumber": "166 91 35789 00",
   "treatmentDescriptions": "Atosiban Altan is indicated to delay imminent pre-term birth in pregnant women with: - regular uterine contractions of at least 30 seconds duration at a rate of 4 or more per 30 minutes- a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of 50 % or more - age: 18 years and above - a gestational age from 24 until 33 completed weeks - a normal foetal heart rate",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection/ concentrate for solution for infusion",
@@ -31,10 +31,20 @@
         "name": "פרופארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 37.5,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.204436"
-  }
+    "lastUpdated": "2025-08-01T17:49:16.671199",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ATOSIBAN ALTAN 37.5MG/5ML 1 AMP",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:49:16.671206",
+      "previousRegistration": "162 49 35198 00",
+      "newRegistration": "166 91 35789 00",
+      "apiSource": "ATOSIBAN EVER PHARMA 37.5 MG/5 ML"
+    }
+  },
+  "nameHebrew": "אטוסיבן  אוור פארמה 37.5 מ\"ג/5 מ\"ל",
+  "registrationDate": "2021-03-24"
 }

@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות",
+  "warnings": "תרופה אשפוזית לפי החלטת משרד הבריאות ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "ביואבניר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,6 +56,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.960863"
-  }
+    "lastUpdated": "2025-08-01T16:38:27.716641",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SEPTAX 1G 1VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:38:27.716648",
+      "previousRegistration": "135 96 31243 00",
+      "newRegistration": "135 96 31243 00",
+      "apiSource": "SEPTAX 1 G"
+    }
+  },
+  "nameHebrew": "ספטקס 1 גר'",
+  "registrationDate": "2021-12-31"
 }

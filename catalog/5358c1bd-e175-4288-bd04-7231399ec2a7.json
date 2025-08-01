@@ -1,10 +1,10 @@
 {
   "catalogId": "5358c1bd-e175-4288-bd04-7231399ec2a7",
-  "name": "TRANSLARNA 1000 MG",
+  "name": "TRANSLARNA 125 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 28 34267 00",
+  "registrationNumber": "154 26 34264 00",
   "treatmentDescriptions": "Translarna is indicated for the treatment of Duchenne muscular dystrophy resulting from a nonsense mutation in the dystrophin gene, in ambulatory patients aged 2 years and older.  The presence of a nonsense mutation in the dystrophin gene should be determined by genetic testing.",
   "termsOfIssue": "Prescription required",
   "form": "granules for oral suspension",
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 125.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.408403"
-  }
+    "lastUpdated": "2025-08-01T15:56:44.877595",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TRANSLARNA 125MG 30 SACHETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:56:44.877613",
+      "previousRegistration": "154 28 34267 00",
+      "newRegistration": "154 26 34264 00",
+      "apiSource": "TRANSLARNA 125 MG"
+    }
+  },
+  "nameHebrew": "טרנסלרנה 125 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

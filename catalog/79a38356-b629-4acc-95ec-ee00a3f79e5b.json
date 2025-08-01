@@ -1,10 +1,10 @@
 {
   "catalogId": "79a38356-b629-4acc-95ec-ee00a3f79e5b",
-  "name": "PEMAZYRE 13.5 MG",
+  "name": "PEMAZYRE 9 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 76 36997 99",
+  "registrationNumber": "169 75 36996 99",
   "treatmentDescriptions": "PEMAZYRE is a kinase inhibitor indicated for the treatment of adults with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or other rearrangement as determined by a validated test.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 9.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.622639"
-  }
+    "lastUpdated": "2025-08-01T16:17:00.228271",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PEMAZYRE 9 MG 14 TABS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:17:00.228436",
+      "previousRegistration": "169 76 36997 99",
+      "newRegistration": "169 75 36996 99",
+      "apiSource": "PEMAZYRE 9 MG"
+    }
+  },
+  "nameHebrew": "פמאזיר 9 מ\"ג",
+  "registrationDate": "2022-05-31"
 }

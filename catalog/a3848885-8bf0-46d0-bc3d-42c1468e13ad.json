@@ -25,10 +25,12 @@
         "name": "קמהדע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 7.5,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -54,6 +56,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.873926"
+    "lastUpdated": "2025-08-01T17:10:22.013335",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ELIGARD 22.5 MG",
+        "registration": "156 79 33678 00",
+        "form": ""
+      },
+      {
+        "name": "ELIGARD 45 MG",
+        "registration": "156 80 33677 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ELIGARD 7.5 MG  PREFILLED SYR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.22142857142857145,
+      "status": "failed_match"
+    }
   }
 }

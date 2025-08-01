@@ -1,10 +1,10 @@
 {
   "catalogId": "fe4de2e6-0f89-401b-9136-e5bdb0902233",
-  "name": "IDELVION 1000 IU",
+  "name": "IDELVION 500 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "159 31 35015 00",
+  "registrationNumber": "159 30 35014 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -31,10 +31,12 @@
         "name": "סי אס אל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.442904"
-  }
+    "lastUpdated": "2025-08-01T16:08:43.859154",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IDELVION 500 IU VIAL",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8375,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:08:43.859167",
+      "previousRegistration": "159 31 35015 00",
+      "newRegistration": "159 30 35014 00",
+      "apiSource": "IDELVION 500 IU"
+    }
+  },
+  "nameHebrew": "אידלויון 500 IU",
+  "registrationDate": "2022-09-30"
 }

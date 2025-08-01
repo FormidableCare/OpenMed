@@ -1,10 +1,10 @@
 {
   "catalogId": "2d145e92-989a-49a1-a042-cba991462f4d",
-  "name": "TIVICAY 10 MG",
+  "name": "TIVICAY 50 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "160 06 35311 00",
+  "registrationNumber": "151 40 33983 01",
   "treatmentDescriptions": "Tivicay is indicated in combination with other anti-retroviral medicinal products for the treatment of Human Immunodeficiency Virus (HIV) infected adults, adolescents and children of at least 6 years of age or older and weighing at least 14 kg",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.178356"
-  }
+    "lastUpdated": "2025-08-01T17:18:56.219190",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TIVICAY 50MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:18:56.219198",
+      "previousRegistration": "160 06 35311 00",
+      "newRegistration": "151 40 33983 01",
+      "apiSource": "TIVICAY 50 MG"
+    }
+  },
+  "nameHebrew": "טיויקיי 50 מ\"ג",
+  "registrationDate": "2019-01-31"
 }

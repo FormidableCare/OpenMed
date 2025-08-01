@@ -1,10 +1,10 @@
 {
   "catalogId": "c662715d-ba8f-4490-9493-1a84133ada97",
-  "name": "VERZENIO 100 MG",
+  "name": "VERZENIO 150 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 44 35391 00",
+  "registrationNumber": "161 45 35392 00",
   "treatmentDescriptions": "VERZENIO™ (abemaciclib) is indicated: • in combination with a non-steroidal aromatase inhibitor as initial endocrine-based therapy for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer. • in combination with fulvestrant for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. • as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy in the metastatic setting and prior chemotherapy in the metastatic setting including taxane in adjuvant or metastatic setting. Verzenio should not be used in adult patients after prior treatment with cyclin-dependent kinases 4 and 6 (CDK4 and CDK6) inhibitor. • Verzenio in combination with endocrine therapy is indicated for the adjuvant treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2) negative, node positive early breast cancer at high risk of recurrence. In pre- or perimenopausal women and in men, aromatase inhibitor endocrine therapy should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אלי לילי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 14.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.102083"
-  }
+    "lastUpdated": "2025-08-01T15:24:58.039946",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "VERZENIO 150 MG 14 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:24:58.039957",
+      "previousRegistration": "161 44 35391 00",
+      "newRegistration": "161 45 35392 00",
+      "apiSource": "VERZENIO 150 MG"
+    }
+  },
+  "nameHebrew": "ורזניו 150 מ\"ג",
+  "registrationDate": "2023-11-30"
 }

@@ -31,10 +31,24 @@
         "name": "פרופארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        },
+        {
+          "value": 10.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +73,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.665255"
+    "lastUpdated": "2025-08-01T16:38:45.950462",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MILHARDT",
+        "registration": "165 39 35427 00",
+        "form": ""
+      },
+      {
+        "name": "PRIMACOR INJECTION",
+        "registration": "137 60 28572 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MILHARDT 1MG/1ML 10 ML 10 AMP",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

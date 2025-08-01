@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 4.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 5.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.640696"
-  }
+    "lastUpdated": "2025-08-01T16:42:56.110304",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZOFRAN INJ 5X4MG/2ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:42:56.110318",
+      "previousRegistration": "049 96 26549 22",
+      "newRegistration": "049 96 26549 22",
+      "apiSource": "ZOFRAN TABLETS 4 MG"
+    }
+  },
+  "nameHebrew": "זופרן טבליות 4 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

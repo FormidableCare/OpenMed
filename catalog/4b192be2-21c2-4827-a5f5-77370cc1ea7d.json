@@ -1,10 +1,10 @@
 {
   "catalogId": "4b192be2-21c2-4827-a5f5-77370cc1ea7d",
-  "name": "STEGLUJAN 15/100 MG TABLETS",
+  "name": "STEGLUJAN 5/100 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "167 02 36036 00",
+  "registrationNumber": "167 01 36006 00",
   "treatmentDescriptions": "STEGLUJAN is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:• when metformin and/or a sulphonylurea (SU) and one of the monocomponents of Steglujan do not provide adequate glycaemic control• in patients already being treated with the combination of ertugliflozin and sitagliptin as separate tablets.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -31,10 +31,12 @@
         "name": "מ.ס.ד. ישראל",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.365134"
-  }
+    "lastUpdated": "2025-08-01T16:17:25.733687",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "STEGLUJAN 5/100 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8285714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:17:25.733694",
+      "previousRegistration": "167 02 36036 00",
+      "newRegistration": "167 01 36006 00",
+      "apiSource": "STEGLUJAN 5/100 MG TABLETS"
+    }
+  },
+  "nameHebrew": "סטגלוז'ן 5/100  מ\"ג טבליות",
+  "registrationDate": "2021-04-04"
 }

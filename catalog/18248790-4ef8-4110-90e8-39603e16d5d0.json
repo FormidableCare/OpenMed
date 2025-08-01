@@ -1,10 +1,10 @@
 {
   "catalogId": "18248790-4ef8-4110-90e8-39603e16d5d0",
-  "name": "NORVASC 10 MG TABLETS",
+  "name": "NORVASC 5 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "129 49 30947 00",
+  "registrationNumber": "129 48 30946 00",
   "treatmentDescriptions": "Mild to moderate hypertension.  Vasospastic angina ( Prinzmetal's or variant angina). Chronic stable angina.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.047610"
-  }
+    "lastUpdated": "2025-08-01T15:37:17.845351",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NORVASC 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:37:17.845365",
+      "previousRegistration": "129 49 30947 00",
+      "newRegistration": "129 48 30946 00",
+      "apiSource": "NORVASC 5 MG TABLETS"
+    }
+  },
+  "nameHebrew": "נורווסק 5 מ\"ג טבליות",
+  "registrationDate": "2023-11-30"
 }

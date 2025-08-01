@@ -1,10 +1,10 @@
 {
   "catalogId": "85913c8b-9a71-411b-92c7-633e41598b83",
-  "name": "ZOFRAN TABLETS 4 MG",
+  "name": "ZOFRAN TABLETS 8 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "049 96 26549 22",
+  "registrationNumber": "049 95 26560 22",
   "treatmentDescriptions": "Adults:Zofran is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy and radiotherapy.  Zofran is indicated for the prevention and treatment of post-operative nausea and vomiting (PONV). Paediatric Population:Zofran is indicated for the management of nausea and vomiting induced by cytotoxic chemotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.692490"
-  }
+    "lastUpdated": "2025-08-01T16:42:56.115558",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZOFRAN 8MG 10TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:42:56.115576",
+      "previousRegistration": "049 96 26549 22",
+      "newRegistration": "049 95 26560 22",
+      "apiSource": "ZOFRAN TABLETS 8 MG"
+    }
+  },
+  "nameHebrew": "זופרן טבליות 8 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

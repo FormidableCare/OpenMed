@@ -57,6 +57,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.228840"
+    "lastUpdated": "2025-08-01T17:19:42.234192",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "IBUFEN 400",
+        "registration": "039 70 26008 00",
+        "form": ""
+      },
+      {
+        "name": "IBUFEN 600",
+        "registration": "040 23 26009 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "IBUFEN 400 50 CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.025,
+      "status": "failed_match"
+    }
   }
 }

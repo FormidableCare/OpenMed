@@ -1,10 +1,10 @@
 {
   "catalogId": "7c686a2d-8c82-4000-acbc-0b044e0c6705",
-  "name": "FOLIC ACID 10 MG",
+  "name": "FOLIC ACID 5 MG",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "128 86 21946 00",
+  "registrationNumber": "128 85 21928 00",
   "treatmentDescriptions": "Treatment of folic acid deficiency megaloblastic anemia in malabsorption states.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סם און",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -58,6 +60,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.643231"
-  }
+    "lastUpdated": "2025-08-01T16:59:25.824562",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FOLIC ACID 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8166666666666668,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:59:25.824577",
+      "previousRegistration": "128 86 21946 00",
+      "newRegistration": "128 85 21928 00",
+      "apiSource": "FOLIC ACID 5 MG"
+    }
+  },
+  "nameHebrew": "חומצה פולית 5 מ\"ג",
+  "registrationDate": "2023-08-31"
 }

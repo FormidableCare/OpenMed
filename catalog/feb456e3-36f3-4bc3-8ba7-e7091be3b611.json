@@ -1,10 +1,10 @@
 {
   "catalogId": "feb456e3-36f3-4bc3-8ba7-e7091be3b611",
-  "name": "INOVELON 100 MG TABLETS",
+  "name": "INOVELON 400 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 35 33202 00",
+  "registrationNumber": "145 37 33205 00",
   "treatmentDescriptions": "Inovelon is indicated as adjunctive therapy in the treatment of seizures associated with Lennox Gastaut syndrome in patients 1 year of age and older.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.445118"
-  }
+    "lastUpdated": "2025-08-01T16:04:55.371472",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "INOVELON 400 MG 60TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:04:55.371479",
+      "previousRegistration": "145 35 33202 00",
+      "newRegistration": "145 37 33205 00",
+      "apiSource": "INOVELON 400 MG TABLETS"
+    }
+  },
+  "nameHebrew": "אינובלון טבליות 400 מ\"ג",
+  "registrationDate": "2016-01-31"
 }

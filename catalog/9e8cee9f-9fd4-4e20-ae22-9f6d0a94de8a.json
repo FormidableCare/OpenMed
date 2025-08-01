@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 20.0,
         "unit": "units"
@@ -54,11 +56,40 @@
         "retailMargin": "",
         "maxRetailPrice": 26.15,
         "maxPriceWithVAT": 30.857
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.850857"
+    "lastUpdated": "2025-08-01T15:45:03.478489",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+        "registration": "122 43 30111 00",
+        "form": ""
+      },
+      {
+        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
+        "registration": "122 42 30110 00",
+        "form": ""
+      },
+      {
+        "name": "ADVIL LIQUI-GELS 200",
+        "registration": "115 33 29761 21",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ADVIL 200MG 20LIQUI-GELS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.16666666666666666,
+      "status": "failed_match"
+    }
   }
 }

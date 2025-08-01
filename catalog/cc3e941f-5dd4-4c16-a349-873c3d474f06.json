@@ -1,10 +1,10 @@
 {
   "catalogId": "cc3e941f-5dd4-4c16-a349-873c3d474f06",
-  "name": "PREDNISONE 1 MG TABLETS",
+  "name": "PREDNISONE REKAH 20MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "118 06 26041 00",
+  "registrationNumber": "113 33 22170 00",
   "treatmentDescriptions": "Anti-inflammatory.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.133581"
-  }
+    "lastUpdated": "2025-08-01T15:45:13.360196",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PREDNISONE 20MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:45:13.360212",
+      "previousRegistration": "118 06 26041 00",
+      "newRegistration": "113 33 22170 00",
+      "apiSource": "PREDNISONE REKAH 20MG"
+    }
+  },
+  "nameHebrew": "פרדניזון רקח 20 מ\"ג",
+  "registrationDate": "2023-12-31"
 }

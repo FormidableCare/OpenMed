@@ -1,10 +1,10 @@
 {
   "catalogId": "b9722e64-d2da-43f2-86b5-fd7b29aa83b6",
-  "name": "TOCTINO 10 MG",
+  "name": "TOCTINO 30 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "145 92 33163 00",
+  "registrationNumber": "146 64 33164 00",
   "treatmentDescriptions": "For use in adults who have severe chronic hand eczema that is unresponsive to treatment with potent topical corticosteroids .Patients in whom the eczema has predominantly hyperkeratotic features are more likely to respond to treatment than in those in whom the eczema predominantly presents as pompholyx .",
   "termsOfIssue": "Prescription required",
   "form": "capsule, soft",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.018657"
-  }
+    "lastUpdated": "2025-08-01T15:44:37.442101",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TOCTINO 30MG 30CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:44:37.442112",
+      "previousRegistration": "145 92 33163 00",
+      "newRegistration": "146 64 33164 00",
+      "apiSource": "TOCTINO 30 MG"
+    }
+  },
+  "nameHebrew": "טוקטינו 30 מ\"ג",
+  "registrationDate": "2021-11-30"
 }

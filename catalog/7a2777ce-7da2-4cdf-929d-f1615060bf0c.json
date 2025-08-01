@@ -31,10 +31,12 @@
         "name": "מדומי פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 400.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -53,11 +55,35 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 31.185447,
         "maxPriceWithVAT": 36.79882746
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.626270"
+    "lastUpdated": "2025-08-01T16:31:47.897345",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BEZAFIBRATE MEDOMIE",
+        "registration": "176 67 37746 99",
+        "form": ""
+      },
+      {
+        "name": "NORLIP",
+        "registration": "046 05 23778 02",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BEZAFIBRATE MEDOMIE 400 MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.014285714285714285,
+      "status": "failed_match"
+    }
   }
 }

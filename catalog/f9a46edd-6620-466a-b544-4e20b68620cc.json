@@ -31,10 +31,16 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 1.9,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -58,6 +64,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.414883"
+    "lastUpdated": "2025-08-01T15:47:56.349084",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 95 26735 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 96 26734 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 4 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 97 26736 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "ACID BORIC 1.9% 10ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.2,
+      "status": "failed_match"
+    }
   }
 }

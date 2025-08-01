@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אורגנון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 12.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.373805"
-  }
+    "lastUpdated": "2025-08-01T15:36:26.617916",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIZALT 10MG 12 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:36:26.617933",
+      "previousRegistration": "112 36 29508 00",
+      "newRegistration": "112 36 29508 00",
+      "apiSource": "RIZALT 10 MG TABLETS"
+    }
+  },
+  "nameHebrew": "ריזלט 10 מ\"ג טבליות",
+  "registrationDate": "2023-09-30"
 }

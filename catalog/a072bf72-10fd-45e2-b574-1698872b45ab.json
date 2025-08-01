@@ -1,10 +1,10 @@
 {
   "catalogId": "a072bf72-10fd-45e2-b574-1698872b45ab",
-  "name": "EXJADE 125 MG",
+  "name": "EXJADE 250 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "133 99 31337 00",
+  "registrationNumber": "134 02 31338 00",
   "treatmentDescriptions": "Exjade is indicated for the treatment of chronic iron overload due to blood transfusions (transfusionalhaemosiderosis) in adult and pediatric patients (aged 2 years and over).Exjade is also indicated for the treatment of chronic iron overload in patients with non-transfusion-dependent thalassemia syndromes aged 10 years and older.Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] &#8805;5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 μg/l).LIC is the preferred method of iron overload determination and should be used wherever available",
   "termsOfIssue": "Prescription required",
   "form": "tablets dispersible",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 250.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.862638"
-  }
+    "lastUpdated": "2025-08-01T16:46:19.746958",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "EXJADE 250MG 28 DISPERS TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:46:19.746968",
+      "previousRegistration": "133 99 31337 00",
+      "newRegistration": "134 02 31338 00",
+      "apiSource": "EXJADE 250 MG"
+    }
+  },
+  "nameHebrew": "אקסג'ייד 250 מ\"ג",
+  "registrationDate": "2021-01-31"
 }

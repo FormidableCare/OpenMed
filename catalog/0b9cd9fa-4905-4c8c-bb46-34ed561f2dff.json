@@ -1,10 +1,10 @@
 {
   "catalogId": "0b9cd9fa-4905-4c8c-bb46-34ed561f2dff",
-  "name": "ALCOHOL 70%  FLORIS",
+  "name": "ALCOHOL 70 % VITAMED",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "057 39 27018 00",
+  "registrationNumber": "128 31 30731 00",
   "treatmentDescriptions": "Antiseptic.",
   "termsOfIssue": "",
   "form": "solution",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ויטאמד",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        },
+        {
+          "value": 70.0,
+          "unit": "%"
+        }
+      ],
       "quantity": {
         "value": 100.0,
         "unit": "units"
@@ -58,6 +64,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.963916"
-  }
+    "lastUpdated": "2025-08-01T17:28:54.579586",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ALCOHOL 70% 100ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:28:54.579593",
+      "previousRegistration": "057 39 27018 00",
+      "newRegistration": "128 31 30731 00",
+      "apiSource": "ALCOHOL 70 % VITAMED"
+    }
+  },
+  "nameHebrew": "אלכוהול  % 70 ויטאמד",
+  "registrationDate": "2023-05-31"
 }

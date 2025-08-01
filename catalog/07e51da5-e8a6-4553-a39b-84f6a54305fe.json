@@ -25,10 +25,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 40.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,6 +56,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.939990"
+    "lastUpdated": "2025-08-01T15:42:39.373148",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "ISADERM VETERINARY",
+        "registration": "082 41 92173 00",
+        "form": ""
+      },
+      {
+        "name": "ISATHAL VETERINARY",
+        "registration": "082 40 92174 00",
+        "form": ""
+      },
+      {
+        "name": "STAPHIDERM - B",
+        "registration": "177 40 37155 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FUSID 40MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

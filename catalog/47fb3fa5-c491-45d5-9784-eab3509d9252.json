@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ב.מ.ס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.23,
+          "unit": "mg"
+        },
+        {
+          "value": 0.46,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 7.0,
         "unit": "units"
@@ -59,6 +65,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.352618"
-  }
+    "lastUpdated": "2025-08-01T15:21:55.717000",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ZEPOSIA 0.23 MG 4 CAPS +3 CAPS 0.46 MG",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:21:55.717012",
+      "previousRegistration": "167 33 36599 99",
+      "newRegistration": "167 33 36599 99",
+      "apiSource": "ZEPOSIA 0.23 MG"
+    }
+  },
+  "nameHebrew": "זפוסיה 0.23 מ\"ג",
+  "registrationDate": "2021-05-19"
 }

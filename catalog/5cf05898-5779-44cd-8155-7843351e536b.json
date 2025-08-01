@@ -1,10 +1,10 @@
 {
   "catalogId": "5cf05898-5779-44cd-8155-7843351e536b",
-  "name": "PENIBRIN 1 G",
+  "name": "PENIBRIN 2 G",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "032 41 22422 00",
+  "registrationNumber": "102 72 27337 00",
   "treatmentDescriptions": "Penibrin injection is recommended in serious infections when prompt, effective levels of the antibiotic must reach the site of infection. Such infections include meningitis, subacute bacterial endocarditis, peritonitis, septicemia, severe forms of chronic bronchitis, osteomyelitis, pneumonia and pyelonephritis due to susceptible organisms.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -31,10 +31,12 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.457467"
-  }
+    "lastUpdated": "2025-08-01T15:50:55.041614",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "PENIBRIN 2 G 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:50:55.041635",
+      "previousRegistration": "032 41 22422 00",
+      "newRegistration": "102 72 27337 00",
+      "apiSource": "PENIBRIN 2 G"
+    }
+  },
+  "nameHebrew": "פניברין 2 ג'",
+  "registrationDate": "2021-12-31"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "1b457689-33fa-424e-9a01-ea31c473b8c0",
-  "name": "RONEXINE 100 MG TABLETS",
+  "name": "RONEXINE 25 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "030 40 21109 00",
+  "registrationNumber": "136 11 21108 00",
   "treatmentDescriptions": "Therapeutic indications  Neuroleptic drug - Acute psychotic states. Chronic psychotic states (schizophrenia, chronic non-schizophrenic delirium: paranoid delirium, chronic hallucinatory psychoses). - In association with an antidepressant – short-duration treatment of certain severe forms of major depressive episodes.This association can be done only during the initial period of the treatment, namely, during the period from 4 to 6 weeks.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -16,7 +16,7 @@
   "codes": {},
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -25,10 +25,12 @@
         "name": "רקח",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,6 +56,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.066233"
-  }
+    "lastUpdated": "2025-08-01T16:51:39.715506",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RONEXINE 25MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:51:39.715514",
+      "previousRegistration": "030 40 21109 00",
+      "newRegistration": "136 11 21108 00",
+      "apiSource": "RONEXINE 25 MG TABLETS"
+    }
+  },
+  "nameHebrew": "רונקסין 25 מ\"ג טבליות",
+  "registrationDate": "2022-01-31"
 }

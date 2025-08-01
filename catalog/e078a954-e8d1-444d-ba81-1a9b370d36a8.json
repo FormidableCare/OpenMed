@@ -1,10 +1,10 @@
 {
   "catalogId": "e078a954-e8d1-444d-ba81-1a9b370d36a8",
-  "name": "AZITHROVENIR",
+  "name": "AZITHRO TEVA 200 MG / 5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "159 58 34834 00",
+  "registrationNumber": "163 07 35300 00",
   "treatmentDescriptions": "Treatment of infections caused by susceptible strains of the designated microorganism in the following conditions: community-acquired pneumonia and pelvic inflammatory disease.",
   "termsOfIssue": "Prescription required",
   "form": "powder for concentrate for solution for infusion",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        },
+        {
+          "value": 5.0,
+          "unit": "ml"
+        },
+        {
+          "value": 15.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -59,6 +69,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.271753"
-  }
+    "lastUpdated": "2025-08-01T17:13:35.757792",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "AZITHRO TEVA 200 MG / 5 ML 15 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 1.0,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:13:35.757803",
+      "previousRegistration": "159 58 34834 00",
+      "newRegistration": "163 07 35300 00",
+      "apiSource": "AZITHRO TEVA 200 MG / 5 ML"
+    }
+  },
+  "nameHebrew": "אזיתרו טבע  200 מ\"ג / 5 מ\"ל",
+  "registrationDate": "2024-11-30"
 }

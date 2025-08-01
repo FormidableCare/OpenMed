@@ -25,10 +25,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 50.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 50.0,
         "unit": "units"
@@ -47,11 +49,30 @@
         "retailMargin": "",
         "maxRetailPrice": 41.12,
         "maxPriceWithVAT": 48.5216
-      }
+      },
+      "formulation": [
+        "cream"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.818072"
+    "lastUpdated": "2025-08-01T16:14:22.155444",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TRAUMAPLANT",
+        "registration": "140 61 31480 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TRAUMAPLANT CREAM 50GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

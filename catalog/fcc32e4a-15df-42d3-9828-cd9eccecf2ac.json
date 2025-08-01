@@ -58,6 +58,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.433392"
+    "lastUpdated": "2025-08-01T16:55:09.204168",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DUODART",
+        "registration": "146 34 33278 01",
+        "form": ""
+      },
+      {
+        "name": "DUODART",
+        "registration": "146 34 33278 02",
+        "form": ""
+      },
+      {
+        "name": "DUODART",
+        "registration": "146 34 33278 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TAMSU P.R TEVA 30 TABS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

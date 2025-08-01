@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mcg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.937932"
-  }
+    "lastUpdated": "2025-08-01T15:50:01.872547",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "FLIXOTIDE DISK 100MCG 60DOSES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8071428571428572,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:50:01.872552",
+      "previousRegistration": "069 97 28478 00",
+      "newRegistration": "069 97 28478 00",
+      "apiSource": "FLIXOTIDE DISKUS 100 MCG"
+    }
+  },
+  "nameHebrew": "פליקסוטייד דיסקוס 100 מק\"ג",
+  "registrationDate": "2021-01-31"
 }

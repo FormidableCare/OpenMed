@@ -1,10 +1,10 @@
 {
   "catalogId": "3f2db15f-5500-4410-ab5c-8624a1286834",
-  "name": "KOVALTRY 1000 IU",
+  "name": "KOVALTRY 2000 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 45 34964 00",
+  "registrationNumber": "158 46 34965 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Kovaltry can be used for all age groups.",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "באייר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2000.0,
+          "unit": "iu"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +64,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.305772"
-  }
+    "lastUpdated": "2025-08-01T16:43:06.892476",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "KOVALTRY 2000 IU VIAL 10 ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:06.892494",
+      "previousRegistration": "158 45 34964 00",
+      "newRegistration": "158 46 34965 00",
+      "apiSource": "KOVALTRY 2000 IU"
+    }
+  },
+  "nameHebrew": "קובאלטרי IU 2000",
+  "registrationDate": "2022-04-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "e333987d-4e77-44df-99ce-9b5fef141fa8",
-  "name": "LIXIANA15 MG",
+  "name": "LIXIANA 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 82 36013 00",
+  "registrationNumber": "166 80 36035 00",
   "treatmentDescriptions": "• Prevention of stroke and systemic embolism in adult patients with nonvalvular atrial fibrillation (NVAF) with  one or more risk factors, such as congestive heart failure, hypertension, age &#8805; 75 years,diabetes mellitus, prior stroke or transient ischaemic attack (TIA).• Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "מדיסון",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.286827"
-  }
+    "lastUpdated": "2025-08-01T17:30:40.712885",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LIXIANA 60 MG 30 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:40.712888",
+      "previousRegistration": "166 82 36013 00",
+      "newRegistration": "166 80 36035 00",
+      "apiSource": "LIXIANA 60 MG"
+    }
+  },
+  "nameHebrew": "ליקסיאנה 60 מ\"ג",
+  "registrationDate": "2021-03-01"
 }

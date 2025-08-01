@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.328892"
+    "lastUpdated": "2025-08-01T16:56:33.458474",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "AVCAMOL 250 MG",
+        "registration": "148 51 33446 01",
+        "form": ""
+      },
+      {
+        "name": "AVCAMOL 250 MG",
+        "registration": "148 51 33446 00",
+        "form": ""
+      },
+      {
+        "name": "AVCAMOL 500",
+        "registration": "148 53 33459 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PARACETAMOL FRESENIUS 10 MG/ML 10 VIAL X 100 ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.005000000000000001,
+      "status": "failed_match"
+    }
   }
 }

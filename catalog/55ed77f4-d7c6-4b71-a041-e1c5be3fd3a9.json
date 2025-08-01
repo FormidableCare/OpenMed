@@ -1,10 +1,10 @@
 {
   "catalogId": "55ed77f4-d7c6-4b71-a041-e1c5be3fd3a9",
-  "name": "MEROPENEM / ANFARM 1 G",
+  "name": "MEROPENEM / ANFARM 500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 54 33679 00",
+  "registrationNumber": "150 53 33675 00",
   "treatmentDescriptions": "Meropenem is indicated for treatment in adults and children of the following severe infections caused by single or multiple susceptible bacteria sensitive to meropenem: - Pneumonias and nosocomial pneumonias. - Pulmonary  infections in patients with cystic fibrosis. - Urinary tract infections. - Intra-abdominal infections. - Gynecological  infections such as endometritis and pelvic inflammatory disease. - Skin and skin structure infections. - Meningitis -Septicemia. Meropenem has proved efficacious alone or in combination with other antimicrobial agents in the treatment of polymicrobial infections. There is no experience in pediatric patients with neutropenia or primary or secondary immunodeficiency",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 10.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.423073"
-  }
+    "lastUpdated": "2025-08-01T17:05:35.426277",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "MEROPENEM / ANFARM 500 MG 10 VIALS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:05:35.426287",
+      "previousRegistration": "150 54 33679 00",
+      "newRegistration": "150 53 33675 00",
+      "apiSource": "MEROPENEM / ANFARM 500 MG"
+    }
+  },
+  "nameHebrew": "מרופנם / אנפארם 500 מ\"ג",
+  "registrationDate": "2018-07-31"
 }

@@ -60,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.107845"
+    "lastUpdated": "2025-08-01T15:53:35.259183",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
+        "registration": "157 47 34816 00",
+        "form": ""
+      },
+      {
+        "name": "PENTASA SLOW RELEASE GRANULES 1 GR.",
+        "registration": "114 57 29591 00",
+        "form": ""
+      },
+      {
+        "name": "PENTASA SLOW RELEASE GRANULES 2 G",
+        "registration": "138 91 31560 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "PENTASA ENEMA 7X1OOML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

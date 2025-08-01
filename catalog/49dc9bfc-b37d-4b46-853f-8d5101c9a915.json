@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1000.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -53,11 +55,41 @@
         "retailMargin": "",
         "maxRetailPrice": "",
         "maxPriceWithVAT": ""
-      }
+      },
+      "formulation": [
+        "injection",
+        "solution"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.360654"
+    "lastUpdated": "2025-08-01T15:41:35.474858",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 95 26735 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 96 26734 00",
+        "form": ""
+      },
+      {
+        "name": "CAPD 4 PERITONEAL DIALYSIS SOLUTION",
+        "registration": "107 97 26736 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MAGNESIUM SULFATE 40MG/ML 1000ML HOSPIRAL USA SOLUTION FOR INJECTION",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.15714285714285714,
+      "status": "failed_match"
+    }
   }
 }

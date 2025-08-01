@@ -1,10 +1,10 @@
 {
   "catalogId": "3b87a98d-016a-4727-9b1c-413fa354ad2c",
-  "name": "RINVOQ 15 MG",
+  "name": "RINVOQ 45 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 29 36194 00",
+  "registrationNumber": "172 42 37344 99",
   "treatmentDescriptions": "Rheumatoid arthritis RINVOQ is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti-rheumatic drugs (DMARDs). RINVOQ may be used as monotherapy or in combination with methotrexate. Psoriatic arthritis RINVOQ is indicated for the treatment of active psoriatic arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more DMARDs. RINVOQ may be used as monotherapy or in combination with methotrexate. Axial spondyloarthritis Non-radiographic axial spondyloarthritis (nr-axSpA) RINVOQ is indicated for the treatment of active non-radiographic axial spondyloarthritis in adult patients with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI), who have responded inadequately to nonsteroidal anti-inflammatory drugs (NSAIDs). Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)RINVOQ is indicated for the treatment of active ankylosing spondylitis in adult patients who have responded inadequately to conventional therapy. Atopic dermatitis RINVOQ is indicated for the treatment of moderate to severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic therapy. Ulcerative colitis RINVOQ is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response, lost response or were intolerant to either conventional therapy or a biologic agent. Crohn’s disease RINVOQ is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response, lost response or were intolerant to either conventional therapy or a biologic agent.Polyarticular juvenile idiopathic arthritisRINVOQ 15mg tablets is indicated for the treatment of patients 2 years of age and older with active polyarticular juvenile idiopathic arthritis who have had an inadequate response or intolerance to one or more TNF blockers.Limitations of Use RINVOQ 15 MG is not recommended for use in combination with other JAK inhibitors, biologic DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.Juvenile psoriatic arthritis RINVOQ 15 MG is indicated for the treatment of pediatric patients 2 years of age and older with active juvenile psoriatic arthritis who have had an inadequate response or intolerance to one or more TNF blockers.Limitations of Use RINVOQ 15 MG is not recommended for use in combination with other JAK inhibitors, biologic DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "אב-וי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 45.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 6689.195473,
         "maxPriceWithVAT": 7893.250307
-      }
+      },
+      "formulation": [
+        "tablet"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.285498"
-  }
+    "lastUpdated": "2025-08-01T16:30:53.673360",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RINVOQ 45 MG  28 PR TABLETS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:53.673369",
+      "previousRegistration": "164 29 36194 00",
+      "newRegistration": "172 42 37344 99",
+      "apiSource": "RINVOQ 45 MG"
+    }
+  },
+  "nameHebrew": "רינבוק 45 מ\"ג",
+  "registrationDate": "2023-03-19"
 }

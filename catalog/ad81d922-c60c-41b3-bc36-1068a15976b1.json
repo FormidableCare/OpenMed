@@ -1,10 +1,10 @@
 {
   "catalogId": "ad81d922-c60c-41b3-bc36-1068a15976b1",
-  "name": "SLENYTO 1 MG",
+  "name": "SLENYTO 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "165 84 36331 00",
+  "registrationNumber": "165 85 36332 00",
   "treatmentDescriptions": "Slenyto is indicated for the treatment of insomnia in children and adolescents aged 2-18 with Autism Spectrum Disorder (ASD) and/or Smith-Magenis syndrome, where sleep hygiene measures have been insufficient.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נעורים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.937158"
-  }
+    "lastUpdated": "2025-08-01T16:06:55.807079",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SLENYTO 5 MG 30 PR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:06:55.807094",
+      "previousRegistration": "165 84 36331 00",
+      "newRegistration": "165 85 36332 00",
+      "apiSource": "SLENYTO 5 MG"
+    }
+  },
+  "nameHebrew": "סלנייטו 5 מ\"ג",
+  "registrationDate": "2020-11-15"
 }

@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.1,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 6.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.357229"
+    "lastUpdated": "2025-08-01T15:23:53.885099",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BINOCRIT 1000 IU/ 0.5 ML",
+        "registration": "147 08 33360 00",
+        "form": ""
+      },
+      {
+        "name": "BINOCRIT 10000 I.U / 1 ML",
+        "registration": "147 15 33367 00",
+        "form": ""
+      },
+      {
+        "name": "BINOCRIT 2000 I.U/ 1 ML",
+        "registration": "147 09 33361 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BINOCRIT 10000 I.U/0.1 ML 6 SYRINGE PREFILLED",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.23,
+      "status": "failed_match"
+    }
   }
 }

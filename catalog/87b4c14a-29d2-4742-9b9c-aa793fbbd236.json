@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 60.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.730169"
-  }
+    "lastUpdated": "2025-08-01T17:30:51.437266",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "IMATINIB - TRIMA 100 MG  60 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8333333333333334,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:30:51.437277",
+      "previousRegistration": "157 59 34527 00",
+      "newRegistration": "157 59 34527 00",
+      "apiSource": "IMATINIB - TRIMA 100 MG"
+    }
+  },
+  "nameHebrew": "אימטיניב - תרימה 100 מ\"ג",
+  "registrationDate": "2021-11-30"
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "60a59dc8-ef44-4023-9636-a8a49a7a642d",
-  "name": "LAMOGINE 100 MG",
+  "name": "LAMOGINE 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "123 89 30354 00",
+  "registrationNumber": "123 87 30352 00",
   "treatmentDescriptions": "EpilepsyAdults and adolescents aged 13 years and above- \tAdjunctive or monotherapy treatment of partial seizures and generalised seizures,                including tonic-clonic seizures.- \tSeizures associated with Lennox-Gastaut syndrome. Lamogine is given as adjunctive               therapy but may be the initial antiepileptic drug (AED) to start with in Lennox-              Gastaut syndrome.Children and adolescents aged 2 to 12 years- \tAdjunctive treatment of partial seizures and generalised seizures, including tonic-             clonic seizures and the seizures associated with Lennox-Gastaut syndrome.-\t Monotherapy of typical absence seizures.Bipolar disorderAdults aged 18 years and above-\t Prevention of depressive episodes in patients with bipolar I disorder who experience predominantly depressive episodes.Lamogine is not indicated for the acute treatment of manic or depressive episodes.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "תרימה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.478870"
-  }
+    "lastUpdated": "2025-08-01T16:16:50.632400",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LAMOGINE 25MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:16:50.632413",
+      "previousRegistration": "123 89 30354 00",
+      "newRegistration": "123 87 30352 00",
+      "apiSource": "LAMOGINE 25 MG"
+    }
+  },
+  "nameHebrew": "למוג'ין 25 מ\"ג",
+  "registrationDate": "2021-10-31"
 }

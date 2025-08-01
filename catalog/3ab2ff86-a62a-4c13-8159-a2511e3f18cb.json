@@ -1,10 +1,10 @@
 {
   "catalogId": "3ab2ff86-a62a-4c13-8159-a2511e3f18cb",
-  "name": "ENALADEX 10 MG",
+  "name": "ENALADEX 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "115 85 29810 00",
+  "registrationNumber": "115 84 29809 00",
   "treatmentDescriptions": "Treatment of essntial hypertension, renovascular hypertension congestive heart failure and to reduce mortality in patients with all degrees of heart failure. To retard the development of symptomatic heart failure in asymptomatic patients with left ventricular dysfunction.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'ח ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.283645"
-  }
+    "lastUpdated": "2025-08-01T16:43:49.391014",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "ENALAPRIL 5MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:43:49.391023",
+      "previousRegistration": "115 85 29810 00",
+      "newRegistration": "115 84 29809 00",
+      "apiSource": "ENALADEX 5 MG"
+    }
+  },
+  "nameHebrew": "אנלדקס 5 מ\"ג",
+  "registrationDate": "2014-11-11"
 }

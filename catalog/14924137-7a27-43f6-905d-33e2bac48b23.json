@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 112.0,
         "unit": "units"
@@ -54,11 +56,27 @@
         "retailMargin": 10.0,
         "maxRetailPrice": 50260.87246,
         "maxPriceWithVAT": 59307.82687
-      }
+      },
+      "formulation": [
+        "capsule"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.023469"
-  }
+    "lastUpdated": "2025-08-01T16:02:21.823531",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RYDAPT 25 MG 112 CAPSULES",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8300000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:02:21.823547",
+      "previousRegistration": "160 65 35320 00",
+      "newRegistration": "160 65 35320 00",
+      "apiSource": "RYDAPT ® 25 MG"
+    }
+  },
+  "nameHebrew": "ריידפט 25 מ\"ג",
+  "registrationDate": "2023-06-30"
 }

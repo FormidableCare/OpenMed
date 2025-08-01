@@ -58,6 +58,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.890875"
+    "lastUpdated": "2025-08-01T17:27:21.717244",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BRINAVESS 20 MG/ML",
+        "registration": "148 28 33391 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BRINAVESS 20 MG/ML 25 VIALS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

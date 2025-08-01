@@ -31,10 +31,12 @@
         "name": "",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -57,6 +59,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.982159"
+    "lastUpdated": "2025-08-01T17:14:15.920324",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "DEXILANT 30 MG",
+        "registration": "155 45 34383 00",
+        "form": ""
+      },
+      {
+        "name": "DEXILANT 60 MG",
+        "registration": "155 46 34387 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LANSOPRAZOLE15 MG  28TAB ORODISPERSIBLE  TEVA UK",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20625000000000002,
+      "status": "failed_match"
+    }
   }
 }

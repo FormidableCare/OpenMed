@@ -51,6 +51,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.414281"
+    "lastUpdated": "2025-08-01T16:54:18.676615",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "BITNI TABLETS",
+        "registration": "140 65 31601 00",
+        "form": ""
+      },
+      {
+        "name": "BITNI SUSPENSION",
+        "registration": "140 75 31557 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "BITNI X 20 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

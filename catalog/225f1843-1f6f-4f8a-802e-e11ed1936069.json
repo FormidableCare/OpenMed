@@ -1,10 +1,10 @@
 {
   "catalogId": "225f1843-1f6f-4f8a-802e-e11ed1936069",
-  "name": "QUETIAPINE SANDOZ ® 150 MG PRT",
+  "name": "SEROQUEL 200 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 02 35776 00",
+  "registrationNumber": "109 41 29315 00",
   "treatmentDescriptions": "Quetiapine Sandoz PRT is indicated for the treatment of Schizophrenia. Quetiapine Sandoz PRT is effective in preventing relapse in stable schizophrenic patients who have been maintained on Quetiapine Sandoz PRT. Quetiapine Sandoz PRT  is indicated for the treatment of moderate to severe manic episodes associated with bipolar disorder.Treatment of acute mania associated with bipolar I disorder as monotherapy or in combination with lithium or sodium valproate. Quetiapine Sandoz PRT is indicated for the treatment of major depressive episodes in bipolar disorder. Quetiapine Sandoz PRT is indicated for preventing recurrence in bipolar disorder in patients whose manic, mixed or depressive episode has responded to quetiapine treatment as monotherapy or in combination with lithium or sodium valproate. Quetiapine Sandoz PRT is indicated for add-on treatment of major depressive episods in patients with Major Depressive Disorder (MDD) who have had sub-optimal response to antidepressant monotherapy . Prior to initiating treatment, clinicians should consider the safety profile of Quetiapine Sandoz PRT.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "סנדוז",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 200.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.106439"
-  }
+    "lastUpdated": "2025-08-01T17:24:28.163375",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "QUETIAPINE SANDOZ  200 MG  30 PRT",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:24:28.163403",
+      "previousRegistration": "166 02 35776 00",
+      "newRegistration": "109 41 29315 00",
+      "apiSource": "SEROQUEL 200 MG"
+    }
+  },
+  "nameHebrew": "סרוקואל 200 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

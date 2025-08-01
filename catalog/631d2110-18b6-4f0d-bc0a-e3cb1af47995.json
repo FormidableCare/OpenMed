@@ -1,10 +1,10 @@
 {
   "catalogId": "631d2110-18b6-4f0d-bc0a-e3cb1af47995",
-  "name": "JARDIANCE 10 MG",
+  "name": "JARDIANCE 25 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "154 22 34202 00",
+  "registrationNumber": "154 23 34203 00",
   "treatmentDescriptions": "JARDIANCE 10mg is indicated: •to reduce the risk of cardiovascular death and hospitalization for heart failure in adults with heart failure. •as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus •to reduce the risk of cardiovascular death in adult patients with type 2 diabetes mellitus and established cardiovascular disease•to reduce the risk of sustained decline in eGFR, end-stage kidney disease, cardiovascular death, and hospitalization in adults with chronic kidney disease at risk of progression",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "בורינגר אינגלהיים",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 25.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.492065"
-  }
+    "lastUpdated": "2025-08-01T17:50:41.315017",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "JARDIANCE 25MG 30 F.C.TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:50:41.315032",
+      "previousRegistration": "154 22 34202 00",
+      "newRegistration": "154 23 34203 00",
+      "apiSource": "JARDIANCE 25 MG"
+    }
+  },
+  "nameHebrew": "ג'ארדיאנס 25 מ\"ג",
+  "registrationDate": "2020-07-31"
 }

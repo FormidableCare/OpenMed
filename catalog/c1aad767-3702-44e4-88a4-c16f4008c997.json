@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.073343"
-  }
+    "lastUpdated": "2025-08-01T17:46:24.449887",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "TICOVAC 0.5 ML  1 PREFILLED SYRINGE",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8285714285714286,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:46:24.449895",
+      "previousRegistration": "162 33 35413 00",
+      "newRegistration": "162 33 35413 00",
+      "apiSource": "TICOVAC 0.5 ML"
+    }
+  },
+  "nameHebrew": "טיקוואק 0.5 מ\"ל",
+  "registrationDate": "2024-05-31"
 }

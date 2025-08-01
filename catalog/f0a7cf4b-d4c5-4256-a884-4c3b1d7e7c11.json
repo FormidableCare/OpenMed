@@ -31,10 +31,12 @@
         "name": "אוניפארם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 150.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.362702"
+    "lastUpdated": "2025-08-01T16:25:38.999843",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "RIBONE 150",
+        "registration": "147 68 33575 01",
+        "form": ""
+      },
+      {
+        "name": "RIBONE 35",
+        "registration": "145 61 33140 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "RIBONE 150MG 1 TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

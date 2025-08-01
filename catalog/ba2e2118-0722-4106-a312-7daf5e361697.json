@@ -1,10 +1,10 @@
 {
   "catalogId": "ba2e2118-0722-4106-a312-7daf5e361697",
-  "name": "CHAMPIX 0.5 MG",
+  "name": "CHAMPIX 1.0 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 66 31510 00",
+  "registrationNumber": "137 67 31511 00",
   "treatmentDescriptions": "Champix is indicated as an aid to smoking cessation treatment adults over 18 years of age.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "פיזר",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 1.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 56.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.024465"
-  }
+    "lastUpdated": "2025-08-01T16:30:31.444944",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "CHAMPIX 1MG 56TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8083333333333333,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:30:31.444949",
+      "previousRegistration": "137 66 31510 00",
+      "newRegistration": "137 67 31511 00",
+      "apiSource": "CHAMPIX 1.0 MG"
+    }
+  },
+  "nameHebrew": "צ'מפיקס 1.0 מ\"ג",
+  "registrationDate": "2022-12-31"
 }

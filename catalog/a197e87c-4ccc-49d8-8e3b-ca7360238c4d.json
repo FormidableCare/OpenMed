@@ -31,10 +31,20 @@
         "name": "נעמי שאקו עזרה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "mg"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        },
+        {
+          "value": 0.5,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -57,6 +67,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.867431"
-  }
+    "lastUpdated": "2025-08-01T17:40:00.891918",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "SUBLOCADE 100 MG/0.5 ML  E.R SOL FOR INJ 1 PFS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8115384615384615,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:40:00.891925",
+      "previousRegistration": "163 66 35771 00",
+      "newRegistration": "163 66 35771 00",
+      "apiSource": "SUBLOCADE 100 MG"
+    }
+  },
+  "nameHebrew": "סובלוקייד 100 מ\"ג",
+  "registrationDate": "2025-01-31"
 }

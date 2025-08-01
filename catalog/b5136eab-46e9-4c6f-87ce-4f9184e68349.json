@@ -1,10 +1,10 @@
 {
   "catalogId": "b5136eab-46e9-4c6f-87ce-4f9184e68349",
-  "name": "XANAX X.R. 0.5 MG",
+  "name": "XANAX X.R. 2 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "110 49 28804 21",
+  "registrationNumber": "110 51 28806 21",
   "treatmentDescriptions": "For the treatment of anxiety and anxiety associated with depression.Treatment of panic disorder with or without phobic avoidance",
   "termsOfIssue": "Prescription required",
   "form": "tablets sustained release",
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -55,11 +57,27 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 37.66255204,
         "maxPriceWithVAT": 44.44180944
-      }
+      },
+      "formulation": [
+        "sr"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.989282"
-  }
+    "lastUpdated": "2025-08-01T16:21:34.879810",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "XANAX XR 2MG 30 SR TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.805,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:21:34.879821",
+      "previousRegistration": "110 49 28804 21",
+      "newRegistration": "110 51 28806 21",
+      "apiSource": "XANAX X.R. 2 MG"
+    }
+  },
+  "nameHebrew": "קסנאקס אקס.אר. 2 מ\"ג",
+  "registrationDate": "2023-04-30"
 }

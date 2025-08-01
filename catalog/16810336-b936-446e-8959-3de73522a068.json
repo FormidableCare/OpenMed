@@ -31,10 +31,20 @@
         "name": "טבע",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 450.0,
+          "unit": "mg"
+        },
+        {
+          "value": 45.0,
+          "unit": "ml"
+        },
+        {
+          "value": 45.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +70,22 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.036539"
+    "lastUpdated": "2025-08-01T15:29:37.130403",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "CARBOPLATIN TEVA",
+        "registration": "042 05 25540 05",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "CARBOPLATIN 450MG/45ML VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

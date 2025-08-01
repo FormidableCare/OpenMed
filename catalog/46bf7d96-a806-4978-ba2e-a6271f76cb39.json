@@ -1,10 +1,10 @@
 {
   "catalogId": "46bf7d96-a806-4978-ba2e-a6271f76cb39",
-  "name": "NICOTINELL GUM 2 MG (MINT)",
+  "name": "NICOTINELL GUM 2 MG (FRUIT)",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "115 78 29638 23",
+  "registrationNumber": "115 78 29638 22",
   "treatmentDescriptions": "As an aid to smoking cessation and for the relief of nicotine withdrawal symptoms.   In smokers currently unable or not ready to stop smoking abruptly  the gum may also be used as part of a program to reduce smoking prior to stopping completely.",
   "termsOfIssue": "",
   "form": "chewing gum",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה שאושרה לשימוש כללי בקופ'חתרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ג.ס.ק",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 2.0,
+          "unit": "mg"
+        },
+        {
+          "value": 96.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 96.0,
         "unit": "units"
@@ -57,6 +63,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.346311"
-  }
+    "lastUpdated": "2025-08-01T15:22:13.325454",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "NICOTINELL GUM 2 MG (FRUIT) 96 GUMS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:22:13.325468",
+      "previousRegistration": "115 78 29638 23",
+      "newRegistration": "115 78 29638 22",
+      "apiSource": "NICOTINELL GUM 2 MG (FRUIT)"
+    }
+  },
+  "nameHebrew": "ניקוטינל מסטיק 2 מ\"ג (פירות)",
+  "registrationDate": "2014-08-31"
 }

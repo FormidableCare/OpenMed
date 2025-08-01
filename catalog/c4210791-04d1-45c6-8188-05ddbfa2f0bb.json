@@ -1,10 +1,10 @@
 {
   "catalogId": "c4210791-04d1-45c6-8188-05ddbfa2f0bb",
-  "name": "BUCCOLAM 10 MG",
+  "name": "BUCCOLAM 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "149 81 33746 07",
+  "registrationNumber": "149 79 33744 07",
   "treatmentDescriptions": "Treatment of prolonged, acute, convulsive seizures in infants, toddlers, children and adolescents (from 3 months to < 18 years). Buccolam must only be used by parents/carers where the patient has been diagnosed to have epilepsy. For infants between 3-6 months of age treatment should be in a hospital setting where monitoring is possible and resuscitation equipment is available",
   "termsOfIssue": "Prescription required",
   "form": "oromucosal solution",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,16 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        },
+        {
+          "value": 1.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 4.0,
         "unit": "units"
@@ -60,6 +66,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.088311"
-  }
+    "lastUpdated": "2025-08-01T17:46:35.692200",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "BUCCOLAM 5 MG SYRINGE PREFILLED 4X1ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8250000000000001,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:46:35.692208",
+      "previousRegistration": "149 81 33746 07",
+      "newRegistration": "149 79 33744 07",
+      "apiSource": "BUCCOLAM 5 MG"
+    }
+  },
+  "nameHebrew": "בוקולאם 5 מ\"ג",
+  "registrationDate": "2018-04-30"
 }

@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 340.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 340.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.132726"
+    "lastUpdated": "2025-08-01T15:29:56.218472",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
+        "registration": "150 50 33794 01",
+        "form": ""
+      },
+      {
+        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
+        "registration": "150 50 33794 00",
+        "form": ""
+      },
+      {
+        "name": "FYCOMPA 12 MG FILM COATED TABLETS",
+        "registration": "150 51 33795 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FYCOMPA ORAL SUSPENSION BOTTLE 340 ML",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.004545454545454546,
+      "status": "failed_match"
+    }
   }
 }

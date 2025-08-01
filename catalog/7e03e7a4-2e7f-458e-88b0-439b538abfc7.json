@@ -1,10 +1,10 @@
 {
   "catalogId": "7e03e7a4-2e7f-458e-88b0-439b538abfc7",
-  "name": "REVLIMID ® 10 MG",
+  "name": "REVLIMID ® 5 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "140 46 31661 11",
+  "registrationNumber": "140 45 31660 11",
   "treatmentDescriptions": "Multiple Myeloma (MM) Revlimid is indicated for the treatment of multiple myeloma.Myelodysplastic Syndromes REVLIMID is indicated for patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.Revlimid 7.5 mg is not indicated for treatment in MDS.Mantle Cell LymphomaREVLIMID is indicated for the treatment of adult patients with relapsed and/or refractory mantle cell lymphoma (MCL).Follicular lymphomaRevlimid in combination with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients with previously treated follicular lymphoma.",
   "termsOfIssue": "Prescription required",
   "form": "capsule, hard",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "ניאופרם",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 5.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 21.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.653915"
-  }
+    "lastUpdated": "2025-08-01T15:43:30.942705",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "REVLIMID 5MG 21CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T15:43:30.942715",
+      "previousRegistration": "140 46 31661 11",
+      "newRegistration": "140 45 31660 11",
+      "apiSource": "REVLIMID ® 5 MG"
+    }
+  },
+  "nameHebrew": "רבלימיד 5 מ\"ג",
+  "registrationDate": "2024-04-30"
 }

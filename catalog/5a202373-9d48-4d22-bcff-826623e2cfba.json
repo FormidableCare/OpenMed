@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.443566"
+    "lastUpdated": "2025-08-01T16:04:24.918039",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "MONOCORD 20",
+        "registration": "052 51 23128 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 40",
+        "registration": "049 99 26415 00",
+        "form": ""
+      },
+      {
+        "name": "MONOCORD 50 S.R",
+        "registration": "050 88 26416 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "MONOCORD 20MG 30TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

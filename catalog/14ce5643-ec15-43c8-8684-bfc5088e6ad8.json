@@ -1,10 +1,10 @@
 {
   "catalogId": "14ce5643-ec15-43c8-8684-bfc5088e6ad8",
-  "name": "DULOXETINE S.K. 30 MG",
+  "name": "DULOXETINE S.K. 60 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "166 93 35645 00",
+  "registrationNumber": "166 94 35646 00",
   "treatmentDescriptions": "Duloxetine is indicated for:- The treatment of major depressive episodes.- The management of neuropathic pain associated with diabetic peripheral neuropathy.- The treatment of generalized anxiety disorder (GAD).- The management of fibromyalgia.- The management of chronic muscoskeletal pain when other therapies have failed or are contra-indicated. This has been established in studies in patients with chronic low back pain (CLBP) and chronic pain due to osteoarthritis",
   "termsOfIssue": "Prescription required",
   "form": "gastro resistant capsules",
@@ -31,10 +31,12 @@
         "name": "SK PHARM(KS KIM)",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 60.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.025332"
-  }
+    "lastUpdated": "2025-08-01T17:45:14.343887",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DULOXETINE S.K. 60 MG 28 CAPS",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8357142857142857,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:45:14.343896",
+      "previousRegistration": "166 93 35645 00",
+      "newRegistration": "166 94 35646 00",
+      "apiSource": "DULOXETINE S.K. 60 MG"
+    }
+  },
+  "nameHebrew": "דולוקסטין אס.קיי. 60 מ\"ג",
+  "registrationDate": "2021-03-17"
 }

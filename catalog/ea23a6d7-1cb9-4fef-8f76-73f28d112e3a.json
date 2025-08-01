@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 30.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -54,11 +56,30 @@
         "retailMargin": 34.5,
         "maxRetailPrice": 58.79394263,
         "maxPriceWithVAT": 69.37684922
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.329346"
+    "lastUpdated": "2025-08-01T17:51:49.843514",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "XAMIOL",
+        "registration": "144 25 32996 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "XAMIOL GEL 30GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.016666666666666666,
+      "status": "failed_match"
+    }
   }
 }

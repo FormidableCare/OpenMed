@@ -31,10 +31,12 @@
         "name": "ליברה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 100.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -58,6 +60,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.130464"
+    "lastUpdated": "2025-08-01T15:45:39.366035",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TAVANIC TABLETS 500 MG",
+        "registration": "119 44 29963 21",
+        "form": ""
+      },
+      {
+        "name": "LEVO",
+        "registration": "129 35 30746 02",
+        "form": ""
+      },
+      {
+        "name": "LEVOFLOX 5 MG/ML",
+        "registration": "161 39 35215 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "LEVOFLOX 5 MG/ML 1 vial (100ML)",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.02857142857142857,
+      "status": "failed_match"
+    }
   }
 }

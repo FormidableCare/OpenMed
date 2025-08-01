@@ -60,6 +60,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.904797"
+    "lastUpdated": "2025-08-01T16:34:34.998881",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "OMVOH 100 MG / ML",
+        "registration": "174 95 37706 00",
+        "form": ""
+      },
+      {
+        "name": "OMVOH 300 MG",
+        "registration": "174 96 37707 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "OMVOH 100 MG/ML 2 PFS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.03333333333333333,
+      "status": "failed_match"
+    }
   }
 }

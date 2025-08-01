@@ -1,10 +1,10 @@
 {
   "catalogId": "bd349ef5-8a79-4acc-9857-f030c7c56e6d",
-  "name": "LIPITOR 10 MG",
+  "name": "LIPITOR 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "126 04 30587 01",
+  "registrationNumber": "126 05 30588 01",
   "treatmentDescriptions": "Lipitor is indicated as an adjunct to diet for reduction of elevated total cholesterol  LDL- cholesterol  apolipoprotein B  and triglycerides and to increase HDL Cholesterol in patients with primary hypercholesterolaemia including familial hypercholesterolaemia (heterozygous variant) or combined (mixed) hyperlipidaemia (corresponding to types IIa and IIb of the fredrickson classification) when response to diet and other nonpharmacological measures is inadequate. Lipitor is also indicated to reduce total-C and LDL -C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatment (e.g. LDL apheresis) or if such treatments are unavailable.   Pediatric patients (10-17 years of age) :   Atorvastatin is indicated as an adjunct to diet to reduce total -C  LDL-C  and apo B levels in boys and postmenarchal girls  10 to 17 years of age  with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present:   1. LDL-C remains >or = 190 mg/dl or   2. LDL-C remains > or = 160 mg/dl and:    there is a positive family history of premature cardiovascular disease or    two or more other CVD risk factors are present in the pediatric patient.   Prevention of cardiovascular and/or cerebrovascular event sush as MI or stroke  as an adjunct to correction of other risk factors such as hypertension in patients with three or more additional risk factors or diabetes with one additional risk factor.   In patients with clinically evident coronary heart disease  Lipitor is indicated to :    Reduce the risk of non-fatal myocardial infarction.    Reduce the risk of fatal and non fatal stroke.    Reduce the risk for revascularization procedures.    Reduce the risk of hospitalization for CHF.    Reduce the risk of angina.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.043607"
-  }
+    "lastUpdated": "2025-08-01T16:46:10.225935",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LIPITOR 20MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:46:10.225948",
+      "previousRegistration": "126 04 30587 01",
+      "newRegistration": "126 05 30588 01",
+      "apiSource": "LIPITOR 20 MG"
+    }
+  },
+  "nameHebrew": "ליפיטור 20 מ\"ג",
+  "registrationDate": "2022-02-28"
 }

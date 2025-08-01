@@ -31,10 +31,12 @@
         "name": "נוברטיס פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 3.5,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 3.5,
         "unit": "units"
@@ -60,6 +62,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.859973"
+    "lastUpdated": "2025-08-01T17:36:26.808288",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "TOBREX OPHTHALMIC OINTMENT",
+        "registration": "047 16 22795 00",
+        "form": ""
+      },
+      {
+        "name": "EYETOBRIN",
+        "registration": "179 19 37677 99",
+        "form": ""
+      },
+      {
+        "name": "BRAMITOB",
+        "registration": "144 24 32986 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "TOBREX OINT 3.5GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.008333333333333333,
+      "status": "failed_match"
+    }
   }
 }

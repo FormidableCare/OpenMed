@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 10.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.951796"
-  }
+    "lastUpdated": "2025-08-01T16:46:10.221957",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "LIPITOR 10MG 30TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.81,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:46:10.221970",
+      "previousRegistration": "126 04 30587 01",
+      "newRegistration": "126 04 30587 01",
+      "apiSource": "LIPITOR 10 MG"
+    }
+  },
+  "nameHebrew": "ליפיטור 10 מ\"ג",
+  "registrationDate": "2022-02-28"
 }

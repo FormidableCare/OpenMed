@@ -31,10 +31,12 @@
         "name": "כ.צ.ט",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 30.0,
         "unit": "units"
@@ -59,6 +61,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.866774"
+    "lastUpdated": "2025-08-01T16:55:35.495914",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "URSOLIT 100",
+        "registration": "019 25 20542 00",
+        "form": ""
+      },
+      {
+        "name": "URSOLIT 300",
+        "registration": "058 63 26923 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "URSOLIT 300MG 30CAPLETS",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0125,
+      "status": "failed_match"
+    }
   }
 }

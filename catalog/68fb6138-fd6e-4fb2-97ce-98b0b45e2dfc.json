@@ -31,10 +31,12 @@
         "name": "אמי טכנולוגיות",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 15.0,
+          "unit": "g"
+        }
+      ],
       "quantity": {
         "value": 15.0,
         "unit": "units"
@@ -55,11 +57,35 @@
         "retailMargin": 37.0,
         "maxRetailPrice": 44.9497,
         "maxPriceWithVAT": 53.040646
-      }
+      },
+      "formulation": [
+        "gel"
+      ]
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.537793"
+    "lastUpdated": "2025-08-01T15:30:57.847143",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "EPIDUO",
+        "registration": "156 10 34289 00",
+        "form": ""
+      },
+      {
+        "name": "EPIDUO FORTE 0.3% /2.5 %",
+        "registration": "170 29 36683 99",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "EPIDUO GEL PUMP 15 GR",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.010000000000000002,
+      "status": "failed_match"
+    }
   }
 }

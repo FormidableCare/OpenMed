@@ -1,10 +1,10 @@
 {
   "catalogId": "f945d892-79a9-4dd3-97e6-5dea097b318f",
-  "name": "RIVAROXABAN DEXCEL 10 MG",
+  "name": "XARELTO 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 93 36479 99",
+  "registrationNumber": "147 45 33579 00",
   "treatmentDescriptions": "Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.Prevention of recurrent deep vein thrombosis (DVT) and pulmonary embolism (PE), adults (following completion of at least 6 months therapy for DVT or PE).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 20.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -60,6 +62,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.412499"
-  }
+    "lastUpdated": "2025-08-01T17:36:45.373492",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "RIVAROXABAN DEXCEL 20 MG 28 TAB",
+      "processedBy": "smart_validation",
+      "matchScore": 0.8142857142857143,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T17:36:45.373521",
+      "previousRegistration": "172 93 36479 99",
+      "newRegistration": "147 45 33579 00",
+      "apiSource": "XARELTO 20 MG"
+    }
+  },
+  "nameHebrew": "קסרלטו 20 מ\"ג",
+  "registrationDate": "2017-01-31"
 }

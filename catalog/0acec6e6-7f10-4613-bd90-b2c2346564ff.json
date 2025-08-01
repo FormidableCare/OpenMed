@@ -31,10 +31,12 @@
         "name": "דקסל פארמה",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 500.0,
+          "unit": "mg/vial"
+        }
+      ],
       "quantity": {
         "value": 1.0,
         "unit": "units"
@@ -60,6 +62,27 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:42.956918"
+    "lastUpdated": "2025-08-01T17:26:57.602889",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "VANCOAVENIR 1 G",
+        "registration": "153 18 34020 00",
+        "form": ""
+      },
+      {
+        "name": "VANCOAVENIR 500 MG",
+        "registration": "153 17 34018 00",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "VANCOMYCIN MYLAN 500MG/VIAL",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.0,
+      "status": "failed_match"
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "63de3219-3f2b-429a-ac1b-0e7aa17ac32d",
-  "name": "DUPIXENT 200 MG",
+  "name": "DUPIXENT 300 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 42 36128 00",
+  "registrationNumber": "160 22 35266 00",
   "treatmentDescriptions": "Atopic Dermatitis DUPIXENT is indicated for the treatment of treatment of adult and pediatric patients aged 6 months and older with moderate-to-severe atopic dermatitis (AD) whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable. DUPIXENT can be used with or without topical corticosteroids. Asthma DUPIXENT is indicated as an add-on maintenance treatment of adult and pediatric patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma. Limitation of Use: DUPIXENT is not indicated for the relief of acute bronchospasm or status asthmaticus.Eosinophilic EsophagitisDUPIXENT is indicated for the treatment of adult and pediatric patients aged 1 year and older, weighing at least 15 kg, with eosinophilic esophagitis (EoE).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -22,7 +22,7 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת",
+  "warnings": "תרופה מוגבלת לרישום ע'י רופא מומחה או הגבלה אחרת ",
   "alternativeMedications": [],
   "packaging": [
     {
@@ -31,10 +31,24 @@
         "name": "סאנופי אוונטיס",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 300.0,
+          "unit": "mg"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        },
+        {
+          "value": 2.0,
+          "unit": "ml"
+        }
+      ],
       "quantity": {
         "value": 2.0,
         "unit": "units"
@@ -60,6 +74,19 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:43.501718"
-  }
+    "lastUpdated": "2025-08-01T16:28:48.930980",
+    "tags": [],
+    "smartValidation": {
+      "extractedFrom": "DUPIXENT 300MG/2ML 2 PREFILLED SYR 2ML",
+      "processedBy": "smart_validation",
+      "matchScore": 0.80625,
+      "status": "corrected",
+      "correctedAt": "2025-08-01T16:28:48.930993",
+      "previousRegistration": "164 42 36128 00",
+      "newRegistration": "160 22 35266 00",
+      "apiSource": "DUPIXENT 300 MG"
+    }
+  },
+  "nameHebrew": "דופיקסנט 300 מ\"ג",
+  "registrationDate": "2023-02-28"
 }

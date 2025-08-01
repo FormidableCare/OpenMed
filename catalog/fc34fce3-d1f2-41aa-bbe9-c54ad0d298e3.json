@@ -31,10 +31,12 @@
         "name": "אסיי",
         "countryOfOrigin": "IL"
       },
-      "strength": {
-        "value": 0,
-        "unit": ""
-      },
+      "strength": [
+        {
+          "value": 8.0,
+          "unit": "mg"
+        }
+      ],
       "quantity": {
         "value": 28.0,
         "unit": "units"
@@ -59,6 +61,32 @@
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:18:44.429772"
+    "lastUpdated": "2025-08-01T15:29:56.206407",
+    "tags": [
+      "needs_manual_review"
+    ],
+    "availableApiOptions": [
+      {
+        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
+        "registration": "150 50 33794 01",
+        "form": ""
+      },
+      {
+        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
+        "registration": "150 50 33794 00",
+        "form": ""
+      },
+      {
+        "name": "FYCOMPA 12 MG FILM COATED TABLETS",
+        "registration": "150 51 33795 01",
+        "form": ""
+      }
+    ],
+    "smartValidation": {
+      "extractedFrom": "FYCOMPA 8MG 28 F.C TAB",
+      "processedBy": "smart_validation",
+      "bestMatchScore": 0.20454545454545456,
+      "status": "failed_match"
+    }
   }
 }
