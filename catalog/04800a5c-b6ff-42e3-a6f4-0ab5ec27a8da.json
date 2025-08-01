@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.579116",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MELODIL 25",
-        "registration": "032 57 22655 01",
-        "form": ""
-      },
-      {
-        "name": "MELODIL 50",
-        "registration": "032 47 22654 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:46.790777",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MELODIL 25MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:46.790787",
+      "confidence": 95,
+      "reasoning": "The medication MELODIL 25 matches with Option 1 as they have the same brand name, strength (25.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "032 57 22655 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

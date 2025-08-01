@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.388377",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VOLTAREN EMULGEL 1%",
-        "registration": "037 66 25000 00",
-        "form": ""
-      },
-      {
-        "name": "VOLTAREN EMULGEL FORTE 2%",
-        "registration": "152 63 33919 00",
-        "form": ""
-      },
-      {
-        "name": "VOLTAREN ACTI-GO LIQUID GEL CAPS",
-        "registration": "150 99 33771 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:07.204145",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VOLTAREN EMULGEL 150G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:07.204161",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication VOLTAREN EMULGEL 1% in terms of brand name similarity, strength compatibility (1%), and formulation (gel). The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "037 66 25000 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

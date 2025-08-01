@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.447710",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PARSABIV",
-        "registration": "161 94 35289 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:17.694180",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARSABIV 5 MG/1 ML 6 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:17.694193",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details for PARSABIV.",
+      "selectedOption": 1,
+      "selectedRegistration": "161 94 35289 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

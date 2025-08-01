@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.540087",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRONCHOLATE SYRUP",
-        "registration": "121 24 30198 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE FORTE",
-        "registration": "066 84 27528 00",
-        "form": ""
-      },
-      {
-        "name": "BRONCHOLATE PLUS",
-        "registration": "126 07 30479 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:06.021403",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRONCHOLATE SYRUP 120ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:06.021419",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication BRONCHOLATE SYRUP in terms of brand name, registration number, and strength (120.0ml).",
+      "selectedOption": 1,
+      "selectedRegistration": "121 24 30198 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

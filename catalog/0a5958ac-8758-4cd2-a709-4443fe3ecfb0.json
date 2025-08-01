@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.877529",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IDEFIRIX 11 MG",
-        "registration": "169 35 37017 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:05.885793",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IDEFIRIX 11 MG/VIAL 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:05.885798",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 35 37017 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

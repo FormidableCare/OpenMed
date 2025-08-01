@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.863377",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 00",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 22",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG MIX 25 KWIKPEN",
-        "registration": "143 45 33217 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:42.998679",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMALOG MIX 50 KWIKPEN 5X3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.04000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:42.998709",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication HUMALOG in terms of brand name, registration number, and strength (3.0ml). The minor formatting differences can be ignored.",
+      "selectedOption": 1,
+      "selectedRegistration": "102 83 28580 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.869772",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 00",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG",
-        "registration": "102 83 28580 22",
-        "form": ""
-      },
-      {
-        "name": "HUMALOG MIX 25 KWIKPEN",
-        "registration": "143 45 33217 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:51.232714",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMALOG VIALS 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:51.232724",
+      "confidence": 95,
+      "reasoning": "The brand name \"HUMALOG\" and registration number match, indicating the same medication. The strength of 10.0ml also aligns with the formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "102 83 28580 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

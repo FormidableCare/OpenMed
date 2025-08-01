@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.274101",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VITA-MERFEN OINTMENT",
-        "registration": "118 17 27599 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:04.477158",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VITA-MERFEN OINT 40GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:04.477170",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "118 17 27599 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

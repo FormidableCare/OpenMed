@@ -1,10 +1,10 @@
 {
   "catalogId": "ac813b08-91cd-474b-bc99-5f02ddc35a45",
-  "name": "BETACORTEN G OINTMENT",
+  "name": "BETACORTEN OINTMENT",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "050 45 23262 00",
+  "registrationNumber": "050 44 23261 00",
   "treatmentDescriptions": "For local treatment of inflammatory dermatoses and allergic skin conditions complicated by infections.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.138297",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETACORTEN G OINTMENT",
-        "registration": "050 45 23262 00",
-        "form": ""
-      },
-      {
-        "name": "BETACORTEN G CREAM",
-        "registration": "050 42 23259 00",
-        "form": ""
-      },
-      {
-        "name": "BETACORTEN OINTMENT",
-        "registration": "050 44 23261 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:15.860783",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETACORTEN OINT 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:15.860789",
+      "confidence": 95,
+      "reasoning": "The option 3, BETACORTEN OINTMENT, closely matches the medication BETACORTEN G OINTMENT in terms of brand name similarity, formulation (ointment), and registration number. The only difference is the absence of the \"G\" in the brand name, which could be a minor variation.",
+      "selectedOption": 3,
+      "selectedRegistration": "050 44 23261 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

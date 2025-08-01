@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.395339",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AKEEGA 100/500",
-        "registration": "175 83 37789 99",
-        "form": ""
-      },
-      {
-        "name": "AKEEGA 50/500",
-        "registration": "175 82 37788 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:16.667070",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AKEEGA 50/500 56 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:16.667083",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100/500), and registration number match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "175 83 37789 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

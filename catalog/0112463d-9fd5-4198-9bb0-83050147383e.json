@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.538314",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALCOXIDINE",
-        "registration": "116 50 28130 00",
-        "form": ""
-      },
-      {
-        "name": "ALCOXIDINE TEVA",
-        "registration": "166 21 36419 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:02.652772",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ALCOXIDINE SOL 1 L",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:02.652789",
+      "confidence": 95,
+      "reasoning": "The medication name \"ALCOXIDINE\" matches, and the registration number is the same. The strength and formulation are not provided in the options, so we cannot compare those criteria.",
+      "selectedOption": 1,
+      "selectedRegistration": "116 50 28130 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

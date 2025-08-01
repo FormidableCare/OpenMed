@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.785611",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PARAMOL",
-        "registration": "127 96 30764 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL DAY CARE",
-        "registration": "127 91 30769 00",
-        "form": ""
-      },
-      {
-        "name": "PARAMOL AF & SHIUL NIGHT CARE",
-        "registration": "127 90 30770 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:44.624396",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARAMOL 500MG 20 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:44.624401",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication PARAMOL with the same registration number, strength of 500.0mg, and similar brand name.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 96 30764 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

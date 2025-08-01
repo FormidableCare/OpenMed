@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.608590",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CLEXANE",
-        "registration": "046 77 26037 11",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:02.356907",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CLEXANE 100MG SAFETY LOCK 2X1ML SYR PREFIL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:02.356921",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication CLEXANE.",
+      "selectedOption": 1,
+      "selectedRegistration": "046 77 26037 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

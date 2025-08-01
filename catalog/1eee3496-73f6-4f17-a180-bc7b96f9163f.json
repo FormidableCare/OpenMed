@@ -1,10 +1,10 @@
 {
   "catalogId": "1eee3496-73f6-4f17-a180-bc7b96f9163f",
-  "name": "ADVOCIN INJECTABLE SOLUTION 2.5 % VETERINARY",
+  "name": "OFLO-AVENIR",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "083 84 92073 00",
+  "registrationNumber": "161 38 35277 00",
   "treatmentDescriptions": "For the treatment of cattle (calves, beef cattle and non-lactating dairy cattle) with respiratory infections caused by Pasteurella haemolytica and Pasteurella multocida, enteric infections caused by e.coli and salmonela spp.Only after sensitivity to danofloxacin has been confirmed by laboratory tests and after no alternative treatment was found effective (proved resistence to other treatments).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.888658",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADVOCIN INJECTABLE SOLUTION 2.5 % VETERINARY",
-        "registration": "083 84 92073 00",
-        "form": ""
-      },
-      {
-        "name": "OFLO-AVENIR",
-        "registration": "161 38 35277 00",
-        "form": ""
-      },
-      {
-        "name": "OFLODEX",
-        "registration": "121 99 30179 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:18.930299",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OFLOX DROPS 0.3% 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:18.930305",
+      "confidence": 95,
+      "reasoning": "The medication \"OFLO-AVENIR\" matches the strength of 0.3% and formulation of a solution, making it the closest match to \"ADVOCIN INJECTABLE SOLUTION 2.5% VETERINARY.\"",
+      "selectedOption": 2,
+      "selectedRegistration": "161 38 35277 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

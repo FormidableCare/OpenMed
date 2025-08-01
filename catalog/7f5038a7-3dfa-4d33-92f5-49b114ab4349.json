@@ -1,10 +1,10 @@
 {
   "catalogId": "7f5038a7-3dfa-4d33-92f5-49b114ab4349",
-  "name": "TRAMADEX OD 100",
+  "name": "TRAMADEX OD 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 25 31580 00",
+  "registrationNumber": "139 26 31581 00",
   "treatmentDescriptions": "Treatment of moderate to severe pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.574466",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAMADEX OD 100",
-        "registration": "139 25 31580 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 200",
-        "registration": "139 26 31581 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 300",
-        "registration": "139 27 31582 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:42.692743",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAMADEX 50MG 10 FLASH TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:42.692761",
+      "confidence": 95,
+      "reasoning": "The option 2, TRAMADEX OD 200, closely matches the medication TRAMADEX OD 100 in terms of brand name similarity and strength compatibility. The only difference is in the strength, which indicates a higher dose in option 2.",
+      "selectedOption": 2,
+      "selectedRegistration": "139 26 31581 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

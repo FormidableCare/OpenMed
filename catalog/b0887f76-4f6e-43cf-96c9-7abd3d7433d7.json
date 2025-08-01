@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.902204",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEPO MEDROL 40 MG/ML",
-        "registration": "024 49 21841 00",
-        "form": ""
-      },
-      {
-        "name": "DEPO MEDROL + LIDOCAINE",
-        "registration": "045 97 23829 00",
-        "form": ""
-      },
-      {
-        "name": "MEDROL 4 MG",
-        "registration": "024 65 22188 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:35.569553",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEPO MEDROL+LIDOCAIN 2CC",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:35.569558",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"DEPO MEDROL 40 MG/ML\" in terms of brand name, strength (40 MG/ML), and registration number (024 49 21841 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "024 49 21841 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

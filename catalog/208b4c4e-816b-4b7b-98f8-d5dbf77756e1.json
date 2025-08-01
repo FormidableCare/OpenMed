@@ -1,10 +1,10 @@
 {
   "catalogId": "208b4c4e-816b-4b7b-98f8-d5dbf77756e1",
-  "name": "LOTAN 100",
+  "name": "LOTAN 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 36 31707 01",
+  "registrationNumber": "137 94 31630 01",
   "treatmentDescriptions": "Hypertension: Lotan 100 is indicated for the treatment of hypertension. Heart failure:Lotan 100 is indicated for the treatment of heart failure, when treatment with an ACE inhibitor is not appropriate. Switching patients with heart failure who are stable on an ACE inhibitor to Lotan 100 is not recommended. Renal protection in Type-2 diabetic patients with proteinuria: Lotan 100 is indicated to delay the progression of renal disease as measured by a reduction in the combined incidence of doubling of serum creatinine, end stage renal disease (need for dialysis or renal transplantation) or death; and to reduce proteinuria. Reduction in the risk of cardiovascular morbidity and mortality in hypertensive patients with left ventricular hypertrophy. Lotan 100 is indicated to reduce the risk of cardiovascular morbidity and mortality as measured by the combined incidence of cardiovascular death, stroke, and myocardial infarction in hypertensive patients with left ventricular hypertrophy. The benefit of Lotan 100 on the primary deposite endpoint was largely driven by reduction in the risk of stroke.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.771130",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LOTAN 100",
-        "registration": "139 36 31707 01",
-        "form": ""
-      },
-      {
-        "name": "LOTAN 12.5",
-        "registration": "137 93 31629 01",
-        "form": ""
-      },
-      {
-        "name": "LOTAN 50",
-        "registration": "137 94 31630 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:31.485254",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LOTAN 50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:31.485260",
+      "confidence": 95,
+      "reasoning": "The medication LOTAN 100 with a strength of 50.0mg matches with LOTAN 50 as they both have similar brand names and the strength is compatible.",
+      "selectedOption": 3,
+      "selectedRegistration": "137 94 31630 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -71,27 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.670692",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DARZALEX 120 MG/ML S.C. 1,800 MG",
-        "registration": "167 14 36565 00",
-        "form": ""
-      },
-      {
-        "name": "DARZALEX 20 MG/ML I.V",
-        "registration": "157 75 34719 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:01.754941",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DARZALEX 20MG/ML VIAL 400MG/20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20833333333333334,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:01.755131",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match with high confidence.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 14 36565 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

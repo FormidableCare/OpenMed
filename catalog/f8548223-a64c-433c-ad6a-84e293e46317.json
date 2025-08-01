@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.363898",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TEMODAL 100 MG",
-        "registration": "120 30 30116 23",
-        "form": ""
-      },
-      {
-        "name": "TEMODAL 20 MG",
-        "registration": "120 29 30115 22",
-        "form": ""
-      },
-      {
-        "name": "TEMODAL 250 MG",
-        "registration": "120 31 30119 22",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:27.790471",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MODAL 50MG 30CAP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:27.790476",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TEMODAL 100 MG in terms of brand name, strength (100 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "120 30 30116 23",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

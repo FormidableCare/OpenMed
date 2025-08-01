@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.999151",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RIBONE 150",
-        "registration": "147 68 33575 01",
-        "form": ""
-      },
-      {
-        "name": "RIBONE 35",
-        "registration": "145 61 33140 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:03.007436",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RIBONE 150MG 1 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:03.007474",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (150.0mg), and registration number (147 68 33575 01) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "147 68 33575 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

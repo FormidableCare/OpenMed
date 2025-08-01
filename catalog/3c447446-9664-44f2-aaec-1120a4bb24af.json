@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.631744",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PERCOCET 10",
-        "registration": "139 21 31414 00",
-        "form": ""
-      },
-      {
-        "name": "PERCOCET 5",
-        "registration": "023 99 21468 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:23.451350",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PERCOCET 5MG/325MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:23.451384",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (10mg), and registration number match.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 21 31414 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

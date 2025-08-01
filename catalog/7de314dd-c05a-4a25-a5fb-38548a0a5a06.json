@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.645657",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MVASI",
-        "registration": "164 30 35864 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:36.413134",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MVASI 100MG 25MG/ML VIAL 4ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:36.413146",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 30 35864 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.088173",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAZODIL 100",
-        "registration": "039 36 20141 02",
-        "form": ""
-      },
-      {
-        "name": "TRAZODIL 50",
-        "registration": "029 10 20140 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:36.491715",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAZODIL 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:36.491730",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100mg), and registration number match exactly.",
+      "selectedOption": 1,
+      "selectedRegistration": "039 36 20141 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

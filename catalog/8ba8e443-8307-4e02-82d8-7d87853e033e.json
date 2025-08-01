@@ -1,10 +1,10 @@
 {
   "catalogId": "8ba8e443-8307-4e02-82d8-7d87853e033e",
-  "name": "CLOPIXOL ACUPHASE 50",
+  "name": "CLOPIXOL 25 MG TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "047 80 25490 00",
+  "registrationNumber": "047 85 25487 00",
   "treatmentDescriptions": "Acute psychoses.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.826842",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CLOPIXOL 10 MG TABLETS",
-        "registration": "047 86 25486 00",
-        "form": ""
-      },
-      {
-        "name": "CLOPIXOL 2 MG TABLETS",
-        "registration": "047 84 25485 00",
-        "form": ""
-      },
-      {
-        "name": "CLOPIXOL 25 MG TABLETS",
-        "registration": "047 85 25487 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:16.564999",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CLOPIXOL ACUPHASE 50MG 1ML 1AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:16.565004",
+      "confidence": 95,
+      "reasoning": "The option \"CLOPIXOL 25 MG TABLETS\" closely matches the medication \"CLOPIXOL ACUPHASE 50\" in terms of brand name similarity, strength compatibility (25mg vs. 50mg), and both being in tablet form.",
+      "selectedOption": 3,
+      "selectedRegistration": "047 85 25487 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

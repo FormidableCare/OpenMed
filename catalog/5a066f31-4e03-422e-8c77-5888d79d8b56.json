@@ -1,10 +1,10 @@
 {
   "catalogId": "5a066f31-4e03-422e-8c77-5888d79d8b56",
-  "name": "ARIPLY 10",
+  "name": "ARIPLY 15",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "149 03 33529 01",
+  "registrationNumber": "149 04 33574 01",
   "treatmentDescriptions": "Ariply is indicated for the treatment of schizophrenia, for the treatment of moderate to severe manic episodes in Bipolar I disorder and for the prevention of a new manic episode in patient who experienced predominantly manic episodes and whose manic episodes responded to aripiprazole treatment.Ariply  is indicated for use as an adjunctive therapy to antidepressants for the treatment of major depressive disorder (MDD). Efficacy was established in two 6-week trials in adults with MDD who had an inadequate response to antidepressant therapy during the current episode.Ariply  is indicated for the treatment of irritability associated with autistic disorder. Efficacy was established in two 8-week trials in pediatric patients (aged 6 to 17 years) with irritability associated with autistic disorder (including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.111899",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ARIPLY 10",
-        "registration": "149 03 33529 01",
-        "form": ""
-      },
-      {
-        "name": "ARIPLY 15",
-        "registration": "149 04 33574 01",
-        "form": ""
-      },
-      {
-        "name": "ARIPLY 30",
-        "registration": "149 97 33891 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:51.347236",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ARIPLY 15MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:51.347244",
+      "confidence": 95,
+      "reasoning": "The option 2, ARIPLY 15, closely matches the medication ARIPLY 10 in terms of brand name similarity, strength compatibility (15.0mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "149 04 33574 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

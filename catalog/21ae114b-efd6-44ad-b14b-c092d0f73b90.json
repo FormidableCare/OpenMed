@@ -1,10 +1,10 @@
 {
   "catalogId": "21ae114b-efd6-44ad-b14b-c092d0f73b90",
-  "name": "FLUCONAZOLE MBI 2 MG/ ML",
+  "name": "DIFLUCAN 50 MG/5 ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "161 92 35274 00",
+  "registrationNumber": "106 79 29073 00",
   "treatmentDescriptions": "Fluconazole is indicated in the following fungal infections (see section 5.1). Fluconazole is indicated in adults for the treatment of:•\tCryptococcal meningitis (see section 4.4).•\tCoccidioidomycosis (see section 4.4).•\tInvasive candidiasis.•\tMucosal candidiasis (including oropharyngeal candidiasis, oesophageal candidiasis, candiduria and chronic mucocutaneous candidiasis).•\tChronic oral atrophic candidiasis (denture sore mouth) if dental hygiene or topical treatment are insufficient.Fluconazole is indicated in adults for the prophylaxis of:•\tRelapse of cryptococcal meningitis in patients with high risk of recurrence.•\tRelapse of oropharyngeal or oesophageal candidiasis in patients infected with HIV who are at high risk of experiencing relapse.•\tProphylaxis of candidal infections in patients with prolonged neutropenia (such as patients with haematological malignancies receiving chemotherapy or patients receiving Haematopoetic Stem Cell Transplantation (see section 5.1)).Fluconazole is indicated in term newborn infants, infants, toddlers, children and adolescents aged from 0 to 17 years old:Fluconazole is used for the treatment of mucosal candidiasis (oropharyngeal, oesophageal), invasive candidiasis, cryptococcal meningitis and the prophylaxis of candidal infections in immunocompromised patients. Fluconazole can be used as maintenance therapy to prevent relapse of cryptococcal meningitis in children with high risk of reoccurrence (see section 4.4).Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.Consideration should be given to official guidance on the appropriate use of antifungals.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.385497",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIFLUCAN 50 MG/5 ML",
-        "registration": "106 79 29073 00",
-        "form": ""
-      },
-      {
-        "name": "TRIFLUCAN I.V.",
-        "registration": "106 22 29072 00",
-        "form": ""
-      },
-      {
-        "name": "TRICAN 200 MG CAPSULES",
-        "registration": "118 50 29947 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:01.407422",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUCONAZOLE MBI 2 MG/ ML 100 ML 50 BAG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21500000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:01.407432",
+      "confidence": 95,
+      "reasoning": "The option 1, DIFLUCAN 50 MG/5 ML, closely matches the medication FLUCONAZOLE MBI 2 MG/ ML in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 79 29073 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

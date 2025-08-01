@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.317040",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TECENTRIQ",
-        "registration": "158 66 34982 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:47.721864",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TECENTRIQ 1200 MG / 20 ML vial",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:47.721869",
+      "confidence": 95,
+      "reasoning": "The brand name \"TECENTRIQ\" and registration number \"158 66 34982 00\" match exactly. The strength and formulation details are not provided in the options, but based on the brand name and registration number match, this is the most likely match.",
+      "selectedOption": 1,
+      "selectedRegistration": "158 66 34982 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

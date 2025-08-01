@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 50 33794 01",
+  "registrationNumber": "150 50 33794 00",
   "treatmentDescriptions": "Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in patients with epilepsy aged 4 years and older.Fycompa is indicated for the adjunctive treatment of primary generalised tonic clonic (PGTC) seizures in patients from 7 years of age and older with idiopathic generalized epilepsy (IGE).",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.556288",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
-        "registration": "150 50 33794 01",
-        "form": ""
-      },
-      {
-        "name": "FYCOMPA 10 MG FILM COATED TABLETS",
-        "registration": "150 50 33794 00",
-        "form": ""
-      },
-      {
-        "name": "FYCOMPA 12 MG FILM COATED TABLETS",
-        "registration": "150 51 33795 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:32:38.411763",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FYCOMPA 8MG 28 F.C TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20454545454545456,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:32:38.411768",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication FYCOMPA 10 MG FILM COATED TABLETS with a slight difference in the registration number, which could be a minor variation. The strength, formulation, and brand name are all compatible.",
+      "selectedOption": 2,
+      "selectedRegistration": "150 50 33794 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

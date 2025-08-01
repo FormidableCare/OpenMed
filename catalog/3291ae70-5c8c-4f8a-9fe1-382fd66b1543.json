@@ -1,10 +1,10 @@
 {
   "catalogId": "3291ae70-5c8c-4f8a-9fe1-382fd66b1543",
-  "name": "VIEPAX 37.5",
+  "name": "VIEPAX 75",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "130 68 31015 00",
+  "registrationNumber": "130 69 31016 00",
   "treatmentDescriptions": "For the treatment of depression.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.128567",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VIEPAX 37.5",
-        "registration": "130 68 31015 00",
-        "form": ""
-      },
-      {
-        "name": "VIEPAX 75",
-        "registration": "130 69 31016 00",
-        "form": ""
-      },
-      {
-        "name": "VIEPAX XR 75",
-        "registration": "130 53 30839 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:09.079511",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VIEPAX 75MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:09.079584",
+      "confidence": 95,
+      "reasoning": "The option 2, VIEPAX 75, matches the medication VIEPAX 37.5 in terms of brand name similarity, strength compatibility (75.0mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "130 69 31016 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

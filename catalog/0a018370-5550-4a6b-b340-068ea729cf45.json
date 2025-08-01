@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.308485",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BELARA",
-        "registration": "127 34 30410 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:37.755413",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BELARA 3X21TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:37.755432",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match for Belara.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 34 30410 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

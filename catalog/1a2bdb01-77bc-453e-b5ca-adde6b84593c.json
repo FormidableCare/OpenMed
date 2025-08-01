@@ -1,10 +1,10 @@
 {
   "catalogId": "1a2bdb01-77bc-453e-b5ca-adde6b84593c",
-  "name": "BUTRANS 10",
+  "name": "BUTRANS 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "135 71 31152 00",
+  "registrationNumber": "135 72 31153 00",
   "treatmentDescriptions": "Treatment of moderate to severe opioid responsive chronic pain conditions which are not adequately responding to non-opioid analgesics.",
   "termsOfIssue": "Prescription required",
   "form": "patches matrix",
@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.294694",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BUTRANS 10",
-        "registration": "135 71 31152 00",
-        "form": ""
-      },
-      {
-        "name": "BUTRANS 15",
-        "registration": "157 99 34931 00",
-        "form": ""
-      },
-      {
-        "name": "BUTRANS 20",
-        "registration": "135 72 31153 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:23.765820",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BUTRANS  20MG 2 PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:23.765833",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication BUTRANS 10 with a strength of 20.0mg, which is the same as the medication provided. The registration number is also similar, differing only in the last two digits.",
+      "selectedOption": 3,
+      "selectedRegistration": "135 72 31153 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

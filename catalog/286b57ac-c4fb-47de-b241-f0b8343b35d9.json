@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.690075",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRAVALIP 10",
-        "registration": "132 80 31134 01",
-        "form": ""
-      },
-      {
-        "name": "PRAVALIP 20",
-        "registration": "132 79 31135 01",
-        "form": ""
-      },
-      {
-        "name": "PRAVALIP 40",
-        "registration": "132 78 31136 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:18.274248",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRAVALIP 10 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:18.274259",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Pravalip 10 in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "132 80 31134 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

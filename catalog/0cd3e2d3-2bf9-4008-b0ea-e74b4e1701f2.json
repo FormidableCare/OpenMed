@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.664091",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEPALEPT SYRUP",
-        "registration": "033 72 22644 00",
-        "form": ""
-      },
-      {
-        "name": "DEPALEPT 200 MG",
-        "registration": "048 30 23229 00",
-        "form": ""
-      },
-      {
-        "name": "DEPALEPT 500 ENTERIC COATED TABLETS",
-        "registration": "033 71 22348 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:51.333068",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEPALEPT SYR 110ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:51.333089",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"DEPALEPT SYRUP\" with the same registration number, strength (110.0ml), and formulation as indicated.",
+      "selectedOption": 1,
+      "selectedRegistration": "033 72 22644 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

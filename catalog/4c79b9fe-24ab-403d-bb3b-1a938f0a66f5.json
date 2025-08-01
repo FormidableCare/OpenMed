@@ -1,10 +1,10 @@
 {
   "catalogId": "4c79b9fe-24ab-403d-bb3b-1a938f0a66f5",
-  "name": "ADVIL FORTE 400",
+  "name": "ADVIL LIQUI-GELS 200",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "145 20 32014 00",
+  "registrationNumber": "115 33 29761 21",
   "treatmentDescriptions": "For the relief of mild to moderate pain associated with headache, toothache, backache, muscularand menstrual pains.Antipyretic.Anti-inflammatory for rheumatic diseases.For the treatment of pain associated with migraine.",
   "termsOfIssue": "",
   "form": "capsules liquid filled",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.497411",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
-        "registration": "122 43 30111 00",
-        "form": ""
-      },
-      {
-        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
-        "registration": "122 42 30110 00",
-        "form": ""
-      },
-      {
-        "name": "ADVIL LIQUI-GELS 200",
-        "registration": "115 33 29761 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:11.656477",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADVIL FORTE 400 mg 50 caps",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:11.656486",
+      "confidence": 95,
+      "reasoning": "The option \"ADVIL LIQUI-GELS 200\" closely matches \"ADVIL FORTE 400\" in terms of brand name similarity, both being Advil products. The strength of \"ADVIL LIQUI-GELS 200\" is 200mg, which is half of the strength of \"ADVIL FORTE 400\", but the formulation as a liquid gel form is similar.",
+      "selectedOption": 3,
+      "selectedRegistration": "115 33 29761 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

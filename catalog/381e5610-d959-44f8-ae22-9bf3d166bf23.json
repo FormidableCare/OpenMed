@@ -1,10 +1,10 @@
 {
   "catalogId": "381e5610-d959-44f8-ae22-9bf3d166bf23",
-  "name": "TIPTIPOT AFALPI",
+  "name": "TIPTIPOT MUCOLIT",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "121 43 30172 00",
+  "registrationNumber": "122 54 30239 00",
   "treatmentDescriptions": "Symptomatic treatment of nasal congestion, to relief eustachian tube congestion.",
   "termsOfIssue": "",
   "form": "drops",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.390231",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIPTIPOT AFALPI",
-        "registration": "121 43 30172 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT MUCOLIT",
-        "registration": "122 54 30239 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT NOVIMOL",
-        "registration": "134 61 31137 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:12.873955",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TIPTIPOT NOVIMOL SUSP 50 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:12.873969",
+      "confidence": 95,
+      "reasoning": "The option \"TIPTIPOT MUCOLIT\" closely matches the medication \"TIPTIPOT AFALPI\" in terms of brand name similarity and strength compatibility. The registration numbers are different, but the formulation and strength are likely consistent with the original medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "122 54 30239 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

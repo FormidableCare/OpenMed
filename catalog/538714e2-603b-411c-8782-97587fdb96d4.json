@@ -1,10 +1,10 @@
 {
   "catalogId": "538714e2-603b-411c-8782-97587fdb96d4",
-  "name": "CEFOVIT 250",
+  "name": "CEFOVIT FORTE 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "026 84 25145 00",
+  "registrationNumber": "026 85 25146 00",
   "treatmentDescriptions": "Antibiotic for the treatment of infections caused by micro-organisms sensitive to Cephalexin.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.256156",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CEFOVIT 250",
-        "registration": "026 84 25145 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE 500",
-        "registration": "026 85 25146 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE SUSPENSION",
-        "registration": "026 83 25148 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:43.155912",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CEFOVIT 250 20 CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:43.155922",
+      "confidence": 95,
+      "reasoning": "The option \"CEFOVIT FORTE 500\" closely matches the medication \"CEFOVIT 250\" in terms of brand name similarity. Both have a similar naming convention with numerical strength indication. The strength difference can be attributed to the different formulations (250 vs. 500).",
+      "selectedOption": 2,
+      "selectedRegistration": "026 85 25146 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

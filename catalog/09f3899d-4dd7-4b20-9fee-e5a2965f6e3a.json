@@ -1,10 +1,10 @@
 {
   "catalogId": "09f3899d-4dd7-4b20-9fee-e5a2965f6e3a",
-  "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
+  "name": "STREPSILS HONEY AND LEMON",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "066 33 25662 00",
+  "registrationNumber": "049 56 24205 00",
   "treatmentDescriptions": "Antiseptic. To relieve throat pain in children and adults.",
   "termsOfIssue": "",
   "form": "lozenges",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.735842",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STREPSILS ORANGE WITH 100 MG VITAMIN C",
-        "registration": "066 33 25662 00",
-        "form": ""
-      },
-      {
-        "name": "STREPSILS HONEY AND LEMON",
-        "registration": "049 56 24205 00",
-        "form": ""
-      },
-      {
-        "name": "STREPSILS LEMON SUGAR FREE",
-        "registration": "052 52 24917 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:56.475228",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STREPSILS PLUS 24 LOZ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:56.475233",
+      "confidence": 95,
+      "reasoning": "The closest match is Strepsils Honey and Lemon, even though the flavor is different, the strength and formulation are compatible.",
+      "selectedOption": 2,
+      "selectedRegistration": "049 56 24205 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

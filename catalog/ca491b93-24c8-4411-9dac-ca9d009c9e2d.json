@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.605246",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALDACTONE 25 MG",
-        "registration": "125 97 24826 00",
-        "form": ""
-      },
-      {
-        "name": "METOPIRONE 250",
-        "registration": "068 34 23659 01",
-        "form": ""
-      },
-      {
-        "name": "SORBON 10",
-        "registration": "100 07 27954 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:57.258699",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PIRON 267 MG 90 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20714285714285716,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:57.258710",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ALDACTONE 25 MG in terms of brand name, strength (25 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "125 97 24826 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 34 33278 01",
+  "registrationNumber": "146 34 33278 00",
   "treatmentDescriptions": "Treatment of moderate to severe symptoms of benign prostatic hyperplasia (BPH). Reduction in the risk of acute urinary retention (AUR) and surgery in patients with moderate to severe symptoms of BPH.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.254555",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 01",
-        "form": ""
-      },
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 02",
-        "form": ""
-      },
-      {
-        "name": "DUODART",
-        "registration": "146 34 33278 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:37.774242",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TAMSU P.R TEVA 30 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:37.774269",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation match closely. The only difference is in the last digits of the registration number, which could be due to variations in packaging or batches.",
+      "selectedOption": 3,
+      "selectedRegistration": "146 34 33278 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

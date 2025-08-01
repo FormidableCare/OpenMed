@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.408274",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HISTAFED",
-        "registration": "027 94 21825 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAFED EXPECTORANT SYRUP",
-        "registration": "050 31 26252 00",
-        "form": ""
-      },
-      {
-        "name": "HISTAFED SYRUP",
-        "registration": "107 14 21824 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:30.725270",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HISTAFED EXPECT 115ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:30.725282",
+      "confidence": 95,
+      "reasoning": "The option 2, \"HISTAFED EXPECTORANT SYRUP,\" matches the medication \"HISTAFED EXPECTORANT SYRUP\" with the same registration number, strength, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "050 31 26252 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

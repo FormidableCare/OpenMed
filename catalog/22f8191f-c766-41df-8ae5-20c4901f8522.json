@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.448734",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TERIL 200",
-        "registration": "129 63 30784 00",
-        "form": ""
-      },
-      {
-        "name": "PENTAL VETERINARY INJECTION NON-STERILE",
-        "registration": "077 29 91952 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:19.296136",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TERIL 200MG 50TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:19.296141",
+      "confidence": 95,
+      "reasoning": "The medication name, TERIL 200, matches exactly. The strength of 200.0mg also matches. The registration number is the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "129 63 30784 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

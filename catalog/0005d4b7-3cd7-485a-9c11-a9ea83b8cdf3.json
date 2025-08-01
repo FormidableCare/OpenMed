@@ -1,10 +1,10 @@
 {
   "catalogId": "0005d4b7-3cd7-485a-9c11-a9ea83b8cdf3",
-  "name": "ZAPPA 10",
+  "name": "ZAPPA 5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "146 72 33251 01",
+  "registrationNumber": "146 70 33248 01",
   "treatmentDescriptions": "Acute and maintenance treatment of Schizophrenia. Zappa is indicated for the management of the manifestations of psychotic disorders. Zappa is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder. Prevention of recurrence in Bipolar  Disorder: In patients whose manic episode has responded to Olanzapine treatment Zappa is indicated for the prevention of reccurence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Zappa with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.518159",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZAPPA 10",
-        "registration": "146 72 33251 01",
-        "form": ""
-      },
-      {
-        "name": "ZAPPA 5",
-        "registration": "146 70 33248 01",
-        "form": ""
-      },
-      {
-        "name": "ZAPPA 7.5",
-        "registration": "146 71 33250 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:21:49.711974",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZAPPA 5MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:21:49.711980",
+      "confidence": 95,
+      "reasoning": "The option 2, ZAPPA 5, has the closest strength compatibility (5.0mg) to the medication ZAPPA 10.",
+      "selectedOption": 2,
+      "selectedRegistration": "146 70 33248 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

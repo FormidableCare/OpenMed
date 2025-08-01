@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.247998",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALBETEN TABLETS",
-        "registration": "114 90 29652 00",
-        "form": ""
-      },
-      {
-        "name": "KALBETEN FORTE CAPLETS",
-        "registration": "140 95 31841 00",
-        "form": ""
-      },
-      {
-        "name": "KALBETEN FORTE SUSPENSION",
-        "registration": "131 72 30868 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:32.263692",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALBETEN SUSP 200ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:32.263702",
+      "confidence": 95,
+      "reasoning": "The option 3, \"KALBETEN FORTE SUSPENSION,\" matches the medication based on the exact brand name, strength (200.0ml), and formulation (suspension). The registration number also matches, indicating it is the same product.",
+      "selectedOption": 3,
+      "selectedRegistration": "131 72 30868 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

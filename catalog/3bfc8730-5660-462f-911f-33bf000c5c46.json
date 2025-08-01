@@ -1,10 +1,10 @@
 {
   "catalogId": "3bfc8730-5660-462f-911f-33bf000c5c46",
-  "name": "MORPHINE MARTINDALE 10 MG/ML",
+  "name": "APO GO PEN 10 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "163 86 35125 00",
+  "registrationNumber": "136 82 31425 00",
   "treatmentDescriptions": "Symptomatic relief of moderate to severe pain especially that associated with neoplastic disease myocardial infarction and surgery.Pre-operatively as an adjunct to anesthesia for pain relief and to allay anxiety.Alleviation of the anxiety associated with severe pain. It is useful as a hypnotic wheresleeplessness is due to pain.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -55,32 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.023631",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ORAMORPH 20 MG/ML",
-        "registration": "153 96 34100 00",
-        "form": ""
-      },
-      {
-        "name": "APO-GO",
-        "registration": "128 26 30682 00",
-        "form": ""
-      },
-      {
-        "name": "APO GO PEN 10 MG/ML",
-        "registration": "136 82 31425 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:30.242568",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MORPHINE MARTINDALE 20 MG/ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03571428571428572,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:30.242582",
+      "confidence": 95,
+      "reasoning": "The option 3, APO GO PEN 10 MG/ML, closely matches the medication Morphine Martindale 10 MG/ML in terms of strength (10 MG/ML), formulation (liquid), and registration number similarity.",
+      "selectedOption": 3,
+      "selectedRegistration": "136 82 31425 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

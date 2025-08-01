@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.530230",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TREMFYA 100 MG/ML S.C",
-        "registration": "160 54 35346 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:29.312353",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TREMFYA PREFILLED PEN 1 ML 100 MG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.022222222222222223,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:29.312366",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 54 35346 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

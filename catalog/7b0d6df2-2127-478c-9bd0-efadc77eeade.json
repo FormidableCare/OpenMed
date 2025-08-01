@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.663260",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OVALEAP",
-        "registration": "157 82 34716 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:49.510625",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OVALEAP 900IU/1.5 ML 1 CARTRIDGE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:49.510641",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 82 34716 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.207806",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RECTOZORIN OINTMENT",
-        "registration": "135 34 20466 00",
-        "form": ""
-      },
-      {
-        "name": "RECTOZORIN SUPPOSITORIES",
-        "registration": "030 68 20618 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:39.712289",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RECTOZORIN 12 SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:39.712315",
+      "confidence": 95,
+      "reasoning": "The brand name \"RECTOZORIN OINTMENT\" matches, and the registration numbers are identical. The strength and formulation details are not provided in the options, but based on the brand name and registration number, option 1 is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 34 20466 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

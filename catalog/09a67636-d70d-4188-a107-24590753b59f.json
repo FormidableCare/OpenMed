@@ -1,10 +1,10 @@
 {
   "catalogId": "09a67636-d70d-4188-a107-24590753b59f",
-  "name": "ZAPPA ODT 10",
+  "name": "ZAPPA 7.5",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 21 33756 01",
+  "registrationNumber": "146 71 33250 01",
   "treatmentDescriptions": "Acute and maintenance treatment of schizophrenia. Zappa ODT is indicated for the management of the manifestations of psychotic disorders. Zappa ODT is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder. Prevention of recurrence in Bipolar Disorder : In patients whose manic episode has responded to olanzapine treatment Zappa ODT is indicated for the prevention of recurrence in patients with Bipolar Disorder. Combination therapy in Bipolar I Disorder: The combination of Zappa ODT with lithium or valproate is indicated for the short-term treatment of acute manic episodes associated with Bipolar I Disorder.",
   "termsOfIssue": "Prescription required",
   "form": "tablets orodispersible",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.100129",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZAPPA 10",
-        "registration": "146 72 33251 01",
-        "form": ""
-      },
-      {
-        "name": "ZAPPA 5",
-        "registration": "146 70 33248 01",
-        "form": ""
-      },
-      {
-        "name": "ZAPPA 7.5",
-        "registration": "146 71 33250 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:47.819137",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZAPPA ODT 10MG 30 O.D.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:47.819146",
+      "confidence": 95,
+      "reasoning": "The option \"ZAPPA 7.5\" closely matches the medication \"ZAPPA ODT 10\" in terms of brand name similarity, strength compatibility (7.5mg vs. 10mg), and formulation (orally disintegrating tablet).",
+      "selectedOption": 3,
+      "selectedRegistration": "146 71 33250 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

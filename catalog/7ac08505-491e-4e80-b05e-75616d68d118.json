@@ -1,10 +1,10 @@
 {
   "catalogId": "7ac08505-491e-4e80-b05e-75616d68d118",
-  "name": "STELARA 130 MG",
+  "name": "STELARA 45 MG VIAL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "158 52 35072 00",
+  "registrationNumber": "142 36 32021 00",
   "treatmentDescriptions": "Crohn’s Disease :STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.Ulcerative colitis :STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic or have medical contraindications to such therapies",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.183401",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STELARA 130 MG",
-        "registration": "158 52 35072 00",
-        "form": ""
-      },
-      {
-        "name": "STELARA 45 MG VIAL",
-        "registration": "142 36 32021 00",
-        "form": ""
-      },
-      {
-        "name": "STELARA 45 MG VIAL",
-        "registration": "142 36 32021 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:10.042127",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STELARA 90MG/1ML PREFILLED SYRINGE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20714285714285716,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:10.042141",
+      "confidence": 95,
+      "reasoning": "The option \"STELARA 45 MG VIAL\" closely matches the medication \"STELARA 130 MG\" in terms of brand name similarity. The strength of the option (45 mg) is not an exact match but could be a different dosage form or concentration of the same medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "142 36 32021 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

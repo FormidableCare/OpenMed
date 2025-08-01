@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.009317",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRIVIGEN",
-        "registration": "146 46 33254 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:11.714273",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRIVIGEN 10G/100ML VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:11.714288",
+      "confidence": 95,
+      "reasoning": "The brand name PRIVIGEN, registration number, and formulation match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "146 46 33254 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

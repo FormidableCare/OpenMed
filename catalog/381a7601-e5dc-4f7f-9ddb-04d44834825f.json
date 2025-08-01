@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.327659",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TERROSA",
-        "registration": "163 82 35787 00",
-        "form": ""
-      },
-      {
-        "name": "TERIPARATIDE TEVA ®",
-        "registration": "163 24 35333 00",
-        "form": ""
-      },
-      {
-        "name": "TERIPARATIDE KAMADA",
-        "registration": "170 21 36517 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:53.618679",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TERROSA 250 MCG/  ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:53.618690",
+      "confidence": 95,
+      "reasoning": "The medication TERROSA matches with option 1 based on the brand name similarity, registration number, and strength compatibility.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 82 35787 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

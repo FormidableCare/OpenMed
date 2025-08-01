@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.543377",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CARBOPLATIN TEVA",
-        "registration": "042 05 25540 05",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:48.195930",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CARBOPLATIN 450MG/45ML VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:48.195939",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "042 05 25540 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.014007",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES",
-        "registration": "042 50 23368 00",
-        "form": ""
-      },
-      {
-        "name": "SUPRAMOL 500 SUPPOSITORIES",
-        "registration": "035 03 25647 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:15.709745",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SUPRAMOL M 150MG 12 SUPP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:15.709755",
+      "confidence": 95,
+      "reasoning": "The brand name, SUPRAMOL 'M' PEDIATRIC SUPPOSITORIES, matches exactly. The strength of 150.0mg is also consistent. The registration numbers are the same, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "042 50 23368 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

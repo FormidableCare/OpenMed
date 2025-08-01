@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.542341",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EFUDIX CREAM 5%",
-        "registration": "062 40 21478 00",
-        "form": ""
-      },
-      {
-        "name": "VERRUMAL SOLUTION",
-        "registration": "010 34 24061 00",
-        "form": ""
-      },
-      {
-        "name": "FLUOROURACIL \"EBEWE\" 50 MG/ML",
-        "registration": "130 30 30866 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:44.532971",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUOROURACIL 50 MG/ML (1000mg/20ml) 1 vial",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.022222222222222223,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:44.532987",
+      "confidence": 95,
+      "reasoning": "The medication EFUDIX CREAM 5% matches with Option 1 as it has the same brand name, strength (5%), and formulation (cream). The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "062 40 21478 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "fc029fda-9aad-4a6e-96f8-40e78633ded7",
-  "name": "GENTAMICIN B. BRAUN 1 MG/ML",
+  "name": "OPTI GENTA",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "149 06 33562 00",
+  "registrationNumber": "069 76 28591 00",
   "treatmentDescriptions": "Treatment of serious infections caused by susceptible microorganisms.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.774530",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPTI GENTA",
-        "registration": "069 76 28591 00",
-        "form": ""
-      },
-      {
-        "name": "EASOTIC VETERINARY",
-        "registration": "159 84 34886 00",
-        "form": ""
-      },
-      {
-        "name": "AFLUMYCIN",
-        "registration": "125 91 24928 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:33.704205",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GENTAMICIN B. BRAUN 3 MG/ML 80 ML 20 CONTAINER",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2181818181818182,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:33.704215",
+      "confidence": 95,
+      "reasoning": "The medication Gentamicin B. Braun 1 mg/ml matches closely with the option OPTI GENTA in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "069 76 28591 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "b36607bc-7b73-4ada-8ac4-eabd1b315198",
-  "name": "PRIZMA",
+  "name": "PRIZMA FORTE",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 63 28423 01",
+  "registrationNumber": "109 71 29386 01",
   "treatmentDescriptions": "Adults:Major depressive episodes.Obsessive-compulsive disorder (OCD).Bulimia nervosa: Fluoxetine is indicated as a complement of psychotherapy for the reduction of binge-eating and purging activity.Children and adolescents aged 8 years and above:Moderate to severe major depressive episode, if depression is unresponsive to psychological therapy after 4-6 sessions. Antidepressant medication should be offered to a child or young person with moderate to severe depression only in combination with a concurrent psychological therapy.",
   "termsOfIssue": "Prescription required",
   "form": "coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.399068",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRIZMA",
-        "registration": "100 63 28423 01",
-        "form": ""
-      },
-      {
-        "name": "PRIZMA FORTE",
-        "registration": "109 71 29386 01",
-        "form": ""
-      },
-      {
-        "name": "PRIZMA SOLUTION",
-        "registration": "162 93 35206 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:23.938298",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRIZMA FRTE 60MG 20T",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:23.938316",
+      "confidence": 95,
+      "reasoning": "The option \"PRIZMA FORTE\" closely matches the medication \"PRIZMA\" in terms of brand name similarity. The strength of the medication is not explicitly mentioned in the options, but \"FORTE\" typically indicates a higher strength or formulation enhancement, which aligns with the 60.0mg strength of the medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "109 71 29386 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

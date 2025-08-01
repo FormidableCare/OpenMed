@@ -1,10 +1,10 @@
 {
   "catalogId": "2333681c-0eff-4dcf-a848-8ee8f13982c1",
-  "name": "VOCABRIA INJECTION",
+  "name": "VOCABRIA TABLETS",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 81 36948 99",
+  "registrationNumber": "169 80 36947 99",
   "treatmentDescriptions": "Vocabria injection is indicated, in combination with rilpivirine injection, for the treatment of Human Immunodeficiency Virus type 1 (HIV-1) infection in adults who are virologically suppressed (HIV-1 RNA <50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with agents of the NNRTI and INI class",
   "termsOfIssue": "Prescription required",
   "form": "prolonged release suspension for injection",
@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.388900",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VOCABRIA INJECTION",
-        "registration": "169 81 36948 99",
-        "form": ""
-      },
-      {
-        "name": "VOCABRIA TABLETS",
-        "registration": "169 80 36947 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:09.190389",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VOCABRIA 30 MG 30 TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:09.190401",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication VOCABRIA INJECTION in terms of brand name similarity, strength compatibility (tablet form with 30.0mg strength), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "169 80 36947 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.522269",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TARIM 100",
-        "registration": "149 16 33583 01",
-        "form": ""
-      },
-      {
-        "name": "TARIM 50",
-        "registration": "149 15 33582 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:41.566750",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TARIM 100MG 8 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:41.566759",
+      "confidence": 95,
+      "reasoning": "The medication TARIM 100 matches with option 1 as they have the same brand name, strength (100.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 16 33583 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

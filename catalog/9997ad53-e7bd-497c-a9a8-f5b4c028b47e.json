@@ -1,10 +1,10 @@
 {
   "catalogId": "9997ad53-e7bd-497c-a9a8-f5b4c028b47e",
-  "name": "OCTREOTIDE BENDALIS 0.05 MG/ML",
+  "name": "OLATUTON 20 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 14 34086 00",
+  "registrationNumber": "169 39 36089 00",
   "treatmentDescriptions": "Prevention of complications following pancreatic surgery. Symptomatic control and reduction of GH and IGF-1plasma levels in patients with acromegaly who are inadequately controlled by surgery or radiotherapy.Octreotide Bendalis treatment is also indicated for acromegalic patients unfit or unwilling to undergo surgery or in the interim period until radiotherapy becomes fully effective. Relief of symptoms associated with functional gastroenteropancreatic endocrine tumours: - Carcinoid tumours with features of the carcinoid syndrome. - VIPomas . - Glucagonomas . - Gastrinomas / zollinger-Ellison syndrome usually in conjunction with proton pump inhibitors or H2- antagonist therapy . - Insulinomas for pre-operative control of hypoglycaemia and for maintenance therapy . - GRFomas. - Octreotide Bendalis is not an antitumour therapy and is not curative in these patients.Emergency management of bleeding gastro-oesophageal varices secondary to cirrhosis in combination with specific therapy such as endoscopic sclerotherapy.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / infusion",
@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.258933",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OLATUTON 10 MG",
-        "registration": "169 38 36088 00",
-        "form": ""
-      },
-      {
-        "name": "OLATUTON 20 MG",
-        "registration": "169 39 36089 00",
-        "form": ""
-      },
-      {
-        "name": "OLATUTON 30 MG",
-        "registration": "169 40 36090 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:51.979545",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OCTREOTIDE BENDALIS 0.5 MG/ML 5 AMPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.04285714285714286,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:51.979554",
+      "confidence": 95,
+      "reasoning": "The medication OCTREOTIDE BENDALIS 0.05 MG/ML matches with OLATUTON 20 MG as they have similar brand names, both are in milligrams, and have a similar formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "169 39 36089 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

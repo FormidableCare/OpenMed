@@ -1,10 +1,10 @@
 {
   "catalogId": "a3df4cbe-fd97-4b8b-b708-91f49d163721",
-  "name": "ACYCLOVENIR",
+  "name": "ACYCLO-V 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "143 05 31907 00",
+  "registrationNumber": "118 62 28104 00",
   "treatmentDescriptions": "•\tindicated for the treatment of Herpes simplex infections in immunocompromised patients and severe initial genital herpes in the non-immunocompromised. •\tindicated for the prophylaxis of Herpes simplex infections in immunocompromised patients. •\tindicated for the treatment of Varicella zoster infections. •\tindicated for the treatment of herpes encephalitis. •\tindicated for the treatment of Herpes simplex infections in the neonate and infant up to 3 months of age.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for infusion",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.668779",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACYCLO-V 200",
-        "registration": "118 62 28104 00",
-        "form": ""
-      },
-      {
-        "name": "ACYCLO-V 400",
-        "registration": "118 63 28105 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:00.194052",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACYCLO-V 200MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:00.194059",
+      "confidence": 95,
+      "reasoning": "The medication ACYCLOVENIR matches with ACYCLO-V 200 based on the brand name similarity, strength compatibility (200mg), and same formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "118 62 28104 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

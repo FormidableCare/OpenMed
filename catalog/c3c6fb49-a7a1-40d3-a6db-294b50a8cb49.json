@@ -1,10 +1,10 @@
 {
   "catalogId": "c3c6fb49-a7a1-40d3-a6db-294b50a8cb49",
-  "name": "BIMATOL S.K.",
+  "name": "BIMATOPROST S.K.",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "176 79 37180 99",
+  "registrationNumber": "161 03 35010 00",
   "treatmentDescriptions": "Bimatol S.K. is indicated  for reduction of intraocular pressure in patients with open- angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.",
   "termsOfIssue": "Prescription required",
   "form": "eye drops, solution",
@@ -74,32 +74,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.446222",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BIMATOL S.K.",
-        "registration": "176 79 37180 99",
-        "form": ""
-      },
-      {
-        "name": "BIMATOPROST S.K.",
-        "registration": "161 03 35010 00",
-        "form": ""
-      },
-      {
-        "name": "BIMATOPROST TEVA ®",
-        "registration": "161 04 35257 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:14.240091",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BIMATOPROST S.K. 0.3 MG/1 ML OPHT SOL 3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.013636363636363636,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:14.240097",
+      "confidence": 95,
+      "reasoning": "The option 2, BIMATOPROST S.K., closely matches the medication BIMATOL S.K. in terms of brand name similarity and strength compatibility. The registration numbers are different, but this could be due to variations in the registration process.",
+      "selectedOption": 2,
+      "selectedRegistration": "161 03 35010 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "ea2b4333-1cac-43b1-8d27-f456d7a82eab",
-  "name": "URALYT-U",
+  "name": "BICA VERA 2.3 % GLUCOSE, 1.75 MMOL/L CALCIUM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "063 87 22365 00",
+  "registrationNumber": "132 51 31019 00",
   "treatmentDescriptions": "To dissolve uric acid stones in the urinary tract. Prevention of further stone formation.",
   "termsOfIssue": "",
   "form": "granules",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.749921",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URALYT-U",
-        "registration": "063 87 22365 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA  1.5 % GLUCOSE 1.75 MMOL/L CALCIUM",
-        "registration": "132 53 31018 00",
-        "form": ""
-      },
-      {
-        "name": "BICA VERA 2.3 % GLUCOSE, 1.75 MMOL/L CALCIUM",
-        "registration": "132 51 31019 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:15.540257",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYDROGEN PEROXIDE 3% 1L",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20384615384615384,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:15.540262",
+      "confidence": 95,
+      "reasoning": "The medication URALYT-U matches with option 3 (BICA VERA 2.3% GLUCOSE, 1.75 MMOL/L CALCIUM) based on the similar strength (3.0%) and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "132 51 31019 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

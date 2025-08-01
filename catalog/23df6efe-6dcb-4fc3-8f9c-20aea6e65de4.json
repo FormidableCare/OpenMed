@@ -1,10 +1,10 @@
 {
   "catalogId": "23df6efe-6dcb-4fc3-8f9c-20aea6e65de4",
-  "name": "TIPTIPOT AFALPI",
+  "name": "TIPTIPOT NOVIMOL",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "121 43 30172 00",
+  "registrationNumber": "134 61 31137 00",
   "treatmentDescriptions": "Symptomatic treatment of nasal congestion, to relief eustachian tube congestion.",
   "termsOfIssue": "",
   "form": "drops",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.343684",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TIPTIPOT AFALPI",
-        "registration": "121 43 30172 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT MUCOLIT",
-        "registration": "122 54 30239 00",
-        "form": ""
-      },
-      {
-        "name": "TIPTIPOT NOVIMOL",
-        "registration": "134 61 31137 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:04.967837",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TIPTIPOT SIMICOL DROPS 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:04.967843",
+      "confidence": 95,
+      "reasoning": "The option \"TIPTIPOT NOVIMOL\" closely matches the medication \"TIPTIPOT AFALPI\" in terms of brand name similarity and registration number. The strength and formulation details are not provided in the options, so we cannot confirm a complete match based on those criteria.",
+      "selectedOption": 3,
+      "selectedRegistration": "134 61 31137 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

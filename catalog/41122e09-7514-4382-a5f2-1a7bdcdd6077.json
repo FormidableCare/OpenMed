@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.557952",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLUTIFORM 125/5",
-        "registration": "150 63 33813 00",
-        "form": ""
-      },
-      {
-        "name": "FLUTIFORM 250/10",
-        "registration": "150 64 33814 00",
-        "form": ""
-      },
-      {
-        "name": "FLUTIFORM 50/5",
-        "registration": "150 62 33812 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:32:40.551131",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUTIFORM 125/5  INHALER 120 DOSES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:32:40.551147",
+      "confidence": 95,
+      "reasoning": "The option 1, FLUTIFORM 125/5, matches the medication FLUTIFORM 125/5 in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "150 63 33813 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

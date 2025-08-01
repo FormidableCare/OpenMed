@@ -1,10 +1,10 @@
 {
   "catalogId": "1997f09f-46fb-4733-b809-ee304630bd6a",
-  "name": "FAVOXIL 100",
+  "name": "FAVOXIL 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "041 91 25728 00",
+  "registrationNumber": "041 92 25727 00",
   "treatmentDescriptions": "For the treatment of affective disorders characterized by persistent low mood, impaired psychomotor atctivities and psychomatic complaints including symptoms of depression. Treatment of obsessive compulsive disorders (OCD).",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.600333",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FAVOXIL 100",
-        "registration": "041 91 25728 00",
-        "form": ""
-      },
-      {
-        "name": "FAVOXIL 50",
-        "registration": "041 92 25727 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:47.115771",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FAVOXIL 50MG 60TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:47.115783",
+      "confidence": 95,
+      "reasoning": "The option 2, FAVOXIL 50, closely matches the medication FAVOXIL 100 in terms of brand name similarity, strength compatibility (50.0mg), and formulation. The only difference is the strength, which can be attributed to the different dosages of the same medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "041 92 25727 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

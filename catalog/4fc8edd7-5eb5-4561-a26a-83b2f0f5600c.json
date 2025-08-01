@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.525716",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MESNA-CELL 100 MG/ML",
-        "registration": "154 04 34131 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:48.711710",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MESNA-CELL 100 MG/ML 50 ML 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03571428571428572,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:48.711727",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with minor formatting differences.",
+      "selectedOption": 1,
+      "selectedRegistration": "154 04 34131 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

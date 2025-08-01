@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.908245",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DILANTIN 125",
-        "registration": "123 70 24017 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:46.933294",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DILANTIN INFATABS 50MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:46.933343",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (50.0mg), and registration number (123 70 24017 01) all match with the provided details for DILANTIN 125.",
+      "selectedOption": 1,
+      "selectedRegistration": "123 70 24017 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

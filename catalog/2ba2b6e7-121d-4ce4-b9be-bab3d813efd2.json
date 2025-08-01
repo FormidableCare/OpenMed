@@ -66,22 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.050669",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KADCYLA",
-        "registration": "151 63 33939 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:01.766393",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KADCYLA 20MG/ML VIAL 20ML 160MG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:01.766399",
+      "confidence": 95,
+      "reasoning": "The brand name KADCYLA, registration number, and strength match with the provided medication information.",
+      "selectedOption": 1,
+      "selectedRegistration": "151 63 33939 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.163752",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BONDORMIN",
-        "registration": "120 37 26021 12",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:33.024836",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BONDORMIN 0.25MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:33.024848",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "120 37 26021 12",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

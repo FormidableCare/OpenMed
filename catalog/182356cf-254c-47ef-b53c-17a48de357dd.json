@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.328174",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SEPTADINE",
-        "registration": "108 58 29253 00",
-        "form": ""
-      },
-      {
-        "name": "SEPTADINE TARHITZ",
-        "registration": "112 44 29484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:55.379209",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SEPTADINE SOL  500ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:55.379225",
+      "confidence": 95,
+      "reasoning": "The brand name \"SEPTADINE\" matches, and the registration number is the same. The strength of 500.0ml also matches the provided medication information.",
+      "selectedOption": 1,
+      "selectedRegistration": "108 58 29253 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

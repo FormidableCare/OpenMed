@@ -1,10 +1,10 @@
 {
   "catalogId": "6c831f1d-d090-4bef-8ce6-7318d832f504",
-  "name": "CICLODERM",
+  "name": "CICLODERM C",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "062 23 26751 00",
+  "registrationNumber": "068 06 27821 00",
   "treatmentDescriptions": "Topical treatment of localized fungal infections of the body and fungal infections of the feet.",
   "termsOfIssue": "Prescription required",
   "form": "cream",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.710531",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CICLODERM",
-        "registration": "062 23 26751 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM C",
-        "registration": "068 06 27821 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM SOLUTION",
-        "registration": "136 35 28781 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:36.334755",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CICLODERM C 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:36.334762",
+      "confidence": 95,
+      "reasoning": "The option 2, CICLODERM C, closely matches the medication Cicloderm in terms of brand name similarity, strength compatibility, and formulation. The registration numbers are different but the key details align well.",
+      "selectedOption": 2,
+      "selectedRegistration": "068 06 27821 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

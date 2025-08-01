@@ -55,32 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.818984",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NICOTINELL LOZENGES 1 MG",
-        "registration": "136 54 31154 01",
-        "form": ""
-      },
-      {
-        "name": "NICOTINELL LOZENGES 2 MG",
-        "registration": "139 97 31643 01",
-        "form": ""
-      },
-      {
-        "name": "NICOTINELL 14mg / 24h patch",
-        "registration": "057 22 26983 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:07.969309",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NICOTINEL TTS 20 7S",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:07.969313",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NICOTINELL LOZENGES 1 MG in terms of brand name, strength (1.0mg), and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "136 54 31154 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.447021",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DUPLEX 10/160",
-        "registration": "153 26 34298 01",
-        "form": ""
-      },
-      {
-        "name": "DUPLEX 5/160",
-        "registration": "152 73 34093 01",
-        "form": ""
-      },
-      {
-        "name": "DUPLEX 5/80",
-        "registration": "153 59 34303 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:16.089194",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DUPLEX 5/160  30 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:16.089202",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DUPLEX 10/160 in terms of brand name, strength (10/160), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 26 34298 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

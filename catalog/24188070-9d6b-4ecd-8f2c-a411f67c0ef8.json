@@ -70,27 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.700703",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ENTYVIO I.V.",
-        "registration": "153 58 34277 00",
-        "form": ""
-      },
-      {
-        "name": "ENTYVIO S.C",
-        "registration": "170 22 36542 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:30.713480",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ENTYVIO 108MG/0.68ML 2 PREFILLED PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:30.713488",
+      "confidence": 95,
+      "reasoning": "The medication name, ENTYVIO I.V., strength (108.0mg), and registration number (153 58 34277 00) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 58 34277 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

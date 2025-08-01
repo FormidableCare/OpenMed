@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.047205",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STATOR 10",
-        "registration": "143 13 31932 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 20",
-        "registration": "143 14 31933 02",
-        "form": ""
-      },
-      {
-        "name": "STATOR 40",
-        "registration": "143 15 31934 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:56.253544",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STATOR 10MG 28FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:56.253556",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (10.0mg), and registration number match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "143 13 31932 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.557380",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPRAVATO",
-        "registration": "164 65 36113 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:25.276928",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SPRAVATO NASAL SPRAY 28MG 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:25.276944",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match the provided medication details for Spravato.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 65 36113 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

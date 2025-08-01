@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.438504",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EVICEL HUMAN SURGICAL SEALANT",
-        "registration": "118 61 29895 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:05.234426",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EVICEL HUMAN SURGICAL SEALANT 2X5ML (ללא אפליקטור)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:05.234440",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "118 61 29895 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

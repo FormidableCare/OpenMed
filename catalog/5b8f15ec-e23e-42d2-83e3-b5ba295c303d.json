@@ -1,10 +1,10 @@
 {
   "catalogId": "5b8f15ec-e23e-42d2-83e3-b5ba295c303d",
-  "name": "SITAR 100",
+  "name": "SITAR 25",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "172 98 36638 99",
+  "registrationNumber": "172 96 36636 99",
   "treatmentDescriptions": "SITAR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes melitus. Important limitations of use: SITAR should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis as it would not be effective in these settings. SITAR has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using SITAR.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.084857",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SITAR 100",
-        "registration": "172 98 36638 99",
-        "form": ""
-      },
-      {
-        "name": "SITAR 25",
-        "registration": "172 96 36636 99",
-        "form": ""
-      },
-      {
-        "name": "SITAR 50",
-        "registration": "172 97 36637 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:33.078438",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SITAR 25MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:33.078454",
+      "confidence": 95,
+      "reasoning": "The option SITAR 25 closely matches the medication SITAR 100 in terms of brand name similarity, strength compatibility (25.0mg), and registration number format.",
+      "selectedOption": 2,
+      "selectedRegistration": "172 96 36636 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

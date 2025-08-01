@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 75 31387 00",
+  "registrationNumber": "137 75 31387 01",
   "treatmentDescriptions": "Supply of energy and essential fatty acids and omega-3 fatty acids to patients, as part of a parenteral nutrition regimen, when oral or enteral nutrition is impossible, insufficient or contra-indicated",
   "termsOfIssue": "Prescription required",
   "form": "emulsion for infusion",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.477282",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SMOFLIPID 200 MG/ML",
-        "registration": "137 75 31387 00",
-        "form": ""
-      },
-      {
-        "name": "SMOFLIPID 200 MG/ML",
-        "registration": "137 75 31387 02",
-        "form": ""
-      },
-      {
-        "name": "SMOFLIPID 200 MG/ML",
-        "registration": "137 75 31387 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:49.989240",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SMOFLIPID 200 MG/ML  10 BOTTLES 500ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:49.989250",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication SMOFLIPID 200 MG/ML with the same registration number and strength.",
+      "selectedOption": 3,
+      "selectedRegistration": "137 75 31387 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

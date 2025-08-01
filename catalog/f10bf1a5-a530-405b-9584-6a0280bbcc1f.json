@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.973008",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PROPECIA",
-        "registration": "140 64 29458 11",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:52.254917",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROPECIA 1MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:52.254922",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details for Propecia.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 64 29458 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

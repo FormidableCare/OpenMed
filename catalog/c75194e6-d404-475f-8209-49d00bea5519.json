@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.723508",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PENTASA SLOW RELEASE GRANULES 4 G.",
-        "registration": "157 47 34816 00",
-        "form": ""
-      },
-      {
-        "name": "PENTASA SLOW RELEASE GRANULES 1 GR.",
-        "registration": "114 57 29591 00",
-        "form": ""
-      },
-      {
-        "name": "PENTASA SLOW RELEASE GRANULES 2 G",
-        "registration": "138 91 31560 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:48.120563",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PENTASA ENEMA 7X1OOML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:48.120572",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Pentasa Slow Release Granules 4 g in terms of brand name, strength (4.0g), and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 47 34816 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

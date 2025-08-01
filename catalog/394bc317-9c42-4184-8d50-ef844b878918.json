@@ -1,10 +1,10 @@
 {
   "catalogId": "394bc317-9c42-4184-8d50-ef844b878918",
-  "name": "ALLORIL 100",
+  "name": "ALLORIL 300",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "039 76 26038 00",
+  "registrationNumber": "039 74 26039 00",
   "treatmentDescriptions": "Management of patients with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis and/or nephropathy). Management of patients with leukemia, lymphoma, and malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels. Management of patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients. Therapy in such patients should be carefully assessed initially and reassessed periodically to determine in each case that treatment is beneficial and that the benefits outweigh the risks.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.264148",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALLORIL 100",
-        "registration": "039 76 26038 00",
-        "form": ""
-      },
-      {
-        "name": "ALLORIL 300",
-        "registration": "039 74 26039 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:55.898623",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ALLORIL 300MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:55.898646",
+      "confidence": 95,
+      "reasoning": "The option 2, ALLORIL 300, closely matches the medication ALLORIL 100 in terms of brand name similarity, strength compatibility (300.0mg), and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "039 74 26039 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

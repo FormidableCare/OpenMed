@@ -67,22 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.413539",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GAMUNEX ® - C",
-        "registration": "132 95 31058 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:35.709572",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GAMUNEX C 0.1G/ML 10GR 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:35.709583",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "132 95 31058 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

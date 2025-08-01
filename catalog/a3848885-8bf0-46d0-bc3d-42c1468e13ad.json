@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.428620",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ELIGARD 22.5 MG",
-        "registration": "156 79 33678 00",
-        "form": ""
-      },
-      {
-        "name": "ELIGARD 45 MG",
-        "registration": "156 80 33677 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:52.113135",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ELIGARD 7.5 MG  PREFILLED SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.22142857142857145,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:52.113148",
+      "confidence": 95,
+      "reasoning": "The medication ELIGARD 22.5 MG matches Option 1 based on the brand name similarity, correct strength of 22.5mg, and matching registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "156 79 33678 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

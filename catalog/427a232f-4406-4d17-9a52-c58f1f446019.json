@@ -56,34 +56,26 @@
         "maxRetailPrice": 37.91,
         "maxPriceWithVAT": 44.7338
       },
-      "formulation": [
-        "cream"
-      ]
+      "formulation": ["cream"]
     }
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.530826",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FENLIPS",
-        "registration": "142 41 31798 01",
-        "form": ""
-      },
-      {
-        "name": "FENLIPS COLOR",
-        "registration": "153 66 34008 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:30.988664",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENLIPS CREAM 2GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:30.988670",
+      "confidence": 95,
+      "reasoning": "The medication name \"FENLIPS\" matches, the strength of 2.0g is compatible, and both options have the same formulation of \"cream.\"",
+      "selectedOption": 1,
+      "selectedRegistration": "142 41 31798 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

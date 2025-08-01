@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.819723",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SITAR 100",
-        "registration": "172 98 36638 99",
-        "form": ""
-      },
-      {
-        "name": "SITAR 25",
-        "registration": "172 96 36636 99",
-        "form": ""
-      },
-      {
-        "name": "SITAR 50",
-        "registration": "172 97 36637 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:09.682965",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SITAR 100 MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:09.682971",
+      "confidence": 95,
+      "reasoning": "The medication SITAR 100 matches with Option 1 as it has the same brand name, strength of 100.0mg, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "172 98 36638 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

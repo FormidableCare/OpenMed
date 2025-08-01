@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.530001",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PROTHIAZINE 25 MG",
-        "registration": "109 46 25265 00",
-        "form": ""
-      },
-      {
-        "name": "PROTHIAZINE EXPECTORANT SYRUP",
-        "registration": "117 30 23206 00",
-        "form": ""
-      },
-      {
-        "name": "PROTHIAZINE SYRUP",
-        "registration": "115 73 23131 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:54.126972",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROTHIAZINE EXP110ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:54.126984",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication \"PROTHIAZINE EXPECTORANT SYRUP\" with the same registration number, formulation, and strength.",
+      "selectedOption": 2,
+      "selectedRegistration": "117 30 23206 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

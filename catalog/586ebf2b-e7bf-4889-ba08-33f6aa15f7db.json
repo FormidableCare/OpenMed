@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.607160",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG FILM COATED TABLETS",
-        "registration": "159 88 35241 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT 100 MG FILM COATED TABLETS",
-        "registration": "159 92 35245 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:00.729397",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BRIVIACT 10MG/ML SO FOR INJ  10VIALS 5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.011538461538461539,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:00.729412",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Briviact 10 mg film coated tablets in terms of brand name, strength, and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "159 88 35241 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

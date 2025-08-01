@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.699672",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEPO-PROVERA 150 MG/ML",
-        "registration": "069 69 24309 00",
-        "form": ""
-      },
-      {
-        "name": "DEPO-PROVERA 500",
-        "registration": "013 40 24544 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:27.169450",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEPO-PROVERA 3.3MLx150MG/ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:27.169461",
+      "confidence": 95,
+      "reasoning": "The medication matches in brand name, strength (150 mg/ml), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "069 69 24309 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

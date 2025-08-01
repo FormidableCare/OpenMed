@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.776651",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MESNA-CELL 100 MG/ML",
-        "registration": "154 04 34131 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:35.223000",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MESNA-CELL 1000MG 1AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:35.223008",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "154 04 34131 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

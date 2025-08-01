@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.747494",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "INSTILLAGEL",
-        "registration": "160 11 35080 00",
-        "form": ""
-      },
-      {
-        "name": "STILLA SINGLES",
-        "registration": "122 50 30243 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:13.708682",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STILLA EYE DROPS 10ml",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:13.708704",
+      "confidence": 95,
+      "reasoning": "The medication INSTILLAGEL matches option 1 based on the brand name similarity, strength compatibility (10.0ml), and same formulation (gel). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "160 11 35080 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

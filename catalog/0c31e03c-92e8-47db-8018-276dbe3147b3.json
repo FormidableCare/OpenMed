@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.601978",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YASMIN",
-        "registration": "122 02 30220 00",
-        "form": ""
-      },
-      {
-        "name": "YASMIN PLUS",
-        "registration": "152 83 33906 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:51.477204",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YASMIN  1X21TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:51.477219",
+      "confidence": 95,
+      "reasoning": "The brand name \"YASMIN\" matches exactly, and the registration number is the same. The strength and formulation details are missing in the options, but based on the brand name and registration number match, this is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "122 02 30220 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

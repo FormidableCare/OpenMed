@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.179924",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:57.579880",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SODIUM CHLORIDE S.A.L.F. 0.9%  1 BOTTLE 100 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20294117647058824,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:57.579885",
+      "confidence": 95,
+      "reasoning": "The option 1, RINGER LACTATED SOLUTION/VIOSER, matches the medication based on the brand name similarity, strength compatibility (0.9%), and same formulation (solution). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

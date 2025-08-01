@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.224624",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AMIODACORE INJECTION",
-        "registration": "043 04 23211 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:04.410940",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AMIODACORE 200MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:04.410950",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "043 04 23211 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

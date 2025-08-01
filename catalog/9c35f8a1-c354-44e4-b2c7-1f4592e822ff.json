@@ -67,27 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.736754",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PERGOVERIS ®",
-        "registration": "145 07 33159 00",
-        "form": ""
-      },
-      {
-        "name": "PERGOVERIS PRE-FILLED PEN",
-        "registration": "160 56 35355 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:00.135004",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PERGOVERIS 150 IU/75IU VIAL (POWDER+SOLVENT)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:00.135015",
+      "confidence": 95,
+      "reasoning": "The medication name, PERGOVERIS ®, strength (150.0iu, 75.0iu), and registration number (145 07 33159 00) all match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "145 07 33159 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

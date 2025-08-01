@@ -1,10 +1,10 @@
 {
   "catalogId": "20c91684-83cb-49fe-8228-d333ef21cb5e",
-  "name": "GENTATRIM OINTMENT",
+  "name": "GENTATRIM CREAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "047 61 23635 01",
+  "registrationNumber": "045 98 23634 00",
   "treatmentDescriptions": "For the treatment of wounds, burns, acne spots and dermatoses infected with bacteria sensitive to gentamycin.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.027639",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GENTATRIM OINTMENT",
-        "registration": "047 61 23635 01",
-        "form": ""
-      },
-      {
-        "name": "GENTATRIM OINTMENT",
-        "registration": "047 61 23635 00",
-        "form": ""
-      },
-      {
-        "name": "GENTATRIM CREAM",
-        "registration": "045 98 23634 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:34.018964",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GENTATRIM  DERMAL CREAM 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:34.018975",
+      "confidence": 95,
+      "reasoning": "The option 3, GENTATRIM CREAM, has a similar brand name, formulation (cream), and the strength is compatible with the medication GENTATRIM OINTMENT. The registration numbers are different but this could be due to variations in different markets or formulations.",
+      "selectedOption": 3,
+      "selectedRegistration": "045 98 23634 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

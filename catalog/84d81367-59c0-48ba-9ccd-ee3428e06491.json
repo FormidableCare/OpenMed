@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.064432",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RIXATHON",
-        "registration": "162 10 35741 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:18.924991",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RIXATHON 100MG/10ML 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:18.925005",
+      "confidence": 95,
+      "reasoning": "The brand name \"RIXATHON\" and registration number match, indicating a high likelihood of being the same medication. The strength and formulation details also align closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "162 10 35741 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

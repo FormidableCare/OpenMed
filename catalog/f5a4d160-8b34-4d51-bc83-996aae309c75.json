@@ -1,10 +1,10 @@
 {
   "catalogId": "f5a4d160-8b34-4d51-bc83-996aae309c75",
-  "name": "VITRAKVI  100 MG",
+  "name": "VITRAKVI  20 MG/ML ORAL SOLUTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 41 36178 00",
+  "registrationNumber": "164 39 36176 00",
   "treatmentDescriptions": "Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion:• Who have a disease that is locally advanced, metastatic or where surgical resection is likely to result in severe morbidity, and• Who have no satisfactory treatment options",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.534790",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VITRAKVI  100 MG",
-        "registration": "164 41 36178 00",
-        "form": ""
-      },
-      {
-        "name": "VITRAKVI  20 MG/ML ORAL SOLUTION",
-        "registration": "164 39 36176 00",
-        "form": ""
-      },
-      {
-        "name": "VITRAKVI  25 MG",
-        "registration": "164 40 36177 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:00.908632",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VITRAKVI  20 MG/ML ORAL SOLUTION 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.19285714285714284,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:00.908639",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication VITRAKVI 100 MG in terms of strength (20 mg/ml), formulation (oral solution), and registration number (164 39 36176 00).",
+      "selectedOption": 2,
+      "selectedRegistration": "164 39 36176 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -55,32 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.225505",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NICOTINELL LOZENGES 1 MG",
-        "registration": "136 54 31154 01",
-        "form": ""
-      },
-      {
-        "name": "NICOTINELL LOZENGES 2 MG",
-        "registration": "139 97 31643 01",
-        "form": ""
-      },
-      {
-        "name": "NICOTINELL 14mg / 24h patch",
-        "registration": "057 22 26983 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:06.198131",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NICOTINELL GUM MINT 4GR 48tab",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:06.198144",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NICOTINELL LOZENGES 1 MG in terms of brand name similarity, strength compatibility (1 mg), and formulation (lozenges). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "136 54 31154 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

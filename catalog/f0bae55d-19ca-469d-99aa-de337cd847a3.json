@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.422065",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "STRENSIQ ® 100 MG/ML",
-        "registration": "155 44 34545 00",
-        "form": ""
-      },
-      {
-        "name": "STRENSIQ ® 40 MG/ML",
-        "registration": "155 43 34542 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:48.818613",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "STRENSIQ ® 100 MG/ML 12 VIAL  0.8ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:48.818618",
+      "confidence": 95,
+      "reasoning": "The medication matches in terms of brand name (STRENSIQ ® 100 MG/ML), strength (0.8ml), and registration number (155 44 34545 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "155 44 34545 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

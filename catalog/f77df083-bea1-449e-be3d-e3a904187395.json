@@ -1,10 +1,10 @@
 {
   "catalogId": "f77df083-bea1-449e-be3d-e3a904187395",
-  "name": "OCSAAR 50 MG",
+  "name": "LOTAN 100",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "122 79 28344 00",
+  "registrationNumber": "139 36 31707 01",
   "treatmentDescriptions": "Hypertension: Ocsaar  50 mg  is indicated for the treatment of hypertensionHeart failure: Ocsaar  50 mg is indicated for the treatment of heart failure, usually in addition to diuretics and/or digitalis, if use of an ACE inhibitor is not appropriate.Switching patients with heart failure who are stable on an ACE inhibitor to Ocsaar  50 mg is not recommended.Renal protection in Type-2 diabetic patients with proteinuria: Ocsaar 50 mg is indicated to delay the progression of renal disease as measured by a reduction in the combined incidence of doubling of serum creatinine, end stage renal disease (need for dialysis or renal transplantation) or death; and to reduce proteinuria.Reduction in the risk of cardiovascular morbidity and mortality in hypertensive patients with left ventricular hypertrophy. Ocsaar 50 mg is indicated to reduce the risk of cardiovascular morbidity and mortality as measured by the combined incidence of cardiovascular death, stroke, and myocardial infarction in hypertensive patients with left ventricular hypertrophy.The benefit of Ocsaar 50 mg on the primary deposite endpoint was largely driven by reduction in the risk of stroke.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.736330",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OCSAAR 50 MG",
-        "registration": "122 79 28344 00",
-        "form": ""
-      },
-      {
-        "name": "OCSAAR PLUS",
-        "registration": "111 23 29411 00",
-        "form": ""
-      },
-      {
-        "name": "LOTAN 100",
-        "registration": "139 36 31707 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:58.219401",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LOSARTAN PLUS 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:58.219414",
+      "confidence": 95,
+      "reasoning": "The medication OCSAAR 50 MG matches with LOTAN 100 based on the similarity in strength (50 mg vs. 100 mg) and both being antihypertensive medications.",
+      "selectedOption": 3,
+      "selectedRegistration": "139 36 31707 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

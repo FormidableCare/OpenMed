@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.280833",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SOLODENT ALCOHOL FREE MOUTHWASH",
-        "registration": "172 54 37476 99",
-        "form": ""
-      },
-      {
-        "name": "SOLODENT MOUTHWASH",
-        "registration": "163 01 36040 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:11.450742",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOLODENT MOUTHWASH 0.2%  300ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:11.450754",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Solodent Alcohol Free Mouthwash in terms of brand name, registration number, and formulation. The strength of 0.2% also aligns with the alcohol-free nature of the mouthwash.",
+      "selectedOption": 1,
+      "selectedRegistration": "172 54 37476 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.442293",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MIDOLAM 1 MG/ML",
-        "registration": "108 42 29066 00",
-        "form": ""
-      },
-      {
-        "name": "MIDOLAM 5 MG/ML",
-        "registration": "108 43 29067 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:10.630052",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MIDOLAM 1MG/MLx5ML 5AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:10.630061",
+      "confidence": 95,
+      "reasoning": "The medication MIDOLAM 1 MG/ML with a strength of 5.0ml matches Option 1 which is also MIDOLAM 1 MG/ML with a similar registration number and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "108 42 29066 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

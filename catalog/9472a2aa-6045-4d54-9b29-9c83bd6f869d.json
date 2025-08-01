@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.547324",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "QVAR 100",
-        "registration": "139 29 30661 00",
-        "form": ""
-      },
-      {
-        "name": "QVAR 50",
-        "registration": "139 28 30660 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:51.961936",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "QVAR 100 MCG/DOSE 200 DOSE AUTOHALER",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:51.961951",
+      "confidence": 95,
+      "reasoning": "The medication QVAR 100 matches with Option 1 as it has the same brand name, strength (100.0mcg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 29 30661 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "3df600e2-e371-4232-a1a9-67fb9f9d097b",
-  "name": "DOCETAXEL HOSPIRA 10 MG/ML",
+  "name": "DOCETAXEL SEACROSS 20 MG/ML CONCENTRATE FOR SOLUTION FOR INFUSION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "148 24 33345 00",
+  "registrationNumber": "170 41 36282 00",
   "treatmentDescriptions": "Breast cancer:  Docetaxel in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with operable node- positive breast cancer.  Docetaxel in combination with doxorubicin is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have not previously received cytotoxic therapy for this condition.  Docetaxel monotherapy is indicated for the treatment of patients with metastatic breast cancer after failure of cytotoxic therapy. Previous chemotherapy should have included an anthracycline or an alkylating agent.  Docetaxel in combination with trastuzumab is indicated for the treatment of patients with metastatic breast cancer whose tumors overexpress HER2 and who previously have not received chemotherapy for metastatic disease. Docetaxel in combination with capecitabine is indicated for the treatment of patients with metastatic breast cancer after failure of cytotoxic chemotherapy. Previous therapy should have included an anthracycline. Doxorubicin and cyclophosphamide followed by Docetaxel in combination with trastuzumab (AC-TH) is indicated for the adjuvant treatment of patients with HER2 over-expressing, node-positive or high risk node-negative, breast cancer. Docetaxel in combination with trastuzumab, and carboplatin (TCH) is indicated for the adjuvant treatment of patients with HER2 over-expressing, node-positive or high risk node-negative, breast cancer. Non-small cell lung cancer:   Docetaxel is indicated for the treatment of patients with advanced non-small cell lung carcinoma. Ovarian Cancer:   Docetaxel is indicated for treatment of metastatic carcinoma of the ovary after failure of first line or subsequent chemotherapy. Prostate cancer:   Docetaxel in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone refractory metastatic prostate cancer.Esophageal cancer:   Docetaxel for the treatment of esophageal cancer. Gastric cancer:   Docetaxel for the treatment of advanced gastric cancer. Head and neck (SCCHN):   Docetaxel as monotherapy in the treatment of patients with recurrent and/or metastasis squamos cell carcinoma of the head and neck after failure of a previous chemotherapy regimen.   Docetaxel in combination with cisplatin and 5 fluorouracil is indicated for the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.597023",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DOCETAXEL HOSPIRA 10 MG/ML",
-        "registration": "148 24 33345 00",
-        "form": ""
-      },
-      {
-        "name": "DOCETAXEL VENUS PHARMA 20 MG/ML",
-        "registration": "175 12 37136 99",
-        "form": ""
-      },
-      {
-        "name": "DOCETAXEL SEACROSS 20 MG/ML CONCENTRATE FOR SOLUTION FOR INFUSION",
-        "registration": "170 41 36282 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:41.498467",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DOCETAXEL HOSPIRA 10MG/ML VIAL 160MG/16ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:41.498473",
+      "confidence": 95,
+      "reasoning": "The option 3, DOCETAXEL SEACROSS 20 MG/ML CONCENTRATE FOR SOLUTION FOR INFUSION, closely matches the medication DOCETAXEL HOSPIRA 10 MG/ML in terms of strength compatibility (20 mg/ml vs. 10 mg/ml), formulation (concentrate for solution for infusion), and registration numbers.",
+      "selectedOption": 3,
+      "selectedRegistration": "170 41 36282 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

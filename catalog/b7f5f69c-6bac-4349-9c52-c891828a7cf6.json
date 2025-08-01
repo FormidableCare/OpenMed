@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.977929",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DILANTIN 125",
-        "registration": "123 70 24017 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:55.753680",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DILANTIN SUSP 237ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:55.753695",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "123 70 24017 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

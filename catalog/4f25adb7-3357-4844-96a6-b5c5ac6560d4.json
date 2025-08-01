@@ -70,27 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.466640",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ERELZI 25",
-        "registration": "163 20 36011 00",
-        "form": ""
-      },
-      {
-        "name": "ERELZI 50",
-        "registration": "163 21 36037 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:42.649818",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ERELZI 50 MG/1 ML 4 PREFILLED SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:42.649828",
+      "confidence": 95,
+      "reasoning": "The medication ERELZI 25 with a strength of 50.0mg matches option 1 which is also ERELZI 25 with a similar strength and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 20 36011 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

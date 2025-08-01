@@ -1,10 +1,10 @@
 {
   "catalogId": "69c63c9e-079f-4914-8765-0c4c3106a296",
-  "name": "RETROVIR IV FOR INFUSION",
+  "name": "RETROVIR ORAL SOLUTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 74 28753 00",
+  "registrationNumber": "062 69 27513 21",
   "treatmentDescriptions": "Retrovir IV for infusion is indicated for the short term management of serious manifestations of Human immunodeficiency Virus (HIV) infection in patients with Acquired Immuno Deficiency Syndrome (AIDS) or AIDS who are unable to take Retrovir oral formulations.Retrovir chemoprophylaxis, is indicated for use in HIV-positive pregnant women (over 14 weeks of gestation) for prevention of maternal-foetal HIV transmission and for primary prophylaxis of HIV infection in newborn infants. Retrovir I.V. should only be used when oral treatment is not possible (except during labour and delivery).",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.445573",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RETROVIR IV FOR INFUSION",
-        "registration": "100 74 28753 00",
-        "form": ""
-      },
-      {
-        "name": "RETROVIR CAPSULES 250 MG",
-        "registration": "024 28 25361 07",
-        "form": ""
-      },
-      {
-        "name": "RETROVIR ORAL SOLUTION",
-        "registration": "062 69 27513 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:12.422494",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RETROVIR IV 5X200MG/20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20714285714285716,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:12.422505",
+      "confidence": 95,
+      "reasoning": "The option 3, RETROVIR ORAL SOLUTION, closely matches the medication in terms of brand name similarity, strength compatibility, and formulation (oral solution matches IV for infusion).",
+      "selectedOption": 3,
+      "selectedRegistration": "062 69 27513 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

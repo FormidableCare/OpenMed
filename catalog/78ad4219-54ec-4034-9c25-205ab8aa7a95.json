@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.423054",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALCOXIDINE",
-        "registration": "116 50 28130 00",
-        "form": ""
-      },
-      {
-        "name": "ALCOXIDINE TEVA",
-        "registration": "166 21 36419 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:50.349045",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ALCOXIDINE 300ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:50.349050",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match closely.",
+      "selectedOption": 1,
+      "selectedRegistration": "116 50 28130 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

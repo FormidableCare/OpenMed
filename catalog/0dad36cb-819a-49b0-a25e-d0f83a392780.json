@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.779311",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLUCANOL 100",
-        "registration": "128 37 30644 00",
-        "form": ""
-      },
-      {
-        "name": "FLUCANOL 150",
-        "registration": "128 38 30645 00",
-        "form": ""
-      },
-      {
-        "name": "FLUCANOL 200",
-        "registration": "128 39 30646 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:37.259653",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUCANOL 50MG 7CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:37.259661",
+      "confidence": 95,
+      "reasoning": "The option 1, FLUCANOL 100, matches the medication based on the brand name similarity, strength compatibility (100 vs. 100), and same formulation (capsule). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "128 37 30644 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

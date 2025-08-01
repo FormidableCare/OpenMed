@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.227922",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ASPIRIN 500",
-        "registration": "025 43 21130 00",
-        "form": ""
-      },
-      {
-        "name": "ASPIRIN C",
-        "registration": "057 86 24955 00",
-        "form": ""
-      },
-      {
-        "name": "ASPIRIN CARDIO",
-        "registration": "143 06 31982 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:09.741708",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ASPIRIN CARDIO 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:09.741719",
+      "confidence": 95,
+      "reasoning": "The option 3, ASPIRIN CARDIO, matches the medication based on the brand name similarity, identical registration number, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "143 06 31982 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

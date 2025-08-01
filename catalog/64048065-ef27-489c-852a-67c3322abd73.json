@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.255386",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LERCAPRESS 10",
-        "registration": "141 51 31848 01",
-        "form": ""
-      },
-      {
-        "name": "LERCAPRESS 20",
-        "registration": "143 67 32975 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:39.481141",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LERCAPRESS 10MG 30 FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:39.481158",
+      "confidence": 95,
+      "reasoning": "The medication LERCAPRESS 10 matches with Option 1 as they have the same brand name, strength (10.0mg), and registration number (141 51 31848 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "141 51 31848 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

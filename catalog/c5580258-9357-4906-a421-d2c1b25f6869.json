@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.020385",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KEPPRA 1000 MG",
-        "registration": "132 66 31183 00",
-        "form": ""
-      },
-      {
-        "name": "KEPPRA 250 MG",
-        "registration": "132 64 31181 00",
-        "form": ""
-      },
-      {
-        "name": "KEPPRA 500 MG",
-        "registration": "132 65 31182 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:22.974056",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KEPPRA 100MG/ML 300ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:22.974067",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Keppra 1000 mg in terms of brand name, strength (1000 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "132 66 31183 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.059696",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ERBITUX 5 MG/ML",
-        "registration": "141 40 31828 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:14.578581",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ERBITUX 5MG/ML 20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:14.578590",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 40 31828 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

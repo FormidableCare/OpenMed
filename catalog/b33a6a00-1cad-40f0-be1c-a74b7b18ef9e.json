@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.234871",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 01",
-        "form": ""
-      },
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:17.010965",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TYVASO 1.74 / 2.9 ML 4 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:17.010973",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication TYVASO with the same registration number, strength (2.9ml), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 71 33077 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

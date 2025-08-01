@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.356814",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 00",
-        "form": ""
-      },
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:17.236090",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "QUINIDINE SULFATE 200MG 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:17.236103",
+      "confidence": 95,
+      "reasoning": "The medication NUEDEXTA with a strength of 200.0mg matches option 1 with the same brand name, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 88 33554 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

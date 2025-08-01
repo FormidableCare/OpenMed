@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.047668",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AGISTEN ALOEVERA CREAM",
-        "registration": "043 17 22461 00",
-        "form": ""
-      },
-      {
-        "name": "AGISTEN BABY",
-        "registration": "125 94 26744 00",
-        "form": ""
-      },
-      {
-        "name": "AGISTEN V 2 % VAGINAL CREAM",
-        "registration": "048 56 23822 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:58.394698",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AGISTEN V 200MG 3 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:58.394800",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication AGISTEN ALOEVERA CREAM in terms of brand name similarity, formulation (cream), and registration number. The strength of 200.0mg also aligns with the provided medication information.",
+      "selectedOption": 1,
+      "selectedRegistration": "043 17 22461 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

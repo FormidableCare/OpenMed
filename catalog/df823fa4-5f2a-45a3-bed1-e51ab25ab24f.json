@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.256676",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "URSOLIT 100",
-        "registration": "019 25 20542 00",
-        "form": ""
-      },
-      {
-        "name": "URSOLIT 300",
-        "registration": "058 63 26923 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:44.846913",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "URSOLIT 100MG 60 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:44.846920",
+      "confidence": 95,
+      "reasoning": "The medication URSOLIT 100 matches Option 1 in terms of brand name, strength (100.0mg), and registration number (019 25 20542 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "019 25 20542 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

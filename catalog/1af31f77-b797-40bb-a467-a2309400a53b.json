@@ -1,10 +1,10 @@
 {
   "catalogId": "1af31f77-b797-40bb-a467-a2309400a53b",
-  "name": "TADAM 10",
+  "name": "TADAM 20",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "157 81 34538 01",
+  "registrationNumber": "157 80 34537 01",
   "treatmentDescriptions": "For the treatment of erectile dysfunction in adult men.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.226880",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TADAM 10",
-        "registration": "157 81 34538 01",
-        "form": ""
-      },
-      {
-        "name": "TADAM 20",
-        "registration": "157 80 34537 01",
-        "form": ""
-      },
-      {
-        "name": "TADAM 5",
-        "registration": "157 79 34602 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:08.092267",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TADAM 20 MG 4 \tFILM COATED TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:08.092274",
+      "confidence": 95,
+      "reasoning": "The option TADAM 20 closely matches the medication TADAM 10 in terms of brand name similarity, strength compatibility (20.0mg), and both being tablets.",
+      "selectedOption": 2,
+      "selectedRegistration": "157 80 34537 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

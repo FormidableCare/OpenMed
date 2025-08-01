@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.072103",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRADAXA 110",
-        "registration": "142 96 32974 00",
-        "form": ""
-      },
-      {
-        "name": "PRADAXA 110",
-        "registration": "142 96 32974 01",
-        "form": ""
-      },
-      {
-        "name": "PRADAXA 110",
-        "registration": "142 96 32974 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:22.427775",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRADAXA 110MG 10CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:22.427796",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication PRADAXA 110 with the same strength, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "142 96 32974 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

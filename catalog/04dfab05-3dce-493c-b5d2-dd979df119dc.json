@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.688102",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABSTRAL 100 MCG",
-        "registration": "148 73 33262 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 200 MCG",
-        "registration": "148 74 33263 01",
-        "form": ""
-      },
-      {
-        "name": "ABSTRAL 300 MCG",
-        "registration": "148 75 33264 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:16.318144",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENTA 12MCG/HOUR 5PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:16.318156",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Abstral 100 MCG in terms of brand name, strength (100 MCG), and registration number (148 73 33262 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "148 73 33262 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

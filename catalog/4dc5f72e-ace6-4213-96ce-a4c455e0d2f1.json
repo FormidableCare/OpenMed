@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.155273",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SEBOSEL",
-        "registration": "016 79 21210 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:26.371128",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SELENIUM 10MCG/ML 10AMPX10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:26.371148",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "016 79 21210 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -57,22 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.331641",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LICARBIUM",
-        "registration": "022 10 20683 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:59.413859",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LICARBIUM 300MG 100T",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:59.413872",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "022 10 20683 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

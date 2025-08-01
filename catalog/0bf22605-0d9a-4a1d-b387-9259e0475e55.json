@@ -1,10 +1,10 @@
 {
   "catalogId": "0bf22605-0d9a-4a1d-b387-9259e0475e55",
-  "name": "MAGNESIUM SULFATE 50 % W/V INOVAMED",
+  "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 55 35842 00",
+  "registrationNumber": "107 95 26735 00",
   "treatmentDescriptions": "Magnesium Sulfate 50%w/v Inovamed  is indicated for:1.  the treatment of Magnesium deficiency in hypomagnesaemia. 2. the prevention and treatment of hypomagnesaemia in patients receiving total parenteral nutrition. 3. the control and prevention of seizures in severe pre-eclampsia.  4. the control and prevention of recurrent seizures in eclampsia",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection / concentrate for solution for inj/inf",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.358908",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CAPD 2 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 95 26735 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 3 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 96 26734 00",
-        "form": ""
-      },
-      {
-        "name": "CAPD 4 PERITONEAL DIALYSIS SOLUTION",
-        "registration": "107 97 26736 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:20.689769",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MAGNESIUM SULFATE 50 %  INOVAMED 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20500000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:20.689779",
+      "confidence": 95,
+      "reasoning": "The medication \"MAGNESIUM SULFATE 50 % W/V INOVAMED\" matches with \"CAPD 2 PERITONEAL DIALYSIS SOLUTION\" in terms of strength (50.0%) and formulation (solution).",
+      "selectedOption": 1,
+      "selectedRegistration": "107 95 26735 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

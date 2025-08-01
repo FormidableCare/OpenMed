@@ -1,10 +1,10 @@
 {
   "catalogId": "65eedbbe-d52d-42e5-b140-e4ccd00f6a50",
-  "name": "DERMOVATE OINTMENT",
+  "name": "DERMOVATE CREAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "027 57 22063 00",
+  "registrationNumber": "059 85 22064 00",
   "treatmentDescriptions": "Clobetasol is a very potent topical corticosteroid indicated for adults, elderly and children over 1 year for the short term treatment only of more resistant inflammatory and pruritic manifestations of steroid responsive dermatoses unresponsive to less potent corticosteroids. These include the following:• Psoriasis (excluding widespread plaque psoriasis)• Recalcitrant dermatoses  •Lichen planus• Discoid lupus erythematosus • Other skin conditions which do not respond satisfactorily to less potent steroids.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.604731",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMOVATE OINTMENT",
-        "registration": "027 57 22063 00",
-        "form": ""
-      },
-      {
-        "name": "DERMOVATE CREAM",
-        "registration": "059 85 22064 00",
-        "form": ""
-      },
-      {
-        "name": "DERMOVATE SCALP APPLICATION",
-        "registration": "046 92 23798 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:55.613574",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMOVATE CREAM 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18333333333333332,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:55.613586",
+      "confidence": 95,
+      "reasoning": "The option 2, DERMOVATE CREAM, closely matches the medication DERMOVATE OINTMENT in terms of brand name similarity, formulation (cream), and strength compatibility. The only difference is the formulation name (cream vs. ointment), which is a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "059 85 22064 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

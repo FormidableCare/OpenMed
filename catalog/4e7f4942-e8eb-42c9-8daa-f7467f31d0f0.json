@@ -1,10 +1,10 @@
 {
   "catalogId": "4e7f4942-e8eb-42c9-8daa-f7467f31d0f0",
-  "name": "EPIPEN",
+  "name": "EPIPEN JR",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "019 37 24854 00",
+  "registrationNumber": "019 38 24853 00",
   "treatmentDescriptions": "EpiPen is indicated in the emergency treatment of severe allergic reactions (Type I) including anaphylaxis to stinging insects (e.g., order Hymenoptera, which include bees, wasps, hornets, yellow jackets and fire ants) and biting insects (e.g., triatoma, mosquitoes), allergen immunotherapy, foods, drugs, diagnostic testing substances (e.g., radiocontrast media) and other allergens, as well as idiopathic anaphylaxis or exercise-induced anaphylaxis.EpiPen is intended for immediate administration in patients who are determined to be at increased risk for anaphylaxis, including individuals with a history of anaphylactic reactions. EpiPen is intended for immediate administration as emergency supportive therapy only and  is not a substitute for immediate medical care.",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -75,27 +75,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.463649",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EPIPEN",
-        "registration": "019 37 24854 00",
-        "form": ""
-      },
-      {
-        "name": "EPIPEN JR",
-        "registration": "019 38 24853 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:37.088917",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EPIPEN 0.3MG/0.3ML AUTO-INJECTOR 2ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:37.088930",
+      "confidence": 95,
+      "reasoning": "The option 2, EPIPEN JR, matches the medication EPIPEN in terms of brand name similarity, strength compatibility (0.3mg), and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "019 38 24853 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

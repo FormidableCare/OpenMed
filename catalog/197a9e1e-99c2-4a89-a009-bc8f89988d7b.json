@@ -67,27 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.131366",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMULIN N",
-        "registration": "054 12 22715 22",
-        "form": ""
-      },
-      {
-        "name": "HUMULIN R",
-        "registration": "054 43 22714 22",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:10.742464",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMULIN REGULAR 100 IU/ML 10ML sol for inj",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:10.742485",
+      "confidence": 95,
+      "reasoning": "Both options have the same brand name \"HUMULIN N,\" matching registration numbers, and similar strength (100.0iu).",
+      "selectedOption": 1,
+      "selectedRegistration": "054 12 22715 22",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

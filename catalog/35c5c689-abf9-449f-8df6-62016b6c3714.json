@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:02:41.465370",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "L-THYROXINE SERB",
-        "registration": "165 27 35356 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:20:30.223486",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "L-THYROXINE SERB 6 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:20:30.223491",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 27 35356 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.138773",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZOLADEX",
-        "registration": "140 16 25142 00",
-        "form": ""
-      },
-      {
-        "name": "ZOLADEX LA",
-        "registration": "105 61 28735 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:17.615760",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZOLADEX LA 10.8MG SINGLE DOSE SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:17.615774",
+      "confidence": 95,
+      "reasoning": "The medication ZOLADEX with a strength of 10.8mg matches Option 1 in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 16 25142 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.892046",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETNOVATE OINTMENT",
-        "registration": "017 04 24760 00",
-        "form": ""
-      },
-      {
-        "name": "BETNOVATE SCALP APPLICATION",
-        "registration": "013 58 24426 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:24.124721",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETNOVATE OINT 15G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:24.124726",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "017 04 24760 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

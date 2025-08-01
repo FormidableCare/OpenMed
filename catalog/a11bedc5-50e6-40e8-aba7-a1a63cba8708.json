@@ -1,10 +1,10 @@
 {
   "catalogId": "a11bedc5-50e6-40e8-aba7-a1a63cba8708",
-  "name": "SOLU CORTEF 500",
+  "name": "BRIVIACT ORAL SOLUTION",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "034 93 22552 00",
+  "registrationNumber": "159 93 35246 00",
   "treatmentDescriptions": "Solu-Cortef is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: - allergic states- dermatologic diseases- endocrine disorders- gastrointestinal diseases- hematologic disorders- miscellaneous- neoplastic diseases- nervous system disorders- ophthalmic diseases- renal diseases- respiratory diseases- rheumatic disorders- dollagen diseases- certain medical emergencies",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.043496",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT ORAL SOLUTION",
-        "registration": "159 93 35246 00",
-        "form": ""
-      },
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:50.822553",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOLU CORTEF 100MG 25 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:50.822572",
+      "confidence": 95,
+      "reasoning": "The medication SOLU CORTEF 500 with a strength of 100.0mg matches with the option BRIVIACT ORAL SOLUTION, as both are oral solutions and have similar strength compatibility.",
+      "selectedOption": 2,
+      "selectedRegistration": "159 93 35246 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

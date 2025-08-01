@@ -1,10 +1,10 @@
 {
   "catalogId": "f5ef7339-a098-4c01-97f5-6ee6191ed894",
-  "name": "LYUMJEV 200 UNITS/ML",
+  "name": "LYUMJEV 100 UNITS/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "169 14 36424 00",
+  "registrationNumber": "169 13 36423 00",
   "treatmentDescriptions": "Treatment of diabetes mellitus in adults",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.185120",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LYUMJEV 200 UNITS/ML",
-        "registration": "169 14 36424 00",
-        "form": ""
-      },
-      {
-        "name": "LYUMJEV 100 UNITS/ML",
-        "registration": "169 13 36423 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:13.607438",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LYUMJEV 100 UNITS/ML VIAL 10 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:13.607451",
+      "confidence": 95,
+      "reasoning": "The medication provided is LYUMJEV 200 UNITS/ML, and the closest match in the options is LYUMJEV 100 UNITS/ML. Both options have similar brand names, and the strength compatibility is the closest among the options provided.",
+      "selectedOption": 2,
+      "selectedRegistration": "169 13 36423 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

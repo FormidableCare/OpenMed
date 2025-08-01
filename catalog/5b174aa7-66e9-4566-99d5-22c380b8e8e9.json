@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.549263",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 01",
-        "form": ""
-      },
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 00",
-        "form": ""
-      },
-      {
-        "name": "YAZ PLUS",
-        "registration": "152 82 33905 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:55.696068",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YAZ PLUS 3X28 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:55.696084",
+      "confidence": 95,
+      "reasoning": "The medication YAZ with registration number 141 04 32023 01 matches option 1 as it has the same brand name, registration number, and likely similar strength and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 04 32023 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

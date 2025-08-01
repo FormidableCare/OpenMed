@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.591038",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMULIN N",
-        "registration": "054 12 22715 22",
-        "form": ""
-      },
-      {
-        "name": "HUMULIN R",
-        "registration": "054 43 22714 22",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:35.143320",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMULIN 70/30CART 5*3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:35.143334",
+      "confidence": 95,
+      "reasoning": "The medication HUMULIN N matches option 1 in terms of brand name similarity, strength compatibility (3.0ml), and formulation. The registration numbers also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "054 12 22715 22",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

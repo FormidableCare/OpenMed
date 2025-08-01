@@ -1,10 +1,10 @@
 {
   "catalogId": "d181a791-7de8-4b82-b485-2831e57458bd",
-  "name": "EUCREAS 50/1000 MG",
+  "name": "EUCREAS 50/500 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "147 90 33627 01",
+  "registrationNumber": "147 89 33623 01",
   "treatmentDescriptions": "Eucreas is indicated in the treatment of type 2 diabetes mellitus:- Eucreas is indicated in the treatment of adult patients who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone or who are already treated with the combination of vildagliptin and metformin as separate tablets.- Eucreas is indicated in combination with a sulphonylurea (i.e. triple combination therapy) as an adjunct to diet and exercise in adult patients inadequately controlled with metformin and a sulphonylurea.- Eucreas is indicated in triple combination therapy with insulin as an adjunct to diet and exercise to improve glycaemic control in adult patients when insulin at a stable dose and metformin alone do not provide adequate glycaemic control.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.021614",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EUCREAS 50/1000 MG",
-        "registration": "147 90 33627 01",
-        "form": ""
-      },
-      {
-        "name": "EUCREAS 50/500 MG",
-        "registration": "147 89 33623 01",
-        "form": ""
-      },
-      {
-        "name": "EUCREAS 50/850 MG",
-        "registration": "143 88 32042 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:24.970233",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EUCREAS 500/50MG 30 FC TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21250000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:24.970247",
+      "confidence": 95,
+      "reasoning": "The option 2, EUCREAS 50/500 MG, closely matches the medication EUCREAS 50/1000 MG in terms of brand name similarity, strength compatibility, and formulation. The only difference is in the strength of the medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "147 89 33623 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

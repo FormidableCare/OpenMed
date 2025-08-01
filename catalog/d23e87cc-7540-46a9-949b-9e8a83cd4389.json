@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.723073",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EVRA",
-        "registration": "130 21 30818 00",
-        "form": ""
-      },
-      {
-        "name": "GENDEVRA",
-        "registration": "157 46 34742 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:46.113711",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EVRA 3 PATCHES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:46.113717",
+      "confidence": 95,
+      "reasoning": "The medication name \"EVRA\" matches exactly, and the registration number also matches. The strength and formulation details are not provided in the options, so we cannot consider that for matching in this case.",
+      "selectedOption": 1,
+      "selectedRegistration": "130 21 30818 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.397019",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ENDARI",
-        "registration": "164 80 35650 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:18.383041",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ENDARI 5 G/SACHET 60 PACKETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:18.383047",
+      "confidence": 95,
+      "reasoning": "The brand name \"ENDARI\" and registration number match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 80 35650 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

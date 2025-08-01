@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.449349",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "XARELTO 1 MG/ML GRANULES FOR ORAL SUSPENSION",
-        "registration": "174 12 37097 99",
-        "form": ""
-      },
-      {
-        "name": "XARELTO 10 MG",
-        "registration": "142 57 31927 00",
-        "form": ""
-      },
-      {
-        "name": "XARELTO 15 MG",
-        "registration": "147 44 33576 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:21.418184",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "XARELTO 1 MG/ML GRA FOR ORAL SUSP 250 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02727272727272727,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:21.418199",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication XARELTO 1 MG/ML GRANULES FOR ORAL SUSPENSION in terms of brand name, strength (1 mg/ml), and formulation (granules for oral suspension). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "174 12 37097 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

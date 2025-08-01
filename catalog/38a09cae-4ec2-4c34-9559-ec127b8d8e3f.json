@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.058336",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REMSIMA 100 MG I.V.",
-        "registration": "154 60 34158 00",
-        "form": ""
-      },
-      {
-        "name": "REMSIMA 120 MG/ML S.C.",
-        "registration": "167 27 36349 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:12.892559",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REMSIMA 120 MG/ML 2 PFS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:12.892572",
+      "confidence": 95,
+      "reasoning": "The medication name, REMSIMA 100 MG I.V., matches exactly with the provided medication. The strength of 100.0mg also matches, and the registration numbers are the same.",
+      "selectedOption": 1,
+      "selectedRegistration": "154 60 34158 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

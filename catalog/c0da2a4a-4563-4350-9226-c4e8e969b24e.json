@@ -1,10 +1,10 @@
 {
   "catalogId": "c0da2a4a-4563-4350-9226-c4e8e969b24e",
-  "name": "NIFEDILONG 30",
+  "name": "NIFEDILONG 60",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 89 31415 00",
+  "registrationNumber": "137 21 31416 00",
   "treatmentDescriptions": "Chronic stable angina, hypertension.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.544481",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NIFEDILONG 30",
-        "registration": "137 89 31415 00",
-        "form": ""
-      },
-      {
-        "name": "NIFEDILONG 60",
-        "registration": "137 21 31416 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:11.557516",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NIFEDILONG 60MG 30SRTAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:11.557530",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication NIFEDILONG 30 with a strength of 60.0mg, which is a close match in terms of brand name similarity, strength compatibility, and formulation (sustained-release). The registration numbers are different, but this could be due to a regional variation or a different batch.",
+      "selectedOption": 2,
+      "selectedRegistration": "137 21 31416 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

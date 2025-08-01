@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.350699",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETNESOL TABLETS",
-        "registration": "135 65 22066 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:12.146494",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETNESOL 0.50MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:12.146504",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 65 22066 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

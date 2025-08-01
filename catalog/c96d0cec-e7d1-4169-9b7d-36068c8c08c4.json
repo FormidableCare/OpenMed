@@ -1,10 +1,10 @@
 {
   "catalogId": "c96d0cec-e7d1-4169-9b7d-36068c8c08c4",
-  "name": "HAIRGAIN 5%",
+  "name": "HAIRGAIN FOAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "138 28 31485 00",
+  "registrationNumber": "151 07 33885 00",
   "treatmentDescriptions": "Hair regrowth treatment for men.",
   "termsOfIssue": "",
   "form": "solution - external",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.493697",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HAIRGAIN 5%",
-        "registration": "138 28 31485 00",
-        "form": ""
-      },
-      {
-        "name": "HAIRGAIN FOAM",
-        "registration": "151 07 33885 00",
-        "form": ""
-      },
-      {
-        "name": "MINOXI 2",
-        "registration": "049 97 26155 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:08.008999",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MINOXI 5 SOL 80ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:08.009015",
+      "confidence": 95,
+      "reasoning": "The option 2, HAIRGAIN FOAM, closely matches the medication HAIRGAIN 5% in terms of brand name similarity and formulation. The strength and registration numbers are different, but the key elements align well.",
+      "selectedOption": 2,
+      "selectedRegistration": "151 07 33885 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

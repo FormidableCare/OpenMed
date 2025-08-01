@@ -1,10 +1,10 @@
 {
   "catalogId": "efeb160e-5344-45b1-a3cd-475123aa82b2",
-  "name": "SINUCLEAR EXTRACT TABLETS",
+  "name": "SINUCLEAR TABLETS",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "177 48 36980 00",
+  "registrationNumber": "158 57 34682 00",
   "treatmentDescriptions": "Herbal medicinal product for the symptomatic relief of nasal congestion and headaches in those suffering from acute uncomplicated inflammations of the paranasal sinuses (acute uncomplicated rhinosinusitis) in adults and children from the age of 12 years.",
   "termsOfIssue": "",
   "form": "coated tablets",
@@ -49,32 +49,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.811685",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SINUCLEAR EXTRACT TABLETS",
-        "registration": "177 48 36980 00",
-        "form": ""
-      },
-      {
-        "name": "SINUCLEAR TABLETS",
-        "registration": "158 57 34682 00",
-        "form": ""
-      },
-      {
-        "name": "SINUCLEAR SYRUP",
-        "registration": "171 01 34683 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:58.468383",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SINUCLEAR 20 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:58.468391",
+      "confidence": 95,
+      "reasoning": "The option 2, SINUCLEAR TABLETS, has a high similarity in brand name, formulation (tablet), and registration number (158 57 34682 00). The only difference is the strength, which could be a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "158 57 34682 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

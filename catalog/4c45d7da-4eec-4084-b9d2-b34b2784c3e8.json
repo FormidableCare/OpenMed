@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.564831",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RECITAL 20",
-        "registration": "123 22 30309 01",
-        "form": ""
-      },
-      {
-        "name": "RECITAL 40",
-        "registration": "123 23 30310 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:32:44.605135",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RECITAL 20MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:32:44.605156",
+      "confidence": 95,
+      "reasoning": "The medication name, RECITAL 20, strength (20.0mg), and registration number (123 22 30309 01) all match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "123 22 30309 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

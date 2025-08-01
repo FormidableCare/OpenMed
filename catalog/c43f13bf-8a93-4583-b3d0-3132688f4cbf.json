@@ -1,10 +1,10 @@
 {
   "catalogId": "c43f13bf-8a93-4583-b3d0-3132688f4cbf",
-  "name": "CRUSIA",
+  "name": "CRUSIA FORTE",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "162 88 35673 00",
+  "registrationNumber": "173 13 37520 00",
   "treatmentDescriptions": "Crusia is indicated in adults for:•Prophylaxis of venous thromboembolic disease in moderate and high risk surgical patients, in particular those undergoing orthopaedic or general surgery including cancer surgery.•Prophylaxis of venous thromboembolic disease in medical patients with an acute illness (such as acute heart failure, respiratory insufficiency, severe infections or rheumatic diseases) and reduced mobility at increased risk of venous thromboembolism.•Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), excluding PE ikely to require thrombolytic therapy or surgery. Prevention of thrombus formation in extra corporeal circulation during haemodialysis.•Acute coronary syndrome:-Treatment of unstable angina and Non ST-segment elevation myocardial infarction (NSTEMI), in combination with oral acetylsalicylic acid.-Treatment of acute ST-segment elevation myocardial infarction (STEMI) including patients to be managed medically or with subsequent percutaneous coronary intervention (PCI).",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -70,27 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.709876",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CRUSIA",
-        "registration": "162 88 35673 00",
-        "form": ""
-      },
-      {
-        "name": "CRUSIA FORTE",
-        "registration": "173 13 37520 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:34.426933",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CRUSIA 40MG/0.4ML 2 SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:34.426948",
+      "confidence": 95,
+      "reasoning": "The option 2, CRUSIA FORTE, matches the medication CRUSIA in terms of brand name similarity, strength compatibility, and formulation. The registration numbers are different, but the key details align closely.",
+      "selectedOption": 2,
+      "selectedRegistration": "173 13 37520 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

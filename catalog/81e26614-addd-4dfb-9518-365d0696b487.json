@@ -72,22 +72,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.705986",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BETNESOL TABLETS",
-        "registration": "135 65 22066 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:32.595853",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BETNESOL ENEMA 5MG/100ML 7x100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:32.595862",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 65 22066 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

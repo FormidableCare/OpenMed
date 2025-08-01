@@ -57,27 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.582600",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DYSPORT 300",
-        "registration": "153 44 34183 00",
-        "form": ""
-      },
-      {
-        "name": "DYSPORT 500",
-        "registration": "119 59 29955 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:50.272202",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DYSPORT 300 U/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:50.272214",
+      "confidence": 95,
+      "reasoning": "The medication name, Dysport 300, matches exactly with the option 1. The registration number also matches, indicating the same product.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 44 34183 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

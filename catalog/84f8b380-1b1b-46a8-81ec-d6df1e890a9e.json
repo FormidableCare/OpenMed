@@ -1,10 +1,10 @@
 {
   "catalogId": "84f8b380-1b1b-46a8-81ec-d6df1e890a9e",
-  "name": "SEPTADINE",
+  "name": "SEPTADINE TARHITZ",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "108 58 29253 00",
+  "registrationNumber": "112 44 29484 00",
   "treatmentDescriptions": "For quick disinfection of hands, also before invasive procedures.",
   "termsOfIssue": "",
   "form": "solution - external",
@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.175918",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SEPTADINE",
-        "registration": "108 58 29253 00",
-        "form": ""
-      },
-      {
-        "name": "SEPTADINE TARHITZ",
-        "registration": "112 44 29484 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:54.022008",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SEPTADINE TARHITZ 4% 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:54.022015",
+      "confidence": 95,
+      "reasoning": "The option 2, SEPTADINE TARHITZ, closely matches the medication SEPTADINE in terms of brand name similarity. Both options have similar strength (4.0%) and are likely to have the same formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "112 44 29484 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.508231",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMAX",
-        "registration": "022 58 24975 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:20.399522",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMAX 500ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:20.399533",
+      "confidence": 95,
+      "reasoning": "The brand name DERMAX, registration number, and strength (500.0ml) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "022 58 24975 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

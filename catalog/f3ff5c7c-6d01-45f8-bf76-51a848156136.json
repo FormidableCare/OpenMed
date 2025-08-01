@@ -59,32 +59,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.521739",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 01",
-        "form": ""
-      },
-      {
-        "name": "YAZ",
-        "registration": "141 04 32023 00",
-        "form": ""
-      },
-      {
-        "name": "YAZ PLUS",
-        "registration": "152 82 33905 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:39.542936",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YAZ 1X28TABLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:39.542942",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication YAZ with the same registration number, tablet formulation, and high brand name similarity.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 04 32023 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

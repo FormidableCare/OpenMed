@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.683471",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FENLIPS",
-        "registration": "142 41 31798 01",
-        "form": ""
-      },
-      {
-        "name": "FENLIPS COLOR",
-        "registration": "153 66 34008 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:10.864534",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FENLIPS COLOR 2GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:10.864539",
+      "confidence": 95,
+      "reasoning": "The medication name, FENLIPS, registration number, and strength all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "142 41 31798 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

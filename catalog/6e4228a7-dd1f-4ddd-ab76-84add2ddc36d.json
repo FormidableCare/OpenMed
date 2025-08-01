@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.232699",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ZALDIAR",
-        "registration": "135 90 31296 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:13.673326",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ZALDIAR 20 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:13.673340",
+      "confidence": 95,
+      "reasoning": "The brand name ZALDIAR and registration number match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "135 90 31296 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

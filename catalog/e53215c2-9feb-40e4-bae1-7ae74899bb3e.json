@@ -1,10 +1,10 @@
 {
   "catalogId": "e53215c2-9feb-40e4-bae1-7ae74899bb3e",
-  "name": "ISADERM VETERINARY",
+  "name": "ISATHAL VETERINARY",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "082 41 92173 00",
+  "registrationNumber": "082 40 92174 00",
   "treatmentDescriptions": "For the topical treatment of surface pyoderma in dogs such as acute moist dermatitis (\"hot spots\") and intertrigo (skin fold dermatitis) in dogs.",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.621026",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ISADERM VETERINARY",
-        "registration": "082 41 92173 00",
-        "form": ""
-      },
-      {
-        "name": "ISATHAL VETERINARY",
-        "registration": "082 40 92174 00",
-        "form": ""
-      },
-      {
-        "name": "STAPHIDERM - B",
-        "registration": "177 40 37155 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:09.931257",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FUSID TEVA 20 MG / 2 ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:09.931278",
+      "confidence": 95,
+      "reasoning": "The option 2, ISATHAL VETERINARY, closely matches the medication ISADERM VETERINARY in terms of brand name similarity and registration number. The strength and formulation are also compatible.",
+      "selectedOption": 2,
+      "selectedRegistration": "082 40 92174 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

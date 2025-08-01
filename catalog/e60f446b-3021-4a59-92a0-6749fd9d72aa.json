@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.255792",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BACLOSAL 10",
-        "registration": "046 07 23779 02",
-        "form": ""
-      },
-      {
-        "name": "BACLOSAL 25",
-        "registration": "045 34 23780 04",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:41.240072",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BACLOSAL 10 MG 60 TABS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:41.240088",
+      "confidence": 95,
+      "reasoning": "The medication BACLOSAL 10 matches with Option 1 as they have the same brand name, strength (10.0mg), and registration number (046 07 23779 02).",
+      "selectedOption": 1,
+      "selectedRegistration": "046 07 23779 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

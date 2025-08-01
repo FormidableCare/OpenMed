@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.089772",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MILHARDT",
-        "registration": "165 39 35427 00",
-        "form": ""
-      },
-      {
-        "name": "PRIMACOR INJECTION",
-        "registration": "137 60 28572 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:38.445913",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MILRINONE 1MG/ML 10AMPX10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:38.445934",
+      "confidence": 95,
+      "reasoning": "The medication name \"MILHARDT\" matches, and the registration number is the same. The strength of 10.0ml also aligns with the formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 39 35427 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -64,22 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.559865",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OCTAGAM",
-        "registration": "143 22 31778 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:32:42.737906",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OCTAGAM 5% 50ML VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:32:42.737919",
+      "confidence": 95,
+      "reasoning": "The medication name, OCTAGAM, registration number, and formulation match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "143 22 31778 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

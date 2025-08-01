@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.838755",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ODOMZO  200 MG",
-        "registration": "156 37 34574 00",
-        "form": ""
-      },
-      {
-        "name": "ISTURISA 1 MG",
-        "registration": "171 12 37207 99",
-        "form": ""
-      },
-      {
-        "name": "ISTURISA 10 MG",
-        "registration": "171 14 37209 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:30.884210",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PHOSPHATE EFFERVESCENT SANDOZ 2G 100 tab",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:30.884216",
+      "confidence": 95,
+      "reasoning": "The medication ODOMZO 200 MG matches Option 1 in terms of brand name similarity, strength compatibility (200 MG), and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "156 37 34574 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

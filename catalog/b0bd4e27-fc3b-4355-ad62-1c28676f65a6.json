@@ -1,10 +1,10 @@
 {
   "catalogId": "b0bd4e27-fc3b-4355-ad62-1c28676f65a6",
-  "name": "SOLU CORTEF 500",
+  "name": "RINGER LACTATED SOLUTION/VIOSER",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "034 93 22552 00",
+  "registrationNumber": "169 66 36052 00",
   "treatmentDescriptions": "Solu-Cortef is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: - allergic states- dermatologic diseases- endocrine disorders- gastrointestinal diseases- hematologic disorders- miscellaneous- neoplastic diseases- nervous system disorders- ophthalmic diseases- renal diseases- respiratory diseases- rheumatic disorders- dollagen diseases- certain medical emergencies",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.750421",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT ORAL SOLUTION",
-        "registration": "159 93 35246 00",
-        "form": ""
-      },
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:17.453803",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOLU CORTEF 500mg/4 ml 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004545454545454546,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:17.453812",
+      "confidence": 95,
+      "reasoning": "The medication SOLU CORTEF 500 is a solution for injection/infusion with a strength of 500.0mg in 4.0ml formulation. The option 3, RINGER LACTATED SOLUTION/VIOSER, is also a solution for injection/infusion, which aligns with the formulation and strength of SOLU CORTEF 500.",
+      "selectedOption": 3,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

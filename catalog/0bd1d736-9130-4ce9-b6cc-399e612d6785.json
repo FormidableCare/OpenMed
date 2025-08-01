@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.257748",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HYDROAGISTEN CREAM",
-        "registration": "042 82 24888 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:48.274627",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYDROAGISTEN CR 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:48.274634",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and formulation all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "042 82 24888 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

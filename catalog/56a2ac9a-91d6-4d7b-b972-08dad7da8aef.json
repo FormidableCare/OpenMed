@@ -1,10 +1,10 @@
 {
   "catalogId": "56a2ac9a-91d6-4d7b-b972-08dad7da8aef",
-  "name": "PRALUENT 150 MG/ML",
+  "name": "PRALUENT 75 MG/ML",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 09 34568 00",
+  "registrationNumber": "156 08 34583 00",
   "treatmentDescriptions": "Primary hypercholesterolaemia and mixed dyslipidaemia Praluent is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, and in paediatric patients 8 years of age and older with heterozygous familial hypercholesterolaemia (HeFH) as an adjunct to diet:-\tin combination with a statin or statin with other lipid lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin or,-\talone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.Established atherosclerotic cardiovascular disease Praluent is indicated in adults with established atherosclerotic cardiovascular disease to reduce cardiovascular risk by lowering LDL-C levels, as an adjunct to correction of other risk factors: -\tin combination with the maximum tolerated dose of a statin with or without other lipid-lowering therapies or,-\talone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.520863",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PRALUENT 150 MG/ML",
-        "registration": "156 09 34568 00",
-        "form": ""
-      },
-      {
-        "name": "PRALUENT 75 MG/ML",
-        "registration": "156 08 34583 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:37.913461",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRALUENT 75 MG INJECTION 2 PREFILLED SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.018750000000000003,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:37.913475",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Praluent 150 mg/ml with a strength of 75 mg/ml, which is a compatible strength. Both options are injections, and the registration numbers are similar with minor differences.",
+      "selectedOption": 2,
+      "selectedRegistration": "156 08 34583 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

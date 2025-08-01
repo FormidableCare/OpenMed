@@ -1,10 +1,10 @@
 {
   "catalogId": "e8571868-e020-4be0-bea5-76ad97156ccd",
-  "name": "HYCAMTIN 0.25 MG",
+  "name": "HYCAMTIN 1 MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "141 37 31862 00",
+  "registrationNumber": "141 38 31863 00",
   "treatmentDescriptions": "Indicated for the treatment of patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate.",
   "termsOfIssue": "Prescription required",
   "form": "hard gelatin capsules",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.903163",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HYCAMTIN 0.25 MG",
-        "registration": "141 37 31862 00",
-        "form": ""
-      },
-      {
-        "name": "HYCAMTIN 1 MG",
-        "registration": "141 38 31863 00",
-        "form": ""
-      },
-      {
-        "name": "HYCAMTIN IV",
-        "registration": "104 89 28936 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:40.074980",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYCAMTIN 4MG 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:40.074995",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication Hycamtin 0.25 mg in terms of brand name similarity, strength compatibility (1 mg is close to 0.25 mg), and registration number format.",
+      "selectedOption": 2,
+      "selectedRegistration": "141 38 31863 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

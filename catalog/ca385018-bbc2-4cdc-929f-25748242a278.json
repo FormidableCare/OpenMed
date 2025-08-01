@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.871587",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACERIL 12.5",
-        "registration": "106 49 29061 00",
-        "form": ""
-      },
-      {
-        "name": "ACERIL 25",
-        "registration": "106 50 29062 00",
-        "form": ""
-      },
-      {
-        "name": "ACERIL 50",
-        "registration": "106 51 29063 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:56.344415",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACERIL 12.5MG 90TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:56.344421",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ACERIL 12.5 in terms of brand name, strength (12.5mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 49 29061 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

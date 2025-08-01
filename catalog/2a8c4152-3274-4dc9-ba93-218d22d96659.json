@@ -55,22 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.028943",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LIPIODOL ULTRA FLUID",
-        "registration": "056 03 21367 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:37.714292",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LIPIODOL ULTRA FLUID 480MG/ML AMP 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:37.714305",
+      "confidence": 95,
+      "reasoning": "The medication name, LIPIODOL ULTRA FLUID, strength, and registration number all match with the provided option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "056 03 21367 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

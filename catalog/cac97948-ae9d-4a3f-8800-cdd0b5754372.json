@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.271630",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TERROSA",
-        "registration": "163 82 35787 00",
-        "form": ""
-      },
-      {
-        "name": "TERIPARATIDE TEVA ®",
-        "registration": "163 24 35333 00",
-        "form": ""
-      },
-      {
-        "name": "TERIPARATIDE KAMADA",
-        "registration": "170 21 36517 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:02.708856",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TERIPARATIDE 250 MCG/ML 1 PREFILLED PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:02.708866",
+      "confidence": 95,
+      "reasoning": "The medication TERROSA matches with option 1 as both have similar brand names, strength (250.0mcg), and registration numbers.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 82 35787 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

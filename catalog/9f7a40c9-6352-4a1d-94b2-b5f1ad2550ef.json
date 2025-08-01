@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.627357",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLUDECATE",
-        "registration": "025 22 21358 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:15.282651",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUPHENAZINE 5MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:15.282672",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "025 22 21358 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

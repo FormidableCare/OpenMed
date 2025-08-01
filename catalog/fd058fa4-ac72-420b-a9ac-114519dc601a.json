@@ -1,10 +1,10 @@
 {
   "catalogId": "fd058fa4-ac72-420b-a9ac-114519dc601a",
-  "name": "MONOCORD 20",
+  "name": "MONOCORD 50 S.R",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "052 51 23128 00",
+  "registrationNumber": "050 88 26416 00",
   "treatmentDescriptions": "For the treatment of angina pectoris and prevention of anginal attacks. Treatment of congestive heart failure.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.755295",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MONOCORD 20",
-        "registration": "052 51 23128 00",
-        "form": ""
-      },
-      {
-        "name": "MONOCORD 40",
-        "registration": "049 99 26415 00",
-        "form": ""
-      },
-      {
-        "name": "MONOCORD 50 S.R",
-        "registration": "050 88 26416 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:19.189420",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MONOCORD 50MG SR 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:19.189426",
+      "confidence": 95,
+      "reasoning": "The option \"MONOCORD 50 S.R\" closely matches the medication \"MONOCORD 20\" in terms of brand name similarity, strength compatibility (50.0mg), and formulation (sr).",
+      "selectedOption": 3,
+      "selectedRegistration": "050 88 26416 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

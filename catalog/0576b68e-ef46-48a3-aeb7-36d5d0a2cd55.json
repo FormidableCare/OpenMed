@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.808181",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "REMOTIV 250",
-        "registration": "130 71 30720 00",
-        "form": ""
-      },
-      {
-        "name": "REMOTIV 500",
-        "registration": "141 28 31607 01",
-        "form": ""
-      },
-      {
-        "name": "REMOTIV 500",
-        "registration": "141 28 31607 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:52.160402",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "REMOTIV 250MG 60 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:52.160409",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication REMOTIV 250 in terms of brand name, strength (250.0mg), and registration number (130 71 30720 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "130 71 30720 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

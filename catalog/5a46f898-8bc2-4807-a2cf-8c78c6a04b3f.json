@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.661008",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ROPIAVENIR 2 MG/ML",
-        "registration": "179 58 38443 99",
-        "form": ""
-      },
-      {
-        "name": "ROPIVACAINE B.BRAUN 10 MG/ML",
-        "registration": "156 93 34315 00",
-        "form": ""
-      },
-      {
-        "name": "ROPIVACAINE B.BRAUN 2 MG/ML",
-        "registration": "156 92 34308 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:46.315105",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ROPIVACAINE B.BRAUN 10 MG/ML 20 AMP 10ml",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:46.315115",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication with the same brand name, strength (10 MG/ML), and registration number (156 93 34315 00).",
+      "selectedOption": 2,
+      "selectedRegistration": "156 93 34315 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.527838",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIFLUCAN 50 MG/5 ML",
-        "registration": "106 79 29073 00",
-        "form": ""
-      },
-      {
-        "name": "TRIFLUCAN I.V.",
-        "registration": "106 22 29072 00",
-        "form": ""
-      },
-      {
-        "name": "TRICAN 200 MG CAPSULES",
-        "registration": "118 50 29947 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:25.938061",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUCONAZOL 2MG/ML 1VIAL/100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:25.938071",
+      "confidence": 95,
+      "reasoning": "The medication DIFLUCAN 50 MG/5 ML matches with the option 1 which also mentions DIFLUCAN 50 MG/5 ML with similar strength and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 79 29073 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

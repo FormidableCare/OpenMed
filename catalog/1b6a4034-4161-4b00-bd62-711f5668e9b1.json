@@ -50,32 +50,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.114559",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RENNIE ICE",
-        "registration": "147 91 33516 00",
-        "form": ""
-      },
-      {
-        "name": "RENNIE PEPPERMINT",
-        "registration": "134 20 28413 00",
-        "form": ""
-      },
-      {
-        "name": "RENNIE SPEARMINT",
-        "registration": "166 61 35854 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:55.333179",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RENNIE PEPPERMINT 96TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:55.333195",
+      "confidence": 95,
+      "reasoning": "The medication RENNIE PEPPERMINT matches with Option 2, RENNIE PEPPERMINT, as they have the same brand name, registration number, and likely contain peppermint as the active ingredient.",
+      "selectedOption": 2,
+      "selectedRegistration": "134 20 28413 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

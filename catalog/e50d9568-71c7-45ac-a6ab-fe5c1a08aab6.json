@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.999516",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEPO-PROVERA 150 MG/ML",
-        "registration": "069 69 24309 00",
-        "form": ""
-      },
-      {
-        "name": "DEPO-PROVERA 500",
-        "registration": "013 40 24544 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:04.605404",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROVERA 5MG 24TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:04.605418",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Depo-Provera 150 mg/ml in terms of brand name, strength, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "069 69 24309 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

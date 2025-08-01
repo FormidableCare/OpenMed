@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.974117",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FEMINET",
-        "registration": "128 57 30568 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:53.962924",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FEMINET 3X21TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:53.962937",
+      "confidence": 95,
+      "reasoning": "The brand name \"FEMINET\" and registration number 128 57 30568 00 match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "128 57 30568 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

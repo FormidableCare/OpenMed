@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.726173",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DOSTINEX",
-        "registration": "112 13 29448 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:49.803157",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DOSTINEX 0.5MG 8TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:49.803173",
+      "confidence": 95,
+      "reasoning": "The medication name, DOSTINEX, strength (0.5mg), and registration number (112 13 29448 00) all match in Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "112 13 29448 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

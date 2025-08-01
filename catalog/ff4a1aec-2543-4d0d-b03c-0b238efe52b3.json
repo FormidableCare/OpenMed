@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.180759",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RADIAN B MUSCLE RUB",
-        "registration": "137 01 22841 00",
-        "form": ""
-      },
-      {
-        "name": "RADIAN B SPRAY",
-        "registration": "137 63 24791 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:00.918839",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RADIAN B CREAM 40GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:00.918852",
+      "confidence": 95,
+      "reasoning": "The option 1, RADIAN B MUSCLE RUB, matches the medication based on the brand name similarity, registration number, and formulation (cream).",
+      "selectedOption": 1,
+      "selectedRegistration": "137 01 22841 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

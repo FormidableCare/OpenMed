@@ -1,10 +1,10 @@
 {
   "catalogId": "4d5a4d71-0679-4c90-a3d9-d576503689ce",
-  "name": "GASTRO 10",
+  "name": "GASTRO 20",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "107 36 28578 01",
+  "registrationNumber": "043 40 26198 02",
   "treatmentDescriptions": "For the treatment and prevention of heartburn and hyperacidity in the upper gastrointestinal tract.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.818569",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GASTRO 10",
-        "registration": "107 36 28578 01",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 20",
-        "registration": "043 40 26198 02",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 40",
-        "registration": "043 39 25171 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:06.250785",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GASTRO 20MG 20TAB (OTC)",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:06.250792",
+      "confidence": 95,
+      "reasoning": "The medication GASTRO 10 with a strength of 20.0mg matches with GASTRO 20, as they have similar brand names, and the strength and formulation are compatible.",
+      "selectedOption": 2,
+      "selectedRegistration": "043 40 26198 02",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

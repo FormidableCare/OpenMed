@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.871209",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VOCABRIA INJECTION",
-        "registration": "169 81 36948 99",
-        "form": ""
-      },
-      {
-        "name": "VOCABRIA TABLETS",
-        "registration": "169 80 36947 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:54.693602",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VOCABRIA INJECTION 600MG/3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:54.693615",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"VOCABRIA INJECTION\" in terms of brand name, formulation (injection), and registration number. The strength of the medication is not explicitly mentioned in the options, but the formulation and brand name match with the given medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 81 36948 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

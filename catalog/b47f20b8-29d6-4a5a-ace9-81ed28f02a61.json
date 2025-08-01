@@ -1,10 +1,10 @@
 {
   "catalogId": "b47f20b8-29d6-4a5a-ace9-81ed28f02a61",
-  "name": "DERMOVATE OINTMENT",
+  "name": "DERMOVATE CREAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "027 57 22063 00",
+  "registrationNumber": "059 85 22064 00",
   "treatmentDescriptions": "Clobetasol is a very potent topical corticosteroid indicated for adults, elderly and children over 1 year for the short term treatment only of more resistant inflammatory and pruritic manifestations of steroid responsive dermatoses unresponsive to less potent corticosteroids. These include the following:• Psoriasis (excluding widespread plaque psoriasis)• Recalcitrant dermatoses  •Lichen planus• Discoid lupus erythematosus • Other skin conditions which do not respond satisfactorily to less potent steroids.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.552466",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DERMOVATE OINTMENT",
-        "registration": "027 57 22063 00",
-        "form": ""
-      },
-      {
-        "name": "DERMOVATE CREAM",
-        "registration": "059 85 22064 00",
-        "form": ""
-      },
-      {
-        "name": "DERMOVATE SCALP APPLICATION",
-        "registration": "046 92 23798 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:22.005847",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DERMOVATE OINTMENT 30 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:22.005861",
+      "confidence": 95,
+      "reasoning": "The option 2, DERMOVATE CREAM, closely matches the medication DERMOVATE OINTMENT in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "059 85 22064 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

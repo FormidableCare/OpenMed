@@ -60,27 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.211057",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 00",
-        "form": ""
-      },
-      {
-        "name": "NUEDEXTA",
-        "registration": "149 88 33554 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:43.004695",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NUEDEXTA 60 CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:43.004711",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation (capsule) all match between the medication NUEDEXTA and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "149 88 33554 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

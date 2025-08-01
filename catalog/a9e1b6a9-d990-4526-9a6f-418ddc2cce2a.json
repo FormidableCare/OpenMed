@@ -65,22 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.343241",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BEPANTHEN PLUS",
-        "registration": "127 48 26501 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:02.935923",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BEPANTHEN PLUS CR 5% 100GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:02.935940",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 48 26501 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

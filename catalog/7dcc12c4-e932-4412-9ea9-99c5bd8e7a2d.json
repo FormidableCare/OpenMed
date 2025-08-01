@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.182765",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AMINOPLASMAL B. BRAUN 10% E",
-        "registration": "150 94 33650 00",
-        "form": ""
-      },
-      {
-        "name": "AMINOPLASMAL B.BRAUN 10%",
-        "registration": "150 93 33648 00",
-        "form": ""
-      },
-      {
-        "name": "TRIOMEL 12 G/L NITROGEN 950 Kcal/L",
-        "registration": "179 26 37617 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:08.269737",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ARGININE 1G/5ML ORAL SOLUTION 20 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:08.269751",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication with high confidence as it has the same brand name \"AMINOPLASMAL B. BRAUN 10% E\", similar registration number, and the same formulation of \"solution\".",
+      "selectedOption": 1,
+      "selectedRegistration": "150 94 33650 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

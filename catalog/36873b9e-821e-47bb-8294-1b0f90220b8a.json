@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.658732",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EXCEDRIN",
-        "registration": "141 82 31782 01",
-        "form": ""
-      },
-      {
-        "name": "EXCEDRIN",
-        "registration": "141 82 31782 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:44.513063",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EXCEDRIN 32 CAPLETS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:44.513073",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation match closely. The only difference is likely due to minor formatting or translation variations.",
+      "selectedOption": 1,
+      "selectedRegistration": "141 82 31782 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

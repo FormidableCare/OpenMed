@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.588043",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LORASTINE SYRUP",
-        "registration": "133 21 28216 00",
-        "form": ""
-      },
-      {
-        "name": "LORASTINE TABLETS",
-        "registration": "133 25 25872 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:53.703529",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LORASTINE 10MG 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:53.703544",
+      "confidence": 95,
+      "reasoning": "The medication name, LORASTINE SYRUP, matches. The registration number is the same, and both are in syrup form. The strength of 10.0mg also aligns with the formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "133 21 28216 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

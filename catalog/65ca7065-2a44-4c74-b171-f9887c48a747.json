@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.031470",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DALACIN 2 % VAGINAL CREAM",
-        "registration": "064 17 27818 00",
-        "form": ""
-      },
-      {
-        "name": "DALACIN C 150 MG/ML",
-        "registration": "125 21 21164 00",
-        "form": ""
-      },
-      {
-        "name": "DALACIN C CAPSULES 150 MG",
-        "registration": "019 95 24895 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:39.456529",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DALACIN VAGINAL 100MG 3 OVULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20555555555555557,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:39.456883",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DALACIN 2% VAGINAL CREAM in terms of brand name similarity, strength compatibility (2%), and formulation (cream). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "064 17 27818 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

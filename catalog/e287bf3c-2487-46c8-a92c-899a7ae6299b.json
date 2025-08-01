@@ -1,10 +1,10 @@
 {
   "catalogId": "e287bf3c-2487-46c8-a92c-899a7ae6299b",
-  "name": "CICLODERM",
+  "name": "CICLODERM C",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "062 23 26751 00",
+  "registrationNumber": "068 06 27821 00",
   "treatmentDescriptions": "Topical treatment of localized fungal infections of the body and fungal infections of the feet.",
   "termsOfIssue": "Prescription required",
   "form": "cream",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.304055",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CICLODERM",
-        "registration": "062 23 26751 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM C",
-        "registration": "068 06 27821 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM SOLUTION",
-        "registration": "136 35 28781 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:34.468338",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CICLODERM SPRAY 30ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:34.468355",
+      "confidence": 95,
+      "reasoning": "The option 2, \"CICLODERM C\" matches the medication \"CICLODERM\" in terms of brand name similarity. The strength of 30.0ml also aligns with the formulation provided.",
+      "selectedOption": 2,
+      "selectedRegistration": "068 06 27821 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

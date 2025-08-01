@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.282229",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXAMOL",
-        "registration": "039 64 25921 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOL PLUS",
-        "registration": "042 81 25950 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOLSINUS DAY CARE",
-        "registration": "053 64 26488 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:15.422653",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEXAMOL 500MG 20CAP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:15.422667",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DEXAMOL in terms of brand name, registration number, and strength (500.0mg).",
+      "selectedOption": 1,
+      "selectedRegistration": "039 64 25921 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

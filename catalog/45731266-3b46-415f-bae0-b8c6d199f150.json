@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.651635",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ORACORT E",
-        "registration": "037 10 22812 00",
-        "form": ""
-      },
-      {
-        "name": "ORACORT",
-        "registration": "016 08 24803 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:41.210586",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ORACORT E PASTE 5G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:41.210591",
+      "confidence": 95,
+      "reasoning": "The medication name, ORACORT E, matches exactly. The registration number also matches. The strength of 5.0g is the same in both options.",
+      "selectedOption": 1,
+      "selectedRegistration": "037 10 22812 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

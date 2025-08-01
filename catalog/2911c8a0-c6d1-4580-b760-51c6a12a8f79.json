@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.822566",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 01",
-        "form": ""
-      },
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 00",
-        "form": ""
-      },
-      {
-        "name": "TREPROSTINIL S.K. 10 MG/ML",
-        "registration": "162 27 35642 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:11.380059",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TREPROSTINIL S.K. 5 MG/ML 20ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:11.380069",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication TREPROSTINIL S.K. 10 MG/ML in terms of name, strength, and formulation. The registration number also matches, indicating a high level of confidence in the match.",
+      "selectedOption": 3,
+      "selectedRegistration": "162 27 35642 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

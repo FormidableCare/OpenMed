@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.287109",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CANDOR 16",
-        "registration": "150 71 33815 01",
-        "form": ""
-      },
-      {
-        "name": "CANDOR 8",
-        "registration": "150 86 33817 01",
-        "form": ""
-      },
-      {
-        "name": "CANDOR PLUS",
-        "registration": "152 75 34056 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:22.043402",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CANDOR 16MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:22.043409",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication CANDOR 16 in terms of brand name, strength (16.0mg), and registration number (150 71 33815 01).",
+      "selectedOption": 1,
+      "selectedRegistration": "150 71 33815 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

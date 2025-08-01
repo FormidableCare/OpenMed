@@ -70,27 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.816102",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HYRIMOZ",
-        "registration": "164 72 36144 00",
-        "form": ""
-      },
-      {
-        "name": "HYRIMOZ HCF",
-        "registration": "178 64 37975 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:04.244034",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYRIMOZ 40MG/0.8ML 2 PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:04.244041",
+      "confidence": 95,
+      "reasoning": "The medication name, HYRIMOZ, and registration number match. The strength and formulation also align with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 72 36144 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

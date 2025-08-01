@@ -1,10 +1,10 @@
 {
   "catalogId": "541db55a-d5ec-4bb1-a811-b68f0903c90a",
-  "name": "KOATE DVI 1000",
+  "name": "KOATE DVI 250",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "117 90 29931 00",
+  "registrationNumber": "117 88 29924 00",
   "treatmentDescriptions": "For the treatment of classical hemophilia (hemophilia A)  in which there is a demonstrated deficiency of activity of the plasma clotting factor, factor VIII . Koate-DVI provides a means of temporarily replacing the missing clotting factor in order to control or prevent bleeding episodes, or in order to perform emergency and elective surgery on individuals with hemophilia.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.884725",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KOATE DVI 1000",
-        "registration": "117 90 29931 00",
-        "form": ""
-      },
-      {
-        "name": "KOATE DVI 250",
-        "registration": "117 88 29924 00",
-        "form": ""
-      },
-      {
-        "name": "KOATE DVI 500",
-        "registration": "117 89 29930 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:15.517284",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KOATE DVI 250IU/VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:15.517289",
+      "confidence": 95,
+      "reasoning": "The option 2, KOATE DVI 250, closely matches the medication in terms of strength (250.0iu) and formulation. The registration number is slightly different but the strength and formulation match closely.",
+      "selectedOption": 2,
+      "selectedRegistration": "117 88 29924 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

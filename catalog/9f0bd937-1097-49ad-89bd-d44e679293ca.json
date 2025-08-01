@@ -1,10 +1,10 @@
 {
   "catalogId": "9f0bd937-1097-49ad-89bd-d44e679293ca",
-  "name": "IODIFLOR OINTMENT",
+  "name": "IODIFLOR SOLUTION",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "141 02 31802 00",
+  "registrationNumber": "061 40 27622 00",
   "treatmentDescriptions": "For the disinfection of skin infections and inflammations, wounds and superficial burns.",
   "termsOfIssue": "",
   "form": "ointment",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.054288",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IODIFLOR OINTMENT",
-        "registration": "141 02 31802 00",
-        "form": ""
-      },
-      {
-        "name": "IODIFLOR SOAP CLEANSER",
-        "registration": "061 39 27623 00",
-        "form": ""
-      },
-      {
-        "name": "IODIFLOR SOLUTION",
-        "registration": "061 40 27622 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:07.924351",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IODIFLOR OINTMENT 15 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:07.924368",
+      "confidence": 95,
+      "reasoning": "The option \"IODIFLOR SOLUTION\" closely matches the medication \"IODIFLOR OINTMENT\" in terms of brand name similarity and formulation. The strength and registration numbers are different, but the formulation (ointment vs. solution) aligns well.",
+      "selectedOption": 3,
+      "selectedRegistration": "061 40 27622 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

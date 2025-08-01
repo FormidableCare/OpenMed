@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.506095",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DIPYRONE KALCEKS 500 MG/ML",
-        "registration": "163 58 35578 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:18.759569",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "METAMIZOLE 5MG 100TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:18.759574",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (500 mg/ml), and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "163 58 35578 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

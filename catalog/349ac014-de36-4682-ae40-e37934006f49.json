@@ -4,7 +4,7 @@
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "047 61 23635 01",
+  "registrationNumber": "047 61 23635 00",
   "treatmentDescriptions": "For the treatment of wounds, burns, acne spots and dermatoses infected with bacteria sensitive to gentamycin.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.812704",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GENTATRIM OINTMENT",
-        "registration": "047 61 23635 01",
-        "form": ""
-      },
-      {
-        "name": "GENTATRIM OINTMENT",
-        "registration": "047 61 23635 00",
-        "form": ""
-      },
-      {
-        "name": "GENTATRIM CREAM",
-        "registration": "045 98 23634 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:00.251889",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GENTATRIM OINT 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:00.251897",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication GENTATRIM OINTMENT with the same registration number and strength.",
+      "selectedOption": 2,
+      "selectedRegistration": "047 61 23635 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

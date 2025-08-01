@@ -1,10 +1,10 @@
 {
   "catalogId": "bc27e896-9d44-47bc-9886-3900c51d2daf",
-  "name": "HUMAN ALBUMIN 20% BEHRING",
+  "name": "UMAN ALBUMIN",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "039 05 20131 00",
+  "registrationNumber": "143 85 31992 00",
   "treatmentDescriptions": "Hypoalbuminemia (liver cirrhosis nephrosis) toxic processes ( pregnancy toxicosis, hyperbilirubinemia ) ,volume substitution therapy.",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.593485",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EVICEL HUMAN SURGICAL SEALANT",
-        "registration": "118 61 29895 02",
-        "form": ""
-      },
-      {
-        "name": "UMAN ALBUMIN",
-        "registration": "143 85 31992 00",
-        "form": ""
-      },
-      {
-        "name": "OMR-IGG-AM 5 %",
-        "registration": "127 54 30698 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:36.986489",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMAN ALBUMIN 20% BEHRING 50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:36.986500",
+      "confidence": 95,
+      "reasoning": "The option \"UMAN ALBUMIN\" closely matches the medication \"HUMAN ALBUMIN 20% BEHRING\" in terms of brand name similarity, strength compatibility (20%), and likely formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "143 85 31992 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

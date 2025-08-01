@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.302484",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TISSEEL FROZEN",
-        "registration": "162 87 35322 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:30.885666",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TISSEEL FROZEN PREF SYR 4ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:30.885678",
+      "confidence": 95,
+      "reasoning": "The medication name, TISSEEL FROZEN, registration number, and formulation all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "162 87 35322 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

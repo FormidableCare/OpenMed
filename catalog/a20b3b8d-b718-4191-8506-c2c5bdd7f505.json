@@ -68,27 +68,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.566143",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ACTEMRA 162 MG S.C.",
-        "registration": "153 15 34111 00",
-        "form": ""
-      },
-      {
-        "name": "ACTEMRA 20 MG/ML I.V.",
-        "registration": "142 21 31931 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:34.468197",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ACTEMRA 20MG/ML 1X4ML(80MG) CONC. FOR SOLUTION FOR INF.",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20384615384615384,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:34.468210",
+      "confidence": 95,
+      "reasoning": "The medication ACTEMRA 162 MG S.C. matches with Option 1 as they have the same brand name, similar strength (162 mg vs. 80 mg), and both are in solution formulation. The registration numbers are different, but this can be attributed to regional variations.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 15 34111 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

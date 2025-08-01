@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.468039",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HUMIRA",
-        "registration": "157 78 34788 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:44.331047",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HUMIRA 40MG/0.4ML 2 PFS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:44.331055",
+      "confidence": 95,
+      "reasoning": "The medication name, HUMIRA, registration number, and strength all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 78 34788 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

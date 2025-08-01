@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.171974",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEUCOVORIN TEVA 10 MG/ML",
-        "registration": "053 49 26932 05",
-        "form": ""
-      },
-      {
-        "name": "LEUCOVORIN TEVA TABLETS",
-        "registration": "032 83 22115 07",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:47.445172",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEUCOVORIN TEVA 10 MG/ML 1 VIAL 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:47.445179",
+      "confidence": 95,
+      "reasoning": "The medication Leucovorin Teva 10 mg/ml with registration number 053 49 26932 05 matches option 1 as it has the same name, strength, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "053 49 26932 05",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

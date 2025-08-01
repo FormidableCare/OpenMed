@@ -1,10 +1,10 @@
 {
   "catalogId": "d7a3475d-1652-4cfd-b301-98d4c107777d",
-  "name": "BEVACIZUMAB KAMADA",
+  "name": "AVASTIN",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "170 95 36978 00",
+  "registrationNumber": "131 59 31060 00",
   "treatmentDescriptions": "- Bevacizumab Kamada in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of patients with metastatic carcinoma of the colon or rectum.- Bevacizumab Kamada in addition to platinum - based chemotherapy is indicated for first - line treatment of patients with unresectable advanced metastatic or recurrent non- small cell lung cancer other than predominantly squamous cell histology. - Bevacizumab Kamada in combination with interferon alfa-2a is indicated for first line treatment of patients with advanced and /or metastatic renal cell cancer.- Bevacizumab Kamada in combination with paclitaxel is indicated for first-line treatment of patients with metastatic breast cancer.- Bevacizumab Kamada as a single agent, is indicated for the treatment of glioblastoma in patients with progressive disease following prior therapy.- Bevacizumab Kamada in combination with carboplatin and paclitaxel, is indicated for the front-line treatment of advanced (FIGO stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer in patients who are at high risk for recurrence (residual disease after debulking).- Bevacizumab Kamada in combination with carboplatin and gemcitabine, is indicated for the treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor-targeted agents.- Bevacizumab Kamada in combination with topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents - Bevacizumab Kamada in combination with paclitaxel and cisplatin or paclitaxel and topotecan is indicated for treatment of patients with persistent, recurrent, or metastatic carcinoma of the cervix.- Bevacizumab Kamada in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations.",
   "termsOfIssue": "Prescription required",
   "form": "concentrate for solution for infusion",
@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.483102",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABEVMY",
-        "registration": "175 88 37178 00",
-        "form": ""
-      },
-      {
-        "name": "AVASTIN",
-        "registration": "131 59 31060 00",
-        "form": ""
-      },
-      {
-        "name": "MVASI",
-        "registration": "164 30 35864 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:55.418921",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BEVACIZUMAB KAMADA 25MG/ML 4 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:55.418938",
+      "confidence": 95,
+      "reasoning": "Brand name AVASTIN matches BEVACIZUMAB, strength compatibility, and same formulation.",
+      "selectedOption": 2,
+      "selectedRegistration": "131 59 31060 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

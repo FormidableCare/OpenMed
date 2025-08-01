@@ -1,10 +1,10 @@
 {
   "catalogId": "44ba87e8-7997-4896-b056-d262736f2dd6",
-  "name": "ELOCOM OINTMENT",
+  "name": "ELOCOM CREAM",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "060 06 26513 00",
+  "registrationNumber": "060 05 26514 00",
   "treatmentDescriptions": "For the relief of the inflammatory and pruritic manifestations of corticosteroid - responsive dermatoses such as psoriasis and atopic dermatitis.",
   "termsOfIssue": "Prescription required",
   "form": "ointment",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.221372",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ELOCOM OINTMENT",
-        "registration": "060 06 26513 00",
-        "form": ""
-      },
-      {
-        "name": "ELOCOM CREAM",
-        "registration": "060 05 26514 00",
-        "form": ""
-      },
-      {
-        "name": "ELOCOM LOTION",
-        "registration": "137 48 28715 22",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:55.761116",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ELOCOM CREAM TUBE 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:55.761145",
+      "confidence": 95,
+      "reasoning": "The option 2, ELOCOM CREAM, closely matches the medication ELOCOM OINTMENT in terms of brand name similarity, formulation (cream), and strength (15.0g). The only difference is the formulation (cream vs. ointment), which can be considered a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "060 05 26514 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

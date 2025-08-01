@@ -49,22 +49,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.548769",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "RELAXINE",
-        "registration": "115 58 29788 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:53.513219",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "RELAXIN LIFE 30 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:53.513233",
+      "confidence": 95,
+      "reasoning": "The brand name RELAXINE, registration number, and formulation details match the provided medication information.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 58 29788 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

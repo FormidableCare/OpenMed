@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.159492",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PARSABIV",
-        "registration": "161 94 35289 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:29.844186",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PARSABIV 10 MG/2ML 6 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:29.844202",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and formulation match with the given medication PARSABIV.",
+      "selectedOption": 1,
+      "selectedRegistration": "161 94 35289 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

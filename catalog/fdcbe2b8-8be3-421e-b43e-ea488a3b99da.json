@@ -59,22 +59,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.570836",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LIPIODOL ULTRA FLUID",
-        "registration": "056 03 21367 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:52:40.271782",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LIPIODOL GUERBET PORTUGAL/GERMANY 4.8G/10ML VIALS 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:52:40.271797",
+      "confidence": 95,
+      "reasoning": "The medication name, LIPIODOL ULTRA FLUID, strength (10.0ml), and registration number (056 03 21367 00) all match with the provided option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "056 03 21367 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

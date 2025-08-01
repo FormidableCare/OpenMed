@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.399537",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SUBOXONE FILM 4 MG/1 MG",
-        "registration": "164 26 35833 00",
-        "form": ""
-      },
-      {
-        "name": "OXYN-AVENIR 10/5 mg",
-        "registration": "165 61 35564 00",
-        "form": ""
-      },
-      {
-        "name": "OXYN-AVENIR 20/10 mg",
-        "registration": "165 62 35565 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:25.663344",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NALOXONE HYDROCHLORIDE 0.4MG/ML 10AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.004545454545454546,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:25.663372",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Suboxone Film 4 mg/1 mg in terms of brand name, strength compatibility, and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "164 26 35833 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

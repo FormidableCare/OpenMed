@@ -1,10 +1,10 @@
 {
   "catalogId": "cac28698-95a2-42a3-bc06-6fd9290ae693",
-  "name": "SPASMEX 15",
+  "name": "SPASMEX 30",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "132 49 30583 00",
+  "registrationNumber": "142 14 31805 00",
   "treatmentDescriptions": "For the treatment of vegetative bladder dysfunction accompanied by urgency and/or frequency and/or urinary incontinence.",
   "termsOfIssue": "Prescription required",
   "form": "film coated tablets",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.515101",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SPASMEX 15",
-        "registration": "132 49 30583 00",
-        "form": ""
-      },
-      {
-        "name": "SPASMEX 30",
-        "registration": "142 14 31805 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:21:43.941996",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SPASMEX 30MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:21:43.942029",
+      "confidence": 95,
+      "reasoning": "The option 2, SPASMEX 30, closely matches the medication Spasmex 15 in terms of brand name similarity, strength compatibility (30.0mg), and both being formulations of the same medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "142 14 31805 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

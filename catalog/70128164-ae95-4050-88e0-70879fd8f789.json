@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.522743",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MEGAXIN IV",
-        "registration": "126 36 30540 00",
-        "form": ""
-      },
-      {
-        "name": "MEGAXIN TABLETS",
-        "registration": "117 77 29884 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:43.497753",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MEGAXIN 400MG 5TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:43.497771",
+      "confidence": 95,
+      "reasoning": "The medication name, MEGAXIN IV, matches exactly. The registration numbers are different, but the strength of 400.0mg and the formulation being IV (intravenous) also match.",
+      "selectedOption": 1,
+      "selectedRegistration": "126 36 30540 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

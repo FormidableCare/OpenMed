@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.877175",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NORMALAX",
-        "registration": "142 15 32012 00",
-        "form": ""
-      },
-      {
-        "name": "NORMALAX KIDS",
-        "registration": "144 87 33306 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:04.013006",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NORMALAX 70 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:04.013018",
+      "confidence": 95,
+      "reasoning": "The medication name, NORMALAX, matches exactly. The registration number also matches. The strength of 70.0g is the same in both options.",
+      "selectedOption": 1,
+      "selectedRegistration": "142 15 32012 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

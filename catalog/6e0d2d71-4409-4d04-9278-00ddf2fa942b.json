@@ -1,10 +1,10 @@
 {
   "catalogId": "6e0d2d71-4409-4d04-9278-00ddf2fa942b",
-  "name": "OTRIVIN",
+  "name": "OTRIVIN NASAL GEL",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "115 43 22229 00",
+  "registrationNumber": "032 82 22228 00",
   "treatmentDescriptions": "Rapid relief of nasal congestion for up to ten hours in adults and adolescents aged 12 years and older.",
   "termsOfIssue": "",
   "form": "nasal solution",
@@ -66,32 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.872617",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OTRIVIN",
-        "registration": "115 43 22229 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN NASAL GEL",
-        "registration": "032 82 22228 00",
-        "form": ""
-      },
-      {
-        "name": "OTRIVIN KIDS",
-        "registration": "108 21 23658 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:58.047968",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OTRIVIN MENTHOL MDS 0.1% 10ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:58.047973",
+      "confidence": 95,
+      "reasoning": "The option \"OTRIVIN NASAL GEL\" closely matches the medication \"OTRIVIN\" in terms of brand name similarity. The strength and formulation also align with the original medication.",
+      "selectedOption": 2,
+      "selectedRegistration": "032 82 22228 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

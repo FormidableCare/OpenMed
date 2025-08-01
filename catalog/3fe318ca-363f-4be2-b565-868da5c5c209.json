@@ -1,10 +1,10 @@
 {
   "catalogId": "3fe318ca-363f-4be2-b565-868da5c5c209",
-  "name": "DAKTARIN ORAL GEL",
+  "name": "DAKTARIN CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "038 08 20857 00",
+  "registrationNumber": "048 83 24118 01",
   "treatmentDescriptions": "Oral mycosis (thrush) and fungal infections of the upper gastrointestinal tract. Daktarin oral gel can be used for the prevention of oral thrush in patient receiving long-term treatment with antibiotics, steroids, cytotoxic and radiation therapy.",
   "termsOfIssue": "",
   "form": "gel",
@@ -56,34 +56,26 @@
         "maxRetailPrice": 23.31,
         "maxPriceWithVAT": 27.5
       },
-      "formulation": [
-        "cream"
-      ]
+      "formulation": ["cream"]
     }
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:01:35.009676",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DAKTARIN ORAL GEL",
-        "registration": "038 08 20857 00",
-        "form": ""
-      },
-      {
-        "name": "DAKTARIN CREAM",
-        "registration": "048 83 24118 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:20:28.587009",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DAKTARIN CREAM 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18333333333333332,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:20:28.587032",
+      "confidence": 95,
+      "reasoning": "The option 2, DAKTARIN CREAM, has a similar brand name to DAKTARIN ORAL GEL, both are antifungal medications. The strength and formulation also match, with both being in cream form. The only difference is the route of administration, which is not a significant factor in this case.",
+      "selectedOption": 2,
+      "selectedRegistration": "048 83 24118 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

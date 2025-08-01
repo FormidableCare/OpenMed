@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.584946",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NEUPOGEN 30 MU PRE-FILLED SYRINGE",
-        "registration": "117 22 29875 00",
-        "form": ""
-      },
-      {
-        "name": "NEUPOGEN 30 MU VIALS",
-        "registration": "058 31 27318 00",
-        "form": ""
-      },
-      {
-        "name": "NEUPOGEN 48 MU Pre-filled syringe",
-        "registration": "117 21 29876 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:27.713846",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NEUPOGEN 1 PREFIL.SYR. 48MU/0.5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:27.713860",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication NEUPOGEN 30 MU PRE-FILLED SYRINGE in terms of brand name, strength (30 MU), and formulation (pre-filled syringe). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "117 22 29875 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

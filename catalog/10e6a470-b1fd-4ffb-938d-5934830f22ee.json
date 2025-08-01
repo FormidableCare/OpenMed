@@ -69,22 +69,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.515723",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AMGEVITA ®",
-        "registration": "165 56 36181 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:24.216138",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AMGEVITA 40MG/0.8ML 2 PENS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:24.216145",
+      "confidence": 95,
+      "reasoning": "The brand name AMGEVITA ® matches, the registration number is the same, and the strength of 40.0mg is compatible.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 56 36181 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

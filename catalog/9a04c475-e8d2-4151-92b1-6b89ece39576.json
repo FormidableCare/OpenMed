@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.181786",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GAVRETO",
-        "registration": "169 37 36872 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:06.392935",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GAVRETO 60 CAPS 100 MG",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:06.392945",
+      "confidence": 95,
+      "reasoning": "The brand name GAVRETO, registration number, and strength (100.0mg) all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "169 37 36872 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

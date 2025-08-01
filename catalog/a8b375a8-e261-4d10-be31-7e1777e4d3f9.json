@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.493212",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DAKTARIN ORAL GEL",
-        "registration": "038 08 20857 00",
-        "form": ""
-      },
-      {
-        "name": "DAKTARIN CREAM",
-        "registration": "048 83 24118 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:06.236765",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DAKTARIN ORAL GEL40G",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.175,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:06.236774",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DAKTARIN ORAL GEL in terms of brand name similarity, formulation (gel), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "038 08 20857 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

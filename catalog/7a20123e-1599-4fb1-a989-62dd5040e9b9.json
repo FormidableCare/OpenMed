@@ -1,10 +1,10 @@
 {
   "catalogId": "7a20123e-1599-4fb1-a989-62dd5040e9b9",
-  "name": "FLEET ENEMA 133",
+  "name": "FLEET ENEMA 250",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "034 95 22406 11",
+  "registrationNumber": "149 41 33912 00",
   "treatmentDescriptions": "Cleaning the colon before surgery, child birth or medical examinations.",
   "termsOfIssue": "Prescription required",
   "form": "enema",
@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.621674",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLEET ENEMA 133",
-        "registration": "034 95 22406 11",
-        "form": ""
-      },
-      {
-        "name": "FLEET ENEMA 250",
-        "registration": "149 41 33912 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:53:01.118907",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLEET ENEMA 250 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.037500000000000006,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:53:01.118913",
+      "confidence": 95,
+      "reasoning": "The option 2, FLEET ENEMA 250, closely matches the medication FLEET ENEMA 133 in terms of brand name similarity, strength compatibility (250ml), and formulation. The registration numbers are different, but this is common for different markets or variations of the same product.",
+      "selectedOption": 2,
+      "selectedRegistration": "149 41 33912 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

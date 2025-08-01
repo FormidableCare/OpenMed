@@ -1,10 +1,10 @@
 {
   "catalogId": "bccbc110-c768-4f36-bdab-cf9b9247a9b1",
-  "name": "CANDOR 16",
+  "name": "CANDOR 8",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "150 71 33815 01",
+  "registrationNumber": "150 86 33817 01",
   "treatmentDescriptions": "Hypertension. Treatment of patients with heart failure and impaired left ventricle systolic function (left ventricular ejection fraction < or = 40 % ) as add-on therapy to ACE inhibitors or when ACE inhibitors are not tolerated",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.504936",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CANDOR 16",
-        "registration": "150 71 33815 01",
-        "form": ""
-      },
-      {
-        "name": "CANDOR 8",
-        "registration": "150 86 33817 01",
-        "form": ""
-      },
-      {
-        "name": "CANDOR PLUS",
-        "registration": "152 75 34056 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:16.906592",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CANDOR 8MG 28TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:16.906598",
+      "confidence": 95,
+      "reasoning": "The option 2, CANDOR 8, closely matches the medication CANDOR 16 in terms of brand name similarity, strength compatibility (8.0mg), and formulation. The registration numbers are different, but this could be due to variations in packaging or regional differences.",
+      "selectedOption": 2,
+      "selectedRegistration": "150 86 33817 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

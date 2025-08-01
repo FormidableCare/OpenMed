@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.049660",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FAVOXIL 100",
-        "registration": "041 91 25728 00",
-        "form": ""
-      },
-      {
-        "name": "FAVOXIL 50",
-        "registration": "041 92 25727 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:00.158769",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FAVOXIL 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:00.158774",
+      "confidence": 95,
+      "reasoning": "The medication FAVOXIL 100 matches with Option 1 as they have the same brand name, strength (100.0mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "041 91 25728 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

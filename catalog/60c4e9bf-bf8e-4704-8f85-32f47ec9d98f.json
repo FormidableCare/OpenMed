@@ -71,27 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.843895",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GEMCITABINE TEVA ® CONCENTRATE",
-        "registration": "150 90 33868 00",
-        "form": ""
-      },
-      {
-        "name": "GEMCITABINE \"EBEWE\" 40MG/ML",
-        "registration": "145 95 33400 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:34.247905",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GEMCITABINE  EBEWE  200MG/5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:34.247911",
+      "confidence": 95,
+      "reasoning": "The medication \"GEMCITABINE \"EBEWE\" 40MG/ML\" matches with Option 2 as they have the same brand name, strength, formulation, and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "145 95 33400 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

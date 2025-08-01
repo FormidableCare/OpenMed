@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.039891",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FOMINIC",
-        "registration": "155 65 34262 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:44.981626",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FOMINIC 0.075MG 28 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:44.981633",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 65 34262 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

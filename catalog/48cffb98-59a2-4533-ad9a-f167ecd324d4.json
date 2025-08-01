@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.746206",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "XELJANZ 1 MG/ML",
-        "registration": "176 47 37836 99",
-        "form": ""
-      },
-      {
-        "name": "XELJANZ 10 MG",
-        "registration": "170 18 35747 00",
-        "form": ""
-      },
-      {
-        "name": "XELJANZ 5 MG",
-        "registration": "152 35 33973 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:11.957086",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "XELJANZ 1 MG/ML BOTTLE 240ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:11.957101",
+      "confidence": 95,
+      "reasoning": "The medication XELJANZ 1 MG/ML with a strength of 240.0ml matches Option 1 which is also XELJANZ 1 MG/ML with the same registration number. The formulation is not specified in the task, but the strength and brand name match, indicating a high likelihood of being the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "176 47 37836 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

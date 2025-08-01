@@ -57,22 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.906242",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MINULET",
-        "registration": "050 50 25757 06",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:45.012332",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MINULET 1X21TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:45.012352",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and formulation all match the provided medication details for Minulet.",
+      "selectedOption": 1,
+      "selectedRegistration": "050 50 25757 06",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

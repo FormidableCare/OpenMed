@@ -1,10 +1,10 @@
 {
   "catalogId": "68fb6138-fd6e-4fb2-97ce-98b0b45e2dfc",
-  "name": "EPIDUO",
+  "name": "EPIDUO FORTE 0.3% /2.5 %",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "156 10 34289 00",
+  "registrationNumber": "170 29 36683 99",
   "treatmentDescriptions": "Cutaneous treatment of Acne vulgaris when comedones, papules and pustules are present.",
   "termsOfIssue": "Prescription required",
   "form": "gel",
@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.898412",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EPIDUO",
-        "registration": "156 10 34289 00",
-        "form": ""
-      },
-      {
-        "name": "EPIDUO FORTE 0.3% /2.5 %",
-        "registration": "170 29 36683 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:28.089609",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EPIDUO GEL PUMP 15 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:28.089626",
+      "confidence": 95,
+      "reasoning": "The option 2, EPIDUO FORTE 0.3% /2.5 %, closely matches the medication EPIDUO in terms of brand name similarity, strength compatibility, and formulation (gel). The registration numbers are different, but this could be due to regional variations or different formulations.",
+      "selectedOption": 2,
+      "selectedRegistration": "170 29 36683 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

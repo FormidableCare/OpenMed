@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.449891",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DES-LORATADIM",
-        "registration": "152 01 32034 00",
-        "form": ""
-      },
-      {
-        "name": "LORATADIM",
-        "registration": "137 09 30171 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:23.443312",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LORATADIM 10MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:23.443325",
+      "confidence": 95,
+      "reasoning": "The medication DES-LORATADIM matches with option 1 as it has the same name, registration number, and strength of 10.0mg.",
+      "selectedOption": 1,
+      "selectedRegistration": "152 01 32034 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

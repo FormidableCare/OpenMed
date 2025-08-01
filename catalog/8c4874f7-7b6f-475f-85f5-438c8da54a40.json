@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.833534",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CICLODERM",
-        "registration": "062 23 26751 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM C",
-        "registration": "068 06 27821 00",
-        "form": ""
-      },
-      {
-        "name": "CICLODERM SOLUTION",
-        "registration": "136 35 28781 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:25.656647",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CICLODERM  CREAM 15GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:25.656654",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Cicloderm in terms of brand name, strength (15.0g), and formulation (cream). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "062 23 26751 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

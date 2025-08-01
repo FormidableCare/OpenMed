@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.590551",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "VALERIANE TINCTURA FLORIS",
-        "registration": "122 72 30249 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:33.355669",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "VALERIANE TINCTURA DROPS 20ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:33.355679",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "122 72 30249 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

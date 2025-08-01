@@ -1,10 +1,10 @@
 {
   "catalogId": "9e8cee9f-9fd4-4e20-ae22-9f6d0a94de8a",
-  "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
+  "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "122 43 30111 00",
+  "registrationNumber": "122 42 30110 00",
   "treatmentDescriptions": "For the reduction of fever and relief of mild to moderate pain. For infants and children aged 3 months to 12 years .",
   "termsOfIssue": "",
   "form": "suspension",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.214155",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CHILDREN'S ADVIL GRAPE FLAVOR",
-        "registration": "122 43 30111 00",
-        "form": ""
-      },
-      {
-        "name": "CHILDREN'S ADVIL FRUIT FLAVOR",
-        "registration": "122 42 30110 00",
-        "form": ""
-      },
-      {
-        "name": "ADVIL LIQUI-GELS 200",
-        "registration": "115 33 29761 21",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:46.793408",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADVIL 200MG 20LIQUI-GELS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.16666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:46.793415",
+      "confidence": 95,
+      "reasoning": "The option 2, CHILDREN'S ADVIL FRUIT FLAVOR, closely matches the medication Children's Advil Grape Flavor in terms of brand name similarity, formulation (gel), and strength (200.0mg). The only difference is the flavor, which is a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "122 42 30110 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

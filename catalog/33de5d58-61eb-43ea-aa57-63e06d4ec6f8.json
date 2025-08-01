@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.870441",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AVODART",
-        "registration": "128 27 30679 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:52.808667",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "AVODART 0.5MG 30CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:52.808672",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength of the medication AVODART (0.5mg) match with Option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "128 27 30679 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

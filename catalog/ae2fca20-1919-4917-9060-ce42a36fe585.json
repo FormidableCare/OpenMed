@@ -1,10 +1,10 @@
 {
   "catalogId": "ae2fca20-1919-4917-9060-ce42a36fe585",
-  "name": "IOPAMIRO 300",
+  "name": "IOPAMIRO 370",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "020 40 24483 11",
+  "registrationNumber": "020 41 24526 11",
   "treatmentDescriptions": "X-ray contrast medium in neuroradiology, angiography, urography, ct scanning, arthrography and fistulography",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.156708",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IOPAMIRO 300",
-        "registration": "020 40 24483 11",
-        "form": ""
-      },
-      {
-        "name": "IOPAMIRO 370",
-        "registration": "020 41 24526 11",
-        "form": ""
-      },
-      {
-        "name": "MIRO 30",
-        "registration": "128 62 30738 02",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:28.083622",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MIRO 45MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:28.083632",
+      "confidence": 95,
+      "reasoning": "The option 2, IOPAMIRO 370, closely matches the medication IOPAMIRO 300 in terms of brand name similarity and strength compatibility.",
+      "selectedOption": 2,
+      "selectedRegistration": "020 41 24526 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.097895",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 01",
-        "form": ""
-      },
-      {
-        "name": "TYVASO",
-        "registration": "144 71 33077 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:43.607737",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TYVASO 1.74 MG/ 2.9 ML 28 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:43.607760",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "144 71 33077 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

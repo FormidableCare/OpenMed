@@ -1,10 +1,10 @@
 {
   "catalogId": "e50b3207-a07f-4462-b238-b0d72fb4108c",
-  "name": "BOTOX 100",
+  "name": "BOTOX 50",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "057 68 27328 00",
+  "registrationNumber": "145 33 32005 00",
   "treatmentDescriptions": "Neurologic disorders:•\t•Focal spasticity associated with dynamic equinus foot deformity due to spasticity in ambulant paediatric cerebral palsy patients two years of age or older. •\t•\tFocal spasticity of the wrist and hand in adult •\tFocal spasticity of the lower limb, including ankle and foot in adult. •\t•Blepharospasm or VII nerve disorders in patients over 12 years, hemifacial spasm and associated focal dystonias as well as the correction of strabismus in patients 12 years of age and above. •\t•Reduction of the signs and symptoms of Cervical dystonia (spasmodic torticollis) in adults. •\t•Symptom relief in adults fulfilling criteria for chronic migraine (headaches on &#8805;15 days per month of which at least 8 days with migraine) in patients who have responded inadequately or are intolerant of prophylactic migraine medications. Bladder disorders: •Management of overactive bladder with symptoms of urinary incontinence, urgency and frequency in adult patients who have an inadequate response to, or are intolerant of, anticholinergic medication. •Urinary incontinence in adults with neurogenic detrusor overactivity resulting from neurogenic bladder due to stable sub-cervical spinal cord injury, or multiple sclerosis. Skin and skin appendage disorder: •Management of primary axillary hyperhidrosis in patients who failed other medical symptomatic treatment. •For the temporary improvement in the appearance of: - moderate to severe vertical lines between the eyebrows seen at maximum frown (glabellar lines) and/or, - moderate to severe lateral canthal lines (crow’s feet lines) seen at maximum smile and/or, - moderate to severe forehead lines seen at maximum eyebrow elevation when the severity of the facial lines has an important psychological impact in adult patients.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for injection",
@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.480188",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BOTOX 100",
-        "registration": "057 68 27328 00",
-        "form": ""
-      },
-      {
-        "name": "BOTOX 200",
-        "registration": "149 45 33538 00",
-        "form": ""
-      },
-      {
-        "name": "BOTOX 50",
-        "registration": "145 33 32005 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:53.830577",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BOTOX 50 UNITS 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:53.830589",
+      "confidence": 95,
+      "reasoning": "The option 3, BOTOX 50, closely matches the medication BOTOX 100 in terms of brand name similarity and registration number. The strength difference can be attributed to a different formulation or concentration.",
+      "selectedOption": 3,
+      "selectedRegistration": "145 33 32005 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

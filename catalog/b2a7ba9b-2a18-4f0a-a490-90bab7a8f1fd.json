@@ -66,32 +66,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.566625",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BACTROBAN NASAL",
-        "registration": "050 85 26431 21",
-        "form": ""
-      },
-      {
-        "name": "BACTROBAN DERMAL",
-        "registration": "037 75 25332 21",
-        "form": ""
-      },
-      {
-        "name": "MUPIROCIN S.K",
-        "registration": "173 94 36613 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:11.179504",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MUPIROCIN S.K 2% tube 3gr",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:11.179532",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication BACTROBAN NASAL in terms of brand name similarity, registration number, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "050 85 26431 21",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

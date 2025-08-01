@@ -56,32 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.270442",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXAMOL",
-        "registration": "039 64 25921 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOL PLUS",
-        "registration": "042 81 25950 00",
-        "form": ""
-      },
-      {
-        "name": "DEXAMOLSINUS DAY CARE",
-        "registration": "053 64 26488 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:01.066799",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEXAMOL KID 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:01.066810",
+      "confidence": 95,
+      "reasoning": "The medication name \"DEXAMOL\" matches exactly, and the registration number also matches. The strength and formulation details are likely to be the same as well.",
+      "selectedOption": 1,
+      "selectedRegistration": "039 64 25921 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

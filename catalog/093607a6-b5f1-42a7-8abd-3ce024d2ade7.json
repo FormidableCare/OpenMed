@@ -54,27 +54,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.769962",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "METABOLASE VETERINARY",
-        "registration": "082 87 92329 00",
-        "form": ""
-      },
-      {
-        "name": "CARNITINE SOLUTION  30%",
-        "registration": "119 07 23815 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:29.832606",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CARNITINE 1G 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:29.832611",
+      "confidence": 95,
+      "reasoning": "The medication METABOLASE VETERINARY matches with option 1 based on the brand name similarity, registration number, and the absence of significant differences in strength and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "082 87 92329 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

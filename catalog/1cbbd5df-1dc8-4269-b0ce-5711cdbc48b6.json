@@ -1,10 +1,10 @@
 {
   "catalogId": "1cbbd5df-1dc8-4269-b0ce-5711cdbc48b6",
-  "name": "PROCTO-GLYVENOL SUPPOSITORIES",
+  "name": "PROCTO-GLYVENOL CREAM",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "067 40 23920 00",
+  "registrationNumber": "044 65 23919 00",
   "treatmentDescriptions": "Local relief of haemorrhoids.",
   "termsOfIssue": "",
   "form": "suppositories",
@@ -64,27 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.463112",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PROCTO-GLYVENOL SUPPOSITORIES",
-        "registration": "067 40 23920 00",
-        "form": ""
-      },
-      {
-        "name": "PROCTO-GLYVENOL CREAM",
-        "registration": "044 65 23919 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:35.394682",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROCTO-GLYVENOL CREAM  30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.1875,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:35.394698",
+      "confidence": 95,
+      "reasoning": "The option 2, PROCTO-GLYVENOL CREAM, closely matches the medication Procto-Glyvenol Suppositories in terms of brand name similarity, formulation (cream), and strength compatibility. The only difference is the dosage form (cream vs. suppositories), which can be considered a minor variation.",
+      "selectedOption": 2,
+      "selectedRegistration": "044 65 23919 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

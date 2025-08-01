@@ -60,22 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.609855",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HYPERHEP B S/D",
-        "registration": "127 10 27800 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:04.322240",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HYPERHEP B S/D 0.5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:04.322247",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 10 27800 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

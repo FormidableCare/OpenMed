@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.792499",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LITORVA 10",
-        "registration": "145 31 33305 01",
-        "form": ""
-      },
-      {
-        "name": "LITORVA 10",
-        "registration": "145 31 33305 00",
-        "form": ""
-      },
-      {
-        "name": "LITORVA 20",
-        "registration": "145 32 33307 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:48.316508",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LITORVA 80 MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:48.316530",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication LITORVA 10 with the same registration number, strength of 80.0mg, and formulation.",
+      "selectedOption": 1,
+      "selectedRegistration": "145 31 33305 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

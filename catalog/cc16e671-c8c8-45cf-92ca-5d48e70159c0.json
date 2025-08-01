@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.380414",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DEXIMUNE 100",
-        "registration": "124 48 30358 11",
-        "form": ""
-      },
-      {
-        "name": "DEXIMUNE 25",
-        "registration": "124 49 30359 11",
-        "form": ""
-      },
-      {
-        "name": "DEXIMUNE 50",
-        "registration": "126 73 30601 11",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:53.414865",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DEXIMUNE 100MG 50 CAPSULES",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:53.414878",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication DEXIMUNE 100 in terms of brand name similarity, strength (100mg), and formulation (capsule). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "124 48 30358 11",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

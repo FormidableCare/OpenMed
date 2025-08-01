@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.367960",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SINUFED TABLETS",
-        "registration": "030 06 25464 00",
-        "form": ""
-      },
-      {
-        "name": "SINUFED SYRUP",
-        "registration": "118 91 29978 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:30.247942",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SINUFED 60MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:30.247958",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication SINUFED TABLETS in terms of brand name similarity, strength (60.0mg), and formulation (tablet). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "030 06 25464 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

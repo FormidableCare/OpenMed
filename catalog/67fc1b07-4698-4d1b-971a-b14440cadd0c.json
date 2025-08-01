@@ -55,27 +55,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.390696",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TECVAYLI 10 MG/ML",
-        "registration": "173 74 37566 00",
-        "form": ""
-      },
-      {
-        "name": "TECVAYLI 90 MG/ML",
-        "registration": "173 75 37567 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:14.614629",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TECVAYLI 10 MG/ML 1 VIAL 3 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.02857142857142857,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:14.614644",
+      "confidence": 95,
+      "reasoning": "The medication TECVAYLI 10 MG/ML matches with Option 1 as they have the same brand name, strength (10 MG/ML), and registration number (173 74 37566 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "173 74 37566 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

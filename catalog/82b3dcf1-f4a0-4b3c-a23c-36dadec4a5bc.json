@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.499132",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MABTHERA 10 MG/ML I.V",
-        "registration": "112 51 29472 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:20:36.034673",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MABTHERA 100MG/10ML 2 VIALS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:20:36.034679",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (10 mg/ml), and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "112 51 29472 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "159e3430-5f18-426c-b975-843f50c84416",
-  "name": "CELLCEPT 250 MG",
+  "name": "CELLCEPT 500 MG",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "111 34 29434 00",
+  "registrationNumber": "111 35 29435 00",
   "treatmentDescriptions": "Prophylaxis of rejection in renal allograft recepients, and in patients reciving allogenic cardiac transplants. Cellcept should be used concomitantly with cyclosporin and corticosteroids.Allogenic hepatic transplant.",
   "termsOfIssue": "",
   "form": "capsules",
@@ -65,27 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.453902",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CELLCEPT 250 MG",
-        "registration": "111 34 29434 00",
-        "form": ""
-      },
-      {
-        "name": "CELLCEPT 500 MG",
-        "registration": "111 35 29435 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:29.743144",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CELLCEPT ORAL SUSP 200MG/ML 110G 175ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:29.743149",
+      "confidence": 95,
+      "reasoning": "The option 2 matches the medication CELLCEPT 250 MG in terms of brand name similarity, strength compatibility (500 mg vs. 250 mg), and registration number similarity.",
+      "selectedOption": 2,
+      "selectedRegistration": "111 35 29435 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

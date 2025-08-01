@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.086007",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "DISEPTYL",
-        "registration": "115 02 22578 00",
-        "form": ""
-      },
-      {
-        "name": "DISEPTYL FORTE CAPLETS",
-        "registration": "117 86 29746 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:34.731512",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DISEPTYL SUSP 50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:34.731527",
+      "confidence": 95,
+      "reasoning": "The medication name, DISEPTYL, and registration number match. The strength of 50.0ml also aligns with the formulation provided.",
+      "selectedOption": 1,
+      "selectedRegistration": "115 02 22578 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

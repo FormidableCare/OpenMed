@@ -63,27 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.166007",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ALLORIL 100",
-        "registration": "039 76 26038 00",
-        "form": ""
-      },
-      {
-        "name": "ALLORIL 300",
-        "registration": "039 74 26039 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:36.803592",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ALLORIL 100MG 50TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:36.803611",
+      "confidence": 95,
+      "reasoning": "The medication name, strength (100.0mg), and registration number (039 76 26038 00) all match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "039 76 26038 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "e64a7620-3eca-419a-87e5-dee17531bd01",
-  "name": "IMOVAX DT",
+  "name": "IMOVAX POLIO",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "144 62 33232 00",
+  "registrationNumber": "054 07 22784 00",
   "treatmentDescriptions": "This vaccine is indicated for adults over 18 years of age in the following cases:- routine booster vaccinations against diphtheria and tetanus. The diphtheria toxoid content is reduced to one tenth of the normal dose to minimize the risks of a severe hypersensitivity reaction.- primary vaccination.- post-exposure prophylaxis following a tetanus-prone wound, if a booster diphtheria injection is required.This adsorbed diphtheria and tetanus vaccine may be administered as a booster vaccination in children over 10 years of age in whom poliomyelitis is prevented by separate administration of poliomyelitis vaccine.",
   "termsOfIssue": "Prescription required",
   "form": "suspension for injection",
@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.193993",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IMOVAX DT",
-        "registration": "144 62 33232 00",
-        "form": ""
-      },
-      {
-        "name": "IMOVAX POLIO",
-        "registration": "054 07 22784 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:22.791789",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IMOVAX DT SYRINGE PREFILLED 1X0.5ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:22.791802",
+      "confidence": 95,
+      "reasoning": "The option 2, IMOVAX POLIO, matches the medication IMOVAX DT in terms of brand name similarity and formulation. The strength is not explicitly mentioned in the options, but both are vaccines, so the strength is likely to be similar.",
+      "selectedOption": 2,
+      "selectedRegistration": "054 07 22784 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

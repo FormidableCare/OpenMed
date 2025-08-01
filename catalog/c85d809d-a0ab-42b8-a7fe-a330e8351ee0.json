@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.587804",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LUCENTIS",
-        "registration": "136 75 31520 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:31.272914",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LUCENTIS 1 VIAL 0.23 ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:31.272926",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "136 75 31520 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

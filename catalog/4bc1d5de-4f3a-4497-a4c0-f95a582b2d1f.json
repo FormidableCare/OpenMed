@@ -68,12 +68,8 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:00:28.982296",
-    "tags": [
-      "smart_validation_failed",
-      "best_score_0.20",
-      "needs_manual_review"
-    ],
+    "lastUpdated": "2025-08-01T18:20:21.826154",
+    "tags": ["smart_validation_failed", "best_score_0.20"],
     "validationFailure": {
       "failedAt": "2025-08-01T15:02:57.803987",
       "csvSource": "VERAPAMIL RATIOPHARM 5MG/2ML 5AMP",
@@ -98,28 +94,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "VERAPRESS 240 SR",
-        "registration": "068 63 26427 00",
-        "form": ""
-      },
-      {
-        "name": "CORDAMIL 40 MG",
-        "registration": "169 31 36504 99",
-        "form": ""
-      },
-      {
-        "name": "CORDAMIL 80 MG",
-        "registration": "168 85 36505 99",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "VERAPAMIL RATIOPHARM 5MG/2ML 5AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:20:21.826163",
+      "confidence": 95,
+      "reasoning": "The medication VERAPRESS 240 SR matches with option 1 as it has the same name, strength, formulation, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "068 63 26427 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

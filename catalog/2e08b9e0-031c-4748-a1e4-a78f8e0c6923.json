@@ -61,32 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.601344",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "GASTRO 10",
-        "registration": "107 36 28578 01",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 20",
-        "registration": "043 40 26198 02",
-        "form": ""
-      },
-      {
-        "name": "GASTRO 40",
-        "registration": "043 39 25171 03",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:49.207564",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "GASTRO 10MG 20TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.20625000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:49.207575",
+      "confidence": 95,
+      "reasoning": "The medication GASTRO 10 with a strength of 10.0mg matches with the option 1, which is also named GASTRO 10 and has the same registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "107 36 28578 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

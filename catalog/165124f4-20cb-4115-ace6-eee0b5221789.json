@@ -1,10 +1,10 @@
 {
   "catalogId": "165124f4-20cb-4115-ace6-eee0b5221789",
-  "name": "ADIZEM CD 180",
+  "name": "ADIZEM CD 240",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "102 96 27681 00",
+  "registrationNumber": "102 97 27682 00",
   "treatmentDescriptions": "Calcium channel blocker that is indicated for the treatment of hypertension and angina.",
   "termsOfIssue": "Prescription required",
   "form": "capsules controlled release",
@@ -57,32 +57,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.874297",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ADIZEM CD 180",
-        "registration": "102 96 27681 00",
-        "form": ""
-      },
-      {
-        "name": "ADIZEM CD 240",
-        "registration": "102 97 27682 00",
-        "form": ""
-      },
-      {
-        "name": "ADIZEM CD 120",
-        "registration": "102 95 27680 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:00.802082",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ADIZEM CD 240MG 30CAP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:00.802087",
+      "confidence": 95,
+      "reasoning": "The option 2, ADIZEM CD 240, closely matches the medication ADIZEM CD 180 in terms of brand name similarity, strength compatibility (240.0mg), and formulation. The registration numbers are also similar, differing only in the last two digits.",
+      "selectedOption": 2,
+      "selectedRegistration": "102 97 27682 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.248447",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "N-KE'EV",
-        "registration": "140 07 31948 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:46:33.875401",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "N-KE'EV GEL 2*50GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:46:33.875407",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, strength, and formulation all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "140 07 31948 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

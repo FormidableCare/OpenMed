@@ -58,27 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.368417",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "YASMIN",
-        "registration": "122 02 30220 00",
-        "form": ""
-      },
-      {
-        "name": "YASMIN PLUS",
-        "registration": "152 83 33906 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:32.018073",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "YASMIN PLUS 1X28 F.C.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:32.018089",
+      "confidence": 95,
+      "reasoning": "The brand name \"YASMIN\" matches exactly, and the registration number is the same. The strength and formulation details are missing in the options, but based on the brand name and registration number match, this is the closest match.",
+      "selectedOption": 1,
+      "selectedRegistration": "122 02 30220 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

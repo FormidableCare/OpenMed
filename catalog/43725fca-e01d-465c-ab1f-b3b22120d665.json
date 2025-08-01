@@ -58,22 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.888308",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MERCILON",
-        "registration": "103 11 26498 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:41:17.182811",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MERCILON 3X21 TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:41:17.182816",
+      "confidence": 95,
+      "reasoning": "The brand name \"MERCILON\" and registration number 103 11 26498 00 match between the medication and option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "103 11 26498 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

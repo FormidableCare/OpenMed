@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.330666",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "UNDECYL POWDER",
-        "registration": "029 47 25330 00",
-        "form": ""
-      },
-      {
-        "name": "UNDECYL OINTMENT",
-        "registration": "137 46 21090 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:57.558170",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "UNDECYL POWDER 80GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:57.558175",
+      "confidence": 95,
+      "reasoning": "The medication name, UNDECYL POWDER, matches exactly. The registration number also matches. The strength of 80.0g is the same in both options. The formulation is also a powder, which matches the original medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "029 47 25330 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

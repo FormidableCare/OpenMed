@@ -62,22 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.489790",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "SOOLANTRA",
-        "registration": "167 59 36606 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:02.475083",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOOLANTRA 10 MG/G CREAM 15 GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.007142857142857143,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:02.475094",
+      "confidence": 95,
+      "reasoning": "The brand name \"SOOLANTRA\" matches, the strength is compatible, and the formulation \"cream\" is the same in both the medication and the option.",
+      "selectedOption": 1,
+      "selectedRegistration": "167 59 36606 99",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

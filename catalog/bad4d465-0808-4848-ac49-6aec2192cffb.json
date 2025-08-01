@@ -1,10 +1,10 @@
 {
   "catalogId": "bad4d465-0808-4848-ac49-6aec2192cffb",
-  "name": "FLUCANOL 100",
+  "name": "FLUCANOL 150",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "128 37 30644 00",
+  "registrationNumber": "128 38 30645 00",
   "treatmentDescriptions": "Fluconazole is indicated in the following fungal infections.Fluconazole is indicated in adults for the treatment of:• Cryptococcal meningitis.• Coccidioidomycosis.• Invasive candidiasis.• Mucosal candidiasis including oropharyngeal, oesophageal candidiasis, candiduria and chronic mucocutaneous candidiasis.• Chronic oral atrophic candidiasis (denture sore mouth) if dental hygiene or topical treatment are insufficient.• Vaginal candidiasis, acute or recurrent; when local therapy is not appropriate.• Candidal balanitis when local therapy is not appropriate.• Dermatomycosis including tinea pedis, tinea corporis, tinea cruris, tinea versicolor and dermal candida infections when systemic therapy is indicated.• Tinea unguinium (onychomycosis) when other agents are not considered appropriate.Fluconazole is indicated in adults for the prophylaxis of:• Relapse of cryptococcal meningitis in patients with high risk of recurrence.• Relapse of oropharyngeal or oesophageal candidiasis in patients infected with HIV who are at high risk of experiencing relapse.• To reduce the incidence of recurrent vaginal candidiasis (4 or more episodes a year).• Prophylaxis of candidal infections in patients with prolonged neutropenia (such as patients with haematological malignancies receiving chemotherapy or patients receiving Hematopoietic Stem Cell Transplantation).Fluconazole is indicated in term newborn infants, infants, toddlers, children, and adolescents aged from 0 to 17 years old:Fluconazole is used for the treatment of mucosal candidiasis (oropharyngeal, oesophageal), invasive candidiasis and cryptococcal meningitis and the prophylaxis of candidal infections in immunocompromised patients. Fluconazole can be used as maintenance therapy to prevent relapse of cryptococcal meningitis in children with high risk of reoccurrence.Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.Consideration should be given to official guidance on the appropriate use of antifungals.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.415892",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FLUCANOL 100",
-        "registration": "128 37 30644 00",
-        "form": ""
-      },
-      {
-        "name": "FLUCANOL 150",
-        "registration": "128 38 30645 00",
-        "form": ""
-      },
-      {
-        "name": "FLUCANOL 200",
-        "registration": "128 39 30646 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:39.695014",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FLUCANOL 150MG 1 CAPSULE",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:39.695029",
+      "confidence": 95,
+      "reasoning": "The option 2, FLUCANOL 150, closely matches the medication FLUCANOL 100 in terms of brand name similarity, strength compatibility (150.0mg), and same formulation (capsule). The only difference is in the strength, which could be a minor error.",
+      "selectedOption": 2,
+      "selectedRegistration": "128 38 30645 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

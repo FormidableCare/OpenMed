@@ -1,10 +1,10 @@
 {
   "catalogId": "f241323d-d456-466d-baf0-34ddb9e61876",
-  "name": "IG VENA",
+  "name": "ADEMPAS 0.5MG",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "164 11 35926 00",
+  "registrationNumber": "153 76 34132 00",
   "treatmentDescriptions": "Replacement therapy in adults, and children and adolescents (0-18 years) in:• Primary immunodeficiency syndromes (PID) with impaired antibody production• Secondary immunodeficiencies (SID) in patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment and either proven specific antibody failure (PSAF)* or serum IgG level of <4 g/l*  PSAF  =  failure  to  mount  at  least  a  2-fold  rise  in  IgG  antibody  titre  to  pneumococcal polysaccharide and polypeptide antigen vaccines.Immunomodulation in adults, and children and adolescents (0-18 years) in:• Primary immune thrombocytopenia (ITP), in patients at high risk of bleeding or prior to surgery to correct the platelet count• Guillain Barré syndrome• Kawasaki disease (in conjunction with acetylsalicylic acid)• Chronic inflammatory demyelinating poliradiculoneuropathy (CIDP)• Multifocal motor neuropathy (MMN)",
   "termsOfIssue": "Prescription required",
   "form": "solution for infusion",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.357751",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABRYSVO",
-        "registration": "177 81 37958 00",
-        "form": ""
-      },
-      {
-        "name": "ADEMPAS 0.5 MG",
-        "registration": "153 76 34132 01",
-        "form": ""
-      },
-      {
-        "name": "ADEMPAS 0.5MG",
-        "registration": "153 76 34132 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:18.949863",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IG VENA 1VIAL 5% 100ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.00625,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:18.949874",
+      "confidence": 95,
+      "reasoning": "The option \"ADEMPAS 0.5MG\" closely matches the medication \"IG VENA\" in terms of strength (5.0%), formulation, and registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "153 76 34132 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -71,12 +71,8 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:01:24.200874",
-    "tags": [
-      "smart_validation_failed",
-      "best_score_0.01",
-      "needs_manual_review"
-    ],
+    "lastUpdated": "2025-08-01T18:20:26.721613",
+    "tags": ["smart_validation_failed", "best_score_0.01"],
     "validationFailure": {
       "failedAt": "2025-08-01T15:03:40.205455",
       "csvSource": "SYNAGIS 50MG/0.5ML 1 VIAL",
@@ -91,18 +87,19 @@
       "reason": "insufficient_match_score",
       "recommendedAction": "manual_review_required"
     },
-    "availableApiOptions": [
-      {
-        "name": "synagis",
-        "registration": "155 56 34505 00",
-        "form": ""
-      }
-    ],
     "smartValidation": {
       "extractedFrom": "SYNAGIS 50MG/0.5ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:20:26.721618",
+      "confidence": 95,
+      "reasoning": "The brand name \"synagis\" matches, the registration number matches, and the strength and formulation are compatible.",
+      "selectedOption": 1,
+      "selectedRegistration": "155 56 34505 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

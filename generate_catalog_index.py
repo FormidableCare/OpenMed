@@ -111,8 +111,6 @@ def extract_medication_data(medication: Dict[str, Any]) -> List[Dict[str, Any]]:
             "package_name": package.get("name", ""),
             "manufacturer_name": package.get("manufacturer", {}).get("name", ""),
             "manufacturer_country": package.get("manufacturer", {}).get("countryOfOrigin", ""),
-            "strength_value": package.get("strength", {}).get("value", ""),
-            "strength_unit": package.get("strength", {}).get("unit", ""),
             "quantity_value": package.get("quantity", {}).get("value", ""),
             "quantity_unit": package.get("quantity", {}).get("unit", ""),
             "packaging_description": package.get("packagingDescription", ""),

@@ -1,10 +1,10 @@
 {
   "catalogId": "7c1c58d5-41e3-4ea4-97f3-9fd6d2733e34",
-  "name": "CEFOVIT 250",
+  "name": "CEFOVIT FORTE 500",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "026 84 25145 00",
+  "registrationNumber": "026 85 25146 00",
   "treatmentDescriptions": "Antibiotic for the treatment of infections caused by micro-organisms sensitive to Cephalexin.",
   "termsOfIssue": "Prescription required",
   "form": "capsules",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.582972",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CEFOVIT 250",
-        "registration": "026 84 25145 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE 500",
-        "registration": "026 85 25146 00",
-        "form": ""
-      },
-      {
-        "name": "CEFOVIT FORTE SUSPENSION",
-        "registration": "026 83 25148 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:36:23.905227",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CEFOVIT 250MG 10CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:36:23.905235",
+      "confidence": 95,
+      "reasoning": "The option 2, CEFOVIT FORTE 500, closely matches the medication CEFOVIT 250 in terms of brand name similarity and strength compatibility.",
+      "selectedOption": 2,
+      "selectedRegistration": "026 85 25146 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

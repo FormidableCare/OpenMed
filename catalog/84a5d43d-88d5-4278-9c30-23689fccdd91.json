@@ -56,22 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.053054",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NEOSTIGMINE -  HAMELN 2.5 MG/ML INJECTION",
-        "registration": "151 23 33874 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:05.403616",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NEOSTIGMINE 2.5MG/ML 50AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:05.403633",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, formulation, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "151 23 33874 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

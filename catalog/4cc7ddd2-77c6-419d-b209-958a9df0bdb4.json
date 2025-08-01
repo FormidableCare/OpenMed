@@ -1,10 +1,10 @@
 {
   "catalogId": "4cc7ddd2-77c6-419d-b209-958a9df0bdb4",
-  "name": "FUCIDIN",
+  "name": "FUCIDIN H",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "100 49 24510 00",
+  "registrationNumber": "129 68 29439 00",
   "treatmentDescriptions": "For the treatment of infections caused by Staphylococcus.",
   "termsOfIssue": "Prescription required",
   "form": "tablets",
@@ -65,32 +65,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.196522",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "FUCIDIN",
-        "registration": "100 49 24510 00",
-        "form": ""
-      },
-      {
-        "name": "FUCIDIN H",
-        "registration": "129 68 29439 00",
-        "form": ""
-      },
-      {
-        "name": "FUCIDIN OINTMENT",
-        "registration": "056 28 26528 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:29.026881",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "FUCIDIN CREAM 30GR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.18333333333333332,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:29.026887",
+      "confidence": 95,
+      "reasoning": "The option 2, FUCIDIN H, closely matches the medication FUCIDIN in terms of brand name similarity. Both have the same strength of 30.0g and are in cream formulation. The registration numbers are different, but this could be due to regional variations or different formulations of the same active ingredient.",
+      "selectedOption": 2,
+      "selectedRegistration": "129 68 29439 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

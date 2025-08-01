@@ -1,10 +1,10 @@
 {
   "catalogId": "27428aae-961d-4483-a97a-8291eb1b6e2d",
-  "name": "ONGENTYS 50 MG",
+  "name": "ENTACAPONE MEDOCHEMIE",
   "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
-  "registrationNumber": "170 17 37081 99",
+  "registrationNumber": "160 98 35150 00",
   "treatmentDescriptions": "ONGENTYS is indicated as adjunctive therapy to preparations of levodopa/ DOPA decarboxylase inhibitors (DDCI) in adult patients with Parkinson’s disease and end-of-dose motor fluctuations who cannot be stabilised on those combinations.",
   "termsOfIssue": "",
   "form": "capsule, hard",
@@ -60,32 +60,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.518437",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ONGENTYS 50 MG",
-        "registration": "170 17 37081 99",
-        "form": ""
-      },
-      {
-        "name": "ENTACAPONE MEDOCHEMIE",
-        "registration": "160 98 35150 00",
-        "form": ""
-      },
-      {
-        "name": "APO-GO",
-        "registration": "128 26 30682 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:34.458695",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "APO PRAZOCIN 5MG TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:34.458701",
+      "confidence": 95,
+      "reasoning": "The medication ONGENTYS 50 MG matches with the option ENTACAPONE MEDOCHEMIE in terms of strength (50 mg), formulation, and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "160 98 35150 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

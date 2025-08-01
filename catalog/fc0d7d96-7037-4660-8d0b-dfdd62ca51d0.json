@@ -1,10 +1,10 @@
 {
   "catalogId": "fc0d7d96-7037-4660-8d0b-dfdd62ca51d0",
-  "name": "XYNTHA 1000 IU",
+  "name": "XYNTHA  500 IU",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "137 80 31593 00",
+  "registrationNumber": "137 79 31592 00",
   "treatmentDescriptions": "Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency)",
   "termsOfIssue": "Prescription required",
   "form": "powder and solvent for solution for injection",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.022540",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "XYNTHA 1000 IU",
-        "registration": "137 80 31593 00",
-        "form": ""
-      },
-      {
-        "name": "XYNTHA 2000 IU",
-        "registration": "137 81 31594 00",
-        "form": ""
-      },
-      {
-        "name": "XYNTHA  500 IU",
-        "registration": "137 79 31592 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:42:26.637147",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "XYNTHA 250 IU 1VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.22000000000000003,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:42:26.637152",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication XYNTHA 1000 IU in terms of brand name similarity, strength compatibility (500 IU vs. 1000 IU), and registration number.",
+      "selectedOption": 3,
+      "selectedRegistration": "137 79 31592 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

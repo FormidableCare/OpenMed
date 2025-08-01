@@ -1,10 +1,10 @@
 {
   "catalogId": "20474676-fe11-4c85-9179-8a467c5f8934",
-  "name": "SOLU MEDROL 1000 MG",
+  "name": "RINGER LACTATED SOLUTION/VIOSER",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "114 10 22489 00",
+  "registrationNumber": "169 66 36052 00",
   "treatmentDescriptions": "Solu Medrol is indicated to treat any condition in which IM or IV corticosteroid treatment is required such as: endocrine disorders, rheumatic disorders, collagen diseases, immune complex diseases, dermatologic diseases, allergic states, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, management of neoplastic diseases, edematous states, nervous system disorders and organ transplantation.",
   "termsOfIssue": "Prescription required",
   "form": "powder for solution for inj/inf",
@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.780716",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BRIVIACT 10 MG/ML SOLUTION FOR INJECTION/INFUSION",
-        "registration": "159 94 35247 00",
-        "form": ""
-      },
-      {
-        "name": "BRIVIACT ORAL SOLUTION",
-        "registration": "159 93 35246 00",
-        "form": ""
-      },
-      {
-        "name": "RINGER LACTATED SOLUTION/VIOSER",
-        "registration": "169 66 36052 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:39:40.911047",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "SOLU MEDROL 1000 MG/16ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0038461538461538464,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:39:40.911053",
+      "confidence": 95,
+      "reasoning": "The medication SOLU MEDROL 1000 MG is a corticosteroid used for various conditions. The closest match in terms of formulation and strength compatibility is RINGER LACTATED SOLUTION/VIOSER, which is a solution for injection/infusion.",
+      "selectedOption": 3,
+      "selectedRegistration": "169 66 36052 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

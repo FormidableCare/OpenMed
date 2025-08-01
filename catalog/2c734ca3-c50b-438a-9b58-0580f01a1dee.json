@@ -62,27 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.628085",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "MOVEX TABLETS",
-        "registration": "124 50 27560 00",
-        "form": ""
-      },
-      {
-        "name": "MOVEX SOLUTION",
-        "registration": "063 08 27462 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:37:20.199168",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "MOVEX SOL INHALATION 50ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:37:20.199179",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication \"MOVEX TABLETS\" in terms of brand name, formulation (tablet), and registration number. The strength of the medication is not explicitly mentioned in the options, but the formulation and brand name match, indicating a high likelihood of being the correct match.",
+      "selectedOption": 1,
+      "selectedRegistration": "124 50 27560 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

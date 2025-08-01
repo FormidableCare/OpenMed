@@ -61,22 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.516720",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "AVODART",
-        "registration": "128 27 30679 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:31.077557",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "DUTASTERIDE TEVA 0.5MG 30 CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:31.077578",
+      "confidence": 95,
+      "reasoning": "The brand name, registration number, and strength all match with the provided medication details for Avodart.",
+      "selectedOption": 1,
+      "selectedRegistration": "128 27 30679 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

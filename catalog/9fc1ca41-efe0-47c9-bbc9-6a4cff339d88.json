@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.363399",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LOTAN 100",
-        "registration": "139 36 31707 01",
-        "form": ""
-      },
-      {
-        "name": "LOTAN 12.5",
-        "registration": "137 93 31629 01",
-        "form": ""
-      },
-      {
-        "name": "LOTAN 50",
-        "registration": "137 94 31630 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:26.027912",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LOTAN 100MG 30TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:26.027924",
+      "confidence": 95,
+      "reasoning": "The medication LOTAN 100 matches with Option 1 as they have the same brand name, strength of 100.0mg, and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "139 36 31707 01",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

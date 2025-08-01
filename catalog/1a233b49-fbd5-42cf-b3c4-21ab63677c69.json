@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.465874",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "NOVOMIX 30 FLEXPEN",
-        "registration": "127 24 30599 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:50:40.143179",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "NOVOMIX 50 FLEXPEN 5X3ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.020000000000000004,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:50:40.143190",
+      "confidence": 95,
+      "reasoning": "The medication name, strength, and registration number all match with the provided medication details.",
+      "selectedOption": 1,
+      "selectedRegistration": "127 24 30599 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

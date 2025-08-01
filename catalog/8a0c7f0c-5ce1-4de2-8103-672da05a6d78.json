@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.519390",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PROGRAF 0.5 MG",
-        "registration": "122 07 30215 00",
-        "form": ""
-      },
-      {
-        "name": "PROGRAF 1 MG",
-        "registration": "107 69 29158 00",
-        "form": ""
-      },
-      {
-        "name": "PROGRAF 5 MG",
-        "registration": "107 70 29159 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:51:36.108189",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PROGRAF 5 MG/ML 10 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:51:36.108201",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Prograf 0.5 mg in terms of brand name, strength (0.5 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "122 07 30215 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

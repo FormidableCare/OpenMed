@@ -58,32 +58,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.372042",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "HALDOL 2 MG/ML DROPS",
-        "registration": "029 70 25163 00",
-        "form": ""
-      },
-      {
-        "name": "HALDOL 5 MG",
-        "registration": "025 56 21624 00",
-        "form": ""
-      },
-      {
-        "name": "HALDOL AMPOULES",
-        "registration": "024 04 21146 01",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:48:38.985327",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "HALDOL DECANOATE 100MG/ML 5 AMP",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:48:38.985343",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication HALDOL 2 MG/ML DROPS in terms of brand name, strength (2 mg/ml), and formulation (drops). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "029 70 25163 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

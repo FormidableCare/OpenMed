@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.215373",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ENBREL 25 MG SOLUTION FOR INJECTION",
-        "registration": "142 52 31949 00",
-        "form": ""
-      },
-      {
-        "name": "ENBREL 50 MG SOLUTION FOR INJECTION",
-        "registration": "142 53 31950 00",
-        "form": ""
-      },
-      {
-        "name": "ENBREL POWDER AND SOLVENT",
-        "registration": "119 12 30000 06",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:50.786479",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ENBREL 25MG/DOSE 4 PRE-FILLED SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005000000000000001,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:50.786489",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication ENBREL 25 MG SOLUTION FOR INJECTION in terms of brand name, strength (25 mg), and formulation (solution for injection). The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "142 52 31949 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

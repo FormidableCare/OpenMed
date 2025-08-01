@@ -1,10 +1,10 @@
 {
   "catalogId": "73e67776-8af4-48bc-8816-df023b1fd819",
-  "name": "OPTALGIN TABLETS",
+  "name": "OPTALGIN TEVA",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "016 87 20611 12",
+  "registrationNumber": "160 24 34798 00",
   "treatmentDescriptions": "Relief of moderate to severe pain as in headache, toothache, dysmenorrhea andfor high fever that does not respond to other measures.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.073978",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "OPTALGIN TABLETS",
-        "registration": "016 87 20611 12",
-        "form": ""
-      },
-      {
-        "name": "OPTALGIN TEVA",
-        "registration": "160 24 34798 00",
-        "form": ""
-      },
-      {
-        "name": "OPTALGIN ® DROPS NEW",
-        "registration": "164 35 35644 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:43:24.200267",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "OPTALGIN 500MG 42CAPL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:43:24.200275",
+      "confidence": 95,
+      "reasoning": "The option \"OPTALGIN TEVA\" closely matches the medication \"OPTALGIN TABLETS\" in terms of brand name similarity and formulation (tablet). The strength of the medication (500.0mg) is also compatible with the option.",
+      "selectedOption": 2,
+      "selectedRegistration": "160 24 34798 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

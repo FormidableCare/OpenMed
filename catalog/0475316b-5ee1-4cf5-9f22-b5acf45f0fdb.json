@@ -70,22 +70,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.700220",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TREVICTA",
-        "registration": "157 43 34606 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:28.927691",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TREVICTA E.R SUSP FOR INJ 525MG/2.625ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:28.927697",
+      "confidence": 95,
+      "reasoning": "The medication name, TREVICTA, and the registration number match. The strength of 525.0mg also aligns with the provided information.",
+      "selectedOption": 1,
+      "selectedRegistration": "157 43 34606 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

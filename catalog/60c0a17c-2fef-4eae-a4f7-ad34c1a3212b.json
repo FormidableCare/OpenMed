@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.430828",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ABILIFY  MAINTENA 300 MG",
-        "registration": "153 68 34089 00",
-        "form": ""
-      },
-      {
-        "name": "ABILIFY  MAINTENA 400 MG",
-        "registration": "153 69 34094 02",
-        "form": ""
-      },
-      {
-        "name": "ARIPIPRAZOLE MEDO 10 MG",
-        "registration": "179 15 37686 99",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:49:55.680686",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "ABILIFY MAINTENA 400 MG/PREFILLED SYR",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.03333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:49:55.680703",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication Abilify Maintena 300 mg in terms of brand name, strength (300 mg), and registration number.",
+      "selectedOption": 1,
+      "selectedRegistration": "153 68 34089 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
   "catalogId": "446c5b30-8f68-4d74-9b2e-f79d976392f6",
-  "name": "EFEXOR XR 150",
+  "name": "EFEXOR XR 75",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "111 18 29395 00",
+  "registrationNumber": "111 17 29394 00",
   "treatmentDescriptions": "For the treatment of depression.   Maintenance of recurrent depression.   Generalized anxiety disorder (GAD) - short term and long-term.   Social anxiety Disorder (SAD).",
   "termsOfIssue": "Prescription required",
   "form": "capsules extended release",
@@ -64,32 +64,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.319987",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "EFEXOR XR 150",
-        "registration": "111 18 29395 00",
-        "form": ""
-      },
-      {
-        "name": "EFEXOR XR 150",
-        "registration": "111 18 29395 01",
-        "form": ""
-      },
-      {
-        "name": "EFEXOR XR 75",
-        "registration": "111 17 29394 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:47:49.623888",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "EFEXOR XR 75MG 28 SR CAPS",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.014285714285714285,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:47:49.623898",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication EFEXOR XR 150 in terms of brand name similarity, strength compatibility (75mg), and formulation (sustained-release). The only difference is the strength, which can be attributed to a potential error in the provided information.",
+      "selectedOption": 3,
+      "selectedRegistration": "111 17 29394 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

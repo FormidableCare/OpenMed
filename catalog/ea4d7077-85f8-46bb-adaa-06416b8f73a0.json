@@ -71,32 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.219097",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "ANAFRANIL 25 MG",
-        "registration": "108 06 24600 00",
-        "form": ""
-      },
-      {
-        "name": "ANAFRANIL SR 75 MG TABLETS",
-        "registration": "053 91 26407 00",
-        "form": ""
-      },
-      {
-        "name": "PRAMIN INJECTION",
-        "registration": "051 52 24303 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:52.440107",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PRAMIN 5AMP 10MG/2ML",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.2,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:52.440112",
+      "confidence": 95,
+      "reasoning": "The medication ANAFRANIL 25 MG matches option 1 in terms of brand name, strength (25 mg), and formulation. The registration number also matches.",
+      "selectedOption": 1,
+      "selectedRegistration": "108 06 24600 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.691650",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "L-THYROXINE SERB",
-        "registration": "165 27 35356 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:23.367851",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEVO 500MG 5TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:23.367860",
+      "confidence": 95,
+      "reasoning": "The medication name, L-THYROXINE SERB, strength (500.0mg), and registration number (165 27 35356 00) all match with the provided option 1.",
+      "selectedOption": 1,
+      "selectedRegistration": "165 27 35356 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

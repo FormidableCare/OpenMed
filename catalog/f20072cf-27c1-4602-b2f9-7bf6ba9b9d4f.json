@@ -1,10 +1,10 @@
 {
   "catalogId": "f20072cf-27c1-4602-b2f9-7bf6ba9b9d4f",
-  "name": "BENEFIX 1000 IU/VIAL",
+  "name": "BENEFIX 250 IU/VIAL",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "120 57 30123 01",
+  "registrationNumber": "120 55 30121 00",
   "treatmentDescriptions": "Benefix is indicated for the control and prevention of hemorrhagic episodes in patients with hemophilia B (congenital factor IX deficiency or christmas disease), including control and prevention of bleeding in surgical settings, in previously treated patients (PTP) and previously untreated patients (PUP). Benefix  is not indicated for the treatment of other factor deficiencies (e.g. factors II,VII, and X)' nor for the treatment of hemophilia A patients with inhibitors to factor VIII, nor for the reversal of coumarin-induced anticoagulation, nor for the treatment of bleeding due to low levels of liver-dependent coagulation factors.",
   "termsOfIssue": "Prescription required",
   "form": "lyophilized powder for injection",
@@ -63,32 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.184475",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "BENEFIX 1000 IU/VIAL",
-        "registration": "120 57 30123 01",
-        "form": ""
-      },
-      {
-        "name": "BENEFIX 2000 IU/VIAL",
-        "registration": "142 66 31926 00",
-        "form": ""
-      },
-      {
-        "name": "BENEFIX 250 IU/VIAL",
-        "registration": "120 55 30121 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:45:11.722551",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "BENEFIX 500 IU/VIAL I.V 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.21875,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:45:11.722562",
+      "confidence": 95,
+      "reasoning": "The option 3 matches the medication BENEFIX 1000 IU/VIAL in terms of brand name similarity, strength compatibility, and formulation.",
+      "selectedOption": 3,
+      "selectedRegistration": "120 55 30121 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

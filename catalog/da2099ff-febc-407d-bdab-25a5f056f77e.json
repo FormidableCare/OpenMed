@@ -71,22 +71,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.827351",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CAMPTO",
-        "registration": "106 12 29047 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:18.257492",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CAMPTO 100MG/5ML 1 VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.010000000000000002,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:18.257499",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with high confidence.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 12 29047 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

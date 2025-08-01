@@ -56,27 +56,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.532360",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "LEMOCIN CHERRY",
-        "registration": "117 79 29907 00",
-        "form": ""
-      },
-      {
-        "name": "LEMOCIN LEMON",
-        "registration": "117 80 29908 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:31:32.690839",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "LEMOCIN LEMON 50 LOZ",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.025,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:31:32.690849",
+      "confidence": 95,
+      "reasoning": "The brand name \"LEMOCIN CHERRY\" matches closely with \"LEMOCIN CHERRY\" in the options. The registration numbers also match, indicating a high likelihood of being the same medication.",
+      "selectedOption": 1,
+      "selectedRegistration": "117 79 29907 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

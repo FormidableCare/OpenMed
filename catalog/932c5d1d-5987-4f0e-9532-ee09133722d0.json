@@ -61,27 +61,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.690653",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "IFO-CELL 2 G",
-        "registration": "155 73 34214 00",
-        "form": ""
-      },
-      {
-        "name": "IFO-CELL 5 G",
-        "registration": "155 74 34216 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:19.961662",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "IFO-CELL 40MG/ML (IFOSFAMIDE 40MG/ML) VIAL",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:19.961678",
+      "confidence": 95,
+      "reasoning": "The option 1 matches the medication IFO-CELL 2 G in terms of brand name, strength (2.0g), and registration number (155 73 34214 00).",
+      "selectedOption": 1,
+      "selectedRegistration": "155 73 34214 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

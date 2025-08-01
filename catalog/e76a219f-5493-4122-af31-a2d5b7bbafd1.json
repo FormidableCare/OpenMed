@@ -1,10 +1,10 @@
 {
   "catalogId": "e76a219f-5493-4122-af31-a2d5b7bbafd1",
-  "name": "TRAMADEX OD 100",
+  "name": "TRAMADEX OD 200",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "139 25 31580 00",
+  "registrationNumber": "139 26 31581 00",
   "treatmentDescriptions": "Treatment of moderate to severe pain.",
   "termsOfIssue": "Prescription required",
   "form": "tablets prolonged release",
@@ -62,32 +62,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.682453",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "TRAMADEX OD 100",
-        "registration": "139 25 31580 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 200",
-        "registration": "139 26 31581 00",
-        "form": ""
-      },
-      {
-        "name": "TRAMADEX OD 300",
-        "registration": "139 27 31582 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:09.150161",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "TRAMADEX OD 200MG 10 P.R.TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.0125,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:09.150168",
+      "confidence": 95,
+      "reasoning": "The option 2, TRAMADEX OD 200, closely matches the medication with the same brand name, similar strength (200mg), and registration number.",
+      "selectedOption": 2,
+      "selectedRegistration": "139 26 31581 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

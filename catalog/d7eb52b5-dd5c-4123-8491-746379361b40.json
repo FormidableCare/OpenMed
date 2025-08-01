@@ -1,10 +1,10 @@
 {
   "catalogId": "d7eb52b5-dd5c-4123-8491-746379361b40",
-  "name": "KALBETEN TABLETS",
+  "name": "KALBETEN FORTE CAPLETS",
   "status": "draft",
   "category": "off-the-counter",
   "registrationValidity": "valid",
-  "registrationNumber": "114 90 29652 00",
+  "registrationNumber": "140 95 31841 00",
   "treatmentDescriptions": "Kalbeten Tablets is indicated for relief of diarrhea, nausea, flatulence, convulsive stomach pains, upset stomach, indigestion. Kalbeten Tablets is indicated as a preventative treatment of traveler's diarrhea.",
   "termsOfIssue": "",
   "form": "tablets",
@@ -51,32 +51,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:51.149935",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "KALBETEN TABLETS",
-        "registration": "114 90 29652 00",
-        "form": ""
-      },
-      {
-        "name": "KALBETEN FORTE CAPLETS",
-        "registration": "140 95 31841 00",
-        "form": ""
-      },
-      {
-        "name": "KALBETEN FORTE SUSPENSION",
-        "registration": "131 72 30868 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:44:24.712173",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "KALBETEN 10TAB",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.016666666666666666,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:44:24.712184",
+      "confidence": 95,
+      "reasoning": "The option 2, \"KALBETEN FORTE CAPLETS,\" closely matches the medication \"KALBETEN TABLETS\" in terms of brand name similarity, formulation (tablet vs. caplet), and registration numbers.",
+      "selectedOption": 2,
+      "selectedRegistration": "140 95 31841 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

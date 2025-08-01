@@ -1,10 +1,10 @@
 {
   "catalogId": "01169ab9-e784-48da-b361-d46ef65e3975",
-  "name": "PLEGRIDY 125",
+  "name": "PLEGRIDY 94",
   "status": "draft",
   "category": "prescription",
   "registrationValidity": "valid",
-  "registrationNumber": "155 04 34292 00",
+  "registrationNumber": "155 03 34291 00",
   "treatmentDescriptions": "Plegridy is indicated in adult patients for the treatment of relapsing remitting multiple sclerosis",
   "termsOfIssue": "Prescription required",
   "form": "solution for injection",
@@ -67,32 +67,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.837632",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "PLEGRIDY 125",
-        "registration": "155 04 34292 00",
-        "form": ""
-      },
-      {
-        "name": "PLEGRIDY 63",
-        "registration": "155 02 34287 00",
-        "form": ""
-      },
-      {
-        "name": "PLEGRIDY 94",
-        "registration": "155 03 34291 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:40:29.210060",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "PLEGRIDY 125MCG/0.5ML 2 PRE FILLED PEN",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.005555555555555556,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:40:29.210066",
+      "confidence": 95,
+      "reasoning": "The option 3, PLEGRIDY 94, closely matches the medication PLEGRIDY 125 in terms of brand name similarity and strength compatibility. The only difference is the strength value, which could be a minor discrepancy or a different dosage form of the same medication.",
+      "selectedOption": 3,
+      "selectedRegistration": "155 03 34291 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }

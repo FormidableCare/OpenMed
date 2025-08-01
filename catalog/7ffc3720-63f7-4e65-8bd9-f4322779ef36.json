@@ -63,22 +63,21 @@
   ],
   "metadata": {
     "version": "1.5",
-    "lastUpdated": "2025-08-01T18:03:50.681999",
-    "tags": [
-      "needs_manual_review"
-    ],
-    "availableApiOptions": [
-      {
-        "name": "CAMPTO",
-        "registration": "106 12 29047 00",
-        "form": ""
-      }
-    ],
+    "lastUpdated": "2025-08-01T18:38:07.302394",
+    "tags": [],
     "smartValidation": {
       "extractedFrom": "CAMPTO 300MG IV SOL FOR INF",
       "processedBy": "smart_validation",
       "bestMatchScore": 0.008333333333333333,
       "status": "failed_match"
+    },
+    "aiResolution": {
+      "resolvedAt": "2025-08-01T18:38:07.302407",
+      "confidence": 95,
+      "reasoning": "The medication name, registration number, and strength all match with the provided details.",
+      "selectedOption": 1,
+      "selectedRegistration": "106 12 29047 00",
+      "method": "openai_gpt3.5_turbo"
     }
   }
 }
