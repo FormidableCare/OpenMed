@@ -1,7 +1,7 @@
 {
   "catalogId": "9c3dd2d6-7b41-4b64-af1d-c42db74e469a",
   "name": "UMAN ALBUMIN",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "143 85 31992 00",
@@ -22,13 +22,13 @@
   },
   "contraindications": "",
   "sideEffect": "",
-  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום ",
+  "warnings": "תרופה מוגבלת לשימוש בבתי חולים או אשפוז יום",
   "alternativeMedications": [],
   "packaging": [
     {
       "name": "ALBUMIN 20% SOL. FOR INJ. 100ML",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -49,15 +49,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:07:36.762761"
+    "lastUpdated": "2025-08-01T12:18:43.839420"
   }
 }

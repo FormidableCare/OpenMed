@@ -1,7 +1,7 @@
 {
   "catalogId": "781b46b3-26e8-41cb-b105-7d31ec13806c",
   "name": "HEPARIN SODIUM B.BRAUN 5000 IU/ML",
-  "status": "",
+  "status": "draft",
   "category": "29C",
   "registrationValidity": "valid",
   "registrationNumber": "172 47 36469 00",
@@ -28,7 +28,7 @@
     {
       "name": "HEPARIN 1000IU/500ML IN 0.9%SOD.CHL 500ML",
       "manufacturer": {
-        "name": NaN,
+        "name": "",
         "countryOfOrigin": "IL"
       },
       "strength": {
@@ -48,15 +48,15 @@
       "manufacturersAdministrationRecommendation": "",
       "pricing": {
         "currency": "ILS",
-        "maxWholesalePrice": NaN,
-        "retailMargin": NaN,
-        "maxRetailPrice": NaN,
-        "maxPriceWithVAT": NaN
+        "maxWholesalePrice": "",
+        "retailMargin": "",
+        "maxRetailPrice": "",
+        "maxPriceWithVAT": ""
       }
     }
   ],
   "metadata": {
     "version": "1.4",
-    "lastUpdated": "2025-08-01T12:12:07.835423"
+    "lastUpdated": "2025-08-01T12:18:43.614732"
   }
 }
